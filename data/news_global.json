@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T21:15:27.063895+00:00",
+  "updated": "2026-09-26T21:25:23.688919+00:00",
   "items": [
     {
       "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
@@ -48,6 +48,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "28c67da336fc4952f780051d"
+    },
+    {
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "url": "https://bbc.co.uk/sport/football/articles/ckddvv5dn4eyo",
+      "source": "BBC World",
+      "published": "2026-09-26T19:59:00+00:00",
+      "retrieved_at": "2026-09-26T21:25:17.243997+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5ebba77455d9d2cacc5aeb93"
     },
     {
       "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "224a2b1a21d6a7440fe514c3"
-    },
-    {
-      "title": "Pakistan: Khan family arrests raise stakes ahead of protests",
-      "url": "https://dw.com/en/pakistan-khan-family-arrests-raise-stakes-ahead-of-protests/a-79392147",
-      "source": "DW",
-      "published": "2026-09-23T13:39:00+00:00",
-      "retrieved_at": "2026-09-24T15:32:01.145931+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The sons of Pakistan's jailed former Prime Minister Imran Khan told DW their father is in ill health while being isolated from family and doctors. Other relatives have been detained ahead of a planned opposition protest.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "44a4e8fe5fb046faea12aa28"
     }
   ],
   "unverified_history": [
