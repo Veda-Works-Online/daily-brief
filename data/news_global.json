@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-26T22:10:25.823103+00:00",
+  "updated": "2026-09-26T22:20:25.740220+00:00",
   "items": [
+    {
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "url": "https://bbc.co.uk/news/articles/cqgmrr9ekr7ko",
+      "source": "BBC World",
+      "published": "2026-09-26T22:15:59+00:00",
+      "retrieved_at": "2026-09-26T22:20:19.772243+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Iran's foreign minister acknowledges Trump's comments, but adds that Tehran is waiting for the \"definitive views\" of mediators.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d082d0e8e9d8122fdc386a67"
+    },
     {
       "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
       "url": "https://aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars",
@@ -272,22 +288,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4f8934cbf731fea4a67d316f"
-    },
-    {
-      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "url": "https://bbc.co.uk/news/articles/cqgmrr9ekr7ko",
-      "source": "BBC World",
-      "published": "2026-09-26T16:16:29+00:00",
-      "retrieved_at": "2026-09-26T16:19:29.434494+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The US president says Tehran had only put forward the proposal because it is losing the war.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d082d0e8e9d8122fdc386a67"
     },
     {
       "title": "Jerusalem Daily: violence continues as the world watches the UNGA",
