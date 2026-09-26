@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-26T20:25:19.409978+00:00",
+  "updated": "2026-09-26T21:05:13.730099+00:00",
   "items": [
+    {
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs",
+      "source": "TechCrunch AI",
+      "published": "2026-09-26T21:02:06+00:00",
+      "retrieved_at": "2026-09-26T21:05:08.210175+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bd49f6435dfd8974245601c3"
+    },
     {
       "title": "TikTok agrees to pay at least $100M in Alabama settlement",
       "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4c76209173ab789f45bdd4d8"
-    },
-    {
-      "title": "Researchers used Claude to hack OpenAI",
-      "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai",
-      "source": "Ars Technica AI",
-      "published": "2026-09-18T13:30:12+00:00",
-      "retrieved_at": "2026-09-18T13:45:55.032399+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b2e6fe29364e0184ca931ec1"
     }
   ],
   "unverified_history": [
