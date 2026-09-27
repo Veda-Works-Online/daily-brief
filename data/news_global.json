@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T05:26:14.175036+00:00",
+  "updated": "2026-09-27T05:51:10.344587+00:00",
   "items": [
     {
       "title": "Ethiopia’s army promises restraint amid fears of new civil war",
@@ -48,6 +48,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8dbb3cde0968f763ab7d12cf"
+    },
+    {
+      "title": "Iran says it will wait for official US response after Trump rejects Strait of Hormuz proposal",
+      "url": "https://bbc.co.uk/news/articles/cmvgyyw2jeego",
+      "source": "BBC World",
+      "published": "2026-09-27T02:16:52+00:00",
+      "retrieved_at": "2026-09-27T05:51:04.310434+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US president earlier said that Tehran only made the proposal to open the strait within seven days because \"they're losing so badly\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bbe1be21ecd5b88cc687abab"
     },
     {
       "title": "Did the biggest week of diplomacy make headway in ending the US-Iran war?",
@@ -144,6 +160,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d082d0e8e9d8122fdc386a67"
+    },
+    {
+      "title": "Young people in China are fangirling over a professor who gets their anxiety",
+      "url": "https://bbc.co.uk/news/articles/cq70dgdndr46o",
+      "source": "BBC World",
+      "published": "2026-09-26T22:02:18+00:00",
+      "retrieved_at": "2026-09-27T05:51:04.310705+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "China's economy and tech have developed at breakneck speed, but there is plenty worrying its Gen Z.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "514dd9c17640644ae9686650"
     },
     {
       "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cf7493b61e30a6738f1821f8"
-    },
-    {
-      "title": "Russia’s attacks on Ukraine kill six after Zelenskyy-Trump talks",
-      "url": "https://aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T14:58:23+00:00",
-      "retrieved_at": "2026-09-23T15:07:06.282498+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Ukraine's Zelenskyy met Trump on Tuesday and discussed a potential bilateral ceasefire on energy-related targets.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8ab96b0f178ad131076d4995"
-    },
-    {
-      "title": "Trump pushes Russia-Ukraine ‘energy truce’: Can it work?",
-      "url": "https://aljazeera.com/news/2026/9/23/trump-pushes-russia-ukraine-energy-truce-can-it-work",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T14:49:04+00:00",
-      "retrieved_at": "2026-09-23T15:07:06.282546+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Talks of a possible halt in attacks on energy facilities come as strikes on such targets continue unabated.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0e85a813727f9fb31e11523e"
     }
   ],
   "unverified_history": [
