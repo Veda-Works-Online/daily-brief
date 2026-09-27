@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-27T03:16:01.330840+00:00",
+  "updated": "2026-09-27T10:21:56.207482+00:00",
   "items": [
+    {
+      "title": "You Don’t Need to Pay for Distraction-Blocking Software",
+      "url": "https://wired.com/story/you-dont-need-to-pay-for-distraction-blocking-software",
+      "source": "Wired",
+      "published": "2026-09-27T10:15:00+00:00",
+      "retrieved_at": "2026-09-27T10:21:51.736085+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "These free iOS and Android apps create the physical friction you need to put down your phone.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f1219c5f3d431de7ff33201d"
+    },
     {
       "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
       "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8a391046235b54eeeddb1c11"
-    },
-    {
-      "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai",
-      "source": "TechCrunch AI",
-      "published": "2026-09-18T14:00:14+00:00",
-      "retrieved_at": "2026-09-18T17:17:51.491370+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dd63fd6e34bcf7edb5bc32b6"
     }
   ],
   "unverified_history": [
