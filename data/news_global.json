@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-27T15:52:45.474807+00:00",
+  "updated": "2026-09-27T16:02:49.195484+00:00",
   "items": [
+    {
+      "title": "Venezuela releases dozens of political prisoners as election calls grow",
+      "url": "https://bbc.co.uk/news/articles/c620lrw2xr12o",
+      "source": "BBC World",
+      "published": "2026-09-27T15:56:25+00:00",
+      "retrieved_at": "2026-09-27T16:02:42.868352+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "51d35b5d41a5502acb961770"
+    },
     {
       "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
       "url": "https://aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5cab7273d5d5ae087ebedd64"
-    },
-    {
-      "title": "Board of Peace plans $2.4bn Gaza reconstruction as Israel kills seven",
-      "url": "https://aljazeera.com/news/2026/9/23/board-of-peace-plans-2-4bn-gaza-reconstruction-as-israel-kills-seven",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T17:45:03+00:00",
-      "retrieved_at": "2026-09-23T18:02:53.968014+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Violations against Palestinians in Gaza continue even as world leaders call on Israel to adhere to ceasefire deal.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b220183118bab66f8782ab45"
     }
   ],
   "unverified_history": [
