@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T21:49:45.013309+00:00",
+  "updated": "2026-09-27T23:54:51.442142+00:00",
   "items": [
     {
       "title": "Ireland defeats Israel in controversial UEFA Nations League match",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "80f22c707c92688fb250a9eb"
+    },
+    {
+      "title": "Inside Yemen's front-line city as Houthis battle for control",
+      "url": "https://bbc.co.uk/news/articles/cw98005ndz7no",
+      "source": "BBC World",
+      "published": "2026-09-27T21:16:31+00:00",
+      "retrieved_at": "2026-09-27T23:54:45.387808+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f4ba6840ed4f699b3118c9ce"
     },
     {
       "title": "Israeli strikes continue in southern Lebanon despite ceasefire",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1ffa35913c2266fed4663b9d"
-    },
-    {
-      "title": "Trump administration invites Putin to attend G20 summit in Miami",
-      "url": "https://aljazeera.com/news/2026/9/23/trump-administration-invites-putin-to-attend-g20-summit-in-miami",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T20:23:31+00:00",
-      "retrieved_at": "2026-09-23T20:43:45.321901+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US Secretary of State Marco Rubio says summit would be opportunity for Russian president to engage with global leaders.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8da625c83f25fe800f957e3e"
     }
   ],
   "unverified_history": [
