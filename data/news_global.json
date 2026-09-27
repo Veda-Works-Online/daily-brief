@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T03:46:11.251674+00:00",
+  "updated": "2026-09-27T05:16:13.753836+00:00",
   "items": [
     {
       "title": "German, Russian foreign ministers hold rare talks amid rising tensions",
@@ -592,6 +592,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8bca6fc4cdf16db40259365b"
+    },
+    {
+      "title": "Russian students: Propaganda in school prepares them to die",
+      "url": "https://dw.com/en/russian-students-propaganda-in-school-prepares-them-to-die/a-79417294",
+      "source": "DW",
+      "published": "2026-09-26T11:55:00+00:00",
+      "retrieved_at": "2026-09-27T05:16:08.015370+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The Russian government wants children to learn about patriotism from an early age. DW spoke to students in Siberia about their views on propaganda at school on the war in Ukraine and their future.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4ac592c9bacc828a060387ec"
     },
     {
       "title": "Propaganda in Russian schools prepares students to die",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d80aba0d5c2e621393e76640"
-    },
-    {
-      "title": "Azerbaijan pardons Frenchman after EU lifts sanctions on Russian billionaire",
-      "url": "https://bbc.co.uk/news/articles/cwp84rrrymd0o",
-      "source": "BBC World",
-      "published": "2026-09-23T14:32:42+00:00",
-      "retrieved_at": "2026-09-23T14:52:14.626121+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Martin Ryan is pardoned months after he was jailed on charges of spying, but a second Frenchman remains in prison.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "859a6ed8e922ec87ea1b867a"
     }
   ],
   "unverified_history": [
