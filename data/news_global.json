@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-27T08:22:06.781632+00:00",
+  "updated": "2026-09-27T08:27:04.724356+00:00",
   "items": [
+    {
+      "title": "Israel’s Netanyahu criticises opposition uniting against him for election",
+      "url": "https://aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election",
+      "source": "Al Jazeera",
+      "published": "2026-09-27T08:10:22+00:00",
+      "retrieved_at": "2026-09-27T08:26:58.389922+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Five opposition leaders agree to cooperate to boost voter turnout to secure a majority in the October 27 elections.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "000ed6fd9e0e57b3a2647906"
+    },
     {
       "title": "Iran sticks to Hormuz plan after Trump rejects it",
       "url": "https://dw.com/en/iran-sticks-to-hormuz-plan-after-trump-rejects-it/a-79447432",
@@ -16,6 +32,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "28206297f98502d2a163b2d0"
+    },
+    {
+      "title": "Iceland FM hits back at Netanyahu over ‘moral cowards’ UNGA remark",
+      "url": "https://aljazeera.com/video/newsfeed/2026/9/27/iceland-fm-hits-back-at-netanyahu-over-moral-cowards-unga-remark",
+      "source": "Al Jazeera",
+      "published": "2026-09-27T08:05:09+00:00",
+      "retrieved_at": "2026-09-27T08:26:58.389950+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Iceland’s FM hit back at Netanyahu after he called diplomats who walked out of his UN address ‘moral cowards’.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2d533689ef5b48f3c8378368"
     },
     {
       "title": "No public mentions of Taiwan at official Xi and Trump meeting",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5487fad615f349ff5bd24592"
-    },
-    {
-      "title": "Who is skipping the UN General Assembly — and why",
-      "url": "https://dw.com/en/who-is-skipping-the-un-general-assembly-and-why/a-79391652",
-      "source": "DW",
-      "published": "2026-09-23T15:54:00+00:00",
-      "retrieved_at": "2026-09-23T16:57:47.814466+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Xi Jinping, Vladimir Putin, Friedrich Merz, Giorgia Meloni and Mahmoud Abbas are among more than 50 leaders who won't make it to the UN General Assembly. Their reasons range from illness and domestic affairs to holidays.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0e27f6170bc38d28c096caf9"
-    },
-    {
-      "title": "‘They kill, we are punished’: Iran calls out Western hypocrisy",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/23/they-kill-we-are-punished-iran-calls-out-western-hypocrisy",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T15:49:59+00:00",
-      "retrieved_at": "2026-09-23T16:02:51.011011+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iranian President Masoud Pezeshkian has accused Israel and the US of applying ‘double standards’.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1dcf4bb52739c4fa1e8651dc"
     }
   ],
   "unverified_history": [
