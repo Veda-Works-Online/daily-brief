@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-27T16:02:49.195484+00:00",
+  "updated": "2026-09-27T16:07:44.828679+00:00",
   "items": [
+    {
+      "title": "Switzerland rejects stricter interpretation of its neutrality",
+      "url": "https://bbc.co.uk/news/articles/cm750plvwy9vo",
+      "source": "BBC World",
+      "published": "2026-09-27T16:02:17+00:00",
+      "retrieved_at": "2026-09-27T16:07:38.827496+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e06f5d2b4d00dbe0f7ab5a7d"
+    },
     {
       "title": "Venezuela releases dozens of political prisoners as election calls grow",
       "url": "https://bbc.co.uk/news/articles/c620lrw2xr12o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c1c62311455dd507f44ed2f1"
-    },
-    {
-      "title": "Azerbaijan pardons French national Martin Ryan jailed on spy charges",
-      "url": "https://aljazeera.com/news/2026/9/23/azerbaijan-pardons-french-national-jailed-for-spying",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T17:51:29+00:00",
-      "retrieved_at": "2026-09-23T19:13:02.360240+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The move comes after the EU lifts sanctions on oligarchs following what diplomats described as pressure from Baku.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5cab7273d5d5ae087ebedd64"
     }
   ],
   "unverified_history": [
