@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-27T19:58:58.859184+00:00",
+  "updated": "2026-09-27T20:38:56.540921+00:00",
   "items": [
+    {
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump",
+      "source": "TechCrunch AI",
+      "published": "2026-09-27T20:34:28+00:00",
+      "retrieved_at": "2026-09-27T20:38:50.125823+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3b7307f781721eba74d8d662"
+    },
     {
       "title": "Can Muse overcome Meta’s trust issues?",
       "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1769543514a04e51fa2f1896"
-    },
-    {
-      "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer",
-      "source": "TechCrunch AI",
-      "published": "2026-09-18T15:22:48+00:00",
-      "retrieved_at": "2026-09-18T17:17:51.491350+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3ad620dc5866a3b25799f2b6"
     }
   ],
   "unverified_history": [
