@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-27T16:02:39.769478+00:00",
+  "updated": "2026-09-27T16:33:57.742964+00:00",
   "items": [
+    {
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment",
+      "source": "TechCrunch",
+      "published": "2026-09-27T16:30:00+00:00",
+      "retrieved_at": "2026-09-27T16:33:53.172168+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e21b787cf02d3a25fc12ee82"
+    },
     {
       "title": "TechCrunch Mobility: AV companies pick their lanes",
       "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f5b1c959d255b594d54ae14e"
-    },
-    {
-      "title": "AI PACs Have Dumped Nearly $1 Million Into an Obscure Senate Race",
-      "url": "https://wired.com/story/ai-pacs-have-dumped-nearly-1-million-into-an-obscure-senate-race",
-      "source": "Wired",
-      "published": "2026-09-18T15:00:08+00:00",
-      "retrieved_at": "2026-09-18T17:17:52.436397+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The reliably Republican South Dakota senate seat has an incumbent on the ballot. But PACs associated with AI labs and investors have already spent more money on the race than actual residents have.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dd3c940d8f88e9c32d36729a"
     }
   ],
   "unverified_history": [
