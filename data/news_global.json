@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T16:07:44.828679+00:00",
+  "updated": "2026-09-27T16:22:46.408203+00:00",
   "items": [
     {
       "title": "Switzerland rejects stricter interpretation of its neutrality",
@@ -32,6 +32,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "51d35b5d41a5502acb961770"
+    },
+    {
+      "title": "Who is Gavin Bazunu, and why is he boycotting the Ireland vs Israel match?",
+      "url": "https://aljazeera.com/sports/2026/9/27/who-is-gavin-bazunu-and-why-is-he-boycotting-the-ireland-vs-israel-match",
+      "source": "Al Jazeera",
+      "published": "2026-09-27T15:51:18+00:00",
+      "retrieved_at": "2026-09-27T16:22:40.229936+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Bazunu says his decision to withdraw was based on a 'personal belief that the killing of innocent people is wrong'.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e281c6a515eedd7e32d7ac88"
     },
     {
       "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "46b3bb8b30eff422c9beb10d"
-    },
-    {
-      "title": "Wolfsburg terminate Christian Eriksen’s contract by mutual consent",
-      "url": "https://aljazeera.com/sports/2026/9/23/wolfsburg-terminate-christian-eriksens-contract-by-mutual-consent",
-      "source": "Al Jazeera",
-      "published": "2026-09-23T18:00:59+00:00",
-      "retrieved_at": "2026-09-23T18:12:47.635535+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The 34-year-old has been recovering from an on-pitch collapse in June during a friendly between Denmark and Ukraine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c1c62311455dd507f44ed2f1"
     }
   ],
   "unverified_history": [
