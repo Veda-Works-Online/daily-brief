@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-26T22:20:25.740220+00:00",
+  "updated": "2026-09-27T00:05:24.493131+00:00",
   "items": [
+    {
+      "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+      "url": "https://aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with",
+      "source": "Al Jazeera",
+      "published": "2026-09-26T23:49:30+00:00",
+      "retrieved_at": "2026-09-27T00:05:18.280191+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Iran’s Pezeshkian says Tehran no longer trusts US talks, shortly before Trump rejected its Hormuz proposal.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "02492c27c3c39cf71b8105ea"
+    },
     {
       "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
       "url": "https://bbc.co.uk/news/articles/cqgmrr9ekr7ko",
@@ -544,22 +560,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "551ad597e19396b759d05b53"
-    },
-    {
-      "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-      "url": "https://aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington",
-      "source": "Al Jazeera",
-      "published": "2026-09-26T11:06:28+00:00",
-      "retrieved_at": "2026-09-26T11:33:47.845646+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "In an interview with Al Jazeera, the Iranian president says Qatar and Pakistan are relaying Tehran's messages to the US.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "02492c27c3c39cf71b8105ea"
     },
     {
       "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
