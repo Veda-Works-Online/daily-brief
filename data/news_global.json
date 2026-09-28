@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-28T15:07:21.998412+00:00",
+  "updated": "2026-09-28T15:27:23.540940+00:00",
   "items": [
+    {
+      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
+      "url": "https://bbc.co.uk/news/articles/c8ly40xx0dr0o",
+      "source": "BBC World",
+      "published": "2026-09-28T14:57:31+00:00",
+      "retrieved_at": "2026-09-28T15:27:18.228525+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "369a0d50677371da7c6ee494"
+    },
     {
       "title": "Why the latest action from India's youth-led 'cockroach' movement is targeting the election chief",
       "url": "https://dw.com/en/why-the-latest-action-from-india-s-youth-led-cockroach-movement-is-targeting-the-election-chief/a-79462036",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8890e5bf10e9fad30bcf14ad"
-    },
-    {
-      "title": "Outcry in Sudan as US reportedly holds al-Burhan’s UN visa over truce plan",
-      "url": "https://aljazeera.com/news/2026/9/24/outcry-in-sudan-as-us-reportedly-holds-army-chiefs-un-visa-over-ceasefire",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T06:25:08+00:00",
-      "retrieved_at": "2026-09-24T06:45:29.674313+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Media reports say US withheld army chief's visa to pressure him into accepting a 90-day truce in Sudan's civil war.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "22f7e8fba3daaee7c4882d17"
     }
   ],
   "unverified_history": [

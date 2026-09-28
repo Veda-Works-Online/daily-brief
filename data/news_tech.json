@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-28T15:02:14.371415+00:00",
+  "updated": "2026-09-28T15:27:15.159761+00:00",
   "items": [
+    {
+      "title": "Mavi bets on the AI boom creating demand for a new kind of accountant",
+      "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant",
+      "source": "TechCrunch",
+      "published": "2026-09-28T15:26:46+00:00",
+      "retrieved_at": "2026-09-28T15:27:09.924768+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Accounting staffing company Mavi emerges from stealth with $4million in funding.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5b35b2e850b0cf84c5a346b9"
+    },
     {
       "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
       "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "19ba06c1d0220a550c091cd2"
-    },
-    {
-      "title": "Anthropic is operating a lab that conducts biology experiments",
-      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments",
-      "source": "TechCrunch AI",
-      "published": "2026-09-18T23:13:31+00:00",
-      "retrieved_at": "2026-09-19T00:11:04.948850+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8630a0cabbfb3eab6318553b"
     }
   ],
   "unverified_history": [
