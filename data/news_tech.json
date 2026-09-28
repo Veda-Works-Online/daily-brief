@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-28T21:53:02.754576+00:00",
+  "updated": "2026-09-28T21:58:01.703999+00:00",
   "items": [
+    {
+      "title": "Nvidia may sell more chips in China as Jensen Huang’s influence over Trump grows",
+      "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows",
+      "source": "Ars Technica AI",
+      "published": "2026-09-28T21:49:10+00:00",
+      "retrieved_at": "2026-09-28T21:57:56.295044+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8da0394b6237830f9d1afde1"
+    },
     {
       "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
       "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation",
@@ -669,9 +686,9 @@
       "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment",
       "source": "TechCrunch AI",
       "published": "2026-09-27T16:30:00+00:00",
-      "retrieved_at": "2026-09-28T21:52:55.644335+00:00",
+      "retrieved_at": "2026-09-28T21:57:55.358759+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "\"AI is the devil and I its maker.\"",
+      "summary": "\"Saturday Night Live\" took on the AI industry’s recent warnings of doom last night, as cast member Jane Wickline offered her impression of Anthropic CEO Dario Amodei.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7aca89ef182d6e7bc5694153"
-    },
-    {
-      "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
-      "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough",
-      "source": "TechCrunch",
-      "published": "2026-09-20T16:02:00+00:00",
-      "retrieved_at": "2026-09-20T18:04:02.820777+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "76b96a2c213a04f4909491be"
     }
   ],
   "unverified_history": [
