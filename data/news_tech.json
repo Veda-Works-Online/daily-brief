@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-28T15:27:15.159761+00:00",
+  "updated": "2026-09-28T15:32:12.750299+00:00",
   "items": [
+    {
+      "title": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
+      "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation",
+      "source": "TechCrunch",
+      "published": "2026-09-28T15:29:21+00:00",
+      "retrieved_at": "2026-09-28T15:32:08.559735+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f1af80a0c15c9a6f9efb2e57"
+    },
     {
       "title": "Mavi bets on the AI boom creating demand for a new kind of accountant",
       "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant",
@@ -87,23 +104,6 @@
       "story_fingerprint": "5ef316bd9b59ba0e9617d81f"
     },
     {
-      "title": "Insuretech Outmarket raises $34.5M just months after prior round",
-      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round",
-      "source": "TechCrunch AI",
-      "published": "2026-09-28T14:00:00+00:00",
-      "retrieved_at": "2026-09-28T14:02:09.323906+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "77b7a4fbc1a3e244087a983b"
-    },
-    {
       "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
       "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2",
       "source": "TechCrunch AI",
@@ -119,6 +119,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2ed15b0246aea45d270a8e73"
+    },
+    {
+      "title": "Insuretech Outmarket raises $34.5M just months after prior round",
+      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round",
+      "source": "TechCrunch AI",
+      "published": "2026-09-28T14:00:00+00:00",
+      "retrieved_at": "2026-09-28T14:02:09.323906+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "77b7a4fbc1a3e244087a983b"
     },
     {
       "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "897aa623ded77655ef574b75"
-    },
-    {
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
-      "source": "TechCrunch AI",
-      "published": "2026-09-18T23:25:01+00:00",
-      "retrieved_at": "2026-09-19T04:41:54.824902+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "19ba06c1d0220a550c091cd2"
     }
   ],
   "unverified_history": [
