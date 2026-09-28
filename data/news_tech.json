@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-28T21:58:01.703999+00:00",
+  "updated": "2026-09-28T22:08:03.668112+00:00",
   "items": [
     {
-      "title": "Nvidia may sell more chips in China as Jensen Huang’s influence over Trump grows",
+      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
       "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows",
       "source": "Ars Technica AI",
       "published": "2026-09-28T21:49:10+00:00",
-      "retrieved_at": "2026-09-28T21:57:56.295044+00:00",
+      "retrieved_at": "2026-09-28T22:07:57.287595+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
       "isAI": true,
@@ -16,7 +16,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "8da0394b6237830f9d1afde1"
+      "story_fingerprint": "54915c08a39e6f4eeaa3f818"
     },
     {
       "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
@@ -68,6 +68,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2375ba76909bf47392023bb1"
+    },
+    {
+      "title": "New device captures carbon dioxide by pumping it across a battery",
+      "url": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery",
+      "source": "Ars Technica",
+      "published": "2026-09-28T20:31:06+00:00",
+      "retrieved_at": "2026-09-28T22:07:57.486754+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "The design requires less energy to capture CO2 than current systems.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f5a9c5caac899c6565b3cf48"
     },
     {
       "title": "Shopify opens checkout to browser-based AI agents",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "94d68ad3d150a8abc32b912a"
-    },
-    {
-      "title": "ScrollEd wants to turn textbooks into TikTok",
-      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok",
-      "source": "TechCrunch AI",
-      "published": "2026-09-20T18:00:00+00:00",
-      "retrieved_at": "2026-09-20T18:04:02.435730+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7aca89ef182d6e7bc5694153"
     }
   ],
   "unverified_history": [
