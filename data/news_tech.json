@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T13:42:13.077308+00:00",
+  "updated": "2026-09-28T13:57:15.367918+00:00",
   "items": [
     {
       "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
@@ -17,6 +17,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5344b64b8b8916c55ca06bbe"
+    },
+    {
+      "title": "Maritime intelligenc startup Quartermaster raises another $140M",
+      "url": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m",
+      "source": "TechCrunch",
+      "published": "2026-09-28T13:00:00+00:00",
+      "retrieved_at": "2026-09-28T13:57:11.178290+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "80c73bd232339cd073aacbee"
     },
     {
       "title": "Ocean surveillance startup Quartermaster raises another $140M",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5c2ae9ddb7adec8820b022a7"
-    },
-    {
-      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
-      "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion",
-      "source": "Ars Technica AI",
-      "published": "2026-09-18T19:20:50+00:00",
-      "retrieved_at": "2026-09-18T19:46:23.064218+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a5b3d0eff5f4026d986b9751"
     }
   ],
   "unverified_history": [
