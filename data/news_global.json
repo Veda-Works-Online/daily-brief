@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-28T05:05:49.240178+00:00",
+  "updated": "2026-09-28T05:15:44.434345+00:00",
   "items": [
+    {
+      "title": "Russian strikes kill eight, injure dozens across Ukraine",
+      "url": "https://aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine",
+      "source": "Al Jazeera",
+      "published": "2026-09-28T05:06:11+00:00",
+      "retrieved_at": "2026-09-28T05:15:38.515411+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Ukrainian leader Zelenskyy says Moscow launched nearly 4,000 drones, aerial bombs and missiles on Ukraine in past week.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "88f3bc62a672d06fa14a19de"
+    },
     {
       "title": "Serbia’s president resigns to run for prime minister",
       "url": "https://aljazeera.com/video/newsfeed/2026/9/28/28-09-sv-serbias-vucic-resigns-to-run-for-pm-sb",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "168e6e4d1d450d13ba9d50dc"
-    },
-    {
-      "title": "Iran war live: Tehran says it won’t be bullied, remains open for talks",
-      "url": "https://aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T00:00:00+00:00",
-      "retrieved_at": "2026-09-24T00:08:55.363122+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iranian president says Tehran will not bow to pressure while remaining open to dialogue in a defiant UN speech.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a18b9ebcf21a4a1d0db69c0d"
     }
   ],
   "unverified_history": [
