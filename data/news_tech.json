@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-28T20:28:04.396907+00:00",
+  "updated": "2026-09-28T20:43:02.373587+00:00",
   "items": [
+    {
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
+      "source": "TechCrunch AI",
+      "published": "2026-09-28T20:39:33+00:00",
+      "retrieved_at": "2026-09-28T20:42:56.038873+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2375ba76909bf47392023bb1"
+    },
     {
       "title": "Shopify opens checkout to browser-based AI agents",
       "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents",
@@ -329,9 +346,9 @@
       "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation",
       "source": "TechCrunch AI",
       "published": "2026-09-28T13:38:48+00:00",
-      "retrieved_at": "2026-09-28T13:42:07.886152+00:00",
+      "retrieved_at": "2026-09-28T20:42:56.039129+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+      "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ebb95e29f69656b8ebc84724"
-    },
-    {
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-      "source": "TechCrunch AI",
-      "published": "2026-09-19T19:57:47+00:00",
-      "retrieved_at": "2026-09-19T23:09:52.468863+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ead9ae0fd91e343da66376b8"
     }
   ],
   "unverified_history": [
