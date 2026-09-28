@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-28T17:53:07.739191+00:00",
+  "updated": "2026-09-28T18:08:11.666928+00:00",
   "items": [
+    {
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner",
+      "source": "TechCrunch AI",
+      "published": "2026-09-28T18:00:00+00:00",
+      "retrieved_at": "2026-09-28T18:08:02.743580+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "058bf0f09c61d114d8566784"
+    },
     {
       "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
       "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills",
@@ -74,9 +91,9 @@
       "url": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman",
       "source": "TechCrunch",
       "published": "2026-09-28T16:47:49+00:00",
-      "retrieved_at": "2026-09-28T16:52:10.538572+00:00",
+      "retrieved_at": "2026-09-28T18:08:03.658301+00:00",
       "feed_url": "https://techcrunch.com/feed/",
-      "summary": "An indie developer's upcoming app for the iPhone Duo is going viral for turning the new foldable into a virtual Walkman.",
+      "summary": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
       "isAI": false,
       "category": "tech",
       "relevance": "tech",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8e08f4eb4b14ff9549a7ad6e"
-    },
-    {
-      "title": "Prices go up in 7 days — get your Disrupt ticket now",
-      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now",
-      "source": "TechCrunch AI",
-      "published": "2026-09-19T14:00:00+00:00",
-      "retrieved_at": "2026-09-21T17:53:51.715781+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Current ticket pricing ends September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "32925ed18fab9c559dd687a3"
     }
   ],
   "unverified_history": [
