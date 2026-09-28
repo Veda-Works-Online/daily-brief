@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-28T19:18:20.479139+00:00",
+  "updated": "2026-09-28T19:38:15.771350+00:00",
   "items": [
+    {
+      "title": "Myanmar army air strike kills dozens in Rakhine state",
+      "url": "https://aljazeera.com/news/2026/9/28/myanmar-army-air-strike-kills-dozens-in-rakhine-state",
+      "source": "Al Jazeera",
+      "published": "2026-09-28T19:31:27+00:00",
+      "retrieved_at": "2026-09-28T19:38:10.474834+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Nearly half a million people are displaced in Rakhine as a result of the conflict between the military and rebel groups.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "544883bef096b6aff524ec59"
+    },
     {
       "title": "Why the Week’s Most Important Story Went Unwritten",
       "url": "https://warontherocks.com/why-the-weeks-most-important-story-went-unwritten",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3222adeb101433db2bd281c1"
-    },
-    {
-      "title": "Russia attacks Ukraine while Zelenskyy speaks at UNGA",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/24/russia-attacks-ukraine-while-zelenskyy-speaks-at-unga",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T11:39:16+00:00",
-      "retrieved_at": "2026-09-24T11:51:23.221284+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Russia attacks Ukraine while Zelenskyy speaks at UNGA",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7a17f1a35375ce0a85b4b926"
     }
   ],
   "unverified_history": [
