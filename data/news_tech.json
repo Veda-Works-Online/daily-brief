@@ -1,6 +1,40 @@
 {
-  "updated": "2026-09-28T10:36:17.572627+00:00",
+  "updated": "2026-09-28T11:06:15.129505+00:00",
   "items": [
+    {
+      "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs",
+      "source": "Ars Technica AI",
+      "published": "2026-09-28T11:00:09+00:00",
+      "retrieved_at": "2026-09-28T11:06:11.769550+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8f9c622b4d6a1bd95f639028"
+    },
+    {
+      "title": "Space Lasers Are About to Get Their First Real Test Generating Energy",
+      "url": "https://wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy",
+      "source": "Wired",
+      "published": "2026-09-28T11:00:00+00:00",
+      "retrieved_at": "2026-09-28T11:06:11.932094+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Startup Star Catcher is launching a system that, if successful, would be the first time energy has been beamed between two separate spacecraft.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1ddc2f271c27ac5aaa5f0490"
+    },
     {
       "title": "I've Tested Over 100 Home Security Cameras. Here's Which to Buy",
       "url": "https://wired.com/story/best-security-cameras",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d25ffad1312099708283bdd6"
-    },
-    {
-      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households",
-      "source": "TechCrunch AI",
-      "published": "2026-09-18T17:33:50+00:00",
-      "retrieved_at": "2026-09-18T19:46:22.828868+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "58f65a94cf9d3911946053a4"
-    },
-    {
-      "title": "US government website used Chinese model the FBI called \"malicious\"",
-      "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious",
-      "source": "Ars Technica AI",
-      "published": "2026-09-18T17:28:50+00:00",
-      "retrieved_at": "2026-09-18T19:46:23.064245+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "The Federal Register website briefly used an open source Chinese AI search tool.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0796017a4e9634f63c73f1d8"
     }
   ],
   "unverified_history": [
