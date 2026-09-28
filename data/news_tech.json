@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T17:43:14.249390+00:00",
+  "updated": "2026-09-28T17:53:07.739191+00:00",
   "items": [
     {
       "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
@@ -442,6 +442,23 @@
       "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "source_type": "PUBLISHER",
       "story_fingerprint": "46155c1ccc602a7b70d9bd66"
+    },
+    {
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "source": "OpenAI",
+      "published": "2026-09-28T07:00:00+00:00",
+      "retrieved_at": "2026-09-28T17:53:02.339255+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "d360b934b84184e0fbf09370"
     },
     {
       "title": "Anthropic’s CEO is about to have dinner with President Trump",
@@ -2433,23 +2450,6 @@
       "story_fingerprint": "f938581df2ed48034af42621"
     },
     {
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "retrieved_at": "2026-09-23T21:08:35.979761+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "95ae031281fbdcbf872d5482"
-    },
-    {
       "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
       "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
       "source": "OpenAI",
@@ -2499,6 +2499,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "1f9e6421700d3908b74481ad"
+    },
+    {
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "source": "OpenAI",
+      "published": "2026-09-23T12:00:00+00:00",
+      "retrieved_at": "2026-09-23T21:08:35.979761+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "95ae031281fbdcbf872d5482"
     },
     {
       "title": "Ema raises $77M as AI starts eating into enterprise software and services",
@@ -3929,23 +3946,6 @@
       "story_fingerprint": "32fbb96e0623cd03d4738492"
     },
     {
-      "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
-      "url": "https://openai.com/index/v7",
-      "source": "OpenAI",
-      "published": "2026-09-21T00:00:00+00:00",
-      "retrieved_at": "2026-09-25T07:49:16.548731+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "2e39c5a561330336bf007da7"
-    },
-    {
       "title": "tokenizers v1: encode, decode and scaling, measured",
       "url": "https://huggingface.co/blog/tokenizers-v1",
       "source": "Hugging Face",
@@ -3961,6 +3961,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "9c8ccd1cde6976be0a412aa4"
+    },
+    {
+      "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
+      "url": "https://openai.com/index/v7",
+      "source": "OpenAI",
+      "published": "2026-09-21T00:00:00+00:00",
+      "retrieved_at": "2026-09-25T07:49:16.548731+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "2e39c5a561330336bf007da7"
     },
     {
       "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "32925ed18fab9c559dd687a3"
-    },
-    {
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking",
-      "source": "TechCrunch AI",
-      "published": "2026-09-19T13:00:00+00:00",
-      "retrieved_at": "2026-09-19T13:05:45.932912+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c37aca73f57ffa67cbbce5eb"
     }
   ],
   "unverified_history": [
