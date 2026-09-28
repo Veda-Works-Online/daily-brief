@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-28T09:36:13.123370+00:00",
+  "updated": "2026-09-28T09:46:18.416931+00:00",
   "items": [
+    {
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "Hugging Face",
+      "published": "2026-09-28T09:44:05+00:00",
+      "retrieved_at": "2026-09-28T09:46:11.479350+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "7906ea34f2bd6324c6687683"
+    },
     {
       "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
       "url": "https://wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ff579df0f91cc0d812bbfdb7"
-    },
-    {
-      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves",
-      "source": "TechCrunch AI",
-      "published": "2026-09-18T17:06:32+00:00",
-      "retrieved_at": "2026-09-18T17:17:51.491296+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. On […]",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "aeaf348c6c6dfe9595406e50"
     }
   ],
   "unverified_history": [
