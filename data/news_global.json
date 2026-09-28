@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-28T18:23:16.777440+00:00",
+  "updated": "2026-09-28T19:08:21.461292+00:00",
   "items": [
+    {
+      "title": "Flights between Iraq’s Najaf and Iran resumed as Tehran protests US curbs",
+      "url": "https://aljazeera.com/news/2026/9/28/flights-between-iraqs-najaf-and-iran-resumed-as-tehran-protests-us-curbs",
+      "source": "Al Jazeera",
+      "published": "2026-09-28T18:50:24+00:00",
+      "retrieved_at": "2026-09-28T19:08:16.101731+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Tehran filed a UN complaint against US sanctions forcing regional cancellations of Iran flights.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bbe40d56eee1bec901c5d206"
+    },
     {
       "title": "Trump made the right decision to reject Iran’s offer",
       "url": "https://aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7dceffd1926c7d980f37b42f"
-    },
-    {
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "url": "https://bbc.co.uk/news/articles/cmp30r1klk37o",
-      "source": "BBC World",
-      "published": "2026-09-24T11:16:29+00:00",
-      "retrieved_at": "2026-09-24T11:46:25.456253+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "78de18cabfd85539d1121cf4"
     }
   ],
   "unverified_history": [
