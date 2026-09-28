@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T20:13:12.310599+00:00",
+  "updated": "2026-09-28T20:33:14.468588+00:00",
   "items": [
     {
       "title": "Trump announces $15bn steel mill project in Iowa before US midterms",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dc8884a2ffe68fa68267ea39"
+    },
+    {
+      "title": "UAE confirms Israel PM Netanyahu’s visit to Abu Dhabi",
+      "url": "https://aljazeera.com/news/2026/9/28/uae-confirms-netanyahu-visit-to-abu-dhabi",
+      "source": "Al Jazeera",
+      "published": "2026-09-28T19:42:30+00:00",
+      "retrieved_at": "2026-09-28T20:33:09.170328+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The visit took place as the Israeli prime minister battles domestic turmoil ahead of October's Knesset elections.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1cf9af08f6f5ca2468f931b9"
     },
     {
       "title": "Myanmar army air strike kills dozens in Rakhine state",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d3307ff81f0d02d95343258b"
-    },
-    {
-      "title": "Who’s who in the race for the next UN Secretary-General?",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/24/whos-who-in-the-race-for-the-next-un-secretary-general",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T11:46:10+00:00",
-      "retrieved_at": "2026-09-24T12:21:27.676802+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The race to become the next United Nations Secretary-General is heating up, with five women among eight candidates.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "63dae91322d03e08eee7d87b"
     }
   ],
   "unverified_history": [
