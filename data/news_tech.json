@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-28T20:43:02.373587+00:00",
+  "updated": "2026-09-28T20:58:03.374139+00:00",
   "items": [
+    {
+      "title": "Florida asks court to put the brakes on OpenAI’s frontier AI development",
+      "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development",
+      "source": "Ars Technica AI",
+      "published": "2026-09-28T20:49:39+00:00",
+      "retrieved_at": "2026-09-28T20:57:57.966597+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ed0b9745eb61be5d9d819ed6"
+    },
     {
       "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
       "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "171f5b4553cc4a3da312df51"
-    },
-    {
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts",
-      "source": "TechCrunch AI",
-      "published": "2026-09-19T20:39:13+00:00",
-      "retrieved_at": "2026-09-19T21:10:19.078972+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ebb95e29f69656b8ebc84724"
     }
   ],
   "unverified_history": [
