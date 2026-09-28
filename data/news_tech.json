@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T21:08:05.056893+00:00",
+  "updated": "2026-09-28T21:18:08.854799+00:00",
   "items": [
     {
       "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
@@ -578,6 +578,40 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "d360b934b84184e0fbf09370"
+    },
+    {
+      "title": "Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals",
+      "source": "OpenAI",
+      "published": "2026-09-28T00:00:00+00:00",
+      "retrieved_at": "2026-09-28T21:18:00.009080+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "0962b92db672441e6860adbc"
+    },
+    {
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-28T00:00:00+00:00",
+      "retrieved_at": "2026-09-28T21:18:00.009107+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "c2f19d517196393cce4ede20"
     },
     {
       "title": "Anthropic’s CEO is about to have dinner with President Trump",
@@ -2569,6 +2603,23 @@
       "story_fingerprint": "f938581df2ed48034af42621"
     },
     {
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "source": "OpenAI",
+      "published": "2026-09-23T12:00:00+00:00",
+      "retrieved_at": "2026-09-23T21:08:35.979761+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "95ae031281fbdcbf872d5482"
+    },
+    {
       "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
       "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
       "source": "OpenAI",
@@ -2618,23 +2669,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "1f9e6421700d3908b74481ad"
-    },
-    {
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "retrieved_at": "2026-09-23T21:08:35.979761+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "95ae031281fbdcbf872d5482"
     },
     {
       "title": "Ema raises $77M as AI starts eating into enterprise software and services",
@@ -3844,23 +3878,6 @@
       "story_fingerprint": "ca11b4e505a21d4f4cfa65a4"
     },
     {
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-21T12:00:00+00:00",
-      "retrieved_at": "2026-09-21T20:03:48.277134+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "35ce6655ace530f7073d0a86"
-    },
-    {
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
       "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
       "source": "OpenAI",
@@ -3876,6 +3893,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "fccfc443d0a25d72db974a4f"
+    },
+    {
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-21T12:00:00+00:00",
+      "retrieved_at": "2026-09-21T20:03:48.277134+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "35ce6655ace530f7073d0a86"
     },
     {
       "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "99b5475d56959d38db71b98b"
-    },
-    {
-      "title": "It’s Donald Trump Versus MAGA on Data Centers",
-      "url": "https://wired.com/story/donald-trump-versus-maga-on-data-centers",
-      "source": "Wired",
-      "published": "2026-09-20T10:30:00+00:00",
-      "retrieved_at": "2026-09-20T11:41:17.919078+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The president has doubled down on data centers and AI. His base is running in the opposite direction.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2203244944c4d6e5fd8c0f81"
-    },
-    {
-      "title": "What You Need to Know About the Foreign-Made Router Ban in the US",
-      "url": "https://wired.com/story/us-government-foreign-made-router-ban-explained",
-      "source": "Wired",
-      "published": "2026-09-20T10:00:00+00:00",
-      "retrieved_at": "2026-09-20T11:41:17.919094+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The FCC banned the sale of new consumer-grade Wi-Fi routers and mobile hot spots manufactured outside the US. Here’s what it means for you.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "171f5b4553cc4a3da312df51"
     }
   ],
   "unverified_history": [
