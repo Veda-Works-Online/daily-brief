@@ -1,6 +1,40 @@
 {
-  "updated": "2026-09-28T08:41:15.795423+00:00",
+  "updated": "2026-09-28T09:06:13.811102+00:00",
   "items": [
+    {
+      "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
+      "url": "https://wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills",
+      "source": "Wired",
+      "published": "2026-09-28T09:00:00+00:00",
+      "retrieved_at": "2026-09-28T09:06:10.667654+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "A British startup is shaping video game inputs into training data for AI models that can navigate the physical world.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "45bcba132bd288f1f4ffbeea"
+    },
+    {
+      "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
+      "url": "https://wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system",
+      "source": "Wired",
+      "published": "2026-09-28T09:00:00+00:00",
+      "retrieved_at": "2026-09-28T09:06:10.667677+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "In the wake of a series of high-profile AI safety incidents, Nvidia is introducing a new software tool that helps keep agents from escaping containment.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c1f36b695370ad893a02e863"
+    },
     {
       "title": "Who’s liable when AI agents go rogue?",
       "url": "https://technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7122606bdb3d84c690964479"
-    },
-    {
-      "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
-      "url": "https://wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang",
-      "source": "Wired",
-      "published": "2026-09-18T16:00:00+00:00",
-      "retrieved_at": "2026-09-18T17:17:52.436377+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ffb66a8527a16541a135ed9a"
-    },
-    {
-      "title": "Family offices are clamoring for AI investments",
-      "url": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments",
-      "source": "TechCrunch",
-      "published": "2026-09-18T16:00:00+00:00",
-      "retrieved_at": "2026-09-18T17:17:52.348372+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Whether it's a permanent shift or part of a familiar cycle is worth asking, though.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7ad497b03d1a57baac79d8bc"
     }
   ],
   "unverified_history": [
