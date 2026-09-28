@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-28T17:12:18.752988+00:00",
+  "updated": "2026-09-28T17:33:12.858418+00:00",
   "items": [
+    {
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills",
+      "source": "TechCrunch AI",
+      "published": "2026-09-28T17:29:50+00:00",
+      "retrieved_at": "2026-09-28T17:33:04.835314+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cd816f0503a90b3c21b2cae2"
+    },
     {
       "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
       "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c37aca73f57ffa67cbbce5eb"
-    },
-    {
-      "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
-      "url": "https://wired.com/story/kernel-panic-ai-vulnerability-explosion",
-      "source": "Wired",
-      "published": "2026-09-19T11:00:00+00:00",
-      "retrieved_at": "2026-09-19T13:05:46.873656+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8bbc4b067f63c0bff525d8be"
     }
   ],
   "unverified_history": [
