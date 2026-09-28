@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-28T09:06:13.811102+00:00",
+  "updated": "2026-09-28T09:36:13.123370+00:00",
   "items": [
+    {
+      "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
+      "url": "https://wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai",
+      "source": "Wired",
+      "published": "2026-09-28T09:30:00+00:00",
+      "retrieved_at": "2026-09-28T09:36:09.828178+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "10a2d814b496d9fa17267b00"
+    },
     {
       "title": "The Next Evolution of AI Is Learning From Your Dodgy Gaming Skills",
       "url": "https://wired.com/story/the-next-evolution-of-ai-is-learning-from-your-dodgy-gaming-skills",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "aeaf348c6c6dfe9595406e50"
-    },
-    {
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops",
-      "source": "TechCrunch AI",
-      "published": "2026-09-18T16:35:49+00:00",
-      "retrieved_at": "2026-09-18T17:17:51.491325+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7122606bdb3d84c690964479"
     }
   ],
   "unverified_history": [
