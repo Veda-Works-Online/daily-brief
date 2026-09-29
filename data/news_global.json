@@ -1,6 +1,38 @@
 {
-  "updated": "2026-09-29T07:41:46.929912+00:00",
+  "updated": "2026-09-29T07:51:46.851721+00:00",
   "items": [
+    {
+      "title": "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
+      "url": "https://aljazeera.com/news/2026/9/29/israeli-forces-kill-hamas-commander-izz-al-din-al-beik-in-gaza-attack",
+      "source": "Al Jazeera",
+      "published": "2026-09-29T07:34:50+00:00",
+      "retrieved_at": "2026-09-29T07:51:41.507817+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Head of Hamas's armed wing in northern Gaza killed in ⁠an Israeli strike on an apartment building in Gaza City.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fc72b57e66518764206e9870"
+    },
+    {
+      "title": "Gaza doctors face tough decisions as patients face long waits for diagnoses",
+      "url": "https://aljazeera.com/features/2026/9/29/gaza-doctors-face-tough-decisions-as-patients-face-long-waits-for-diagnoses",
+      "source": "Al Jazeera",
+      "published": "2026-09-29T07:26:37+00:00",
+      "retrieved_at": "2026-09-29T07:51:41.507848+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Medical staff in Gaza struggle to treat patients with shortages in testing equipment.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9730605aa1e2eb083f243dd7"
+    },
     {
       "title": "The Manhattan Project Mindset: How Nuclear Analogies Are Steering AI Policy Off Course",
       "url": "https://warontherocks.com/the-manhattan-project-mindset-how-nuclear-analogies-are-steering-ai-policy-off-course",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d40dade4676a0cdbd17ca66d"
-    },
-    {
-      "title": "Collapsing currency and inflation leave families struggling in Sudan",
-      "url": "https://aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T17:03:55+00:00",
-      "retrieved_at": "2026-09-24T17:27:24.004240+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Rising bread, sugar and meat prices strain Sudanese households already grappling with war and economic instability.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4421c6afbb9fc2f42555af50"
-    },
-    {
-      "title": "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
-      "url": "https://aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T17:03:31+00:00",
-      "retrieved_at": "2026-09-24T17:27:24.004257+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "UN trade body report says consequences of Israeli occupation have 'skyrocketed' with 90% unemployed in Gaza.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a7f611ecfd3c985e64c0ba31"
     }
   ],
   "unverified_history": [
