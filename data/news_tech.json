@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T16:28:47.558654+00:00",
+  "updated": "2026-09-29T16:33:45.774531+00:00",
   "items": [
     {
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
@@ -34,6 +34,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1474ffc011ad75c4a931df9b"
+    },
+    {
+      "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
+      "url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice",
+      "source": "TechCrunch",
+      "published": "2026-09-29T15:00:00+00:00",
+      "retrieved_at": "2026-09-29T16:33:42.032038+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "73a55411515e1fbe149f9b5f"
     },
     {
       "title": "OpenAI says planned GPT-6.1 is too insecure to release",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5f4fc06617b90685c21dd7ec"
-    },
-    {
-      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "source": "Hugging Face",
-      "published": "2026-09-21T13:44:34+00:00",
-      "retrieved_at": "2026-09-21T13:48:00.684732+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "caeb819ee31b5ab81c91d9d0"
     }
   ],
   "unverified_history": [
