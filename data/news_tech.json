@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-29T17:18:47.686457+00:00",
+  "updated": "2026-09-29T17:23:44.724745+00:00",
   "items": [
+    {
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T17:20:00+00:00",
+      "retrieved_at": "2026-09-29T17:23:40.165959+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6689a25a6911c712e0d67301"
+    },
     {
       "title": "OpenAI launches Dots, its bubbly agentic avatar",
       "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "27e42fcbea1a58a625371a48"
-    },
-    {
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026",
-      "source": "Ars Technica AI",
-      "published": "2026-09-21T16:57:26+00:00",
-      "retrieved_at": "2026-09-21T17:03:52.154008+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6dbd01134db04015ca41e997"
     }
   ],
   "unverified_history": [
