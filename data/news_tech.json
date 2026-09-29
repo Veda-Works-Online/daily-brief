@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-29T14:17:55.922650+00:00",
+  "updated": "2026-09-29T14:27:54.932342+00:00",
   "items": [
+    {
+      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
+      "source": "Ars Technica AI",
+      "published": "2026-09-29T14:22:31+00:00",
+      "retrieved_at": "2026-09-29T14:27:48.599598+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Similar performance, security tradeoffs also seen in current public models.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "459ca165f2001dac295c6095"
+    },
     {
       "title": "Anthropic’s IPO pitch includes a warning about human extinction",
       "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d913b723cf11507ca3cf8605"
-    },
-    {
-      "title": "Got an Android Phone? Google Thinks You’ll Probably Want a Googlebook Laptop",
-      "url": "https://wired.com/story/google-launches-googlebook-laptops",
-      "source": "Wired",
-      "published": "2026-09-21T13:00:00+00:00",
-      "retrieved_at": "2026-09-21T13:08:02.485548+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Apple lovers have long enjoyed seamless connectivity between their iPhones and Macs. Now, Google’s bringing that experience to Android.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ca11b4e505a21d4f4cfa65a4"
     }
   ],
   "unverified_history": [
