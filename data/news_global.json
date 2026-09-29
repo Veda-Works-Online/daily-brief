@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T15:18:56.444256+00:00",
+  "updated": "2026-09-29T15:48:56.245042+00:00",
   "items": [
     {
       "title": "US-Iran talks in New York: What’s the latest?",
@@ -240,6 +240,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5478f7ca282724c9b7a3e48b"
+    },
+    {
+      "title": "Iraq: US troops withdraw from their Iraqi US-led Operation Inherent Resolve mission against ISIS after 12 years",
+      "url": "https://dw.com/en/iraq-us-troops-withdraw-from-their-iraqi-us-led-operation-inherent-resolve-mission-against-isis-after-12-years/a-79462926",
+      "source": "DW",
+      "published": "2026-09-29T11:08:00+00:00",
+      "retrieved_at": "2026-09-29T15:48:51.895317+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "As the US completes its military withdrawal from Iraq, Baghdad declares a new era of sovereignty. But as US troops leave, questions remain over militias, foreign forces and the country's future security.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "672de5205b6b2d17b3ff2d60"
     },
     {
       "title": "Iraq: US troops withdraw from their Iraqi US-led Operation Inherent Resolve mission against ISIS after 12 years as Baghdad delays militia disarmament",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "72898644a1157ca1294a3d89"
-    },
-    {
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-      "url": "https://bbc.co.uk/news/articles/cr93e4x7kdjjo",
-      "source": "BBC World",
-      "published": "2026-09-25T03:57:09+00:00",
-      "retrieved_at": "2026-09-25T04:03:47.729024+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9aef913e428c7c18c0643f5b"
     }
   ],
   "unverified_history": [
