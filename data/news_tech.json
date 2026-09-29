@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T19:43:45.680413+00:00",
+  "updated": "2026-09-29T19:48:46.787647+00:00",
   "items": [
     {
       "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
@@ -4218,11 +4218,11 @@
       "story_fingerprint": "bdc790496e3bc86491599d6e"
     },
     {
-      "title": "Transformers now runs llama.cpp quants",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
       "source": "Hugging Face",
       "published": "2026-09-22T00:00:00+00:00",
-      "retrieved_at": "2026-09-29T19:43:41.311067+00:00",
+      "retrieved_at": "2026-09-29T19:48:41.480438+00:00",
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "summary": "",
       "isAI": true,
@@ -4232,7 +4232,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "33dbfe840bf255f2b36d749d"
+      "story_fingerprint": "4ae2638ac96c5493b9652522"
     },
     {
       "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
