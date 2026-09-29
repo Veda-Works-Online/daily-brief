@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-29T16:48:51.492701+00:00",
+  "updated": "2026-09-29T16:58:46.934869+00:00",
   "items": [
+    {
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T16:55:56+00:00",
+      "retrieved_at": "2026-09-29T16:58:41.332344+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e210143dd090ab50260fcfb1"
+    },
     {
       "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
       "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b2b7d6e2c0f88b27d4a521c1"
-    },
-    {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026",
-      "source": "TechCrunch AI",
-      "published": "2026-09-21T14:15:00+00:00",
-      "retrieved_at": "2026-09-21T17:48:50.746195+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5f4fc06617b90685c21dd7ec"
     }
   ],
   "unverified_history": [
