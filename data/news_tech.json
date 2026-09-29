@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-29T12:32:50.144930+00:00",
+  "updated": "2026-09-29T12:47:56.375488+00:00",
   "items": [
+    {
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T12:45:05+00:00",
+      "retrieved_at": "2026-09-29T12:47:51.137809+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fd922e3b0e88b906c5261ec9"
+    },
     {
       "title": "Reco raises $55M as AI agent security startups crowd the market",
       "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "fccfc443d0a25d72db974a4f"
-    },
-    {
-      "title": "US and China Discuss Alerting Each Other to AI National Security Threats",
-      "url": "https://wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats",
-      "source": "Wired",
-      "published": "2026-09-21T10:34:43+00:00",
-      "retrieved_at": "2026-09-21T10:41:58.288889+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Officials discussed setting up a mechanism for the two countries to notify each other of AI incidents which could threaten national security.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2ff786a32c2bf9d1888dc3e2"
     }
   ],
   "unverified_history": [
