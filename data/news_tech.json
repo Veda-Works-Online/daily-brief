@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T10:52:46.828256+00:00",
+  "updated": "2026-09-29T11:12:49.971257+00:00",
   "items": [
     {
       "title": "How to Beat Surveillance Pricing Before It Bleeds You Dry",
@@ -17,6 +17,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0826aaeb9bba5c63de49be86"
+    },
+    {
+      "title": "Making AI an asset, not an expense",
+      "url": "https://technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense",
+      "source": "MIT Tech Review",
+      "published": "2026-09-29T10:43:45+00:00",
+      "retrieved_at": "2026-09-29T11:12:42.472851+00:00",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only…",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ff95c3c4f16c7ff9fb0904a3"
     },
     {
       "title": "Timnit Gebru Believes There Is No ‘Existential Threat’ From AI",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "741c9ecef24526f5c16ed821"
-    },
-    {
-      "title": "We Surveyed 634 Women Who Work in Tech. They Let Loose",
-      "url": "https://wired.com/story/women-in-tech-survey",
-      "source": "Wired",
-      "published": "2026-09-21T10:00:00+00:00",
-      "retrieved_at": "2026-09-21T10:06:58.291575+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Executives happily automating their days with AI. New hires confronting bro culture. Women in tech have a lot to say—and they told it all to WIRED.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e26d0db90f39278dd3098408"
     }
   ],
   "unverified_history": [
