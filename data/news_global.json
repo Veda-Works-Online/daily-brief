@@ -1,6 +1,38 @@
 {
-  "updated": "2026-09-29T16:03:55.830380+00:00",
+  "updated": "2026-09-29T16:23:55.912032+00:00",
   "items": [
+    {
+      "title": "Trump rules out joint US-China venture to develop AI",
+      "url": "https://bbc.co.uk/news/articles/cwly5lmvy38qo",
+      "source": "BBC World",
+      "published": "2026-09-29T16:09:26+00:00",
+      "retrieved_at": "2026-09-29T16:23:50.968060+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2ec545c94e5fd965b216ca66"
+    },
+    {
+      "title": "Russian nuclear-capable bomber plane crashes, killing six people",
+      "url": "https://aljazeera.com/news/2026/9/29/russian-nuclear-capable-bomber-plane-crashes-killing-six-people",
+      "source": "Al Jazeera",
+      "published": "2026-09-29T16:03:39+00:00",
+      "retrieved_at": "2026-09-29T16:23:50.890536+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Tu-95 plane crashed during training flight in uninhabited area of Amur region, Defence Ministry says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "120d9fd89132b3dcdb308b59"
+    },
     {
       "title": "Yemen’s war disrupts roads and ports, deepening humanitarian crisis",
       "url": "https://aljazeera.com/news/2026/9/29/yemens-war-disrupts-roads-and-ports-deepening-humanitarian-crisis",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f3aea80d3245d2e1813a047f"
-    },
-    {
-      "title": "Mamdani plants olive tree with Gaza families",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/25/mamdani-plants-olive-tree-with-gaza-families",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T07:55:41+00:00",
-      "retrieved_at": "2026-09-25T08:24:21.631825+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "New York Mayor Zohran Mamdani posted a video of himself planting an olive tree alongside Palestinian families from Gaza.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2ddf0a58e4085b92f34ccf37"
-    },
-    {
-      "title": "North Korea’s Irregular Warfare After Ukraine",
-      "url": "https://warontherocks.com/north-koreas-irregular-warfare-after-ukraine",
-      "source": "War on the Rocks",
-      "published": "2026-09-25T07:30:29+00:00",
-      "retrieved_at": "2026-09-25T07:33:44.803706+00:00",
-      "feed_url": "https://warontherocks.com/feed/",
-      "summary": "Pyongyang has a long history of conducting irregular warfare and asymmetric operations: Look no further than the 1968 Blue House raid or the 1996 submarine incursion as the most pressing examples. More often than not, North Korea failed to achieve the intended objectives of its missions and lost its commandos. Despite failures, the regime pressed on, and now, over thirty years after the sub…",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://warontherocks.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cc3543ee32211cf3df003d7b"
     }
   ],
   "unverified_history": [
