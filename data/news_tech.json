@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-29T14:27:54.932342+00:00",
+  "updated": "2026-09-29T15:13:47.145864+00:00",
   "items": [
+    {
+      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+      "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T15:12:07+00:00",
+      "retrieved_at": "2026-09-29T15:13:42.537515+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Instinct founder said that the platform is growing 10% day-by-day",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1474ffc011ad75c4a931df9b"
+    },
     {
       "title": "OpenAI says planned GPT-6.1 is too insecure to release",
       "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "18508cafd192c17af1d3feb3"
-    },
-    {
-      "title": "Apple Mac Mini (M6) Review: For the AI Curious",
-      "url": "https://wired.com/review/apple-mac-mini-m6",
-      "source": "Wired",
-      "published": "2026-09-21T13:00:00+00:00",
-      "retrieved_at": "2026-09-21T13:08:02.485571+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Apple has refreshed the Mac Mini with a brand-new chip, the M6. And this time, it’s more focused on AI than ever.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d913b723cf11507ca3cf8605"
     }
   ],
   "unverified_history": [
