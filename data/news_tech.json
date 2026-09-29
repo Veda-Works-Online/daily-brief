@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T21:59:27.702329+00:00",
+  "updated": "2026-09-29T22:04:27.086428+00:00",
   "items": [
     {
       "title": "What Iceberg?: Bay Area artists target OpenAI with Titanic-themed protest art",
@@ -206,23 +206,6 @@
       "story_fingerprint": "39d9feda8ffe747f05ac4b44"
     },
     {
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
-      "source": "TechCrunch AI",
-      "published": "2026-09-29T17:15:00+00:00",
-      "retrieved_at": "2026-09-29T17:18:39.737488+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c2d1b83c4a604903a8c3857d"
-    },
-    {
       "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
       "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
       "source": "TechCrunch AI",
@@ -238,6 +221,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "edae0d7efa17d4714063a666"
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T17:15:00+00:00",
+      "retrieved_at": "2026-09-29T17:18:39.737488+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c2d1b83c4a604903a8c3857d"
     },
     {
       "title": "OpenAI gives Codex reusable cloud environments that work across devices",
@@ -767,11 +767,11 @@
       "story_fingerprint": "9b13f8ecff4a4513f135dbf0"
     },
     {
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2B",
       "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion",
       "source": "TechCrunch AI",
       "published": "2026-09-28T20:39:33+00:00",
-      "retrieved_at": "2026-09-28T20:42:56.038873+00:00",
+      "retrieved_at": "2026-09-29T22:04:22.191634+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
       "isAI": true,
@@ -781,7 +781,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "2375ba76909bf47392023bb1"
+      "story_fingerprint": "dcab2a0586e56eaf966f0274"
     },
     {
       "title": "New device captures carbon dioxide by pumping it across a battery",
@@ -1362,23 +1362,6 @@
       "story_fingerprint": "d360b934b84184e0fbf09370"
     },
     {
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-28T00:00:00+00:00",
-      "retrieved_at": "2026-09-28T21:18:00.009107+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "c2f19d517196393cce4ede20"
-    },
-    {
       "title": "Are you a Codex Original?",
       "url": "https://openai.com/form/codex-originals",
       "source": "OpenAI",
@@ -1394,6 +1377,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "0962b92db672441e6860adbc"
+    },
+    {
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-28T00:00:00+00:00",
+      "retrieved_at": "2026-09-28T21:18:00.009107+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "c2f19d517196393cce4ede20"
     },
     {
       "title": "Anthropic’s CEO is about to have dinner with President Trump",
@@ -3385,13 +3385,13 @@
       "story_fingerprint": "f938581df2ed48034af42621"
     },
     {
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "source": "OpenAI",
       "published": "2026-09-23T12:00:00+00:00",
-      "retrieved_at": "2026-09-23T19:02:50.347719+00:00",
+      "retrieved_at": "2026-09-23T21:08:35.979761+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -3399,7 +3399,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "5bb374455bdce77c05dfb0a0"
+      "story_fingerprint": "95ae031281fbdcbf872d5482"
     },
     {
       "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
@@ -3419,23 +3419,6 @@
       "story_fingerprint": "1d6a6d8a2dceec6657fb7779"
     },
     {
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "retrieved_at": "2026-09-23T21:08:35.979761+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "95ae031281fbdcbf872d5482"
-    },
-    {
       "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
       "url": "https://openai.com/index/ringg",
       "source": "OpenAI",
@@ -3451,6 +3434,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "1f9e6421700d3908b74481ad"
+    },
+    {
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI",
+      "published": "2026-09-23T12:00:00+00:00",
+      "retrieved_at": "2026-09-23T19:02:50.347719+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "5bb374455bdce77c05dfb0a0"
     },
     {
       "title": "Ema raises $77M as AI starts eating into enterprise software and services",
