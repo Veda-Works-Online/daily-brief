@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-29T22:54:24.584913+00:00",
+  "updated": "2026-09-29T23:04:29.506061+00:00",
   "items": [
+    {
+      "title": "Range Rover Sport Electric: Price, Specs, Availability",
+      "url": "https://wired.com/story/range-rover-sport-electric-arrives-with-more-for-less",
+      "source": "Wired",
+      "published": "2026-09-29T23:01:00+00:00",
+      "retrieved_at": "2026-09-29T23:04:22.533606+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "By sharing the same platform, the Sport gets the same specs as the classier Range Rover Electric, but with added torque at a smaller outlay.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d7c7d1fbd7b59bfe84992e87"
+    },
     {
       "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
       "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch",
@@ -240,13 +257,13 @@
       "story_fingerprint": "39d9feda8ffe747f05ac4b44"
     },
     {
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
+      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
       "source": "TechCrunch AI",
       "published": "2026-09-29T17:15:00+00:00",
-      "retrieved_at": "2026-09-29T22:34:22.246953+00:00",
+      "retrieved_at": "2026-09-29T23:04:21.767331+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
+      "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -254,7 +271,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "c2d1b83c4a604903a8c3857d"
+      "story_fingerprint": "54abfa9c511b52a5f20f3bf2"
     },
     {
       "title": "OpenAI gives Codex reusable cloud environments that work across devices",
@@ -274,13 +291,13 @@
       "story_fingerprint": "f4ed1c45fa7e8971438f641a"
     },
     {
-      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
-      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
       "source": "TechCrunch AI",
       "published": "2026-09-29T17:15:00+00:00",
-      "retrieved_at": "2026-09-29T22:49:21.748290+00:00",
+      "retrieved_at": "2026-09-29T22:34:22.246953+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep business workflows.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -288,7 +305,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "54abfa9c511b52a5f20f3bf2"
+      "story_fingerprint": "c2d1b83c4a604903a8c3857d"
     },
     {
       "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "db859cead4d99ca9681510e2"
-    },
-    {
-      "title": "Patti Harrison Had Dreams of a Tech Utopia. Silicon Valley Smashed Them",
-      "url": "https://wired.com/story/big-interview-patti-harrison",
-      "source": "Wired",
-      "published": "2026-09-22T10:00:00+00:00",
-      "retrieved_at": "2026-09-22T10:07:19.376077+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The comedian sat down with WIRED to talk about social media, AI, and getting laughs for impersonating Boston Dynamics’ robot dogs.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0db4c93e07d58c30fd2ae024"
     }
   ],
   "unverified_history": [
