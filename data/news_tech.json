@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T05:16:38.043044+00:00",
+  "updated": "2026-09-29T07:06:42.744889+00:00",
   "items": [
     {
       "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
@@ -204,6 +204,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "203999783cd8448d0666518b"
+    },
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "source": "OpenAI",
+      "published": "2026-09-28T19:00:00+00:00",
+      "retrieved_at": "2026-09-29T07:06:34.402895+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "03959d429328fbaa5e27d3a6"
     },
     {
       "title": "Meta-Led Anti-Terrorism Group Faces Mass Resignation of Expert Advisers",
@@ -716,23 +733,6 @@
       "story_fingerprint": "d360b934b84184e0fbf09370"
     },
     {
-      "title": "Are you a Codex Original?",
-      "url": "https://openai.com/form/codex-originals",
-      "source": "OpenAI",
-      "published": "2026-09-28T00:00:00+00:00",
-      "retrieved_at": "2026-09-28T21:18:00.009080+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "0962b92db672441e6860adbc"
-    },
-    {
       "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
       "url": "https://openai.com/index/basis-tax-workbook-with-astra",
       "source": "OpenAI",
@@ -748,6 +748,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "c2f19d517196393cce4ede20"
+    },
+    {
+      "title": "Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals",
+      "source": "OpenAI",
+      "published": "2026-09-28T00:00:00+00:00",
+      "retrieved_at": "2026-09-28T21:18:00.009080+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "0962b92db672441e6860adbc"
     },
     {
       "title": "Anthropic’s CEO is about to have dinner with President Trump",
@@ -2739,23 +2756,6 @@
       "story_fingerprint": "f938581df2ed48034af42621"
     },
     {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "retrieved_at": "2026-09-23T19:02:50.347731+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "1f9e6421700d3908b74481ad"
-    },
-    {
       "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
       "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
       "source": "OpenAI",
@@ -2771,6 +2771,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "1d6a6d8a2dceec6657fb7779"
+    },
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "source": "OpenAI",
+      "published": "2026-09-23T12:00:00+00:00",
+      "retrieved_at": "2026-09-23T19:02:50.347731+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "1f9e6421700d3908b74481ad"
     },
     {
       "title": "How invideo improves color grading 3x with GPT‑6 Astra",
@@ -4014,23 +4031,6 @@
       "story_fingerprint": "ca11b4e505a21d4f4cfa65a4"
     },
     {
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-21T12:00:00+00:00",
-      "retrieved_at": "2026-09-21T20:03:48.277134+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "35ce6655ace530f7073d0a86"
-    },
-    {
       "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
       "url": "https://technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology",
       "source": "MIT Tech Review",
@@ -4097,6 +4097,23 @@
       "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3804c426f53fce4a324dcc89"
+    },
+    {
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "source": "OpenAI",
+      "published": "2026-09-21T12:00:00+00:00",
+      "retrieved_at": "2026-09-21T20:03:48.277134+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "35ce6655ace530f7073d0a86"
     },
     {
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "32fbb96e0623cd03d4738492"
-    },
-    {
-      "title": "tokenizers v1: encode, decode and scaling, measured",
-      "url": "https://huggingface.co/blog/tokenizers-v1",
-      "source": "Hugging Face",
-      "published": "2026-09-21T00:00:00+00:00",
-      "retrieved_at": "2026-09-21T14:02:58.288656+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "9c8ccd1cde6976be0a412aa4"
     }
   ],
   "unverified_history": [
