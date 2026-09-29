@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-29T15:13:47.145864+00:00",
+  "updated": "2026-09-29T15:33:47.902597+00:00",
   "items": [
+    {
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "source": "Hugging Face",
+      "published": "2026-09-29T15:30:38+00:00",
+      "retrieved_at": "2026-09-29T15:33:42.364520+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "c828744a885e73fae990bcf5"
+    },
     {
       "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
       "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "caeb819ee31b5ab81c91d9d0"
-    },
-    {
-      "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
-      "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today",
-      "source": "Ars Technica",
-      "published": "2026-09-21T13:00:11+00:00",
-      "retrieved_at": "2026-09-21T13:42:58.125533+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "18508cafd192c17af1d3feb3"
     }
   ],
   "unverified_history": [
