@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-29T08:06:35.700027+00:00",
+  "updated": "2026-09-29T09:01:47.461388+00:00",
   "items": [
+    {
+      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+      "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot",
+      "source": "TechCrunch",
+      "published": "2026-09-29T09:00:00+00:00",
+      "retrieved_at": "2026-09-29T09:01:42.850787+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0fa32521b6c6e144253e2874"
+    },
     {
       "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
       "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "99823cfe235451682186339f"
-    },
-    {
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "source": "OpenAI",
-      "published": "2026-09-21T07:00:00+00:00",
-      "retrieved_at": "2026-09-21T17:23:54.396042+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "32fbb96e0623cd03d4738492"
     }
   ],
   "unverified_history": [
