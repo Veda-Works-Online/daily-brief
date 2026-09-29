@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T10:02:49.780516+00:00",
+  "updated": "2026-09-29T10:12:59.788395+00:00",
   "items": [
     {
       "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
@@ -3691,23 +3691,6 @@
       "story_fingerprint": "bdc790496e3bc86491599d6e"
     },
     {
-      "title": "Priorities and principles for effective third party assessments",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "source": "OpenAI",
-      "published": "2026-09-22T00:00:00+00:00",
-      "retrieved_at": "2026-09-22T17:38:26.920610+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "12d9326013dbb015659d8980"
-    },
-    {
       "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
       "url": "https://huggingface.co/blog/evaleval-aisi",
       "source": "Hugging Face",
@@ -3757,6 +3740,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "4ae2638ac96c5493b9652522"
+    },
+    {
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "source": "OpenAI",
+      "published": "2026-09-22T00:00:00+00:00",
+      "retrieved_at": "2026-09-22T17:38:26.920610+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "12d9326013dbb015659d8980"
     },
     {
       "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
