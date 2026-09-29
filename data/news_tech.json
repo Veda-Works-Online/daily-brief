@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-29T13:18:00.160348+00:00",
+  "updated": "2026-09-29T13:47:56.646070+00:00",
   "items": [
+    {
+      "title": "Meta is expanding its AI agent Muse to small businesses",
+      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T13:47:30+00:00",
+      "retrieved_at": "2026-09-29T13:47:49.608287+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The tech giant says the agent can help owners run their business and find new customers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6a66b44cb6bdf261d332530b"
+    },
     {
       "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dc59110ef701768a5226b6aa"
-    },
-    {
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "url": "https://technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation",
-      "source": "MIT Tech Review",
-      "published": "2026-09-21T12:00:00+00:00",
-      "retrieved_at": "2026-09-21T12:17:50.018715+00:00",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3ad9fcffee4f0fde31b67bbf"
     }
   ],
   "unverified_history": [
