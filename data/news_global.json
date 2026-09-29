@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T14:28:02.708249+00:00",
+  "updated": "2026-09-29T14:33:05.111304+00:00",
   "items": [
     {
       "title": "Indian firm building $15bn Trump-announced steel mill has deep Russia ties",
@@ -48,6 +48,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b2c97be520e27e372294571c"
+    },
+    {
+      "title": "North Korea has recently completed two road bridges easing transport to strategic allies Russia and China",
+      "url": "https://dw.com/en/north-korea-has-recently-completed-two-road-bridges-easing-transport-to-strategic-allies-russia-and-china/a-79473981",
+      "source": "DW",
+      "published": "2026-09-29T13:35:00+00:00",
+      "retrieved_at": "2026-09-29T14:33:00.393999+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Two recently opened bridges are expected to ease trade and transport between North Korea and its powerful neighbors. The new connections come as Pyongyang builds strategic ties with China and Russia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c1dc28cdd3d95f579d45d8f7"
     },
     {
       "title": "Estonia says Russia ordered August arson attack on defence company",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f3f034a4b28d6264e44518fa"
-    },
-    {
-      "title": "Contrasting treatment of Israel and Palestine on display at the UN",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/25/contrasting-treatment-of-israel-and-palestine-on-display-at-the-un",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T02:26:16+00:00",
-      "retrieved_at": "2026-09-25T03:03:47.760733+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel’s Prime Minister addressed the UN General Assembly in person, despite having an ICC arrest warrant.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ec24e98e107b7965317e50e6"
     }
   ],
   "unverified_history": [
