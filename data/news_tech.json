@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-29T21:49:29.067592+00:00",
+  "updated": "2026-09-29T21:59:27.702329+00:00",
   "items": [
+    {
+      "title": "What Iceberg?: Bay Area artists target OpenAI with Titanic-themed protest art",
+      "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art",
+      "source": "Ars Technica AI",
+      "published": "2026-09-29T21:52:58+00:00",
+      "retrieved_at": "2026-09-29T21:59:23.360358+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1744fc8bd6aff480059c18c0"
+    },
     {
       "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
       "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
@@ -189,23 +206,6 @@
       "story_fingerprint": "39d9feda8ffe747f05ac4b44"
     },
     {
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
-      "source": "TechCrunch AI",
-      "published": "2026-09-29T17:15:00+00:00",
-      "retrieved_at": "2026-09-29T17:18:39.737470+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "edae0d7efa17d4714063a666"
-    },
-    {
       "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
       "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
       "source": "TechCrunch AI",
@@ -221,6 +221,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c2d1b83c4a604903a8c3857d"
+    },
+    {
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T17:15:00+00:00",
+      "retrieved_at": "2026-09-29T17:18:39.737470+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "edae0d7efa17d4714063a666"
     },
     {
       "title": "OpenAI gives Codex reusable cloud environments that work across devices",
@@ -720,9 +737,9 @@
       "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation",
       "source": "TechCrunch AI",
       "published": "2026-09-28T21:29:18+00:00",
-      "retrieved_at": "2026-09-28T21:32:56.818134+00:00",
+      "retrieved_at": "2026-09-29T21:59:22.882504+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+      "summary": "The new financing is expected to more than triple the AI infrastructure startup's valuation from just four months ago.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "260c3df6e54f42704129906b"
-    },
-    {
-      "title": "Morphotonics raises €40M to expand its display tech into data centers",
-      "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t",
-      "source": "TechCrunch",
-      "published": "2026-09-22T06:00:00+00:00",
-      "retrieved_at": "2026-09-22T13:42:34.752573+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Deep tech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "77be09a85264fa69f1499fb9"
     }
   ],
   "unverified_history": [
