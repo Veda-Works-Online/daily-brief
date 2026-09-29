@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T13:47:56.646070+00:00",
+  "updated": "2026-09-29T13:52:58.477627+00:00",
   "items": [
     {
       "title": "Meta is expanding its AI agent Muse to small businesses",
@@ -4218,6 +4218,23 @@
       "story_fingerprint": "ca11b4e505a21d4f4cfa65a4"
     },
     {
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "url": "https://technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation",
+      "source": "MIT Tech Review",
+      "published": "2026-09-21T12:00:00+00:00",
+      "retrieved_at": "2026-09-29T13:52:50.286278+00:00",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3ad9fcffee4f0fde31b67bbf"
+    },
+    {
       "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
       "url": "https://technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology",
       "source": "MIT Tech Review",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f0a9576ec8630efec21fd299"
-    },
-    {
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "url": "https://technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations",
-      "source": "MIT Tech Review",
-      "published": "2026-09-21T12:00:00+00:00",
-      "retrieved_at": "2026-09-21T12:17:50.018680+00:00",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dc59110ef701768a5226b6aa"
     }
   ],
   "unverified_history": [

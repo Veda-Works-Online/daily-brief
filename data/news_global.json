@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T13:43:04.432958+00:00",
+  "updated": "2026-09-29T13:53:06.693948+00:00",
   "items": [
     {
       "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b2c97be520e27e372294571c"
+    },
+    {
+      "title": "Estonia says Russia ordered August arson attack on defence company",
+      "url": "https://aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence",
+      "source": "Al Jazeera",
+      "published": "2026-09-29T13:26:32+00:00",
+      "retrieved_at": "2026-09-29T13:53:01.708683+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Tallinn accuses Moscow of responsibility for the fire at Estonian company Milrem Robotics, a supplier of unmanned ground vehicles to Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "04d78ddc44e27d00fdf90eb8"
     },
     {
       "title": "Are Houthis using new modified cruise missiles in Yemen’s war?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bff19bbe0bdcfaf87108b4fb"
-    },
-    {
-      "title": "Trump praises US-China friendship at state dinner with Xi Jinping",
-      "url": "https://aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T02:00:16+00:00",
-      "retrieved_at": "2026-09-25T02:18:02.244234+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The two superpowers seek greater dialogue despite differences over issues such as Iran, Taiwan, AI and trade.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c60c98b8ee70f56586153269"
     }
   ],
   "unverified_history": [
