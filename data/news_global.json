@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-29T18:28:59.553098+00:00",
+  "updated": "2026-09-29T18:33:53.707153+00:00",
   "items": [
+    {
+      "title": "Trump unveils new site to simplify access to government services",
+      "url": "https://aljazeera.com/economy/2026/9/29/trump-unveils-new-site-to-simplify-access-to-government-services",
+      "source": "Al Jazeera",
+      "published": "2026-09-29T18:21:33+00:00",
+      "retrieved_at": "2026-09-29T18:33:49.197762+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "America.gov for now functions like a chatbot comparable to ChatGPT or Claude, pointing users to official gov't websites.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "89a7a27cebab81d88b9b82a2"
+    },
     {
       "title": "Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters",
       "url": "https://aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "82b6c288556348cb51029b85"
-    },
-    {
-      "title": "Rising malnutrition in Nigeria as US war on Iran raises food costs",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/25/rising-malnutrition-in-nigeria-as-us-war-on-iran-raises-food-costs",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T10:10:33+00:00",
-      "retrieved_at": "2026-09-25T10:24:24.055058+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The war on Iran is raising the cost of living in Nigeria.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d6c1f5df29f705403d10ef88"
     }
   ],
   "unverified_history": [
