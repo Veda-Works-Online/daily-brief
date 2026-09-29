@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-29T13:52:58.477627+00:00",
+  "updated": "2026-09-29T13:57:54.915022+00:00",
   "items": [
+    {
+      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T13:53:01+00:00",
+      "retrieved_at": "2026-09-29T13:57:46.834545+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The former Yahoo CEO is introducing a new AI personal assistant based entirely on your photos.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d7df2bd8bd2251a596e0302b"
+    },
     {
       "title": "Meta is expanding its AI agent Muse to small businesses",
       "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses",
@@ -4218,13 +4235,13 @@
       "story_fingerprint": "ca11b4e505a21d4f4cfa65a4"
     },
     {
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "url": "https://technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "url": "https://technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations",
       "source": "MIT Tech Review",
       "published": "2026-09-21T12:00:00+00:00",
-      "retrieved_at": "2026-09-29T13:52:50.286278+00:00",
+      "retrieved_at": "2026-09-29T13:57:47.517332+00:00",
       "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4232,24 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "3ad9fcffee4f0fde31b67bbf"
-    },
-    {
-      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
-      "url": "https://technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology",
-      "source": "MIT Tech Review",
-      "published": "2026-09-21T12:00:00+00:00",
-      "retrieved_at": "2026-09-21T12:17:50.018625+00:00",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms spent the past…",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f0a9576ec8630efec21fd299"
+      "story_fingerprint": "dc59110ef701768a5226b6aa"
     }
   ],
   "unverified_history": [
