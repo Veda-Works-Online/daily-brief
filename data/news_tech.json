@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T20:04:29.088893+00:00",
+  "updated": "2026-09-29T20:09:32.361299+00:00",
   "items": [
     {
       "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
@@ -4235,11 +4235,11 @@
       "story_fingerprint": "bdc790496e3bc86491599d6e"
     },
     {
-      "title": "Transformers now runs llama.cpp quants",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
       "source": "Hugging Face",
       "published": "2026-09-22T00:00:00+00:00",
-      "retrieved_at": "2026-09-29T20:04:24.438853+00:00",
+      "retrieved_at": "2026-09-29T20:09:27.899677+00:00",
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "summary": "",
       "isAI": true,
@@ -4249,7 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "33dbfe840bf255f2b36d749d"
+      "story_fingerprint": "9e7f03ffb4f46c13b8f751c6"
     }
   ],
   "unverified_history": [
