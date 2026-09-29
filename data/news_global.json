@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-29T21:29:33.738266+00:00",
+  "updated": "2026-09-29T22:19:34.394489+00:00",
   "items": [
+    {
+      "title": "US Supreme Court allows Trump to continue third-country deportations",
+      "url": "https://aljazeera.com/news/2026/9/29/us-supreme-court-allows-trump-to-continue-third-country-deportations",
+      "source": "Al Jazeera",
+      "published": "2026-09-29T22:06:43+00:00",
+      "retrieved_at": "2026-09-29T22:19:30.565458+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The high court grants an emergency petition ahead of expected arguments in the case, slated for December.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c4a1900fee924c5705f14206"
+    },
     {
       "title": "‘Netanyahu targets Qatar to deflect from Gaza war crimes’",
       "url": "https://aljazeera.com/video/newsfeed/2026/9/29/netanyahu-targets-qatar-to-deflect-from-gaza-war",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d4a507bc86c5a0358ffb41e2"
-    },
-    {
-      "title": "Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal?",
-      "url": "https://dw.com/en/iranian-president-pezeshkian-brought-a-diplomatic-tone-to-new-york-for-unga-what-did-his-remarks-signal/a-79428890",
-      "source": "DW",
-      "published": "2026-09-25T11:37:00+00:00",
-      "retrieved_at": "2026-09-25T12:04:28.613535+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Iran's president used his trip to New York this week for the UN General Assembly to signal openness to talks over the nuclear dispute. However, the chances of a major breakthrough on the war remain low.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "853be86a7772e9e2ea7ea9f7"
     }
   ],
   "unverified_history": [
