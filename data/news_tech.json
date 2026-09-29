@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-29T17:23:44.724745+00:00",
+  "updated": "2026-09-29T17:28:46.283449+00:00",
   "items": [
+    {
+      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
+      "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders",
+      "source": "TechCrunch",
+      "published": "2026-09-29T17:27:09+00:00",
+      "retrieved_at": "2026-09-29T17:28:41.395059+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9e956fd2aaa71c18f1500688"
+    },
     {
       "title": "AI-powered app maker Wabi pivots to a messaging experience",
       "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience",
@@ -36,23 +53,6 @@
       "story_fingerprint": "39d9feda8ffe747f05ac4b44"
     },
     {
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices",
-      "source": "TechCrunch AI",
-      "published": "2026-09-29T17:15:00+00:00",
-      "retrieved_at": "2026-09-29T17:18:39.737443+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f4ed1c45fa7e8971438f641a"
-    },
-    {
       "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
       "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
       "source": "TechCrunch AI",
@@ -85,6 +85,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c2d1b83c4a604903a8c3857d"
+    },
+    {
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T17:15:00+00:00",
+      "retrieved_at": "2026-09-29T17:18:39.737443+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f4ed1c45fa7e8971438f641a"
     },
     {
       "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4e2756ebae4669458c636b78"
-    },
-    {
-      "title": "Dyson Won’t Say What’s Wrong With Its CameraJet Toothbrush",
-      "url": "https://wired.com/story/dyson-wont-say-whats-wrong-with-the-camerajet-toothbrush",
-      "source": "Wired",
-      "published": "2026-09-21T17:22:19+00:00",
-      "retrieved_at": "2026-09-21T17:58:52.468857+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Despite admitting to a “component issue,” the company refuses to say what went wrong, how many units are affected in how many countries, and why it won’t recall its $500 AI toothbrush.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "27e42fcbea1a58a625371a48"
     }
   ],
   "unverified_history": [
