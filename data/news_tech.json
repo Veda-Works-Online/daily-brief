@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-29T22:04:27.086428+00:00",
+  "updated": "2026-09-29T22:09:28.568628+00:00",
   "items": [
     {
-      "title": "What Iceberg?: Bay Area artists target OpenAI with Titanic-themed protest art",
+      "title": "Protests against OpenAI get increasingly creative",
       "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art",
       "source": "Ars Technica AI",
       "published": "2026-09-29T21:52:58+00:00",
-      "retrieved_at": "2026-09-29T21:59:23.360358+00:00",
+      "retrieved_at": "2026-09-29T22:09:21.485141+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
       "isAI": true,
@@ -16,7 +16,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "1744fc8bd6aff480059c18c0"
+      "story_fingerprint": "cfcd8e352b1a21814e508640"
     },
     {
       "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
@@ -206,23 +206,6 @@
       "story_fingerprint": "39d9feda8ffe747f05ac4b44"
     },
     {
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
-      "source": "TechCrunch AI",
-      "published": "2026-09-29T17:15:00+00:00",
-      "retrieved_at": "2026-09-29T17:18:39.737470+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "edae0d7efa17d4714063a666"
-    },
-    {
       "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
       "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less",
       "source": "TechCrunch AI",
@@ -238,6 +221,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c2d1b83c4a604903a8c3857d"
+    },
+    {
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations",
+      "source": "TechCrunch AI",
+      "published": "2026-09-29T17:15:00+00:00",
+      "retrieved_at": "2026-09-29T17:18:39.737470+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "edae0d7efa17d4714063a666"
     },
     {
       "title": "OpenAI gives Codex reusable cloud environments that work across devices",
@@ -278,9 +278,9 @@
       "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out",
       "source": "TechCrunch AI",
       "published": "2026-09-29T16:55:56+00:00",
-      "retrieved_at": "2026-09-29T16:58:41.332344+00:00",
+      "retrieved_at": "2026-09-29T22:09:20.878743+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
