@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T07:31:52.727065+00:00",
+  "updated": "2026-09-29T07:41:46.929912+00:00",
   "items": [
     {
       "title": "The Manhattan Project Mindset: How Nuclear Analogies Are Steering AI Policy Off Course",
@@ -96,6 +96,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "548745690eedfa555e8fad12"
+    },
+    {
+      "title": "Are Trump's US government funded ads illegal?",
+      "url": "https://bbc.co.uk/news/videos/c6lymekx0repo",
+      "source": "BBC World",
+      "published": "2026-09-29T01:12:52+00:00",
+      "retrieved_at": "2026-09-29T07:41:41.620157+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "President Trump has faced criticism after fronting adverts which were paid for by the US government.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "106eb33453a9e57513405cd2"
     },
     {
       "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
@@ -272,6 +288,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bbe40d56eee1bec901c5d206"
+    },
+    {
+      "title": "The Frenemy: How Australia navigates superpower rivalry",
+      "url": "https://bbc.co.uk/news/articles/c61wxyzr4rwyo",
+      "source": "BBC World",
+      "published": "2026-09-28T18:37:15+00:00",
+      "retrieved_at": "2026-09-29T07:41:41.620144+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Australia is increasingly concerned about China's military might - but Beijing is also its biggest trade partner.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f1180d2f4e0ca7974a37663c"
     },
     {
       "title": "Trump made the right decision to reject Iran’s offer",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a7f611ecfd3c985e64c0ba31"
-    },
-    {
-      "title": "Africa’s bid for a seat on the Security Council",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/24/africas-bid-for-a-seat-on-the-security-council",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T16:58:49+00:00",
-      "retrieved_at": "2026-09-24T17:27:24.004275+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Africa has 54 countries at the United Nations, but not one has a permanent seat on the powerful UN Security Council.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "68fb82eef524944aa2be32f6"
-    },
-    {
-      "title": "‘Hostile, but hooked’: What’s behind the US-China trade truce extension?",
-      "url": "https://aljazeera.com/economy/2026/9/24/hostile-but-hooked-whats-behind-the-us-china-trade-truce-extension",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T16:53:29+00:00",
-      "retrieved_at": "2026-09-24T19:22:24.206408+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Some analysts say extending the truce is pure optics - others say it's a useful step towards a more durable deal.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "788179ce36adf9d6ea3d9b2a"
     }
   ],
   "unverified_history": [
