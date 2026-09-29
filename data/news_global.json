@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T08:06:43.735131+00:00",
+  "updated": "2026-09-29T08:16:50.159493+00:00",
   "items": [
     {
       "title": "The Unhedgeable Bet: What the Future Combat Systems Can Teach Us About Acquisition",
@@ -16,6 +16,38 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bf822140a8644c9832e6a347"
+    },
+    {
+      "title": "Israel’s West Bank road closures turn routine journeys into long ordeals",
+      "url": "https://aljazeera.com/news/2026/9/29/israels-west-bank-road-closures-turn-routine-journeys-into-long-ordeals",
+      "source": "Al Jazeera",
+      "published": "2026-09-29T07:44:06+00:00",
+      "retrieved_at": "2026-09-29T08:16:44.801074+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Palestinians face delayed medical care and long journeys as Israel tightens movement restrictions across the West Bank.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ddea5d7b077d418be2f2f474"
+    },
+    {
+      "title": "Satellite images show Gaza in ruins three years into Israel’s genocidal war",
+      "url": "https://aljazeera.com/news/2026/9/29/satellite-images-show-gaza-in-ruins-three-years-into-israels-genocidal-war",
+      "source": "Al Jazeera",
+      "published": "2026-09-29T07:41:59+00:00",
+      "retrieved_at": "2026-09-29T08:16:44.801093+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Google Maps images show scale of Israel's destruction of Gaza, where more than 74,000 Palestinians have been killed.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "270f6678f317e66c10e70067"
     },
     {
       "title": "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f2a1ae252962b9ada9f29c91"
-    },
-    {
-      "title": "US and China presidents discuss cooperation, trade and AI risks",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/24/us-and-china-presidents-discuss-cooperation-trade-and-ai-risks",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T18:19:01+00:00",
-      "retrieved_at": "2026-09-24T18:37:21.148419+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Donald Trump and Xi Jinping discussed trade tensions, technology and AI risks at the White House",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ddabd361af13be7f7ee02718"
-    },
-    {
-      "title": "Iranian-American group sues Trump over war",
-      "url": "https://aljazeera.com/news/2026/9/24/iranian-american-group-sues-trump-over-war",
-      "source": "Al Jazeera",
-      "published": "2026-09-24T17:45:52+00:00",
-      "retrieved_at": "2026-09-24T18:02:35.221974+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Plaintiffs have families in Iran who have been harmed by the US war, they say.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a0c9abf7b8cc1c0178601435"
     }
   ],
   "unverified_history": [
