@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T19:18:47.602812+00:00",
+  "updated": "2026-09-29T19:23:47.996951+00:00",
   "items": [
     {
       "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
@@ -68,6 +68,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f2d355b1532528564635543a"
+    },
+    {
+      "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
+      "url": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says",
+      "source": "Ars Technica",
+      "published": "2026-09-29T17:29:14+00:00",
+      "retrieved_at": "2026-09-29T19:23:41.091132+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e539a971b455f0cd30617b4e"
     },
     {
       "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "33dbfe840bf255f2b36d749d"
-    },
-    {
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "url": "https://huggingface.co/blog/omlx",
-      "source": "Hugging Face",
-      "published": "2026-09-22T00:00:00+00:00",
-      "retrieved_at": "2026-09-22T06:50:50.379311+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "4ae2638ac96c5493b9652522"
     }
   ],
   "unverified_history": [
