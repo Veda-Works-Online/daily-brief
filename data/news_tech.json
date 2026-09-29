@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-29T09:01:47.461388+00:00",
+  "updated": "2026-09-29T10:02:49.780516+00:00",
   "items": [
+    {
+      "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+      "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech",
+      "source": "TechCrunch",
+      "published": "2026-09-29T10:00:00+00:00",
+      "retrieved_at": "2026-09-29T10:02:44.416492+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6b173ce60337651813a99f99"
+    },
     {
       "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
       "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "35c59ade0fe31cc6b2b6a6db"
-    },
-    {
-      "title": "The Search for Silicon Valley’s Most Powerful Woman",
-      "url": "https://wired.com/story/searching-for-powerful-women-silicon-valley",
-      "source": "Wired",
-      "published": "2026-09-21T10:00:00+00:00",
-      "retrieved_at": "2026-09-21T10:06:58.291509+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Women hold some of the most consequential jobs in tech, but they’re still not cult figures. WIRED investigates why.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "99823cfe235451682186339f"
     }
   ],
   "unverified_history": [
