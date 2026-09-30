@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T12:36:46.231515+00:00",
+  "updated": "2026-09-30T12:51:47.140903+00:00",
   "items": [
+    {
+      "title": "How does Iraq’s security change after US forces withdraw?",
+      "url": "https://aljazeera.com/news/2026/9/30/how-does-iraqs-security-change-after-us-forces-withdraw",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T12:33:05+00:00",
+      "retrieved_at": "2026-09-30T12:51:42.627535+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Iraq marks US troop withdrawal with 'Sovereignty Days', symbolising a shift after decades of foreign military presence.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "220ac3e0e89df28a650d3922"
+    },
     {
       "title": "‘Economic war’: Is Iran losing its leverage over the Strait of Hormuz?",
       "url": "https://aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "55bd9ab28a8aab1bbebb0005"
-    },
-    {
-      "title": "Al Jazeera rejects Netanyahu’s attack on journalists in UN speech",
-      "url": "https://aljazeera.com/news/2026/9/25/al-jazeera-rejects-netanyahus-attack-on-journalists-in-un-speech",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T17:34:16+00:00",
-      "retrieved_at": "2026-09-25T17:45:15.474342+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israeli PM's criticism of Al Jazeera during UNGA address threatens safety of journalists, the media network says.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1504ca761935e0064f810673"
     }
   ],
   "unverified_history": [
