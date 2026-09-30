@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T11:57:52.246473+00:00",
+  "updated": "2026-09-30T12:12:53.120718+00:00",
   "items": [
     {
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6dadbe48e0e206e565cced98"
+    },
+    {
+      "title": "Flydubai flight to Israel diverted after attack on pilot",
+      "url": "https://aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-after-attack-on-pilot",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T11:43:35+00:00",
+      "retrieved_at": "2026-09-30T12:12:47.395480+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Dramatic video shows the aftermath of an attack on a pilot on a Flydubai flight to the Israeli city of Tel Aviv.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5f199664cf0ff1513d47d4e8"
     },
     {
       "title": "Russian attacks on Ukraine’s Kyiv region kill four, target power grid",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5d3637584e0669c375798786"
-    },
-    {
-      "title": "Netanyahu’s UN belligerence wins cheers at home as world walks out",
-      "url": "https://aljazeera.com/news-analysis/2026/9/25/netanyahus-un-belligerence-wins-cheers-at-home-as-world-walks-out",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T17:03:03+00:00",
-      "retrieved_at": "2026-09-25T17:45:15.474401+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israeli PM's defiant UN speech alienated critics abroad but delighted his base as elections draw near.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2e03bf2b599df3846a4694db"
     }
   ],
   "unverified_history": [
