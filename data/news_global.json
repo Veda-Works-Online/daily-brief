@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T22:17:25.055216+00:00",
+  "updated": "2026-09-30T22:23:24.053643+00:00",
   "items": [
+    {
+      "title": "Russian drone crashes into Kyiv playground without exploding",
+      "url": "https://aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T22:13:35+00:00",
+      "retrieved_at": "2026-09-30T22:23:18.004588+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7a86a771b912295430dddcd7"
+    },
     {
       "title": "Gaza: NGO reports dire camp conditions, says Israel is moving 'Yellow Line'",
       "url": "https://dw.com/en/gaza-ngo-reports-dire-camp-conditions-says-israel-is-moving-yellow-line/a-79488777",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9db42682614d5ef76ada0d57"
-    },
-    {
-      "title": "China, US to open AI ‘communication channel’ after summit, White House says",
-      "url": "https://aljazeera.com/news/2026/9/26/china-us-to-open-ai-communication-channel-after-summit-white-house-says",
-      "source": "Al Jazeera",
-      "published": "2026-09-26T09:02:10+00:00",
-      "retrieved_at": "2026-09-26T09:22:53.482967+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "White House says the two countries agreed to open a 'bilateral communication channel' for AI incidents.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0308a9f4c7e75c28b2eb2ea5"
     }
   ],
   "unverified_history": [
