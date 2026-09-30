@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-30T20:37:20.857521+00:00",
+  "updated": "2026-09-30T20:42:16.391541+00:00",
   "items": [
+    {
+      "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+      "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition",
+      "source": "TechCrunch",
+      "published": "2026-09-30T20:39:09+00:00",
+      "retrieved_at": "2026-09-30T20:42:11.971161+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e8cc4d0950ecd16ac8913afd"
+    },
     {
       "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
       "url": "https://wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f8807f5116c393aa5f9f3cb6"
-    },
-    {
-      "title": "This App Makes Your Laptop Screen Look Like Paper",
-      "url": "https://wired.com/story/paperman-makes-your-laptop-screen-look-like-paper",
-      "source": "Wired",
-      "published": "2026-09-23T10:45:00+00:00",
-      "retrieved_at": "2026-09-23T10:51:43.794937+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The app Paperman gives your screen some added texture in an effort to make it easier on your eyes. It works best for reading, writing, or otherwise working with text.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4adb785026213acb63dd5546"
     }
   ],
   "unverified_history": [
