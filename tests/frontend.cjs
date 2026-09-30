@@ -138,7 +138,15 @@ ctx.window = {location: {hostname: 'veda575.github.io'}};
 assert.equal(ctx.dataURL('data/stocks.json'), 'https://raw.githubusercontent.com/veda575/daily-brief/main/data/stocks.json');
 ctx.window.location.hostname = 'localhost';
 assert.equal(ctx.dataURL('data/stocks.json'), 'data/stocks.json');
-// Commodity status stays visible; market-cap cells display only their value.
+// Field quality must remain visible for both commodities and market caps.
 ctx.staleCommodity = {...ctx.gold, validation_status:'STALE', source_timestamp:'2026-09-17T00:00:00Z'};
 assert(vm.runInContext("renderStocksTable([staleCommodity], 'commodities', inr)",ctx).includes('<small>STALE'));
-assert(!vm.runInContext("renderStocksTable([fieldRow], 'us')",ctx).includes('INDICATIVE'));
+assert(vm.runInContext("renderStocksTable([fieldRow], 'us')",ctx).includes('INDICATIVE'));
+const olderSnapshot = {refresh:{completed_at:'2026-09-30T04:00:00Z'}};
+const currentSnapshot = {refresh:{completed_at:'2026-09-30T04:05:00Z'}};
+assert.equal(ctx.newerSnapshot(currentSnapshot, olderSnapshot), currentSnapshot);
+assert.equal(ctx.newerSnapshot(olderSnapshot, currentSnapshot), currentSnapshot);
+assert.equal(ctx.newerSnapshot(null, currentSnapshot), currentSnapshot);
+ctx.fieldRow.fxValidation = 'STALE';
+ctx.fieldRow.field_metadata.marketCap.fx_source_timestamp = '2026-09-30T04:00:00Z';
+assert(ctx.renderStocksTable([ctx.fieldRow], 'asia').includes('FX STALE'));

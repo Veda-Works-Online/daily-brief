@@ -73,7 +73,7 @@ jobs:
           PYTHONUNBUFFERED: '1'
         run: python scripts/refresh_loop.py
       - name: Start successor without waiting for cron
-        if: success() && steps.worker.outcome == 'success'
+        if: ${{ !cancelled() && (steps.worker.outcome == 'success' || steps.worker.outcome == 'failure') }}
         env:
           GH_TOKEN: ${{ github.token }}
           DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
@@ -86,4 +86,5 @@ jobs:
           path: |
             work/market-attempts.json
             work/execution.json
+            work/refresh-failure.json
           retention-days: 7

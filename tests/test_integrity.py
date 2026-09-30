@@ -49,7 +49,7 @@ class IntegrityTests(unittest.TestCase):
     def test_precision_and_zero_change(self):
         result = self.accept()
         self.assertEqual(result['field_metadata']['indexValue']['decimal'], '100.000')
-        self.assertEqual(result['field_metadata']['changePercent']['decimal'], '0.0000')
+        self.assertEqual(result['field_metadata']['changePercent']['decimal'], '0.000000')
 
     def test_conflict(self):
         self.google['price'] = Decimal('150')

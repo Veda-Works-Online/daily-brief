@@ -34,6 +34,15 @@ refresh target, not a real-time market-data guarantee. The worker uses standard
 GitHub-hosted runners in this public repository. Review Actions billing before
 making the repository private.
 
+Refreshes retain a newer saved observation when a provider returns an older
+quote, label the retained snapshot stale, and record the rejected source time.
+The browser also retains its newer market snapshot if both endpoints lag.
+Daily changes on corroborated rows are calculated from the same Google price
+and previous close, with calculation inputs and timestamps in field metadata.
+Market-cap cells show their own verification status, source time and FX status.
+Worker failures exit nonzero and save `work/refresh-failure.json`; successor
+dispatch still runs after a worker failure, except when the run was cancelled.
+
 Checks: `python -m unittest discover -s tests -v` and `node tests/frontend.cjs`.
 
 Free-source additions: Shenzhen Component (399001.SZ) uses Eastmoney when its

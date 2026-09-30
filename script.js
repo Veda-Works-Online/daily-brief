@@ -90,6 +90,12 @@ function validateSnapshot(data, path) {
   }
   return data;
 }
+function snapshotTime(data) {
+  return Date.parse(data?.refresh?.completed_at || data?.updated || '') || 0;
+}
+function newerSnapshot(current, incoming) {
+  return current && snapshotTime(current) > snapshotTime(incoming) ? current : incoming;
+}
 async function loadJSON(path) {
   async function read(url) {
     const res = await fetch(url + '?t=' + Date.now(), { signal: AbortSignal.timeout(15000), cache: 'no-store' });
@@ -103,8 +109,7 @@ async function loadJSON(path) {
   const results = await Promise.allSettled([read(url), read(path)]);
   const snapshots = results.filter(r => r.status === 'fulfilled').map(r => r.value);
   if (!snapshots.length) throw results[0].reason;
-  const time = data => Date.parse(data.refresh?.completed_at || data.updated || '') || 0;
-  return snapshots.sort((a, b) => time(b) - time(a))[0];
+  return snapshots.sort((a, b) => snapshotTime(b) - snapshotTime(a))[0];
 }
 
 // ── Stocks rendering ──────────────────────────────────
@@ -154,9 +159,10 @@ function quoteStatus(row) {
 }
 function fieldStatus(row, field) {
   const meta = row.field_metadata?.[field];
-  if (!meta || !['STALE','INDICATIVE'].includes(meta.validation_status) && meta.quality !== 'INDICATIVE') return '';
+  if (!meta || field !== 'marketCap' && !['STALE','INDICATIVE'].includes(meta.validation_status) && meta.quality !== 'INDICATIVE') return '';
+  if (!['VERIFIED','STALE','INDICATIVE'].includes(meta.validation_status)) return '';
   const showIndicative = meta.quality === 'INDICATIVE' || meta.validation_status === 'INDICATIVE';
-  const label = [meta.validation_status === 'STALE' ? 'STALE' : '', showIndicative ? 'INDICATIVE' : '', meta.calculation ? 'Calculated' : '', meta.source || '', quoteTime(meta.source_timestamp, row.display_timezone)].filter(Boolean).join(' · ');
+  const label = [meta.validation_status === 'STALE' ? 'STALE' : '', showIndicative ? 'INDICATIVE' : field === 'marketCap' && meta.validation_status === 'VERIFIED' ? 'VERIFIED' : '', meta.calculation ? 'Calculated' : '', meta.source || '', quoteTime(meta.source_timestamp, row.display_timezone), field === 'marketCap' && meta.fx_source_timestamp ? 'FX ' + (row.fxValidation || meta.validation_status) + ' · ' + quoteTime(meta.fx_source_timestamp, row.display_timezone) : ''].filter(Boolean).join(' · ');
   return '<br><small title="' + escapeHtml(meta.calculation || meta.timestamp_scope || '') + '">' + escapeHtml(label) + '</small>';
 }
 
@@ -255,7 +261,7 @@ function renderStocksTable(stocks, region, usdInr = null) {
       <td class="muted" title="${escapeHtml(quoteStatus(s))}">${s.ticker === 'GOLD_24K_HYDERABAD' ? '<a href="' + escapeHtml(s.source === 'Economic Times' ? 'https://economictimes.indiatimes.com/goldrate/city-hyderabad,msid-88971989.cms' : 'https://groww.in/gold-rates/gold-rate-today-in-hyderabad') + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(s.source || 'Groww') + '</a>' : escapeHtml(marketReference(s, field, isCommodities ? usdInr : null))}</td>
       <td class="muted">${escapeHtml(s.sector || '')}</td>
       ${isCommodities ? '<td title="' + escapeHtml(commodity.quantityTitle) + '">' + escapeHtml(commodity.quantity) + '</td>' : ''}
-      <td class="num" title="${escapeHtml(isCommodities ? commodity.title + ' · ' + commodity.note : exactValue(s, field) || 'DATA UNAVAILABLE')}">${value}${isCommodities ? '<br><small>' + escapeHtml(commodity.note) + '</small>' : field === 'marketCap' ? '' : fieldStatus(s, field)}</td>
+      <td class="num" title="${escapeHtml(isCommodities ? commodity.title + ' · ' + commodity.note : exactValue(s, field) || 'DATA UNAVAILABLE')}">${value}${isCommodities ? '<br><small>' + escapeHtml(commodity.note) + '</small>' : fieldStatus(s, field)}</td>
       <td class="num">${canDisplay(s, 'changePercent') ? fmtGainLossPercent(s.changePercent, exactValue(s, 'changePercent')) : 'DATA UNAVAILABLE'}${fieldStatus(s, 'changePercent')}</td>
     </tr>`;
   }).join('');
@@ -490,7 +496,7 @@ async function refreshData() {
       loadJSON('data/news_india.json'), loadJSON('data/news_global.json'),
     ]);
     const expanded = new Set([...document.querySelectorAll('.news-card.expanded .read-more')].map(a => a.href));
-    if (results[0].status === 'fulfilled' && results[0].value?.regions) stocksData = results[0].value;
+    if (results[0].status === 'fulfilled' && results[0].value?.regions) stocksData = newerSnapshot(stocksData, results[0].value);
     ['tech', 'india', 'global'].forEach((section, i) => {
       const result = results[i + 1];
       if (result.status === 'fulfilled' && Array.isArray(result.value?.items)) newsCache[section] = result.value.items;

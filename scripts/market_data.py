@@ -570,6 +570,29 @@ def unavailable(row, reason):
     return result
 
 
+def prevent_quote_regression(previous, candidate):
+    """Never replace a saved observation with an older provider response.
+
+    Preserve the whole snapshot (including native/converted cap provenance),
+    and mark it stale because this attempt did not confirm that observation.
+    A ticker migration is a different instrument and must not retain old data.
+    """
+    if (previous.get('verification_version') != 1
+            or previous.get('ticker') != candidate.get('ticker')
+            or not previous.get('source_timestamp')
+            or not candidate.get('source_timestamp')):
+        return candidate
+    if timestamp(candidate['source_timestamp']) >= timestamp(previous['source_timestamp']):
+        return candidate
+    retained = unavailable(previous, 'OLDER_SOURCE_OBSERVATION')
+    retained['rejected_observation'] = {
+        'source': candidate.get('source'),
+        'source_timestamp': candidate['source_timestamp'],
+        'retrieved_at': candidate.get('retrieved_at'),
+    }
+    return retained
+
+
 def yahoo_observation(row, symbol, quote, now):
     """Explicit single-source fallback for equities/indexes, never futures."""
     expected = 'INDEX' if symbol in INDEX_IDS else 'EQUITY'
@@ -659,15 +682,21 @@ def accepted(row, symbol, a, b, now):
                 out.setdefault('field_conflicts', []).append(field)
     if out['dayLow'] and out['dayHigh'] and out['dayLow'] > out['dayHigh']:
         raise ValueError('INVALID_DAY_RANGE')
-    # Provider changes must reconcile with its own regular-session previous close.
+    # Keep price, previous close and changes on the same Google observation.
+    # Yahoo may corroborate the observation but its later change is not the
+    # change belonging to the displayed Google price.
     if out['previousClose']:
-        prev, price = decimal(a['regularMarketPreviousClose']), decimal(a['regularMarketPrice'])
-        calculated = price-prev
-        pct = calculated/prev*100
-        for field, key, expected, tolerance in [('absoluteChange', 'regularMarketChange', calculated, Decimal('0.02')),
-                                               ('changePercent', 'regularMarketChangePercent', pct, Decimal('0.02'))]:
-            if a.get(key) is not None and abs(decimal(a[key])-expected) <= tolerance:
-                put(field, a[key], 'Yahoo Finance')
+        prev, price = decimal(out['previousClose']), decimal(out['indexValue'])
+        with localcontext() as context:
+            context.prec = 34
+            calculated = price - prev
+            pct = (calculated / prev * 100).quantize(Decimal('0.000001'), rounding=ROUND_HALF_UP)
+        for field, value in [('absoluteChange', calculated), ('changePercent', pct)]:
+            put(field, value)
+            out['field_metadata'][field].update(
+                calculation='Google quote minus same-source previous close' if field == 'absoluteChange' else
+                    '(Google quote / same-source previous close - 1) * 100; rounded to 6 decimal places',
+                input_price=price, input_previous_close=prev, currency=None if field == 'changePercent' else a['currency'])
     if a.get('marketCap') is not None and b.get('marketCap') is not None:
         cap = decimal(a['marketCap'])
         if cap > 0 and abs(cap-b['marketCap']) <= b['cap_resolution']/2:
@@ -855,7 +884,7 @@ def refresh_markets(payload):
     def refresh(row):
         symbol = row.get('source_symbol') or ('BHARTIARTL.NS' if row['ticker'] == 'BHARTIARTL' else row['ticker'])
         if symbol in {'GC=F', GOLD_ID}:
-            result = refresh_gold(row)
+            result = prevent_quote_regression(row, refresh_gold(row))
             attempts.append({'ticker': result['ticker'], 'retrieved_at': now_iso(),
                              'validation_status': result['validation_status'],
                              'reason': result.get('error', {}).get('reason')})
@@ -909,6 +938,7 @@ def refresh_markets(payload):
                 result = apply_free_source(result, symbol, extras[symbol], quotes.get(symbol, {}), datetime.now(timezone.utc))
             except (ValueError, KeyError, TypeError, OverflowError, ZeroDivisionError) as exc:
                 extra_errors[symbol] = str(exc) if isinstance(exc, ValueError) else type(exc).__name__
+        result = prevent_quote_regression(row, result)
         attempts.append({'ticker': row['ticker'], 'retrieved_at': now_iso(),
                          'validation_status': result['validation_status'], 'reason': result.get('error', {}).get('reason'),
                          'free_source_error':extra_errors.get(symbol),

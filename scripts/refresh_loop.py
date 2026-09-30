@@ -1,5 +1,6 @@
 """Bounded Actions worker; the workflow starts a successor after five hours."""
 import argparse
+import json
 import os
 import subprocess
 import sys
@@ -54,11 +55,16 @@ def main():
         except (subprocess.SubprocessError, RuntimeError) as exc:
             # A successor uses a clean checkout and reruns checks. Do not
             # continue from a rejected commit or a partly generated snapshot.
-            print('::warning::Refresh interrupted: ' + type(exc).__name__, flush=True)
-            return
+            evidence = ROOT / 'work' / 'refresh-failure.json'
+            evidence.parent.mkdir(parents=True, exist_ok=True)
+            evidence.write_text(json.dumps({'status': 'FAILED',
+                'failed_at': datetime.now(timezone.utc).isoformat(),
+                'reason': type(exc).__name__}), encoding='utf-8')
+            print('::error::Refresh interrupted: ' + type(exc).__name__, flush=True)
+            return 1
         tick = next_tick(started, time.monotonic(), args.interval_seconds)
         time.sleep(max(0, min(tick, deadline) - time.monotonic()))
 
 
 if __name__ == '__main__':
-    main()
+    sys.exit(main())
