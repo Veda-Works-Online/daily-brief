@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-30T16:01:57.721107+00:00",
+  "updated": "2026-09-30T16:06:39.557241+00:00",
   "items": [
+    {
+      "title": "Google is paying 100 websites for contributions to AI Overviews, but the amounts are tiny",
+      "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny",
+      "source": "Ars Technica AI",
+      "published": "2026-09-30T16:03:48+00:00",
+      "retrieved_at": "2026-09-30T16:06:34.602958+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e53a6155c655b8b49c9422af"
+    },
     {
       "title": "DoorDash launches an AI agent you can text to order food",
       "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b1efd16db6f56c6f8ec75745"
-    },
-    {
-      "title": "Introducing GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "source": "OpenAI",
-      "published": "2026-09-22T18:00:00+00:00",
-      "retrieved_at": "2026-09-22T19:08:24.214943+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "0c462ff5f8944a25fc5095e4"
     }
   ],
   "unverified_history": [
