@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T05:05:06.988866+00:00",
+  "updated": "2026-09-30T05:15:08.758031+00:00",
   "items": [
+    {
+      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "url": "https://bbc.co.uk/news/videos/c8n5d0e0n6wdo",
+      "source": "BBC World",
+      "published": "2026-09-30T05:02:50+00:00",
+      "retrieved_at": "2026-09-30T05:15:05.028055+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "092244fb8912e4c793117d74"
+    },
     {
       "title": "Israel’s Lapid accuses Netanyahu of ‘fear-mongering’ over attack warning",
       "url": "https://aljazeera.com/news/2026/9/30/israels-lapid-accuses-netanyahu-of-fear-mongering-over-attack-warning",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fea4b25af619d1e33a99ec12"
-    },
-    {
-      "title": "China swimmer makes Asian Games history as Thai sprinter wins track 100m",
-      "url": "https://aljazeera.com/sports/2026/9/25/china-swimmer-makes-asian-games-history-as-thai-sprinter-wins-track-100m",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T14:47:49+00:00",
-      "retrieved_at": "2026-09-25T15:05:14.102303+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "China's Zhang Zhanshuo, 19, became the first swimmer to win seven golds at a single Asian Games.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0119ff731ee561fb1a958655"
     }
   ],
   "unverified_history": [
