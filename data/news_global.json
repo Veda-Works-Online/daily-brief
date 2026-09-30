@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T02:05:18.985591+00:00",
+  "updated": "2026-09-30T02:35:13.197188+00:00",
   "items": [
+    {
+      "title": "US Senate blocks resolution seeking report on Americans killed in West Bank",
+      "url": "https://aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T02:26:20+00:00",
+      "retrieved_at": "2026-09-30T02:35:09.621131+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The resolution cites a 'lack of accountability' by Israel's government and an 'inability to secure justice' by the US.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1e5326ab5fc32d0eae86ac0c"
+    },
     {
       "title": "Morocco’s pro-Palestine protests challenge Rabat’s deepening Israel ties",
       "url": "https://aljazeera.com/news/2026/9/30/moroccos-pro-palestine-protests-challenge-rabats-deepening-israel-ties",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8cccc4e1970727ee26216ff6"
-    },
-    {
-      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
-      "url": "https://bbc.co.uk/news/articles/c5dj401d88l3o",
-      "source": "BBC World",
-      "published": "2026-09-25T13:23:33+00:00",
-      "retrieved_at": "2026-09-25T14:14:28.541022+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "13d7fc72562aa53af0ef5c8b"
     }
   ],
   "unverified_history": [
