@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-30T14:51:37.651720+00:00",
+  "updated": "2026-09-30T15:06:38.434662+00:00",
   "items": [
+    {
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio",
+      "source": "Google DeepMind",
+      "published": "2026-09-30T15:03:07+00:00",
+      "retrieved_at": "2026-09-30T15:06:33.630813+00:00",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://deepmind.google/blog/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "8d6b407bd70776c88485322a"
+    },
     {
       "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
       "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d03d9906d86668023c3681d9"
-    },
-    {
-      "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
-      "url": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt",
-      "source": "TechCrunch",
-      "published": "2026-09-22T15:00:00+00:00",
-      "retrieved_at": "2026-09-22T15:03:28.369147+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4a7e810d25a69e7040035723"
     }
   ],
   "unverified_history": [
