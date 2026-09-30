@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T02:50:17.458745+00:00",
+  "updated": "2026-09-30T03:20:16.905745+00:00",
   "items": [
+    {
+      "title": "Trump backs AI self-regulation at tech summit but is it enough?",
+      "url": "https://aljazeera.com/video/newsfeed/2026/9/30/trump-backs-ai-self-regulation-at-tech-summit-but-is-it-enough",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T03:00:59+00:00",
+      "retrieved_at": "2026-09-30T03:20:13.345593+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US President Donald Trump and leading tech companies have signed a voluntary agreement to regulate AI development.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c77b3649e9517853cacdba6c"
+    },
     {
       "title": "Three takeaways from Trump's 'Super Intelligence' summit",
       "url": "https://bbc.co.uk/news/articles/cme30dz5vkzko",
@@ -98,20 +114,20 @@
       "story_fingerprint": "2eb50ed0fb88d126c9360317"
     },
     {
-      "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
+      "title": "Trump, tech bosses sign voluntary pact pledging ‘robust’ AI safeguards",
       "url": "https://aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development",
       "source": "Al Jazeera",
       "published": "2026-09-29T23:43:32+00:00",
-      "retrieved_at": "2026-09-30T00:19:27.564862+00:00",
+      "retrieved_at": "2026-09-30T03:20:13.345728+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Accord says companies will implement 'robust internal controls' for their AI systems as concerns mount over safety.",
+      "summary": "Trump touts self-regulation amid calls for formal rules by international community and industry .",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "d3485a5de79de5208266275b"
+      "story_fingerprint": "5edfe73131002e6e6c99812c"
     },
     {
       "title": "Jack Smith defends investigations into Trump during tense US Senate hearing",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9d47e0ffbfd5e291a0c8f30a"
-    },
-    {
-      "title": "Why Eritrea matters as fighting returns to Ethiopia's Tigray",
-      "url": "https://dw.com/en/why-eritrea-matters-as-fighting-returns-to-ethiopia-s-tigray/a-79426582",
-      "source": "DW",
-      "published": "2026-09-25T13:34:00+00:00",
-      "retrieved_at": "2026-09-25T18:35:14.517263+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The US has removed key sanctions on Eritrea as Houthi attacks disrupt Red Sea shipping and fighting escalates in Ethiopia's Tigray region. Analysts say Eritrea's strategic value is growing.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1ad420b25edd9e64ff124661"
     }
   ],
   "unverified_history": [
