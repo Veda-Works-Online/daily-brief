@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-30T15:41:46.044021+00:00",
+  "updated": "2026-09-30T15:56:50.014609+00:00",
   "items": [
+    {
+      "title": "Instinct’s new product recommendations are giving some users the ick",
+      "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick",
+      "source": "TechCrunch AI",
+      "published": "2026-09-30T15:56:28+00:00",
+      "retrieved_at": "2026-09-30T15:56:45.069917+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a3961acd1de3fb5fc2847671"
+    },
     {
       "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
       "url": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "24362e5fd3dac4324239b15d"
-    },
-    {
-      "title": "Rabbit Is Back, This Time With an AI Agent App",
-      "url": "https://wired.com/story/rabbit-r1-os3-jesse-lyu",
-      "source": "Wired",
-      "published": "2026-09-22T16:00:00+00:00",
-      "retrieved_at": "2026-09-22T16:03:27.256457+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Two years after trying to sidestep mobile apps with dedicated AI hardware, Rabbit is launching OS3, a cross-platform agent that lives on the screens you already use.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8cae71d3498803d9a7156aa6"
     }
   ],
   "unverified_history": [
