@@ -28,7 +28,7 @@ read their local data files.
 
 The header shows the actual completed source-check time and warns after ten
 minutes without a refresh. Every tab displays quote timestamps and stale status;
-individual indicative/stale fields remain labelled except value-only market-cap cells. Source delays, market closures,
+individual indicative/stale fields remain labelled except value-only market-cap and gain/loss percentage cells. Source delays, market closures,
 GitHub runner handoffs and outages can still delay quotes; five minutes is a
 refresh target, not a real-time market-data guarantee. The worker uses standard
 GitHub-hosted runners in this public repository. Review Actions billing before
@@ -39,7 +39,8 @@ quote, label the retained snapshot stale, and record the rejected source time.
 The browser also retains its newer market snapshot if both endpoints lag.
 Daily changes on corroborated rows are calculated from the same Google price
 and previous close, with calculation inputs and timestamps in field metadata.
-Market-cap cells show only formatted values; verification, source-time and FX
+Market-cap cells show only formatted values, and GAIN/LOSS% cells show only signed
+percentage values. Missing data remains explicitly unavailable. Verification, source-time and FX
 metadata remain in the data, and row-level quote status remains visible.
 Worker failures exit nonzero and save `work/refresh-failure.json`; successor
 dispatch still runs after a worker failure, except when the run was cancelled.
