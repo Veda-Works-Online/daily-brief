@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-30T20:02:20.447736+00:00",
+  "updated": "2026-09-30T20:17:20.514589+00:00",
   "items": [
+    {
+      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet",
+      "source": "Ars Technica AI",
+      "published": "2026-09-30T20:11:08+00:00",
+      "retrieved_at": "2026-09-30T20:17:12.530821+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "So much for Gemini 3.5 Pro.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "459cfb4879af9683844f29a3"
+    },
     {
       "title": "Gemini 4 Argon: our next era of frontier intelligence",
       "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
@@ -17,6 +34,23 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "c499d4647ea27b42edffda01"
+    },
+    {
+      "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt",
+      "source": "Ars Technica AI",
+      "published": "2026-09-30T19:31:25+00:00",
+      "retrieved_at": "2026-09-30T20:17:12.530843+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b094094ec7476e185c4ba626"
     },
     {
       "title": "The Battle to Be Your Personal AI Agent Is Here",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "964ca6be50ea2ce54645c924"
-    },
-    {
-      "title": "She’s 28, Loves God and Her Family, and Might Be the Reason You Can’t Have Kids",
-      "url": "https://wired.com/story/emma-waters-fertility-tech",
-      "source": "Wired",
-      "published": "2026-09-23T10:00:00+00:00",
-      "retrieved_at": "2026-09-23T10:05:52.804303+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "No IVF. No surrogacy. No polygenic tests. Emma Waters is leading a national fight against fertility tech—with her hot husband’s permission, of course.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "41ccca8a86ed068fa8eb583d"
-    },
-    {
-      "title": "The AI Hype Index: AI loves cheating",
-      "url": "https://technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating",
-      "source": "MIT Tech Review",
-      "published": "2026-09-23T09:00:00+00:00",
-      "retrieved_at": "2026-09-23T19:52:46.885536+00:00",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4a73a76514baa8e9e982fc90"
     }
   ],
   "unverified_history": [
