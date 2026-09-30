@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T10:21:55.237655+00:00",
+  "updated": "2026-09-30T11:02:54.022220+00:00",
   "items": [
+    {
+      "title": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
+      "url": "https://aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-2",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T10:29:39+00:00",
+      "retrieved_at": "2026-09-30T11:02:48.858816+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A Flydubai plane travelling from Dubai to Israel made an emergency landing in Saudi Arabia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "effc2e72279a6848caabd1a3"
+    },
     {
       "title": "Is US President Donald Trump right to rename AI as 'Super Intelligence'?",
       "url": "https://dw.com/en/is-us-president-donald-trump-right-to-rename-ai-as-super-intelligence/a-79430388",
@@ -32,22 +48,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "481ede0880b047b16f4d6f19"
-    },
-    {
-      "title": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
-      "url": "https://aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T08:00:10+00:00",
-      "retrieved_at": "2026-09-30T09:31:45.461593+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Airline says plane experiences an 'incident' en route from Dubai to Tel Aviv, lands safely at Saudi Arabia's Tabuk airport.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "effc2e72279a6848caabd1a3"
     },
     {
       "title": "Israel-bound flight diverted after fight between pilots",
