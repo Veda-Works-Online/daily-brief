@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-30T18:42:21.389800+00:00",
+  "updated": "2026-09-30T18:52:20.834480+00:00",
   "items": [
+    {
+      "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+      "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
+      "source": "Ars Technica AI",
+      "published": "2026-09-30T18:47:01+00:00",
+      "retrieved_at": "2026-09-30T18:52:16.628782+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Trump gets dozens of AI firms to agree to voluntary safety tests.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c68217bc5219858498f2743c"
+    },
     {
       "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
       "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "577e40d695a8e6dfa0c63b4d"
-    },
-    {
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms",
-      "source": "TechCrunch AI",
-      "published": "2026-09-22T21:56:43+00:00",
-      "retrieved_at": "2026-09-22T21:59:19.654288+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ffdb6e76f2a25a633b639ac2"
     }
   ],
   "unverified_history": [
