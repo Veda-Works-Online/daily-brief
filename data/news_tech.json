@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T16:31:48.769839+00:00",
+  "updated": "2026-09-30T16:36:42.523453+00:00",
   "items": [
     {
       "title": "Meta disputes claim that Muse read a user’s private messages without permission",
@@ -155,23 +155,6 @@
       "story_fingerprint": "c995fb1c370f3ad56fd4012e"
     },
     {
-      "title": "Instagram rolls out an AI video assistant for creators",
-      "url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators",
-      "source": "TechCrunch",
-      "published": "2026-09-30T14:30:00+00:00",
-      "retrieved_at": "2026-09-30T16:31:42.125787+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "55df9504b3a55753bfa63027"
-    },
-    {
       "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026",
       "source": "TechCrunch AI",
@@ -187,6 +170,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "aafe4b50a17c6eb84f6953ab"
+    },
+    {
+      "title": "Instagram rolls out an AI video assistant for creators",
+      "url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators",
+      "source": "TechCrunch",
+      "published": "2026-09-30T14:30:00+00:00",
+      "retrieved_at": "2026-09-30T16:31:42.125787+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "55df9504b3a55753bfa63027"
     },
     {
       "title": "Instagram rolls out an AI video editor for creators",
