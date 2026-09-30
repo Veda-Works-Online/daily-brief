@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T18:32:25.098362+00:00",
+  "updated": "2026-09-30T18:37:21.021627+00:00",
   "items": [
     {
       "title": "Lawsuit demands OpenAI halt unsafe development that caused Hugging Face hack",
@@ -206,6 +206,23 @@
       "story_fingerprint": "8d6b407bd70776c88485322a"
     },
     {
+      "title": "Discord gives more advertisers more tools to target its users",
+      "url": "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users",
+      "source": "Ars Technica",
+      "published": "2026-09-30T15:01:40+00:00",
+      "retrieved_at": "2026-09-30T18:37:16.846293+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Discord is \"opening the platform to advertisers, regardless of their budget.\"",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4f346c6bf52d04c3a86374e4"
+    },
+    {
       "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
       "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states",
       "source": "TechCrunch",
@@ -221,6 +238,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c995fb1c370f3ad56fd4012e"
+    },
+    {
+      "title": "BMW reveals US 3 series pricing: The EV carries a hefty premium",
+      "url": "https://arstechnica.com/cars/2026/09/bmw-opens-us-order-books-for-the-new-gas-and-electric-3-series",
+      "source": "Ars Technica",
+      "published": "2026-09-30T14:42:58+00:00",
+      "retrieved_at": "2026-09-30T18:37:16.846318+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "The 2027 BMW 330 starts at $49,900, the i3 50 xDrive at $61,500.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "51b3bf87b0eac742db5f1cfd"
     },
     {
       "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ffdb6e76f2a25a633b639ac2"
-    },
-    {
-      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money",
-      "source": "Ars Technica AI",
-      "published": "2026-09-22T21:25:18+00:00",
-      "retrieved_at": "2026-09-22T21:34:19.491831+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "The frontier AI model race has entered its comparison shopping phase.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "18e2128bb8727e9aca6a9264"
-    },
-    {
-      "title": "Better prompt caching for GPT-6",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source": "OpenAI",
-      "published": "2026-09-22T21:00:00+00:00",
-      "retrieved_at": "2026-09-22T20:59:18.987821+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "ed777bc50a956e4a4e129c1a"
     }
   ],
   "unverified_history": [
