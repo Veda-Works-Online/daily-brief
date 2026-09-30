@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T02:35:13.197188+00:00",
+  "updated": "2026-09-30T02:50:17.458745+00:00",
   "items": [
+    {
+      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+      "url": "https://bbc.co.uk/news/articles/cme30dz5vkzko",
+      "source": "BBC World",
+      "published": "2026-09-30T02:41:34+00:00",
+      "retrieved_at": "2026-09-30T02:50:13.787771+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9497194d2b813aa2651e1f90"
+    },
     {
       "title": "US Senate blocks resolution seeking report on Americans killed in West Bank",
       "url": "https://aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1ad420b25edd9e64ff124661"
-    },
-    {
-      "title": "Why Eritrea matters as fighting returns to Tigray",
-      "url": "https://dw.com/en/why-eritrea-matters-as-fighting-returns-to-tigray/a-79426582",
-      "source": "DW",
-      "published": "2026-09-25T13:34:00+00:00",
-      "retrieved_at": "2026-09-25T14:20:13.192270+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The US has removed key sanctions on Eritrea as Houthi attacks disrupt Red Sea shipping and fighting escalates in Ethiopia's Tigray region. Analysts say Eritrea's strategic value is growing.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8cccc4e1970727ee26216ff6"
     }
   ],
   "unverified_history": [
