@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T16:36:49.964933+00:00",
+  "updated": "2026-09-30T17:06:46.189989+00:00",
   "items": [
+    {
+      "title": "Pentagon says US troop withdrawal from Iraq is complete",
+      "url": "https://aljazeera.com/news/2026/9/30/pentagon-says-us-troop-withdrawal-from-iraq-is-complete",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T16:33:02+00:00",
+      "retrieved_at": "2026-09-30T17:06:41.252199+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The withdrawal ends two decades of foreign intervention in Iraq as part of 'global war on terror' and anti-ISIL fight.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "52675b406137977bfd932bf2"
+    },
     {
       "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
       "url": "https://aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "abc0311fa3f6ab54605a8020"
-    },
-    {
-      "title": "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank",
-      "url": "https://aljazeera.com/features/2026/9/25/how-israels-blue-line-team-seizes-palestinian-land-in-the-west-bank",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T19:24:46+00:00",
-      "retrieved_at": "2026-09-25T19:51:22.292168+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Little-known Israeli map team is redrawing land boundaries as Palestinians face growing illegal settlement expansion.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6a98481f6a243d20724fb280"
     }
   ],
   "unverified_history": [
