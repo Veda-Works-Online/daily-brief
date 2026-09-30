@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-30T17:37:19.154920+00:00",
+  "updated": "2026-09-30T17:47:19.978981+00:00",
   "items": [
+    {
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots",
+      "source": "TechCrunch",
+      "published": "2026-09-30T17:45:00+00:00",
+      "retrieved_at": "2026-09-30T17:47:16.043469+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f4aebcda9084b37f5aaaffdf"
+    },
     {
       "title": "The ugly economics of consumer AI",
       "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2b9d20476b3deb3aa7ff0738"
-    },
-    {
-      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting",
-      "source": "Ars Technica AI",
-      "published": "2026-09-22T19:28:23+00:00",
-      "retrieved_at": "2026-09-22T19:34:30.909207+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a0095bb2019d601c32e1b73c"
     }
   ],
   "unverified_history": [
