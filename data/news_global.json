@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T04:15:14.530616+00:00",
+  "updated": "2026-09-30T04:30:09.359754+00:00",
   "items": [
+    {
+      "title": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
+      "url": "https://bbc.co.uk/news/articles/c9kgvm275ev8o",
+      "source": "BBC World",
+      "published": "2026-09-30T04:21:11+00:00",
+      "retrieved_at": "2026-09-30T04:30:05.853719+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The owner said he chose the name because he wanted to run the \"best Chinese restaurant\" in South Korea.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6646c2df28fc30379233efb0"
+    },
     {
       "title": "Three takeaways from Trump's 'Super Intelligence' summit",
       "url": "https://bbc.co.uk/news/articles/cme30dz5vkzko",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4333ecbd87c2c96e8b6d1444"
-    },
-    {
-      "title": "The Trump-Xi summit exposes a US disadvantage in the Global South",
-      "url": "https://aljazeera.com/opinions/2026/9/25/the-trump-xi-summit-exposes-a-us-disadvantage-in-the-global-south",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T14:00:26+00:00",
-      "retrieved_at": "2026-09-25T14:30:15.068146+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Washington asks for alignment while Beijing offers strategic flexibility without military entanglement.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0e3793ff88d8e560c8cb0352"
     }
   ],
   "unverified_history": [
