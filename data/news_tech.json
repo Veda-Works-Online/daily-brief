@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-30T20:17:20.514589+00:00",
+  "updated": "2026-09-30T20:22:16.856437+00:00",
   "items": [
+    {
+      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+      "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america",
+      "source": "TechCrunch",
+      "published": "2026-09-30T20:20:02+00:00",
+      "retrieved_at": "2026-09-30T20:22:11.905681+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this…",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bfe63997644576010d974038"
+    },
     {
       "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
       "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "23343b7e39f777744225e740"
-    },
-    {
-      "title": "Introducing MentalHealthBench",
-      "url": "https://openai.com/index/introducing-mentalhealthbench",
-      "source": "OpenAI",
-      "published": "2026-09-23T10:00:00+00:00",
-      "retrieved_at": "2026-09-23T19:57:59.511268+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "964ca6be50ea2ce54645c924"
     }
   ],
   "unverified_history": [
