@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T03:20:16.905745+00:00",
+  "updated": "2026-09-30T04:05:12.986953+00:00",
   "items": [
+    {
+      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+      "url": "https://bbc.co.uk/news/articles/cwj3dkvpm4e7o",
+      "source": "BBC World",
+      "published": "2026-09-30T03:38:09+00:00",
+      "retrieved_at": "2026-09-30T04:05:09.372460+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "256923271982497e6064b1f1"
+    },
     {
       "title": "Trump backs AI self-regulation at tech summit but is it enough?",
       "url": "https://aljazeera.com/video/newsfeed/2026/9/30/trump-backs-ai-self-regulation-at-tech-summit-but-is-it-enough",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0e3793ff88d8e560c8cb0352"
-    },
-    {
-      "title": "Jannik Sinner withdraws from China Open as recovery from injury continues",
-      "url": "https://aljazeera.com/sports/2026/9/25/jannik-sinner-withdraws-from-china-open-as-recovery-from-injury-continues",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T13:57:47+00:00",
-      "retrieved_at": "2026-09-25T14:30:15.068156+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The 25-year-old Italian has not played since capturing his fifth ​major title at Wimbledon in July due to a knee injury.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9d47e0ffbfd5e291a0c8f30a"
     }
   ],
   "unverified_history": [
