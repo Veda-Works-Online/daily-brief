@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T07:56:45.470189+00:00",
+  "updated": "2026-09-30T08:01:47.269707+00:00",
   "items": [
+    {
+      "title": "Israel-bound flight diverted after fight between pilots",
+      "url": "https://bbc.co.uk/news/articles/cqjdv7pmj9dno",
+      "source": "BBC World",
+      "published": "2026-09-30T07:51:26+00:00",
+      "retrieved_at": "2026-09-30T08:01:42.113650+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8a2e179593da6c9e82eac292"
+    },
     {
       "title": "‘Dire situation’: Lebanese prisoners on hunger strike for 18 days",
       "url": "https://aljazeera.com/news/2026/9/30/dire-situation-lebanese-prisoners-on-hunger-strike-for-18-days",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "522aedb76c32bda1ec4bd7f1"
-    },
-    {
-      "title": "Trump hails ‘very productive’ talks with China’s Xi Jinping",
-      "url": "https://aljazeera.com/news/2026/9/25/trump-hails-very-productive-talks-with-chinas-xi",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T15:19:34+00:00",
-      "retrieved_at": "2026-09-25T19:10:17.007343+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Xi says future of China-US ties 'bright' after state visit that included discussions about Iran and AI cooperation.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "93d4f83858905a18b6dc8d7f"
     }
   ],
   "unverified_history": [
