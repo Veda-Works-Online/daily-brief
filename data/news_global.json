@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T15:11:45.094081+00:00",
+  "updated": "2026-09-30T15:41:53.474882+00:00",
   "items": [
+    {
+      "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
+      "url": "https://aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T15:27:26+00:00",
+      "retrieved_at": "2026-09-30T15:41:48.832403+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israel's prime minister said one of the pilots stabbed the other and then tried to crash the plane.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5b2ccadbe304a9be6047a2e4"
+    },
     {
       "title": "Garvaghy Road standoff brings Northern Ireland’s old wounds back to surface",
       "url": "https://aljazeera.com/news/2026/9/30/garvaghy-road-standoff-brings-northern-irelands-old-wounds-back-to-surface",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "01bec99c1763dea81352245f"
-    },
-    {
-      "title": "Media outlets banned by Trump resume White House coverage after judge's order",
-      "url": "https://bbc.co.uk/news/articles/cqe8ek7608mlo",
-      "source": "BBC World",
-      "published": "2026-09-25T18:36:30+00:00",
-      "retrieved_at": "2026-09-25T18:40:16.764038+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "US TV news coverage of the White House returns to normal after a judge lifted Trump's ban of three news outlets.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "935145d1493e1c5d9fd1ec2c"
     }
   ],
   "unverified_history": [
