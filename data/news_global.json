@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T11:47:54.503643+00:00",
+  "updated": "2026-09-30T11:57:52.246473+00:00",
   "items": [
+    {
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "url": "https://bbc.co.uk/news/articles/ckjw5jx2l393o",
+      "source": "BBC World",
+      "published": "2026-09-30T11:47:27+00:00",
+      "retrieved_at": "2026-09-30T11:57:47.006336+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "At least six people were killed and 33 others injured across the country in the overnight attacks, local authorities reported.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6dadbe48e0e206e565cced98"
+    },
     {
       "title": "Russian attacks on Ukraine’s Kyiv region kill four, target power grid",
       "url": "https://aljazeera.com/news/2026/9/30/russian-attacks-on-ukraines-kyiv-region-kill-four-target-power-grid",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2e03bf2b599df3846a4694db"
-    },
-    {
-      "title": "Israeli shelling continues as Lebanon’s PM demands withdrawal in UN speech",
-      "url": "https://aljazeera.com/news/2026/9/25/israeli-shelling-continues-as-lebanons-pm-demands-withdrawal-in-un-speech",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T16:57:39+00:00",
-      "retrieved_at": "2026-09-25T17:10:13.483774+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Lebanese Prime Minister Nawaf Salam wants a US-brokered ceasefire to be consolidated and for Israel to retreat.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d2739aa5b3f1640816d40837"
     }
   ],
   "unverified_history": [
