@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-30T20:22:16.856437+00:00",
+  "updated": "2026-09-30T20:37:20.857521+00:00",
   "items": [
+    {
+      "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+      "url": "https://wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear",
+      "source": "Wired",
+      "published": "2026-09-30T20:30:09+00:00",
+      "retrieved_at": "2026-09-30T20:37:13.186222+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "78244a4b71e6ecb8699c54e2"
+    },
     {
       "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
       "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4adb785026213acb63dd5546"
-    },
-    {
-      "title": "SmartLabels QR Code Organizing System Review (2026): AI Made Sense of My Junk Drawer",
-      "url": "https://wired.com/review/smartlabels-qr-code-organizing-system",
-      "source": "Wired",
-      "published": "2026-09-23T10:39:00+00:00",
-      "retrieved_at": "2026-09-23T10:41:43.465899+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "SmartLabels can inventory everything in a photo, but I tested whether its AI could survive the chaos of my busy household.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "23343b7e39f777744225e740"
     }
   ],
   "unverified_history": [
