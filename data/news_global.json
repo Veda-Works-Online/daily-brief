@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T12:51:47.140903+00:00",
+  "updated": "2026-09-30T13:11:49.768028+00:00",
   "items": [
     {
       "title": "How does Iraq’s security change after US forces withdraw?",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "220ac3e0e89df28a650d3922"
+    },
+    {
+      "title": "What we know about the Dubai-Israel plane incident after reported stabbing",
+      "url": "https://bbc.co.uk/news/articles/cqjdv7pmj9dno",
+      "source": "BBC World",
+      "published": "2026-09-30T12:30:05+00:00",
+      "retrieved_at": "2026-09-30T13:11:45.042513+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Saudi Arabian airport where the plane was diverted to said the captain and first officer were injured.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b48081e004b49ccc4446e6c7"
     },
     {
       "title": "‘Economic war’: Is Iran losing its leverage over the Strait of Hormuz?",
@@ -176,22 +192,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "481ede0880b047b16f4d6f19"
-    },
-    {
-      "title": "Israel-bound flight diverted after fight between pilots",
-      "url": "https://bbc.co.uk/news/articles/cqjdv7pmj9dno",
-      "source": "BBC World",
-      "published": "2026-09-30T07:51:26+00:00",
-      "retrieved_at": "2026-09-30T08:01:42.113650+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8a2e179593da6c9e82eac292"
     },
     {
       "title": "‘Dire situation’: Lebanese prisoners on hunger strike for 18 days",
