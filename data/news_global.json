@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T07:16:45.348767+00:00",
+  "updated": "2026-09-30T07:31:50.274041+00:00",
   "items": [
     {
       "title": "Writing the Playbook: A Strategy and Doctrine for American Economic Security",
@@ -240,6 +240,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5edfe73131002e6e6c99812c"
+    },
+    {
+      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+      "url": "https://bbc.co.uk/news/articles/cjkg7k6z9296o",
+      "source": "BBC World",
+      "published": "2026-09-29T23:33:34+00:00",
+      "retrieved_at": "2026-09-30T07:31:44.814985+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a120f56f36210f69fb601f56"
     },
     {
       "title": "Jack Smith defends investigations into Trump during tense US Senate hearing",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "23a6d6d070e9b0384ed31434"
-    },
-    {
-      "title": "Lebanon PM calls for full Israeli withdrawal in UN address",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/25/lebanon-pm-calls-for-full-israeli-withdrawal-in-un-address",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T15:07:48+00:00",
-      "retrieved_at": "2026-09-25T15:35:16.315498+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Lebanon’s Prime Minister Nawaf Salam told the UN that his country will not be an ‘arena for the conflicts of others’.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bcea9582438d51ec2f968e02"
     }
   ],
   "unverified_history": [
