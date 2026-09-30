@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-30T12:36:38.824252+00:00",
+  "updated": "2026-09-30T14:11:41.765983+00:00",
   "items": [
+    {
+      "title": "OpenAI delays IPO over AI safety concerns",
+      "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns",
+      "source": "Ars Technica AI",
+      "published": "2026-09-30T14:06:15+00:00",
+      "retrieved_at": "2026-09-30T14:11:35.686050+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "694568d194f4c19596edab98"
+    },
     {
       "title": "Airbnb adds AI search, more social features",
       "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fb32cf1df57673df9ac9db07"
-    },
-    {
-      "title": "AI Models Built From Rat Brains Just Got Closer to Reality",
-      "url": "https://wired.com/story/ai-models-built-from-rat-brains-are-about-to-become-a-reality",
-      "source": "Wired",
-      "published": "2026-09-22T13:00:00+00:00",
-      "retrieved_at": "2026-09-22T13:07:30.765652+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The Biological Computing Company is bringing its AI tools to Amazon Web Services in a major boost for a once-fringe field that aims to marry nature with code.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b3a1bf31b0b9c944f5cfda84"
     }
   ],
   "unverified_history": [
