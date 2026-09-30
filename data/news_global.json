@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T18:07:29.172726+00:00",
+  "updated": "2026-09-30T18:17:27.153201+00:00",
   "items": [
     {
       "title": "Syria removed from US arms export ban list",
@@ -32,6 +32,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a5d1283178e0f5ea35886708"
+    },
+    {
+      "title": "Are the Houthis winning against Saudi Arabia?",
+      "url": "https://dw.com/en/are-the-houthis-winning-against-saudi-arabia/a-79492476",
+      "source": "DW",
+      "published": "2026-09-30T17:23:00+00:00",
+      "retrieved_at": "2026-09-30T18:17:22.808813+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "It's unclear how the Saudis can defuse the threat presented by the Houthis in next-door Yemen or who they can turn to for help. The US isn't interested, the Europeans are hedging and nobody wants open conflict with Iran.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5fa45ba89d36a3cf17be0c90"
     },
     {
       "title": "Pentagon says US troop withdrawal from Iraq is complete",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "48570bdb4d89ac8d6d9f4e2d"
-    },
-    {
-      "title": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
-      "url": "https://aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T20:59:43+00:00",
-      "retrieved_at": "2026-09-25T21:26:18.010208+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Shehbaz Sharif speaks as Islamabad, Riyadh and Ankara army chiefs meet to discuss Mecca pact, closer military ties.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5b27bd3c7ed46c1d80873d33"
     }
   ],
   "unverified_history": [
