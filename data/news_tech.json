@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-30T15:06:38.434662+00:00",
+  "updated": "2026-09-30T15:26:39.045416+00:00",
   "items": [
+    {
+      "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
+      "url": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal",
+      "source": "TechCrunch",
+      "published": "2026-09-30T15:26:02+00:00",
+      "retrieved_at": "2026-09-30T15:26:35.076878+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "55298b4a671a53a3651c9a01"
+    },
     {
       "title": "Introducing SynthID Bio",
       "url": "https://deepmind.google/blog/introducing-synthid-bio",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "503d70d6346f832f9b143fcc"
-    },
-    {
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda",
-      "source": "TechCrunch AI",
-      "published": "2026-09-22T15:00:00+00:00",
-      "retrieved_at": "2026-09-22T16:48:29.491974+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d03d9906d86668023c3681d9"
     }
   ],
   "unverified_history": [
