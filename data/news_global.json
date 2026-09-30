@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T22:02:25.718350+00:00",
+  "updated": "2026-09-30T22:17:25.055216+00:00",
   "items": [
+    {
+      "title": "Gaza: NGO reports dire camp conditions, says Israel is moving 'Yellow Line'",
+      "url": "https://dw.com/en/gaza-ngo-reports-dire-camp-conditions-says-israel-is-moving-yellow-line/a-79488777",
+      "source": "DW",
+      "published": "2026-09-30T22:10:00+00:00",
+      "retrieved_at": "2026-09-30T22:17:20.583341+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The Danish Refugee Council alleges that Israel is employing \"a policy of protracted displacement\" in Gaza. It says the so-called \"Yellow Line\" is creeping west toward the coast, preventing many from returning home.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4aaad3f7ba2101a443eff22b"
+    },
     {
       "title": "Trump administration files complaint against judges over media comments",
       "url": "https://aljazeera.com/news/2026/9/30/trump-administration-files-complaint-against-judges-over-media-comments",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0308a9f4c7e75c28b2eb2ea5"
-    },
-    {
-      "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
-      "url": "https://aljazeera.com/news/2026/9/26/iran-war-squeezes-iraqs-economy-as-oil-revenues-fall-and-prices-rise",
-      "source": "Al Jazeera",
-      "published": "2026-09-26T08:13:06+00:00",
-      "retrieved_at": "2026-09-26T08:22:54.250144+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Disrupted oil exports, costlier imports, and a weaker dinar expose Iraq's economic dependence on oil, foreign goods.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c05bc4abb18c1990c5c804f3"
     }
   ],
   "unverified_history": [
