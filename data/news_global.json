@@ -1,6 +1,38 @@
 {
-  "updated": "2026-09-30T11:02:54.022220+00:00",
+  "updated": "2026-09-30T11:32:56.744781+00:00",
   "items": [
+    {
+      "title": "The October 7 warnings threatening Netanyahu’s Israeli election campaign",
+      "url": "https://aljazeera.com/news/2026/9/30/the-october-7-warnings-threatening-netanyahus-israel-election-campaign",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T11:03:01+00:00",
+      "retrieved_at": "2026-09-30T11:32:51.461629+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Netanyahu faces continued pressure over alleged warnings before the 2023 Hamas attack as October 27 elections draw near.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6cf354232039c58388808c78"
+    },
+    {
+      "title": "‘We no longer eat three meals’: Yemen’s displaced face daily fight for food",
+      "url": "https://aljazeera.com/news/2026/9/30/we-no-longer-eat-three-meals-yemens-displaced-face-daily-fight-for-food",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T11:01:10+00:00",
+      "retrieved_at": "2026-09-30T11:32:51.461663+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Yemen's latest fighting has redrawn front lines after more than a decade of war, deepening hunger and displacement.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d03354e95a8c4b3a45db3e18"
+    },
     {
       "title": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
       "url": "https://aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-2",
@@ -32,6 +64,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f4cfa3a903415bd48f76a2fc"
+    },
+    {
+      "title": "Eurovision seeks to expand brand despite frictions",
+      "url": "https://dw.com/en/eurovision-seeks-to-expand-brand-despite-frictions/a-79401752",
+      "source": "DW",
+      "published": "2026-09-30T09:18:00+00:00",
+      "retrieved_at": "2026-09-30T11:32:51.911218+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The 2026 Eurovision Song Contest was marred by boycotts in protest against Israel's participation in the midst of its war on Gaza. It still aims to keep growing.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bd5caad6aeb3293af21d9f21"
     },
     {
       "title": "S Korea demands apology over DMZ blasts as N Korea denies planting mines",
@@ -3952,54 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9ceee033456af118a7d5c04c"
-    },
-    {
-      "title": "North Korea’s Ukraine POWs Are Now in South Korea. What Comes Next?",
-      "url": "https://thediplomat.com/2026/09/north-koreas-ukraine-pows-are-now-in-south-korea-what-comes-next",
-      "source": "The Diplomat",
-      "published": "2026-09-25T16:41:00+00:00",
-      "retrieved_at": "2026-09-26T00:36:57.693055+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Both the South Korean government and the two former soldiers face an unprecedented resettlement process.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d5efc17e19c0a5c0c5a5fc4b"
-    },
-    {
-      "title": "Ethiopia’s new rebel alliance faces an old problem",
-      "url": "https://aljazeera.com/opinions/2026/9/25/ethiopias-new-rebel-alliance-faces-an-old-problem",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T16:10:55+00:00",
-      "retrieved_at": "2026-09-25T16:35:17.832336+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Former enemies have united against Abiy Ahmed, but disputes over territory, power and command could pull them apart.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "79b140f2209cd2b4a02c91c9"
-    },
-    {
-      "title": "More than 55,000 Sudanese refugees flee to Chad as UN calls for funding",
-      "url": "https://aljazeera.com/news/2026/9/25/more-than-55000-sudanese-refugees-flee-to-chad-as-un-calls-for-funding",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T16:06:45+00:00",
-      "retrieved_at": "2026-09-25T16:35:17.832363+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "UN refugee agency says 400 people a day, about 20 times the previous daily rate, now cross from Sudan into eastern Chad.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6b4c9d865b6f1d5519960dd6"
     }
   ],
   "unverified_history": [
