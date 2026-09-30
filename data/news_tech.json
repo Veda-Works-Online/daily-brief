@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-30T19:02:20.590158+00:00",
+  "updated": "2026-09-30T19:22:23.950666+00:00",
   "items": [
+    {
+      "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+      "url": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper",
+      "source": "TechCrunch",
+      "published": "2026-09-30T19:19:40+00:00",
+      "retrieved_at": "2026-09-30T19:22:19.969773+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "379428384a46fd1f5fdbdc5e"
+    },
     {
       "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
       "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "e062880102a9fb5a3ad1e439"
-    },
-    {
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-      "url": "https://openai.com/index/airbnb-gpt-6-astra",
-      "source": "OpenAI",
-      "published": "2026-09-23T01:00:00+00:00",
-      "retrieved_at": "2026-09-23T20:48:35.421865+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "a1ba7635031d00fe7db2a72d"
     }
   ],
   "unverified_history": [
