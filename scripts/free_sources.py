@@ -44,16 +44,19 @@ def fetch_shenzhen():
     return quote
 
 
-def parse_tsm(info_payload, summary_payload):
+def parse_nasdaq_cap(symbol, info_payload, summary_payload):
     info, summary = info_payload.get('data') or {}, summary_payload.get('data') or {}
-    if (info.get('symbol') != 'TSM' or summary.get('symbol') != 'TSM'
-            or info.get('exchange') != 'NYSE' or info.get('assetClass') != 'STOCKS'
+    exchange = {'NASDAQ-GS':'NASDAQ', 'NASDAQ-GM':'NASDAQ', 'NASDAQ-CM':'NASDAQ'}.get(info.get('exchange'), info.get('exchange'))
+    if (info.get('symbol') != symbol or summary.get('symbol') != symbol
+            or exchange not in {'NYSE', 'NASDAQ', 'NYSEAMERICAN'} or info.get('assetClass') != 'STOCKS'
             or summary.get('assetClass') != 'STOCKS'
-            or 'Taiwan Semiconductor' not in info.get('companyName', '')
+            or not info.get('companyName')):
+        raise ValueError('NASDAQ_IDENTITY_MISMATCH')
+    if symbol == 'TSM' and ('Taiwan Semiconductor' not in info['companyName']
             or 'Depositary' not in info.get('stockType', '')):
         raise ValueError('NASDAQ_TSM_IDENTITY_MISMATCH')
     stats, primary = summary['summaryData'], info['primaryData']
-    if stats['Exchange']['value'] != 'NYSE':
+    if stats['Exchange']['value'] != info['exchange']:
         raise ValueError('NASDAQ_EXCHANGE_MISMATCH')
     # Date-only closing observations are useful for cap corroboration. Never
     # turn a retrieval timestamp into a supposedly real-time quote timestamp.
@@ -64,12 +67,24 @@ def parse_tsm(info_payload, summary_payload):
     cap, price = number(stats['MarketCap']['value']), number(primary['lastSalePrice'])
     if cap <= 0 or price <= 0:
         raise ValueError('NONPOSITIVE_PRICE')
-    return dict(marketCap=cap, price=price, source_date=day)
+    return dict(marketCap=cap, price=price, source_date=day, symbol=symbol,
+                exchange=exchange, company_name=info['companyName'],
+                stock_type=info.get('stockType'), source='Nasdaq')
+
+
+def parse_tsm(info_payload, summary_payload):
+    return parse_nasdaq_cap('TSM', info_payload, summary_payload)
+
+
+def fetch_nasdaq_cap(symbol):
+    if not re.fullmatch(r'[A-Z][A-Z0-9.-]{0,9}', symbol):
+        raise ValueError('INVALID_NASDAQ_SYMBOL')
+    root = 'https://api.nasdaq.com/api/quote/' + symbol + '/'
+    quote = parse_nasdaq_cap(symbol, get(root + 'info', {'assetclass':'stocks'}),
+                            get(root + 'summary', {'assetclass':'stocks'}))
+    quote['retrieved_at'] = datetime.now(timezone.utc).isoformat()
+    return quote
 
 
 def fetch_tsm():
-    root = 'https://api.nasdaq.com/api/quote/TSM/'
-    quote = parse_tsm(get(root + 'info', {'assetclass':'stocks'}),
-                      get(root + 'summary', {'assetclass':'stocks'}))
-    quote['retrieved_at'] = datetime.now(timezone.utc).isoformat()
-    return quote
+    return fetch_nasdaq_cap('TSM')

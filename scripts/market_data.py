@@ -20,7 +20,7 @@ import exchange_calendars as calendars
 import pandas as pd
 from local_gold import GOLD_ID, refresh_gold
 from market_timezones import apply_region_timezones
-from free_sources import fetch_shenzhen, fetch_tsm
+from free_sources import fetch_shenzhen, fetch_tsm, fetch_nasdaq_cap
 
 FIELDS = ('indexValue', 'marketCap', 'changePercent', 'absoluteChange',
           'previousClose', 'dayHigh', 'dayLow', 'volume', 'marketCapUSD')
@@ -745,6 +745,9 @@ def convert_usd(row, fx):
     if row.get('validation_status') not in {'VERIFIED','INDICATIVE','STALE'} or row.get('marketCap') is None:
         return row
     if row['quote_currency'] == 'USD':
+        for key in ['nativeMarketCap', 'native_market_cap_metadata', 'fxRate', 'fxTimestamp',
+                    'fx_metadata', 'last_verified_fx_metadata']:
+            row.pop(key, None)
         row['marketCapUSD'] = row['marketCap']
         row['field_metadata']['marketCapUSD'] = deepcopy(row['field_metadata']['marketCap'])
         return row
@@ -818,11 +821,14 @@ def apply_free_source(row, symbol, extra, yahoo, now):
                 source='Eastmoney', source_timestamp=extra['timestamp'], retrieved_at=extra['retrieved_at'],
                 decimal=format(out[field], 'f'), currency=None, verification_sources=[])
         return out
-    if symbol == 'TSM':
-        if (yahoo.get('symbol') != 'TSM' or yahoo.get('quoteType') != 'EQUITY'
-                or yahoo.get('currency') != 'USD' or EXCHANGES.get(yahoo.get('exchange')) != 'NYSE'
-                or not issuer_matches('TSMC', yahoo.get('longName') or yahoo.get('shortName', ''), 'TSM')):
-            raise ValueError('YAHOO_TSM_IDENTITY_MISMATCH')
+    if extra.get('source') == 'Nasdaq':
+        name = row.get('name') or ('TSMC' if symbol == 'TSM' else '')
+        if (yahoo.get('symbol') != symbol or extra.get('symbol') != symbol
+                or yahoo.get('quoteType') != 'EQUITY' or yahoo.get('currency') != 'USD'
+                or EXCHANGES.get(yahoo.get('exchange')) != extra.get('exchange')
+                or not issuer_matches(name, yahoo.get('longName') or yahoo.get('shortName', ''), symbol)
+                or not issuer_matches(name, extra.get('company_name', ''), symbol)):
+            raise ValueError('NASDAQ_YAHOO_IDENTITY_MISMATCH')
         ts = timestamp(yahoo['regularMarketTime'])
         state, _ = session_state(yahoo, now)
         if (ts.astimezone(ZoneInfo('America/New_York')).date().isoformat() != extra['source_date']
@@ -830,22 +836,50 @@ def apply_free_source(row, symbol, extra, yahoo, now):
                 or (now-ts).total_seconds() > quote_policy(symbol,state)['max_quote_age_seconds']):
             raise ValueError('NASDAQ_YAHOO_DATE_MISMATCH')
         cap, price = decimal(yahoo['marketCap']), decimal(yahoo['regularMarketPrice'])
-        if (cap <= 0 or abs(cap-extra['marketCap']) / cap > Decimal('0.0001')
+        if min(cap, price, decimal(extra['marketCap']), decimal(extra['price'])) <= 0:
+            raise ValueError('NONPOSITIVE_PRICE')
+        cap_difference = abs(cap-extra['marketCap']) / cap
+        implied_shares_difference = abs(cap / price - extra['marketCap'] / extra['price']) / (cap / price)
+        if (cap_difference > Decimal('0.001')
+                or implied_shares_difference > Decimal('0.0005')
                 or abs(price-extra['price']) / price > Decimal('0.001')):
             raise ValueError('NASDAQ_YAHOO_CAP_CONFLICT')
+        # Near matches may reflect asynchronous prices. They remain indicative:
+        # implied shares are a diagnostic, not official shares outstanding.
+        status = 'VERIFIED' if cap_difference <= Decimal('0.0001') else 'INDICATIVE'
+        old_time = row.get('field_metadata', {}).get('marketCap', {}).get('source_timestamp')
+        if old_time and ts < timestamp(old_time):
+            raise ValueError('OLDER_CAP_OBSERVATION')
         out = deepcopy(row)
         out.update(marketCap=cap, marketCapUSD=cap, currency='USD')
-        out['field_metadata']['marketCap'] = dict(validation_status='VERIFIED', source='Yahoo Finance',
+        out['field_metadata']['marketCap'] = dict(validation_status=status, source='Yahoo Finance',
             source_timestamp=ts.isoformat(), retrieved_at=yahoo['_retrieved_at'], decimal=format(cap,'f'),
-            currency='USD', verification_sources=['Yahoo Finance','Nasdaq'],
+            currency='USD', verification_sources=['Yahoo Finance','Nasdaq'] if status == 'VERIFIED' else [],
+            comparison_sources=['Yahoo Finance','Nasdaq'],
+            valuation_basis='Provider-reported USD cap for ' + symbol + '; share-class scope not independently verified',
             timestamp_scope='Yahoo quote time; neither provider gives a market-cap-specific timestamp',
             corroboration={'source':'Nasdaq', 'marketCap':extra['marketCap'],
                 'source_date':extra['source_date'], 'retrieved_at':extra['retrieved_at'],
-                'relative_tolerance':Decimal('0.0001')})
+                'relative_tolerance':Decimal('0.0001'), 'relative_difference':cap_difference,
+                'indicative_cap_tolerance':Decimal('0.001'),
+                'implied_shares_relative_difference':implied_shares_difference,
+                'implied_shares_tolerance':Decimal('0.0005'),
+                'result':'STRICT_MATCH' if status == 'VERIFIED' else 'NEAR_MATCH_NOT_VERIFIED'})
         out['field_metadata']['marketCapUSD'] = deepcopy(out['field_metadata']['marketCap'])
         # Preserve Google's disagreement as evidence, not as a failed Nasdaq check.
         return out
     return row
+
+
+def needs_nasdaq_cap(symbol, quote, google):
+    """Spend two extra requests only on conflicting/missing US-listed caps."""
+    if (quote.get('quoteType') != 'EQUITY' or quote.get('currency') != 'USD'
+            or EXCHANGES.get(quote.get('exchange')) not in {'NYSE', 'NASDAQ', 'NYSEAMERICAN'}
+            or quote.get('symbol') != symbol or not quote.get('marketCap')):
+        return False
+    if google.get('marketCap') is None:
+        return True
+    return abs(decimal(quote['marketCap']) - decimal(google['marketCap'])) > decimal(google.get('cap_resolution', 0)) / 2
 
 
 def refresh_markets(payload):
@@ -875,11 +909,18 @@ def refresh_markets(payload):
     with ThreadPoolExecutor(max_workers=2) as pool:
         tasks = {s:pool.submit(fetcher) for s,fetcher in
                  [('399001.SZ',fetch_shenzhen), ('TSM',fetch_tsm)] if s in symbols}
+        candidates = [s for s in symbols if s not in tasks
+                      and needs_nasdaq_cap(s, quotes.get(s, {}), secondary.get(s, {}))]
+        # Bound worst-case endpoint delays inside the 240-second refresh budget.
+        # Rotate a large conflict set so repeated runs cover every candidate.
+        offset = (int(now.timestamp()) // 300 * 4) % len(candidates) if candidates else 0
+        for symbol in (candidates[offset:] + candidates[:offset])[:4]:
+            tasks[symbol] = pool.submit(fetch_nasdaq_cap, symbol)
         for symbol, task in tasks.items():
             try:
                 extras[symbol] = task.result()
             except Exception as exc:
-                extra_errors[symbol] = type(exc).__name__
+                extra_errors[symbol] = str(exc) if isinstance(exc, ValueError) else type(exc).__name__
     attempts = []
     def refresh(row):
         symbol = row.get('source_symbol') or ('BHARTIARTL.NS' if row['ticker'] == 'BHARTIARTL' else row['ticker'])
@@ -938,6 +979,23 @@ def refresh_markets(payload):
                 result = apply_free_source(result, symbol, extras[symbol], quotes.get(symbol, {}), datetime.now(timezone.utc))
             except (ValueError, KeyError, TypeError, OverflowError, ZeroDivisionError) as exc:
                 extra_errors[symbol] = str(exc) if isinstance(exc, ValueError) else type(exc).__name__
+        if result.get('marketCap') is not None:
+            meta = result.setdefault('field_metadata', {}).setdefault('marketCap', {})
+            meta['source_check'] = {'nasdaq_requested':symbol in tasks and symbol != '399001.SZ',
+                'nasdaq_error':extra_errors.get(symbol),
+                'google_market_cap':secondary.get(symbol, {}).get('marketCap'),
+                'google_timestamp':secondary.get(symbol, {}).get('timestamp'),
+                'yahoo_market_cap':quotes.get(symbol, {}).get('marketCap'),
+                'yahoo_timestamp':quotes.get(symbol, {}).get('regularMarketTime'),
+                'currency':result.get('quote_currency'), 'checked_at':now_iso()}
+            if symbol == '005930.KS':
+                meta['valuation_basis'] = 'Provider-reported cap for KRX common listing 005930; preferred-class inclusion unverified'
+                meta['share_class_reference'] = 'https://www.samsung.com/global/ir/stock-information/listing-Info/'
+            elif symbol == 'TSM':
+                meta['listing_basis'] = 'NYSE ADS; one ADS represents five ordinary shares; not a Taiwan-listing USD conversion'
+                meta['listing_reference'] = 'https://investor.tsmc.com/sites/ir/sec-filings/2024%2020-F.pdf'
+            if result.get('quote_currency') == 'USD' and result.get('marketCapUSD') == result['marketCap']:
+                result['field_metadata']['marketCapUSD'] = deepcopy(meta)
         result = prevent_quote_regression(row, result)
         attempts.append({'ticker': row['ticker'], 'retrieved_at': now_iso(),
                          'validation_status': result['validation_status'], 'reason': result.get('error', {}).get('reason'),

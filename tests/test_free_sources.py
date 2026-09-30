@@ -74,5 +74,53 @@ class FreeSourceTests(unittest.TestCase):
         self.assertEqual(out['regions']['indexes'][0]['indexValue'],row['indexValue'])
         self.assertEqual(attempts[-1]['free_source_error'],'TimeoutError')
 
+    def test_near_cap_match_remains_indicative(self):
+        q,yahoo,now=self.tsm()
+        q['marketCap'] = yahoo['marketCap'] * Decimal('1.0003')
+        out=m.apply_free_source({'field_metadata':{}},'TSM',q,yahoo,now)
+        meta=out['field_metadata']['marketCap']
+        self.assertEqual(out['marketCap'],yahoo['marketCap'])
+        self.assertEqual(meta['validation_status'],'INDICATIVE')
+        self.assertEqual(meta['verification_sources'],[])
+        self.assertEqual(meta['corroboration']['result'],'NEAR_MATCH_NOT_VERIFIED')
+        # Matching caps alone cannot corroborate an inconsistent share basis.
+        q['price'] *= Decimal('0.9991')
+        with self.assertRaisesRegex(ValueError,'CAP_CONFLICT'):
+            m.apply_free_source({'field_metadata':{}},'TSM',q,yahoo,now)
+
+    def test_nasdaq_never_replaces_newer_cap(self):
+        q,yahoo,now=self.tsm()
+        row={'field_metadata':{'marketCap':{'source_timestamp':now.isoformat()}}}
+        with self.assertRaisesRegex(ValueError,'OLDER_CAP_OBSERVATION'):
+            m.apply_free_source(row,'TSM',q,yahoo,now)
+
+    def test_generic_nasdaq_identity_and_selection(self):
+        info=m.read_json(FIXTURES/'tsm_info.json')
+        summary=m.read_json(FIXTURES/'tsm_summary.json')
+        info['data'].update(symbol='MSFT',exchange='NASDAQ-GS',companyName='Microsoft Corporation',stockType='Common Stock')
+        summary['data']['symbol']='MSFT'
+        summary['data']['summaryData']['Exchange']['value']='NASDAQ-GS'
+        q=f.parse_nasdaq_cap('MSFT',info,summary)
+        _,yahoo,now=self.tsm()
+        yahoo.update(symbol='MSFT',exchange='NMS',longName='Microsoft Corporation')
+        q['retrieved_at']=now.isoformat()
+        out=m.apply_free_source({'name':'Microsoft','field_metadata':{}},'MSFT',q,yahoo,now)
+        self.assertEqual(out['field_metadata']['marketCap']['validation_status'],'VERIFIED')
+        with self.assertRaises(ValueError): f.parse_nasdaq_cap('NVDA',info,summary)
+        self.assertFalse(m.needs_nasdaq_cap('MSFT',yahoo,{'marketCap':yahoo['marketCap'],'cap_resolution':100}))
+        self.assertTrue(m.needs_nasdaq_cap('MSFT',yahoo,{}))
+        self.assertFalse(m.needs_nasdaq_cap('MSFT',dict(yahoo,currency='KRW'),{}))
+        with self.assertRaises(ValueError):
+            m.apply_free_source({'name':'Microsoft','field_metadata':{}},'MSFT',dict(q,company_name='Apple'),yahoo,now)
+
+    def test_usd_adr_drops_obsolete_fx_fields(self):
+        row=dict(validation_status='INDICATIVE',quote_currency='USD',marketCap=100,
+                 nativeMarketCap=80,fxRate=2,fx_metadata={},native_market_cap_metadata={},
+                 field_metadata={'marketCap':{'validation_status':'INDICATIVE'}})
+        out=m.convert_usd(row,None)
+        self.assertEqual(out['marketCapUSD'],100)
+        for key in ['nativeMarketCap','fxRate','fx_metadata','native_market_cap_metadata']:
+            self.assertNotIn(key,out)
+
 
 if __name__ == '__main__':unittest.main()

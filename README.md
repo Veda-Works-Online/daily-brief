@@ -50,6 +50,26 @@ Free-source additions: Shenzhen Component (399001.SZ) uses Eastmoney when its
 identity/scale-validated quote is newer and under 30 minutes old. It is labelled
 indicative. TSM remains the US-listed ADR: its Yahoo market cap is corroborated
 against Nasdaq with matching regular-session date/price and 0.01% cap tolerance.
+Other US-listed equities (including BABA) request Nasdaq's public quote and
+summary when Yahoo/Google caps disagree beyond Google's rounding interval or
+Google has no cap. Symbol, issuer, exchange, currency, date and quote age must
+match. Two concurrent tasks bound the extra provider load. Each refresh checks
+TSM plus up to four other candidates, rotating larger conflict sets across runs.
+Metadata distinguishes an unrequested Nasdaq check from a successful request.
+Near matches up to 0.1% in cap and price, and 0.05% in implied shares (cap/price),
+may select Yahoo's figure but remain INDICATIVE, with no verification claim.
+These thresholds are fallback policy, not an accuracy guarantee. Implied shares
+are a diagnostic, not independently confirmed shares outstanding. Older cap
+observations cannot replace newer ones. Neither agreement nor near agreement
+proves that providers use independent underlying data.
+Raw Yahoo/Google cap comparisons and Nasdaq failures are retained in field
+metadata. USD ADR rows discard obsolete native-cap/FX fields. Samsung retains
+KRW-to-USD provenance and an explicit note that preferred-class inclusion has
+not been verified; quarterly share counts are not used as current live counts.
+TSM records its NYSE ADS basis (one ADS represents five ordinary shares).
+Official share-class references: [TSMC 20-F](https://investor.tsmc.com/sites/ir/sec-filings/2024%2020-F.pdf)
+and [Samsung IR](https://www.samsung.com/global/ir/stock-information/listing-Info/).
+HKEX/KRX/TWSE official live-cap feeds and paid APIs are not integrated.
 Nasdaq supplies no separate cap timestamp. Failures preserve existing fallbacks;
 per-run artifacts record free-source errors. Public endpoint availability is not
 a guarantee of real-time data. Market-cap cells retain their numeric formatting.
