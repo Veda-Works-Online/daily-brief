@@ -1,6 +1,23 @@
 {
-  "updated": "2026-09-30T16:21:36.968821+00:00",
+  "updated": "2026-09-30T16:26:48.946464+00:00",
   "items": [
+    {
+      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission",
+      "source": "TechCrunch AI",
+      "published": "2026-09-30T16:24:23+00:00",
+      "retrieved_at": "2026-09-30T16:26:44.310880+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "19723ccf4a41cd430d328993"
+    },
     {
       "title": "Google's early attempt to pay websites for AI answers is struggling",
       "url": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a18e4c73b9db840935354c9d"
-    },
-    {
-      "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
-      "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school",
-      "source": "TechCrunch",
-      "published": "2026-09-22T18:24:34+00:00",
-      "retrieved_at": "2026-09-22T19:03:26.718638+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b1efd16db6f56c6f8ec75745"
     }
   ],
   "unverified_history": [
