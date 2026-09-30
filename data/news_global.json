@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T20:32:23.440135+00:00",
+  "updated": "2026-09-30T20:47:25.151216+00:00",
   "items": [
+    {
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "url": "https://bbc.co.uk/news/articles/cqjdv7pmj9dno",
+      "source": "BBC World",
+      "published": "2026-09-30T20:44:12+00:00",
+      "retrieved_at": "2026-09-30T20:47:20.654388+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f8bf40cfd7067ce76e859669"
+    },
     {
       "title": "Israeli attacks across Gaza kill at least eight",
       "url": "https://aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight",
@@ -224,22 +240,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "52675b406137977bfd932bf2"
-    },
-    {
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "url": "https://bbc.co.uk/news/articles/cqjdv7pmj9dno",
-      "source": "BBC World",
-      "published": "2026-09-30T16:24:18+00:00",
-      "retrieved_at": "2026-09-30T17:32:26.605941+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The captain and first officer were injured, and one pilot has been arrested, officials say.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f8bf40cfd7067ce76e859669"
     },
     {
       "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
