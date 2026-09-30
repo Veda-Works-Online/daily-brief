@@ -1,6 +1,38 @@
 {
-  "updated": "2026-09-30T08:01:47.269707+00:00",
+  "updated": "2026-09-30T08:06:48.873193+00:00",
   "items": [
+    {
+      "title": "South Korea demands apology over DMZ blasts as North denies planting mines",
+      "url": "https://aljazeera.com/news/2026/9/30/south-korea-demands-apology-over-dmz-blasts-as-north-denies-planting-mines",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T08:02:20+00:00",
+      "retrieved_at": "2026-09-30T08:06:43.904117+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "South Korea calls for a formal apology from North Korea over the DMZ explosion that injured three soldiers.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3124ba785ba1f5fb5e24a217"
+    },
+    {
+      "title": "FlyDubai flight to Israel diverted to Saudi Arabia after emergency alert",
+      "url": "https://aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T08:00:10+00:00",
+      "retrieved_at": "2026-09-30T08:06:43.904138+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Airline says plane experiences \"incident\" en route from Dubai to Tel Aviv, lands safely at Saudi Arabia's Tabuk airport.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "effc2e72279a6848caabd1a3"
+    },
     {
       "title": "Israel-bound flight diverted after fight between pilots",
       "url": "https://bbc.co.uk/news/articles/cqjdv7pmj9dno",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5106721336377e8d42bef920"
-    },
-    {
-      "title": "Students strike across Germany in protest against military service",
-      "url": "https://bbc.co.uk/news/articles/cxnvlnve52qdo",
-      "source": "BBC World",
-      "published": "2026-09-25T15:36:22+00:00",
-      "retrieved_at": "2026-09-25T16:15:16.062092+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9674fa9d6ec72aa6234c36be"
-    },
-    {
-      "title": "What the Trump-Xi meeting revealed about global power",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/25/what-the-trump-xi-meeting-revealed-about-global-power",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T15:26:56+00:00",
-      "retrieved_at": "2026-09-25T15:35:16.315450+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Donald Trump and Xi Jinping met in Washington as world leaders gathered at the UN General Assembly in New York.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "522aedb76c32bda1ec4bd7f1"
     }
   ],
   "unverified_history": [
