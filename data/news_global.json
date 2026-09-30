@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T04:05:12.986953+00:00",
+  "updated": "2026-09-30T04:10:12.650520+00:00",
   "items": [
+    {
+      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+      "url": "https://bbc.co.uk/news/articles/cme30dz5vkzko",
+      "source": "BBC World",
+      "published": "2026-09-30T04:01:52+00:00",
+      "retrieved_at": "2026-09-30T04:10:09.028069+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9497194d2b813aa2651e1f90"
+    },
     {
       "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
       "url": "https://bbc.co.uk/news/articles/cwj3dkvpm4e7o",
@@ -32,22 +48,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c77b3649e9517853cacdba6c"
-    },
-    {
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-      "url": "https://bbc.co.uk/news/articles/cme30dz5vkzko",
-      "source": "BBC World",
-      "published": "2026-09-30T02:41:34+00:00",
-      "retrieved_at": "2026-09-30T02:50:13.787771+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9497194d2b813aa2651e1f90"
     },
     {
       "title": "US Senate blocks resolution seeking report on Americans killed in West Bank",
