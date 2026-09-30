@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T21:12:18.149404+00:00",
+  "updated": "2026-09-30T22:28:13.798177+00:00",
   "items": [
     {
       "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
@@ -17,6 +17,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b143a3fc17e969551b0f0d79"
+    },
+    {
+      "title": "A local network of implants uses your body as the wiring",
+      "url": "https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue",
+      "source": "Ars Technica",
+      "published": "2026-09-30T21:06:56+00:00",
+      "retrieved_at": "2026-09-30T22:28:07.610912+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "It's possible to send electrical signals right through human tissues.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1c1b05d366c8efce8c1b430f"
     },
     {
       "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "666c12f92fc7ef1ec5b92901"
-    },
-    {
-      "title": "The Best Samsung Phones of 2026: Ultra, Fold, Budget",
-      "url": "https://wired.com/gallery/best-samsung-phones",
-      "source": "Wired",
-      "published": "2026-09-23T11:30:00+00:00",
-      "retrieved_at": "2026-09-23T11:31:45.470498+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "From flagship and budget to flipping and folding, Samsung’s Galaxy range spans the breadth of the smartphone cosmos. WIRED’s here to help you make your choice.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "044053a5fbaea2c2a70158d7"
     }
   ],
   "unverified_history": [
