@@ -1,6 +1,40 @@
 {
-  "updated": "2026-09-30T18:52:20.834480+00:00",
+  "updated": "2026-09-30T19:02:20.590158+00:00",
   "items": [
+    {
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents",
+      "source": "TechCrunch AI",
+      "published": "2026-09-30T19:00:57+00:00",
+      "retrieved_at": "2026-09-30T19:02:15.123137+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4526b8beb04b3e9f9684a646"
+    },
+    {
+      "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+      "url": "https://wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps",
+      "source": "Wired",
+      "published": "2026-09-30T19:00:00+00:00",
+      "retrieved_at": "2026-09-30T19:02:15.696159+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9836945db7d1c913c6324b97"
+    },
     {
       "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
       "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "a1ba7635031d00fe7db2a72d"
-    },
-    {
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "source": "OpenAI",
-      "published": "2026-09-23T00:00:00+00:00",
-      "retrieved_at": "2026-09-23T11:11:42.639065+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "ed8865db5664d4345c9eb42c"
-    },
-    {
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4",
-      "source": "TechCrunch AI",
-      "published": "2026-09-22T23:21:49+00:00",
-      "retrieved_at": "2026-09-22T23:24:16.944114+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "577e40d695a8e6dfa0c63b4d"
     }
   ],
   "unverified_history": [
