@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T13:21:55.086615+00:00",
+  "updated": "2026-09-30T13:26:53.883520+00:00",
   "items": [
+    {
+      "title": "Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue",
+      "url": "https://aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T12:49:04+00:00",
+      "retrieved_at": "2026-09-30T13:26:49.614493+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "At least six people killed in drone attack on passenger van and one person killed in strike on residential apartment.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6fa695dbfb408e540b37edea"
+    },
     {
       "title": "How does Iraq’s security change after US forces withdraw?",
       "url": "https://aljazeera.com/news/2026/9/30/how-does-iraqs-security-change-after-us-forces-withdraw",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8007690397345eae4838580a"
-    },
-    {
-      "title": "Lebanese in Brazil, Brazilian in Lebanon",
-      "url": "https://aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T17:44:39+00:00",
-      "retrieved_at": "2026-09-25T18:10:15.771114+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Their families left Lebanon generations ago. For some Lebanese Brazilians, Lebanon’s pull never disappeared.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "55bd9ab28a8aab1bbebb0005"
     }
   ],
   "unverified_history": [
