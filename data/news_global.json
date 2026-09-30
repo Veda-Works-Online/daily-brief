@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-30T12:12:53.120718+00:00",
+  "updated": "2026-09-30T12:21:43.242756+00:00",
   "items": [
+    {
+      "title": "‘Economic war’: Is Iran losing its leverage over the Strait of Hormuz?",
+      "url": "https://aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz",
+      "source": "Al Jazeera",
+      "published": "2026-09-30T12:05:45+00:00",
+      "retrieved_at": "2026-09-30T12:21:38.585826+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Crude flows through Hormuz have recovered, but tanker insurance costs and geopolitical risks remain barriers to a return to normality.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fad350c65526e994c9762dc5"
+    },
     {
       "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
       "url": "https://bbc.co.uk/news/articles/ckjw5jx2l393o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1504ca761935e0064f810673"
-    },
-    {
-      "title": "US court upholds Pentagon’s blacklisting of Anthropic",
-      "url": "https://aljazeera.com/economy/2026/9/25/us-court-upholds-pentagons-blacklisting-of-anthropic",
-      "source": "Al Jazeera",
-      "published": "2026-09-25T17:03:52+00:00",
-      "retrieved_at": "2026-09-25T17:45:15.474389+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Conflict began in February when Anthropic refused to remove restrictions on use of Claude for fully autonomous weapons.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5d3637584e0669c375798786"
     }
   ],
   "unverified_history": [
