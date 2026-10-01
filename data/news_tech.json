@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-01T13:05:27.801776+00:00",
+  "updated": "2026-10-01T13:10:27.108283+00:00",
   "items": [
+    {
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses",
+      "source": "TechCrunch AI",
+      "published": "2026-10-01T13:00:00+00:00",
+      "retrieved_at": "2026-10-01T13:10:22.483418+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2465011320b5b74452a47d1b"
+    },
     {
       "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
       "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "befdbaf3d14f3616231bee8d"
-    },
-    {
-      "title": "PitPro’s first tire-changing robot goes live in Canada",
-      "url": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada",
-      "source": "TechCrunch",
-      "published": "2026-09-23T13:00:00+00:00",
-      "retrieved_at": "2026-09-23T13:01:58.548550+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The startup says its automated system can change four tires in under 15 minutes.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bec8995901fc55f7f7ba8fd3"
     }
   ],
   "unverified_history": [
