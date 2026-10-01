@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-01T12:05:16.439199+00:00",
+  "updated": "2026-10-01T12:20:20.283363+00:00",
   "items": [
+    {
+      "title": "2 Driverless Cars Crashed Going 155 mph. That Could Be a Good Thing",
+      "url": "https://wired.com/story/2-driverless-cars-crashed-going-155-mph-that-could-be-a-good-thing",
+      "source": "Wired",
+      "published": "2026-10-01T12:15:00+00:00",
+      "retrieved_at": "2026-10-01T12:20:12.578402+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Only two of five vehicles finished the race around a notoriously difficult Formula 1 track, exposing what happens when autonomous systems meet blind corners, sensor failures, and physics.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0f99307e92ad1ac3d729671b"
+    },
     {
       "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
       "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d620f2e25b0271e752d20fc6"
-    },
-    {
-      "title": "Comma’s hands-off driving tech under investigation after 2 fatal crashes",
-      "url": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes",
-      "source": "TechCrunch",
-      "published": "2026-09-23T12:12:39+00:00",
-      "retrieved_at": "2026-09-23T12:16:44.712461+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The investigation involves at least some crashes where it appears drivers were using \"forked\" versions of Comma's software.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f938581df2ed48034af42621"
     }
   ],
   "unverified_history": [
