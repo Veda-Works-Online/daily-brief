@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T20:26:46.257524+00:00",
+  "updated": "2026-10-01T20:51:53.220358+00:00",
   "items": [
     {
       "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
@@ -51,6 +51,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "968d751741c1231b1545eccb"
+    },
+    {
+      "title": "Can good design stop content creators from having sex in robotaxis?",
+      "url": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis",
+      "source": "Ars Technica",
+      "published": "2026-10-01T19:19:42+00:00",
+      "retrieved_at": "2026-10-01T20:51:46.778558+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Autonomous vehicle designers have to worry about riders getting frisky in public.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "490f729a9eebc9aed278893e"
     },
     {
       "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c428ae6c38e0bd992869d443"
-    },
-    {
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features",
-      "source": "TechCrunch AI",
-      "published": "2026-09-23T17:00:00+00:00",
-      "retrieved_at": "2026-09-23T18:02:45.895844+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2fbbaa8c07a40e1cece5142a"
     }
   ],
   "unverified_history": [
