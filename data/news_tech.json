@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-01T16:21:05.550810+00:00",
+  "updated": "2026-10-01T16:31:07.566789+00:00",
   "items": [
+    {
+      "title": "AI finally beat the best Stratego player in history—and did it on a budget",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget",
+      "source": "Ars Technica AI",
+      "published": "2026-10-01T16:28:04+00:00",
+      "retrieved_at": "2026-10-01T16:31:04.110892+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9fa8ca2c3ee7722a2ec8a5e6"
+    },
     {
       "title": "How Albertsons Companies is reimagining retail from the inside out",
       "url": "https://openai.com/index/albertsons-reimagining-retail",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fdd8039fac1c552d74783952"
-    },
-    {
-      "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
-      "url": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature",
-      "source": "TechCrunch",
-      "published": "2026-09-23T14:30:00+00:00",
-      "retrieved_at": "2026-09-23T14:31:56.893594+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "YouTube's AI feature can now help you compare products as you shop.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "851ff171f544a2ec4168902e"
     }
   ],
   "unverified_history": [
