@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T18:21:16.625034+00:00",
+  "updated": "2026-10-01T18:27:16.374895+00:00",
   "items": [
     {
       "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b545a246dd7ef94025f103a6"
+    },
+    {
+      "title": "School protests spread as fires, blockades deepen unrest in France",
+      "url": "https://aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france",
+      "source": "Al Jazeera",
+      "published": "2026-10-01T18:18:18+00:00",
+      "retrieved_at": "2026-10-01T18:27:13.229198+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Police have detained hundreds as students protest overcrowded classrooms, teacher shortages and crumbling facilities.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bed3a27472dfe4239e7ba200"
     },
     {
       "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cf261ba3ce996279444a645d"
-    },
-    {
-      "title": "Djibouti urges world to help as Yemen war drives refugee influx",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/27/djibouti-urges-world-to-help-as-yemen-war-drives-refugee-influx",
-      "source": "Al Jazeera",
-      "published": "2026-09-27T08:35:25+00:00",
-      "retrieved_at": "2026-09-27T09:02:02.790736+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Djibouti urges world to help as Yemen war drives refugee influx",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3845a12f3bb5497ae61f203f"
     }
   ],
   "unverified_history": [
