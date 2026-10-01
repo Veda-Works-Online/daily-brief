@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-01T14:41:09.155198+00:00",
+  "updated": "2026-10-01T15:06:06.961071+00:00",
   "items": [
+    {
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "source": "Hugging Face",
+      "published": "2026-10-01T15:01:43+00:00",
+      "retrieved_at": "2026-10-01T15:06:02.234694+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "996d2619aaf00481656dc0b9"
+    },
     {
       "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
       "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "aec0ca4d4f1bbf40f2b088e0"
-    },
-    {
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "source": "OpenAI",
-      "published": "2026-09-23T13:00:00+00:00",
-      "retrieved_at": "2026-09-23T13:01:58.405589+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "3e03ea8320533134004075a2"
     }
   ],
   "unverified_history": [
