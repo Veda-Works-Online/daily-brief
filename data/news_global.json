@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-01T21:46:56.019340+00:00",
+  "updated": "2026-10-01T23:01:50.763647+00:00",
   "items": [
+    {
+      "title": "Brazilian government calls for probe into US funding of far-right causes",
+      "url": "https://aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes",
+      "source": "Al Jazeera",
+      "published": "2026-10-01T22:48:17+00:00",
+      "retrieved_at": "2026-10-01T23:01:47.536229+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d28b82074e6f8d0f6831d1a9"
+    },
     {
       "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
       "url": "https://aljazeera.com/news/2026/10/1/russias-putin-rules-out-ceasefire-with-ukraine-during-speech-in-moscow",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a18338aba4ac70d6a5b6d2a7"
-    },
-    {
-      "title": "Political rallies fill Brazil’s streets a week before elections",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/27/political-rallies-fill-brazils-streets-a-week-before-elections",
-      "source": "Al Jazeera",
-      "published": "2026-09-27T12:34:13+00:00",
-      "retrieved_at": "2026-09-27T12:47:39.025701+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Rival political rallies have been held in Brazil as campaigns intensify with one week to go until election day.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e250f93072cf39c86aca504c"
     }
   ],
   "unverified_history": [
