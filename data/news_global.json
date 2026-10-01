@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-01T13:46:17.367644+00:00",
+  "updated": "2026-10-01T14:11:16.729730+00:00",
   "items": [
+    {
+      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
+      "url": "https://bbc.co.uk/news/articles/c6y8z8kr5mk8o",
+      "source": "BBC World",
+      "published": "2026-10-01T14:05:55+00:00",
+      "retrieved_at": "2026-10-01T14:11:12.445762+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4d0fa86b00c32c7f3837a961"
+    },
+    {
+      "title": "North and South Korea trade accusations over landmines that injured three soldiers",
+      "url": "https://dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854",
+      "source": "DW",
+      "published": "2026-10-01T13:57:00+00:00",
+      "retrieved_at": "2026-10-01T14:11:12.858664+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "A mine blast that injured three South Korean soldiers has renewed scrutiny of North Korea's actions along the border and raised questions about its strategic goals.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c91fe8e5d4a31ab8159f445c"
+    },
     {
       "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
       "url": "https://aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b5f18c62ef980578922e79e5"
-    },
-    {
-      "title": "Ireland decide to play Israel in Nations League after squad vote",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote",
-      "source": "Al Jazeera",
-      "published": "2026-09-26T19:42:57+00:00",
-      "retrieved_at": "2026-09-26T20:09:25.950320+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Ireland's players have voted to proceed with their Nations League fixture against Israel on Sunday.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "60bdbc7807b1c47a8118f61d"
-    },
-    {
-      "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the",
-      "source": "Al Jazeera",
-      "published": "2026-09-26T19:40:14+00:00",
-      "retrieved_at": "2026-09-26T19:49:27.251865+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Russian Foreign Minister Sergey Lavrov vowed that the objectives of Moscow’s military operation will be achieved.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a41f0772d81408fe5614d5fe"
     }
   ],
   "unverified_history": [
