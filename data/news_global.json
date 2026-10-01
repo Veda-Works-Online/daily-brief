@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T17:31:19.721909+00:00",
+  "updated": "2026-10-01T17:36:12.868952+00:00",
   "items": [
     {
       "title": "Jaw-Jaw With Belarus, Revisited Amid Ukraine War",
@@ -16,6 +16,38 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "352edf94a64183aab8e20fc6"
+    },
+    {
+      "title": "How AI is reshaping everyday life in China",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/1/how-ai-is-reshaping-everyday-life-in-china",
+      "source": "Al Jazeera",
+      "published": "2026-10-01T17:12:38+00:00",
+      "retrieved_at": "2026-10-01T17:36:08.522449+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "How AI is reshaping everyday life in China",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5b9c69e14a0676ee0be7b390"
+    },
+    {
+      "title": "Israel’s Supreme Court advises Arab party leader to drop election bid",
+      "url": "https://aljazeera.com/news/2026/10/1/israels-supreme-court-advises-arab-party-leader-to-drop-election-bid",
+      "source": "Al Jazeera",
+      "published": "2026-10-01T17:09:27+00:00",
+      "retrieved_at": "2026-10-01T17:36:08.522470+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Central Elections Committee voted last week to bar both main Arab lists and two candidates from parliamentary election.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "147f5878034567240fd6abfb"
     },
     {
       "title": "Photos: Palestinians mourn more than 100 loved ones in mass Gaza funeral",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2d533689ef5b48f3c8378368"
-    },
-    {
-      "title": "No public mentions of Taiwan at official Xi and Trump meeting",
-      "url": "https://dw.com/en/no-public-mentions-of-taiwan-at-official-xi-and-trump-meeting/a-79445378",
-      "source": "DW",
-      "published": "2026-09-27T08:05:00+00:00",
-      "retrieved_at": "2026-09-27T08:22:00.794180+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "At a high-profile summit between Presidents Donald Trump and Xi Jinping in Washington, there was much talk of trade and artificial intelligence. One of the most contentious issues, Taiwan, was only discussed in private.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a1e6788d51b02ab94e195665"
-    },
-    {
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "url": "https://bbc.co.uk/news/articles/cmvgyyw2jeego",
-      "source": "BBC World",
-      "published": "2026-09-27T07:44:11+00:00",
-      "retrieved_at": "2026-09-27T07:46:58.642697+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4bcd1241e42f28f0add629dd"
     }
   ],
   "unverified_history": [
