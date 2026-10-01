@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-01T18:27:16.374895+00:00",
+  "updated": "2026-10-01T19:41:59.608259+00:00",
   "items": [
+    {
+      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+      "url": "https://bbc.co.uk/news/articles/cqg7k7v499jjo",
+      "source": "BBC World",
+      "published": "2026-10-01T19:38:30+00:00",
+      "retrieved_at": "2026-10-01T19:41:55.910802+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "37456574ef8a637c5d4486ee"
+    },
     {
       "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
       "url": "https://bbc.co.uk/news/articles/crje8edqyej9o",
@@ -32,22 +48,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bed3a27472dfe4239e7ba200"
-    },
-    {
-      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-      "url": "https://bbc.co.uk/news/articles/cqg7k7v499jjo",
-      "source": "BBC World",
-      "published": "2026-10-01T18:09:03+00:00",
-      "retrieved_at": "2026-10-01T18:16:17.752959+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Vladimir Putin insists Moscow is \"not threatening anyone\" and merely responding to statements by Western leaders.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "37456574ef8a637c5d4486ee"
     },
     {
       "title": "US Supreme Court agrees to take up Trump’s ICE detention policy",
