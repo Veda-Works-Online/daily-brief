@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-01T18:27:11.064898+00:00",
+  "updated": "2026-10-01T19:21:59.253504+00:00",
   "items": [
+    {
+      "title": "Google thinks SpaceX’s Starship has to launch 1,600 times before space data centers get off the ground",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground",
+      "source": "TechCrunch AI",
+      "published": "2026-10-01T19:18:03+00:00",
+      "retrieved_at": "2026-10-01T19:21:52.537913+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "054444658b32a51e6379671e"
+    },
     {
       "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
       "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "74e3855cf9cf980d331a4c1f"
-    },
-    {
-      "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
-      "url": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language",
-      "source": "TechCrunch",
-      "published": "2026-09-23T15:46:57+00:00",
-      "retrieved_at": "2026-09-23T15:47:41.864665+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b468a6d3d4a19a2304460cf8"
     }
   ],
   "unverified_history": [
