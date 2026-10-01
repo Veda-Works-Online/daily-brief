@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T09:00:24.031664+00:00",
+  "updated": "2026-10-01T09:25:22.708185+00:00",
   "items": [
     {
       "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
@@ -128,6 +128,22 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f64b4f30c8fe0c8e59809c1e"
+    },
+    {
+      "title": "Japan raises permanent residency fee by 20 times",
+      "url": "https://bbc.co.uk/news/articles/c6y8z8xeg8j1o",
+      "source": "BBC World",
+      "published": "2026-10-01T02:57:43+00:00",
+      "retrieved_at": "2026-10-01T09:25:17.307456+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "87c49c935af56aaa9831962d"
     },
     {
       "title": "UK says Iran may be linked to alleged RAF Fairford plot, drawing denial",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1d8839968ab87c295ad500d5"
-    },
-    {
-      "title": "Thousands of students protest German military conscription",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/26/thousands-of-students-protest-german-military-conscription",
-      "source": "Al Jazeera",
-      "published": "2026-09-26T15:23:38+00:00",
-      "retrieved_at": "2026-09-26T15:39:27.839219+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "More than 40,000 students have taken to the streets of Berlin, in protest of Germany's proposed military service plans.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "30fb43eeedddbba10124e9f8"
     }
   ],
   "unverified_history": [
