@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T14:11:16.729730+00:00",
+  "updated": "2026-10-01T14:16:15.495757+00:00",
   "items": [
     {
       "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
@@ -32,6 +32,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c91fe8e5d4a31ab8159f445c"
+    },
+    {
+      "title": "UK PM Burnham says Iran likely behind RAF base incident: Is there evidence?",
+      "url": "https://aljazeera.com/news/2026/10/1/uk-pm-burnham-says-iran-likely-behind-raf-base-incident-is-there-evidence",
+      "source": "Al Jazeera",
+      "published": "2026-10-01T13:51:58+00:00",
+      "retrieved_at": "2026-10-01T14:16:11.228188+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "UK, US and Israeli officials point to Iranian involvement but remain tight-lipped on details.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "50d1fd0622c500553d426e0a"
     },
     {
       "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5ebba77455d9d2cacc5aeb93"
-    },
-    {
-      "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga",
-      "source": "Al Jazeera",
-      "published": "2026-09-26T19:43:03+00:00",
-      "retrieved_at": "2026-09-26T20:09:25.950298+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "At the UN, Saudi Arabia accused Iran of attacks across the region and called for action against the Houthis.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b5f18c62ef980578922e79e5"
     }
   ],
   "unverified_history": [
