@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T00:48:22.817391+00:00",
+  "updated": "2026-10-01T01:38:22.662704+00:00",
   "items": [
     {
       "title": "Iran parades Shahed drones through capital",
@@ -112,6 +112,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4aaad3f7ba2101a443eff22b"
+    },
+    {
+      "title": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
+      "url": "https://bbc.co.uk/news/articles/cqgmrm7xd8wyo",
+      "source": "BBC World",
+      "published": "2026-09-30T21:29:43+00:00",
+      "retrieved_at": "2026-10-01T01:38:17.139469+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Passengers and crew overpowered the attacker and safely landed the plane in Saudi Arabia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "240bd6ced95e1569d419bf5a"
     },
     {
       "title": "Trump administration files complaint against judges over media comments",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "66c4989d9409565fef88939e"
-    },
-    {
-      "title": "Inside the Russian classrooms where 'patriotism lessons' prepare children to die for their country",
-      "url": "https://dw.com/en/inside-the-russian-classrooms-where-patriotism-lessons-prepare-children-to-die-for-their-country/a-79417294",
-      "source": "DW",
-      "published": "2026-09-26T11:55:00+00:00",
-      "retrieved_at": "2026-09-26T17:34:27.164998+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The Russian government wants children to learn about patriotism from an early age. DW spoke to students in Siberia about their views on propaganda, the war in Ukraine and their future.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0ac5ae1f98eafd08900eaed4"
     }
   ],
   "unverified_history": [
