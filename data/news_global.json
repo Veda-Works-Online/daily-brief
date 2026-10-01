@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-01T18:16:22.181658+00:00",
+  "updated": "2026-10-01T18:21:16.625034+00:00",
   "items": [
+    {
+      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+      "url": "https://bbc.co.uk/news/articles/crje8edqyej9o",
+      "source": "BBC World",
+      "published": "2026-10-01T18:19:14+00:00",
+      "retrieved_at": "2026-10-01T18:21:12.268985+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b545a246dd7ef94025f103a6"
+    },
     {
       "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
       "url": "https://bbc.co.uk/news/articles/cqg7k7v499jjo",
@@ -192,22 +208,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3aa84b9c3c55c2b0017599fd"
-    },
-    {
-      "title": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
-      "url": "https://bbc.co.uk/news/articles/crje8edqyej9o",
-      "source": "BBC World",
-      "published": "2026-10-01T15:38:13+00:00",
-      "retrieved_at": "2026-10-01T15:46:11.211309+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a13a8904682c747c916342d5"
     },
     {
       "title": "Why Are Modi Government Critics Now Targeting India’s Chief Election Commissioner Gyanesh Kumar?",
