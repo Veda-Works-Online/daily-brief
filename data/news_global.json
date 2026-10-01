@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-01T00:18:27.016222+00:00",
+  "updated": "2026-10-01T00:48:22.817391+00:00",
   "items": [
+    {
+      "title": "Iran parades Shahed drones through capital",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital",
+      "source": "Al Jazeera",
+      "published": "2026-10-01T00:39:04+00:00",
+      "retrieved_at": "2026-10-01T00:48:17.405313+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Crowds cheered and waved national flags as two Shahed drones were paraded through Tehran.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0c5d80761b062e614ccae238"
+    },
     {
       "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
       "url": "https://aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0ac5ae1f98eafd08900eaed4"
-    },
-    {
-      "title": "Propaganda in Russian schools prepares students to die for their country",
-      "url": "https://dw.com/en/propaganda-in-russian-schools-prepares-students-to-die-for-their-country/a-79417294",
-      "source": "DW",
-      "published": "2026-09-26T11:55:00+00:00",
-      "retrieved_at": "2026-09-26T12:48:49.047112+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The Russian government wants children to learn about patriotism from an early age. DW spoke to students in Siberia about their views on propaganda, the war in Ukraine and their future.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "87c50f515bb42044fee8d0c4"
     }
   ],
   "unverified_history": [
