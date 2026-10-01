@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-01T10:30:16.021496+00:00",
+  "updated": "2026-10-01T10:35:25.347480+00:00",
   "items": [
+    {
+      "title": "Madison Square Garden’s James Dolan Is Spending Big on New York’s Governor Race",
+      "url": "https://wired.com/story/madison-square-gardens-james-dolan-is-spending-big-on-new-yorks-governor-race",
+      "source": "Wired",
+      "published": "2026-10-01T10:30:00+00:00",
+      "retrieved_at": "2026-10-01T10:35:20.130953+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "James Dolan has put surveillance at the center of his sports and entertainment empire. Now he’s getting involved in GOP politics by backing a candidate who supports Flock, ICE, and AI data centers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "46b818b3609e634d2d12aac8"
+    },
     {
       "title": "Apple Mac Studio (M5 Ultra) Review: Unlimited Power",
       "url": "https://wired.com/review/apple-mac-studio-m5-ultra-2026",
@@ -4201,13 +4218,13 @@
       "story_fingerprint": "f938581df2ed48034af42621"
     },
     {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "source": "OpenAI",
       "published": "2026-09-23T12:00:00+00:00",
-      "retrieved_at": "2026-10-01T10:30:10.219957+00:00",
+      "retrieved_at": "2026-10-01T10:35:19.988389+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4215,7 +4232,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "1d6a6d8a2dceec6657fb7779"
+      "story_fingerprint": "95ae031281fbdcbf872d5482"
     },
     {
       "title": "How invideo improves color grading 3x with GPT‑6 Astra",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "5bb374455bdce77c05dfb0a0"
-    },
-    {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "retrieved_at": "2026-09-23T19:02:50.347731+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "1f9e6421700d3908b74481ad"
     }
   ],
   "unverified_history": [
