@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-01T17:51:16.450962+00:00",
+  "updated": "2026-10-01T18:16:15.295437+00:00",
   "items": [
+    {
+      "title": "OpenAI cuts ties with three safety researchers, WSJ reports",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports",
+      "source": "TechCrunch AI",
+      "published": "2026-10-01T18:14:42+00:00",
+      "retrieved_at": "2026-10-01T18:16:07.514619+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0ee25ba205e31240df4e1d0d"
+    },
     {
       "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
       "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b468a6d3d4a19a2304460cf8"
-    },
-    {
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
-      "source": "Google DeepMind",
-      "published": "2026-09-23T15:25:14+00:00",
-      "retrieved_at": "2026-09-23T15:26:53.364142+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "ca0d0763d346f8ca86d88ab1"
     }
   ],
   "unverified_history": [

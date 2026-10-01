@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-01T18:06:33.342214+00:00",
+  "updated": "2026-10-01T18:16:22.181658+00:00",
   "items": [
+    {
+      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+      "url": "https://bbc.co.uk/news/articles/cqg7k7v499jjo",
+      "source": "BBC World",
+      "published": "2026-10-01T18:09:03+00:00",
+      "retrieved_at": "2026-10-01T18:16:17.752959+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Vladimir Putin insists Moscow is \"not threatening anyone\" and merely responding to statements by Western leaders.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "37456574ef8a637c5d4486ee"
+    },
     {
       "title": "US Supreme Court agrees to take up Trump’s ICE detention policy",
       "url": "https://aljazeera.com/news/2026/10/1/us-supreme-court-agrees-to-take-up-trumps-ice-detention-policy",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3845a12f3bb5497ae61f203f"
-    },
-    {
-      "title": "Israel’s Netanyahu criticises opposition uniting against him for elections",
-      "url": "https://aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election",
-      "source": "Al Jazeera",
-      "published": "2026-09-27T08:10:22+00:00",
-      "retrieved_at": "2026-09-27T09:02:02.790779+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Five opposition leaders agree to cooperate to boost voter turnout to secure a majority in the October 27 elections.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e1f266d5196a2b84e056505c"
     }
   ],
   "unverified_history": [
