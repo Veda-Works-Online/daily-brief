@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-01T15:21:19.617989+00:00",
+  "updated": "2026-10-01T15:46:15.471677+00:00",
   "items": [
+    {
+      "title": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
+      "url": "https://bbc.co.uk/news/articles/crje8edqyej9o",
+      "source": "BBC World",
+      "published": "2026-10-01T15:38:13+00:00",
+      "retrieved_at": "2026-10-01T15:46:11.211309+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a13a8904682c747c916342d5"
+    },
     {
       "title": "Western militaries are undermining Ukraine’s defence, experts say",
       "url": "https://aljazeera.com/news/2026/10/1/western-militaries-are-undermining-ukraines-defence-experts-say",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "32c671a07dc972625be93f12"
-    },
-    {
-      "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/26/russia-scales-up-strikes-on-ukraine-as-largest-steelmaker-halts-operations",
-      "source": "Al Jazeera",
-      "published": "2026-09-26T20:57:54+00:00",
-      "retrieved_at": "2026-09-26T21:15:20.830077+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A wave of Russian strikes has hit various regions across Ukraine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2066a3bd21258928823f42a0"
     }
   ],
   "unverified_history": [
