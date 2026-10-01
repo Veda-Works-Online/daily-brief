@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-01T16:51:09.749382+00:00",
+  "updated": "2026-10-01T17:11:06.545879+00:00",
   "items": [
+    {
+      "title": "This startup wants to turn idle user car inventory into rental revenue",
+      "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue",
+      "source": "TechCrunch",
+      "published": "2026-10-01T17:09:00+00:00",
+      "retrieved_at": "2026-10-01T17:11:03.209823+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating, while people who only need a car for a few months are stuck paying too much for too little choice, so he built MyMonthlyCar, a platform that lets dealers rent out their idle used cars month to month (with an option to buy), and it's now one of the…",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b926d45b98e9b8aa7660c396"
+    },
     {
       "title": "Amazon releases its own Jev clone as decision models flood the web",
       "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a8660042bcb1ddae6e914b23"
-    },
-    {
-      "title": "YouTube releases new AI features for creators within its Studio app",
-      "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app",
-      "source": "TechCrunch AI",
-      "published": "2026-09-23T14:30:00+00:00",
-      "retrieved_at": "2026-09-23T14:31:56.022082+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8245bf81ad0d0a40db0a1aa2"
     }
   ],
   "unverified_history": [
