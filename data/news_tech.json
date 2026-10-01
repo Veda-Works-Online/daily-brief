@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-01T00:43:13.011730+00:00",
+  "updated": "2026-10-01T10:05:19.681350+00:00",
   "items": [
+    {
+      "title": "Apple Mac Studio (M5 Ultra) Review: Unlimited Power",
+      "url": "https://wired.com/review/apple-mac-studio-m5-ultra-2026",
+      "source": "Wired",
+      "published": "2026-10-01T10:00:00+00:00",
+      "retrieved_at": "2026-10-01T10:05:11.499075+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The Mac Studio can run frontier-level AI language models locally. It’s only a preview of what’s to come.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "07d084ef773323d1ee90c92f"
+    },
     {
       "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
       "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "95ae031281fbdcbf872d5482"
-    },
-    {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "retrieved_at": "2026-09-23T19:02:50.347740+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "1d6a6d8a2dceec6657fb7779"
     }
   ],
   "unverified_history": [
