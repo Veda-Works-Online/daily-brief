@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-01T12:00:22.719550+00:00",
+  "updated": "2026-10-01T12:05:16.439199+00:00",
   "items": [
+    {
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
+      "source": "TechCrunch",
+      "published": "2026-10-01T12:00:00+00:00",
+      "retrieved_at": "2026-10-01T12:05:11.094349+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b0c4dc93a1de9f0ceaceaabf"
+    },
     {
       "title": "Exclusive: Neurable’s First Brain-Scanning Headphones Want to Fine-Tune Your Focus",
       "url": "https://wired.com/story/exclusive-neurable-one-brain-scanning-headphones-want-to-fix-your-focus",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f938581df2ed48034af42621"
-    },
-    {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "retrieved_at": "2026-10-01T12:00:13.674875+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "1f9e6421700d3908b74481ad"
     }
   ],
   "unverified_history": [
