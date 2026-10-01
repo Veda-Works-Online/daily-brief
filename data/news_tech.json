@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-01T19:21:59.253504+00:00",
+  "updated": "2026-10-01T19:26:55.391221+00:00",
   "items": [
+    {
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you",
+      "source": "TechCrunch AI",
+      "published": "2026-10-01T19:21:53+00:00",
+      "retrieved_at": "2026-10-01T19:26:50.839526+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "968d751741c1231b1545eccb"
+    },
     {
       "title": "Google thinks SpaceX’s Starship has to launch 1,600 times before space data centers get off the ground",
       "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground",
@@ -53,11 +70,11 @@
       "story_fingerprint": "68263b9f132f88cea1af362b"
     },
     {
-      "title": "This startup wants to turn idle user car inventory into rental revenue",
-      "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue",
+      "title": "This startup wants to turn idle car inventory into rental revenue",
+      "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue",
       "source": "TechCrunch",
       "published": "2026-10-01T17:09:00+00:00",
-      "retrieved_at": "2026-10-01T18:27:07.089442+00:00",
+      "retrieved_at": "2026-10-01T19:26:51.426693+00:00",
       "feed_url": "https://techcrunch.com/feed/",
       "summary": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at TechCrunch Disrupt, taking place October 13 to 15 in San Francisco.",
       "isAI": true,
@@ -67,7 +84,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "b926d45b98e9b8aa7660c396"
+      "story_fingerprint": "9d9846803be674bf47f215f1"
     },
     {
       "title": "The eternal complement",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "8020e7e858855b847e85f10a"
-    },
-    {
-      "title": "Two years of OpenAI Academy",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "source": "OpenAI",
-      "published": "2026-09-23T16:00:00+00:00",
-      "retrieved_at": "2026-09-23T16:02:46.367966+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "74e3855cf9cf980d331a4c1f"
     }
   ],
   "unverified_history": [
