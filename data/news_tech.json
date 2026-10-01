@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-01T11:00:17.955068+00:00",
+  "updated": "2026-10-01T11:05:15.349746+00:00",
   "items": [
+    {
+      "title": "Exclusive: Neurable’s First Brain-Scanning Headphones Want to Fine-Tune Your Focus",
+      "url": "https://wired.com/story/exclusive-neurable-one-brain-scanning-headphones-want-to-fix-your-focus",
+      "source": "Wired",
+      "published": "2026-10-01T11:00:00+00:00",
+      "retrieved_at": "2026-10-01T11:05:11.186309+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The company claims that its new device, the Neurable One, can keep you in the zone, calculate the best time to take a break, and tell you when your “brain battery” needs a recharge.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "92298687f6f0fa2d1505c01d"
+    },
     {
       "title": "Madison Square Garden’s James Dolan Is Spending Big on New York’s Governor Race",
       "url": "https://wired.com/story/madison-square-gardens-james-dolan-is-spending-big-on-new-yorks-governor-race",
@@ -4218,13 +4235,13 @@
       "story_fingerprint": "f938581df2ed48034af42621"
     },
     {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "source": "OpenAI",
       "published": "2026-09-23T12:00:00+00:00",
-      "retrieved_at": "2026-10-01T11:00:12.320841+00:00",
+      "retrieved_at": "2026-10-01T11:05:11.055615+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4232,24 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "1f9e6421700d3908b74481ad"
-    },
-    {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-23T12:00:00+00:00",
-      "retrieved_at": "2026-10-01T11:00:12.320870+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "1d6a6d8a2dceec6657fb7779"
+      "story_fingerprint": "5bb374455bdce77c05dfb0a0"
     }
   ],
   "unverified_history": [
