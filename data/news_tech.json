@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-01T21:56:47.162154+00:00",
+  "updated": "2026-10-01T22:21:49.080956+00:00",
   "items": [
+    {
+      "title": "Whatever AI Safety Is, It’s Not This",
+      "url": "https://wired.com/story/whatever-ai-safety-looks-like-its-not-this",
+      "source": "Wired",
+      "published": "2026-10-01T22:10:42+00:00",
+      "retrieved_at": "2026-10-01T22:21:46.478402+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a99339fe054326e570db0fdc"
+    },
     {
       "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
       "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5c72fb505988950455b49712"
-    },
-    {
-      "title": "The Pope’s AI Guy Is Worried About ‘Cartel’ Behavior Among Big Labs",
-      "url": "https://wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs",
-      "source": "Wired",
-      "published": "2026-09-23T18:03:00+00:00",
-      "retrieved_at": "2026-09-23T18:12:42.676587+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b89e75db83291e21f2791a4c"
     }
   ],
   "unverified_history": [
