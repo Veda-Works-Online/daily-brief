@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T07:38:17.068499+00:00",
+  "updated": "2026-10-02T07:43:18.932915+00:00",
   "items": [
     {
       "title": "I opened cockpit door of plane while being attacked, says pilot of Israel-Dubai flight",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "28ee3f57961a4ffdff50e9a1"
+    },
+    {
+      "title": "How the fighting in Ethiopia spread beyond Tigray, in maps and charts",
+      "url": "https://aljazeera.com/news/2026/10/2/how-the-fighting-in-ethiopia-spread-beyond-tigray-in-maps-and-charts",
+      "source": "Al Jazeera",
+      "published": "2026-10-02T07:17:02+00:00",
+      "retrieved_at": "2026-10-02T07:43:14.557049+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Old rivalries, territorial disputes and new alliances are reshaping the conflict in Ethiopia’s north.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0622db863bde8f198c1056f8"
     },
     {
       "title": "Cyber Operators Are Deployed in Place. The Pentagon Should Treat Them That Way",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5f7e743cd401ef1c4f081585"
-    },
-    {
-      "title": "Anthropic CEO Amodei to have dinner with Trump at White House",
-      "url": "https://aljazeera.com/economy/2026/9/28/anthropic-ceo-amodei-to-have-dinner-with-trump-at-white-house",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T02:57:28+00:00",
-      "retrieved_at": "2026-09-28T03:15:38.503914+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Private dinner will be the first one-on-one meeting between the two men, according to reports.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ed3cd7fc93c993bf431ea87d"
     }
   ],
   "unverified_history": [
