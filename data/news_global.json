@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-02T12:04:25.133598+00:00",
+  "updated": "2026-10-02T13:09:29.699557+00:00",
   "items": [
+    {
+      "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock",
+      "url": "https://aljazeera.com/news/2026/10/2/ukraine-calls-for-tighter-sanctions-as-russian-attacks-spark-kyiv-gridlock",
+      "source": "Al Jazeera",
+      "published": "2026-10-02T12:47:30+00:00",
+      "retrieved_at": "2026-10-02T13:09:25.742620+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Closure of bridges struck by drones in Ukrainian capital causes traffic chaos.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "342a2b0396b1d4f2e373e5a5"
+    },
     {
       "title": "Washington’s diplomacy in Sudan has backfired",
       "url": "https://aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2be7c42701aac5170b317151"
-    },
-    {
-      "title": "US sanctions on Iran's aviation industry make travel less predictable as countries cancel flights",
-      "url": "https://dw.com/en/us-sanctions-on-iran-s-aviation-industry-make-travel-less-predictable-as-countries-cancel-flights/a-79459140",
-      "source": "DW",
-      "published": "2026-09-28T12:53:00+00:00",
-      "retrieved_at": "2026-09-28T13:52:19.248448+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The threat of secondary US sanctions is putting pressure on airports, fuel suppliers and aviation companies that service Iranian airlines. Some countries have already canceled flights.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "53e0d18e7efcdd80c2c0a764"
     }
   ],
   "unverified_history": [
