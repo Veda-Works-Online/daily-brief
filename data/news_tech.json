@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T18:15:13.488339+00:00",
+  "updated": "2026-10-02T18:20:22.787873+00:00",
   "items": [
     {
       "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
@@ -51,6 +51,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4ebe6221f26161626ea63b8b"
+    },
+    {
+      "title": "How I kept cool with NYC's free battery program for window AC units",
+      "url": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units",
+      "source": "Ars Technica",
+      "published": "2026-10-02T17:20:21+00:00",
+      "retrieved_at": "2026-10-02T18:20:07.950198+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Bonus: Every Electric’s batteries are beloved by household cats.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b258d2e810b7feae7edaabca"
     },
     {
       "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3a7fd20abe10b5ce21a1e950"
-    },
-    {
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026",
-      "source": "TechCrunch AI",
-      "published": "2026-09-24T16:03:36+00:00",
-      "retrieved_at": "2026-09-24T16:06:28.752620+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5f4fc06617b90685c21dd7ec"
     }
   ],
   "unverified_history": [
