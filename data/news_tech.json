@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-02T15:20:14.276403+00:00",
+  "updated": "2026-10-02T15:35:08.932641+00:00",
   "items": [
+    {
+      "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
+      "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read",
+      "source": "TechCrunch",
+      "published": "2026-10-02T15:31:20+00:00",
+      "retrieved_at": "2026-10-02T15:35:04.824579+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Laytr lets you save articles, recipes, screenshots, videos, PDFs and more for later, while keeping your archive private and synced across your Apple devices.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bbe3128f07c1ab89f543849b"
+    },
     {
       "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "url": "https://huggingface.co/blog/allenai/astabrief",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c403de669a113255ed4f0457"
-    },
-    {
-      "title": "The Best Early Prime Day Robot Vacuum Sales Are From Roborock (2026)",
-      "url": "https://wired.com/story/roborock-early-prime-day-deal-sept-2026",
-      "source": "Wired",
-      "published": "2026-09-24T09:32:00+00:00",
-      "retrieved_at": "2026-09-24T09:40:25.839714+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "One of the best things to buy during (or leading up to) sales events is expensive home gadgets. These Roborock robot vacuums are already on markdown.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "32dcc5181afb99ec7cc19a38"
     }
   ],
   "unverified_history": [
