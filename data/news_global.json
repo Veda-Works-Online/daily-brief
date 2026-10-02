@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T02:07:47.469963+00:00",
+  "updated": "2026-10-02T02:57:47.631366+00:00",
   "items": [
     {
       "title": "Trump launches midterms campaign blitz amid record low approval ratings",
@@ -96,6 +96,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d28b82074e6f8d0f6831d1a9"
+    },
+    {
+      "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+      "url": "https://bbc.co.uk/news/articles/c5zjzjgdeneeo",
+      "source": "BBC World",
+      "published": "2026-10-01T22:21:16+00:00",
+      "retrieved_at": "2026-10-02T02:57:42.237833+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bd2262ed23b75cfad342dc81"
     },
     {
       "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c1f7fc4848b4e2f7b029ea3c"
-    },
-    {
-      "title": "Switzerland rejects stricter interpretation of its neutrality",
-      "url": "https://bbc.co.uk/news/articles/cm750plvwy9vo",
-      "source": "BBC World",
-      "published": "2026-09-27T16:02:17+00:00",
-      "retrieved_at": "2026-09-27T16:07:38.827496+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e06f5d2b4d00dbe0f7ab5a7d"
     }
   ],
   "unverified_history": [
