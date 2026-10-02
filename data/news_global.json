@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-02T05:43:16.324102+00:00",
+  "updated": "2026-10-02T05:48:15.574050+00:00",
   "items": [
+    {
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "url": "https://bbc.co.uk/news/articles/crpd0d0jl0y0o",
+      "source": "BBC World",
+      "published": "2026-10-02T05:42:07+00:00",
+      "retrieved_at": "2026-10-02T05:48:11.283916+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across northern region.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "491a6a6c9e78bb582b786d54"
+    },
     {
       "title": "Arab-Israeli party leader drops election bid",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/2/arab-israeli-party-leader-drops-election-bid",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4fbd7b3ee18314cff6e4458c"
-    },
-    {
-      "title": "Ireland defeats Israel in controversial UEFA Nations League match",
-      "url": "https://aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match",
-      "source": "Al Jazeera",
-      "published": "2026-09-27T21:41:59+00:00",
-      "retrieved_at": "2026-09-27T21:49:38.812512+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Ireland's players wore black armbands in support of Palestine, bowed their heads, and refused pre-match handshakes.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "de99db63f18f8a474beb0aff"
     }
   ],
   "unverified_history": [
