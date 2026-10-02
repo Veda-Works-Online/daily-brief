@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-02T18:40:19.403605+00:00",
+  "updated": "2026-10-02T19:15:21.340055+00:00",
   "items": [
+    {
+      "title": "Trump says Europe agreed to release ‘massive amount’ of diesel reserves",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_ig_thumb_diesel-021026",
+      "source": "Al Jazeera",
+      "published": "2026-10-02T19:01:45+00:00",
+      "retrieved_at": "2026-10-02T19:15:15.969081+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US President Donald Trump says Europe agreed to release a ‘massive amount’ of diesel from emergency stockpiles.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "31f7a6635d1486c866d3b7e8"
+    },
     {
       "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
       "url": "https://aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4872f3478fba1d5dc2480d43"
-    },
-    {
-      "title": "Why the Week’s Most Important Story Went Unwritten",
-      "url": "https://warontherocks.com/why-the-weeks-most-important-story-went-unwritten",
-      "source": "War on the Rocks",
-      "published": "2026-09-28T19:15:39+00:00",
-      "retrieved_at": "2026-09-28T19:18:15.442037+00:00",
-      "feed_url": "https://warontherocks.com/feed/",
-      "summary": "Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues shaping their country.American coverage often narrows the view to the battlefield — these pieces…",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://warontherocks.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "55a49258d0588cea8edda63a"
     }
   ],
   "unverified_history": [
