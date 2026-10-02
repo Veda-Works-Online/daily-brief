@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-02T09:44:10.210591+00:00",
+  "updated": "2026-10-02T09:59:11.450016+00:00",
   "items": [
+    {
+      "title": "Israeli court ruling a ‘new threshold’ in Palestinian suppression",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/2/10-2-ziad-abu-rish-israel-politics-qt-mp4",
+      "source": "Al Jazeera",
+      "published": "2026-10-02T09:24:39+00:00",
+      "retrieved_at": "2026-10-02T09:59:07.212684+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israel’s top court told Palestinian politician Sami Abu Shehadeh to withdraw from the election or face disqualification.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9f6d223b16cc5eaa8c81b651"
+    },
     {
       "title": "UK arrests British-Iranian suspect over RAF ‘plot’: What we know",
       "url": "https://aljazeera.com/news/2026/10/2/uk-arrests-british-iranian-suspect-over-raf-plot-what-we-know",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7009bccf6c2abdde55e6467a"
-    },
-    {
-      "title": "Iran’s children return to school under the shadow of war",
-      "url": "https://aljazeera.com/features/2026/9/28/irans-children-return-to-school-under-the-shadow-of-war",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T08:25:49+00:00",
-      "retrieved_at": "2026-09-28T08:41:18.267454+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iranian children have missed schooling due to the US war.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8dcb94cc49b46fb8e0819bea"
     }
   ],
   "unverified_history": [
