@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T21:36:07.210437+00:00",
+  "updated": "2026-10-02T21:41:03.389862+00:00",
   "items": [
     {
       "title": "Bosnia’s elections explained",
@@ -64,6 +64,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d2626d30ee09b88cc4ee031d"
+    },
+    {
+      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "url": "https://bbc.co.uk/news/articles/ck87zg8jnwngo",
+      "source": "BBC World",
+      "published": "2026-10-02T20:25:19+00:00",
+      "retrieved_at": "2026-10-02T21:40:57.855273+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1e0acda4f2e13c0215c9cbf5"
     },
     {
       "title": "Could conflict in Ethiopia expand across the region?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d6c27cd41adb74c0ad9296fa"
-    },
-    {
-      "title": "South Sudan calls for sanctions to be lifted at UNGA",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/28/south-sudan-calls-for-sanctions-to-be-lifted-at-unga",
-      "source": "Al Jazeera",
-      "published": "2026-09-28T20:45:52+00:00",
-      "retrieved_at": "2026-09-28T21:08:08.309901+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Speaking at the UN General Assembly, South Sudan’s UN envoy Cecilia Adeng called for sanctions to be lifted",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b311f17e331af5000bc47711"
     }
   ],
   "unverified_history": [
