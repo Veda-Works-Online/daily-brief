@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-02T14:24:27.173106+00:00",
+  "updated": "2026-10-02T14:35:14.212947+00:00",
   "items": [
+    {
+      "title": "Trump says Europe agrees to release ‘massive amount’ diesel stockpile",
+      "url": "https://aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile",
+      "source": "Al Jazeera",
+      "published": "2026-10-02T14:14:18+00:00",
+      "retrieved_at": "2026-10-02T14:35:09.993792+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "This is a breaking news story.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "39328123f89f26663f3d11ac"
+    },
     {
       "title": "Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?",
       "url": "https://aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "33de0c3a3a16dd2835a48734"
-    },
-    {
-      "title": "Why the latest action from India's youth-led 'cockroach' movement is targeting the election chief",
-      "url": "https://dw.com/en/why-the-latest-action-from-india-s-youth-led-cockroach-movement-is-targeting-the-election-chief/a-79462036",
-      "source": "DW",
-      "published": "2026-09-28T14:18:00+00:00",
-      "retrieved_at": "2026-09-28T15:07:16.833976+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The 'cockroach' movement has emerged as an influential force in Indian politics. Its latest campaign targets the election commission amid a wider debate over voter rolls and public trust in electoral institutions.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "49793c96b089ccc958e88fed"
     }
   ],
   "unverified_history": [
