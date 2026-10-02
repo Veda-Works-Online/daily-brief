@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T17:05:14.903108+00:00",
+  "updated": "2026-10-02T17:10:11.878046+00:00",
   "items": [
     {
       "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
@@ -272,6 +272,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1d98c3da7dbc32154aee4772"
+    },
+    {
+      "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
+      "url": "https://wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue",
+      "source": "Wired",
+      "published": "2026-10-02T09:30:00+00:00",
+      "retrieved_at": "2026-10-02T17:10:07.282618+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1ee6749001b329efa81533f2"
     },
     {
       "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "690b64b6a4cf02b01dd2de69"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-      "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it",
-      "source": "TechCrunch AI",
-      "published": "2026-09-24T14:30:00+00:00",
-      "retrieved_at": "2026-09-24T14:31:31.687541+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9ed173dd260903182172cf9e"
     }
   ],
   "unverified_history": [
