@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-02T20:01:05.693253+00:00",
+  "updated": "2026-10-02T20:35:57.006582+00:00",
   "items": [
+    {
+      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash",
+      "source": "Ars Technica AI",
+      "published": "2026-10-02T20:30:27+00:00",
+      "retrieved_at": "2026-10-02T20:35:50.904245+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6d9ffc6cc22f3d1fd08e0df6"
+    },
     {
       "title": "ICE Has Been Dumping Protester Photos Into a Palantir Database",
       "url": "https://wired.com/story/ice-has-been-dumping-protester-photos-into-a-palantir-database",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ddbb6ce303c84cebc147dd73"
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know",
-      "source": "TechCrunch AI",
-      "published": "2026-09-24T16:46:47+00:00",
-      "retrieved_at": "2026-09-24T16:47:32.485601+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5a6339a0e5690773ee3f7f93"
     }
   ],
   "unverified_history": [
