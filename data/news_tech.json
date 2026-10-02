@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-02T18:20:22.787873+00:00",
+  "updated": "2026-10-02T18:40:11.393429+00:00",
   "items": [
+    {
+      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china",
+      "source": "Ars Technica AI",
+      "published": "2026-10-02T18:39:36+00:00",
+      "retrieved_at": "2026-10-02T18:40:07.358731+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "aee9c8a56e3143be797900ba"
+    },
     {
       "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
       "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "8cfeddfa116322b89fdef282"
-    },
-    {
-      "title": "Google's first Suncatcher orbital data center test launches October 1",
-      "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1",
-      "source": "Ars Technica AI",
-      "published": "2026-09-24T16:16:34+00:00",
-      "retrieved_at": "2026-09-24T16:21:28.217843+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3a7fd20abe10b5ce21a1e950"
     }
   ],
   "unverified_history": [
