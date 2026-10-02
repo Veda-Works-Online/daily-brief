@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-02T00:37:45.465533+00:00",
+  "updated": "2026-10-02T01:42:47.235640+00:00",
   "items": [
+    {
+      "title": "Trump says US may ask Europe to release diesel reserves",
+      "url": "https://aljazeera.com/news/2026/10/2/trump-says-us-may-ask-europe-to-release-diesel-reserves",
+      "source": "Al Jazeera",
+      "published": "2026-10-02T01:23:35+00:00",
+      "retrieved_at": "2026-10-02T01:42:41.910435+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Skyrocketing diesel prices have pushed Washington to weigh an export ban, raising alarm across European economies.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f5a7e3ee6ae10a8a0ec303a3"
+    },
+    {
+      "title": "EU ministers mull new ways to curb irregular migration",
+      "url": "https://dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375",
+      "source": "DW",
+      "published": "2026-10-02T00:54:00+00:00",
+      "retrieved_at": "2026-10-02T01:42:42.393876+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The proposals include setting up so-called return hubs outside the EU and strengthening the border agency Frontex. Greece has even proposed temporarily suspending asylum applications in emergency situations.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0245be13519375b8f08c88cf"
+    },
     {
       "title": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
       "url": "https://aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "51d35b5d41a5502acb961770"
-    },
-    {
-      "title": "Who is Gavin Bazunu, and why is he boycotting the Ireland vs Israel match?",
-      "url": "https://aljazeera.com/sports/2026/9/27/who-is-gavin-bazunu-and-why-is-he-boycotting-the-ireland-vs-israel-match",
-      "source": "Al Jazeera",
-      "published": "2026-09-27T15:51:18+00:00",
-      "retrieved_at": "2026-09-27T16:22:40.229936+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Bazunu says his decision to withdraw was based on a 'personal belief that the killing of innocent people is wrong'.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e281c6a515eedd7e32d7ac88"
-    },
-    {
-      "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
-      "url": "https://aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal",
-      "source": "Al Jazeera",
-      "published": "2026-09-27T14:36:44+00:00",
-      "retrieved_at": "2026-09-27T14:52:41.610642+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "There are fears of renewed fighting between the US and Iran, after President Trump rejected a deal.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8e6e8acf3ca5ea1f05b750a8"
     }
   ],
   "unverified_history": [
