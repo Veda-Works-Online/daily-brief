@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-02T22:40:54.550149+00:00",
+  "updated": "2026-10-02T23:05:57.357908+00:00",
   "items": [
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
+      "source": "Ars Technica AI",
+      "published": "2026-10-02T23:03:16+00:00",
+      "retrieved_at": "2026-10-02T23:05:52.102853+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b88500ebf4093e5f601efe21"
+    },
     {
       "title": "Someone got Doom in an SQL database",
       "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b608f7dd3724f00741b35c46"
-    },
-    {
-      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-      "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center",
-      "source": "TechCrunch AI",
-      "published": "2026-09-24T18:11:44+00:00",
-      "retrieved_at": "2026-09-24T18:12:17.012543+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "946c3f02ba39483189591611"
     }
   ],
   "unverified_history": [
