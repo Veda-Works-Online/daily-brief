@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-02T19:15:21.340055+00:00",
+  "updated": "2026-10-02T19:25:18.348043+00:00",
   "items": [
+    {
+      "title": "Arab party leader withdraws from Israeli elections",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections",
+      "source": "Al Jazeera",
+      "published": "2026-10-02T19:10:23+00:00",
+      "retrieved_at": "2026-10-02T19:25:13.109188+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Palestinian politician Sami Abu Shehadeh withdrew from Israel’s upcoming election.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1503241ad15d475796adc2b2"
+    },
     {
       "title": "Trump says Europe agreed to release ‘massive amount’ of diesel reserves",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/2/aje-onl-nf_ig_thumb_diesel-021026",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "544883bef096b6aff524ec59"
-    },
-    {
-      "title": "China’s Young Women Are Rewriting the Rules of Adulthood",
-      "url": "https://thediplomat.com/2026/09/chinas-young-women-are-rewriting-the-rules-of-adulthood",
-      "source": "The Diplomat",
-      "published": "2026-09-28T19:22:00+00:00",
-      "retrieved_at": "2026-09-29T08:36:47.852013+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Modernization has expanded women’s choices and made the traditional sequence of adulthood – marry, have children, settle near family – less inevitable.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4872f3478fba1d5dc2480d43"
     }
   ],
   "unverified_history": [
