@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-02T08:53:20.813998+00:00",
+  "updated": "2026-10-02T09:23:17.497503+00:00",
   "items": [
+    {
+      "title": "UK arrests British-Iranian suspect over RAF ‘plot’: What we know",
+      "url": "https://aljazeera.com/news/2026/10/2/uk-arrests-british-iranian-suspect-over-raf-plot-what-we-know",
+      "source": "Al Jazeera",
+      "published": "2026-10-02T09:03:21+00:00",
+      "retrieved_at": "2026-10-02T09:23:13.034270+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Police investigate 'possible foreign state involvement' as sixth man arrested over RAF Fairford incident.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f1a5920d5fc3a9ca1b0402be"
+    },
     {
       "title": "US delivers F-16V fighter jets to Taiwan as island eyes threat from China",
       "url": "https://aljazeera.com/news/2026/10/2/us-delivers-f-16v-fighter-jets-to-taiwan-as-island-eyes-threat-from-china",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8dcb94cc49b46fb8e0819bea"
-    },
-    {
-      "title": "Collective Defense in an Era of Tokens and Data Links",
-      "url": "https://warontherocks.com/cogs-of-war/collective-defense-in-an-era-of-tokens-and-data-links",
-      "source": "War on the Rocks",
-      "published": "2026-09-28T08:00:19+00:00",
-      "retrieved_at": "2026-09-28T08:01:21.801532+00:00",
-      "feed_url": "https://warontherocks.com/feed/",
-      "summary": "NATO’s Supreme Allied Commander Transformation, Adm. Pierre Vandier, returns to the studio to discuss how the alliance is continuously adapting to a new era of warfare driven by software, data, and uncrewed systems, and where it still lags. He explains why NATO is favoring field experimentation, how allies can build sovereign defense tech ecosystems without sacrificing interoperability, and what…",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://warontherocks.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d9a4494133dc28cf0c719b73"
     }
   ],
   "unverified_history": [
