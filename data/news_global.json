@@ -1,14 +1,30 @@
 {
-  "updated": "2026-10-02T15:10:16.593079+00:00",
+  "updated": "2026-10-02T15:40:23.230630+00:00",
   "items": [
+    {
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "url": "https://bbc.co.uk/news/articles/c6wyv44y4ywjo",
+      "source": "BBC World",
+      "published": "2026-10-02T15:26:37+00:00",
+      "retrieved_at": "2026-10-02T15:40:18.949213+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia is hits critical infrastructure.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "82a2c27e30a7d0cb8bc81848"
+    },
     {
       "title": "G7 announces oil reserve release, as Trump hails Europe diesel deal",
       "url": "https://aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile",
       "source": "Al Jazeera",
       "published": "2026-10-02T14:14:18+00:00",
-      "retrieved_at": "2026-10-02T15:10:12.395596+00:00",
+      "retrieved_at": "2026-10-02T15:40:19.029141+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Macron says G7 will release 100 million barrels over four months; diesel release to be 'frontloaded'",
+      "summary": "Macron says G7 will release 100 million barrels over four months; diesel release to be 'frontloaded'.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "369a0d50677371da7c6ee494"
-    },
-    {
-      "title": "India's youth-led Cockroach movement targets election chief over voter-roll dispute",
-      "url": "https://dw.com/en/india-s-youth-led-cockroach-movement-targets-election-chief-over-voter-roll-dispute/a-79462036",
-      "source": "DW",
-      "published": "2026-09-28T14:18:00+00:00",
-      "retrieved_at": "2026-09-29T14:17:59.164739+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The Cockroach movement has emerged as an influential force in Indian politics. Its latest campaign targets the election commission amid a wider debate over voter rolls and public trust in electoral institutions.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "33de0c3a3a16dd2835a48734"
     }
   ],
   "unverified_history": [
