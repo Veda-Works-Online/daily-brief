@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T17:10:11.878046+00:00",
+  "updated": "2026-10-02T17:20:14.475192+00:00",
   "items": [
     {
       "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
@@ -374,6 +374,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2772406bcaecdbe5ff91faea"
+    },
+    {
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "source": "OpenAI",
+      "published": "2026-10-02T00:00:00+00:00",
+      "retrieved_at": "2026-10-02T17:20:05.222221+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "cdacf412e88dd4899cb1bbf0"
     },
     {
       "title": "Whatever AI Safety Is, It’s Not This",
@@ -2178,23 +2195,6 @@
       "story_fingerprint": "d257d3c7c0c472a8b2d105db"
     },
     {
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "source": "OpenAI",
-      "published": "2026-09-29T10:00:00+00:00",
-      "retrieved_at": "2026-09-29T18:08:43.616456+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "b1156c6efdbbddf9c27d4833"
-    },
-    {
       "title": "DevDay 2026 Recap",
       "url": "https://openai.com/index/devday-2026-recap",
       "source": "OpenAI",
@@ -2210,6 +2210,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "94717e8f589b993d5d930376"
+    },
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI",
+      "published": "2026-09-29T10:00:00+00:00",
+      "retrieved_at": "2026-09-29T18:08:43.616456+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "b1156c6efdbbddf9c27d4833"
     },
     {
       "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
@@ -2994,23 +3011,6 @@
       "story_fingerprint": "d360b934b84184e0fbf09370"
     },
     {
-      "title": "Are you a Codex Original?",
-      "url": "https://openai.com/form/codex-originals",
-      "source": "OpenAI",
-      "published": "2026-09-28T00:00:00+00:00",
-      "retrieved_at": "2026-09-28T21:18:00.009080+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "0962b92db672441e6860adbc"
-    },
-    {
       "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
       "url": "https://openai.com/index/basis-tax-workbook-with-astra",
       "source": "OpenAI",
@@ -3026,6 +3026,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "c2f19d517196393cce4ede20"
+    },
+    {
+      "title": "Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals",
+      "source": "OpenAI",
+      "published": "2026-09-28T00:00:00+00:00",
+      "retrieved_at": "2026-09-28T21:18:00.009080+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "0962b92db672441e6860adbc"
     },
     {
       "title": "Anthropic’s CEO is about to have dinner with President Trump",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "da0c8c1860aafd01581e39cd"
-    },
-    {
-      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-      "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together",
-      "source": "TechCrunch AI",
-      "published": "2026-09-24T14:31:00+00:00",
-      "retrieved_at": "2026-09-24T20:47:06.314197+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "690b64b6a4cf02b01dd2de69"
     }
   ],
   "unverified_history": [
