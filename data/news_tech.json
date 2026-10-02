@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-01T22:21:49.080956+00:00",
+  "updated": "2026-10-02T00:07:37.918828+00:00",
   "items": [
+    {
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know",
+      "source": "TechCrunch",
+      "published": "2026-10-02T00:03:23+00:00",
+      "retrieved_at": "2026-10-02T00:07:33.943255+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2772406bcaecdbe5ff91faea"
+    },
     {
       "title": "Whatever AI Safety Is, It’s Not This",
       "url": "https://wired.com/story/whatever-ai-safety-looks-like-its-not-this",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fdf81cd39d4b7523e902589e"
-    },
-    {
-      "title": "Bentley Wants Its Torcal SUV to Break the Curse of the Luxury EV",
-      "url": "https://wired.com/story/bentley-wants-its-torcal-suv-to-break-the-curse-of-the-luxury-ev",
-      "source": "Wired",
-      "published": "2026-09-23T18:15:00+00:00",
-      "retrieved_at": "2026-09-23T18:22:41.778124+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The British high-end auto company reveals its first-ever full EV: 330 miles of range, 0 to 60 mph in under 3 seconds, and an orchestra under the hood. Will it be enough to lure high-rollers?",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5c72fb505988950455b49712"
     }
   ],
   "unverified_history": [
