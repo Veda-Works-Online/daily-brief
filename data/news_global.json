@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T03:42:49.399920+00:00",
+  "updated": "2026-10-02T03:52:31.126382+00:00",
   "items": [
     {
       "title": "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
@@ -128,6 +128,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c81ae7c5dd9c975bd5214580"
+    },
+    {
+      "title": "Spain and China are cosying up - to the anger of many in the EU",
+      "url": "https://bbc.co.uk/news/articles/c6vgyg824m02o",
+      "source": "BBC World",
+      "published": "2026-10-01T23:42:33+00:00",
+      "retrieved_at": "2026-10-02T03:52:25.691474+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Amid global tumult, the two countries alliance is not the only unlikely pairing.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0d42e818dea932167424a9b8"
     },
     {
       "title": "Brazilian government calls for probe into US funding of far-right causes",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7666f6e3fdad7fadf4b904fc"
-    },
-    {
-      "title": "‘Iran ready for doomsday war’, FM Araghchi says",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says",
-      "source": "Al Jazeera",
-      "published": "2026-09-27T17:46:04+00:00",
-      "retrieved_at": "2026-09-27T17:53:59.285628+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c2f41eccfedd825b62a28c44"
     }
   ],
   "unverified_history": [
