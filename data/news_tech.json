@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-02T17:50:11.056234+00:00",
+  "updated": "2026-10-02T18:00:18.045511+00:00",
   "items": [
+    {
+      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it",
+      "source": "TechCrunch AI",
+      "published": "2026-10-02T17:56:00+00:00",
+      "retrieved_at": "2026-10-02T18:00:06.319144+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as…",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "104263b9763a043ddeeec1b4"
+    },
     {
       "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
       "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2657e5e1ce408d2fb7b7cec3"
-    },
-    {
-      "title": "Google tests letting Gemini call businesses for you",
-      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners",
-      "source": "TechCrunch AI",
-      "published": "2026-09-24T16:00:00+00:00",
-      "retrieved_at": "2026-09-24T16:01:41.030988+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9d3ea37976f13d33be97badb"
     }
   ],
   "unverified_history": [
