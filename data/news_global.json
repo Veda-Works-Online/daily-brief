@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T15:50:15.511026+00:00",
+  "updated": "2026-10-02T15:55:16.879243+00:00",
   "items": [
     {
       "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "82a2c27e30a7d0cb8bc81848"
+    },
+    {
+      "title": "Iran accused of blocking SIM cards, digital access to silence dissent",
+      "url": "https://dw.com/en/iran-accused-of-blocking-sim-cards-digital-access-to-silence-dissent/a-79522440",
+      "source": "DW",
+      "published": "2026-10-02T15:19:00+00:00",
+      "retrieved_at": "2026-10-02T15:55:12.582545+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "DW has spoken with several Iranians who say their SIM cards, bank access and online accounts were blocked until they deleted critical content or pledged to stop activism.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1817b101f956dc510d736e2b"
     },
     {
       "title": "G7 announces oil reserve release, as Trump hails Europe diesel deal",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4ecd439799c4dee22e5a2a80"
-    },
-    {
-      "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-      "url": "https://bbc.co.uk/news/articles/c8ly40xx0dr0o",
-      "source": "BBC World",
-      "published": "2026-09-28T14:57:31+00:00",
-      "retrieved_at": "2026-09-28T15:27:18.228525+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "369a0d50677371da7c6ee494"
     }
   ],
   "unverified_history": [
