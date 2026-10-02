@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-02T20:35:57.006582+00:00",
+  "updated": "2026-10-02T21:10:57.003044+00:00",
   "items": [
+    {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music",
+      "source": "TechCrunch AI",
+      "published": "2026-10-02T21:09:14+00:00",
+      "retrieved_at": "2026-10-02T21:10:52.225663+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7e5d26ff1668cd538fe48360"
+    },
     {
       "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
       "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d2be170380b2efe18a9aa146"
-    },
-    {
-      "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
-      "url": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios",
-      "source": "TechCrunch",
-      "published": "2026-09-24T17:00:00+00:00",
-      "retrieved_at": "2026-09-24T17:02:32.179784+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ddbb6ce303c84cebc147dd73"
     }
   ],
   "unverified_history": [
