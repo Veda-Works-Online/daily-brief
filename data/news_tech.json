@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-02T16:05:07.801958+00:00",
+  "updated": "2026-10-02T16:15:07.940958+00:00",
   "items": [
+    {
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI",
+      "published": "2026-10-02T16:15:00+00:00",
+      "retrieved_at": "2026-10-02T16:15:03.632865+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "9352f6a08a3232565e8764e5"
+    },
     {
       "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
       "url": "https://wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open",
@@ -121,11 +138,11 @@
       "story_fingerprint": "9f28e8ef9ace193419e00548"
     },
     {
-      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
+      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
       "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai",
       "source": "Ars Technica AI",
       "published": "2026-10-02T14:52:16+00:00",
-      "retrieved_at": "2026-10-02T15:00:04.870543+00:00",
+      "retrieved_at": "2026-10-02T16:15:03.677006+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
       "isAI": true,
@@ -135,7 +152,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "0de4da0b8dfa24353f84ee44"
+      "story_fingerprint": "fc9766bb1a8a5eeebfde9bc2"
     },
     {
       "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "afdd934b9fd1692dc263ee19"
-    },
-    {
-      "title": "Meta puts its AI assistant on a keychain",
-      "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain",
-      "source": "Ars Technica AI",
-      "published": "2026-09-24T14:03:38+00:00",
-      "retrieved_at": "2026-09-24T14:36:22.030276+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Meta says the keychain-sized Muse Charm will ship in December.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a6291a749d6d4d55e4cee663"
     }
   ],
   "unverified_history": [
