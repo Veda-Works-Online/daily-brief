@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-02T18:00:18.045511+00:00",
+  "updated": "2026-10-02T18:15:13.488339+00:00",
   "items": [
+    {
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+      "source": "TechCrunch AI",
+      "published": "2026-10-02T18:11:27+00:00",
+      "retrieved_at": "2026-10-02T18:15:07.514302+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d20e98c4cccddda654e36127"
+    },
     {
       "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
       "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5f4fc06617b90685c21dd7ec"
-    },
-    {
-      "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-      "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach",
-      "source": "Ars Technica AI",
-      "published": "2026-09-24T16:01:16+00:00",
-      "retrieved_at": "2026-09-24T16:01:41.569362+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "\"There will obviously be legal consequences,\" prime minister promises.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2657e5e1ce408d2fb7b7cec3"
     }
   ],
   "unverified_history": [
