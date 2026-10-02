@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-02T04:02:25.956208+00:00",
+  "updated": "2026-10-02T08:33:09.879071+00:00",
   "items": [
+    {
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "url": "https://technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason",
+      "source": "MIT Tech Review",
+      "published": "2026-10-02T08:00:00+00:00",
+      "retrieved_at": "2026-10-02T08:33:06.505813+00:00",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4f51c160f94ea574ea3dec5b"
+    },
     {
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "854b5b247f0beb9ad8bbe216"
-    },
-    {
-      "title": "Modal Motors is trying to cut China out of electric motors entirely",
-      "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely",
-      "source": "TechCrunch",
-      "published": "2026-09-23T19:05:00+00:00",
-      "retrieved_at": "2026-09-23T19:27:52.278830+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "81402d08b703f28e7623499f"
     }
   ],
   "unverified_history": [
