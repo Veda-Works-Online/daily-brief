@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-01T23:01:50.763647+00:00",
+  "updated": "2026-10-02T00:02:50.739207+00:00",
   "items": [
+    {
+      "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
+      "url": "https://aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank",
+      "source": "Al Jazeera",
+      "published": "2026-10-01T23:44:39+00:00",
+      "retrieved_at": "2026-10-02T00:02:45.526998+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "1,439 Palestinians have been killed in Gaza and 5,052 injured since the 'ceasefire' began in October 2025.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c81ae7c5dd9c975bd5214580"
+    },
     {
       "title": "Brazilian government calls for probe into US funding of far-right causes",
       "url": "https://aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a63a8d938f92cdef393248f4"
-    },
-    {
-      "title": "‘Better deal’: What’s behind Trump’s rejection of Iran’s truce offer?",
-      "url": "https://aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer",
-      "source": "Al Jazeera",
-      "published": "2026-09-27T13:17:53+00:00",
-      "retrieved_at": "2026-09-27T13:32:38.543769+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Experts say Trump sees economic sanctions as key to extracting more concessions but he risks losing leverage.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a18338aba4ac70d6a5b6d2a7"
     }
   ],
   "unverified_history": [
