@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-02T04:43:18.854353+00:00",
+  "updated": "2026-10-02T04:48:16.095811+00:00",
   "items": [
+    {
+      "title": "Ukraine, South Korea clash over transfer of 2 North Korean prisoners",
+      "url": "https://dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601",
+      "source": "DW",
+      "published": "2026-10-02T04:40:00+00:00",
+      "retrieved_at": "2026-10-02T04:48:12.229848+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "A diplomatic scandal has erupted over two North Korean prisoners of war, with South Korea demanding an apology from Ukraine. What's been the reaction in Kyiv?",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c90b73584271f42d380257d8"
+    },
     {
       "title": "Iran urges Iraq to lift flight ban amid US sanctions",
       "url": "https://aljazeera.com/news/2026/10/2/iran-urges-iraq-to-lift-flight-ban-amid-us-sanctions",
@@ -352,6 +368,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bed3a27472dfe4239e7ba200"
+    },
+    {
+      "title": "Latvians head to the polls with Russia on their minds",
+      "url": "https://dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614",
+      "source": "DW",
+      "published": "2026-10-01T17:57:00+00:00",
+      "retrieved_at": "2026-10-02T04:48:12.229905+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "On October 3, Latvians will elect a new parliament with Russia looming large over the campaign. Security fears dominate the agenda, but so does a debate over the economic cost of cutting ties with Moscow.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f56f61083f651d77179dc910"
     },
     {
       "title": "US Supreme Court agrees to take up Trump’s ICE detention policy",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f4ba6840ed4f699b3118c9ce"
-    },
-    {
-      "title": "Israeli strikes continue in southern Lebanon despite ceasefire",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire",
-      "source": "Al Jazeera",
-      "published": "2026-09-27T20:57:38+00:00",
-      "retrieved_at": "2026-09-27T21:09:02.301331+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "An Israeli Apache helicopter struck a commercial centre near Mayfadoun in Southern Lebanon.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9ce47ee45f83ef238f0e6971"
-    },
-    {
-      "title": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
-      "url": "https://aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action",
-      "source": "Al Jazeera",
-      "published": "2026-09-27T20:34:09+00:00",
-      "retrieved_at": "2026-09-27T20:48:58.932185+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Cuba's deputy foreign minister slams US sanctions, labelling them 'equivalent to genocide'.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "de8aa154ba8bedcd9c7acc75"
     }
   ],
   "unverified_history": [
