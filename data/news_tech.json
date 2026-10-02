@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-02T12:34:16.629212+00:00",
+  "updated": "2026-10-02T12:54:24.145001+00:00",
   "items": [
+    {
+      "title": "Rivian issues R2 recall for poorly tightened battery packs",
+      "url": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs",
+      "source": "TechCrunch",
+      "published": "2026-10-02T12:50:11+00:00",
+      "retrieved_at": "2026-10-02T12:54:19.076253+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The company says around 14 vehicles may be affected, and that it has resolved the issue on the assembly line.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cee720ce9f1e817a4d3fd546"
+    },
     {
       "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
       "url": "https://wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3b8073151415be5ba2cfb8ca"
-    },
-    {
-      "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
-      "url": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them",
-      "source": "Ars Technica AI",
-      "published": "2026-09-23T20:28:42+00:00",
-      "retrieved_at": "2026-09-23T20:32:44.081701+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "$11M competition showed wildfire detection is still easier than stopping fires.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8b50e9bca43197f341f14b93"
     }
   ],
   "unverified_history": [
