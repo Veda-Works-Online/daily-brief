@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-02T06:43:18.954347+00:00",
+  "updated": "2026-10-02T07:03:19.829835+00:00",
   "items": [
+    {
+      "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+      "url": "https://bbc.co.uk/news/articles/c5zjzjgdeneeo",
+      "source": "BBC World",
+      "published": "2026-10-02T06:59:30+00:00",
+      "retrieved_at": "2026-10-02T07:03:15.379404+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cd6e73baf40f6f492c8da8c4"
+    },
     {
       "title": "Greece pushes EU to suspend asylum during mass migration surges",
       "url": "https://aljazeera.com/news/2026/10/2/greece-pushes-eu-to-suspend-asylum-during-mass-migration-surges",
@@ -320,22 +336,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d28b82074e6f8d0f6831d1a9"
-    },
-    {
-      "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-      "url": "https://bbc.co.uk/news/articles/c5zjzjgdeneeo",
-      "source": "BBC World",
-      "published": "2026-10-01T22:21:16+00:00",
-      "retrieved_at": "2026-10-02T04:17:24.958713+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c87ff15c54a7b7e2253b66a7"
     },
     {
       "title": "Russia’s Putin rules out ceasefire with Ukraine during speech in Moscow",
