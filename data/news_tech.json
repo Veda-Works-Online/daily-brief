@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-02T09:34:03.491513+00:00",
+  "updated": "2026-10-02T09:49:02.701112+00:00",
   "items": [
+    {
+      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+      "url": "https://wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data",
+      "source": "Wired",
+      "published": "2026-10-02T09:45:00+00:00",
+      "retrieved_at": "2026-10-02T09:48:59.947365+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1d98c3da7dbc32154aee4772"
+    },
     {
       "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
       "url": "https://wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8b50e9bca43197f341f14b93"
-    },
-    {
-      "title": "YouTube promises custom feeds and a lot more AI later this year",
-      "url": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year",
-      "source": "Ars Technica AI",
-      "published": "2026-09-23T19:35:53+00:00",
-      "retrieved_at": "2026-09-23T20:13:05.208763+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4c49a68d279c89ab328c7855"
     }
   ],
   "unverified_history": [
