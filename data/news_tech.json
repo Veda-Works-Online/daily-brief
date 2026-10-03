@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-03T15:03:04.428844+00:00",
+  "updated": "2026-10-03T16:32:52.407538+00:00",
   "items": [
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken",
+      "source": "TechCrunch AI",
+      "published": "2026-10-03T16:30:01+00:00",
+      "retrieved_at": "2026-10-03T16:32:49.519617+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "141cf6f15407afb73428b95d"
+    },
     {
       "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
       "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ae6a1a7f10e60dd09935a597"
-    },
-    {
-      "title": "Inside the Network of Anonymous Men Destroying Young Women’s Lives",
-      "url": "https://wired.com/story/uncanny-valley-podcast-anonymous-men-turned-cyberharassment-into-group-sport-heres-one-womans-side",
-      "source": "Wired",
-      "published": "2026-09-24T20:50:33+00:00",
-      "retrieved_at": "2026-09-24T20:57:21.034146+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "This week on Uncanny Valley, we look into the reporting behind our feature on the women still struggling after being targeted by the burnerverse.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dde9b46976a8cb02cbb726ab"
     }
   ],
   "unverified_history": [
