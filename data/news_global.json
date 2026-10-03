@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-03T18:18:51.226678+00:00",
+  "updated": "2026-10-03T19:03:49.170328+00:00",
   "items": [
+    {
+      "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
+      "url": "https://dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115",
+      "source": "DW",
+      "published": "2026-10-03T18:49:00+00:00",
+      "retrieved_at": "2026-10-03T19:03:45.139117+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "For years, Pakistan supported the Taliban in Afghanistan. But now Pakistan is bombing its neighbor. How the former allies became adversaries and why negotiations keep failing.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "254c7f33ee7a81e662968e5f"
+    },
     {
       "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
       "url": "https://aljazeera.com/news/2026/10/3/algeria-sent-fighter-jets-to-niger-to-thwart-coup-attempt-president-says",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c8620b31c79f0c7209442e30"
-    },
-    {
-      "title": "Estonia blames Russia for arson at defence company supplying Ukraine",
-      "url": "https://bbc.co.uk/news/articles/c6m27l4er4jxo",
-      "source": "BBC World",
-      "published": "2026-09-29T13:15:51+00:00",
-      "retrieved_at": "2026-09-29T13:32:50.845549+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Russia has been accused of launching sabotage attacks across a number of European Nato countries which have been helping Ukraine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "11995792be34112821688768"
     }
   ],
   "unverified_history": [
