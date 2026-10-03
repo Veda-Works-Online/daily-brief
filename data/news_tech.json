@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-03T14:02:56.670534+00:00",
+  "updated": "2026-10-03T15:03:04.428844+00:00",
   "items": [
+    {
+      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order",
+      "source": "TechCrunch",
+      "published": "2026-10-03T15:02:01+00:00",
+      "retrieved_at": "2026-10-03T15:02:52.005037+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e5b7cc743df888d54747b7f6"
+    },
     {
       "title": "All the AI agents that can live in your text messages",
       "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dde9b46976a8cb02cbb726ab"
-    },
-    {
-      "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
-      "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting",
-      "source": "TechCrunch",
-      "published": "2026-09-24T20:45:00+00:00",
-      "retrieved_at": "2026-09-24T20:47:07.177928+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fede42e0b7f87390761fb40f"
     }
   ],
   "unverified_history": [
