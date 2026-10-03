@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T16:43:01.886443+00:00",
+  "updated": "2026-10-03T16:52:58.312499+00:00",
   "items": [
     {
       "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
@@ -80,6 +80,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a28d0232e649867decd25dfa"
+    },
+    {
+      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+      "url": "https://bbc.co.uk/news/articles/cm2kej47095no",
+      "source": "BBC World",
+      "published": "2026-10-03T13:34:11+00:00",
+      "retrieved_at": "2026-10-03T16:52:54.810755+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "04a2a261b65a2c75edd89ad3"
     },
     {
       "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7ac5496a03006feef308ab8a"
-    },
-    {
-      "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
-      "url": "https://bbc.co.uk/news/articles/cmn45k85gj34o",
-      "source": "BBC World",
-      "published": "2026-09-29T12:20:02+00:00",
-      "retrieved_at": "2026-09-29T13:32:50.845591+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "National Rally President Jordan Bardella says he will sue for libel over comments he is accused of making as a young activist.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d676f517009d5d50e1eb5610"
     }
   ],
   "unverified_history": [
