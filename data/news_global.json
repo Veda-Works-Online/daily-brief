@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-03T21:58:57.255325+00:00",
+  "updated": "2026-10-03T22:49:43.283642+00:00",
   "items": [
+    {
+      "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
+      "url": "https://aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T22:43:58+00:00",
+      "retrieved_at": "2026-10-03T22:49:37.374517+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she will vote to 'end a genocide in Gaza'.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "227b0e6ab43ce46365d9918a"
+    },
     {
       "title": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
       "url": "https://dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6b9a6698de7524261e6baacb"
-    },
-    {
-      "title": "US ban on Canadian alcohol and dairy takes effect as trade war drags on",
-      "url": "https://bbc.co.uk/news/articles/cm1j43y146d2o",
-      "source": "BBC World",
-      "published": "2026-09-29T13:38:06+00:00",
-      "retrieved_at": "2026-09-29T13:42:59.517688+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b2c97be520e27e372294571c"
     }
   ],
   "unverified_history": [
