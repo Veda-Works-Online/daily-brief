@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-03T13:08:00.988597+00:00",
+  "updated": "2026-10-03T14:07:59.635258+00:00",
   "items": [
+    {
+      "title": "Why has Brazil accused the US of election interference?",
+      "url": "https://bbc.co.uk/news/videos/c3eweld0nddeo",
+      "source": "BBC World",
+      "published": "2026-10-03T13:52:13+00:00",
+      "retrieved_at": "2026-10-03T14:07:56.231681+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a28d0232e649867decd25dfa"
+    },
     {
       "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
       "url": "https://aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b642d570ee55c368f564e967"
-    },
-    {
-      "title": "Lebanese are watching Israel’s upcoming election, but few expect change",
-      "url": "https://aljazeera.com/news/2026/9/29/lebanese-are-watching-israels-upcoming-election-but-few-expect-change",
-      "source": "Al Jazeera",
-      "published": "2026-09-29T10:38:35+00:00",
-      "retrieved_at": "2026-09-29T12:27:51.655539+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Lebanese are anticipating continued Israeli aggression in Lebanon after the election.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d942a73f5f49aa564f8ed1cb"
     }
   ],
   "unverified_history": [
