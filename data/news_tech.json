@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T00:51:34.951905+00:00",
+  "updated": "2026-10-03T02:36:37.629583+00:00",
   "items": [
     {
       "title": "Meta wants your next gadget to be Muse-infused",
@@ -136,6 +136,23 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "aee9c8a56e3143be797900ba"
+    },
+    {
+      "title": "This Shoe Company’s Instagram Ad With a Frat Is Pissing People Off",
+      "url": "https://wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off",
+      "source": "Wired",
+      "published": "2026-10-02T18:19:53+00:00",
+      "retrieved_at": "2026-10-03T02:36:31.600192+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "A collaborative Instagram post between footwear line HeyDude and a University of Florida frat is sparking backlash due to sexual cyber-harassment allegations against two former members.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6304db6cde063c721be556b6"
     },
     {
       "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c7e2307f778a97529ea03c06"
-    },
-    {
-      "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
-      "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers",
-      "source": "TechCrunch",
-      "published": "2026-09-24T18:52:38+00:00",
-      "retrieved_at": "2026-09-24T18:57:10.396408+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Feather is betting on a customizable, $30,000 platform built for software developers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "72f4b5a6089141cf36f35ddf"
     }
   ],
   "unverified_history": [
