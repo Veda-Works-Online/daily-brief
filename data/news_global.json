@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-03T18:03:50.026618+00:00",
+  "updated": "2026-10-03T18:18:51.226678+00:00",
   "items": [
+    {
+      "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
+      "url": "https://aljazeera.com/news/2026/10/3/algeria-sent-fighter-jets-to-niger-to-thwart-coup-attempt-president-says",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T18:03:08+00:00",
+      "retrieved_at": "2026-10-03T18:18:46.586089+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "President Abdelmadjid Tebboune says Algiers deployed warplanes to Niamey in late August following an attack by mutineers.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "58716aaabf79f266f139215e"
+    },
     {
       "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
       "url": "https://aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "11995792be34112821688768"
-    },
-    {
-      "title": "Iranians stock up on food and medicine as fears of new US fighting grow",
-      "url": "https://aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow",
-      "source": "Al Jazeera",
-      "published": "2026-09-29T12:32:10+00:00",
-      "retrieved_at": "2026-09-29T12:47:59.123878+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran is struggling with shortages as sanctions and blockade strain food and medicine supply chains.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9f75ddb2c21dfa97afa5a071"
     }
   ],
   "unverified_history": [
