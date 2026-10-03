@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-03T02:46:36.586844+00:00",
+  "updated": "2026-10-03T12:13:02.171717+00:00",
   "items": [
+    {
+      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+      "url": "https://wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family",
+      "source": "Wired",
+      "published": "2026-10-03T12:00:00+00:00",
+      "retrieved_at": "2026-10-03T12:12:56.887984+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9f169da1daa0d883260cacb2"
+    },
     {
       "title": "Meta wants your next gadget to be Muse-infused",
       "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4849993ca61327b4d5f1e141"
-    },
-    {
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses",
-      "source": "TechCrunch AI",
-      "published": "2026-09-24T19:00:42+00:00",
-      "retrieved_at": "2026-09-24T19:02:09.157078+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c7e2307f778a97529ea03c06"
     }
   ],
   "unverified_history": [
