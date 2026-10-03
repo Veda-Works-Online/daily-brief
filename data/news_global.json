@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-03T05:57:33.980340+00:00",
+  "updated": "2026-10-03T06:22:31.556223+00:00",
   "items": [
+    {
+      "title": "Russia strikes second major bridge in Kyiv, mayor says",
+      "url": "https://bbc.co.uk/news/articles/c83vqxzdg1yko",
+      "source": "BBC World",
+      "published": "2026-10-03T06:13:22+00:00",
+      "retrieved_at": "2026-10-03T06:22:27.106698+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The attack on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b3fdfc9da2e5d02a6aa31f3e"
+    },
     {
       "title": "Gaza voters want jobs and security as Palestinian elections approach",
       "url": "https://aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8d4129f1d212067d7c5f0592"
-    },
-    {
-      "title": "FIFA could disburse millions to members as Infantino seeks re-election",
-      "url": "https://aljazeera.com/sports/2026/9/29/fifa-could-disburse-millions-to-members-as-infantino-seeks-re-election",
-      "source": "Al Jazeera",
-      "published": "2026-09-29T07:10:07+00:00",
-      "retrieved_at": "2026-09-29T07:31:47.665221+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "FIFA president Infantino is open to providing 'greatest level of additional funding' to associations amid opposition.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fe1c740b86cffabc6cf67432"
     }
   ],
   "unverified_history": [
