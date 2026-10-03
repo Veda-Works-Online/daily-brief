@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-03T18:03:43.067789+00:00",
+  "updated": "2026-10-03T18:48:43.912915+00:00",
   "items": [
+    {
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
+      "source": "TechCrunch AI",
+      "published": "2026-10-03T18:43:57+00:00",
+      "retrieved_at": "2026-10-03T18:48:38.958409+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "562b5bc5d70c1e5d77ffd998"
+    },
     {
       "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
       "url": "https://wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4d8356fbfe6ea620189e4533"
-    },
-    {
-      "title": "TopResume Packages",
-      "url": "https://wired.com/story/topresume-discount-code",
-      "source": "Wired",
-      "published": "2026-09-25T05:00:00+00:00",
-      "retrieved_at": "2026-09-25T05:08:40.136591+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Discover ways to save at TopResume, including their free review service and 4-week Career Services Platform trial.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1879f8960ca0d2f1de3da507"
     }
   ],
   "unverified_history": [
