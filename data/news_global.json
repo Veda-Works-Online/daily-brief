@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-03T07:02:38.064358+00:00",
+  "updated": "2026-10-03T07:27:32.255819+00:00",
   "items": [
+    {
+      "title": "Russia strikes second major bridge in Kyiv, mayor says",
+      "url": "https://bbc.co.uk/news/articles/c83vqxzdg1yko",
+      "source": "BBC World",
+      "published": "2026-10-03T07:25:09+00:00",
+      "retrieved_at": "2026-10-03T07:27:27.694358+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b3fdfc9da2e5d02a6aa31f3e"
+    },
     {
       "title": "Bosnia-Herzegovina shaped by war, separatism, EU ambitions",
       "url": "https://dw.com/en/bosnia-herzegovina-shaped-by-war-separatism-eu-ambitions/a-79523557",
@@ -16,22 +32,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fa1c6a01de67e20ba9f4bd4d"
-    },
-    {
-      "title": "Russia strikes second major bridge in Kyiv, mayor says",
-      "url": "https://bbc.co.uk/news/articles/c83vqxzdg1yko",
-      "source": "BBC World",
-      "published": "2026-10-03T06:13:22+00:00",
-      "retrieved_at": "2026-10-03T06:22:27.106698+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The attack on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b3fdfc9da2e5d02a6aa31f3e"
     },
     {
       "title": "Gaza voters want jobs and security as Palestinian elections approach",
