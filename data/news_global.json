@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-03T04:41:37.407096+00:00",
+  "updated": "2026-10-03T05:11:41.788631+00:00",
   "items": [
+    {
+      "title": "New claims that Netanyahu rejected Hamas offer to release captives",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T04:58:43+00:00",
+      "retrieved_at": "2026-10-03T05:11:38.411790+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Reports are building that Israel rejected a Hamas offer to release all civilian hostages taken on October 7, 2023.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ca66e1006aa87f8f691a036a"
+    },
+    {
+      "title": "WHO warns of ‘devastating consequences’ due to delayed aid entry into Gaza",
+      "url": "https://aljazeera.com/news/2026/10/3/who-warns-of-devastating-consequences-due-to-delayed-aid-entry-into-gaza",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T04:54:20+00:00",
+      "retrieved_at": "2026-10-03T05:11:38.411823+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The WHO's representative in Palestine calls on Israeli authorities to 'release the pressure on medical supplies'.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "113c3e2a93872705d806d8ba"
+    },
     {
       "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
       "url": "https://bbc.co.uk/news/articles/ck87zg8jnwngo",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d0ed96c779a156b211e0b0de"
-    },
-    {
-      "title": "South Korean Submarines Could Save Australia From the AUKUS Shambles",
-      "url": "https://thediplomat.com/2026/09/south-korean-submarines-could-save-australia-from-the-aukus-shambles",
-      "source": "The Diplomat",
-      "published": "2026-09-29T05:19:00+00:00",
-      "retrieved_at": "2026-09-29T08:36:47.851937+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Could the conventionally-powered KSS-III sub offer a more affordable and timely alternative to the planned nuclear-powered fleet?",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7cf0919c36352815936986c6"
-    },
-    {
-      "title": "Rubio, Saudi Arabia’s foreign minister hold talks on Yemen, Hormuz Strait",
-      "url": "https://aljazeera.com/news/2026/9/29/rubio-saudi-arabias-foreign-minister-hold-talks-on-yemen-hormuz-strait",
-      "source": "Al Jazeera",
-      "published": "2026-09-29T04:46:38+00:00",
-      "retrieved_at": "2026-09-29T05:06:45.216637+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Top US and Saudi diplomats discuss cooperation on security challenges, including hostilities with Yemen's Houthis.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2260cfa7a61e570ee272cd93"
     }
   ],
   "unverified_history": [
