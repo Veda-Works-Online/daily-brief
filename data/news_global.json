@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-03T00:01:07.737262+00:00",
+  "updated": "2026-10-03T01:06:38.168875+00:00",
   "items": [
+    {
+      "title": "US and Australia suspend diplomatic operations in Brazil before election",
+      "url": "https://aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T00:46:10+00:00",
+      "retrieved_at": "2026-10-03T01:06:34.548364+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "351f93468c3528a26824b2bc"
+    },
     {
       "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
       "url": "https://aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ac82e5c95ae0fb64365a0e08"
-    },
-    {
-      "title": "Are Trump's US government funded ads illegal?",
-      "url": "https://bbc.co.uk/news/videos/c6lymekx0repo",
-      "source": "BBC World",
-      "published": "2026-09-29T01:12:52+00:00",
-      "retrieved_at": "2026-09-29T07:41:41.620157+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "President Trump has faced criticism after fronting adverts which were paid for by the US government.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "106eb33453a9e57513405cd2"
     }
   ],
   "unverified_history": [
