@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-03T16:03:00.164528+00:00",
+  "updated": "2026-10-03T16:43:01.886443+00:00",
   "items": [
+    {
+      "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
+      "url": "https://aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T16:25:03+00:00",
+      "retrieved_at": "2026-10-03T16:42:58.740545+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "In exclusive Al Jazeera interview, President Hassan Sheikh Mohamud says Israel planning a naval base in Berbera.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ed1b4dc935d83510dc0f01ee"
+    },
     {
       "title": "Tens of thousands protest in Spain after failed housing reforms",
       "url": "https://aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d676f517009d5d50e1eb5610"
-    },
-    {
-      "title": "Hormuz and Yemen: Iran offers de-escalation at a price others will pay",
-      "url": "https://aljazeera.com/opinions/2026/9/29/hormuz-and-yemen-iran-offers-de-escalation-at-a-price-others-will-pay",
-      "source": "Al Jazeera",
-      "published": "2026-09-29T12:00:00+00:00",
-      "retrieved_at": "2026-09-29T12:27:51.655348+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran is using Hormuz to seek US concessions, relief for the Houthis and greater control over Gulf shipping.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7a1ff37289b0eaba4a15cb7c"
     }
   ],
   "unverified_history": [
