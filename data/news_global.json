@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-03T01:41:38.229962+00:00",
+  "updated": "2026-10-03T02:46:41.800065+00:00",
   "items": [
+    {
+      "title": "Israeli air attack on Gaza City apartment kills at least five",
+      "url": "https://aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five",
+      "source": "Al Jazeera",
+      "published": "2026-10-03T02:25:23+00:00",
+      "retrieved_at": "2026-10-03T02:46:38.505581+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "No warning was given before the deadly Israeli attack hit Remal, one of Gaza City's most crowded neighbourhoods.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9c63435a772d36342bf5b0d1"
+    },
     {
       "title": "US and Australia suspend diplomatic operations in Brazil before election",
       "url": "https://aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "548745690eedfa555e8fad12"
-    },
-    {
-      "title": "Thailand’s Constitutional Court Dismisses Petition Seeking Annulment of General Election",
-      "url": "https://thediplomat.com/2026/09/thailands-constitutional-court-dismisses-petition-seeking-annulment-of-general-election",
-      "source": "The Diplomat",
-      "published": "2026-09-29T02:28:00+00:00",
-      "retrieved_at": "2026-09-29T08:36:47.851997+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "The petition concerned the use of barcodes and QR codes on ballot papers, which some claimed could breach constitutional requirements for secret voting.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ac82e5c95ae0fb64365a0e08"
     }
   ],
   "unverified_history": [
