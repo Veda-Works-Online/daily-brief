@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T20:38:50.255389+00:00",
+  "updated": "2026-10-03T20:58:53.202414+00:00",
   "items": [
     {
       "title": "Trump ramps up pressure on US Republicans to end US clock switching",
@@ -166,9 +166,9 @@
       "url": "https://bbc.co.uk/news/articles/cm2kej47095no",
       "source": "BBC World",
       "published": "2026-10-03T13:34:11+00:00",
-      "retrieved_at": "2026-10-03T16:52:54.810755+00:00",
+      "retrieved_at": "2026-10-03T20:58:48.807938+00:00",
       "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+      "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -288,6 +288,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "90f3821bef153f53b9d1bd6e"
+    },
+    {
+      "title": "Flydubai co-pilot attempted 'terrorist attack,' UAE says",
+      "url": "https://dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641",
+      "source": "DW",
+      "published": "2026-10-03T08:17:00+00:00",
+      "retrieved_at": "2026-10-03T20:58:49.373612+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The man, who stabbed his fellow pilot on an Israel-bound Flydubai flight, was reportedly barred from flying in his native Oman over security concerns.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "eeebaa6e4b112d0598a702ba"
     },
     {
       "title": "Bosnian Serb leader says Bosnia is ‘dead’ ahead of election",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c1dc28cdd3d95f579d45d8f7"
-    },
-    {
-      "title": "What Did Chinese Analysts Think of the Trump-Xi Summit?",
-      "url": "https://thediplomat.com/2026/09/what-did-chinese-analysts-think-of-the-trump-xi-summit",
-      "source": "The Diplomat",
-      "published": "2026-09-29T13:30:00+00:00",
-      "retrieved_at": "2026-09-29T16:38:50.310063+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "To some, Trump's hospitality was “historic.” To others, it was an attempt to “lull China into a false sense of security.”",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4bb60dde277bbba5b589e4c6"
     }
   ],
   "unverified_history": [
