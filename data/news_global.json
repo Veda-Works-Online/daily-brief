@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T21:13:19.277977+00:00",
+  "updated": "2026-10-04T21:18:20.125296+00:00",
   "items": [
     {
       "title": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
@@ -48,6 +48,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "db5db268cfb2d4ac99a0bb75"
+    },
+    {
+      "title": "Brazil election: Early count puts Bolsonaro ahead of Lula",
+      "url": "https://dw.com/en/brazil-election-early-count-puts-bolsonaro-ahead-of-lula/a-79533857",
+      "source": "DW",
+      "published": "2026-10-04T20:00:00+00:00",
+      "retrieved_at": "2026-10-04T21:18:15.467684+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. The early results show a trend favoring Bolsonaro.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "73a68942f99715377c5a0d74"
     },
     {
       "title": "Polls close in Bosnia-Herzegovina's divisive election",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "481ede0880b047b16f4d6f19"
-    },
-    {
-      "title": "‘Dire situation’: Lebanese prisoners on hunger strike for 18 days",
-      "url": "https://aljazeera.com/news/2026/9/30/dire-situation-lebanese-prisoners-on-hunger-strike-for-18-days",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T07:40:07+00:00",
-      "retrieved_at": "2026-09-30T07:56:40.346611+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The medical condition of dozens of prisoners has deteriorated as inmates protest against suspension of amnesty law.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bf4059b488c1784990503072"
     }
   ],
   "unverified_history": [
