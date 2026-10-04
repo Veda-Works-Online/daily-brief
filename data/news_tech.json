@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-04T20:13:16.093283+00:00",
+  "updated": "2026-10-04T20:33:11.585222+00:00",
   "items": [
+    {
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions",
+      "source": "TechCrunch AI",
+      "published": "2026-10-04T20:31:07+00:00",
+      "retrieved_at": "2026-10-04T20:33:06.767490+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4e8e6c56cff0eb5fba46f152"
+    },
     {
       "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
       "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "05771a3a760563a7a241a816"
-    },
-    {
-      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
-      "url": "https://wired.com/story/best-laptops",
-      "source": "Wired",
-      "published": "2026-09-25T11:30:00+00:00",
-      "retrieved_at": "2026-09-25T11:39:16.194584+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "I’ve been reviewing laptops for over a decade, and here’s my advice for finding the right laptop for you.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "07f0ebc48f52717ea0237265"
     }
   ],
   "unverified_history": [

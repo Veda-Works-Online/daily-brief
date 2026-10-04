@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T20:28:21.949509+00:00",
+  "updated": "2026-10-04T20:33:19.612667+00:00",
   "items": [
     {
       "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "445f0006caa5eb131c0cbe45"
+    },
+    {
+      "title": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
+      "url": "https://aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T20:00:05+00:00",
+      "retrieved_at": "2026-10-04T20:33:14.523315+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Leftist incumbent Lula is seeking a fourth term in office, facing off against right-wing Senator Flavio Bolsonaro.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "db5db268cfb2d4ac99a0bb75"
     },
     {
       "title": "Polls close in Bosnia-Herzegovina's divisive election",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f998a029af6f6cc40d834b8e"
-    },
-    {
-      "title": "Trump calls Kim Jong Un a ‘friend’ and plays down N Korea’s nuclear arsenal",
-      "url": "https://aljazeera.com/news/2026/9/30/trump-calls-kim-jong-un-a-friend-and-plays-down-n-koreas-nuclear-arsenal",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T06:48:09+00:00",
-      "retrieved_at": "2026-09-30T07:11:41.022669+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US president's comments came after he was asked why North Korea can have nuclear weapons when Iran cannot.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "95ee7565f27a886f69fbe4c2"
     }
   ],
   "unverified_history": [
