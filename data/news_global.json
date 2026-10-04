@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T20:18:25.206741+00:00",
+  "updated": "2026-10-04T20:28:21.949509+00:00",
   "items": [
     {
       "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
@@ -64,6 +64,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f80d5179e09c83b5069d9fe5"
+    },
+    {
+      "title": "Indian police accused of sexually harassing journalists at protest",
+      "url": "https://bbc.co.uk/news/articles/c9e8lvm6nrr3o",
+      "source": "BBC World",
+      "published": "2026-10-04T17:01:19+00:00",
+      "retrieved_at": "2026-10-04T20:28:16.850983+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3d6e2b32aa78739b14e9e7f0"
     },
     {
       "title": "Mass protests demanding poll chief resignation shake India for third day",
@@ -144,22 +160,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1bae21398167bcf4760121e7"
-    },
-    {
-      "title": "Indian police accused of sexual harassment against journalists at protest",
-      "url": "https://bbc.co.uk/news/articles/c9e8lvm6nrr3o",
-      "source": "BBC World",
-      "published": "2026-10-04T16:07:34+00:00",
-      "retrieved_at": "2026-10-04T16:12:36.330009+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3b664d8eb30b9207c1b831d6"
     },
     {
       "title": "Why does the US want to deport Salah Sarsour?",
