@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-04T06:05:34.252414+00:00",
+  "updated": "2026-10-04T06:35:34.825994+00:00",
   "items": [
+    {
+      "title": "Australia investigating Flydubai co-pilot's links to country",
+      "url": "https://bbc.co.uk/news/articles/cxly4nym57q9o",
+      "source": "BBC World",
+      "published": "2026-10-04T06:19:17+00:00",
+      "retrieved_at": "2026-10-04T06:35:29.016636+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c7fcd7a903dd6c473b620673"
+    },
     {
       "title": "Bosnia general election 2026 explained in maps and charts",
       "url": "https://aljazeera.com/news/2026/10/4/bosnia-general-election-2026-explained-in-maps-and-charts",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "adb8fb890d2526c8e5b1deca"
-    },
-    {
-      "title": "Ireland undecided on approach for next game against Israel, coach says",
-      "url": "https://aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says",
-      "source": "Al Jazeera",
-      "published": "2026-09-29T15:33:42+00:00",
-      "retrieved_at": "2026-09-29T15:58:51.102048+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Ireland played the first Nations League game despite unease among some players over Israel's genocidal war in Gaza.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1881b96b8c9fd69fe127351b"
     }
   ],
   "unverified_history": [
