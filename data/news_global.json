@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-04T19:28:21.323012+00:00",
+  "updated": "2026-10-04T20:18:25.206741+00:00",
   "items": [
+    {
+      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
+      "url": "https://bbc.co.uk/news/articles/c6wyz0r2n0djo",
+      "source": "BBC World",
+      "published": "2026-10-04T20:14:49+00:00",
+      "retrieved_at": "2026-10-04T20:18:20.049345+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "445f0006caa5eb131c0cbe45"
+    },
     {
       "title": "Polls close in Bosnia-Herzegovina's divisive election",
       "url": "https://dw.com/en/polls-close-in-bosnia-herzegovina-s-divisive-election/a-79535336",
@@ -448,22 +464,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "965245aaa375fea8d88ea06b"
-    },
-    {
-      "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
-      "url": "https://bbc.co.uk/news/articles/c6wyz0r2n0djo",
-      "source": "BBC World",
-      "published": "2026-10-04T04:53:29+00:00",
-      "retrieved_at": "2026-10-04T07:45:30.110513+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8cf98ea6f4cef16cb3918025"
     },
     {
       "title": "Trump defiant about midterm chances as he rallies for Republicans in Ohio",
