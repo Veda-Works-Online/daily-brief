@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T11:31:41.144786+00:00",
+  "updated": "2026-10-04T11:36:44.110264+00:00",
   "items": [
     {
       "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
@@ -16,6 +16,38 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c8b6f2d6bfc218d42b9137b0"
+    },
+    {
+      "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
+      "url": "https://aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T11:15:34+00:00",
+      "retrieved_at": "2026-10-04T11:36:39.906565+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Close race expected as left-wing leader Lula seeks fourth nonconsecutive term against right-wing Flavio Bolsonaro.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "31bab88e977f6aac346a5e3b"
+    },
+    {
+      "title": "Iran says Hormuz to remain closed until US meets conditions",
+      "url": "https://aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T11:11:30+00:00",
+      "retrieved_at": "2026-10-04T11:36:39.906584+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Tehran says reopening Strait of Hormuz has been its main goal, while the US continues to focus on nuclear talks.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ce03d7f1410a697a66fcfca7"
     },
     {
       "title": "Russia’s nuclear plants are ageing. Who will pay to dismantle them?",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9d86e492ee15997de5a55fb9"
-    },
-    {
-      "title": "What is white phosphorus, and why is Israel using it in Lebanon?",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/29/what-is-white-phosphorus-and-why-is-israel-using-it-in-lebanon",
-      "source": "Al Jazeera",
-      "published": "2026-09-29T21:05:35+00:00",
-      "retrieved_at": "2026-09-29T21:14:47.368952+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "White phosphorus can cause severe burns, ignite repeatedly and produce intense heat and toxic smoke.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a91d185dd7b66524adb685d7"
-    },
-    {
-      "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
-      "url": "https://aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military",
-      "source": "Al Jazeera",
-      "published": "2026-09-29T20:48:34+00:00",
-      "retrieved_at": "2026-09-29T21:14:47.368998+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Individuals and firms in China, Pakistan, Turkiye, Iran and Saudi Arabia sanctioned as part of a pressure campaign.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "659a90db1093bbaa024b5882"
     }
   ],
   "unverified_history": [
