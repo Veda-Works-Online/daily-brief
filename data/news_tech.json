@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-04T15:17:33.847208+00:00",
+  "updated": "2026-10-04T16:07:32.233831+00:00",
   "items": [
+    {
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis",
+      "source": "TechCrunch",
+      "published": "2026-10-04T16:05:00+00:00",
+      "retrieved_at": "2026-10-04T16:07:27.659170+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "64599c1f19d631f2777adcbe"
+    },
     {
       "title": "Trump unveils his new Super Intelligence Force",
       "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "819782450a11950395455b76"
-    },
-    {
-      "title": "Who Killed Paulina Borsook’s Career?",
-      "url": "https://wired.com/story/paulina-borsook-profile",
-      "source": "Wired",
-      "published": "2026-09-25T10:00:00+00:00",
-      "retrieved_at": "2026-09-25T10:09:15.949729+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "A quarter-century ago, Borsook published a wildly prophetic, penetrating book about Silicon Valley called Cyberselfish. Then she disappeared.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2a1090fc207f6dc57d6f8052"
     }
   ],
   "unverified_history": [
