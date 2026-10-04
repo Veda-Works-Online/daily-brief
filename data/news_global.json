@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-04T15:52:43.547048+00:00",
+  "updated": "2026-10-04T16:12:42.220556+00:00",
   "items": [
+    {
+      "title": "Indian police accused of sexual harassment against journalists at protest",
+      "url": "https://bbc.co.uk/news/articles/c9e8lvm6nrr3o",
+      "source": "BBC World",
+      "published": "2026-10-04T16:07:34+00:00",
+      "retrieved_at": "2026-10-04T16:12:36.330009+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3b664d8eb30b9207c1b831d6"
+    },
     {
       "title": "Why does the US want to deport Salah Sarsour?",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/4/why-does-the-us-want-to-deport-salah-sarsour",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c77b3649e9517853cacdba6c"
-    },
-    {
-      "title": "US Senate blocks resolution seeking report on Americans killed in West Bank",
-      "url": "https://aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T02:26:20+00:00",
-      "retrieved_at": "2026-09-30T02:35:09.621131+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The resolution cites a 'lack of accountability' by Israel's government and an 'inability to secure justice' by the US.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1e5326ab5fc32d0eae86ac0c"
     }
   ],
   "unverified_history": [
