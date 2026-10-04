@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T19:23:22.551425+00:00",
+  "updated": "2026-10-04T19:28:21.323012+00:00",
   "items": [
     {
       "title": "Polls close in Bosnia-Herzegovina's divisive election",
@@ -16,6 +16,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7424bdb50d9ea5d552d6dbcb"
+    },
+    {
+      "title": "War on Iran: Is escalation more likely than a deal?",
+      "url": "https://aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T18:47:22+00:00",
+      "retrieved_at": "2026-10-04T19:28:16.092246+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Former Iranian and US diplomats agree that the war on Iran is likely to get worse in the coming weeks.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2c5a9cac356d599780469d93"
     },
     {
       "title": "Ukraine ready for US-backed talks with Russia: Zelenskyy",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "95ee7565f27a886f69fbe4c2"
-    },
-    {
-      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-      "url": "https://bbc.co.uk/news/videos/c8n5d0e0n6wdo",
-      "source": "BBC World",
-      "published": "2026-09-30T05:02:50+00:00",
-      "retrieved_at": "2026-09-30T05:15:05.028055+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "092244fb8912e4c793117d74"
     }
   ],
   "unverified_history": [
