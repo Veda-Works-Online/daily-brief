@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-04T16:07:32.233831+00:00",
+  "updated": "2026-10-04T20:13:16.093283+00:00",
   "items": [
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem",
+      "source": "TechCrunch AI",
+      "published": "2026-10-04T20:08:34+00:00",
+      "retrieved_at": "2026-10-04T20:13:07.586578+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bebbf194d725e18b58b96333"
+    },
     {
       "title": "TechCrunch Mobility: Reining in robotaxis",
       "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "07f0ebc48f52717ea0237265"
-    },
-    {
-      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-      "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment",
-      "source": "Ars Technica AI",
-      "published": "2026-09-25T11:00:28+00:00",
-      "retrieved_at": "2026-09-25T11:04:16.508094+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\"",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "819782450a11950395455b76"
     }
   ],
   "unverified_history": [
