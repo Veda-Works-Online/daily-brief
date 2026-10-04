@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T21:53:21.854802+00:00",
+  "updated": "2026-10-04T22:13:20.122480+00:00",
   "items": [
     {
       "title": "Brazil election: Early count puts Bolsonaro ahead of Lula",
@@ -96,6 +96,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "db5db268cfb2d4ac99a0bb75"
+    },
+    {
+      "title": "Nationalists top Bosnia-Herzegovina's divisive election",
+      "url": "https://dw.com/en/nationalists-top-bosnia-herzegovina-s-divisive-election/a-79535336",
+      "source": "DW",
+      "published": "2026-10-04T19:15:00+00:00",
+      "retrieved_at": "2026-10-04T22:13:14.916766+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Zeljka ​Cvijanovic, the Serb nationalist candidate backed by disqualified secessionist leader Milorad Dodik, took the lead for the Serb seat of the three-member presidency in a vote with record-low turnout.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2fef636d2f1702767a3873d5"
     },
     {
       "title": "Polls close in Bosnia-Herzegovina's divisive election",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f8a4449400526d34a0f9a943"
-    },
-    {
-      "title": "Eurovision remains marred by geopolitics: Ireland will boycott again because of Israel's participation. Still, the song contest is expanding",
-      "url": "https://dw.com/en/eurovision-remains-marred-by-geopolitics-ireland-will-boycott-again-because-of-israel-s-participation-still-the-song-contest-is-expanding/a-79401752",
-      "source": "DW",
-      "published": "2026-09-30T09:18:00+00:00",
-      "retrieved_at": "2026-09-30T14:21:43.191317+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The 2026 Eurovision Song Contest was marred by boycotts in protest against Israel's participation in the midst of its war on Gaza. It still aims to keep growing.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "426c5d4f9896fc3334337076"
     }
   ],
   "unverified_history": [
