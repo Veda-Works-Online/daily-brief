@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-04T16:32:45.421276+00:00",
+  "updated": "2026-10-04T16:52:43.408900+00:00",
   "items": [
+    {
+      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
+      "url": "https://bbc.co.uk/news/articles/cx8dzj9vpp01o",
+      "source": "BBC World",
+      "published": "2026-10-04T16:51:30+00:00",
+      "retrieved_at": "2026-10-04T16:52:37.632419+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d62f23db03dfd9583e2aa8b6"
+    },
+    {
+      "title": "Germany’s Merz in Kyiv announces $1.5B in aid, urges Putin to end war",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T16:38:45+00:00",
+      "retrieved_at": "2026-10-04T16:52:37.627216+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "German Chancellor Friedrich Merz, on a surprise visit to Kyiv, announced $1.5 billion in military and reconstruction aid",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b4a766203f9c6c01771f73a4"
+    },
+    {
+      "title": "Air strike in Sudan kills UN aid truck driver: WFP",
+      "url": "https://aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp",
+      "source": "Al Jazeera",
+      "published": "2026-10-04T16:28:43+00:00",
+      "retrieved_at": "2026-10-04T16:52:37.627255+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Trucks were 'clearly marked as humanitarian vehicles', UN agency says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b39cc9a1ead8159dc42d7f7e"
+    },
     {
       "title": "Three years of genocide in Gaza through one man’s camera",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera",
@@ -160,22 +208,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2bbec7f318ba8159cded6a6f"
-    },
-    {
-      "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
-      "url": "https://bbc.co.uk/news/articles/cx8dzj9vpp01o",
-      "source": "BBC World",
-      "published": "2026-10-04T14:24:56+00:00",
-      "retrieved_at": "2026-10-04T14:52:36.485186+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "78b9305b3b6d178df7a5ea95"
     },
     {
       "title": "Russia hits Kyiv bridge as Germany’s Merz visits Ukraine’s capital",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6646c2df28fc30379233efb0"
-    },
-    {
-      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-      "url": "https://bbc.co.uk/news/articles/cme30dz5vkzko",
-      "source": "BBC World",
-      "published": "2026-09-30T04:01:52+00:00",
-      "retrieved_at": "2026-09-30T04:10:09.028069+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9497194d2b813aa2651e1f90"
-    },
-    {
-      "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-      "url": "https://bbc.co.uk/news/articles/cwj3dkvpm4e7o",
-      "source": "BBC World",
-      "published": "2026-09-30T03:38:09+00:00",
-      "retrieved_at": "2026-09-30T04:05:09.372460+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "256923271982497e6064b1f1"
     }
   ],
   "unverified_history": [
