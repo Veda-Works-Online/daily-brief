@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-04T10:56:41.813849+00:00",
+  "updated": "2026-10-04T11:31:41.144786+00:00",
   "items": [
+    {
+      "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
+      "url": "https://dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857",
+      "source": "DW",
+      "published": "2026-10-04T11:28:00+00:00",
+      "retrieved_at": "2026-10-04T11:31:37.043699+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c8b6f2d6bfc218d42b9137b0"
+    },
     {
       "title": "Russia’s nuclear plants are ageing. Who will pay to dismantle them?",
       "url": "https://aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "659a90db1093bbaa024b5882"
-    },
-    {
-      "title": "US ban on $1bn of Canadian goods takes effect in Trump’s latest retaliation",
-      "url": "https://aljazeera.com/economy/2026/9/29/us-ban-on-1bn-of-canadian-goods-takes-effect-in-trumps-latest-retaliation",
-      "source": "Al Jazeera",
-      "published": "2026-09-29T20:08:33+00:00",
-      "retrieved_at": "2026-09-29T20:44:30.191076+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump retaliated against Canada's counter-tariffs on $20bn worth of US imports by banning $1bn of Canadian goods.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8214edd7f26965242aac3f24"
     }
   ],
   "unverified_history": [
