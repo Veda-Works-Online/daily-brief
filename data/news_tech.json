@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-05T18:46:52.026940+00:00",
+  "updated": "2026-10-05T18:56:43.771389+00:00",
   "items": [
+    {
+      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account",
+      "source": "TechCrunch AI",
+      "published": "2026-10-05T18:54:30+00:00",
+      "retrieved_at": "2026-10-05T18:56:34.696820+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0322f4946f64a3e78a6086ff"
+    },
     {
       "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
       "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "af880e3e6ca0443a3fb7d020"
-    },
-    {
-      "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
-      "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise",
-      "source": "Ars Technica AI",
-      "published": "2026-09-25T19:11:05+00:00",
-      "retrieved_at": "2026-09-25T19:46:15.080422+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "\"There is no evidence of any significant, widespread displacement or reduction in hiring.”",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bf534bdafe2a0393f87a1fb1"
     }
   ],
   "unverified_history": [
