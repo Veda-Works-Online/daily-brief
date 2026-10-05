@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-05T08:49:26.137555+00:00",
+  "updated": "2026-10-05T09:35:31.759387+00:00",
   "items": [
+    {
+      "title": "A Prediction Market About the Past? Sure, Why Not!",
+      "url": "https://wired.com/story/a-prediction-market-about-the-past-sure-why-not",
+      "source": "Wired",
+      "published": "2026-10-05T09:30:00+00:00",
+      "retrieved_at": "2026-10-05T09:35:25.551695+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "As prediction markets surge in popularity, a new platform called Verifact Markets is pushing the concept even further, letting users trade on “disputed facts.”",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "921856d0d7cff5a25bc5743c"
+    },
     {
       "title": "People really hate AI, so why can’t they get enough?",
       "url": "https://technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7e7f3691ebee1ce1532a6d02"
-    },
-    {
-      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5/5 to attend: Leave further ahead.",
-      "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-to-attend",
-      "source": "TechCrunch AI",
-      "published": "2026-09-25T14:00:00+00:00",
-      "retrieved_at": "2026-09-25T14:04:21.179937+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needle.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "81a2126d4cc69bd75cb18936"
     }
   ],
   "unverified_history": [
