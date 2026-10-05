@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-05T15:21:40.613393+00:00",
+  "updated": "2026-10-05T16:01:40.376881+00:00",
   "items": [
+    {
+      "title": "Connecting AI agents to enterprise knowledge",
+      "url": "https://technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge",
+      "source": "MIT Tech Review",
+      "published": "2026-10-05T15:47:52+00:00",
+      "retrieved_at": "2026-10-05T16:01:35.595580+00:00",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately…",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "74fffab2840cdc997ad678bf"
+    },
     {
       "title": "OpenAI launches visual ads that appear alongside image generation results",
       "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results",
@@ -204,6 +221,23 @@
       "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8eb02ec89fde0f2e3d8989d7"
+    },
+    {
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "url": "https://technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything",
+      "source": "MIT Tech Review",
+      "published": "2026-10-05T04:00:00+00:00",
+      "retrieved_at": "2026-10-05T16:01:35.595692+00:00",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches…",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "722e9b6557261ae96807f5ed"
     },
     {
       "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0eed3e6b22c6aa091d6279a1"
-    },
-    {
-      "title": "Astra and Opus just passed Turing’s other test",
-      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test",
-      "source": "TechCrunch AI",
-      "published": "2026-09-25T17:24:36+00:00",
-      "retrieved_at": "2026-09-25T17:25:05.734543+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "50ff123573770bc1992d137f"
-    },
-    {
-      "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-      "url": "https://wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk",
-      "source": "Wired",
-      "published": "2026-09-25T16:58:20+00:00",
-      "retrieved_at": "2026-09-25T17:30:06.343835+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "39dd9582148a82bcf42ce484"
     }
   ],
   "unverified_history": [
