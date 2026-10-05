@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T11:00:36.984497+00:00",
+  "updated": "2026-10-05T11:30:36.874370+00:00",
   "items": [
     {
       "title": "Gaza mothers seek breastfeeding support amid hunger and siege",
@@ -32,6 +32,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "63e7b6b2800b045a1decc2a7"
+    },
+    {
+      "title": "Spanish PM Sánchez calls early election after housing protests",
+      "url": "https://bbc.co.uk/news/articles/cmdx39k49xw0o",
+      "source": "BBC World",
+      "published": "2026-10-05T10:18:47+00:00",
+      "retrieved_at": "2026-10-05T11:30:33.660224+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0961db27003488e53f8ce6d8"
     },
     {
       "title": "The Republican consensus on Israel is starting to fracture",
@@ -70,9 +86,9 @@
       "url": "https://aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield",
       "source": "Al Jazeera",
       "published": "2026-10-05T09:38:26+00:00",
-      "retrieved_at": "2026-10-05T10:10:30.334320+00:00",
+      "retrieved_at": "2026-10-05T11:30:33.815770+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "After launching major military offensive to reclaim Houthi-held areas, Yemen's government says it has taken key district",
+      "summary": "After launching major military offensive to reclaim Houthi-held areas, Yemeni government says it has taken key district.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "95d6ee38e7fa507f1b3bad80"
-    },
-    {
-      "title": "‘Strong indications’ Iran linked to suspected UK airbase plot",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T18:09:51+00:00",
-      "retrieved_at": "2026-09-30T19:42:25.913407+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "UK Prime Minister says there are ‘strong indications’ Iran played a part in the suspected RAF Fairford airbase plot.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ce720ddfd80b1f5d8b2e3127"
     }
   ],
   "unverified_history": [
