@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T15:16:44.045914+00:00",
+  "updated": "2026-10-05T15:21:40.613393+00:00",
   "items": [
     {
       "title": "OpenAI launches visual ads that appear alongside image generation results",
@@ -17,6 +17,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "040da72da09d70546a1bddc5"
+    },
+    {
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI",
+      "published": "2026-10-05T15:00:00+00:00",
+      "retrieved_at": "2026-10-05T15:21:36.259663+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "ad99c805ad21c0013751df90"
     },
     {
       "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "39dd9582148a82bcf42ce484"
-    },
-    {
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off",
-      "source": "TechCrunch AI",
-      "published": "2026-09-25T16:16:52+00:00",
-      "retrieved_at": "2026-09-25T17:50:03.611246+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5d35e5ade34f5051651a6dcd"
     }
   ],
   "unverified_history": [
