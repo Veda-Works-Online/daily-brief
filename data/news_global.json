@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T13:25:52.215047+00:00",
+  "updated": "2026-10-05T14:00:44.011648+00:00",
   "items": [
     {
       "title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
@@ -80,6 +80,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "150d99779f4aa971cbcaa6cb"
+    },
+    {
+      "title": "Bosnia election: New steps to prevent electoral fraud, but nationalist parties remain on top",
+      "url": "https://dw.com/en/bosnia-election-new-steps-to-prevent-electoral-fraud-but-nationalist-parties-remain-on-top/a-79544717",
+      "source": "DW",
+      "published": "2026-10-05T10:23:00+00:00",
+      "retrieved_at": "2026-10-05T14:00:40.919762+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "New technology has stopped votes being cast on behalf of dead or absent voters, and turnout has fallen to a record low. But it was a case of deja vu in Bosnia's elections with the same parties winning.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "913ad1914477c07fa0bb74c7"
     },
     {
       "title": "Bosnia election: New technology might have stopped votes being cast on behalf of dead voters, but the result remains unchanged",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cfeedc2b17081dc12fdb3cd2"
-    },
-    {
-      "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
-      "url": "https://aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T19:43:47+00:00",
-      "retrieved_at": "2026-09-30T20:22:19.819220+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Displaced by war and shut out of formal jobs, young Sudanese are turning to art, small businesses, and entrepeneurship.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7447f9241c96df55adb63ea8"
     }
   ],
   "unverified_history": [
