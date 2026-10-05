@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-05T13:10:46.543572+00:00",
+  "updated": "2026-10-05T13:40:35.219203+00:00",
   "items": [
+    {
+      "title": "AI glasses face their first major government crackdown",
+      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
+      "source": "Ars Technica AI",
+      "published": "2026-10-05T13:39:30+00:00",
+      "retrieved_at": "2026-10-05T13:40:32.808027+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Norway wants time to write permanent rules for glasses that can record bystanders.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "445580e4900692cbf4cae458"
+    },
     {
       "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
       "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "63933a0a7a5f0b5fd5d34c86"
-    },
-    {
-      "title": "War Bros Didn’t Always Rule Silicon Valley",
-      "url": "https://wired.com/story/war-bros-didnt-always-rule-silicon-valley",
-      "source": "Wired",
-      "published": "2026-09-25T15:00:00+00:00",
-      "retrieved_at": "2026-09-25T15:05:05.486300+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Some say that tech was always about the money and the military. Don’t buy that argument.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "76c6f7f0e0091a6bf0abf08b"
     }
   ],
   "unverified_history": [
