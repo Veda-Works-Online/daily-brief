@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-05T19:48:00.535146+00:00",
+  "updated": "2026-10-05T20:02:59.373479+00:00",
   "items": [
+    {
+      "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+      "url": "https://bbc.co.uk/news/articles/cwj3413e5m1lo",
+      "source": "BBC World",
+      "published": "2026-10-05T19:58:50+00:00",
+      "retrieved_at": "2026-10-05T20:02:54.407993+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3012fe907e518b4ad910f3cd"
+    },
+    {
+      "title": "US 'watching closely' after plague researcher dies in Russia, Rubio says",
+      "url": "https://bbc.co.uk/news/articles/cv5yn3nwp5n5o",
+      "source": "BBC World",
+      "published": "2026-10-05T19:55:00+00:00",
+      "retrieved_at": "2026-10-05T20:02:54.408080+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US says it is monitoring the case of a lab technician who died at a plague research centre in Siberia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b975bc9cc6688a7d1c43782b"
+    },
     {
       "title": "Certainty is a Luxury Ukrainians Must Create",
       "url": "https://warontherocks.com/certainty-is-a-luxury-ukrainians-must-create",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "efe2588763e3de2099f67236"
-    },
-    {
-      "title": "Palestinians to bury remains of 105 people killed in Israeli attack on Gaza",
-      "url": "https://aljazeera.com/news/2026/10/1/palestinians-to-bury-remains-of-105-people-killed-in-israeli-attack-on-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-10-01T07:23:18+00:00",
-      "retrieved_at": "2026-10-01T07:39:04.490102+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Coffins containing the remains of those killed will be carried in a funeral procession involving family members.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5423085f5eb19f6a8a788ad9"
-    },
-    {
-      "title": "The Lingering Shadow of Rodrigo Duterte’s Drug War in the Philippines",
-      "url": "https://thediplomat.com/2026/10/the-lingering-shadow-of-rodrigo-dutertes-drug-war-in-the-philippines",
-      "source": "The Diplomat",
-      "published": "2026-10-01T05:57:00+00:00",
-      "retrieved_at": "2026-10-01T16:36:09.869170+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "The former Philippine president is on trial in The Hague, but the ghosts of his presidency and the system he put in place continue to haunt a deeply divided society.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4cbc2beb213b60a9b0aae6f2"
     }
   ],
   "unverified_history": [
