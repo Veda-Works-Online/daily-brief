@@ -1,14 +1,30 @@
 {
-  "updated": "2026-10-05T09:20:33.508888+00:00",
+  "updated": "2026-10-05T10:05:37.074960+00:00",
   "items": [
+    {
+      "title": "Trump chooses top spy boss to run new AI taskforce",
+      "url": "https://bbc.co.uk/news/articles/cqj6jenp26zyo",
+      "source": "BBC World",
+      "published": "2026-10-05T10:03:38+00:00",
+      "retrieved_at": "2026-10-05T10:05:34.124180+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d7bc505f78737a78a9805b5a"
+    },
     {
       "title": "How Spain's housing crisis has resulted in an early general election",
       "url": "https://bbc.co.uk/news/videos/c83vqk2k2k20o",
       "source": "BBC World",
       "published": "2026-10-05T09:03:30+00:00",
-      "retrieved_at": "2026-10-05T09:20:30.501335+00:00",
+      "retrieved_at": "2026-10-05T10:05:34.124276+00:00",
       "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "his series of measures to tackle the housing crisis was defeated in parliament on Friday",
+      "summary": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -176,22 +192,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cb3eb8e60ed6ac706d0c8b2d"
-    },
-    {
-      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-      "url": "https://bbc.co.uk/news/articles/cqj6jenp26zyo",
-      "source": "BBC World",
-      "published": "2026-10-05T03:37:41+00:00",
-      "retrieved_at": "2026-10-05T04:59:45.273499+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8a581dbe753f87ab7fbaf98d"
     },
     {
       "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
