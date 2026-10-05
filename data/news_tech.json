@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T17:06:44.408791+00:00",
+  "updated": "2026-10-05T17:21:41.857167+00:00",
   "items": [
     {
       "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
@@ -17,6 +17,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0f7571abf71a07ea72897888"
+    },
+    {
+      "title": "F1 in Bahrain... in Malaysia: The race needed a software update to start",
+      "url": "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start",
+      "source": "Ars Technica",
+      "published": "2026-10-05T16:09:07+00:00",
+      "retrieved_at": "2026-10-05T17:21:37.501529+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "A software bug waylaid half the field and required a race reboot.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3aa2efe036bcea7c4a85d66d"
     },
     {
       "title": "Connecting AI agents to enterprise knowledge",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "12c0de4942cab11557e1eb04"
-    },
-    {
-      "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-      "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc",
-      "source": "Ars Technica AI",
-      "published": "2026-09-25T17:57:37+00:00",
-      "retrieved_at": "2026-09-25T18:05:06.721351+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Microsoft's new Surface laptops forgo Copilot+ PC branding.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ee9d5beaf84e35a3b4c8a83e"
     }
   ],
   "unverified_history": [
