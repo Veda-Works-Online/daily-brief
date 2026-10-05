@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-05T00:58:55.115341+00:00",
+  "updated": "2026-10-05T01:18:55.297552+00:00",
   "items": [
+    {
+      "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
+      "url": "https://aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings",
+      "source": "Al Jazeera",
+      "published": "2026-10-05T01:08:44+00:00",
+      "retrieved_at": "2026-10-05T01:18:51.678712+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Malaysia continues mass refugee deportations despite warnings from the UN about unsafe conditions in an active war zone.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f14dd82ab79af31ae7f3a204"
+    },
+    {
+      "title": "Ethiopia’s forces retake Mekelle amid renewed Tigray fighting",
+      "url": "https://aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting",
+      "source": "Al Jazeera",
+      "published": "2026-10-05T01:03:54+00:00",
+      "retrieved_at": "2026-10-05T01:18:51.678730+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The capture of Tigray’s regional capital revives fears of another prolonged conflict, displacement and crisis.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "48fe73a1d16b58c382ca5997"
+    },
     {
       "title": "Four African leaders issue joint declaration as Ethiopia war escalates",
       "url": "https://aljazeera.com/news/2026/10/5/four-african-leaders-issue-joint-declaration-as-ethiopia-war-escalates",
@@ -178,20 +210,20 @@
       "story_fingerprint": "445f0006caa5eb131c0cbe45"
     },
     {
-      "title": "Brazil election results live: Lula and Bolsonaro locked in a tight race",
+      "title": "Brazil election results updates: Lula and Bolsonaro advance to run-off",
       "url": "https://aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race",
       "source": "Al Jazeera",
       "published": "2026-10-04T20:00:05+00:00",
-      "retrieved_at": "2026-10-04T20:33:14.523315+00:00",
+      "retrieved_at": "2026-10-05T01:18:51.678881+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Leftist incumbent Lula is seeking a fourth term in office, facing off against right-wing Senator Flavio Bolsonaro.",
+      "summary": "These were the updates on the Brazilian general election for Sunday, October 4, 2026.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "db5db268cfb2d4ac99a0bb75"
+      "story_fingerprint": "9740c0d7b19e5af4e788d311"
     },
     {
       "title": "Polls close in Bosnia-Herzegovina's divisive election",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6dadbe48e0e206e565cced98"
-    },
-    {
-      "title": "Flydubai flight to Israel diverted after attack on pilot",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-after-attack-on-pilot",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T11:43:35+00:00",
-      "retrieved_at": "2026-09-30T12:12:47.395480+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Dramatic video shows the aftermath of an attack on a pilot on a Flydubai flight to the Israeli city of Tel Aviv.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5f199664cf0ff1513d47d4e8"
-    },
-    {
-      "title": "Russian attacks on Ukraine’s Kyiv region kill four, target power grid",
-      "url": "https://aljazeera.com/news/2026/9/30/russian-attacks-on-ukraines-kyiv-region-kill-four-target-power-grid",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T11:32:24+00:00",
-      "retrieved_at": "2026-09-30T11:47:49.328102+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "City officials say three killed in Ukraine's capital, as emergency services say child killed in the surrounding region.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "54435086731a827037174112"
     }
   ],
   "unverified_history": [
