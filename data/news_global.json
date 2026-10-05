@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-05T18:56:51.965987+00:00",
+  "updated": "2026-10-05T19:33:05.062251+00:00",
   "items": [
+    {
+      "title": "Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war",
+      "url": "https://aljazeera.com/economy/2026/10/5/trump-blames-democrats-and-ukraine-for-soaring-us-fuel-prices-not-iran-war",
+      "source": "Al Jazeera",
+      "published": "2026-10-05T19:01:32+00:00",
+      "retrieved_at": "2026-10-05T19:33:00.186298+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Trump shifts blame for fuel price hikes to blue states like California and Ukraine strikes on Russian oil refineries.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2ce299bdf2f7edf4386547a7"
+    },
     {
       "title": "UK ‘threatens to expel 27 Israeli diplomats’ over Jerusalem consulate",
       "url": "https://aljazeera.com/news/2026/10/5/uk-threatens-to-expel-27-israeli-diplomats-over-jerusalem-consulate",
@@ -18,20 +34,20 @@
       "story_fingerprint": "ffa89a3301be9cfed425e36f"
     },
     {
-      "title": "Mecca alliance agrees to activate collective deterrence measures",
+      "title": "Mecca Alliance: Turkiye, Pakistan agree to military deployment to Saudi Arabia",
       "url": "https://aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures",
       "source": "Al Jazeera",
       "published": "2026-10-05T18:32:04+00:00",
-      "retrieved_at": "2026-10-05T18:56:46.899686+00:00",
+      "retrieved_at": "2026-10-05T19:33:00.186340+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "This is a breaking news story.",
+      "summary": "The three countries agree to trigger collective deterrence measures in response to \"heinous attacks\" by Yemen's Houthis.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "ce23c1f6d521b109f41f741b"
+      "story_fingerprint": "4ae4124cd218f5ba1c2d4a08"
     },
     {
       "title": "What is ‘Herod’s Pool’, and why is Israel developing it in the West Bank?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f64b4f30c8fe0c8e59809c1e"
-    },
-    {
-      "title": "Japan raises permanent residency fee by 20 times",
-      "url": "https://bbc.co.uk/news/articles/c6y8z8xeg8j1o",
-      "source": "BBC World",
-      "published": "2026-10-01T02:57:43+00:00",
-      "retrieved_at": "2026-10-01T09:25:17.307456+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "87c49c935af56aaa9831962d"
     }
   ],
   "unverified_history": [
