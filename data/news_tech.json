@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-05T16:01:40.376881+00:00",
+  "updated": "2026-10-05T16:46:40.893121+00:00",
   "items": [
+    {
+      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become",
+      "source": "TechCrunch AI",
+      "published": "2026-10-05T16:43:35+00:00",
+      "retrieved_at": "2026-10-05T16:46:35.699017+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0f7571abf71a07ea72897888"
+    },
     {
       "title": "Connecting AI agents to enterprise knowledge",
       "url": "https://technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ee9d5beaf84e35a3b4c8a83e"
-    },
-    {
-      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web",
-      "source": "TechCrunch AI",
-      "published": "2026-09-25T17:29:46+00:00",
-      "retrieved_at": "2026-09-25T17:30:05.484747+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0eed3e6b22c6aa091d6279a1"
     }
   ],
   "unverified_history": [
