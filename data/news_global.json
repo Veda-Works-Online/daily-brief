@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T19:42:59.468316+00:00",
+  "updated": "2026-10-05T19:48:00.535146+00:00",
   "items": [
     {
       "title": "Certainty is a Luxury Ukrainians Must Create",
@@ -16,6 +16,38 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "01756a3fde76e19233f65b5e"
+    },
+    {
+      "title": "Spain PM pins hopes on housing crisis to help win snap election",
+      "url": "https://bbc.co.uk/news/articles/ck5yn81qqde0o",
+      "source": "BBC World",
+      "published": "2026-10-05T19:30:50+00:00",
+      "retrieved_at": "2026-10-05T19:47:55.634549+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9dc3d1335656e8d27842b8bc"
+    },
+    {
+      "title": "Australia's migrant policy offers lessons for EU and US",
+      "url": "https://dw.com/en/australia-s-migrant-policy-offers-lessons-for-eu-and-us/a-79388096",
+      "source": "DW",
+      "published": "2026-10-05T19:26:00+00:00",
+      "retrieved_at": "2026-10-05T19:47:55.971609+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Australia has used offshore processing centers to deter asylum seekers for more than two decades. As the EU and US pursue similar third-country arrangements, Australia's experience highlights the potential problems.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b8baea0a1e88700805ceb38d"
     },
     {
       "title": "Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4cbc2beb213b60a9b0aae6f2"
-    },
-    {
-      "title": "Modi’s India takes on Trump more openly, from ‘terrorism’ to tariffs",
-      "url": "https://aljazeera.com/news/2026/10/1/modis-india-takes-on-trump-more-openly-from-terrorism-to-tariffs",
-      "source": "Al Jazeera",
-      "published": "2026-10-01T05:37:39+00:00",
-      "retrieved_at": "2026-10-01T09:00:18.977035+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "After months of wait-and-watch, India is calling out its differences with Trump head-on as domestic pressure mounts.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "927d31b44cca2ad55b540cb9"
-    },
-    {
-      "title": "Gaza prepares to bury 105 Palestinians killed in October 2023",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/1/gaza-prepares-to-bury-105-palestinians-killed-in-october-2023",
-      "source": "Al Jazeera",
-      "published": "2026-10-01T05:04:28+00:00",
-      "retrieved_at": "2026-10-01T05:19:01.102727+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The bodies of 105 Palestinians have been recovered from the rubble of a residential block destroyed by Israel.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f3e26d6c573f2bdca6909c97"
     }
   ],
   "unverified_history": [
