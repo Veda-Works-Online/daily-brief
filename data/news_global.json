@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T07:34:48.618122+00:00",
+  "updated": "2026-10-05T07:49:51.970591+00:00",
   "items": [
     {
       "title": "China is Watching Us. Is the U.S. Air Force Still Watching China?",
@@ -16,6 +16,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "37d0444557d12b31efccb1fc"
+    },
+    {
+      "title": "Spanish Prime Minister Pedro Sanchez announces snap election",
+      "url": "https://aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election",
+      "source": "Al Jazeera",
+      "published": "2026-10-05T07:14:41+00:00",
+      "retrieved_at": "2026-10-05T07:49:48.134835+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Sanchez calls early vote after parliament rejected housing relief measures proposed by his minority government.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b7b01cde8002628ab1352b9e"
     },
     {
       "title": "Djokovic defeats top seed Zverev to reach China Open semifinals",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bfbb6ed14a15d18fcd70b3fd"
-    },
-    {
-      "title": "China extends 52-year unbeaten record as Asian Games organisers apologise",
-      "url": "https://aljazeera.com/sports/2026/9/30/china-extends-52-year-unbeaten-record-as-asian-games-organisers-apologise",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T14:54:34+00:00",
-      "retrieved_at": "2026-09-30T15:11:40.387298+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Chinese divers were unstoppable as the country's sizeable overall tally of gold medals swelled to 150.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7e05e9c34e518395a9480d1c"
     }
   ],
   "unverified_history": [
