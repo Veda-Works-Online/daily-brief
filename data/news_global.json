@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-05T20:02:59.373479+00:00",
+  "updated": "2026-10-05T20:27:55.721965+00:00",
   "items": [
+    {
+      "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
+      "url": "https://aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters",
+      "source": "Al Jazeera",
+      "published": "2026-10-05T20:03:06+00:00",
+      "retrieved_at": "2026-10-05T20:27:51.084381+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The latest suspected incursion on NATO's eastern flank increases fears that the war in Ukraine threatens to spill over.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "57210e087da4c5e099b9dc72"
+    },
     {
       "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
       "url": "https://bbc.co.uk/news/articles/cwj3413e5m1lo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c190f97a9fe6108d365c5a1a"
-    },
-    {
-      "title": "School of War or School of Battle? Educating for an Uncertain Future",
-      "url": "https://warontherocks.com/school-of-war-or-school-of-battle-educating-for-an-uncertain-future",
-      "source": "War on the Rocks",
-      "published": "2026-10-01T07:30:11+00:00",
-      "retrieved_at": "2026-10-01T07:34:02.597854+00:00",
-      "feed_url": "https://warontherocks.com/feed/",
-      "summary": "In 1901, military analyst Jan Bloch declared that new military technologies had changed war so radically that the study of history had become useless. He castigated military officers who prepared for future war based on “musty precedents” and who failed to recognize that the past was as irrelevant to the future as the experiences of caterpillars were to butterflies. Some of his tactical…",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://warontherocks.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "efe2588763e3de2099f67236"
     }
   ],
   "unverified_history": [

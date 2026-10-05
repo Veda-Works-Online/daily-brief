@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-05T20:12:47.811307+00:00",
+  "updated": "2026-10-05T20:27:48.112258+00:00",
   "items": [
+    {
+      "title": "Etched fields funding offers at $40B+ valuation, sources say",
+      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say",
+      "source": "TechCrunch",
+      "published": "2026-10-05T20:24:09+00:00",
+      "retrieved_at": "2026-10-05T20:27:40.317692+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "260d60d84b30a25c2f901e77"
+    },
     {
       "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
       "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "69b3bf9a22f9fd9f04717d21"
-    },
-    {
-      "title": "Thieves Stole ‘Nvidia’ Trailers. They Got 20 Tons of Sand",
-      "url": "https://wired.com/story/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand",
-      "source": "Wired",
-      "published": "2026-09-25T20:30:40+00:00",
-      "retrieved_at": "2026-09-25T20:36:18.060110+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "They wanted the silicon. They got the sand.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "08cb8df98593a5e221204455"
     }
   ],
   "unverified_history": [
