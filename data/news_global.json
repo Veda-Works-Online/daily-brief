@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T07:49:51.970591+00:00",
+  "updated": "2026-10-05T07:54:48.931101+00:00",
   "items": [
     {
       "title": "China is Watching Us. Is the U.S. Air Force Still Watching China?",
@@ -146,6 +146,22 @@
       "story_fingerprint": "8a581dbe753f87ab7fbaf98d"
     },
     {
+      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+      "url": "https://bbc.co.uk/news/articles/ck1l34ed592no",
+      "source": "BBC World",
+      "published": "2026-10-05T03:16:16+00:00",
+      "retrieved_at": "2026-10-05T07:54:45.182216+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cd9c60c8f0138682fd88d8fd"
+    },
+    {
       "title": "Spitting allegations as Ireland and Israel fight out ill-tempered draw",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/5/spitting-allegations-as-ireland-and-israel-fight-out-ill-tempered-draw",
       "source": "Al Jazeera",
@@ -208,22 +224,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4f2ab55d6b461c7256123531"
-    },
-    {
-      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-      "url": "https://bbc.co.uk/news/articles/ck1l34ed592no",
-      "source": "BBC World",
-      "published": "2026-10-05T00:15:27+00:00",
-      "retrieved_at": "2026-10-05T00:18:55.835844+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b1f838b0acae7bb19b9647a5"
     },
     {
       "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
