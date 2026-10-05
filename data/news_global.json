@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-05T15:27:46.256523+00:00",
+  "updated": "2026-10-05T15:46:48.059023+00:00",
   "items": [
+    {
+      "title": "What happened between Ireland and Israel in their Nations League match?",
+      "url": "https://aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match",
+      "source": "Al Jazeera",
+      "published": "2026-10-05T15:28:16+00:00",
+      "retrieved_at": "2026-10-05T15:46:43.129956+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Spitting allegations, no handshakes, and bowed heads headlined the second Nations League fixture.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "61a42f6f6bb2c8f86762beb1"
+    },
     {
       "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
       "url": "https://bbc.co.uk/news/articles/cr0j0w3p8453o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "abc2bde7117c6b0b1a536106"
-    },
-    {
-      "title": "Russian drone crashes into Kyiv playground without exploding",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T22:13:35+00:00",
-      "retrieved_at": "2026-09-30T22:23:18.004588+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7a86a771b912295430dddcd7"
     }
   ],
   "unverified_history": [
