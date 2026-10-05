@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-05T20:27:48.112258+00:00",
+  "updated": "2026-10-05T20:37:46.234672+00:00",
   "items": [
+    {
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu",
+      "source": "TechCrunch AI",
+      "published": "2026-10-05T20:36:48+00:00",
+      "retrieved_at": "2026-10-05T20:37:41.796073+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ebef6a4c81a330941d5bfc05"
+    },
     {
       "title": "Etched fields funding offers at $40B+ valuation, sources say",
       "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6534a32dc9d37ac85fa18f48"
-    },
-    {
-      "title": "Meta opens early access program for new Muse features",
-      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features",
-      "source": "TechCrunch AI",
-      "published": "2026-09-25T20:34:53+00:00",
-      "retrieved_at": "2026-09-25T20:36:10.696923+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Anyone interested in joining has to ask Muse to put them on the list.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "69b3bf9a22f9fd9f04717d21"
     }
   ],
   "unverified_history": [
