@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T11:50:35.571313+00:00",
+  "updated": "2026-10-05T11:55:33.711087+00:00",
   "items": [
     {
       "title": "Gaza mothers seek breastfeeding support amid hunger and siege",
@@ -320,6 +320,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f399523ad5e02f93099a5658"
+    },
+    {
+      "title": "How India became dangerously addicted to Chinese imports",
+      "url": "https://bbc.co.uk/news/articles/c5pve834grpno",
+      "source": "BBC World",
+      "published": "2026-10-05T01:42:11+00:00",
+      "retrieved_at": "2026-10-05T11:55:30.392663+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8880b8c4ce0d908d05f9d9cf"
     },
     {
       "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "430a4bba67d04e7280cc43f1"
-    },
-    {
-      "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
-      "url": "https://aljazeera.com/news/2026/9/30/russia-warns-nato-of-possible-nuclear-response-if-kaliningrad-is-cut-off",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T18:52:51+00:00",
-      "retrieved_at": "2026-09-30T19:17:21.870520+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Moscow claims that NATO is preparing an air and naval blockade in the Baltic Sea.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8d6963a4a910d92e6a7d3e61"
     }
   ],
   "unverified_history": [
