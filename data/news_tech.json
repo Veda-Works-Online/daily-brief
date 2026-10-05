@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T13:55:35.719474+00:00",
+  "updated": "2026-10-05T14:26:41.474617+00:00",
   "items": [
     {
       "title": "AI glasses face their first major government crackdown",
@@ -3572,6 +3572,23 @@
       "story_fingerprint": "d360b934b84184e0fbf09370"
     },
     {
+      "title": "Welcome RL Environments to the hub",
+      "url": "https://huggingface.co/blog/rl-environments",
+      "source": "Hugging Face",
+      "published": "2026-09-28T00:00:00+00:00",
+      "retrieved_at": "2026-10-05T14:26:36.598269+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "4354a24ddafc123499065235"
+    },
+    {
       "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
       "url": "https://openai.com/index/basis-tax-workbook-with-astra",
       "source": "OpenAI",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cacd9eb24241324cd08a78e5"
-    },
-    {
-      "title": "US being left behind in EV charging speeds as China goes sub-5 min to 70%",
-      "url": "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70",
-      "source": "Ars Technica",
-      "published": "2026-09-25T15:21:55+00:00",
-      "retrieved_at": "2026-09-25T19:41:14.453506+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "The new LFP battery charges from 10 to 70% in 4.5 minutes at just 65˚C.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bf03c50cb641e4cc3295296a"
     }
   ],
   "unverified_history": [
