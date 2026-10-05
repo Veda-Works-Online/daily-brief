@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T16:46:40.893121+00:00",
+  "updated": "2026-10-05T16:56:44.222828+00:00",
   "items": [
     {
       "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
@@ -53,6 +53,23 @@
       "story_fingerprint": "040da72da09d70546a1bddc5"
     },
     {
+      "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+      "url": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips",
+      "source": "TechCrunch",
+      "published": "2026-10-05T15:00:00+00:00",
+      "retrieved_at": "2026-10-05T16:56:37.948799+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cfa69492affa543f31c5f53f"
+    },
+    {
       "title": "Our approach to EU text provenance rules",
       "url": "https://openai.com/index/eu-text-provenance",
       "source": "OpenAI",
@@ -68,23 +85,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "ad99c805ad21c0013751df90"
-    },
-    {
-      "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
-      "url": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips",
-      "source": "TechCrunch",
-      "published": "2026-10-05T15:00:00+00:00",
-      "retrieved_at": "2026-10-05T15:01:39.485829+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Lola Vision Systems is one of TechCrunch's Battlefield 200 Companies",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cfa69492affa543f31c5f53f"
     },
     {
       "title": "Hackers steal 8 million citizens’ records from Danish government database",
