@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-05T15:11:55.994167+00:00",
+  "updated": "2026-10-05T15:27:46.256523+00:00",
   "items": [
+    {
+      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+      "url": "https://bbc.co.uk/news/articles/cr0j0w3p8453o",
+      "source": "BBC World",
+      "published": "2026-10-05T15:17:23+00:00",
+      "retrieved_at": "2026-10-05T15:27:40.845407+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9ae0130ae803744f915d84a8"
+    },
     {
       "title": "Latest US military strike on alleged drug boat kills four in Caribbean",
       "url": "https://aljazeera.com/news/2026/10/5/latest-us-military-strike-on-alleged-drug-boat-kills-four-in-caribbean",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7a86a771b912295430dddcd7"
-    },
-    {
-      "title": "Gaza: NGO reports dire camp conditions, says Israel is moving 'Yellow Line'",
-      "url": "https://dw.com/en/gaza-ngo-reports-dire-camp-conditions-says-israel-is-moving-yellow-line/a-79488777",
-      "source": "DW",
-      "published": "2026-09-30T22:10:00+00:00",
-      "retrieved_at": "2026-09-30T22:17:20.583341+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The Danish Refugee Council alleges that Israel is employing \"a policy of protracted displacement\" in Gaza. It says the so-called \"Yellow Line\" is creeping west toward the coast, preventing many from returning home.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4aaad3f7ba2101a443eff22b"
     }
   ],
   "unverified_history": [
