@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T00:18:59.909470+00:00",
+  "updated": "2026-10-05T00:23:55.509364+00:00",
   "items": [
     {
       "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
@@ -48,6 +48,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "557baf7d44b8e1d28a5d02ba"
+    },
+    {
+      "title": "Brazil election: Bolsonaro and Lula head to runoff",
+      "url": "https://dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857",
+      "source": "DW",
+      "published": "2026-10-04T23:44:00+00:00",
+      "retrieved_at": "2026-10-05T00:23:51.909662+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Populist Flavio Bolsonaro has secured a thin lead over incumbent Luiz Inacio Lula da Silva, but the next president of Brazil will be decided in the runoff round, according to the country’s electoral court.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cb107fb1d21653d5cb278dc1"
     },
     {
       "title": "Nationalists top Bosnia-Herzegovina's divisive election",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6cf354232039c58388808c78"
-    },
-    {
-      "title": "‘We no longer eat three meals’: Yemen’s displaced face daily fight for food",
-      "url": "https://aljazeera.com/news/2026/9/30/we-no-longer-eat-three-meals-yemens-displaced-face-daily-fight-for-food",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T11:01:10+00:00",
-      "retrieved_at": "2026-09-30T11:32:51.461663+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Yemen's latest fighting has redrawn front lines after more than a decade of war, deepening hunger and displacement.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d03354e95a8c4b3a45db3e18"
     }
   ],
   "unverified_history": [
