@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-05T04:39:47.841847+00:00",
+  "updated": "2026-10-05T04:59:49.461314+00:00",
   "items": [
+    {
+      "title": "Watch: How Brazil's dramatic election unfolded",
+      "url": "https://bbc.co.uk/news/videos/cwp9g54v9xjlo",
+      "source": "BBC World",
+      "published": "2026-10-05T04:51:24+00:00",
+      "retrieved_at": "2026-10-05T04:59:45.273401+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "73f28002383a38c6b95e733a"
+    },
     {
       "title": "FBI arrests ‘Chinese foreign agent’ for spying on Taiwan president’s son",
       "url": "https://aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son",
@@ -16,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cb3eb8e60ed6ac706d0c8b2d"
+    },
+    {
+      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "url": "https://bbc.co.uk/news/articles/cqj6jenp26zyo",
+      "source": "BBC World",
+      "published": "2026-10-05T03:37:41+00:00",
+      "retrieved_at": "2026-10-05T04:59:45.273499+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8a581dbe753f87ab7fbaf98d"
     },
     {
       "title": "Spitting allegations as Ireland and Israel fight out ill-tempered draw",
@@ -114,11 +146,11 @@
       "story_fingerprint": "fcb9a2a81a25e36e58df23fb"
     },
     {
-      "title": "Israel face spitting allegation as Ireland boss ‘delighted’ after ties over",
+      "title": "Israel face spitting allegation as Ireland boss ‘delighted’ games are over",
       "url": "https://aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over",
       "source": "Al Jazeera",
       "published": "2026-10-04T23:52:49+00:00",
-      "retrieved_at": "2026-10-05T01:53:51.846829+00:00",
+      "retrieved_at": "2026-10-05T04:59:45.391101+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "Ireland manager says 'disciplinary committee will look at' allegations Israel player spat at one of his coaching staff.",
       "category": "global",
@@ -127,7 +159,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "24d270cd3d0f710a46a932fe"
+      "story_fingerprint": "d3b7b72f0959edb7a4b97e81"
     },
     {
       "title": "Brazil election: Bolsonaro and Lula head to runoff",
@@ -736,6 +768,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "927400a882bcfc9e08840389"
+    },
+    {
+      "title": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
+      "url": "https://dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372",
+      "source": "DW",
+      "published": "2026-10-04T03:48:00+00:00",
+      "retrieved_at": "2026-10-05T04:59:45.400329+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Reports indicate Ethiopian government forces have made advances against a northern rebel group. Renewed fighting has raised fears the conflict could spill over into the wider region.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ebd8ef20e4f2331a0f5d949c"
     },
     {
       "title": "Houthis claim strike on Saudi energy facility as Yemen fighting intensifies",
@@ -3952,54 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e90367d9d7e3c171d7fa9a89"
-    },
-    {
-      "title": "Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue",
-      "url": "https://aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T12:49:04+00:00",
-      "retrieved_at": "2026-09-30T13:26:49.614493+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "At least six people killed in drone attack on passenger van and one person killed in strike on residential apartment.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6fa695dbfb408e540b37edea"
-    },
-    {
-      "title": "Goodbye, ‘China Plus One’: The Real Change in US China Policy",
-      "url": "https://thediplomat.com/2026/09/goodbye-china-plus-one-the-real-change-in-us-china-policy",
-      "source": "The Diplomat",
-      "published": "2026-09-30T12:34:00+00:00",
-      "retrieved_at": "2026-09-30T16:36:45.327282+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Beneath the pageantry, here's the change that matters: Washington has stopped talking about leaving China.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "80752945a6ec9c0ca344d7d9"
-    },
-    {
-      "title": "How does Iraq’s security change after US forces withdraw?",
-      "url": "https://aljazeera.com/news/2026/9/30/how-does-iraqs-security-change-after-us-forces-withdraw",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T12:33:05+00:00",
-      "retrieved_at": "2026-09-30T12:51:42.627535+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iraq marks US troop withdrawal with 'Sovereignty Days', symbolising a shift after decades of foreign military presence.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "220ac3e0e89df28a650d3922"
     }
   ],
   "unverified_history": [
