@@ -22,6 +22,7 @@ NEWS_ERRORS = []
 # ────────────────────────────────────────────────────────────────────
 
 US_STOCKS = [
+    ("ADBE",    "Adobe Inc",           "Software / Creative Cloud / AI"),
     ("AMD",     "AMD (Advanced Micro Devices)", "Semiconductors / AI Chips", None, "Advanced Micro Devices"),
     ("GOOGL",   "Alphabet Inc.",       "Earnings / AI growth"),
     ("MSFT",    "Microsoft",           "Cloud / AI"),

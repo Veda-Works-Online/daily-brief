@@ -198,6 +198,37 @@
         }
       },
       {
+        "ticker": "ADBE",
+        "name": "Adobe Inc",
+        "sector": "Software / Creative Cloud / AI",
+        "currency": "USD",
+        "quote_currency": "USD",
+        "exchange": "NMS",
+        "instrument_type": "EQUITY",
+        "source_symbol": "ADBE",
+        "verification_version": 1,
+        "validation_status": "DATA_UNAVAILABLE",
+        "validationStatus": "DATA_UNAVAILABLE",
+        "source_timestamp": null,
+        "market_status": "TEMPORARILY_UNAVAILABLE",
+        "display_timezone": "America/New_York",
+        "source_timestamp_local": null,
+        "field_metadata": {},
+        "error": {
+          "status": "VALIDATION_FAILED",
+          "reason": "AWAITING_INITIAL_SOURCE_REFRESH"
+        },
+        "indexValue": null,
+        "marketCap": null,
+        "changePercent": null,
+        "absoluteChange": null,
+        "previousClose": null,
+        "dayHigh": null,
+        "dayLow": null,
+        "volume": null,
+        "marketCapUSD": null
+      },
+      {
         "ticker": "AMD",
         "name": "AMD (Advanced Micro Devices)",
         "sector": "Semiconductors / AI Chips",
@@ -13258,6 +13289,6 @@
     "completed_at": "2026-10-05T08:09:37.271147+00:00",
     "interval_seconds": 300,
     "stale_count": 2,
-    "unavailable_count": 0
+    "unavailable_count": 1
   }
 }
