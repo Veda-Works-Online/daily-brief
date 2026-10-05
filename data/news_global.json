@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-05T00:08:56.632119+00:00",
+  "updated": "2026-10-05T00:18:59.909470+00:00",
   "items": [
+    {
+      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
+      "url": "https://bbc.co.uk/news/articles/ck1l34ed592no",
+      "source": "BBC World",
+      "published": "2026-10-05T00:15:27+00:00",
+      "retrieved_at": "2026-10-05T00:18:55.835844+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b1f838b0acae7bb19b9647a5"
+    },
     {
       "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
       "url": "https://aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war",
@@ -96,22 +112,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "53be5e38cf6f1113e1fc64d5"
-    },
-    {
-      "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
-      "url": "https://bbc.co.uk/news/articles/ck1l34ed592no",
-      "source": "BBC World",
-      "published": "2026-10-04T21:11:49+00:00",
-      "retrieved_at": "2026-10-04T21:28:19.523046+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7e5169de2a41e2784ab3b2e7"
     },
     {
       "title": "Israel lashes out as UK’s Green Party formally defines Zionism as ‘racism’",
