@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-05T14:36:41.456237+00:00",
+  "updated": "2026-10-05T15:01:43.812153+00:00",
   "items": [
+    {
+      "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+      "url": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips",
+      "source": "TechCrunch",
+      "published": "2026-10-05T15:00:00+00:00",
+      "retrieved_at": "2026-10-05T15:01:39.485829+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Lola Vision Systems is one of TechCrunch's Battlefield 200 Companies",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cfa69492affa543f31c5f53f"
+    },
+    {
+      "title": "Hackers steal 8 million citizens’ records from Danish government database",
+      "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database",
+      "source": "TechCrunch",
+      "published": "2026-10-05T14:58:42+00:00",
+      "retrieved_at": "2026-10-05T15:01:39.485877+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c9923235b55312a673da2c93"
+    },
     {
       "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
       "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f82e64f28fa3d7828752b7a9"
-    },
-    {
-      "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
-      "url": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack",
-      "source": "TechCrunch",
-      "published": "2026-09-25T15:52:13+00:00",
-      "retrieved_at": "2026-09-25T15:55:05.548328+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ca857871d510d2473140c411"
-    },
-    {
-      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
-      "source": "TechCrunch AI",
-      "published": "2026-09-25T15:48:14+00:00",
-      "retrieved_at": "2026-09-25T15:50:04.128152+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The latest unauthorized agent swarms were discovered by researchers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "25ceb6aae21ede32e1875a7d"
     }
   ],
   "unverified_history": [
