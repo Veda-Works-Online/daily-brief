@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-05T09:04:50.196737+00:00",
+  "updated": "2026-10-05T09:09:46.463691+00:00",
   "items": [
+    {
+      "title": "Why has Spain's PM called a snap election?",
+      "url": "https://bbc.co.uk/news/videos/c83vqk2k2k20o",
+      "source": "BBC World",
+      "published": "2026-10-05T09:03:30+00:00",
+      "retrieved_at": "2026-10-05T09:09:42.635413+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "his series of measures to tackle the housing crisis was defeated in parliament on Friday",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6463418be5878a6034dae689"
+    },
     {
       "title": "Spain’s PM Pedro Sanchez calls snap election amid housing crisis",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/5/spains-pm-pedro-sanchez-calls-snap-election-amid-housing-crisis",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5fa45ba89d36a3cf17be0c90"
-    },
-    {
-      "title": "Pentagon says US troop withdrawal from Iraq is complete",
-      "url": "https://aljazeera.com/news/2026/9/30/pentagon-says-us-troop-withdrawal-from-iraq-is-complete",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T16:33:02+00:00",
-      "retrieved_at": "2026-09-30T18:37:23.797720+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump hails completion of 'very expensive excursion into Hell' as US-led coalition anti-ISIL mission ends.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "52675b406137977bfd932bf2"
     }
   ],
   "unverified_history": [
