@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-05T21:02:54.966703+00:00",
+  "updated": "2026-10-05T21:17:56.876364+00:00",
   "items": [
+    {
+      "title": "Trump says US ready to aid Russia with plague outbreak in Siberia",
+      "url": "https://aljazeera.com/news/2026/10/5/trump-says-us-ready-to-aid-russia-with-plague-outbreak-in-siberia",
+      "source": "Al Jazeera",
+      "published": "2026-10-05T21:03:21+00:00",
+      "retrieved_at": "2026-10-05T21:17:51.696140+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Russian authorities quarantine hospital, monitor 200 contacts after suspected pneumonic plague death in Siberia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "716374dbede79ffa575804da"
+    },
     {
       "title": "What’s next for Bosnia after elections?",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/5/whats-next-for-bosnia-after-elections",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1d6283c55ee5c15ff0251acd"
-    },
-    {
-      "title": "The battle for Kordofan: The corridor linking Sudan’s east and west",
-      "url": "https://aljazeera.com/news/2026/10/1/the-battle-for-kordofan-the-corridor-linking-sudans-east-and-west",
-      "source": "Al Jazeera",
-      "published": "2026-10-01T08:23:44+00:00",
-      "retrieved_at": "2026-10-01T08:45:16.324649+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Kordofan, between Darfur and central Sudan, has seen one in five recorded attacks in Sudan's war since April 2023.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dd94d7a55f2ef2e6df7838d3"
     }
   ],
   "unverified_history": [
