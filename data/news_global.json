@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T10:05:37.074960+00:00",
+  "updated": "2026-10-05T10:10:33.493908+00:00",
   "items": [
     {
       "title": "Trump chooses top spy boss to run new AI taskforce",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d7bc505f78737a78a9805b5a"
+    },
+    {
+      "title": "Yemen war: What’s the latest, as government forces claim advances?",
+      "url": "https://aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield",
+      "source": "Al Jazeera",
+      "published": "2026-10-05T09:38:26+00:00",
+      "retrieved_at": "2026-10-05T10:10:30.334320+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "After launching major military offensive to reclaim Houthi-held areas, Yemen's government says it has taken key district",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b9cd53be1e35fa931bada06d"
     },
     {
       "title": "How Spain's housing crisis has resulted in an early general election",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a5d1283178e0f5ea35886708"
-    },
-    {
-      "title": "Are the Houthis winning against Saudi Arabia?",
-      "url": "https://dw.com/en/are-the-houthis-winning-against-saudi-arabia/a-79492476",
-      "source": "DW",
-      "published": "2026-09-30T17:23:00+00:00",
-      "retrieved_at": "2026-09-30T18:17:22.808813+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "It's unclear how the Saudis can defuse the threat presented by the Houthis in next-door Yemen or who they can turn to for help. The US isn't interested, the Europeans are hedging and nobody wants open conflict with Iran.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5fa45ba89d36a3cf17be0c90"
     }
   ],
   "unverified_history": [
