@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-05T22:32:46.869429+00:00",
+  "updated": "2026-10-05T22:42:44.180722+00:00",
   "items": [
     {
-      "title": "Vulnerability in agents from Google and others exposes structural flaw in MCP",
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
       "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
       "source": "Ars Technica AI",
       "published": "2026-10-05T22:26:35+00:00",
-      "retrieved_at": "2026-10-05T22:32:39.076860+00:00",
+      "retrieved_at": "2026-10-05T22:42:40.252935+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
       "isAI": true,
@@ -16,7 +16,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "9c1253085760f08f20eab36a"
+      "story_fingerprint": "4e63cda5f02b5b6d66f6516a"
     },
     {
       "title": "Lucid Motors’ EV output falls to lowest level in almost two years",
