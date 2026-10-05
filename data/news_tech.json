@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-04T20:33:11.585222+00:00",
+  "updated": "2026-10-05T08:49:26.137555+00:00",
   "items": [
+    {
+      "title": "People really hate AI, so why can’t they get enough?",
+      "url": "https://technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough",
+      "source": "MIT Tech Review",
+      "published": "2026-10-05T08:00:00+00:00",
+      "retrieved_at": "2026-10-05T08:49:21.913728+00:00",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI…",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8eb02ec89fde0f2e3d8989d7"
+    },
     {
       "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
       "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "81a2126d4cc69bd75cb18936"
-    },
-    {
-      "title": "Trump administration takes Musk’s side in fight over EU tech rules",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules",
-      "source": "Ars Technica",
-      "published": "2026-09-25T13:45:49+00:00",
-      "retrieved_at": "2026-09-25T19:41:14.453535+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Washington says Brussels overreached when it fined X €120 million under the DSA.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "05771a3a760563a7a241a816"
     }
   ],
   "unverified_history": [
