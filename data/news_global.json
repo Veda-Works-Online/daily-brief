@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-05T14:10:38.516069+00:00",
+  "updated": "2026-10-05T14:46:50.083358+00:00",
   "items": [
+    {
+      "title": "US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?",
+      "url": "https://aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans",
+      "source": "Al Jazeera",
+      "published": "2026-10-05T14:19:44+00:00",
+      "retrieved_at": "2026-10-05T14:46:44.925725+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The withdrawal means the US lost a convenient launchpad, not its underlying strike capability, said an expert.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1b49696ca198aaf69f665cce"
+    },
     {
       "title": "Iran poised to exploit security vacuum as US leaves Iraq",
       "url": "https://dw.com/en/iran-poised-to-exploit-security-vacuum-as-us-leaves-iraq/a-79550833",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f8bf40cfd7067ce76e859669"
-    },
-    {
-      "title": "Israeli attacks across Gaza kill at least eight",
-      "url": "https://aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight",
-      "source": "Al Jazeera",
-      "published": "2026-09-30T20:12:22+00:00",
-      "retrieved_at": "2026-09-30T20:22:19.819129+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israeli attacks on residential areas across Gaza killed at least eight civilians and wounded others on Wednesday",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4d37bc10a3c10aef63a882cd"
     }
   ],
   "unverified_history": [
