@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-06T03:14:35.201431+00:00",
+  "updated": "2026-10-06T03:34:35.690700+00:00",
   "items": [
+    {
+      "title": "Secessionist party wins Quebec election in Canada",
+      "url": "https://aljazeera.com/news/2026/10/6/secessionist-parti-quebecois-wins-quebec-election-in-canada",
+      "source": "Al Jazeera",
+      "published": "2026-10-06T03:11:44+00:00",
+      "retrieved_at": "2026-10-06T03:34:30.425342+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Parti Quebecois returns to power, promising a third referendum on Quebec's independence from Canada.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f08e7821554edff99349e3ac"
+    },
     {
       "title": "UN rights council condemns attacks on civilians in Sudan, calls for truce",
       "url": "https://aljazeera.com/news/2026/10/6/un-rights-council-condemns-attacks-on-civilians-in-sudan-calls-for-truce",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "57d1505a3fd43071d6cf50b2"
-    },
-    {
-      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
-      "url": "https://bbc.co.uk/news/articles/c6y8z8kr5mk8o",
-      "source": "BBC World",
-      "published": "2026-10-01T14:05:55+00:00",
-      "retrieved_at": "2026-10-01T14:11:12.445762+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4d0fa86b00c32c7f3837a961"
     }
   ],
   "unverified_history": [
