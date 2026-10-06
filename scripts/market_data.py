@@ -847,9 +847,25 @@ def apply_free_source(row, symbol, extra, yahoo, now):
         # Near matches may reflect asynchronous prices. They remain indicative:
         # implied shares are a diagnostic, not official shares outstanding.
         status = 'VERIFIED' if cap_difference <= Decimal('0.0001') else 'INDICATIVE'
-        old_time = row.get('field_metadata', {}).get('marketCap', {}).get('source_timestamp')
+        old_meta = row.get('field_metadata', {}).get('marketCap', {})
+        old_time = old_meta.get('source_timestamp')
+        snapshot_skew = None
         if old_time and ts < timestamp(old_time):
-            raise ValueError('OLDER_CAP_OBSERVATION')
+            prior = timestamp(old_time)
+            # Google attaches its quote time to a cap with no cap-specific time.
+            # A slightly later unverified snapshot must not veto an otherwise
+            # corroborated same-session cap. Saved verified/stale caps retain
+            # strict ordering; older sessions and large skews remain rejected.
+            snapshot_skew = (prior-ts).total_seconds()
+            comparable_indicative = (
+                old_meta.get('validation_status') == 'INDICATIVE'
+                and old_meta.get('source') == 'Google Finance'
+                and 'quote snapshot' in old_meta.get('timestamp_scope', '')
+                and prior.astimezone(ZoneInfo('America/New_York')).date()
+                    == ts.astimezone(ZoneInfo('America/New_York')).date()
+                and snapshot_skew <= quote_policy(symbol, state)['max_timestamp_skew_seconds'])
+            if not comparable_indicative:
+                raise ValueError('OLDER_CAP_OBSERVATION')
         out = deepcopy(row)
         out.update(marketCap=cap, marketCapUSD=cap, currency='USD')
         out['field_metadata']['marketCap'] = dict(validation_status=status, source='Yahoo Finance',
@@ -866,6 +882,13 @@ def apply_free_source(row, symbol, extra, yahoo, now):
                 'implied_shares_tolerance':Decimal('0.0005'),
                 'result':'STRICT_MATCH' if status == 'VERIFIED' else 'NEAR_MATCH_NOT_VERIFIED'})
         out['field_metadata']['marketCapUSD'] = deepcopy(out['field_metadata']['marketCap'])
+        if snapshot_skew is not None:
+            out['field_metadata']['marketCap']['replaced_indicative_snapshot'] = {
+                'source': old_meta['source'], 'source_timestamp': old_time,
+                'quote_timestamp_skew_seconds': snapshot_skew,
+                'reason': 'CORROBORATED_SAME_SESSION_CAP',
+            }
+            out['field_metadata']['marketCapUSD'] = deepcopy(out['field_metadata']['marketCap'])
         # Preserve Google's disagreement as evidence, not as a failed Nasdaq check.
         return out
     return row

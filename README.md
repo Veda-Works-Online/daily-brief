@@ -28,7 +28,12 @@ read their local data files.
 
 The header shows the actual completed source-check time and warns after ten
 minutes without a refresh. Every tab displays quote timestamps and stale status;
-individual indicative/stale fields remain labelled except value-only market-cap and gain/loss percentage cells. Source delays, market closures,
+individual indicative/stale fields remain labelled; market-cap cells keep their
+value-only appearance and expose status, source, quote time and FX provenance in
+their tooltips. Daily gain/loss percentages round half up to two decimals while
+the underlying source values remain unchanged. Equity tables include the share
+price in its listing currency and identify BABA/TSM as US-listed ADRs.
+Source delays, market closures,
 GitHub runner handoffs and outages can still delay quotes; five minutes is a
 refresh target, not a real-time market-data guarantee. The worker uses standard
 GitHub-hosted runners in this public repository. Review Actions billing before
@@ -61,7 +66,11 @@ Near matches up to 0.1% in cap and price, and 0.05% in implied shares (cap/price
 may select Yahoo's figure but remain INDICATIVE, with no verification claim.
 These thresholds are fallback policy, not an accuracy guarantee. Implied shares
 are a diagnostic, not independently confirmed shares outstanding. Older cap
-observations cannot replace newer ones. Neither agreement nor near agreement
+observations cannot replace newer verified or stale caps. A corroborated cap may
+replace a later indicative Google quote snapshot only within the same New York
+date and the existing 20-minute source-skew limit: neither provider supplies a
+cap-specific timestamp. The replaced indicative snapshot time is retained in
+metadata. Neither agreement nor near agreement
 proves that providers use independent underlying data.
 Raw Yahoo/Google cap comparisons and Nasdaq failures are retained in field
 metadata. USD ADR rows discard obsolete native-cap/FX fields. Samsung retains

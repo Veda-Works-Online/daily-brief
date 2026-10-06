@@ -45,6 +45,11 @@ assert.equal(vm.runInContext("formatDecimal('123456.123456789')", ctx), '123,456
 assert.equal(vm.runInContext('fmtGainLossPercent(null)', ctx), 'DATA UNAVAILABLE');
 assert.equal(vm.runInContext("safeNewsUrl('javascript:alert(1)')", ctx), '#');
 assert.equal(vm.runInContext("fmtGainLossPercent(0, '0.0000')", ctx), '0.00%');
+for (const [value, exact, expected] of [
+  [1.478175, '1.478175', '+1.48%'], [-1.935646, '-1.935646', '-1.94%'],
+  [1.005, '1.005', '+1.01%'], [-1.005, '-1.005', '-1.01%'],
+  [9.999, '9.999', '+10.00%'], [-0.004, '-0.004', '0.00%'],
+]) assert.equal(ctx.fmtGainLossPercent(value, exact), expected);
 const html = vm.runInContext("renderStocksTable([{name:'Legacy',ticker:'X',marketCap:123,indexValue:1,changePercent:null}], 'us')", ctx);
 assert(html.includes('Legacy'));
 assert(html.includes('DATA UNAVAILABLE'));
@@ -99,9 +104,11 @@ assert(vm.runInContext('commodityDisplay(corn,inr).note',ctx).includes('FX stale
 assert.equal(vm.runInContext('commodityDisplay(corn).rate',ctx),'DATA UNAVAILABLE');
 ctx.wrongFx={...ctx.inr,base_currency:'INR',quote_currency:'USD'};
 assert.equal(vm.runInContext('commodityDisplay(corn,wrongFx).rate',ctx),'DATA UNAVAILABLE');
-assert.equal((commodityHtml.match(/<th>/g)||[]).length,6);
+assert.equal((commodityHtml.match(/<th(?:\s[^>]*)?>/g)||[]).length,6);
 assert(commodityHtml.includes('<th>Quantity</th>'));
-assert.equal((html.match(/<th>/g)||[]).length,5);
+assert.equal((html.match(/<th(?:\s[^>]*)?>/g)||[]).length,6);
+assert(html.includes('<th>Share Price</th>'));
+assert(html.includes('Daily Gain / Loss %'));
 ctx.gold.indexValue=null;
 assert.equal(vm.runInContext('commodityDisplay(gold).rate',ctx),'DATA UNAVAILABLE');
 assert.equal(vm.runInContext("commodityDisplay({unit:'USD/bbl'}).quantity",ctx),'1 Barrel');
@@ -117,7 +124,7 @@ ctx.AbortSignal = AbortSignal;
   await assert.rejects(ctx.loadJSON('data/news_tech.json'), /Invalid news snapshot/);
   ctx.fetch = async () => ({ ok: false });
   await assert.rejects(ctx.loadJSON('data/stocks.json'), /Failed/);
-  ctx.window.location.hostname = 'veda575.github.io';
+  ctx.window.location.hostname = 'veda-works-online.github.io';
   const requested = [];
   ctx.fetch = async url => {
     requested.push(url);
@@ -134,14 +141,24 @@ ctx.AbortSignal = AbortSignal;
 })().catch(e => { console.error(e); process.exitCode = 1; });
 
 // Production data bypasses Pages publication delay.
-ctx.window = {location: {hostname: 'veda575.github.io'}};
-assert.equal(ctx.dataURL('data/stocks.json'), 'https://raw.githubusercontent.com/veda575/daily-brief/main/data/stocks.json');
+ctx.window = {location: {hostname: 'veda-works-online.github.io'}};
+assert.equal(ctx.dataURL('data/stocks.json'), 'https://raw.githubusercontent.com/Veda-Works-Online/daily-brief/main/data/stocks.json');
 ctx.window.location.hostname = 'localhost';
 assert.equal(ctx.dataURL('data/stocks.json'), 'data/stocks.json');
 // Commodity status stays visible; market-cap cells show only their value.
 ctx.staleCommodity = {...ctx.gold, validation_status:'STALE', source_timestamp:'2026-09-17T00:00:00Z'};
 assert(vm.runInContext("renderStocksTable([staleCommodity], 'commodities', inr)",ctx).includes('<small>STALE'));
-assert(!vm.runInContext("renderStocksTable([fieldRow], 'us')",ctx).includes('INDICATIVE'));
+const capHtml = vm.runInContext("renderStocksTable([fieldRow], 'us')",ctx);
+assert(capHtml.includes('title="INDICATIVE · Google Finance'));
+assert(!capHtml.includes('<small>INDICATIVE'));
+ctx.adr = {name:'TSMC',ticker:'TSM',marketCap:2090000000000,indexValue:485.8,
+  verification_version:1,validation_status:'VERIFIED',currency:'USD',quote_currency:'USD',
+  field_metadata:{marketCap:{validation_status:'INDICATIVE',decimal:'2090000000000',source:'Google Finance'},
+    indexValue:{validation_status:'VERIFIED',decimal:'485.8'}}};
+const adrHtml = ctx.renderStocksTable([ctx.adr], 'asia');
+assert(adrHtml.includes('US-listed ADR · USD quote'));
+assert(adrHtml.includes('$485.8'));
+assert(adrHtml.includes('$2.09T'));
 const olderSnapshot = {refresh:{completed_at:'2026-09-30T04:00:00Z'}};
 const currentSnapshot = {refresh:{completed_at:'2026-09-30T04:05:00Z'}};
 assert.equal(ctx.newerSnapshot(currentSnapshot, olderSnapshot), currentSnapshot);
