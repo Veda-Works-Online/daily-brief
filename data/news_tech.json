@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T11:09:28.956718+00:00",
+  "updated": "2026-10-06T11:29:06.183894+00:00",
   "items": [
     {
       "title": "GamerCard Review: A Flawed Pocket-Size Retro Handheld",
@@ -6253,5 +6253,211 @@
       "summary": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.",
       "isAI": false
     }
-  ]
+  ],
+  "open_llms": {
+    "items": [
+      {
+        "id": "allenai/AstaBrief_8B_SFT",
+        "name": "AstaBrief_8B_SFT",
+        "publisher": "allenai",
+        "licence": "apache-2.0",
+        "published": "2026-09-10T23:36:30+00:00",
+        "url": "https://huggingface.co/allenai/AstaBrief_8B_SFT",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "nvidia/DeepSeek-V4-Pro-0813-nvfp4-DSpark",
+        "name": "DeepSeek-V4-Pro-0813-nvfp4-DSpark",
+        "publisher": "nvidia",
+        "licence": "mit",
+        "published": "2026-09-09T17:47:04+00:00",
+        "url": "https://huggingface.co/nvidia/DeepSeek-V4-Pro-0813-nvfp4-DSpark",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "nvidia/Qwen3.8-27B-NVFP4",
+        "name": "Qwen3.8-27B-NVFP4",
+        "publisher": "nvidia",
+        "licence": "apache-2.0",
+        "published": "2026-09-04T21:43:04+00:00",
+        "url": "https://huggingface.co/nvidia/Qwen3.8-27B-NVFP4",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "nvidia/DeepSeek-V4-Pro-0813-NVFP4",
+        "name": "DeepSeek-V4-Pro-0813-NVFP4",
+        "publisher": "nvidia",
+        "licence": "mit",
+        "published": "2026-08-27T10:39:25+00:00",
+        "url": "https://huggingface.co/nvidia/DeepSeek-V4-Pro-0813-NVFP4",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "nvidia/DeepSeek-V4-Flash-0731-NVFP4",
+        "name": "DeepSeek-V4-Flash-0731-NVFP4",
+        "publisher": "nvidia",
+        "licence": "mit",
+        "published": "2026-08-19T17:09:47+00:00",
+        "url": "https://huggingface.co/nvidia/DeepSeek-V4-Flash-0731-NVFP4",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-4.2-8b-nvfp4",
+        "name": "granite-4.2-8b-nvfp4",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-08-13T21:05:48+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.2-8b-nvfp4",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-4.2-8b-mxfp4",
+        "name": "granite-4.2-8b-mxfp4",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-08-13T21:05:29+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.2-8b-mxfp4",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-4.2-8b-fp8",
+        "name": "granite-4.2-8b-fp8",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-08-13T21:05:07+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.2-8b-fp8",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-4.2-3b-nvfp4",
+        "name": "granite-4.2-3b-nvfp4",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-08-13T21:04:44+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.2-3b-nvfp4",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-4.2-3b-mxfp4",
+        "name": "granite-4.2-3b-mxfp4",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-08-13T21:04:23+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.2-3b-mxfp4",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-4.2-3b-fp8",
+        "name": "granite-4.2-3b-fp8",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-08-13T21:03:50+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.2-3b-fp8",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-4.2-30b-nvfp4",
+        "name": "granite-4.2-30b-nvfp4",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-08-13T21:03:19+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-nvfp4",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-4.2-30b-mxfp4",
+        "name": "granite-4.2-30b-mxfp4",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-08-13T21:02:51+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-mxfp4",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-4.2-30b-fp8",
+        "name": "granite-4.2-30b-fp8",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-08-13T21:02:02+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-fp8",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
+        "name": "DeepSeek-V4-Pro-0813",
+        "publisher": "deepseek-ai",
+        "licence": "mit",
+        "published": "2026-08-13T03:05:06+00:00",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-4.2-30b",
+        "name": "granite-4.2-30b",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-08-07T16:29:50+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.2-30b",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-4.2-8b",
+        "name": "granite-4.2-8b",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-08-07T16:29:09+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.2-8b",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-4.2-3b",
+        "name": "granite-4.2-3b",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-08-07T16:26:43+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.2-3b",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "deepseek-ai/DeepSeek-V4-Flash-0731",
+        "name": "DeepSeek-V4-Flash-0731",
+        "publisher": "deepseek-ai",
+        "licence": "mit",
+        "published": "2026-07-31T07:30:24+00:00",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "microsoft/HARC-Qwen2.5-7B-Instruct",
+        "name": "HARC-Qwen2.5-7B-Instruct",
+        "publisher": "microsoft",
+        "licence": "apache-2.0",
+        "published": "2026-07-02T05:50:15+00:00",
+        "url": "https://huggingface.co/microsoft/HARC-Qwen2.5-7B-Instruct",
+        "source_status": "CURRENT"
+      }
+    ],
+    "checked_at": "2026-10-06T11:29:01.577776+00:00",
+    "status": "CURRENT",
+    "errors": [],
+    "publishers": [
+      "Qwen",
+      "deepseek-ai",
+      "mistralai",
+      "allenai",
+      "HuggingFaceTB",
+      "HuggingFaceH4",
+      "microsoft",
+      "moonshotai",
+      "ibm-granite",
+      "zai-org",
+      "MiniMaxAI",
+      "openai",
+      "nvidia",
+      "tiiuae"
+    ],
+    "source": "Hugging Face official publisher model cards",
+    "date_basis": "Hub repository creation date, not an independently verified release date",
+    "licence_basis": "Publisher-declared open licence for weights; training data/code availability not certified"
+  }
 }
