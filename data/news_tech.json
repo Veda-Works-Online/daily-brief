@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:11:13.450715+00:00",
+  "updated": "2026-10-06T17:16:15.800269+00:00",
   "items": [
     {
       "title": "Mirror Particle is building a ‘world model’ of human behavior",
@@ -4218,21 +4218,21 @@
       "story_fingerprint": "d360b934b84184e0fbf09370"
     },
     {
-      "title": "Welcome RL Environments to the hub",
-      "url": "https://huggingface.co/blog/rl-environments",
-      "source": "Hugging Face",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "source": "OpenAI",
       "published": "2026-09-28T00:00:00+00:00",
-      "retrieved_at": "2026-10-06T17:11:07.268769+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
+      "retrieved_at": "2026-10-06T17:16:10.353612+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "4354a24ddafc123499065235"
+      "story_fingerprint": "c2f19d517196393cce4ede20"
     },
     {
       "title": "Are you a Codex Original?",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T17:11:06.614075+00:00",
+    "checked_at": "2026-10-06T17:16:09.183989+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
