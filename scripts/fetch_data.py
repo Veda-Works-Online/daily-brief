@@ -245,9 +245,8 @@ TECH_AI_RE = re.compile(
     r"\b(AI|A\.I\.|artificial intelligence|machine learning|deep learning|neural|"
     r"LLM|GPT|Claude|Gemini|ChatGPT|Anthropic|OpenAI|Mistral|Llama|HuggingFace|"
     r"DeepMind|Nvidia|GPU|TPU|inference|training|fine.?tun|transformer|diffusion|"
-    r"agent(?:ic)?|RAG|embedding|prompt|chatbot|copilot|data ?center|hyperscaler|"
-    r"semiconductor|chip|silicon|wafer|foundry|TSMC|robotic|automation|"
-    r"startup|cloud|SaaS|software|cybersecurity|tech compan)\b",
+    r"agent(?:ic)?|RAG|embedding|prompt|chatbot|copilot|computer vision|"
+    r"generative|reinforcement learning)\b",
     re.I,
 )
 
@@ -649,6 +648,11 @@ def write_news(filename, new_items, category):
     merged = merge_news(new_items, existing.get("items", []), parse_date, category)
     # Reapply exclusions to saved history as well as freshly fetched stories.
     merged = [item for item in merged if keep_item(item, None)]
+    if category == "tech":
+        general_sources = {source for source, _ in TECH_GENERAL_FEEDS}
+        merged = [dict(item, isAI=bool(TECH_AI_RE.search(
+            item['title'] + ' ' + item.get('summary', ''))))
+            if item.get('source') in general_sources else item for item in merged]
     output = dict(existing)
     # Preserve unverified legacy records as evidence, never silently assert verification.
     if any(i.get("verification_status") != "SOURCE_CONFIRMED" for i in existing.get("items", [])):
