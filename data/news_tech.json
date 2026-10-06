@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-06T15:01:18.399225+00:00",
+  "updated": "2026-10-06T15:06:09.144438+00:00",
   "items": [
+    {
+      "title": "A New Neurotech Startup Launches to Rival Sam Altman’s Merge Labs",
+      "url": "https://wired.com/story/bridge-neurotech-startup-rival-sam-altman-merge-labs",
+      "source": "Wired",
+      "published": "2026-10-06T15:00:00+00:00",
+      "retrieved_at": "2026-10-06T15:06:04.732786+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Bridge Neurotech is planning to build a wearable brain-computer interface that uses ultrasound.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3f77a87de58f3735fd06851b"
+    },
     {
       "title": "Emmys will move from broadcast TV to Prime Video in 2027",
       "url": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cebd77d82d048d70b6fc3fc0"
-    },
-    {
-      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
-      "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises",
-      "source": "TechCrunch",
-      "published": "2026-09-27T15:00:00+00:00",
-      "retrieved_at": "2026-09-27T15:02:31.240638+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "445909357d49025d691375ef"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T15:01:08.871933+00:00",
+    "checked_at": "2026-10-06T15:06:03.317237+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
