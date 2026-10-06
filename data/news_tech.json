@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T20:06:46.235593+00:00",
+  "updated": "2026-10-06T20:11:46.984471+00:00",
   "items": [
     {
       "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
@@ -17,6 +17,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cb929c73da6fb8abf9fdb0f0"
+    },
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+      "source": "Google DeepMind",
+      "published": "2026-10-06T19:57:04+00:00",
+      "retrieved_at": "2026-10-06T20:11:40.000145+00:00",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://deepmind.google/blog/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "45acea30a8660f3fe7a3ec10"
     },
     {
       "title": "The next hurdle for AI agents: getting websites to let them in",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "7906ea34f2bd6324c6687683"
-    },
-    {
-      "title": "Solving Math’s Greatest Problems Was an Art Form. Then Came AI",
-      "url": "https://wired.com/story/solving-maths-greatest-problems-was-an-art-form-until-ai",
-      "source": "Wired",
-      "published": "2026-09-28T09:30:00+00:00",
-      "retrieved_at": "2026-09-28T09:36:09.828178+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Mathematics has been one of humanity’s most creative endeavors, akin to painting and poetry. Now, mathematicians are trying to save it from the brute force of AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "10a2d814b496d9fa17267b00"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T20:06:41.967014+00:00",
+    "checked_at": "2026-10-06T20:11:39.151076+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
