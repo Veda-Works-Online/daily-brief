@@ -372,6 +372,23 @@ function newsCardHtml(n) {
 
 // All news data, kept in memory so changing the time window doesn't refetch.
 const newsCache = { tech: [], india: [], global: [] };
+let llmCatalog = null;
+
+function openLlmCatalogHtml(catalog) {
+  if (!catalog) return '<p class="muted">Open-licence LLM list waiting for its first source check.</p>';
+  const delayed = !Number.isFinite(Date.parse(catalog.checked_at)) || Date.now() - Date.parse(catalog.checked_at) > 600000;
+  const status = delayed || catalog.status === 'STALE' ? 'STALE · Showing saved models' :
+    catalog.status === 'PARTIAL' ? 'PARTIAL · Some publishers unavailable; saved models marked stale' : 'CURRENT';
+  const items = (Array.isArray(catalog.items) ? catalog.items : []).filter(m => m && typeof m.id === 'string' && /^[\w.-]+\/[\w.-]+$/.test(m.id) &&
+    ['apache-2.0','mit','bsd-2-clause','bsd-3-clause','isc','cc0-1.0'].includes(m.licence));
+  return `<details class="news-card" open><summary style="padding:14px 18px;cursor:pointer"><strong>Latest open-licence LLMs</strong> · ${items.length} models</summary>
+    <div style="padding:0 18px 14px"><p class="muted">${escapeHtml(status)} · Sources checked ${escapeHtml(quoteTime(catalog.checked_at))}<br>
+    Five-minute source checks · All dates, newest first · Selected official publishers.<br>
+    Publisher-declared licences for weights. Hub publication dates; training data and code availability not certified.</p>
+    <div style="overflow:auto;max-height:440px"><table><thead><tr><th>Model / Publisher</th><th>Licence</th><th>Published on Hub</th></tr></thead><tbody>
+    ${items.map(m => `<tr><td><a href="https://huggingface.co/${encodeURIComponent(m.id.split('/')[0])}/${encodeURIComponent(m.id.split('/')[1])}" target="_blank" rel="noopener">${escapeHtml(m.name || m.id)}</a><small>${escapeHtml(m.publisher || '')}${m.source_status === 'STALE' ? ' · STALE' : ''}</small></td><td>${escapeHtml(m.licence.toUpperCase())}</td><td>${escapeHtml(quoteTime(m.published))}</td></tr>`).join('') || '<tr><td colspan="3">No qualifying models available.</td></tr>'}
+    </tbody></table></div></div></details>`;
+}
 
 function renderNewsForCurrentWindow(section) {
   const containerId = 'news-' + section;
@@ -384,13 +401,13 @@ function renderNewsForCurrentWindow(section) {
   const label = document.getElementById(section + '-window-label');
   if (label) label.textContent = win.label + ' · ' + slice.length + (slice.length === 1 ? ' item' : ' items');
 
-  container.innerHTML = slice.length
+  container.innerHTML = (isTech ? openLlmCatalogHtml(llmCatalog) : '') + (slice.length
     ? slice.map(newsCardHtml).join('')
-    : '<p class="muted">No items in this window.</p>';
+    : '<p class="muted">No items in this window.</p>');
 
-  container.querySelectorAll('.news-card').forEach(card => {
-    card.querySelector('.news-head').addEventListener('click', () => {
-      card.classList.toggle('expanded');
+  container.querySelectorAll('.news-card .news-head').forEach(head => {
+    head.addEventListener('click', () => {
+      head.closest('.news-card').classList.toggle('expanded');
     });
   });
 }
@@ -510,6 +527,10 @@ async function refreshData() {
     ['tech', 'india', 'global'].forEach((section, i) => {
       const result = results[i + 1];
       if (result.status === 'fulfilled' && Array.isArray(result.value?.items)) newsCache[section] = result.value.items;
+      if (section === 'tech' && result.status === 'fulfilled' && result.value?.open_llms) {
+        const incoming = result.value.open_llms;
+        if (!llmCatalog || Date.parse(incoming.checked_at) >= Date.parse(llmCatalog.checked_at)) llmCatalog = incoming;
+      }
       renderNewsForCurrentWindow(section);
     });
     showStockRegion(currentRegion);
