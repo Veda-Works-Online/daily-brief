@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-06T17:26:11.563945+00:00",
+  "updated": "2026-10-06T17:31:13.908049+00:00",
   "items": [
+    {
+      "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+      "url": "https://wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again",
+      "source": "Wired",
+      "published": "2026-10-06T17:28:33+00:00",
+      "retrieved_at": "2026-10-06T17:31:06.483078+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "“There's a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "06fb72d8071944d814bf6a4b"
+    },
     {
       "title": "Mirror Particle is building a ‘world model’ of human behavior",
       "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior",
@@ -4218,38 +4235,21 @@
       "story_fingerprint": "d360b934b84184e0fbf09370"
     },
     {
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI",
+      "title": "Welcome RL Environments to the hub",
+      "url": "https://huggingface.co/blog/rl-environments",
+      "source": "Hugging Face",
       "published": "2026-09-28T00:00:00+00:00",
-      "retrieved_at": "2026-10-06T17:26:05.961650+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "retrieved_at": "2026-10-06T17:31:05.797392+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "c2f19d517196393cce4ede20"
-    },
-    {
-      "title": "Are you a Codex Original?",
-      "url": "https://openai.com/form/codex-originals",
-      "source": "OpenAI",
-      "published": "2026-09-28T00:00:00+00:00",
-      "retrieved_at": "2026-09-28T21:18:00.009080+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "0962b92db672441e6860adbc"
+      "story_fingerprint": "4354a24ddafc123499065235"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T17:26:04.768456+00:00",
+    "checked_at": "2026-10-06T17:31:05.154930+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
