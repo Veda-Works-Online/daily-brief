@@ -31,8 +31,8 @@ minutes without a refresh. Every tab displays quote timestamps and stale status;
 individual indicative/stale fields remain labelled; market-cap cells keep their
 value-only appearance and expose status, source, quote time and FX provenance in
 their tooltips. Daily gain/loss percentages round half up to two decimals while
-the underlying source values remain unchanged. Equity tables include the share
-price in its listing currency and identify BABA/TSM as US-listed ADRs.
+the underlying source values remain unchanged. Equity tables identify BABA/TSM
+as US-listed ADRs.
 Source delays, market closures,
 GitHub runner handoffs and outages can still delay quotes; five minutes is a
 refresh target, not a real-time market-data guarantee. The worker uses standard
