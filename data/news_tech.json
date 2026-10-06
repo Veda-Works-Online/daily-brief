@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-05T22:52:45.256281+00:00",
+  "updated": "2026-10-06T05:05:17.844760+00:00",
   "items": [
+    {
+      "title": "Litter-Robot Promo Codes: Up to $150 Off",
+      "url": "https://wired.com/story/litter-robot-promo-code",
+      "source": "Wired",
+      "published": "2026-10-06T05:00:00+00:00",
+      "retrieved_at": "2026-10-06T05:05:12.551489+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ae6a1a7f10e60dd09935a597"
+    },
     {
       "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
       "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6b86f4c3328d78ed06cf0860"
-    },
-    {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
-      "source": "TechCrunch AI",
-      "published": "2026-09-25T22:20:47+00:00",
-      "retrieved_at": "2026-09-25T22:21:07.803542+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cda6595130900b5c77e9fc3d"
     }
   ],
   "unverified_history": [
