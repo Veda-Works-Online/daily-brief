@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-06T12:09:03.271906+00:00",
+  "updated": "2026-10-06T12:49:16.937795+00:00",
   "items": [
+    {
+      "title": "Mapping where US bombers are based globally",
+      "url": "https://aljazeera.com/news/2026/10/6/mapping-where-us-bombers-are-based-around-the-world",
+      "source": "Al Jazeera",
+      "published": "2026-10-06T12:22:54+00:00",
+      "retrieved_at": "2026-10-06T12:49:12.197663+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The US has pulled its B-1 bombers from RAF Fairford amid Iran fears. Here's where else they can fly from.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c92bc60cd7b45e4ef9e60841"
+    },
     {
       "title": "How Palestinian reporters defied Israel’s genocide to redefine journalism",
       "url": "https://aljazeera.com/news/2026/10/6/how-palestinian-reporters-defied-israels-genocide-to-redefine-journalism",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0d42e818dea932167424a9b8"
-    },
-    {
-      "title": "Brazilian government calls for probe into US funding of far-right causes",
-      "url": "https://aljazeera.com/news/2026/10/1/brazilian-government-calls-for-probe-into-us-funding-of-far-right-causes",
-      "source": "Al Jazeera",
-      "published": "2026-10-01T22:48:17+00:00",
-      "retrieved_at": "2026-10-01T23:01:47.536229+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Report stating that Trump administration directed funds towards right-wing groups comes ahead of presidential election.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d28b82074e6f8d0f6831d1a9"
     }
   ],
   "unverified_history": [
