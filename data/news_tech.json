@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-06T12:23:54.861242+00:00",
+  "updated": "2026-10-06T12:28:59.283263+00:00",
   "items": [
+    {
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic",
+      "source": "Ars Technica AI",
+      "published": "2026-10-06T12:21:53+00:00",
+      "retrieved_at": "2026-10-06T12:28:52.026825+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1ec38ce3a2260d63188f3b50"
+    },
     {
       "title": "GamerCard Review: A Flawed Pocket-Size Retro Handheld",
       "url": "https://wired.com/review/gamercard",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "e0e5556662372d8aeddfdd36"
-    },
-    {
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-      "source": "Google DeepMind",
-      "published": "2026-09-24T16:20:39+00:00",
-      "retrieved_at": "2026-10-06T11:09:24.770222+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "8cfeddfa116322b89fdef282"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T12:23:49.343159+00:00",
+    "checked_at": "2026-10-06T12:28:50.665148+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
