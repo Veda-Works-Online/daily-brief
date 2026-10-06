@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-06T08:00:30.143027+00:00",
+  "updated": "2026-10-06T08:30:26.660076+00:00",
   "items": [
+    {
+      "title": "What is Russia saying about death of woman linked to plague lab?",
+      "url": "https://bbc.co.uk/news/videos/cw4g1r1k1d0ro",
+      "source": "BBC World",
+      "published": "2026-10-06T07:58:53+00:00",
+      "retrieved_at": "2026-10-06T08:30:21.496537+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "BBC Verify looks into the death of a woman linked to plague lab in Siberia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "031209bc6e7a4d9e0afddabf"
+    },
     {
       "title": "Iran Faces Severe Challenges to Rebuild Missile and Drone Production",
       "url": "https://warontherocks.com/iran-faces-severe-challenges-to-rebuild-missile-and-drone-production",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b0616ca038e8502c66b55952"
-    },
-    {
-      "title": "Despite praise and White House visits, Trump avoids endorsing Netanyahu",
-      "url": "https://aljazeera.com/news/2026/10/1/despite-praise-and-white-house-visits-trump-avoids-endorsing-netanyahu",
-      "source": "Al Jazeera",
-      "published": "2026-10-01T17:23:12+00:00",
-      "retrieved_at": "2026-10-01T17:51:18.828858+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "In a Time interview, Trump avoids directly endorsing Netanyahu but defends him over reported October 7 warnings.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4e4fca96b806e2a2e97e4614"
     }
   ],
   "unverified_history": [
