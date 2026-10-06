@@ -11,6 +11,7 @@ import feedparser
 import requests
 from market_data import refresh_markets, read_json, atomic_write, now_iso
 from news_integrity import merge_news
+from open_llms import refresh_open_llms
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -642,7 +643,7 @@ def fetch_tech_news() -> list[dict]:
 # MAIN
 # ────────────────────────────────────────────────────────────────────
 
-def write_news(filename, new_items, category):
+def write_news(filename, new_items, category, catalog=None):
     path = DATA / filename
     existing = read_json(path) if path.exists() else {"items": []}
     merged = merge_news(new_items, existing.get("items", []), parse_date, category)
@@ -658,6 +659,8 @@ def write_news(filename, new_items, category):
     if any(i.get("verification_status") != "SOURCE_CONFIRMED" for i in existing.get("items", [])):
         output.setdefault("unverified_history", existing["items"])
     output["items"] = merged
+    if category == "tech" and catalog is not None:
+        output["open_llms"] = catalog
     if output != existing:
         output["updated"] = now_iso()
         atomic_write(path, output)
@@ -670,7 +673,9 @@ def main():
     regions = fetch_all_stocks()
     print({k: len(v) for k, v in regions.items()})
     print("Fetching and verifying publisher news...")
-    write_news("news_tech.json", fetch_tech_news(), "tech")
+    saved_tech = read_json(DATA / "news_tech.json") if (DATA / "news_tech.json").exists() else {}
+    catalog = refresh_open_llms(saved_tech.get("open_llms"))
+    write_news("news_tech.json", fetch_tech_news(), "tech", catalog=catalog)
     global_x_items = fetch_x_posts(X_GEO_QUERIES, "global", GEOPOLITICS_RE)
     for category, feeds, pattern, filename, signals in [
         ("india", INDIA_POLITICAL_FEEDS, INDIA_POLITICS_RE, "news_india.json", []),
