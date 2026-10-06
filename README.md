@@ -56,6 +56,17 @@ dispatch still runs after a worker failure, except when the run was cancelled.
 
 Checks: `python -m unittest discover -s tests -v` and `node tests/frontend.cjs`.
 
+Tech & AI News also shows the 20 newest open-licence text-generation models
+from selected official Hugging Face publishers. Every market/news cycle checks
+the model API; dashboard polling remains every minute. The list is independent
+of news time windows and the 15 AI / 5 other-tech news quota. Dates are Hub
+repository creation dates, not edit dates or independently verified release
+dates. Only publisher-declared Apache-2.0, MIT, BSD-2/3, ISC and CC0 weight
+licences qualify; restricted/unknown licences, gated models, adapters and
+GGUF/GGML uploads are excluded. Open training data and training code are not
+certified by this list. Provider failures retain saved models with stale labels;
+checks older than ten minutes show a stale warning.
+
 Free-source additions: Shenzhen Component (399001.SZ) uses Eastmoney when its
 identity/scale-validated quote is newer and under 30 minutes old. It is labelled
 indicative. TSM remains the US-listed ADR: its Yahoo market cap is corroborated
