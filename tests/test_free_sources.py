@@ -94,6 +94,37 @@ class FreeSourceTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError,'OLDER_CAP_OBSERVATION'):
             m.apply_free_source(row,'TSM',q,yahoo,now)
 
+    def test_same_session_corroboration_can_replace_later_indicative_snapshot(self):
+        q, yahoo, now = self.tsm()
+        observed = m.timestamp(yahoo['regularMarketTime']) + timedelta(seconds=2)
+        row = {'marketCap': Decimal('2090000000000'), 'field_metadata': {'marketCap': {
+            'validation_status': 'INDICATIVE', 'source': 'Google Finance',
+            'source_timestamp': observed.isoformat(),
+            'timestamp_scope': 'quote snapshot; provider market cap, not independently verified'}}}
+        out = m.apply_free_source(row, 'TSM', q, yahoo, now)
+        meta = out['field_metadata']['marketCap']
+        self.assertEqual(out['marketCap'], yahoo['marketCap'])
+        self.assertEqual(meta['validation_status'], 'VERIFIED')
+        self.assertEqual(meta['replaced_indicative_snapshot']['quote_timestamp_skew_seconds'], 2)
+        self.assertEqual(row['marketCap'], Decimal('2090000000000'))
+        self.assertEqual(out['field_metadata']['marketCapUSD'], meta)
+
+        for status in ['VERIFIED', 'STALE', 'DATA_UNAVAILABLE']:
+            with self.subTest(status=status), self.assertRaisesRegex(ValueError, 'OLDER_CAP_OBSERVATION'):
+                bad = deepcopy(row)
+                bad['field_metadata']['marketCap']['validation_status'] = status
+                m.apply_free_source(bad, 'TSM', q, yahoo, now)
+        for offset in [1201, 86400]:
+            with self.subTest(offset=offset), self.assertRaisesRegex(ValueError, 'OLDER_CAP_OBSERVATION'):
+                bad = deepcopy(row)
+                bad['field_metadata']['marketCap']['source_timestamp'] = (
+                    m.timestamp(yahoo['regularMarketTime']) + timedelta(seconds=offset)).isoformat()
+                m.apply_free_source(bad, 'TSM', q, yahoo, now)
+
+        conflicting = dict(q, marketCap=q['marketCap'] * Decimal('1.1'))
+        with self.assertRaisesRegex(ValueError, 'CAP_CONFLICT'):
+            m.apply_free_source(row, 'TSM', conflicting, yahoo, now)
+
     def test_generic_nasdaq_identity_and_selection(self):
         info=m.read_json(FIXTURES/'tsm_info.json')
         summary=m.read_json(FIXTURES/'tsm_summary.json')

@@ -61,11 +61,15 @@ function fmtGainLossPercent(n, exact) {
   if (n === null || n === undefined || n === '') return 'DATA UNAVAILABLE';
   const value = Number(n);
   if (!Number.isFinite(value)) return '—';
-  // Trim source decimals without rounding or changing the underlying value.
+  // Round the companion decimal directly, avoiding binary floating-point ties.
   const decimal = exact && /^-?\d+(\.\d+)?$/.test(String(exact))
     ? String(exact) : value.toLocaleString('en-US', { useGrouping: false, maximumFractionDigits: 20 });
-  const [whole, fraction = ''] = decimal.split('.');
-  return (value > 0 ? '+' : '') + formatDecimal(whole + '.' + fraction.padEnd(2, '0').slice(0, 2)) + '%';
+  const negative = decimal.startsWith('-');
+  const [whole, fraction = ''] = decimal.replace(/^-/, '').split('.');
+  let hundredths = BigInt(whole) * 100n + BigInt(fraction.padEnd(2, '0').slice(0, 2));
+  if (Number(fraction[2] || 0) >= 5) hundredths += 1n;
+  const rounded = String(hundredths / 100n) + '.' + String(hundredths % 100n).padStart(2, '0');
+  return (hundredths === 0n ? '' : negative ? '-' : '+') + formatDecimal(rounded) + '%';
 }
 
 function escapeHtml(s) {
@@ -75,8 +79,8 @@ function escapeHtml(s) {
 // ── Data loading ──────────────────────────────────────
 function dataURL(path) {
   // Read commits directly in production: data updates do not wait for Pages builds.
-  return typeof window !== 'undefined' && window.location?.hostname === 'veda575.github.io'
-    ? 'https://raw.githubusercontent.com/veda575/daily-brief/main/' + path : path;
+  return typeof window !== 'undefined' && window.location?.hostname === 'veda-works-online.github.io'
+    ? 'https://raw.githubusercontent.com/Veda-Works-Online/daily-brief/main/' + path : path;
 }
 function validateSnapshot(data, path) {
   if (path === 'data/stocks.json') {
@@ -251,17 +255,24 @@ function renderStocksTable(stocks, region, usdInr = null) {
     s = {...s, display_timezone: s.display_timezone || REGION_TIMEZONES[region]};
     const commodity = isCommodities ? commodityDisplay(s, usdInr) : null;
     const field = (isCurrency || isIndexes || isCommodities) ? 'indexValue' : 'marketCap';
+    const capMeta = s.field_metadata?.marketCap;
+    const capDetails = capMeta ? [capMeta.validation_status, capMeta.source,
+      quoteTime(capMeta.source_timestamp, s.display_timezone), capMeta.valuation_basis,
+      capMeta.calculation, capMeta.fx_source ? 'FX: ' + capMeta.fx_source + ' · ' + quoteTime(capMeta.fx_source_timestamp, s.display_timezone) : '',
+      capMeta.source_check?.nasdaq_error ? 'Nasdaq check: ' + capMeta.source_check.nasdaq_error : ''].filter(Boolean).join(' · ') : 'DATA UNAVAILABLE';
+    const listing = ['BABA', 'TSM'].includes(s.ticker) ? '<br><small>US-listed ADR · USD quote</small>' : '';
     const value = isCommodities ? escapeHtml(commodity.rate) : !canDisplay(s, field) ? 'DATA UNAVAILABLE' : isCurrency
       ? fmtFxValue(s.indexValue, exactValue(s, 'indexValue'))
       : isIndexes
         ? fmtIndexValue(s.indexValue, exactValue(s, 'indexValue'))
         : fmtMarketCap(s.marketCap, s.currency);
     return `<tr>
-      <td><strong>${escapeHtml(isCommodities && s.ticker === 'ZS=F' ? 'Soyabeans' : s.name)}</strong>${'<br><small>' + escapeHtml(quoteStatus(s)) + '</small>'}</td>
+      <td><strong>${escapeHtml(isCommodities && s.ticker === 'ZS=F' ? 'Soyabeans' : s.name)}</strong>${listing}${'<br><small>' + escapeHtml(quoteStatus(s)) + '</small>'}</td>
       <td class="muted" title="${escapeHtml(quoteStatus(s))}">${s.ticker === 'GOLD_24K_HYDERABAD' ? '<a href="' + escapeHtml(s.source === 'Economic Times' ? 'https://economictimes.indiatimes.com/goldrate/city-hyderabad,msid-88971989.cms' : 'https://groww.in/gold-rates/gold-rate-today-in-hyderabad') + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(s.source || 'Groww') + '</a>' : escapeHtml(marketReference(s, field, isCommodities ? usdInr : null))}</td>
       <td class="muted">${escapeHtml(s.sector || '')}</td>
       ${isCommodities ? '<td title="' + escapeHtml(commodity.quantityTitle) + '">' + escapeHtml(commodity.quantity) + '</td>' : ''}
-      <td class="num" title="${escapeHtml(isCommodities ? commodity.title + ' · ' + commodity.note : exactValue(s, field) || 'DATA UNAVAILABLE')}">${value}${isCommodities ? '<br><small>' + escapeHtml(commodity.note) + '</small>' : field === 'marketCap' ? '' : fieldStatus(s, field)}</td>
+      ${field === 'marketCap' ? '<td class="num">' + (canDisplay(s, 'indexValue') ? escapeHtml(sym(s.quote_currency || s.currency)) + fmtIndexValue(s.indexValue, exactValue(s, 'indexValue')) : 'DATA UNAVAILABLE') + '</td>' : ''}
+      <td class="num" title="${escapeHtml(isCommodities ? commodity.title + ' · ' + commodity.note : field === 'marketCap' ? capDetails : exactValue(s, field) || 'DATA UNAVAILABLE')}">${value}${isCommodities ? '<br><small>' + escapeHtml(commodity.note) + '</small>' : field === 'marketCap' ? '' : fieldStatus(s, field)}</td>
       <td class="num">${canDisplay(s, 'changePercent') ? fmtGainLossPercent(s.changePercent, exactValue(s, 'changePercent')) : 'DATA UNAVAILABLE'}</td>
     </tr>`;
   }).join('');
@@ -270,7 +281,7 @@ function renderStocksTable(stocks, region, usdInr = null) {
     ' · Source refresh target: 5 minutes · Dashboard checks every minute · Quotes may be delayed</p>' : '';
   return `${hero}${regionalClock}<table>
     <thead><tr>
-      <th>${isCommodities ? 'Commodity' : isCurrency ? 'Currency Pair' : 'Company'}</th><th>Reference</th><th>${isCommodities ? 'Category' : isCurrency ? 'Conversion' : 'Sector'}</th>${isCommodities ? '<th>Quantity</th>' : ''}<th>${isCurrency ? 'Exchange Rate' : isCommodities ? 'Market Rate (INR)' : isIndexes ? 'Index Value' : 'Mkt Cap'}</th><th>Gain / Loss %</th>
+      <th>${isCommodities ? 'Commodity' : isCurrency ? 'Currency Pair' : isIndexes ? 'Index' : 'Company'}</th><th>Reference</th><th>${isCommodities ? 'Category' : isCurrency ? 'Conversion' : 'Sector'}</th>${isCommodities ? '<th>Quantity</th>' : ''}${!isCommodities && !isCurrency && !isIndexes ? '<th>Share Price</th>' : ''}<th>${isCurrency ? 'Exchange Rate' : isCommodities ? 'Market Rate (INR)' : isIndexes ? 'Index Value' : 'Mkt Cap'}</th><th title="Daily change versus the source previous close; commodity changes use the source benchmark, before INR conversion">Daily Gain / Loss %</th>
     </tr></thead>
     <tbody>${rows}</tbody>
   </table>`;
