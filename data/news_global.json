@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T20:26:52.598862+00:00",
+  "updated": "2026-10-06T20:41:54.542289+00:00",
   "items": [
     {
       "title": "Kindling, Catalyst, and Containment: Will the West Bank Ignite?",
@@ -16,6 +16,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3c4e28f248610f78178ed139"
+    },
+    {
+      "title": "Is there a MAGA after Trump?",
+      "url": "https://aljazeera.com/video/lets-focus/2026/10/6/is-there-a-maga-after-trump",
+      "source": "Al Jazeera",
+      "published": "2026-10-06T20:07:11+00:00",
+      "retrieved_at": "2026-10-06T20:41:50.939764+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "From the Epstein files to the war on Iran, Josh Rushing examines the cracks forming within MAGA in Trump's second term.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9c6a290db05e9d60a68849a6"
     },
     {
       "title": "Russia denies imposing anti-plague measures after lab worker death",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cd6e73baf40f6f492c8da8c4"
-    },
-    {
-      "title": "Greece pushes EU to suspend asylum during mass migration surges",
-      "url": "https://aljazeera.com/news/2026/10/2/greece-pushes-eu-to-suspend-asylum-during-mass-migration-surges",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T06:16:14+00:00",
-      "retrieved_at": "2026-10-02T06:43:14.131547+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "EU migration pact improvements face criticism for insufficient tools to manage large-scale migration emergencies.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "804d88316373a72820ad3f49"
     }
   ],
   "unverified_history": [
