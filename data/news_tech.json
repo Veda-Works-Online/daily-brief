@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-06T13:56:08.017801+00:00",
+  "updated": "2026-10-06T14:01:10.834622+00:00",
   "items": [
+    {
+      "title": "Pinterest’s AI now turns beauty Pins into action plans",
+      "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans",
+      "source": "TechCrunch AI",
+      "published": "2026-10-06T14:00:49+00:00",
+      "retrieved_at": "2026-10-06T14:01:05.169515+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times and maintenance needs.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0552b2ecf8f2fd2b96f7f6db"
+    },
+    {
+      "title": "Paramount closes historic Warner Bros. merger to form Skydance",
+      "url": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance",
+      "source": "TechCrunch",
+      "published": "2026-10-06T13:57:32+00:00",
+      "retrieved_at": "2026-10-06T14:01:05.532163+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The deal brings together two major streaming platforms, Paramount+ and HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food Network.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a9428383c4200ee0b27d8dc2"
+    },
     {
       "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
       "url": "https://wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e9c0b30b6f989da03ad423f0"
-    },
-    {
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
-      "source": "TechCrunch",
-      "published": "2026-09-27T01:30:00+00:00",
-      "retrieved_at": "2026-09-27T01:30:56.812350+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a0c09ac90136727a1485e9b9"
-    },
-    {
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs",
-      "source": "TechCrunch AI",
-      "published": "2026-09-26T21:02:06+00:00",
-      "retrieved_at": "2026-09-28T22:58:28.054306+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942 million in healthcare spending over a two-year period.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bd49f6435dfd8974245601c3"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T13:55:59.249979+00:00",
+    "checked_at": "2026-10-06T14:01:04.180675+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
