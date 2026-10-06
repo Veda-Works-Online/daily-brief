@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-06T10:16:10.123998+00:00",
+  "updated": "2026-10-06T10:48:12.085306+00:00",
   "items": [
+    {
+      "title": "Sailors missing after fresh attacks on Black Sea vessels, Bulgaria says",
+      "url": "https://bbc.co.uk/news/articles/c8ly0v5r602eo",
+      "source": "BBC World",
+      "published": "2026-10-06T10:37:19+00:00",
+      "retrieved_at": "2026-10-06T10:48:06.766490+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8c4db5413823491d4663b02b"
+    },
     {
       "title": "Indian opposition MPs detained in protest against election chief",
       "url": "https://bbc.co.uk/news/articles/crpdgvx82831o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8d344cb544f8b957ef971520"
-    },
-    {
-      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-      "url": "https://bbc.co.uk/news/articles/cqg7k7v499jjo",
-      "source": "BBC World",
-      "published": "2026-10-01T19:38:30+00:00",
-      "retrieved_at": "2026-10-01T19:41:55.910802+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "37456574ef8a637c5d4486ee"
     }
   ],
   "unverified_history": [
