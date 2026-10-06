@@ -271,7 +271,6 @@ function renderStocksTable(stocks, region, usdInr = null) {
       <td class="muted" title="${escapeHtml(quoteStatus(s))}">${s.ticker === 'GOLD_24K_HYDERABAD' ? '<a href="' + escapeHtml(s.source === 'Economic Times' ? 'https://economictimes.indiatimes.com/goldrate/city-hyderabad,msid-88971989.cms' : 'https://groww.in/gold-rates/gold-rate-today-in-hyderabad') + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(s.source || 'Groww') + '</a>' : escapeHtml(marketReference(s, field, isCommodities ? usdInr : null))}</td>
       <td class="muted">${escapeHtml(s.sector || '')}</td>
       ${isCommodities ? '<td title="' + escapeHtml(commodity.quantityTitle) + '">' + escapeHtml(commodity.quantity) + '</td>' : ''}
-      ${field === 'marketCap' ? '<td class="num">' + (canDisplay(s, 'indexValue') ? escapeHtml(sym(s.quote_currency || s.currency)) + fmtIndexValue(s.indexValue, exactValue(s, 'indexValue')) : 'DATA UNAVAILABLE') + '</td>' : ''}
       <td class="num" title="${escapeHtml(isCommodities ? commodity.title + ' · ' + commodity.note : field === 'marketCap' ? capDetails : exactValue(s, field) || 'DATA UNAVAILABLE')}">${value}${isCommodities ? '<br><small>' + escapeHtml(commodity.note) + '</small>' : field === 'marketCap' ? '' : fieldStatus(s, field)}</td>
       <td class="num">${canDisplay(s, 'changePercent') ? fmtGainLossPercent(s.changePercent, exactValue(s, 'changePercent')) : 'DATA UNAVAILABLE'}</td>
     </tr>`;
@@ -281,7 +280,7 @@ function renderStocksTable(stocks, region, usdInr = null) {
     ' · Source refresh target: 5 minutes · Dashboard checks every minute · Quotes may be delayed</p>' : '';
   return `${hero}${regionalClock}<table>
     <thead><tr>
-      <th>${isCommodities ? 'Commodity' : isCurrency ? 'Currency Pair' : isIndexes ? 'Index' : 'Company'}</th><th>Reference</th><th>${isCommodities ? 'Category' : isCurrency ? 'Conversion' : 'Sector'}</th>${isCommodities ? '<th>Quantity</th>' : ''}${!isCommodities && !isCurrency && !isIndexes ? '<th>Share Price</th>' : ''}<th>${isCurrency ? 'Exchange Rate' : isCommodities ? 'Market Rate (INR)' : isIndexes ? 'Index Value' : 'Mkt Cap'}</th><th title="Daily change versus the source previous close; commodity changes use the source benchmark, before INR conversion">Daily Gain / Loss %</th>
+      <th>${isCommodities ? 'Commodity' : isCurrency ? 'Currency Pair' : isIndexes ? 'Index' : 'Company'}</th><th>Reference</th><th>${isCommodities ? 'Category' : isCurrency ? 'Conversion' : 'Sector'}</th>${isCommodities ? '<th>Quantity</th>' : ''}<th>${isCurrency ? 'Exchange Rate' : isCommodities ? 'Market Rate (INR)' : isIndexes ? 'Index Value' : 'Mkt Cap'}</th><th title="Daily change versus the source previous close; commodity changes use the source benchmark, before INR conversion">Daily Gain / Loss %</th>
     </tr></thead>
     <tbody>${rows}</tbody>
   </table>`;

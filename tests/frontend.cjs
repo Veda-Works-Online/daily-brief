@@ -106,8 +106,8 @@ ctx.wrongFx={...ctx.inr,base_currency:'INR',quote_currency:'USD'};
 assert.equal(vm.runInContext('commodityDisplay(corn,wrongFx).rate',ctx),'DATA UNAVAILABLE');
 assert.equal((commodityHtml.match(/<th(?:\s[^>]*)?>/g)||[]).length,6);
 assert(commodityHtml.includes('<th>Quantity</th>'));
-assert.equal((html.match(/<th(?:\s[^>]*)?>/g)||[]).length,6);
-assert(html.includes('<th>Share Price</th>'));
+assert.equal((html.match(/<th(?:\s[^>]*)?>/g)||[]).length,5);
+assert(!html.includes('Share Price'));
 assert(html.includes('Daily Gain / Loss %'));
 ctx.gold.indexValue=null;
 assert.equal(vm.runInContext('commodityDisplay(gold).rate',ctx),'DATA UNAVAILABLE');
@@ -157,7 +157,13 @@ ctx.adr = {name:'TSMC',ticker:'TSM',marketCap:2090000000000,indexValue:485.8,
     indexValue:{validation_status:'VERIFIED',decimal:'485.8'}}};
 const adrHtml = ctx.renderStocksTable([ctx.adr], 'asia');
 assert(adrHtml.includes('US-listed ADR · USD quote'));
-assert(adrHtml.includes('$485.8'));
+for (const region of ['us', 'asia', 'india']) {
+  const stockHtml = ctx.renderStocksTable([ctx.adr], region);
+  assert(!stockHtml.includes('Share Price'));
+  assert(!stockHtml.includes('$485.8'));
+  assert.equal((stockHtml.match(/<th(?:\s[^>]*)?>/g)||[]).length, 5);
+  assert.equal((stockHtml.match(/<td(?:\s[^>]*)?>/g)||[]).length, 5);
+}
 assert(adrHtml.includes('$2.09T'));
 const olderSnapshot = {refresh:{completed_at:'2026-09-30T04:00:00Z'}};
 const currentSnapshot = {refresh:{completed_at:'2026-09-30T04:05:00Z'}};
