@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-06T09:45:25.229158+00:00",
+  "updated": "2026-10-06T09:55:22.585641+00:00",
   "items": [
+    {
+      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+      "url": "https://bbc.co.uk/news/articles/cr4g1qxzwyj1o",
+      "source": "BBC World",
+      "published": "2026-10-06T09:48:37+00:00",
+      "retrieved_at": "2026-10-06T09:55:17.447304+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d6ec1a19a6c96c355456e878"
+    },
     {
       "title": "‘Hitting the right nail’: Refugee rescue group defiant as Greece targets it",
       "url": "https://aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b545a246dd7ef94025f103a6"
-    },
-    {
-      "title": "School protests spread as fires, blockades deepen unrest in France",
-      "url": "https://aljazeera.com/news/2026/10/1/school-protests-spread-as-fires-blockades-deepen-unrest-in-france",
-      "source": "Al Jazeera",
-      "published": "2026-10-01T18:18:18+00:00",
-      "retrieved_at": "2026-10-01T18:27:13.229198+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Police have detained hundreds as students protest overcrowded classrooms, teacher shortages and crumbling facilities.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bed3a27472dfe4239e7ba200"
     }
   ],
   "unverified_history": [
