@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-06T12:49:16.937795+00:00",
+  "updated": "2026-10-06T12:54:15.917685+00:00",
   "items": [
+    {
+      "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
+      "url": "https://aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two",
+      "source": "Al Jazeera",
+      "published": "2026-10-06T12:42:19+00:00",
+      "retrieved_at": "2026-10-06T12:54:11.096608+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Russia says 290 drones targeted Moscow and nearby regions in the overnight Ukrainian assault.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8a8f2e766d5aa1501e0104fe"
+    },
     {
       "title": "Mapping where US bombers are based globally",
       "url": "https://aljazeera.com/news/2026/10/6/mapping-where-us-bombers-are-based-around-the-world",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c81ae7c5dd9c975bd5214580"
-    },
-    {
-      "title": "Spain and China are cosying up - to the anger of many in the EU",
-      "url": "https://bbc.co.uk/news/articles/c6vgyg824m02o",
-      "source": "BBC World",
-      "published": "2026-10-01T23:42:33+00:00",
-      "retrieved_at": "2026-10-02T09:44:06.315231+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Amid global tumult, the two countries' alliance is not the only unlikely pairing.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0d42e818dea932167424a9b8"
     }
   ],
   "unverified_history": [
