@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-06T16:56:11.392790+00:00",
+  "updated": "2026-10-06T17:01:15.578405+00:00",
   "items": [
     {
       "title": "Mirror Particle is building a ‘world model’ of human behavior",
       "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior",
       "source": "TechCrunch AI",
       "published": "2026-10-06T16:35:00+00:00",
-      "retrieved_at": "2026-10-06T16:36:06.937040+00:00",
+      "retrieved_at": "2026-10-06T17:01:10.688288+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Mirror Particle will launch at TechCrunch Disrupt Startup Battlefield with a world model built from scratch to predict human behavior, arguing LLM roleplay falls short for market research and brand strategy.",
+      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4218,6 +4218,23 @@
       "story_fingerprint": "d360b934b84184e0fbf09370"
     },
     {
+      "title": "Welcome RL Environments to the hub",
+      "url": "https://huggingface.co/blog/rl-environments",
+      "source": "Hugging Face",
+      "published": "2026-09-28T00:00:00+00:00",
+      "retrieved_at": "2026-10-06T17:01:10.454522+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "4354a24ddafc123499065235"
+    },
+    {
       "title": "Are you a Codex Original?",
       "url": "https://openai.com/form/codex-originals",
       "source": "OpenAI",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "0962b92db672441e6860adbc"
-    },
-    {
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "source": "OpenAI",
-      "published": "2026-09-28T00:00:00+00:00",
-      "retrieved_at": "2026-09-28T21:18:00.009107+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "c2f19d517196393cce4ede20"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T16:56:04.745552+00:00",
+    "checked_at": "2026-10-06T17:01:09.832996+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
