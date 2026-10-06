@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-06T16:31:16.218151+00:00",
+  "updated": "2026-10-06T16:36:12.229369+00:00",
   "items": [
+    {
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior",
+      "source": "TechCrunch AI",
+      "published": "2026-10-06T16:35:00+00:00",
+      "retrieved_at": "2026-10-06T16:36:06.937040+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Mirror Particle will launch at TechCrunch Disrupt Startup Battlefield with a world model built from scratch to predict human behavior, arguing LLM roleplay falls short for market research and brand strategy.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "62f6a7636a19156abbf1493b"
+    },
     {
       "title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
       "url": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "4354a24ddafc123499065235"
-    },
-    {
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump",
-      "source": "TechCrunch AI",
-      "published": "2026-09-27T20:34:28+00:00",
-      "retrieved_at": "2026-09-28T21:37:56.511633+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3b7307f781721eba74d8d662"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T16:31:06.713429+00:00",
+    "checked_at": "2026-10-06T16:36:06.486329+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
