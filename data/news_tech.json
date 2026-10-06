@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-06T10:32:59.861791+00:00",
+  "updated": "2026-10-06T11:04:32.046616+00:00",
   "items": [
+    {
+      "title": "GamerCard Review: A Flawed Pocket-Size Retro Handheld",
+      "url": "https://wired.com/review/gamercard",
+      "source": "Wired",
+      "published": "2026-10-06T11:00:00+00:00",
+      "retrieved_at": "2026-10-06T11:04:24.903734+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "This pocket-size Raspberry Pi handheld has a fantastic retro-ready screen, but awful controls and awkward software deal it a losing hand.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f7d7f2bfb905043cf107cab4"
+    },
     {
       "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
       "url": "https://wired.com/story/the-big-interview-podcast-kevin-roose",
@@ -19,40 +36,6 @@
       "story_fingerprint": "1f037801ef560bbd17d0f33b"
     },
     {
-      "title": "The Best Prime Day Apple Deals on Our Favorite MacBooks, AirPods and More (2026)",
-      "url": "https://wired.com/story/best-prime-day-apple-deals-10-06-2026",
-      "source": "Wired",
-      "published": "2026-10-06T10:26:48+00:00",
-      "retrieved_at": "2026-10-06T10:32:51.798798+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "We’re already seeing some discounts on our favorite Apple tech, whether its devices or third-party accessories.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f9407ec025ba1db311509556"
-    },
-    {
-      "title": "I Found the 16 Best Prime Day Tech and Gadget Deals (October 2026)",
-      "url": "https://wired.com/story/best-prime-day-tech-deals-10-06-2026",
-      "source": "Wired",
-      "published": "2026-10-06T08:37:23+00:00",
-      "retrieved_at": "2026-10-06T09:30:14.736825+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6c89b201ce2985d2acab2394"
-    },
-    {
       "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
       "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
       "source": "Hugging Face",
@@ -68,23 +51,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "12f2259140a30f62dc9986d7"
-    },
-    {
-      "title": "Litter-Robot Promo Codes: Up to $150 Off",
-      "url": "https://wired.com/story/litter-robot-promo-code",
-      "source": "Wired",
-      "published": "2026-10-06T05:00:00+00:00",
-      "retrieved_at": "2026-10-06T05:05:12.551489+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ae6a1a7f10e60dd09935a597"
     },
     {
       "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
@@ -4233,23 +4199,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d9d76d0b714ba353dfd1f25e"
-    },
-    {
-      "title": "Old-School Credit Card Scams Are Far From Dead",
-      "url": "https://wired.com/story/kernel-panic-old-timey-credit-card-scams",
-      "source": "Wired",
-      "published": "2026-09-26T12:00:00+00:00",
-      "retrieved_at": "2026-09-26T12:08:40.003312+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "In an era of increasingly sophisticated AI-fueled scams, a retro threat may be lurking in your mailbox.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4d52a3e82014a13ba3a175c1"
     }
   ],
   "unverified_history": [
