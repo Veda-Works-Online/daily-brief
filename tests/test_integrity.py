@@ -13,6 +13,21 @@ import fetch_data as fetcher
 
 
 class IntegrityTests(unittest.TestCase):
+    def test_general_software_is_not_classified_as_ai(self):
+        self.assertFalse(fetcher.TECH_AI_RE.search(
+            "GamerCard Review: Raspberry Pi handheld with awkward software"))
+        self.assertFalse(fetcher.TECH_AI_RE.search("Cloud software startup announces chip factory"))
+        self.assertTrue(fetcher.TECH_AI_RE.search("Startup releases a new AI model"))
+
+    def test_saved_general_tech_classification_is_corrected(self):
+        story = dict(title="Gaming handheld review", summary="Awkward software", source="Wired",
+            isAI=True, verification_status="SOURCE_CONFIRMED")
+        with patch.object(fetcher, "read_json", return_value={"items": [story]}), \
+             patch.object(fetcher, "merge_news", return_value=[story]), \
+             patch.object(fetcher, "atomic_write") as save:
+            write_news("news_tech.json", [], "tech")
+        self.assertFalse(save.call_args.args[1]["items"][0]["isAI"])
+
     def test_promotional_news_excluded_without_blocking_business_deals(self):
         for title in [
             "The Best Prime Day Apple Deals on Our Favorite MacBooks",
