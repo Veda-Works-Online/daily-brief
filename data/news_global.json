@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T07:35:29.590996+00:00",
+  "updated": "2026-10-06T07:40:25.014753+00:00",
   "items": [
     {
       "title": "Iran Faces Severe Challenges to Rebuild Missile and Drone Production",
@@ -16,6 +16,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0bbb5c6ba89b9c1b3fcb51a0"
+    },
+    {
+      "title": "Children brave snipers and mortars to go to school near Yemen front line",
+      "url": "https://bbc.co.uk/news/articles/c670pzpv9gk4o",
+      "source": "BBC World",
+      "published": "2026-10-06T07:23:24+00:00",
+      "retrieved_at": "2026-10-06T07:40:20.011903+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "In rare access to Taiz, the BBC World Service speaks to children, teachers and families affected by the war.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "38c4ddc98584c7467715024d"
     },
     {
       "title": "Trump jokes about letting Iran bomb Los Angeles and San Diego",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5b9c69e14a0676ee0be7b390"
-    },
-    {
-      "title": "A Tajik Bank Shuts Side Door for Russian Cardholders",
-      "url": "https://thediplomat.com/2026/10/a-tajik-bank-shuts-side-door-for-russian-cardholders",
-      "source": "The Diplomat",
-      "published": "2026-10-01T17:10:00+00:00",
-      "retrieved_at": "2026-10-02T16:40:16.448652+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Humo Bank's ultimatum to its Russian clients shows how Western sanctions can shape Tajikistan's banking sector.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "73f1acff79b5206c7c91c779"
     }
   ],
   "unverified_history": [
