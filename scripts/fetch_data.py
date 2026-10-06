@@ -117,6 +117,14 @@ INDIA_STOCKS = [
     ("TANLA.NS",      "Tanla Platforms Ltd",      "Cloud Communications / CPaaS"),
 ]
 
+RAMCO_GROUP_STOCKS = [
+    ("RAMCOCEM.NS",   "The Ramco Cements Limited", "Cement / Building Materials"),
+    ("RAMCOIND.NS",   "Ramco Industries Limited", "Building Materials / Textiles"),
+    ("RAMCOSYS.NS",   "Ramco Systems Limited", "Enterprise Software / Cloud ERP"),
+    ("532503.BO",     "Rajapalayam Mills Limited", "Textiles / Cotton Yarn"),
+]
+INDIA_STOCKS.extend(RAMCO_GROUP_STOCKS)
+
 # ────────────────────────────────────────────────────────────────────
 # NEWS SOURCES
 # ────────────────────────────────────────────────────────────────────
@@ -484,6 +492,23 @@ def fetch_x_posts(queries: list[str], section: str, topic_re: re.Pattern,
 
 def fetch_all_stocks():
     payload = read_json(DATA / "stocks.json")
+    # Add missing listings to the latest snapshot before the normal source checks.
+    india = payload['regions']['india']
+    symbols = {row.get('source_symbol') or row['ticker'] for row in india}
+    for symbol, name, sector in RAMCO_GROUP_STOCKS:
+        if symbol in symbols:
+            continue
+        india.append({
+            'ticker': symbol, 'source_symbol': symbol, 'name': name, 'sector': sector,
+            'currency': 'INR', 'quote_currency': 'INR', 'instrument_type': 'EQUITY',
+            'exchange': 'BSE' if symbol.endswith('.BO') else 'NSI',
+            'market_timezone': 'Asia/Kolkata',
+            'indexValue': None, 'marketCap': None, 'changePercent': None,
+            'source_timestamp': None, 'validation_status': 'DATA_UNAVAILABLE',
+            'validationStatus': 'DATA_UNAVAILABLE',
+        })
+        symbols.add(symbol)
+    india.sort(key=lambda row: row['name'].casefold())
     updated, attempts = refresh_markets(payload)
     updated['refresh'] = {
         'completed_at': now_iso(), 'interval_seconds': 300,
