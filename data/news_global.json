@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-06T21:06:50.046197+00:00",
+  "updated": "2026-10-06T21:31:52.251935+00:00",
   "items": [
+    {
+      "title": "Tokyo protests US military presence after Okinawa killing",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing",
+      "source": "Al Jazeera",
+      "published": "2026-10-06T21:20:28+00:00",
+      "retrieved_at": "2026-10-06T21:31:48.945605+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Protesters rallied outside the US Embassy in Tokyo after a US Marine was arrested for the killing of a 39-year-old woman",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b65c72c85880908f318afef7"
+    },
+    {
+      "title": "US firm gets $2.9bn sub deal after boss joins war study with Musk",
+      "url": "https://aljazeera.com/news/2026/10/6/us-firm-gets-2-9bn-sub-deal-after-boss-joins-war-study-with-musk",
+      "source": "Al Jazeera",
+      "published": "2026-10-06T21:11:39+00:00",
+      "retrieved_at": "2026-10-06T21:31:48.945616+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Anduril said it would invest $3.7bn to develop shipyard that would build submarine parts.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b2d7a70899a256387edd0314"
+    },
     {
       "title": "US CDC says it’s ‘aware of and closely monitoring’ Russian plague case",
       "url": "https://aljazeera.com/news-analysis/2026/10/6/us-cdc-says-its-aware-of-and-closely-monitoring-russian-plague-case",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "80a517ebd167bff1ef657a69"
-    },
-    {
-      "title": "Indian police detain politicians at protests over election chief",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/2/02-10-clip-india-protests-election-jantar-mantar-in-mp4",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T07:59:49+00:00",
-      "retrieved_at": "2026-10-02T08:23:11.806028+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Police in New Delhi have detained opposition politicians and demonstrators during protests.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4f90305634cf090e4f41576e"
-    },
-    {
-      "title": "I opened cockpit door of plane while being attacked, says pilot of Israel-Dubai flight",
-      "url": "https://bbc.co.uk/news/articles/c639m98gde00o",
-      "source": "BBC World",
-      "published": "2026-10-02T07:36:37+00:00",
-      "retrieved_at": "2026-10-02T07:38:12.732904+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Capt Smit Machchhar, who was stabbed on the Israel-bound flight, has been hailed as a hero.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "28ee3f57961a4ffdff50e9a1"
     }
   ],
   "unverified_history": [
