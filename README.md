@@ -47,7 +47,11 @@ and previous close, with calculation inputs and timestamps in field metadata.
 Market-cap cells show only formatted values, and GAIN/LOSS% cells show only signed
 percentage values. Missing data remains explicitly unavailable. Verification, source-time and FX
 metadata remain in the data, and row-level quote status remains visible.
-Worker failures exit nonzero and save `work/refresh-failure.json`; successor
+If an edit advances main during publication, the worker discards only its own
+unpushed generated snapshot and fetches the latest branch before regenerating
+data. It retries up to three times, then leaves the checkout clean and resumes
+at the next refresh slot. It never force-pushes or rebases old market snapshots.
+Other worker failures exit nonzero and save `work/refresh-failure.json`; successor
 dispatch still runs after a worker failure, except when the run was cancelled.
 
 Checks: `python -m unittest discover -s tests -v` and `node tests/frontend.cjs`.
