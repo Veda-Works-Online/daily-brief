@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-06T13:36:14.095872+00:00",
+  "updated": "2026-10-06T13:46:14.195786+00:00",
   "items": [
+    {
+      "title": "Russia responds to US help offer after death of plague researcher",
+      "url": "https://bbc.co.uk/news/videos/c8e36y796enno",
+      "source": "BBC World",
+      "published": "2026-10-06T13:32:42+00:00",
+      "retrieved_at": "2026-10-06T13:46:09.126012+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US and Russia have each offered to help each other tackling infectious diseases.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7d2b566e760cbd35d329e5a4"
+    },
     {
       "title": "Tigray war may spill over to Eritrea — helped by Prime Minister Abiy Ahmed's rhetoric",
       "url": "https://dw.com/en/tigray-war-may-spill-over-to-eritrea-helped-by-prime-minister-abiy-ahmed-s-rhetoric/a-79562957",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "627e57cd2b1b8eeb910d1362"
-    },
-    {
-      "title": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
-      "url": "https://aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T00:00:00+00:00",
-      "retrieved_at": "2026-10-02T00:17:44.579180+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US deploys Roosevelt strike group and 2,000 Marines to the Middle East as part of a wider buildup around Iran.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5ade93a03bf292a3c967c352"
     }
   ],
   "unverified_history": [
