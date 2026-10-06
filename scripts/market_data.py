@@ -46,7 +46,9 @@ ALIASES = {'TSM': ['taiwan semiconductor', 'taiwan semicndctr mnufctrng'],
            'GE': ['general electric company'], 'TCS.NS': ['tata consultancy'],
            'SPCX': ['space exploration technologies'], 'ETERNAL.NS': ['eternal'],
            'KIMS.NS': ['krishna institute'], 'AMD': ['advanced micro devices'],
-           'DIVISLAB.NS': ['divi s laboratories', 'divis laboratories']}
+           'DIVISLAB.NS': ['divi s laboratories', 'divis laboratories'],
+           'ADANIPORTS.NS': ['adani ports and special economic zone',
+                             'adani ports special economic zone']}
 CALENDARS = {'NMS': 'XNYS', 'NGM': 'XNYS', 'NCM': 'XNYS', 'NYQ': 'XNYS',
              'NIM': 'XNYS', 'HKG': 'XHKG', 'KSC': 'XKRX', 'SHH': 'XSHG'}
 
