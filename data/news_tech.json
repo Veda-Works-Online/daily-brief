@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-06T15:56:19.757448+00:00",
+  "updated": "2026-10-06T16:01:19.067868+00:00",
   "items": [
+    {
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits",
+      "source": "TechCrunch AI",
+      "published": "2026-10-06T16:00:00+00:00",
+      "retrieved_at": "2026-10-06T16:01:09.926837+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "26c5fb0c588961f64076bf2d"
+    },
     {
       "title": "LibreOffice says ‘no AI’ is now a software feature",
       "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d8b4b31efeeab8cd8be455ed"
-    },
-    {
-      "title": "Anthropic’s Dario Amodei gets the ‘SNL’ treatment",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment",
-      "source": "TechCrunch AI",
-      "published": "2026-09-27T16:30:00+00:00",
-      "retrieved_at": "2026-09-28T21:57:55.358759+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "\"Saturday Night Live\" took on the AI industry’s recent warnings of doom last night, as cast member Jane Wickline offered her impression of Anthropic CEO Dario Amodei.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e21b787cf02d3a25fc12ee82"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T15:56:14.056343+00:00",
+    "checked_at": "2026-10-06T16:01:09.501626+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
