@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-06T12:39:03.503289+00:00",
+  "updated": "2026-10-06T12:44:05.481735+00:00",
   "items": [
+    {
+      "title": "Facebook tests going Reels-first in India",
+      "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india",
+      "source": "TechCrunch",
+      "published": "2026-10-06T12:38:53+00:00",
+      "retrieved_at": "2026-10-06T12:44:01.431588+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7e87804c563c4ffe98c51139"
+    },
     {
       "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
       "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "7d56b18456a3ad0472ce1e36"
-    },
-    {
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "url": "https://openai.com/index/wayfair",
-      "source": "OpenAI",
-      "published": "2026-09-25T00:00:00+00:00",
-      "retrieved_at": "2026-10-06T11:09:24.706669+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "e0e5556662372d8aeddfdd36"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T12:38:55.860380+00:00",
+    "checked_at": "2026-10-06T12:43:59.984557+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
