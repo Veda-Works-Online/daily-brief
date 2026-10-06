@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-06T08:30:26.660076+00:00",
+  "updated": "2026-10-06T08:55:28.854600+00:00",
   "items": [
+    {
+      "title": "Yemen war: What’s the latest on the battlefield?",
+      "url": "https://aljazeera.com/news/2026/10/6/yemen-war-whats-the-latest-on-the-battlefield",
+      "source": "Al Jazeera",
+      "published": "2026-10-06T08:27:51+00:00",
+      "retrieved_at": "2026-10-06T08:55:23.978362+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The internationally recognised government retakes territories from the Houthis as fighting rages on the western coast.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3f67100608035d20bf4b515d"
+    },
     {
       "title": "What is Russia saying about death of woman linked to plague lab?",
       "url": "https://bbc.co.uk/news/videos/cw4g1r1k1d0ro",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "352edf94a64183aab8e20fc6"
-    },
-    {
-      "title": "Renee Good’s family sues Trump administration over fatal ICE shooting",
-      "url": "https://aljazeera.com/news/2026/10/1/renee-goods-family-sues-trump-administration-over-fatal-ice-shooting",
-      "source": "Al Jazeera",
-      "published": "2026-10-01T17:28:13+00:00",
-      "retrieved_at": "2026-10-01T17:51:18.828787+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Lawsuits accuse Trump officials of recklessness and civil rights violations in Renee Good's fatal Minneapolis shooting .",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b0616ca038e8502c66b55952"
     }
   ],
   "unverified_history": [
