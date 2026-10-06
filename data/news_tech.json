@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:31:13.908049+00:00",
+  "updated": "2026-10-06T17:36:13.851151+00:00",
   "items": [
     {
       "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
@@ -4235,21 +4235,21 @@
       "story_fingerprint": "d360b934b84184e0fbf09370"
     },
     {
-      "title": "Welcome RL Environments to the hub",
-      "url": "https://huggingface.co/blog/rl-environments",
-      "source": "Hugging Face",
+      "title": "Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals",
+      "source": "OpenAI",
       "published": "2026-09-28T00:00:00+00:00",
-      "retrieved_at": "2026-10-06T17:31:05.797392+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
+      "retrieved_at": "2026-10-06T17:36:07.354676+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "4354a24ddafc123499065235"
+      "story_fingerprint": "0962b92db672441e6860adbc"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T17:31:05.154930+00:00",
+    "checked_at": "2026-10-06T17:36:06.214868+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
