@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-06T18:01:47.727849+00:00",
+  "updated": "2026-10-06T19:01:56.781036+00:00",
   "items": [
+    {
+      "title": "EU seeks ways to make expansion more palatable to members",
+      "url": "https://dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297",
+      "source": "DW",
+      "published": "2026-10-06T18:02:00+00:00",
+      "retrieved_at": "2026-10-06T19:01:53.427468+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The European Commission has put forward ideas it hopes will both ease the EU expansion process and allay concerns among existing members. Several countries, not least war-torn Ukraine, are among the candidates.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b333cbd106c316ea355bcb33"
+    },
     {
       "title": "Indian opposition leaders detained during voter lists protest",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/6/indian-opposition-leaders-detained-during-voter-lists-protest",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cd31a1612ef01742fb13eeb3"
-    },
-    {
-      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-      "url": "https://bbc.co.uk/news/articles/crpd0d0jl0y0o",
-      "source": "BBC World",
-      "published": "2026-10-02T05:42:07+00:00",
-      "retrieved_at": "2026-10-02T06:18:14.491553+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "491a6a6c9e78bb582b786d54"
     }
   ],
   "unverified_history": [
