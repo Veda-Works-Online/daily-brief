@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T05:10:28.433594+00:00",
+  "updated": "2026-10-06T05:25:25.213804+00:00",
   "items": [
     {
       "title": "Violent clashes erupt after mass housing protest in Barcelona",
@@ -320,6 +320,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "68c0abeff307a491010fdd60"
+    },
+    {
+      "title": "Flávio Bolsonaro rides right-wing wave to win first round of Brazil election",
+      "url": "https://bbc.co.uk/news/articles/cqj6je4jen6po",
+      "source": "BBC World",
+      "published": "2026-10-05T20:42:19+00:00",
+      "retrieved_at": "2026-10-06T05:25:20.262176+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Flávio Bolsonaro's success could be the latest example of a resurgence of right-wing support in Latin America.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fecc209aaf4dfb81f74a921b"
     },
     {
       "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3aa84b9c3c55c2b0017599fd"
-    },
-    {
-      "title": "Why Are Modi Government Critics Now Targeting India’s Chief Election Commissioner Gyanesh Kumar?",
-      "url": "https://thediplomat.com/2026/10/why-are-modi-government-critics-now-targeting-indias-chief-election-commissioner-gyanesh-kumar",
-      "source": "The Diplomat",
-      "published": "2026-10-01T15:11:00+00:00",
-      "retrieved_at": "2026-10-01T16:36:09.869052+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "A recent investigative report strengthens opposition charges that the Modi government is using Kumar to manipulate elections in favor of the BJP.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5de7b2077d8bdcc7860edf9c"
     }
   ],
   "unverified_history": [
