@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-06T15:21:13.664318+00:00",
+  "updated": "2026-10-06T15:26:27.493896+00:00",
   "items": [
+    {
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+      "source": "TechCrunch AI",
+      "published": "2026-10-06T15:25:00+00:00",
+      "retrieved_at": "2026-10-06T15:26:21.721282+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "19200fb1cda0f2033c644f64"
+    },
     {
       "title": "A New Neurotech Startup Launches to Rival Sam Altman’s Merge Labs",
       "url": "https://wired.com/story/bridge-neurotech-startup-rival-sam-altman-merge-labs",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e21b787cf02d3a25fc12ee82"
-    },
-    {
-      "title": "TechCrunch Mobility: AV companies pick their lanes",
-      "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes",
-      "source": "TechCrunch",
-      "published": "2026-09-27T16:02:00+00:00",
-      "retrieved_at": "2026-09-27T16:02:33.936175+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cebd77d82d048d70b6fc3fc0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T15:21:05.827708+00:00",
+    "checked_at": "2026-10-06T15:26:20.911774+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
