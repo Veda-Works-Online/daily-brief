@@ -133,6 +133,11 @@ ADANI_GROUP_STOCKS = [
 ]
 INDIA_STOCKS.extend(ADANI_GROUP_STOCKS)
 
+ADDITIONAL_INDIA_STOCKS = [
+    ("JIOFIN.NS", "Jio Financial Services Ltd", "Financial Services / NBFC"),
+]
+INDIA_STOCKS.extend(ADDITIONAL_INDIA_STOCKS)
+
 # ────────────────────────────────────────────────────────────────────
 # NEWS SOURCES
 # ────────────────────────────────────────────────────────────────────
@@ -507,7 +512,7 @@ def fetch_all_stocks():
         if row['ticker'] == '532503.BO' and row['name'] == 'Rajapalayam Mills Limited':
             row.update(ticker='RAJPALAYAM.NS', source_symbol='RAJPALAYAM.NS', exchange='NSI')
     symbols = {row.get('source_symbol') or row['ticker'] for row in india}
-    for symbol, name, sector in RAMCO_GROUP_STOCKS + ADANI_GROUP_STOCKS:
+    for symbol, name, sector in RAMCO_GROUP_STOCKS + ADANI_GROUP_STOCKS + ADDITIONAL_INDIA_STOCKS:
         if symbol in symbols:
             continue
         india.append({
