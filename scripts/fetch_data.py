@@ -236,7 +236,8 @@ SPORTS_ENTERTAINMENT_RE = re.compile(
     r"song release|EP release|kalimba|synth|recipe|fashion|celebrity|wedding|honeymoon|"
     r"mother's day gift|gift ideas|horoscope|zodiac|"
     r"promo code|coupon|discount|% off|limited time|deal of the|best deals|"
-    r"on sale|holiday sale|black friday|cyber monday)\b",
+    r"on sale|holiday sale|black friday|cyber monday|prime day|"
+    r"best.{0,40}deals|deals on|discounts? on)\b",
     re.I,
 )
 
@@ -646,6 +647,8 @@ def write_news(filename, new_items, category):
     path = DATA / filename
     existing = read_json(path) if path.exists() else {"items": []}
     merged = merge_news(new_items, existing.get("items", []), parse_date, category)
+    # Reapply exclusions to saved history as well as freshly fetched stories.
+    merged = [item for item in merged if keep_item(item, None)]
     output = dict(existing)
     # Preserve unverified legacy records as evidence, never silently assert verification.
     if any(i.get("verification_status") != "SOURCE_CONFIRMED" for i in existing.get("items", [])):
