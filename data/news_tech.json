@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T22:41:48.152548+00:00",
+  "updated": "2026-10-06T22:46:42.610289+00:00",
   "items": [
     {
       "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
@@ -425,6 +425,23 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1ec38ce3a2260d63188f3b50"
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI",
+      "published": "2026-10-06T12:00:00+00:00",
+      "retrieved_at": "2026-10-06T22:46:38.848492+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "4a12763560a85f25ffa4452a"
     },
     {
       "title": "GamerCard Review: A Flawed Pocket-Size Retro Handheld",
@@ -3589,23 +3606,6 @@
       "story_fingerprint": "d257d3c7c0c472a8b2d105db"
     },
     {
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "source": "OpenAI",
-      "published": "2026-09-29T10:00:00+00:00",
-      "retrieved_at": "2026-09-29T18:08:43.616456+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "b1156c6efdbbddf9c27d4833"
-    },
-    {
       "title": "DevDay 2026 Recap",
       "url": "https://openai.com/index/devday-2026-recap",
       "source": "OpenAI",
@@ -3621,6 +3621,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "94717e8f589b993d5d930376"
+    },
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI",
+      "published": "2026-09-29T10:00:00+00:00",
+      "retrieved_at": "2026-09-29T18:08:43.616456+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "b1156c6efdbbddf9c27d4833"
     },
     {
       "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d1ba2f94a6f84ecf53b35338"
-    },
-    {
-      "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
-      "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs",
-      "source": "Ars Technica AI",
-      "published": "2026-09-28T11:00:09+00:00",
-      "retrieved_at": "2026-09-28T11:06:11.769550+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8f9c622b4d6a1bd95f639028"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T22:41:40.203204+00:00",
+    "checked_at": "2026-10-06T22:46:37.719472+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
