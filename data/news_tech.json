@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-06T18:41:43.478375+00:00",
+  "updated": "2026-10-06T18:46:47.131722+00:00",
   "items": [
     {
       "title": "Hark releases an AI personal assistant with a focus on privacy",
       "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy",
       "source": "TechCrunch AI",
       "published": "2026-10-06T18:22:45+00:00",
-      "retrieved_at": "2026-10-06T18:26:40.081272+00:00",
+      "retrieved_at": "2026-10-06T18:46:41.550296+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots and Instinct.",
+      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -119,6 +119,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "19200fb1cda0f2033c644f64"
+    },
+    {
+      "title": "All-electric camping gets a solar upgrade: The 2027 Pebble Flow",
+      "url": "https://arstechnica.com/cars/2026/10/this-self-parking-electric-travel-trailer-gets-a-solar-upgrade-for-2027",
+      "source": "Ars Technica",
+      "published": "2026-10-06T15:23:28+00:00",
+      "retrieved_at": "2026-10-06T18:46:42.173341+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "The Pebble Flow has a 45 kWh LFP battery and can even charge an EV.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9c0c6ab140a54b376616bc2e"
     },
     {
       "title": "A New Neurotech Startup Launches to Rival Sam Altman’s Merge Labs",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c1f36b695370ad893a02e863"
-    },
-    {
-      "title": "Who’s liable when AI agents go rogue?",
-      "url": "https://technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue",
-      "source": "MIT Tech Review",
-      "published": "2026-09-28T08:06:22+00:00",
-      "retrieved_at": "2026-09-28T08:41:11.087848+00:00",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents…",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "46155c1ccc602a7b70d9bd66"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T18:41:38.396075+00:00",
+    "checked_at": "2026-10-06T18:46:40.870497+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
