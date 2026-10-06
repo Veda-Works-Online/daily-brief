@@ -20,21 +20,47 @@ def next_tick(started, finished, interval):
     return started + (int((finished - started) // interval) + 1) * interval
 
 
+def git_revision(ref):
+    return subprocess.check_output(['git', 'rev-parse', ref], cwd=ROOT,
+                                   text=True, timeout=60).strip()
+
+
 def cycle(branch):
-    # Restore only generated files in this disposable Actions checkout.
-    run('git', 'restore', '--staged', '--worktree', '--', 'data')
-    run('git', 'pull', '--ff-only', 'origin', branch)
-    run(sys.executable, 'scripts/fetch_data.py', timeout=240)
-    run('git', 'add', '--', 'data')
-    changed = subprocess.run(['git', 'diff', '--cached', '--quiet'], cwd=ROOT).returncode
-    if changed == 0:
-        return
-    if changed != 1:
-        raise RuntimeError('Could not inspect generated data')
-    stamp = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
-    run('git', 'commit', '-m', 'data: refresh ' + stamp)
-    # Never force-push or resolve a rejected push with an older snapshot.
-    run('git', 'push', 'origin', 'HEAD:' + branch)
+    for attempt in range(3):
+        # This is the disposable Actions checkout; only generated files are restored.
+        run('git', 'restore', '--staged', '--worktree', '--', 'data')
+        run('git', 'pull', '--ff-only', 'origin', branch)
+        base = git_revision('HEAD')
+        run(sys.executable, 'scripts/fetch_data.py', timeout=240)
+        run('git', 'add', '--', 'data')
+        changed = subprocess.run(['git', 'diff', '--cached', '--quiet'], cwd=ROOT).returncode
+        if changed == 0:
+            return
+        if changed != 1:
+            raise RuntimeError('Could not inspect generated data')
+        stamp = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
+        run('git', 'commit', '-m', 'data: refresh ' + stamp)
+        try:
+            run('git', 'push', 'origin', 'HEAD:' + branch)
+            return
+        except subprocess.CalledProcessError:
+            run('git', 'fetch', 'origin', branch)
+            remote = git_revision('FETCH_HEAD')
+            advanced = subprocess.run(['git', 'merge-base', '--is-ancestor', base, remote],
+                                      cwd=ROOT, timeout=60).returncode
+            if remote == base or advanced != 0:
+                # Authentication, network, branch protection or rewritten history:
+                # do not disguise these failures as an ordinary concurrent edit.
+                raise
+            # Undo only our unpushed generated commit in this isolated checkout.
+            # Regenerate from the latest branch, rather than rebase old market data.
+            run('git', 'reset', '--soft', base)
+            run('git', 'restore', '--staged', '--worktree', '--', 'data')
+            print('::warning::Main advanced during refresh; discarded the unpushed '
+                  'snapshot and will fetch fresh data.', flush=True)
+    # Repeated edits must not stop the worker or create unbounded retries.
+    # The next five-minute slot starts clean and pulls the latest branch again.
+    print('::warning::Concurrent edits exhausted this cycle; retrying next slot.', flush=True)
 
 
 def main():
