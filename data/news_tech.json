@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-06T13:16:11.106463+00:00",
+  "updated": "2026-10-06T13:21:14.304793+00:00",
   "items": [
+    {
+      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+      "url": "https://wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier",
+      "source": "Wired",
+      "published": "2026-10-06T13:15:23+00:00",
+      "retrieved_at": "2026-10-06T13:21:06.028652+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0b7a298b8121820289ae5dc8"
+    },
     {
       "title": "Glimpse wants to give hardware companies an X-ray view of every critical part",
       "url": "https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bd49f6435dfd8974245601c3"
-    },
-    {
-      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-      "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement",
-      "source": "TechCrunch",
-      "published": "2026-09-26T20:24:45+00:00",
-      "retrieved_at": "2026-09-26T20:25:12.717617+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "db4a8f41573f627446397d4c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T13:16:03.301466+00:00",
+    "checked_at": "2026-10-06T13:21:04.756491+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
