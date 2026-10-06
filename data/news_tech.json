@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-06T14:31:17.724156+00:00",
+  "updated": "2026-10-06T14:36:18.985357+00:00",
   "items": [
+    {
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals",
+      "source": "TechCrunch AI",
+      "published": "2026-10-06T14:33:16+00:00",
+      "retrieved_at": "2026-10-06T14:36:09.847018+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c16ab77d5f00ac08f8612fd9"
+    },
     {
       "title": "Pinterest’s AI now turns beauty Pins into action plans",
       "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f1219c5f3d431de7ff33201d"
-    },
-    {
-      "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
-      "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair",
-      "source": "TechCrunch",
-      "published": "2026-09-27T01:40:30+00:00",
-      "retrieved_at": "2026-09-27T01:40:55.739196+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e9c0b30b6f989da03ad423f0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T14:31:12.092823+00:00",
+    "checked_at": "2026-10-06T14:36:09.456157+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
