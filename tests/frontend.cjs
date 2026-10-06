@@ -5,6 +5,16 @@ const assert = require('assert/strict');
 let src = fs.readFileSync('script.js', 'utf8').split('// ── Sidebar / hamburger / routing')[0];
 const ctx = vm.createContext({ Intl, Date, Number, URL, Set });
 vm.runInContext(src, ctx);
+const catalogHtml = ctx.openLlmCatalogHtml({checked_at:new Date().toISOString(), status:'CURRENT', items:[
+  {id:'Qwen/Example',name:'Example <model>',publisher:'Qwen',licence:'apache-2.0',published:'2026-10-01T12:00:00Z'},
+  {id:'Bad/javascript:alert(1)',licence:'mit'}, {id:'Restricted/Model',licence:'other'}]});
+assert(catalogHtml.includes('Latest open-licence LLMs'));
+assert(catalogHtml.includes('Example &lt;model&gt;'));
+assert(catalogHtml.includes('https://huggingface.co/Qwen/Example'));
+assert(!catalogHtml.includes('javascript:'));
+assert(!catalogHtml.includes('Restricted/Model'));
+assert(ctx.openLlmCatalogHtml({checked_at:'2020-01-01T00:00:00Z',items:[]}).includes('STALE'));
+assert(ctx.openLlmCatalogHtml({checked_at:new Date().toISOString(),status:'PARTIAL',items:[]}).includes('PARTIAL'));
 for (const [zone, instant, expected] of [
   ['Asia/Kolkata', '2026-01-15T20:00:00Z', '16 Jan 2026, 01:30:00 IST'],
   ['Asia/Singapore', '2026-01-15T20:00:00Z', '16 Jan 2026, 04:00:00 GMT+8'],
