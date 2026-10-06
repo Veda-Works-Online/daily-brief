@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-06T12:54:08.247919+00:00",
+  "updated": "2026-10-06T13:01:14.015909+00:00",
   "items": [
+    {
+      "title": "Flai’s AI dealership software is booking 50,000 appointments per month",
+      "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month",
+      "source": "TechCrunch",
+      "published": "2026-10-06T13:00:00+00:00",
+      "retrieved_at": "2026-10-06T13:01:05.567926+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Flai's revenue has grown 20x in a year, and the company just closed a $27 million Series A funding round.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "11a7521d8613caf3b1ce2991"
+    },
     {
       "title": "Facebook tests going Reels-first in India",
       "url": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d9d76d0b714ba353dfd1f25e"
-    },
-    {
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "url": "https://openai.com/index/proaction",
-      "source": "OpenAI",
-      "published": "2026-09-25T19:00:00+00:00",
-      "retrieved_at": "2026-10-06T11:09:24.706658+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "7d56b18456a3ad0472ce1e36"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T12:54:02.585926+00:00",
+    "checked_at": "2026-10-06T13:01:04.272787+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
