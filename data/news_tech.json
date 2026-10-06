@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-06T14:36:18.985357+00:00",
+  "updated": "2026-10-06T14:41:10.559841+00:00",
   "items": [
+    {
+      "title": "Emmys will move from broadcast TV to Prime Video in 2027",
+      "url": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027",
+      "source": "TechCrunch",
+      "published": "2026-10-06T14:37:31+00:00",
+      "retrieved_at": "2026-10-06T14:41:06.243305+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "dce654830a9e76eb822f1a30"
+    },
     {
       "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
       "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "445909357d49025d691375ef"
-    },
-    {
-      "title": "You Don’t Need to Pay for Distraction-Blocking Software",
-      "url": "https://wired.com/story/you-dont-need-to-pay-for-distraction-blocking-software",
-      "source": "Wired",
-      "published": "2026-09-27T10:15:00+00:00",
-      "retrieved_at": "2026-09-27T10:21:51.736085+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "These free iOS and Android apps create the physical friction you need to put down your phone.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f1219c5f3d431de7ff33201d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T14:36:09.456157+00:00",
+    "checked_at": "2026-10-06T14:41:04.235083+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
