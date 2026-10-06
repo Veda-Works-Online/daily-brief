@@ -125,6 +125,14 @@ RAMCO_GROUP_STOCKS = [
 ]
 INDIA_STOCKS.extend(RAMCO_GROUP_STOCKS)
 
+ADANI_GROUP_STOCKS = [
+    ("ADANIPORTS.NS", "Adani Ports & Special Economic Zone Ltd", "Ports / Logistics"),
+    ("ADANIPOWER.NS", "Adani Power Ltd", "Power Generation"),
+    ("ADANIGREEN.NS", "Adani Green Energy Ltd", "Renewable Energy"),
+    ("ATGL.NS",       "Adani Total Gas Ltd", "City Gas Distribution"),
+]
+INDIA_STOCKS.extend(ADANI_GROUP_STOCKS)
+
 # ────────────────────────────────────────────────────────────────────
 # NEWS SOURCES
 # ────────────────────────────────────────────────────────────────────
@@ -499,7 +507,7 @@ def fetch_all_stocks():
         if row['ticker'] == '532503.BO' and row['name'] == 'Rajapalayam Mills Limited':
             row.update(ticker='RAJPALAYAM.NS', source_symbol='RAJPALAYAM.NS', exchange='NSI')
     symbols = {row.get('source_symbol') or row['ticker'] for row in india}
-    for symbol, name, sector in RAMCO_GROUP_STOCKS:
+    for symbol, name, sector in RAMCO_GROUP_STOCKS + ADANI_GROUP_STOCKS:
         if symbol in symbols:
             continue
         india.append({
