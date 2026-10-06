@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-06T11:09:34.754691+00:00",
+  "updated": "2026-10-06T11:24:11.727665+00:00",
   "items": [
+    {
+      "title": "Fact check: Misleading claims spark plague fears in Russia",
+      "url": "https://dw.com/en/fact-check-misleading-claims-spark-plague-fears-in-russia/a-79560752",
+      "source": "DW",
+      "published": "2026-10-06T11:07:00+00:00",
+      "retrieved_at": "2026-10-06T11:24:08.382646+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The death of a lab worker at a plague research institute in Russia has sparked claims about a lab accident, hundreds of infections and international spread. Some of these viral narratives are misleading.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "171b8cd558cd9b53ba951559"
+    },
     {
       "title": "Sailors missing after fresh attacks on Black Sea vessels, Bulgaria says",
       "url": "https://bbc.co.uk/news/articles/c8ly0v5r602eo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "aa7ee1da0892439dafba37fb"
-    },
-    {
-      "title": "Eritrea severs diplomatic ties with Ethiopia in tit-for-tat move",
-      "url": "https://aljazeera.com/news/2026/10/1/eritrea-severs-diplomatic-ties-with-ethiopia-in-tit-for-tat-move",
-      "source": "Al Jazeera",
-      "published": "2026-10-01T20:10:52+00:00",
-      "retrieved_at": "2026-10-01T20:31:52.294425+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Ethiopia says it will shut its embassy in Asmara, declares 10 Eritrean diplomats persona non grata.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b738fc09967c80774e3dd8aa"
     }
   ],
   "unverified_history": [
