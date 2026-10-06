@@ -81,18 +81,24 @@ class RecoveryTests(unittest.TestCase):
 
     def test_failed_fetch_is_never_committed_or_pushed(self):
         import subprocess
-        with patch.object(worker, 'run', side_effect=[None, None, subprocess.TimeoutExpired('fetch', 240)]) as run:
+        with patch.object(worker, 'git_revision', return_value='base'), \
+             patch.object(worker, 'run', side_effect=[None, None, subprocess.TimeoutExpired('fetch', 240)]) as run:
             with self.assertRaises(subprocess.TimeoutExpired):
                 worker.cycle('main')
         self.assertFalse(any('push' in c.args or 'commit' in c.args for c in run.call_args_list))
 
     def test_push_failure_is_not_force_pushed(self):
         import subprocess
-        with patch.object(worker, 'run', side_effect=[None, None, None, None, None, subprocess.CalledProcessError(1, 'push')]) as run, \
+        def command(*args, **kwargs):
+            if 'push' in args:
+                raise subprocess.CalledProcessError(1, 'push')
+        with patch.object(worker, 'git_revision', return_value='base'), \
+             patch.object(worker, 'run', side_effect=command) as run, \
              patch.object(worker.subprocess, 'run', return_value=Mock(returncode=1)):
             with self.assertRaises(subprocess.CalledProcessError):
                 worker.cycle('main')
-        self.assertEqual(run.call_args.args, ('git', 'push', 'origin', 'HEAD:main'))
+        pushes = [c.args for c in run.call_args_list if 'push' in c.args]
+        self.assertEqual(pushes, [('git', 'push', 'origin', 'HEAD:main')])
 
 
 if __name__ == '__main__':
