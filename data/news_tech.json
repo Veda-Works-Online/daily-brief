@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:56:13.076536+00:00",
+  "updated": "2026-10-06T18:01:41.246473+00:00",
   "items": [
     {
       "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
@@ -4235,13 +4235,13 @@
       "story_fingerprint": "d360b934b84184e0fbf09370"
     },
     {
-      "title": "Are you a Codex Original?",
-      "url": "https://openai.com/form/codex-originals",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
       "source": "OpenAI",
       "published": "2026-09-28T00:00:00+00:00",
-      "retrieved_at": "2026-10-06T17:56:04.612123+00:00",
+      "retrieved_at": "2026-10-06T18:01:38.172857+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4249,7 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "0962b92db672441e6860adbc"
+      "story_fingerprint": "c2f19d517196393cce4ede20"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T17:56:03.367512+00:00",
+    "checked_at": "2026-10-06T18:01:37.187770+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
