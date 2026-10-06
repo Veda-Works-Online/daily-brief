@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-06T17:16:24.263617+00:00",
+  "updated": "2026-10-06T17:51:23.076845+00:00",
   "items": [
+    {
+      "title": "Jerusalem Daily: Tension high in Israel ahead of October 7",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/6/jerusalem-daily-tension-high-in-israel-ahead-of-october-7",
+      "source": "Al Jazeera",
+      "published": "2026-10-06T17:39:19+00:00",
+      "retrieved_at": "2026-10-06T17:51:17.702711+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Jerusalem Daily: Tension high in Israel ahead of October 7",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "182dd65abb7114d21c258632"
+    },
     {
       "title": "Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open",
       "url": "https://aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "52f133193ac5f3a19a86b94b"
-    },
-    {
-      "title": "Eritrea severs diplomatic ties with Ethiopia in row over Tigray",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/2/eritrea-severs-diplomatic-ties-with-ethiopia-in-row-over-tigray",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T04:40:14+00:00",
-      "retrieved_at": "2026-10-02T05:18:11.611489+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Eritrea has severed diplomatic ties with Ethiopia after Addis Ababa closed its embassy in Asmara",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "75b6588adb28119474cff111"
     }
   ],
   "unverified_history": [

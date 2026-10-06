@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-06T17:46:12.700310+00:00",
+  "updated": "2026-10-06T17:51:14.467349+00:00",
   "items": [
     {
       "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
       "url": "https://wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again",
       "source": "Wired",
       "published": "2026-10-06T17:28:33+00:00",
-      "retrieved_at": "2026-10-06T17:31:06.483078+00:00",
+      "retrieved_at": "2026-10-06T17:51:08.057633+00:00",
       "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "“There's a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
+      "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4235,13 +4235,13 @@
       "story_fingerprint": "d360b934b84184e0fbf09370"
     },
     {
-      "title": "Are you a Codex Original?",
-      "url": "https://openai.com/form/codex-originals",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
       "source": "OpenAI",
       "published": "2026-09-28T00:00:00+00:00",
-      "retrieved_at": "2026-10-06T17:46:06.244495+00:00",
+      "retrieved_at": "2026-10-06T17:51:07.930578+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4249,7 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "0962b92db672441e6860adbc"
+      "story_fingerprint": "c2f19d517196393cce4ede20"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T17:46:05.093178+00:00",
+    "checked_at": "2026-10-06T17:51:06.764959+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
