@@ -8,10 +8,31 @@ from decimal import Decimal
 import tempfile
 import market_data as m
 from news_integrity import canonical_url, merge_news
-from fetch_data import parse_date
+from fetch_data import parse_date, keep_item, write_news
+import fetch_data as fetcher
 
 
 class IntegrityTests(unittest.TestCase):
+    def test_promotional_news_excluded_without_blocking_business_deals(self):
+        for title in [
+            "The Best Prime Day Apple Deals on Our Favorite MacBooks",
+            "The best laptop deals this week",
+            "Discounts on AI subscriptions",
+        ]:
+            with self.subTest(title=title):
+                self.assertFalse(keep_item({"title": title}, None))
+        self.assertTrue(keep_item({"title": "India signs trade deal with the US"}, None))
+        self.assertTrue(keep_item({"title": "AI chip companies announce merger deal"}, None))
+
+    def test_saved_promotions_removed_when_news_is_refreshed(self):
+        promotion = dict(title="Prime Day Apple Deals", verification_status="SOURCE_CONFIRMED")
+        story = dict(title="New AI model released", verification_status="SOURCE_CONFIRMED")
+        with patch.object(fetcher, "read_json", return_value={"items": [promotion, story]}), \
+             patch.object(fetcher, "merge_news", return_value=[promotion, story]), \
+             patch.object(fetcher, "atomic_write") as save:
+            write_news("news_tech.json", [], "tech")
+        self.assertEqual(save.call_args.args[1]["items"], [story])
+
     def test_gold_refresh_migrates_futures_to_local_retail(self):
         from local_gold import GOLD_ID
         gold = {'ticker': GOLD_ID, 'name': 'Gold (24 Carat, Hyderabad)',
