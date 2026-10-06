@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T10:48:12.085306+00:00",
+  "updated": "2026-10-06T11:09:34.754691+00:00",
   "items": [
     {
       "title": "Sailors missing after fresh attacks on Black Sea vessels, Bulgaria says",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8c4db5413823491d4663b02b"
+    },
+    {
+      "title": "Former German spy chief arrested for espionage and treason",
+      "url": "https://bbc.co.uk/news/articles/c58jzyer1kr0o",
+      "source": "BBC World",
+      "published": "2026-10-06T10:05:42+00:00",
+      "retrieved_at": "2026-10-06T11:09:31.086783+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "226a562778455d029117743f"
     },
     {
       "title": "Indian opposition MPs detained in protest against election chief",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b738fc09967c80774e3dd8aa"
-    },
-    {
-      "title": "Syria denies officials held ‘secret’ talks with Hezbollah in Turkiye",
-      "url": "https://aljazeera.com/news/2026/10/1/syria-denies-officials-held-secret-talks-with-hezbollah-in-turkiye",
-      "source": "Al Jazeera",
-      "published": "2026-10-01T20:02:42+00:00",
-      "retrieved_at": "2026-10-01T20:31:52.294451+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Six sources from Syria, the US and Lebanon told Reuters news agency the reported meeting aimed to calm tensions.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8d344cb544f8b957ef971520"
     }
   ],
   "unverified_history": [
