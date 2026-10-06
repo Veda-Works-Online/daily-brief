@@ -121,7 +121,7 @@ RAMCO_GROUP_STOCKS = [
     ("RAMCOCEM.NS",   "The Ramco Cements Limited", "Cement / Building Materials"),
     ("RAMCOIND.NS",   "Ramco Industries Limited", "Building Materials / Textiles"),
     ("RAMCOSYS.NS",   "Ramco Systems Limited", "Enterprise Software / Cloud ERP"),
-    ("532503.BO",     "Rajapalayam Mills Limited", "Textiles / Cotton Yarn"),
+    ("RAJPALAYAM.NS", "Rajapalayam Mills Limited", "Textiles / Cotton Yarn"),
 ]
 INDIA_STOCKS.extend(RAMCO_GROUP_STOCKS)
 
@@ -494,6 +494,10 @@ def fetch_all_stocks():
     payload = read_json(DATA / "stocks.json")
     # Add missing listings to the latest snapshot before the normal source checks.
     india = payload['regions']['india']
+    # Replace the unresolved BSE provider code with the current NSE listing.
+    for row in india:
+        if row['ticker'] == '532503.BO' and row['name'] == 'Rajapalayam Mills Limited':
+            row.update(ticker='RAJPALAYAM.NS', source_symbol='RAJPALAYAM.NS', exchange='NSI')
     symbols = {row.get('source_symbol') or row['ticker'] for row in india}
     for symbol, name, sector in RAMCO_GROUP_STOCKS:
         if symbol in symbols:
