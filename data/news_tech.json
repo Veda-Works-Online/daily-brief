@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-06T18:21:47.224265+00:00",
+  "updated": "2026-10-06T18:26:44.424581+00:00",
   "items": [
+    {
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy",
+      "source": "TechCrunch AI",
+      "published": "2026-10-06T18:22:45+00:00",
+      "retrieved_at": "2026-10-06T18:26:40.081272+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots and Instinct.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0f3945c541e07cfdaa0b30f9"
+    },
     {
       "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
       "url": "https://wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "source_type": "PUBLISHER",
       "story_fingerprint": "46155c1ccc602a7b70d9bd66"
-    },
-    {
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "source": "OpenAI",
-      "published": "2026-09-28T07:00:00+00:00",
-      "retrieved_at": "2026-09-28T17:53:02.339255+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "d360b934b84184e0fbf09370"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-06T18:21:39.065439+00:00",
+    "checked_at": "2026-10-06T18:26:39.389180+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
