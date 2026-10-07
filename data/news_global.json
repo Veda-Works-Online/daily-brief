@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T08:28:42.648722+00:00",
+  "updated": "2026-10-07T08:33:43.556158+00:00",
   "items": [
     {
       "title": "Three years of Israel’s mass dispossession of West Bank Palestinians",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "54dbd6d5181204f6cf6a2640"
+    },
+    {
+      "title": "India's opposition leader dragged onto bus as police break up protest",
+      "url": "https://bbc.co.uk/news/articles/crpdgvx82831o",
+      "source": "BBC World",
+      "published": "2026-10-07T07:45:47+00:00",
+      "retrieved_at": "2026-10-07T08:33:37.775471+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "84bdd36c9d79984575e056ea"
     },
     {
       "title": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
@@ -896,22 +912,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "226a562778455d029117743f"
-    },
-    {
-      "title": "Indian opposition MPs detained in protest against election chief",
-      "url": "https://bbc.co.uk/news/articles/crpdgvx82831o",
-      "source": "BBC World",
-      "published": "2026-10-06T10:05:22+00:00",
-      "retrieved_at": "2026-10-06T10:16:06.534799+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "67794b399ebac41bed91f227"
     },
     {
       "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
