@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-07T14:40:16.744602+00:00",
+  "updated": "2026-10-07T14:45:18.062844+00:00",
   "items": [
+    {
+      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next",
+      "source": "TechCrunch AI",
+      "published": "2026-10-07T14:41:38+00:00",
+      "retrieved_at": "2026-10-07T14:45:11.470933+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e2e01f1e804d27de14cf67e3"
+    },
     {
       "title": "Google experiments with an AI-powered gaming platform",
       "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform",
@@ -53,23 +70,6 @@
       "story_fingerprint": "7b564799d2090e73d82d7fbe"
     },
     {
-      "title": "Google’s new SynthID website can identify AI-generated media",
-      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media",
-      "source": "TechCrunch AI",
-      "published": "2026-10-07T14:00:00+00:00",
-      "retrieved_at": "2026-10-07T14:30:13.553334+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c93d5f46a2f5c77e5ad1632e"
-    },
-    {
       "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
       "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open",
       "source": "TechCrunch AI",
@@ -85,6 +85,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6dd73d93f3e24ce33d4ffdd7"
+    },
+    {
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media",
+      "source": "TechCrunch AI",
+      "published": "2026-10-07T14:00:00+00:00",
+      "retrieved_at": "2026-10-07T14:30:13.553334+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c93d5f46a2f5c77e5ad1632e"
     },
     {
       "title": "Ring’s first smart lock can be hand-cranked when its battery dies",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cba14c63f2c4735276476204"
-    },
-    {
-      "title": "When can we say AI made a scientific discovery?",
-      "url": "https://technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery",
-      "source": "MIT Tech Review",
-      "published": "2026-09-28T17:03:16+00:00",
-      "retrieved_at": "2026-09-28T17:12:11.851959+00:00",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what…",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0a09d2a3b53a19c8c87a2168"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-07T14:40:08.600483+00:00",
+    "checked_at": "2026-10-07T14:45:10.640350+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
