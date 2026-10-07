@@ -68,10 +68,26 @@ class SamsungCapTests(unittest.TestCase):
                 dict(self.preferred, timestamp='2026-10-07T00:30:00+00:00'), self.shares,
                 self.now + timedelta(minutes=30), 7200)
 
-    def test_retained_common_snapshot_cannot_mix_with_newer_inputs(self):
-        with self.assertRaisesRegex(ValueError, 'RETAINED_OR_DIFFERENT'):
-            s.apply_company_cap(dict(self.row, indexValue=274000), self.common,
-                self.preferred, self.shares, self.now, 1800)
+    def test_retained_display_price_does_not_replace_cap_inputs(self):
+        out = s.apply_company_cap(dict(self.row, indexValue=274000), self.common,
+            self.preferred, self.shares, self.now, 1800)
+        self.assertEqual(out['marketCap'], self.calculate()['marketCap'])
+        self.assertEqual(out['field_metadata']['marketCap']['class_inputs'][0]['price'], 273000)
+
+    def test_yahoo_class_fallback_identity_and_source(self):
+        raw = dict(symbol='005930.KS', quoteType='EQUITY', exchange='KSC',
+            currency='KRW', exchangeTimezoneName='Asia/Seoul', marketState='REGULAR',
+            longName='Samsung Electronics Co., Ltd.', regularMarketPrice=273000,
+            regularMarketTime=datetime.fromisoformat(self.common['timestamp']).timestamp())
+        common = s.yahoo_class_quote(raw, '005930.KS')
+        preferred = s.yahoo_class_quote(dict(raw, symbol='005935.KS', regularMarketPrice=198200), '005935.KS')
+        out = s.apply_company_cap(self.row, common, preferred, self.shares, self.now, 1800)
+        self.assertEqual(out['marketCap'], self.calculate()['marketCap'])
+        self.assertEqual(out['field_metadata']['marketCap']['source'], 'Samsung IR + Yahoo Finance')
+        for changes in [dict(symbol='005935.KS'), dict(quoteType='INDEX'), dict(exchange='NYQ'),
+                        dict(currency='USD'), dict(exchangeTimezoneName='America/New_York')]:
+            with self.subTest(changes=changes), self.assertRaises(ValueError):
+                s.yahoo_class_quote(dict(raw, **changes), '005930.KS')
 
     def test_failure_retains_only_dated_company_estimate_as_stale(self):
         previous = self.calculate()
