@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T14:55:17.205501+00:00",
+  "updated": "2026-10-07T15:00:17.060337+00:00",
   "items": [
     {
       "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
@@ -119,6 +119,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3b7564968717262594033527"
+    },
+    {
+      "title": "AI/ML is becoming a performance factor in motorsport",
+      "url": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox",
+      "source": "Ars Technica",
+      "published": "2026-10-07T13:56:38+00:00",
+      "retrieved_at": "2026-10-07T15:00:10.181432+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "More than just a sponsor: OpenAI has been helping Ganassi with setups.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "65d3648e310aa92ad52d27c1"
     },
     {
       "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cd816f0503a90b3c21b2cae2"
-    },
-    {
-      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-      "source": "TechCrunch AI",
-      "published": "2026-09-28T17:09:02+00:00",
-      "retrieved_at": "2026-09-28T17:43:01.943949+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cba14c63f2c4735276476204"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-07T14:55:09.367461+00:00",
+    "checked_at": "2026-10-07T15:00:09.170630+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
