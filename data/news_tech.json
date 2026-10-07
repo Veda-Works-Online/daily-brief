@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-07T08:33:34.563865+00:00",
+  "updated": "2026-10-07T08:38:35.096998+00:00",
   "items": [
+    {
+      "title": "Your Next Great Read Might Be Certified ‘Organic’",
+      "url": "https://wired.com/story/organic-literature-books-by-people-stamp-ai",
+      "source": "Wired",
+      "published": "2026-10-07T08:30:00+00:00",
+      "retrieved_at": "2026-10-07T08:38:29.271383+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a4de552c82c3f91fbe43fd83"
+    },
     {
       "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
       "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5344b64b8b8916c55ca06bbe"
-    },
-    {
-      "title": "Maritime intelligence startup Quartermaster raises another $140M",
-      "url": "https://techcrunch.com/2026/09/28/maritime-intelligence-startup-quartermaster-raises-another-140m",
-      "source": "TechCrunch",
-      "published": "2026-09-28T13:00:00+00:00",
-      "retrieved_at": "2026-09-28T14:17:11.909839+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The tech enables real-time awareness for what Quartermaster calls the “largest blind spot on Earth.”",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "88b1c0887c571d12e392399f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-07T08:33:28.487683+00:00",
+    "checked_at": "2026-10-07T08:38:27.935631+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
