@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-07T13:44:13.307540+00:00",
+  "updated": "2026-10-07T13:49:15.687329+00:00",
   "items": [
+    {
+      "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
+      "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation",
+      "source": "TechCrunch",
+      "published": "2026-10-07T13:45:00+00:00",
+      "retrieved_at": "2026-10-07T13:49:10.477960+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e8c417028546e5b624313e58"
+    },
     {
       "title": "Introducing Falcon ASR",
       "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "21c42a708e0791fdcc3eb2e8"
-    },
-    {
-      "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
-      "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data",
-      "source": "TechCrunch",
-      "published": "2026-09-28T14:50:30+00:00",
-      "retrieved_at": "2026-09-28T14:52:11.801255+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bd182d71842283f0f74fd18b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-07T13:44:09.187415+00:00",
+    "checked_at": "2026-10-07T13:49:09.428142+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
