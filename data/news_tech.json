@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-07T12:09:15.932608+00:00",
+  "updated": "2026-10-07T12:14:12.639827+00:00",
   "items": [
+    {
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+      "source": "Google AI",
+      "published": "2026-10-07T12:00:00+00:00",
+      "retrieved_at": "2026-10-07T12:14:09.421350+00:00",
+      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "summary": "Overview of Playground",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "f3cef89d1e1b83802abbfb06"
+    },
     {
       "title": "A Startup Has a Plan to Make Water From Air Using Data Centers’ Waste Heat",
       "url": "https://wired.com/story/startup-atoco-makes-water-from-air-using-data-centers",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6e64ede8f3c7a2abd35c3c71"
-    },
-    {
-      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round",
-      "source": "TechCrunch AI",
-      "published": "2026-09-28T14:00:00+00:00",
-      "retrieved_at": "2026-09-28T15:37:07.875218+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4f77039005c6e953750b29ff"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-07T12:09:09.600330+00:00",
+    "checked_at": "2026-10-07T12:14:08.663317+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
