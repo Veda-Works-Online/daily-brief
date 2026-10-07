@@ -183,3 +183,10 @@ assert.equal(ctx.newerSnapshot(null, currentSnapshot), currentSnapshot);
 ctx.fieldRow.fxValidation = 'STALE';
 ctx.fieldRow.field_metadata.marketCap.fx_source_timestamp = '2026-09-30T04:00:00Z';
 assert(!ctx.renderStocksTable([ctx.fieldRow], 'asia').includes('FX STALE'));
+ctx.samsung = {...ctx.adr, name:'Samsung Electronics', ticker:'005930.KS',
+  field_metadata:{marketCap:{validation_status:'INDICATIVE', shares_as_of:'2026-06-30', source:'Samsung IR + Google Finance'}}};
+assert(ctx.renderStocksTable([ctx.samsung], 'asia').includes('Company cap: common + preferred · estimate · shares as of 2026-06-30'));
+ctx.samsung.field_metadata.marketCap.validation_status = 'STALE';
+assert(ctx.renderStocksTable([ctx.samsung], 'asia').includes('stale estimate'));
+ctx.samsung.field_metadata.marketCap.validation_status = 'DATA_UNAVAILABLE';
+assert(ctx.renderStocksTable([ctx.samsung], 'asia').includes('common + preferred · unavailable'));
