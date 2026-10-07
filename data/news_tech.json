@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-07T09:59:16.551780+00:00",
+  "updated": "2026-10-07T10:04:15.663001+00:00",
   "items": [
+    {
+      "title": "A Startup Has a Plan to Make Water From Air Using Data Centers’ Waste Heat",
+      "url": "https://wired.com/story/startup-atoco-makes-water-from-air-using-data-centers",
+      "source": "Wired",
+      "published": "2026-10-07T10:00:00+00:00",
+      "retrieved_at": "2026-10-07T10:04:09.548488+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Atoco’s new machines use specialized materials that can harvest water from some of the driest air on Earth without using electricity.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "02943899e2ec9272cde5b077"
+    },
     {
       "title": "Your Next Great Read Might Be Certified ‘Organic’",
       "url": "https://wired.com/story/organic-literature-books-by-people-stamp-ai",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4f77039005c6e953750b29ff"
-    },
-    {
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation",
-      "source": "TechCrunch AI",
-      "published": "2026-09-28T13:38:48+00:00",
-      "retrieved_at": "2026-09-28T20:42:56.039129+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just getting started,\" founder Noah Shinn said in a statement.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5344b64b8b8916c55ca06bbe"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-07T09:59:11.901020+00:00",
+    "checked_at": "2026-10-07T10:04:08.393445+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
