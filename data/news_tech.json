@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-07T12:59:15.333630+00:00",
+  "updated": "2026-10-07T13:04:16.767218+00:00",
   "items": [
+    {
+      "title": "‘The Social Reckoning’ Already Feels Irrelevant",
+      "url": "https://wired.com/story/the-social-reckoning-movie-review",
+      "source": "Wired",
+      "published": "2026-10-07T13:00:00+00:00",
+      "retrieved_at": "2026-10-07T13:04:13.943281+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Aaron Sorkin’s sequel to The Social Network attempts to shame a ruling class that has proved itself shameless.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2b86ad3e59ac9991ae59decc"
+    },
     {
       "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
       "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c4d13518957613de48b6bc8f"
-    },
-    {
-      "title": "Modulate raises $25M for its voice models and analysis suite",
-      "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite",
-      "source": "TechCrunch AI",
-      "published": "2026-09-28T14:05:00+00:00",
-      "retrieved_at": "2026-09-28T14:07:08.408215+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Modulate deploys its models to detect deepfake, fraud and scam",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5ef316bd9b59ba0e9617d81f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-07T12:59:11.297368+00:00",
+    "checked_at": "2026-10-07T13:04:12.720947+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
