@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-07T10:44:24.009860+00:00",
+  "updated": "2026-10-07T10:54:20.761441+00:00",
   "items": [
+    {
+      "title": "India's first bank rate hike since 2023 signals growing inflation concerns",
+      "url": "https://bbc.co.uk/news/articles/c5j9kngz3j1go",
+      "source": "BBC World",
+      "published": "2026-10-07T10:44:02+00:00",
+      "retrieved_at": "2026-10-07T10:54:17.528465+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The hike reflects a global shift towards tighter monetary policy as central banks battle inflation fuelled by Middle East conflict.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5a32d2b7f224fb4270087014"
+    },
     {
       "title": "Bulgaria ends search for missing crew after drone strike sinks cargo ship",
       "url": "https://aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "31f7a6635d1486c866d3b7e8"
-    },
-    {
-      "title": "Israel’s Supreme Court overturns election panel ban on Arab parties",
-      "url": "https://aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T18:11:37+00:00",
-      "retrieved_at": "2026-10-02T18:30:20.999790+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Court reinstates two Arab lists and Jewish Knesset member Ofer Cassif as Balad leader withdraws after pressure.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4c8ef39145d0b3526dd8a4c3"
     }
   ],
   "unverified_history": [
