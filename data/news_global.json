@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T08:33:43.556158+00:00",
+  "updated": "2026-10-07T09:04:24.216771+00:00",
   "items": [
     {
       "title": "Three years of Israel’s mass dispossession of West Bank Palestinians",
@@ -48,6 +48,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "84bdd36c9d79984575e056ea"
+    },
+    {
+      "title": "Yemen's Houthis claim strikes on Aden, Riyadh airports",
+      "url": "https://dw.com/en/yemen-s-houthis-claim-strikes-on-aden-riyadh-airports/a-79571321",
+      "source": "DW",
+      "published": "2026-10-07T06:49:00+00:00",
+      "retrieved_at": "2026-10-07T09:04:21.498368+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Aden International Airport came under attack as Yemen's war intensified, with the Houthis targeting key transport hubs.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7c58a02c3b503dc1dc88200f"
     },
     {
       "title": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f9b6fc566ff7e904bc8bb025"
-    },
-    {
-      "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-      "url": "https://bbc.co.uk/news/articles/c623dlk4y75mo",
-      "source": "BBC World",
-      "published": "2026-10-02T15:30:12+00:00",
-      "retrieved_at": "2026-10-02T16:40:16.318663+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2d571e991f4b66526879af8b"
     }
   ],
   "unverified_history": [
