@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T14:10:24.140885+00:00",
+  "updated": "2026-10-07T14:20:22.041854+00:00",
   "items": [
     {
       "title": "Why Paramount-Warner merger has sparked fears about press freedom",
@@ -16,6 +16,38 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "409a67b5265b7befd12d0a11"
+    },
+    {
+      "title": "South Sudan's road to elections remains uncertain",
+      "url": "https://dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442",
+      "source": "DW",
+      "published": "2026-10-07T13:45:00+00:00",
+      "retrieved_at": "2026-10-07T14:20:17.929414+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "South Sudan's first general election is set for December 22. Insecurity, political tensions and failure to begin voter registration have raised doubts over whether the poll can be held credibly.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d3ca7d6834ea9ee69a9a5215"
+    },
+    {
+      "title": "China's Golden Week reveals cautious consumer spending despite travel surge",
+      "url": "https://dw.com/en/china-s-golden-week-reveals-cautious-consumer-spending-despite-travel-surge/a-79577254",
+      "source": "DW",
+      "published": "2026-10-07T13:18:00+00:00",
+      "retrieved_at": "2026-10-07T14:20:17.929439+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Chinese visitors are returning from trips after the 13-day Golden Week holiday. Their subdued spending has raised fresh questions about domestic demand in the world's second-largest economy.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2a7c9ead8605b73438f94f35"
     },
     {
       "title": "US military aid to Israel continues three years into Gaza genocide",
@@ -214,9 +246,9 @@
       "url": "https://dw.com/en/yemen-s-houthis-claim-strikes-on-aden-riyadh-airports/a-79571321",
       "source": "DW",
       "published": "2026-10-07T06:49:00+00:00",
-      "retrieved_at": "2026-10-07T09:04:21.498368+00:00",
+      "retrieved_at": "2026-10-07T14:20:17.929470+00:00",
       "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Aden International Airport came under attack as Yemen's war intensified, with the Houthis targeting key transport hubs.",
+      "summary": "Aden International Airport came under attack as Yemen's war intensified, with the Houthis targeting key transport hubs. Around 200,000 people have been displaced by the fighting between government forces and the Houthis.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "31e41dafa7f28f8b8fb5d5cf"
-    },
-    {
-      "title": "Israeli general: Gaza captives could have been freed a year earlier",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T21:15:58+00:00",
-      "retrieved_at": "2026-10-02T21:36:01.347224+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israeli Gen. Nitzan Alon told a Washington Institute forum that all Gaza captives could've been freed a year earlier.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3b2ddfc0e9f3fcfc03791000"
-    },
-    {
-      "title": "Latin America sees China as more positive global influence than US: Poll",
-      "url": "https://aljazeera.com/news/2026/10/2/latin-america-sees-china-as-more-positive-global-influence-than-us-poll",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T20:52:29+00:00",
-      "retrieved_at": "2026-10-02T20:55:58.353822+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Annual Latinobarometro survey finds views of China’s influence improving as perceptions of US influence worsen.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "80920fcec1429142d5cbc0fb"
     }
   ],
   "unverified_history": [
