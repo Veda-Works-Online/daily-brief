@@ -47,6 +47,19 @@ def fetch_share_counts():
     return parse_share_counts(response.text, datetime.now(timezone.utc))
 
 
+def yahoo_class_quote(quote, symbol):
+    """Normalize an explicitly identified KRX class, retaining its source."""
+    if (symbol not in {'005930.KS', '005935.KS'} or quote.get('symbol') != symbol
+            or quote.get('quoteType') != 'EQUITY' or quote.get('exchange') != 'KSC'
+            or quote.get('currency') != 'KRW' or quote.get('exchangeTimezoneName') != 'Asia/Seoul'):
+        raise ValueError('SAMSUNG_CLASS_QUOTE_IDENTITY_MISMATCH')
+    return dict(id=symbol[:6] + ':KRX', exchange='KRX', currency='KRW',
+                name=quote.get('longName') or quote.get('shortName', ''),
+                price=quote['regularMarketPrice'],
+                timestamp=datetime.fromtimestamp(quote['regularMarketTime'], timezone.utc).isoformat(),
+                session=quote.get('marketState'), source='Yahoo Finance', source_symbol=symbol)
+
+
 def apply_company_cap(row, common, preferred, shares, now, max_quote_age):
     """Never claim quarterly counts are live counts or add a provider total twice."""
     observations = []
@@ -68,9 +81,8 @@ def apply_company_cap(row, common, preferred, shares, now, max_quote_age):
     if (ct.astimezone(ZoneInfo('Asia/Seoul')).date() != pt.astimezone(ZoneInfo('Asia/Seoul')).date()
             or abs((ct - pt).total_seconds()) > 1200):
         raise ValueError('SAMSUNG_CLASS_QUOTE_TIME_MISMATCH')
-    if (row.get('source_timestamp') != common['timestamp']
-            or Decimal(str(row.get('indexValue'))) != cp):
-        raise ValueError('SAMSUNG_COMMON_QUOTE_RETAINED_OR_DIFFERENT')
+    # The cap has its own two-class input timestamps; a retained display price
+    # must neither replace these inputs nor prevent a current cap observation.
     report_age = (now.astimezone(ZoneInfo('Asia/Seoul')).date()
                   - datetime.fromisoformat(shares['as_of']).date()).days
     if (not 0 <= report_age <= 180 or shares['source'] != SHARES_URL
@@ -80,7 +92,7 @@ def apply_company_cap(row, common, preferred, shares, now, max_quote_age):
     out = deepcopy(row)
     out.update(marketCap=cap, marketCapUSD=None, currency='KRW')
     meta = dict(validation_status='INDICATIVE', quality='INDICATIVE',
-                source='Samsung IR + Google Finance', source_timestamp=min(ct, pt).isoformat(),
+                source='Samsung IR + ' + ' / '.join(dict.fromkeys(q.get('source', 'Google Finance') for q in [common, preferred])), source_timestamp=min(ct, pt).isoformat(),
                 retrieved_at=now.isoformat(), decimal=format(cap, 'f'), currency='KRW',
                 verification_sources=[], valuation_basis=BASIS, share_class_reference=SHARES_URL,
                 calculation='common price * reported common shares + preferred price * reported preferred shares',
