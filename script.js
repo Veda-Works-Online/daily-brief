@@ -260,7 +260,10 @@ function renderStocksTable(stocks, region, usdInr = null) {
       quoteTime(capMeta.source_timestamp, s.display_timezone), capMeta.valuation_basis,
       capMeta.calculation, capMeta.fx_source ? 'FX: ' + capMeta.fx_source + ' · ' + quoteTime(capMeta.fx_source_timestamp, s.display_timezone) : '',
       capMeta.source_check?.nasdaq_error ? 'Nasdaq check: ' + capMeta.source_check.nasdaq_error : ''].filter(Boolean).join(' · ') : 'DATA UNAVAILABLE';
-    const listing = ['BABA', 'TSM'].includes(s.ticker) ? '<br><small>US-listed ADR · USD quote</small>' : '';
+    const listing = ['BABA', 'TSM'].includes(s.ticker) ? '<br><small>US-listed ADR · USD quote</small>' :
+      s.ticker === '005930.KS' ? '<br><small>Company cap: common + preferred · ' +
+        escapeHtml(capMeta?.validation_status === 'STALE' ? 'stale estimate' : capMeta?.validation_status === 'DATA_UNAVAILABLE' ? 'unavailable' : 'estimate') +
+        (capMeta?.shares_as_of ? ' · shares as of ' + escapeHtml(capMeta.shares_as_of) : '') + '</small>' : '';
     const value = isCommodities ? escapeHtml(commodity.rate) : !canDisplay(s, field) ? 'DATA UNAVAILABLE' : isCurrency
       ? fmtFxValue(s.indexValue, exactValue(s, 'indexValue'))
       : isIndexes
