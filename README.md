@@ -107,3 +107,5 @@ HKEX/KRX/TWSE official live-cap feeds and paid APIs are not integrated.
 Nasdaq supplies no separate cap timestamp. Failures preserve existing fallbacks;
 per-run artifacts record free-source errors. Public endpoint availability is not
 a guarantee of real-time data. Market-cap cells retain their numeric formatting.
+
+Samsung class-price fallback: when the common quote uses Yahoo Finance, both explicitly identified KRX classes use Yahoo regular-session prices with the same freshness and timing checks. Market cap records its own class input timestamps; retained display prices are not substituted into the calculation.
