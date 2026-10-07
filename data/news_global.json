@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-07T11:14:21.029389+00:00",
+  "updated": "2026-10-07T11:44:22.983052+00:00",
   "items": [
+    {
+      "title": "US military aid to Israel continues three years into Gaza genocide",
+      "url": "https://aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T11:23:48+00:00",
+      "retrieved_at": "2026-10-07T11:44:19.886283+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US military aid and arms transfer continue unchanged, as US public sentiment shifts.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b598a639e5ddbb64168e6e00"
+    },
+    {
+      "title": "Israeli attacks across Gaza kill at least four Palestinians",
+      "url": "https://aljazeera.com/news/2026/10/7/israeli-attacks-across-gaza-kill-at-least-four-palestinians",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T11:13:32+00:00",
+      "retrieved_at": "2026-10-07T11:44:19.886310+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israeli air strike kills Palestinian Civil Defence rescue volunteer in northern Gaza.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b364bfde7d246e5a2065407b"
+    },
     {
       "title": "US sets new demands for Iran deal: What are they?",
       "url": "https://aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d2626d30ee09b88cc4ee031d"
-    },
-    {
-      "title": "Could conflict in Ethiopia expand across the region?",
-      "url": "https://aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T20:17:50+00:00",
-      "retrieved_at": "2026-10-02T20:25:59.639954+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Addis Ababa accuses Egypt, Eritrea and Sudan of backing armed groups.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b2882eade8d01e3ec383f33c"
-    },
-    {
-      "title": "Arab party leader withdraws from Israeli elections",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T19:10:23+00:00",
-      "retrieved_at": "2026-10-02T19:25:13.109188+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Palestinian politician Sami Abu Shehadeh withdrew from Israel’s upcoming election.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1503241ad15d475796adc2b2"
     }
   ],
   "unverified_history": [
