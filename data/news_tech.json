@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-07T15:00:17.060337+00:00",
+  "updated": "2026-10-07T15:05:14.984692+00:00",
   "items": [
+    {
+      "title": "Bloom raises $3.6M to become the Alibaba of American manufacturing",
+      "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing",
+      "source": "TechCrunch",
+      "published": "2026-10-07T15:00:00+00:00",
+      "retrieved_at": "2026-10-07T15:05:11.627126+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S. based manufacturers, shippers, and more.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "39d39578d6479d0a1af02403"
+    },
+    {
+      "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
+      "url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains",
+      "source": "TechCrunch",
+      "published": "2026-10-07T15:00:00+00:00",
+      "retrieved_at": "2026-10-07T15:05:11.627167+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Parallel Systems raised $100M to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2096fc234db461e004ce3576"
+    },
     {
       "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
       "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bcc1af5339bd4e33cc7fb16e"
-    },
-    {
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner",
-      "source": "TechCrunch AI",
-      "published": "2026-09-28T18:00:00+00:00",
-      "retrieved_at": "2026-09-28T18:08:02.743580+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "058bf0f09c61d114d8566784"
-    },
-    {
-      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills",
-      "source": "TechCrunch AI",
-      "published": "2026-09-28T17:29:50+00:00",
-      "retrieved_at": "2026-09-28T23:50:06.728016+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cd816f0503a90b3c21b2cae2"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-07T15:00:09.170630+00:00",
+    "checked_at": "2026-10-07T15:05:10.637220+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
