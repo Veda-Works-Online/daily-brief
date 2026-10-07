@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-07T05:03:44.462759+00:00",
+  "updated": "2026-10-07T05:08:44.112977+00:00",
   "items": [
+    {
+      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+      "url": "https://bbc.co.uk/news/articles/cqrmyz4mdn94o",
+      "source": "BBC World",
+      "published": "2026-10-07T05:02:18+00:00",
+      "retrieved_at": "2026-10-07T05:08:38.922300+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1052c17b524555c3950f1808"
+    },
     {
       "title": "Israelis pause to mark October 7 Hamas-attack anniversary",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/7/israelis-pause-to-mark-october-7-hamas-attack-anniversary",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c786ad6331e5c3f576bdf5a2"
-    },
-    {
-      "title": "FlyDubai pilot describes opening cockpit door during attack",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-describes-opening-cockpit-door-during-attack",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T11:23:27+00:00",
-      "retrieved_at": "2026-10-02T11:59:20.610619+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The Indian pilot who was stabbed by his co-pilot on a Flydubai flight to Israel describes the attack.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c17cc803922750655bf7ce99"
     }
   ],
   "unverified_history": [
