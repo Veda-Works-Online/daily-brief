@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-07T22:58:21.507604+00:00",
+  "updated": "2026-10-07T23:03:22.066777+00:00",
   "items": [
+    {
+      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+      "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere",
+      "source": "TechCrunch",
+      "published": "2026-10-07T22:59:16+00:00",
+      "retrieved_at": "2026-10-07T23:03:15.761063+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f91963816428c0362a7fd466"
+    },
     {
       "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
       "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6b173ce60337651813a99f99"
-    },
-    {
-      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
-      "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot",
-      "source": "TechCrunch",
-      "published": "2026-09-29T09:00:00+00:00",
-      "retrieved_at": "2026-09-29T09:01:42.850787+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0fa32521b6c6e144253e2874"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-07T22:58:16.041383+00:00",
+    "checked_at": "2026-10-07T23:03:14.742207+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
