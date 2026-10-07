@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T05:08:44.112977+00:00",
+  "updated": "2026-10-07T05:13:42.182412+00:00",
   "items": [
     {
       "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
@@ -16,6 +16,38 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1052c17b524555c3950f1808"
+    },
+    {
+      "title": "Three years of Israel’s genocide in Gaza: In numbers",
+      "url": "https://aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers",
+      "source": "Al Jazeera",
+      "published": "2026-10-07T05:02:04+00:00",
+      "retrieved_at": "2026-10-07T05:13:36.875764+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Three years of attacks has devastated Gaza, killing tens of thousands, destroying homes, and collapsing basic services.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c997333e315a97158569cc3e"
+    },
+    {
+      "title": "The Republican candidates walking a Trump tightrope",
+      "url": "https://bbc.co.uk/news/articles/cm93z74e0n9zo",
+      "source": "BBC World",
+      "published": "2026-10-07T05:00:21+00:00",
+      "retrieved_at": "2026-10-07T05:13:36.923599+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4c6db1699410b8bd034e1e1e"
     },
     {
       "title": "Israelis pause to mark October 7 Hamas-attack anniversary",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d737d67ccd85c727684a1f09"
-    },
-    {
-      "title": "Washington’s diplomacy in Sudan has backfired",
-      "url": "https://aljazeera.com/opinions/2026/10/2/washingtons-diplomacy-in-sudan-has-backfired",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T11:41:45+00:00",
-      "retrieved_at": "2026-10-02T11:59:20.610589+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Pressure meant to isolate Sudan’s army has instead left Washington isolated and a ceasefire further out of reach.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3136dc4f910d0fd254ea9c3f"
-    },
-    {
-      "title": "Just one in 10 Germans thinks Merz is up to the job after election wipeout",
-      "url": "https://aljazeera.com/news/2026/10/2/just-one-in-10-germans-thinks-merz-is-up-to-the-job-after-election-wipeout",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T11:31:15+00:00",
-      "retrieved_at": "2026-10-02T12:04:20.709566+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Chancellor Friedrich Merz hits a record low approval rating after his party suffered defeats in three state elections.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c786ad6331e5c3f576bdf5a2"
     }
   ],
   "unverified_history": [
