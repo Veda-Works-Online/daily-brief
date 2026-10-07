@@ -21,6 +21,7 @@ import pandas as pd
 from local_gold import GOLD_ID, refresh_gold
 from market_timezones import apply_region_timezones
 from free_sources import fetch_shenzhen, fetch_tsm, fetch_nasdaq_cap
+from samsung_cap import fetch_share_counts, apply_company_cap, cap_unavailable
 
 FIELDS = ('indexValue', 'marketCap', 'changePercent', 'absoluteChange',
           'previousClose', 'dayHigh', 'dayLow', 'volume', 'marketCapUSD')
@@ -912,6 +913,8 @@ def refresh_markets(payload):
     symbols = [r.get('source_symbol') or ('BHARTIARTL.NS' if r['ticker'] == 'BHARTIARTL' else r['ticker'])
                for rows in payload['regions'].values() for r in rows]
     symbols = list(dict.fromkeys(s for s in symbols + ['HKD=X', 'KRW=X'] if s not in {'GC=F', GOLD_ID}))
+    if '005930.KS' in symbols:
+        symbols.append('005935.KS')
     known = {r.get('source_symbol') or r['ticker']:r for rows in payload['regions'].values() for r in rows}
     def identity(symbol):
         if symbol in quotes:
@@ -925,13 +928,16 @@ def refresh_markets(payload):
         print('[market] Yahoo batch unavailable: ' + type(exc).__name__)
     def get_secondary(symbol):
         try:
-            return symbol, fetch_google(GOOGLE_FUTURES[symbol] if symbol in GOOGLE_FUTURES else google_id(symbol, identity(symbol)))
+            identifier = '005935:KRX' if symbol == '005935.KS' else GOOGLE_FUTURES[symbol] if symbol in GOOGLE_FUTURES else google_id(symbol, identity(symbol))
+            return symbol, fetch_google(identifier)
         except Exception as exc:
             return symbol, {'error': str(exc) if isinstance(exc, ValueError) else type(exc).__name__}
     with ThreadPoolExecutor(max_workers=6) as pool:
         secondary = dict(pool.map(get_secondary, symbols))
     extras, extra_errors = {}, {}
+    samsung_shares, samsung_error = None, None
     with ThreadPoolExecutor(max_workers=2) as pool:
+        share_task = pool.submit(fetch_share_counts) if '005930.KS' in symbols else None
         tasks = {s:pool.submit(fetcher) for s,fetcher in
                  [('399001.SZ',fetch_shenzhen), ('TSM',fetch_tsm)] if s in symbols}
         candidates = [s for s in symbols if s not in tasks
@@ -946,6 +952,11 @@ def refresh_markets(payload):
                 extras[symbol] = task.result()
             except Exception as exc:
                 extra_errors[symbol] = str(exc) if isinstance(exc, ValueError) else type(exc).__name__
+        if share_task is not None:
+            try:
+                samsung_shares = share_task.result()
+            except Exception as exc:
+                samsung_error = str(exc) if isinstance(exc, ValueError) else type(exc).__name__
     attempts = []
     def refresh(row):
         symbol = row.get('source_symbol') or ('BHARTIARTL.NS' if row['ticker'] == 'BHARTIARTL' else row['ticker'])
@@ -1022,6 +1033,17 @@ def refresh_markets(payload):
             if result.get('quote_currency') == 'USD' and result.get('marketCapUSD') == result['marketCap']:
                 result['field_metadata']['marketCapUSD'] = deepcopy(meta)
         result = prevent_quote_regression(row, result)
+        if symbol == '005930.KS':
+            try:
+                if samsung_shares is None:
+                    raise ValueError(samsung_error or 'SAMSUNG_SHARES_UNAVAILABLE')
+                result = apply_company_cap(result, secondary.get(symbol, {}),
+                    secondary.get('005935.KS', {}), samsung_shares, datetime.now(timezone.utc),
+                    quote_policy(symbol, result.get('market_status'))['max_quote_age_seconds'])
+            except (ValueError, KeyError, TypeError, OverflowError) as exc:
+                reason = str(exc) if isinstance(exc, ValueError) else 'SAMSUNG_CAP_INPUT_UNAVAILABLE'
+                result = cap_unavailable(result, row, reason)
+                extra_errors[symbol] = reason
         attempts.append({'ticker': row['ticker'], 'retrieved_at': now_iso(),
                          'validation_status': result['validation_status'], 'reason': result.get('error', {}).get('reason'),
                          'free_source_error':extra_errors.get(symbol),
