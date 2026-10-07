@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-07T10:19:19.841539+00:00",
+  "updated": "2026-10-07T10:24:20.629120+00:00",
   "items": [
+    {
+      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "url": "https://bbc.co.uk/news/articles/cqgm0vrl3xp7o",
+      "source": "BBC World",
+      "published": "2026-10-07T09:59:13+00:00",
+      "retrieved_at": "2026-10-07T10:24:17.630223+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "476a3304b93b8310e40c31f9"
+    },
     {
       "title": "Photos: Three years of Israel’s war on Gaza as tent cities spread amid ruin",
       "url": "https://aljazeera.com/gallery/2026/10/7/photos-three-years-of-israels-war-on-gaza-as-tent-cities-spread-amid-ruin",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "615c9eba954f0f93ab7af803"
-    },
-    {
-      "title": "How the Banco Master scandal injected chaos into Brazil’s presidential race",
-      "url": "https://aljazeera.com/features/longform/2026/10/2/how-the-banco-master-scandal-injected-chaos-into-brazils-presidential-race",
-      "source": "Al Jazeera",
-      "published": "2026-10-02T16:36:38+00:00",
-      "retrieved_at": "2026-10-02T17:10:14.530850+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Figures across Brazil's political spectrum have been linked to the scandal in the midst of a key election.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e51379df9c30eb9534948f94"
     }
   ],
   "unverified_history": [
