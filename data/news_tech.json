@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-07T23:33:19.533900+00:00",
+  "updated": "2026-10-07T23:38:23.250005+00:00",
   "items": [
+    {
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia",
+      "source": "TechCrunch",
+      "published": "2026-10-07T23:36:57+00:00",
+      "retrieved_at": "2026-10-07T23:38:17.257963+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The startup pays people to record everyday tasks.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a6cfbb1b0e820bb71b4609da"
+    },
     {
       "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
       "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "b1156c6efdbbddf9c27d4833"
-    },
-    {
-      "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
-      "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech",
-      "source": "TechCrunch",
-      "published": "2026-09-29T10:00:00+00:00",
-      "retrieved_at": "2026-09-29T10:02:44.416492+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6b173ce60337651813a99f99"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-07T23:33:15.940919+00:00",
+    "checked_at": "2026-10-07T23:38:16.203659+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
