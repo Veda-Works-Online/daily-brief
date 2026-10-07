@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T05:13:42.182412+00:00",
+  "updated": "2026-10-07T05:18:40.050424+00:00",
   "items": [
     {
       "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
@@ -272,6 +272,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9c6a290db05e9d60a68849a6"
+    },
+    {
+      "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
+      "url": "https://bbc.co.uk/news/articles/cr3wvq965dngo",
+      "source": "BBC World",
+      "published": "2026-10-06T19:53:45+00:00",
+      "retrieved_at": "2026-10-07T05:18:34.576712+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6fcbfbf59c2aeb0f0166fe9c"
     },
     {
       "title": "Russia denies imposing anti-plague measures after lab worker death",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "342a2b0396b1d4f2e373e5a5"
-    },
-    {
-      "title": "Concerns About ‘WWII Allies’ at US-China Summit",
-      "url": "https://thediplomat.com/2026/10/concerns-about-wwii-allies-at-us-china-summit",
-      "source": "The Diplomat",
-      "published": "2026-10-02T11:50:00+00:00",
-      "retrieved_at": "2026-10-02T16:40:16.448606+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "How China is weaponizing WWII history",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d737d67ccd85c727684a1f09"
     }
   ],
   "unverified_history": [
