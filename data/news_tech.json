@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-07T14:10:14.771220+00:00",
+  "updated": "2026-10-07T14:15:16.370527+00:00",
   "items": [
+    {
+      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models",
+      "source": "Ars Technica AI",
+      "published": "2026-10-07T14:12:37+00:00",
+      "retrieved_at": "2026-10-07T14:15:11.775432+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "873c334ec1837e4e8a432002"
+    },
     {
       "title": "Google rolls out improved SynthID AI content detector, now available globally",
       "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally",
@@ -19,23 +36,6 @@
       "story_fingerprint": "7b564799d2090e73d82d7fbe"
     },
     {
-      "title": "Google’s new SynthID website can identify AI-generated media",
-      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media",
-      "source": "TechCrunch AI",
-      "published": "2026-10-07T14:00:00+00:00",
-      "retrieved_at": "2026-10-07T14:05:12.206499+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video or an audio clip, is generated using AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c93d5f46a2f5c77e5ad1632e"
-    },
-    {
       "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
       "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open",
       "source": "TechCrunch AI",
@@ -51,6 +51,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6dd73d93f3e24ce33d4ffdd7"
+    },
+    {
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media",
+      "source": "TechCrunch AI",
+      "published": "2026-10-07T14:00:00+00:00",
+      "retrieved_at": "2026-10-07T14:05:12.206499+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video or an audio clip, is generated using AI.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c93d5f46a2f5c77e5ad1632e"
     },
     {
       "title": "Ring’s first smart lock can be hand-cranked when its battery dies",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "74efc6874e4a17c89ad1b15c"
-    },
-    {
-      "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
-      "url": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman",
-      "source": "TechCrunch",
-      "published": "2026-09-28T16:47:49+00:00",
-      "retrieved_at": "2026-09-28T18:08:03.658301+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cca614639bd8c938b45a95e6"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-07T14:10:09.306762+00:00",
+    "checked_at": "2026-10-07T14:15:10.891610+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
