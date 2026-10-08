@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-08T10:05:07.690063+00:00",
+  "updated": "2026-10-08T10:10:05.424496+00:00",
   "items": [
+    {
+      "title": "WIRED’s Midterms Races to Watch",
+      "url": "https://wired.com/story/wireds-midterms-races-to-watch",
+      "source": "Wired",
+      "published": "2026-10-08T10:00:00+00:00",
+      "retrieved_at": "2026-10-08T10:09:59.925903+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "From data centers to Elon Musk funding to the AI lobby, the 2026 midterms are the most WIRED elections yet. These are the candidates we're following closely.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4fe20bb328c6479af5891a51"
+    },
     {
       "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
       "url": "https://wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7cb451695904ecd8a8d65bc8"
-    },
-    {
-      "title": "Fireflies adds dictation to its desktop notetaking apps",
-      "url": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps",
-      "source": "TechCrunch",
-      "published": "2026-09-29T13:00:00+00:00",
-      "retrieved_at": "2026-09-29T13:07:53.542126+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Fireflies said that it won't charge extra for the new dictation feature, which can be used with any desktop app.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "77a9081835b89efa6afd5c86"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T10:04:58.504096+00:00",
+    "checked_at": "2026-10-08T10:09:58.525152+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
