@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-08T12:56:13.790712+00:00",
+  "updated": "2026-10-08T13:01:08.509059+00:00",
   "items": [
+    {
+      "title": "Last call to volunteer at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026",
+      "source": "TechCrunch",
+      "published": "2026-10-08T13:00:00+00:00",
+      "retrieved_at": "2026-10-08T13:01:03.997448+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "TechCrunch Founder Summit is gearing up to return to Boston on November 4! We’re doing a last call for exceptional volunteers to join us in bringing this event to life. If you’ve ever wondered about the inner workings of tech events, now’s your chance to get involved. Volunteer spots are limited, so don’t miss out! […]",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "554f7030b9b8994435825695"
+    },
     {
       "title": "Uber and China’s Pony.ai plan to launch robotaxis in London",
       "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "108f17d7266ece4d4655e6b3"
-    },
-    {
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox",
-      "source": "TechCrunch AI",
-      "published": "2026-09-29T13:53:01+00:00",
-      "retrieved_at": "2026-09-29T16:48:43.690106+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend their time, and with whom.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d7df2bd8bd2251a596e0302b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T12:56:05.523028+00:00",
+    "checked_at": "2026-10-08T13:01:02.824488+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
