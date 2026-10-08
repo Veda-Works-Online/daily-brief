@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-08T20:47:01.609258+00:00",
+  "updated": "2026-10-08T20:56:56.442507+00:00",
   "items": [
+    {
+      "title": "South Africa protests turn violent amid rage over asylum ruling",
+      "url": "https://aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling",
+      "source": "Al Jazeera",
+      "published": "2026-10-08T20:43:34+00:00",
+      "retrieved_at": "2026-10-08T20:56:51.854428+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Several cars torched and foreign-run businesses forced to shut in Johannesburg's Soweto and coastal city of Durban.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f293a0644d8aa5ac35d5f362"
+    },
     {
       "title": "Israel shuts down British consulate in occupied East Jerusalem",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/8/israel-shuts-down-british-consulate-in-occupied-east-jerusalem",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cd9c60c8f0138682fd88d8fd"
-    },
-    {
-      "title": "Spitting allegations as Ireland and Israel fight out ill-tempered draw",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/5/spitting-allegations-as-ireland-and-israel-fight-out-ill-tempered-draw",
-      "source": "Al Jazeera",
-      "published": "2026-10-05T02:28:48+00:00",
-      "retrieved_at": "2026-10-05T02:43:54.761704+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Ireland and Israel drew 1-1 in a second ill-tempered Nations League match.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f399523ad5e02f93099a5658"
     }
   ],
   "unverified_history": [
