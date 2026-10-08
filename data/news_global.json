@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T14:06:18.900146+00:00",
+  "updated": "2026-10-08T14:26:12.163130+00:00",
   "items": [
     {
       "title": "King David Hotel bombing to consulate row: A timeline of UK-Israel tension",
@@ -368,6 +368,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "eb2a1584aedb66658787c323"
+    },
+    {
+      "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+      "url": "https://bbc.co.uk/news/articles/cmx2qlz7qrd4o",
+      "source": "BBC World",
+      "published": "2026-10-08T05:06:09+00:00",
+      "retrieved_at": "2026-10-08T14:26:06.820976+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8de76eb9f7b8df4b0b47a96e"
     },
     {
       "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b39cc9a1ead8159dc42d7f7e"
-    },
-    {
-      "title": "Three years of genocide in Gaza through one man’s camera",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T16:18:01+00:00",
-      "retrieved_at": "2026-10-04T16:32:39.697120+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "For almost three years, Ibrahim Rabaa has filmed fragments of his life through Israel’s genocide in Gaza.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1bae21398167bcf4760121e7"
     }
   ],
   "unverified_history": [

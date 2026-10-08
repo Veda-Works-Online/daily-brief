@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T14:21:05.079227+00:00",
+  "updated": "2026-10-08T14:26:03.760359+00:00",
   "items": [
     {
       "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
@@ -70,23 +70,6 @@
       "story_fingerprint": "0a8e67db244b6b79e729e609"
     },
     {
-      "title": "Last call to volunteer at TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026",
-      "source": "TechCrunch",
-      "published": "2026-10-08T13:00:00+00:00",
-      "retrieved_at": "2026-10-08T13:01:03.997448+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "TechCrunch Founder Summit is gearing up to return to Boston on November 4! We’re doing a last call for exceptional volunteers to join us in bringing this event to life. If you’ve ever wondered about the inner workings of tech events, now’s your chance to get involved. Volunteer spots are limited, so don’t miss out! […]",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "554f7030b9b8994435825695"
-    },
-    {
       "title": "The New Alexa Tablets Feel Like a Blueprint for an Amazon Phone",
       "url": "https://wired.com/story/alexa-tablets-blueprint-for-upcoming-amazon-phone",
       "source": "Wired",
@@ -102,6 +85,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "52f5fb45fbec6e2066d517b8"
+    },
+    {
+      "title": "Last call to volunteer at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026",
+      "source": "TechCrunch",
+      "published": "2026-10-08T13:00:00+00:00",
+      "retrieved_at": "2026-10-08T13:01:03.997448+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "TechCrunch Founder Summit is gearing up to return to Boston on November 4! We’re doing a last call for exceptional volunteers to join us in bringing this event to life. If you’ve ever wondered about the inner workings of tech events, now’s your chance to get involved. Volunteer spots are limited, so don’t miss out! […]",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "554f7030b9b8994435825695"
     },
     {
       "title": "Uber and China’s Pony.ai plan to launch robotaxis in London",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T14:20:57.993851+00:00",
+    "checked_at": "2026-10-08T14:25:55.993966+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
