@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-08T20:01:55.120932+00:00",
+  "updated": "2026-10-08T20:06:54.443660+00:00",
   "items": [
+    {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+      "source": "TechCrunch AI",
+      "published": "2026-10-08T20:04:26+00:00",
+      "retrieved_at": "2026-10-08T20:06:49.872714+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "42f04c8a227a49600da3426e"
+    },
     {
       "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
       "url": "https://wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cfcd8e352b1a21814e508640"
-    },
-    {
-      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-      "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup",
-      "source": "Ars Technica AI",
-      "published": "2026-09-29T21:14:49+00:00",
-      "retrieved_at": "2026-09-29T21:34:20.881170+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4f1c809395edd14567c796c9"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T20:01:48.727351+00:00",
+    "checked_at": "2026-10-08T20:06:48.938120+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
