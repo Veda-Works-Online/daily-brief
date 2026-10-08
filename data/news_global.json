@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-08T12:31:18.579984+00:00",
+  "updated": "2026-10-08T12:46:14.064851+00:00",
   "items": [
+    {
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "url": "https://bbc.co.uk/news/articles/c875pwq134l3o",
+      "source": "BBC World",
+      "published": "2026-10-08T12:43:56+00:00",
+      "retrieved_at": "2026-10-08T12:46:08.560466+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d9ebb6de23627acbebd88190"
+    },
     {
       "title": "Italian law to give election winners bonus seats: Why that’s controversial",
       "url": "https://aljazeera.com/news/2026/10/8/italian-law-to-give-election-winners-bonus-seats-why-thats-controversial",
@@ -114,11 +130,11 @@
       "story_fingerprint": "ad2afddc8d6af937cb5c6fd1"
     },
     {
-      "title": "Russian attack on buses in Ukraine’s Kramatorsk kills at least 33 people",
+      "title": "Russian attack on buses in Ukraine’s Kramatorsk kills at least 30 people",
       "url": "https://aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12",
       "source": "Al Jazeera",
       "published": "2026-10-08T10:31:42+00:00",
-      "retrieved_at": "2026-10-08T11:45:11.201027+00:00",
+      "retrieved_at": "2026-10-08T12:46:08.689347+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "Eighteen people were wounded in strike on the city in eastern Donetsk region, local authorities say.",
       "category": "global",
@@ -127,23 +143,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "ce93cb248ea73d4b59b2e614"
-    },
-    {
-      "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
-      "url": "https://bbc.co.uk/news/articles/c875pwq134l3o",
-      "source": "BBC World",
-      "published": "2026-10-08T10:16:33+00:00",
-      "retrieved_at": "2026-10-08T10:25:10.041923+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "aaf1ae99f1b24fa8e38d2e4c"
+      "story_fingerprint": "d89484994e9c9c5f3fa71eaa"
     },
     {
       "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
