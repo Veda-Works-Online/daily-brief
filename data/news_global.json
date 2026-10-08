@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-08T18:52:06.110736+00:00",
+  "updated": "2026-10-08T19:17:01.688862+00:00",
   "items": [
+    {
+      "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+      "url": "https://bbc.co.uk/news/articles/c3j4790elkx7o",
+      "source": "BBC World",
+      "published": "2026-10-08T19:10:06+00:00",
+      "retrieved_at": "2026-10-08T19:16:57.252454+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ca290a5d7435c826eb2787e3"
+    },
     {
       "title": "Israel opens first-ever pavilion at Morocco defence show",
       "url": "https://aljazeera.com/news/2026/10/8/israel-opens-first-ever-pavilion-at-morocco-defence-show",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fcb9a2a81a25e36e58df23fb"
-    },
-    {
-      "title": "Israel face spitting allegation as Ireland boss ‘delighted’ games are over",
-      "url": "https://aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T23:52:49+00:00",
-      "retrieved_at": "2026-10-05T04:59:45.391101+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Ireland manager says 'disciplinary committee will look at' allegations Israel player spat at one of his coaching staff.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d3b7b72f0959edb7a4b97e81"
     }
   ],
   "unverified_history": [
