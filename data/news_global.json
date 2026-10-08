@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-08T22:37:50.829725+00:00",
+  "updated": "2026-10-08T23:02:44.373523+00:00",
   "items": [
+    {
+      "title": "Putin pledges Russia’s support to end US-led war on Iran",
+      "url": "https://aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran",
+      "source": "Al Jazeera",
+      "published": "2026-10-08T22:30:37+00:00",
+      "retrieved_at": "2026-10-08T23:02:39.162465+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The Russian and Iranian presidents met in Turkmenistan ahead of regional summit.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c98beaa052565d442a80a731"
+    },
     {
       "title": "French giants Bordeaux relegated to sixth tier for financial irregularities",
       "url": "https://aljazeera.com/sports/2026/10/8/bordeaux-relegated-to-french-sixth-tier-for-financial-irregularities",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "296e840d5b4a0f361549f903"
-    },
-    {
-      "title": "Watch: How Brazil's dramatic election unfolded",
-      "url": "https://bbc.co.uk/news/videos/cwp9g54v9xjlo",
-      "source": "BBC World",
-      "published": "2026-10-05T04:51:24+00:00",
-      "retrieved_at": "2026-10-05T04:59:45.273401+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "73f28002383a38c6b95e733a"
     }
   ],
   "unverified_history": [
