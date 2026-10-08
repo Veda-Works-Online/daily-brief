@@ -190,3 +190,16 @@ ctx.samsung.field_metadata.marketCap.validation_status = 'STALE';
 assert(ctx.renderStocksTable([ctx.samsung], 'asia').includes('stale estimate'));
 ctx.samsung.field_metadata.marketCap.validation_status = 'DATA_UNAVAILABLE';
 assert(ctx.renderStocksTable([ctx.samsung], 'asia').includes('common + preferred · unavailable'));
+const freshRow = {ticker:'TEST', validation_status:'VERIFIED', market_status:'OPEN',
+  source_timestamp:new Date().toISOString(), marketCap:1, changePercent:0,
+  quote_policy:{max_quote_age_seconds:1800},
+  field_metadata:{volume:{validation_status:'DATA_UNAVAILABLE'}}};
+const staleCapRow = {...freshRow, field_metadata:{marketCap:{validation_status:'STALE'}}};
+const expiredCapRow = {...freshRow, field_metadata:{marketCap:{validation_status:'VERIFIED',
+  source_timestamp:new Date(Date.now()-1900*1000).toISOString()}}};
+const counts = ctx.marketRefreshCounts({regions:{us:[freshRow, staleCapRow, expiredCapRow,
+  {...freshRow,marketCap:null}], commodities:[{ticker:'GOLD_24K_HYDERABAD',indexValue:1,
+    source_timestamp:new Date().toISOString(), validation_status:'INDICATIVE'}]}});
+assert.equal(counts.stale_count, 2);
+assert.equal(counts.unavailable_count, 1);
+assert(ctx.quoteStatus(expiredCapRow).startsWith('STALE'));
