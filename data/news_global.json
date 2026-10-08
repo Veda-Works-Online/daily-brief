@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T05:34:13.121153+00:00",
+  "updated": "2026-10-08T05:49:15.569597+00:00",
   "items": [
     {
       "title": "Protesters in Colombia rally against ties with Israel",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c995f680c1f9dcbeb6f590bd"
+    },
+    {
+      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+      "url": "https://bbc.co.uk/news/articles/c81dldewl5gwo",
+      "source": "BBC World",
+      "published": "2026-10-08T05:00:44+00:00",
+      "retrieved_at": "2026-10-08T05:49:12.243925+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Bassam al-Hassan, linked to reporter Austin Tice's abduction, is being sheltered in return for information.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ac1f3197715761abe6262682"
     },
     {
       "title": "Trump interrupted by protesters at Texas rally",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6d70d0bc608b65bd2c035588"
-    },
-    {
-      "title": "Ballots reach remote Indigenous Brazilians ahead of presidential election",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/4/ballots-reach-remote-indigenous-brazilians-ahead-of-presidential-election",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T02:57:48+00:00",
-      "retrieved_at": "2026-10-04T03:09:40.590636+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Ballot boxes reach remote Indigenous communities by boat as Brazil votes, with Amazon conservation a key issue.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3a4a0944ce7b0173448cd4de"
     }
   ],
   "unverified_history": [
