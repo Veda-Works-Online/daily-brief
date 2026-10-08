@@ -21,7 +21,7 @@ import pandas as pd
 from local_gold import GOLD_ID, refresh_gold
 from market_timezones import apply_region_timezones
 from free_sources import fetch_shenzhen, fetch_tsm, fetch_nasdaq_cap
-from samsung_cap import fetch_share_counts, apply_company_cap, cap_unavailable, yahoo_class_quote
+from samsung_cap import fetch_share_counts, freshest_company_cap, cap_unavailable
 
 FIELDS = ('indexValue', 'marketCap', 'changePercent', 'absoluteChange',
           'previousClose', 'dayHigh', 'dayLow', 'volume', 'marketCapUSD')
@@ -1037,11 +1037,10 @@ def refresh_markets(payload):
             try:
                 if samsung_shares is None:
                     raise ValueError(samsung_error or 'SAMSUNG_SHARES_UNAVAILABLE')
-                common, preferred = secondary.get(symbol, {}), secondary.get('005935.KS', {})
-                if result.get('source') == 'Yahoo Finance':
-                    common = yahoo_class_quote(quotes.get(symbol, {}), symbol)
-                    preferred = yahoo_class_quote(quotes.get('005935.KS', {}), '005935.KS')
-                result = apply_company_cap(result, common, preferred, samsung_shares, datetime.now(timezone.utc),
+                result = freshest_company_cap(result,
+                    (secondary.get(symbol, {}), secondary.get('005935.KS', {})),
+                    (quotes.get(symbol, {}), quotes.get('005935.KS', {})),
+                    samsung_shares, datetime.now(timezone.utc),
                     quote_policy(symbol, result.get('market_status'))['max_quote_age_seconds'])
             except (ValueError, KeyError, TypeError, OverflowError) as exc:
                 reason = str(exc) if isinstance(exc, ValueError) else 'SAMSUNG_CAP_INPUT_UNAVAILABLE'

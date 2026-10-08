@@ -100,6 +100,30 @@ class SamsungCapTests(unittest.TestCase):
         self.assertIsNone(out['marketCap'])
         self.assertEqual(out['field_metadata']['marketCap']['validation_status'], 'DATA_UNAVAILABLE')
 
+    def test_fresh_yahoo_pair_replaces_stale_google_cap_for_verified_row(self):
+        raw = dict(symbol='005930.KS', quoteType='EQUITY', exchange='KSC', currency='KRW',
+            exchangeTimezoneName='Asia/Seoul', marketState='CLOSED',
+            longName='Samsung Electronics Co., Ltd.', regularMarketPrice=273000,
+            regularMarketTime=datetime.fromisoformat(self.common['timestamp']).timestamp())
+        yahoo = (raw, dict(raw, symbol='005935.KS', regularMarketPrice=198200))
+        old = dict(self.preferred, timestamp=(self.now - timedelta(hours=1)).isoformat())
+        out = s.freshest_company_cap(self.row, (self.common, old), yahoo, self.shares, self.now, 1800)
+        self.assertEqual(out['field_metadata']['marketCap']['source'], 'Samsung IR + Yahoo Finance')
+        self.assertEqual(out['marketCap'], self.calculate()['marketCap'])
+        stale_yahoo = tuple(dict(q, regularMarketTime=(self.now - timedelta(hours=1)).timestamp()) for q in yahoo)
+        with self.assertRaisesRegex(ValueError, 'NOT_CURRENT'):
+            s.freshest_company_cap(self.row, (self.common, old), stale_yahoo, self.shares, self.now, 1800)
+
+    def test_freshest_pair_wins_without_mixing_providers(self):
+        raw = dict(symbol='005930.KS', quoteType='EQUITY', exchange='KSC', currency='KRW',
+            exchangeTimezoneName='Asia/Seoul', marketState='REGULAR',
+            longName='Samsung Electronics Co., Ltd.', regularMarketPrice=274000,
+            regularMarketTime=self.now.timestamp())
+        out = s.freshest_company_cap(self.row, (self.common, self.preferred),
+            (raw, dict(raw, symbol='005935.KS', regularMarketPrice=199000)), self.shares, self.now, 1800)
+        self.assertEqual(out['field_metadata']['marketCap']['source_timestamp'], self.now.isoformat())
+        self.assertEqual(out['marketCap'], Decimal(274000) * self.shares['common'] + Decimal(199000) * self.shares['preferred'])
+
 
 if __name__ == '__main__':
     unittest.main()

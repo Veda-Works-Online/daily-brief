@@ -91,8 +91,9 @@ Raw Yahoo/Google cap comparisons and Nasdaq failures are retained in field
 metadata. USD ADR rows discard obsolete native-cap/FX fields. Samsung's company
 cap is an explicit estimate: common price times reported common shares plus
 preferred price times reported preferred shares, then KRW-to-USD conversion.
-Each refresh reads Samsung IR's latest dated share-count table and Google prices
-for 005930 and 005935. The counts must total correctly and be no older than 180
+Each refresh reads Samsung IR's latest dated share-count table and chooses the
+freshest valid Google or Yahoo regular-session price pair for 005930 and 005935,
+independently of the row's price provider. The counts must total correctly and be no older than 180
 days; both regular-session quotes must have the same Korean date and be within
 20 minutes of each other, subject to the existing quote-age policy. The row
 visibly labels common + preferred, estimate/stale status, and the share-report

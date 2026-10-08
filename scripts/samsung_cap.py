@@ -57,7 +57,26 @@ def yahoo_class_quote(quote, symbol):
                 name=quote.get('longName') or quote.get('shortName', ''),
                 price=quote['regularMarketPrice'],
                 timestamp=datetime.fromtimestamp(quote['regularMarketTime'], timezone.utc).isoformat(),
-                session=quote.get('marketState'), source='Yahoo Finance', source_symbol=symbol)
+                session='REGULAR', provider_market_state=quote.get('marketState'),
+                source='Yahoo Finance', source_symbol=symbol)
+
+
+def freshest_company_cap(row, google_pair, yahoo_pair, shares, now, max_quote_age):
+    """Choose a validated two-class observation independently of the price row."""
+    candidates, errors = [], []
+    for pair, normalize in [(google_pair, False), (yahoo_pair, True)]:
+        try:
+            common, preferred = pair
+            if normalize:
+                common = yahoo_class_quote(common, '005930.KS')
+                preferred = yahoo_class_quote(preferred, '005935.KS')
+            candidates.append(apply_company_cap(row, common, preferred, shares, now, max_quote_age))
+        except (ValueError, KeyError, TypeError, OverflowError) as exc:
+            errors.append(str(exc) if isinstance(exc, ValueError) else 'SAMSUNG_CAP_INPUT_UNAVAILABLE')
+    if not candidates:
+        raise ValueError(errors[0])
+    return max(candidates, key=lambda item: datetime.fromisoformat(
+        item['field_metadata']['marketCap']['source_timestamp']))
 
 
 def apply_company_cap(row, common, preferred, shares, now, max_quote_age):

@@ -7,11 +7,21 @@ from decimal import Decimal
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 import market_data as m
+from fetch_data import market_refresh_counts
 
 FIXTURES = Path(__file__).parent / 'fixtures' / 'google_beta'
 
 
 class StockRefreshTests(unittest.TestCase):
+    def test_refresh_counts_include_displayed_field_failures_once_per_row(self):
+        healthy = dict(validation_status='VERIFIED', marketCap=1, changePercent=0,
+            field_metadata={'volume': {'validation_status': 'DATA_UNAVAILABLE'}})
+        stale_cap = dict(healthy, field_metadata={'marketCap': {'validation_status': 'STALE'}})
+        missing_cap = dict(healthy, marketCap=None)
+        gold = dict(ticker='GOLD_24K_HYDERABAD', validation_status='INDICATIVE', indexValue=1, changePercent=0)
+        self.assertEqual(market_refresh_counts({'regions': {'us': [healthy, stale_cap, missing_cap],
+            'commodities': [gold]}}), {'stale_count': 1, 'unavailable_count': 1})
+
     def body(self, name):
         return (FIXTURES / (name + '.html')).read_text(encoding='utf-8')
 

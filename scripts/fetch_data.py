@@ -18,6 +18,21 @@ DATA = ROOT / "data"
 DATA.mkdir(exist_ok=True)
 NEWS_ERRORS = []
 
+
+def market_refresh_counts(payload):
+    """Count affected rows using displayed fields, excluding unused volume data."""
+    stale = unavailable = 0
+    for region, rows in payload['regions'].items():
+        for row in rows:
+            fields = ['marketCap' if region in {'us', 'asia', 'india'} else 'indexValue', 'changePercent']
+            metadata = row.get('field_metadata', {})
+            stale += row.get('validation_status') == 'STALE' or any(
+                metadata.get(field, {}).get('validation_status') == 'STALE' for field in fields)
+            unavailable += row.get('validation_status') == 'DATA_UNAVAILABLE' or any(
+                row.get(field) is None or metadata.get(field, {}).get('validation_status') == 'DATA_UNAVAILABLE'
+                for field in fields)
+    return {'stale_count': stale, 'unavailable_count': unavailable}
+
 # ────────────────────────────────────────────────────────────────────
 # STOCK UNIVERSE
 # ────────────────────────────────────────────────────────────────────
@@ -530,10 +545,7 @@ def fetch_all_stocks():
     updated, attempts = refresh_markets(payload)
     updated['refresh'] = {
         'completed_at': now_iso(), 'interval_seconds': 300,
-        'stale_count': sum(row.get('validation_status') == 'STALE'
-                           for rows in updated['regions'].values() for row in rows),
-        'unavailable_count': sum(row.get('validation_status') == 'DATA_UNAVAILABLE'
-                                 for rows in updated['regions'].values() for row in rows),
+        **market_refresh_counts(updated),
     }
     atomic_write(DATA / "stocks.json", updated)
     atomic_write(ROOT / "work" / "market-attempts.json", {
