@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-08T06:59:14.124363+00:00",
+  "updated": "2026-10-08T07:04:19.326463+00:00",
   "items": [
+    {
+      "title": "Most UK diplomats to leave East Jerusalem consulate as Miliband says 'mission' to remain",
+      "url": "https://bbc.co.uk/news/articles/cw33xd6vegnno",
+      "source": "BBC World",
+      "published": "2026-10-08T06:47:09+00:00",
+      "retrieved_at": "2026-10-08T07:04:15.561174+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5043febd41cfa0a8477d20fa"
+    },
     {
       "title": "How October 7 redrew the map of the Middle East",
       "url": "https://aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "04d87f1c024110ec11dbfa05"
-    },
-    {
-      "title": "Pick-up truck overturns trying to carry military chopper in Russia",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/4/pick-up-truck-overturns-trying-to-carry-military-chopper-in-russia",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T04:06:05+00:00",
-      "retrieved_at": "2026-10-04T04:15:32.641709+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "An attempt by Russian stuntman Evgeny Chebotarev to carry an Mi-2 helicopter on a pickup truck went awfully wrong.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "927400a882bcfc9e08840389"
     }
   ],
   "unverified_history": [
