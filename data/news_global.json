@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-08T04:29:14.572612+00:00",
+  "updated": "2026-10-08T04:59:15.006836+00:00",
   "items": [
+    {
+      "title": "Trump interrupted by protesters at Texas rally",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/8/trump-interrupted-by-protesters-at-texas-rally",
+      "source": "Al Jazeera",
+      "published": "2026-10-08T04:30:57+00:00",
+      "retrieved_at": "2026-10-08T04:59:11.867904+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "At least 10 protesters were removed from a Trump rally in San Antonio as he was heckled during his speech.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "81646bb0a9258d69b9bc02f4"
+    },
     {
       "title": "South Korea pledges legal action over alleged fuel exports to Russia",
       "url": "https://aljazeera.com/news/2026/10/8/south-korea-pledges-legal-action-over-alleged-fuel-exports-to-russia",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b34dc0ea46bad2cf26ced0bb"
-    },
-    {
-      "title": "Brazil’s Lula and Bolsonaro close campaigns ahead of critical election",
-      "url": "https://aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T00:07:12+00:00",
-      "retrieved_at": "2026-10-04T00:14:39.651310+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Latest polls suggest Lula's lead over Bolsonaro is narrowing, with neither candidate likely to win outright on Sunday.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c423292e6660cbaf1ea59d54"
     }
   ],
   "unverified_history": [
