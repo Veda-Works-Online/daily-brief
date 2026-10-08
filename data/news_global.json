@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-08T10:30:16.295040+00:00",
+  "updated": "2026-10-08T10:50:13.514542+00:00",
   "items": [
+    {
+      "title": "Russian attack on Ukraine’s Kramatorsk kills at least 12 people",
+      "url": "https://aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12",
+      "source": "Al Jazeera",
+      "published": "2026-10-08T10:31:42+00:00",
+      "retrieved_at": "2026-10-08T10:50:07.631242+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Fourteen people were wounded in the Russian strike on city in eastern Ukraine's Donetsk region, local authorities say.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "66ef937c186dc347de797571"
+    },
     {
       "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
       "url": "https://bbc.co.uk/news/articles/c875pwq134l3o",
@@ -130,11 +146,11 @@
       "story_fingerprint": "986111b0bb9571ee9db090d7"
     },
     {
-      "title": "How October 7 redrew the map of the Middle East",
+      "title": "Map of Middle East redrawn after October 7",
       "url": "https://aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east",
       "source": "Al Jazeera",
       "published": "2026-10-08T06:11:24+00:00",
-      "retrieved_at": "2026-10-08T06:24:18.348452+00:00",
+      "retrieved_at": "2026-10-08T10:50:07.631486+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "Three years of war have upended alliances, weakened US influence and reshaped the region’s power balance.",
       "category": "global",
@@ -143,7 +159,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "c1e1809f6a47c4b9dc828317"
+      "story_fingerprint": "4327ad5c91d6b0b62265dd49"
     },
     {
       "title": "What did Palestinians take when they fled after October 7?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c8b6f2d6bfc218d42b9137b0"
-    },
-    {
-      "title": "Brazil votes in deeply polarised election pitting Lula against Bolsonaro",
-      "url": "https://aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T11:15:34+00:00",
-      "retrieved_at": "2026-10-04T11:36:39.906565+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Close race expected as left-wing leader Lula seeks fourth nonconsecutive term against right-wing Flavio Bolsonaro.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "31bab88e977f6aac346a5e3b"
     }
   ],
   "unverified_history": [
