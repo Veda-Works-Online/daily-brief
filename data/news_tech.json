@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-08T13:26:09.165286+00:00",
+  "updated": "2026-10-08T13:30:55.109609+00:00",
   "items": [
+    {
+      "title": "Google releases a new local-first Granola competitor",
+      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor",
+      "source": "TechCrunch AI",
+      "published": "2026-10-08T13:28:39+00:00",
+      "retrieved_at": "2026-10-08T13:30:48.649521+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "38cf8018cedd516afe7379e9"
+    },
     {
       "title": "China’s Manus raises over $500M in first funding round since split with Meta",
       "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1474ffc011ad75c4a931df9b"
-    },
-    {
-      "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
-      "url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice",
-      "source": "TechCrunch",
-      "published": "2026-09-29T15:00:00+00:00",
-      "retrieved_at": "2026-09-29T16:33:42.032038+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "73a55411515e1fbe149f9b5f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T13:26:01.948283+00:00",
+    "checked_at": "2026-10-08T13:30:48.181398+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
