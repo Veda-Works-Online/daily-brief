@@ -24,9 +24,7 @@ def market_refresh_counts(payload):
     stale = unavailable = 0
     for region, rows in payload['regions'].items():
         for row in rows:
-            fields = ['marketCap' if region in {'us', 'asia', 'india'} else 'indexValue']
-            if row.get('ticker') != 'GOLD_24K_HYDERABAD':
-                fields.append('changePercent')
+            fields = ['marketCap' if region in {'us', 'asia', 'india'} else 'indexValue', 'changePercent']
             metadata = row.get('field_metadata', {})
             stale += row.get('validation_status') == 'STALE' or any(
                 metadata.get(field, {}).get('validation_status') == 'STALE' for field in fields)
