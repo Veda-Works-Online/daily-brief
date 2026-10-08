@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-08T20:11:52.349998+00:00",
+  "updated": "2026-10-08T20:16:54.945141+00:00",
   "items": [
+    {
+      "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+      "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing",
+      "source": "Ars Technica",
+      "published": "2026-10-08T20:15:53+00:00",
+      "retrieved_at": "2026-10-08T20:16:47.782125+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "505834d6bb73ef5d0b3f8c29"
+    },
     {
       "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
@@ -19,6 +36,23 @@
       "story_fingerprint": "42f04c8a227a49600da3426e"
     },
     {
+      "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
+      "url": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027",
+      "source": "Ars Technica",
+      "published": "2026-10-08T19:57:17+00:00",
+      "retrieved_at": "2026-10-08T20:16:47.782145+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Free SSL/TLS certificate lifetimes reduce to 64 days in February.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "931640c3acd68ed58a50e944"
+    },
+    {
       "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
       "url": "https://wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate",
       "source": "Wired",
@@ -34,6 +68,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5ec03094b74adcf82fefd496"
+    },
+    {
+      "title": "An experimental tour-de-force: Entanglement between glass bead and light",
+      "url": "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory",
+      "source": "Ars Technica",
+      "published": "2026-10-08T18:45:23+00:00",
+      "retrieved_at": "2026-10-08T20:16:47.782174+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Getting a glass bead to act like a quantum object by entangling it with light.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9616fa77ecb00e0869df4ec6"
     },
     {
       "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
@@ -4199,57 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d7c7d1fbd7b59bfe84992e87"
-    },
-    {
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch",
-      "source": "TechCrunch AI",
-      "published": "2026-09-29T22:20:59+00:00",
-      "retrieved_at": "2026-09-29T22:24:22.280241+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "971f2213feedbde278be85be"
-    },
-    {
-      "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
-      "url": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies",
-      "source": "TechCrunch",
-      "published": "2026-09-29T22:18:35+00:00",
-      "retrieved_at": "2026-09-29T22:19:20.847827+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "585dddb1bdfc48d6ecbed269"
-    },
-    {
-      "title": "Protests against OpenAI get increasingly creative",
-      "url": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art",
-      "source": "Ars Technica AI",
-      "published": "2026-09-29T21:52:58+00:00",
-      "retrieved_at": "2026-09-29T22:09:21.485141+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cfcd8e352b1a21814e508640"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T20:11:47.961442+00:00",
+    "checked_at": "2026-10-08T20:16:46.414915+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
