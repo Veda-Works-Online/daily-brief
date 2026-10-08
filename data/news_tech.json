@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T22:21:49.252417+00:00",
+  "updated": "2026-10-08T22:26:50.526493+00:00",
   "items": [
     {
       "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
@@ -614,23 +614,6 @@
       "story_fingerprint": "4ee7a0221e0fe49860054ed5"
     },
     {
-      "title": "The model that didn't exist, so you made it yourself",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "source": "Hugging Face",
-      "published": "2026-10-08T00:00:00+00:00",
-      "retrieved_at": "2026-10-08T22:21:45.657135+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "9dce76d0d61c06d338e20ddd"
-    },
-    {
       "title": "Disrupting AI-enabled “false front” operations",
       "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
       "source": "OpenAI",
@@ -646,6 +629,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "52ad424335d32b9ccebd6b9c"
+    },
+    {
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "Hugging Face",
+      "published": "2026-10-08T00:00:00+00:00",
+      "retrieved_at": "2026-10-08T22:21:45.657135+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "9dce76d0d61c06d338e20ddd"
     },
     {
       "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T22:21:44.862611+00:00",
+    "checked_at": "2026-10-08T22:26:46.121622+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
