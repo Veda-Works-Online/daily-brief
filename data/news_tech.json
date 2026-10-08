@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T00:08:19.563947+00:00",
+  "updated": "2026-10-08T00:13:20.014981+00:00",
   "items": [
     {
       "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
@@ -4235,13 +4235,13 @@
       "story_fingerprint": "d257d3c7c0c472a8b2d105db"
     },
     {
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "source": "OpenAI",
       "published": "2026-09-29T10:00:00+00:00",
-      "retrieved_at": "2026-09-29T18:08:43.616491+00:00",
+      "retrieved_at": "2026-10-08T00:13:16.354541+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4249,7 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "94717e8f589b993d5d930376"
+      "story_fingerprint": "b1156c6efdbbddf9c27d4833"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T00:08:15.948737+00:00",
+    "checked_at": "2026-10-08T00:13:15.544870+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
