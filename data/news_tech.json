@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T14:11:04.420494+00:00",
+  "updated": "2026-10-08T14:16:06.836901+00:00",
   "items": [
     {
       "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
@@ -70,23 +70,6 @@
       "story_fingerprint": "0a8e67db244b6b79e729e609"
     },
     {
-      "title": "The New Alexa Tablets Feel Like a Blueprint for an Amazon Phone",
-      "url": "https://wired.com/story/alexa-tablets-blueprint-for-upcoming-amazon-phone",
-      "source": "Wired",
-      "published": "2026-10-08T13:00:00+00:00",
-      "retrieved_at": "2026-10-08T13:06:04.984898+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Amazon is rumored to be making a smartphone, and the Alexa-powered experiences on its new tablets give us a taste of what might come if that happens.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "52f5fb45fbec6e2066d517b8"
-    },
-    {
       "title": "Last call to volunteer at TechCrunch Founder Summit 2026",
       "url": "https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026",
       "source": "TechCrunch",
@@ -102,6 +85,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "554f7030b9b8994435825695"
+    },
+    {
+      "title": "The New Alexa Tablets Feel Like a Blueprint for an Amazon Phone",
+      "url": "https://wired.com/story/alexa-tablets-blueprint-for-upcoming-amazon-phone",
+      "source": "Wired",
+      "published": "2026-10-08T13:00:00+00:00",
+      "retrieved_at": "2026-10-08T13:06:04.984898+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Amazon is rumored to be making a smartphone, and the Alexa-powered experiences on its new tablets give us a taste of what might come if that happens.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "52f5fb45fbec6e2066d517b8"
     },
     {
       "title": "Uber and China’s Pony.ai plan to launch robotaxis in London",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T14:10:58.663375+00:00",
+    "checked_at": "2026-10-08T14:16:01.617430+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
