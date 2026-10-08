@@ -18,7 +18,7 @@ class StockRefreshTests(unittest.TestCase):
             field_metadata={'volume': {'validation_status': 'DATA_UNAVAILABLE'}})
         stale_cap = dict(healthy, field_metadata={'marketCap': {'validation_status': 'STALE'}})
         missing_cap = dict(healthy, marketCap=None)
-        gold = dict(ticker='GOLD_24K_HYDERABAD', validation_status='INDICATIVE', indexValue=1)
+        gold = dict(ticker='GOLD_24K_HYDERABAD', validation_status='INDICATIVE', indexValue=1, changePercent=0)
         self.assertEqual(market_refresh_counts({'regions': {'us': [healthy, stale_cap, missing_cap],
             'commodities': [gold]}}), {'stale_count': 1, 'unavailable_count': 1})
 
