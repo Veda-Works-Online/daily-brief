@@ -198,7 +198,7 @@ const staleCapRow = {...freshRow, field_metadata:{marketCap:{validation_status:'
 const expiredCapRow = {...freshRow, field_metadata:{marketCap:{validation_status:'VERIFIED',
   source_timestamp:new Date(Date.now()-1900*1000).toISOString()}}};
 const counts = ctx.marketRefreshCounts({regions:{us:[freshRow, staleCapRow, expiredCapRow,
-  {...freshRow,marketCap:null}], commodities:[{ticker:'GOLD_24K_HYDERABAD',indexValue:1,
+  {...freshRow,marketCap:null}], commodities:[{ticker:'GOLD_24K_HYDERABAD',indexValue:1,changePercent:0,
     source_timestamp:new Date().toISOString(), validation_status:'INDICATIVE'}]}});
 assert.equal(counts.stale_count, 2);
 assert.equal(counts.unavailable_count, 1);
