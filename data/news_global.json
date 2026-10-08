@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-08T03:29:15.464247+00:00",
+  "updated": "2026-10-08T03:38:58.693289+00:00",
   "items": [
+    {
+      "title": "Global protests mark October 7 attack with calls for Gaza ceasefire",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/8/global-protests-mark-october-7-attack-with-calls-for-gaza-ceasefire",
+      "source": "Al Jazeera",
+      "published": "2026-10-08T03:25:47+00:00",
+      "retrieved_at": "2026-10-08T03:38:55.463957+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Demonstrators have taken to streets across the world to demand an end to Israeli attacks on Gaza and the West Bank.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "57ef7117728cb42dd4862282"
+    },
     {
       "title": "Trump wants a new Camp David retreat at his posh Florida golf club",
       "url": "https://bbc.co.uk/news/articles/c9gkvxjvl7v3o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "46965d20c242541b26affac7"
-    },
-    {
-      "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
-      "url": "https://aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel",
-      "source": "Al Jazeera",
-      "published": "2026-10-03T22:43:58+00:00",
-      "retrieved_at": "2026-10-03T22:49:37.374517+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she will vote to 'end a genocide in Gaza'.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "227b0e6ab43ce46365d9918a"
     }
   ],
   "unverified_history": [
