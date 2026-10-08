@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T10:25:15.671379+00:00",
+  "updated": "2026-10-08T10:30:16.295040+00:00",
   "items": [
     {
       "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "aaf1ae99f1b24fa8e38d2e4c"
+    },
+    {
+      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+      "url": "https://bbc.co.uk/news/articles/ckwy48rrz95vo",
+      "source": "BBC World",
+      "published": "2026-10-08T09:56:02+00:00",
+      "retrieved_at": "2026-10-08T10:30:10.292738+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "805e388ab0e2a925ef780240"
     },
     {
       "title": "UK police charge Royal Navy member accused of working with foreign power",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "31bab88e977f6aac346a5e3b"
-    },
-    {
-      "title": "Iran says Hormuz to remain closed until US meets conditions",
-      "url": "https://aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T11:11:30+00:00",
-      "retrieved_at": "2026-10-04T11:36:39.906584+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Tehran says reopening Strait of Hormuz has been its main goal, while the US continues to focus on nuclear talks.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ce03d7f1410a697a66fcfca7"
     }
   ],
   "unverified_history": [
