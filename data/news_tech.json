@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T23:42:35.897710+00:00",
+  "updated": "2026-10-08T23:47:41.230958+00:00",
   "items": [
     {
       "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
@@ -461,23 +461,6 @@
       "story_fingerprint": "52429e2368e17694745f9f80"
     },
     {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "source": "OpenAI",
-      "published": "2026-10-08T12:00:00+00:00",
-      "retrieved_at": "2026-10-08T23:42:31.942850+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "5c43c7350de2e594d3921640"
-    },
-    {
       "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "url": "https://openai.com/index/pollo-ai",
       "source": "OpenAI",
@@ -493,6 +476,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "f88cf096c1791475647f5a78"
+    },
+    {
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "source": "OpenAI",
+      "published": "2026-10-08T12:00:00+00:00",
+      "retrieved_at": "2026-10-08T23:42:31.942850+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "5c43c7350de2e594d3921640"
     },
     {
       "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T23:42:30.937005+00:00",
+    "checked_at": "2026-10-08T23:47:36.229888+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
