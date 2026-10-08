@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-08T15:56:04.511934+00:00",
+  "updated": "2026-10-08T16:01:14.030130+00:00",
   "items": [
+    {
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger",
+      "source": "TechCrunch AI",
+      "published": "2026-10-08T16:00:00+00:00",
+      "retrieved_at": "2026-10-08T16:01:05.757943+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ca973de111069c01a002ae02"
+    },
     {
       "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
       "url": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one",
@@ -699,23 +716,6 @@
       "story_fingerprint": "7b564799d2090e73d82d7fbe"
     },
     {
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open",
-      "source": "TechCrunch AI",
-      "published": "2026-10-07T14:00:00+00:00",
-      "retrieved_at": "2026-10-07T16:22:42.216227+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6dd73d93f3e24ce33d4ffdd7"
-    },
-    {
       "title": "Google’s new SynthID website can identify AI-generated media",
       "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media",
       "source": "TechCrunch AI",
@@ -731,6 +731,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c93d5f46a2f5c77e5ad1632e"
+    },
+    {
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open",
+      "source": "TechCrunch AI",
+      "published": "2026-10-07T14:00:00+00:00",
+      "retrieved_at": "2026-10-07T16:22:42.216227+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the door. Save up to $100 on your pass, plus 50% on a second of the same type.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6dd73d93f3e24ce33d4ffdd7"
     },
     {
       "title": "Ring’s first smart lock can be hand-cranked when its battery dies",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f4ed1c45fa7e8971438f641a"
-    },
-    {
-      "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-      "url": "https://wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help",
-      "source": "Wired",
-      "published": "2026-09-29T17:15:00+00:00",
-      "retrieved_at": "2026-09-29T17:18:40.489241+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f4fb3c83216bdd918ae34643"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T15:55:58.020062+00:00",
+    "checked_at": "2026-10-08T16:01:05.287511+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
