@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-08T20:56:48.983636+00:00",
+  "updated": "2026-10-08T21:01:52.411600+00:00",
   "items": [
+    {
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website",
+      "source": "TechCrunch AI",
+      "published": "2026-10-08T21:00:00+00:00",
+      "retrieved_at": "2026-10-08T21:01:48.047587+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "be66c4dee69e94bce5772fd3"
+    },
     {
       "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
       "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bb10ed5bfde3369a6ace558b"
-    },
-    {
-      "title": "Range Rover Sport Electric: Price, Specs, Availability",
-      "url": "https://wired.com/story/range-rover-sport-electric-arrives-with-more-for-less",
-      "source": "Wired",
-      "published": "2026-09-29T23:01:00+00:00",
-      "retrieved_at": "2026-09-29T23:04:22.533606+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "By sharing the same platform, the Sport gets the same specs as the classier Range Rover Electric, but with added torque at a smaller outlay.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d7c7d1fbd7b59bfe84992e87"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T20:56:44.566694+00:00",
+    "checked_at": "2026-10-08T21:01:47.194250+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
