@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-08T03:38:58.693289+00:00",
+  "updated": "2026-10-08T04:04:17.648692+00:00",
   "items": [
+    {
+      "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+      "url": "https://bbc.co.uk/news/articles/cwn8d5rx22rdo",
+      "source": "BBC World",
+      "published": "2026-10-08T03:32:35+00:00",
+      "retrieved_at": "2026-10-08T04:04:13.907628+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6b224caed3af6aaad3f868a1"
+    },
     {
       "title": "Global protests mark October 7 attack with calls for Gaza ceasefire",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/8/global-protests-mark-october-7-attack-with-calls-for-gaza-ceasefire",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "79e756f37fa760b27e146211"
-    },
-    {
-      "title": "Why Canada is wargaming a (long shot) US invasion",
-      "url": "https://bbc.co.uk/news/articles/c9m2mjj3yvg4o",
-      "source": "BBC World",
-      "published": "2026-10-03T23:30:06+00:00",
-      "retrieved_at": "2026-10-04T16:27:36.966073+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "46965d20c242541b26affac7"
     }
   ],
   "unverified_history": [
