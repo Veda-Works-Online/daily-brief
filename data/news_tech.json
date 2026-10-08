@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-08T13:56:04.575648+00:00",
+  "updated": "2026-10-08T14:01:06.577598+00:00",
   "items": [
+    {
+      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup",
+      "source": "TechCrunch",
+      "published": "2026-10-08T14:00:00+00:00",
+      "retrieved_at": "2026-10-08T14:01:00.958787+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse and Bee.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1a2146139331c307e74627bb"
+    },
+    {
+      "title": "5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass",
+      "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door",
+      "source": "TechCrunch",
+      "published": "2026-10-08T14:00:00+00:00",
+      "retrieved_at": "2026-10-08T14:01:00.958818+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco’s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c2f8737c26512c3f59bcfc5a"
+    },
     {
       "title": "Google releases a new local-first Granola competitor",
       "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor",
@@ -23,9 +57,9 @@
       "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta",
       "source": "TechCrunch AI",
       "published": "2026-10-08T13:20:32+00:00",
-      "retrieved_at": "2026-10-08T13:21:02.486035+00:00",
+      "retrieved_at": "2026-10-08T14:01:00.287697+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund and others also participated.",
+      "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -597,23 +631,6 @@
       "story_fingerprint": "7b564799d2090e73d82d7fbe"
     },
     {
-      "title": "Google’s new SynthID website can identify AI-generated media",
-      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media",
-      "source": "TechCrunch AI",
-      "published": "2026-10-07T14:00:00+00:00",
-      "retrieved_at": "2026-10-07T14:30:13.553334+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c93d5f46a2f5c77e5ad1632e"
-    },
-    {
       "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
       "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open",
       "source": "TechCrunch AI",
@@ -629,6 +646,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6dd73d93f3e24ce33d4ffdd7"
+    },
+    {
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media",
+      "source": "TechCrunch AI",
+      "published": "2026-10-07T14:00:00+00:00",
+      "retrieved_at": "2026-10-07T14:30:13.553334+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c93d5f46a2f5c77e5ad1632e"
     },
     {
       "title": "Ring’s first smart lock can be hand-cranked when its battery dies",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e210143dd090ab50260fcfb1"
-    },
-    {
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "source": "Hugging Face",
-      "published": "2026-09-29T15:30:38+00:00",
-      "retrieved_at": "2026-09-29T15:33:42.364520+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "c828744a885e73fae990bcf5"
-    },
-    {
-      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-      "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related",
-      "source": "TechCrunch AI",
-      "published": "2026-09-29T15:12:07+00:00",
-      "retrieved_at": "2026-09-29T16:18:41.919766+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1474ffc011ad75c4a931df9b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T13:55:59.464251+00:00",
+    "checked_at": "2026-10-08T14:00:59.827261+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
