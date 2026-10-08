@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-08T02:59:19.151039+00:00",
+  "updated": "2026-10-08T03:29:15.464247+00:00",
   "items": [
+    {
+      "title": "Trump wants a new Camp David retreat at his posh Florida golf club",
+      "url": "https://bbc.co.uk/news/articles/c9gkvxjvl7v3o",
+      "source": "BBC World",
+      "published": "2026-10-08T03:00:50+00:00",
+      "retrieved_at": "2026-10-08T03:29:12.280104+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Trump's estate would stand in stark contrast to the rustic Camp David and mark another tradition transformed by Trump.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f5db99a7bd5b88cef2a60098"
+    },
     {
       "title": "US bars Fiji-based man over corruption tied to China",
       "url": "https://aljazeera.com/news/2026/10/8/us-bars-fiji-based-man-over-corruption-tied-to-china",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "227b0e6ab43ce46365d9918a"
-    },
-    {
-      "title": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
-      "url": "https://dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080",
-      "source": "DW",
-      "published": "2026-10-03T21:55:00+00:00",
-      "retrieved_at": "2026-10-04T06:05:28.213904+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Days after US President Donald Trump signed a voluntary pact with artificial intelligence giants, a former OpenAI worker said his industry needs the same safeguards as nuclear power or aviation.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "02398ed41e86f869802a4d40"
     }
   ],
   "unverified_history": [
