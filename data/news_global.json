@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-08T10:00:22.927678+00:00",
+  "updated": "2026-10-08T10:25:15.671379+00:00",
   "items": [
+    {
+      "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+      "url": "https://bbc.co.uk/news/articles/c875pwq134l3o",
+      "source": "BBC World",
+      "published": "2026-10-08T10:16:33+00:00",
+      "retrieved_at": "2026-10-08T10:25:10.041923+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "aaf1ae99f1b24fa8e38d2e4c"
+    },
     {
       "title": "UK police charge Royal Navy member accused of working with foreign power",
       "url": "https://aljazeera.com/news/2026/10/8/uk-police-charge-royal-navy-member-accused-of-working-with-foreign-power",
@@ -18,11 +34,11 @@
       "story_fingerprint": "8f01c51dca0c4f38ba5efd4f"
     },
     {
-      "title": "How Gaza war sped up India’s shift towards Israel under Modi",
+      "title": "Gaza war sped up India’s shift towards Israel under Modi",
       "url": "https://aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi",
       "source": "Al Jazeera",
       "published": "2026-10-08T08:31:44+00:00",
-      "retrieved_at": "2026-10-08T08:50:07.267041+00:00",
+      "retrieved_at": "2026-10-08T10:25:10.113292+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "As even Israel's traditional allies are distancing themselves from Netanyahu, Modi's India has embraced the country.",
       "category": "global",
@@ -31,7 +47,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "269c0a6a0f60382b0d3178d1"
+      "story_fingerprint": "328b45a4a75cc1d930b7803f"
     },
     {
       "title": "Why Israel loves skunk water",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ce03d7f1410a697a66fcfca7"
-    },
-    {
-      "title": "Russia’s nuclear plants are ageing. Who will pay to dismantle them?",
-      "url": "https://aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T10:44:23+00:00",
-      "retrieved_at": "2026-10-04T10:56:37.669020+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Moscow faces a huge decommissioning bill at home even as it expands its nuclear industry abroad.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "126ab5851a2da15a8db3a40d"
     }
   ],
   "unverified_history": [
