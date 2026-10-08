@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T00:13:20.014981+00:00",
+  "updated": "2026-10-08T00:18:21.227025+00:00",
   "items": [
     {
       "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
@@ -376,23 +376,6 @@
       "story_fingerprint": "7b564799d2090e73d82d7fbe"
     },
     {
-      "title": "Google’s new SynthID website can identify AI-generated media",
-      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media",
-      "source": "TechCrunch AI",
-      "published": "2026-10-07T14:00:00+00:00",
-      "retrieved_at": "2026-10-07T14:30:13.553334+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c93d5f46a2f5c77e5ad1632e"
-    },
-    {
       "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
       "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open",
       "source": "TechCrunch AI",
@@ -408,6 +391,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6dd73d93f3e24ce33d4ffdd7"
+    },
+    {
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media",
+      "source": "TechCrunch AI",
+      "published": "2026-10-07T14:00:00+00:00",
+      "retrieved_at": "2026-10-07T14:30:13.553334+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c93d5f46a2f5c77e5ad1632e"
     },
     {
       "title": "Ring’s first smart lock can be hand-cranked when its battery dies",
@@ -4235,13 +4235,13 @@
       "story_fingerprint": "d257d3c7c0c472a8b2d105db"
     },
     {
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
       "source": "OpenAI",
       "published": "2026-09-29T10:00:00+00:00",
-      "retrieved_at": "2026-10-08T00:13:16.354541+00:00",
+      "retrieved_at": "2026-10-08T00:18:18.678811+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4249,7 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "b1156c6efdbbddf9c27d4833"
+      "story_fingerprint": "94717e8f589b993d5d930376"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T00:13:15.544870+00:00",
+    "checked_at": "2026-10-08T00:18:17.880469+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
