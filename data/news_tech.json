@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T00:48:21.406930+00:00",
+  "updated": "2026-10-08T00:53:19.152148+00:00",
   "items": [
     {
       "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
@@ -3963,6 +3963,23 @@
       "story_fingerprint": "c2d1b83c4a604903a8c3857d"
     },
     {
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI",
+      "published": "2026-09-29T17:00:00+00:00",
+      "retrieved_at": "2026-10-08T00:53:16.906647+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "b1156c6efdbbddf9c27d4833"
+    },
+    {
       "title": "Can a chatbot fix the government maze? The White House is about to find out",
       "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out",
       "source": "TechCrunch AI",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d257d3c7c0c472a8b2d105db"
-    },
-    {
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "source": "OpenAI",
-      "published": "2026-09-29T10:00:00+00:00",
-      "retrieved_at": "2026-10-08T00:48:18.712568+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "94717e8f589b993d5d930376"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T00:48:17.934688+00:00",
+    "checked_at": "2026-10-08T00:53:15.954171+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
