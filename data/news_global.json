@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-08T20:07:01.522452+00:00",
+  "updated": "2026-10-08T20:21:58.102478+00:00",
   "items": [
+    {
+      "title": "How much worse can Yemen’s humanitarian crisis become?",
+      "url": "https://aljazeera.com/video/inside-story/2026/10/8/how-much-worse-can-yemens-humanitarian-crisis-become",
+      "source": "Al Jazeera",
+      "published": "2026-10-08T20:06:08+00:00",
+      "retrieved_at": "2026-10-08T20:21:53.656746+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "UN says fighting has displaced more than 200,000 people in five weeks.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f31feb7410615a8c2392ec4d"
+    },
     {
       "title": "India’s Cockroach movement says members detained as protests continue",
       "url": "https://aljazeera.com/news/2026/10/8/indias-cockroach-movement-says-members-detained-as-protests-continue",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8880b8c4ce0d908d05f9d9cf"
-    },
-    {
-      "title": "Nearly 1,500 migrants arrive in Myanmar from Malaysia despite UN warnings",
-      "url": "https://aljazeera.com/news/2026/10/5/nearly-1500-migrants-arrive-in-myanmar-from-malaysia-despite-un-warnings",
-      "source": "Al Jazeera",
-      "published": "2026-10-05T01:08:44+00:00",
-      "retrieved_at": "2026-10-05T01:18:51.678712+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Malaysia continues mass refugee deportations despite warnings from the UN about unsafe conditions in an active war zone.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f14dd82ab79af31ae7f3a204"
     }
   ],
   "unverified_history": [
