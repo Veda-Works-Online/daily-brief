@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T15:06:10.928320+00:00",
+  "updated": "2026-10-08T15:11:15.213374+00:00",
   "items": [
     {
       "title": "More killed in Kramatorsk as Russia targets Ukraine’s transportation system",
@@ -48,6 +48,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "99228078421ced91feeb111e"
+    },
+    {
+      "title": "The Afghan Taliban’s Growing Drone War Against Pakistan",
+      "url": "https://thediplomat.com/2026/10/the-afghan-talibans-growing-drone-war-against-pakistan",
+      "source": "The Diplomat",
+      "published": "2026-10-08T13:35:00+00:00",
+      "retrieved_at": "2026-10-08T15:11:09.665101+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "For Pakistan, the most worrying possibility is small, relatively cheap drone systems falling into the hands of terrorist groups.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5548c86bb18118c0a56d4165"
     },
     {
       "title": "Has Israel shut the UK consulate in East Jerusalem – or downgraded it?",
@@ -368,6 +384,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "11277fd439ea35f492611670"
+    },
+    {
+      "title": "Anwar is Bargaining Myanmar Lives For Political Gain – And He Will Lose",
+      "url": "https://thediplomat.com/2026/10/anwar-is-bargaining-myanmar-lives-for-political-gain-and-he-will-lose",
+      "source": "The Diplomat",
+      "published": "2026-10-08T05:39:00+00:00",
+      "retrieved_at": "2026-10-08T15:11:09.665199+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "Min Aung Hlaing should not be trusted to resolve a refugee crisis that is a direct result of his own past policies.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1e3b314a4549cf637829880a"
     },
     {
       "title": "Protesters in Colombia rally against ties with Israel",
@@ -1058,11 +1090,11 @@
       "story_fingerprint": "826ceacad6ed59cbb3fa026f"
     },
     {
-      "title": "The Quiet, Careful Growth of Philippine-Taiwan Ties",
+      "title": "The Quiet, Careful Growth of Philippines-Taiwan Ties",
       "url": "https://thediplomat.com/2026/10/the-quiet-careful-growth-of-philippine-taiwan-ties",
       "source": "The Diplomat",
       "published": "2026-10-07T14:44:00+00:00",
-      "retrieved_at": "2026-10-07T23:13:24.439036+00:00",
+      "retrieved_at": "2026-10-08T15:11:09.665309+00:00",
       "feed_url": "https://thediplomat.com/feed/",
       "summary": "Manila is exploiting the space between its One China policy and functional cooperation with Taipei.",
       "category": "global",
@@ -1071,7 +1103,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "a6651fa848ed389ec7bb565e"
+      "story_fingerprint": "341697396f28ef62b4fe1613"
     },
     {
       "title": "Russia’s Wildberries Finding Fertile Ground in Central Asia",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3d6e2b32aa78739b14e9e7f0"
-    },
-    {
-      "title": "Mass protests demanding poll chief resignation shake India for third day",
-      "url": "https://aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day",
-      "source": "Al Jazeera",
-      "published": "2026-10-04T16:55:03+00:00",
-      "retrieved_at": "2026-10-04T17:07:35.275318+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Protesters say the election commission’s voter-roll revision has removed millions of eligible voters to benefit PM Modi.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ebd6727498e1f62b4283ec98"
-    },
-    {
-      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "url": "https://bbc.co.uk/news/articles/cx8dzj9vpp01o",
-      "source": "BBC World",
-      "published": "2026-10-04T16:51:30+00:00",
-      "retrieved_at": "2026-10-04T16:52:37.632419+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d62f23db03dfd9583e2aa8b6"
     }
   ],
   "unverified_history": [
