@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-08T19:32:02.186365+00:00",
+  "updated": "2026-10-08T19:36:58.522391+00:00",
   "items": [
+    {
+      "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
+      "url": "https://wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate",
+      "source": "Wired",
+      "published": "2026-10-08T19:30:00+00:00",
+      "retrieved_at": "2026-10-08T19:36:55.742762+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5ec03094b74adcf82fefd496"
+    },
     {
       "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
       "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4f1c809395edd14567c796c9"
-    },
-    {
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model",
-      "source": "TechCrunch AI",
-      "published": "2026-09-29T20:15:47+00:00",
-      "retrieved_at": "2026-09-29T20:19:21.741414+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d552722df85145e5f5d6f5e6"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T19:31:53.968621+00:00",
+    "checked_at": "2026-10-08T19:36:54.145429+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
