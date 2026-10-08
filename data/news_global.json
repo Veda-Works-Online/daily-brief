@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-08T20:21:58.102478+00:00",
+  "updated": "2026-10-08T20:47:01.609258+00:00",
   "items": [
+    {
+      "title": "Israel shuts down British consulate in occupied East Jerusalem",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/8/israel-shuts-down-british-consulate-in-occupied-east-jerusalem",
+      "source": "Al Jazeera",
+      "published": "2026-10-08T20:34:00+00:00",
+      "retrieved_at": "2026-10-08T20:46:56.913294+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The British government says it will retain its presence in occupied East Jerusalem after Israel removed its consulate.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "520328b1b31acdb99fba4bd8"
+    },
     {
       "title": "How much worse can Yemen’s humanitarian crisis become?",
       "url": "https://aljazeera.com/video/inside-story/2026/10/8/how-much-worse-can-yemens-humanitarian-crisis-become",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f399523ad5e02f93099a5658"
-    },
-    {
-      "title": "How India became dangerously addicted to Chinese imports",
-      "url": "https://bbc.co.uk/news/articles/c5pve834grpno",
-      "source": "BBC World",
-      "published": "2026-10-05T01:42:11+00:00",
-      "retrieved_at": "2026-10-05T11:55:30.392663+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8880b8c4ce0d908d05f9d9cf"
     }
   ],
   "unverified_history": [
