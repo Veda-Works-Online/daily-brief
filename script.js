@@ -152,9 +152,7 @@ function quoteTime(iso, timeZone = 'Asia/Kolkata') {
   } catch { return 'Unknown quote time'; }
 }
 function displayedMarketFields(region, row) {
-  const fields = [['us', 'asia', 'india'].includes(region) ? 'marketCap' : 'indexValue'];
-  if (row.ticker !== 'GOLD_24K_HYDERABAD') fields.push('changePercent');
-  return fields;
+  return [['us', 'asia', 'india'].includes(region) ? 'marketCap' : 'indexValue', 'changePercent'];
 }
 function staleQuote(row, field) {
   const meta = field ? row.field_metadata?.[field] : null;
@@ -286,7 +284,7 @@ function renderStocksTable(stocks, region, usdInr = null) {
       capMeta.source_check?.nasdaq_error ? 'Nasdaq check: ' + capMeta.source_check.nasdaq_error : ''].filter(Boolean).join(' · ') : 'DATA UNAVAILABLE';
     const listing = ['BABA', 'TSM'].includes(s.ticker) ? '<br><small>US-listed ADR · USD quote</small>' :
       s.ticker === '005930.KS' ? '<br><small>Company cap: common + preferred · ' +
-        escapeHtml(capMeta?.validation_status === 'STALE' ? 'stale estimate' : capMeta?.validation_status === 'DATA_UNAVAILABLE' ? 'unavailable' : 'estimate') +
+        escapeHtml(capMeta?.validation_status === 'DATA_UNAVAILABLE' ? 'unavailable' : staleQuote(s, 'marketCap') ? 'stale estimate' : 'estimate') +
         (capMeta?.shares_as_of ? ' · shares as of ' + escapeHtml(capMeta.shares_as_of) : '') + '</small>' : '';
     const value = isCommodities ? escapeHtml(commodity.rate) : !canDisplay(s, field) ? 'DATA UNAVAILABLE' : isCurrency
       ? fmtFxValue(s.indexValue, exactValue(s, 'indexValue'))
