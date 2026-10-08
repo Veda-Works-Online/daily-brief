@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-08T09:10:05.272294+00:00",
+  "updated": "2026-10-08T09:15:02.891835+00:00",
   "items": [
+    {
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon",
+      "source": "MIT Tech Review",
+      "published": "2026-10-08T09:00:00+00:00",
+      "retrieved_at": "2026-10-08T09:14:58.212709+00:00",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or…",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "26c56713cce9def1131c4ac2"
+    },
     {
       "title": "The Man Behind a West Bank Telegram Channel Trying to Keep Palestinian Drivers Safe",
       "url": "https://wired.com/story/the-man-behind-a-west-bank-telegram-channel-trying-to-keep-palestinian-drivers-safe",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fd922e3b0e88b906c5261ec9"
-    },
-    {
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market",
-      "source": "TechCrunch",
-      "published": "2026-09-29T12:30:00+00:00",
-      "retrieved_at": "2026-09-29T12:32:45.992641+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "06bd94fcc509ed1b8132adc1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T09:09:59.391507+00:00",
+    "checked_at": "2026-10-08T09:14:57.102527+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
