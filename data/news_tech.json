@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T12:10:29.555929+00:00",
+  "updated": "2026-10-08T12:15:08.466598+00:00",
   "items": [
     {
       "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
@@ -6437,30 +6437,9 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T12:10:03.348539+00:00",
-    "status": "PARTIAL",
-    "errors": [
-      {
-        "publisher": "mistralai",
-        "reason": "HTTPError"
-      },
-      {
-        "publisher": "HuggingFaceTB",
-        "reason": "HTTPError"
-      },
-      {
-        "publisher": "HuggingFaceH4",
-        "reason": "HTTPError"
-      },
-      {
-        "publisher": "microsoft",
-        "reason": "HTTPError"
-      },
-      {
-        "publisher": "moonshotai",
-        "reason": "HTTPError"
-      }
-    ],
+    "checked_at": "2026-10-08T12:14:59.369590+00:00",
+    "status": "CURRENT",
+    "errors": [],
     "publishers": [
       "Qwen",
       "deepseek-ai",
