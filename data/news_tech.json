@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T17:36:58.955587+00:00",
+  "updated": "2026-10-08T17:41:55.828094+00:00",
   "items": [
     {
       "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
@@ -17,6 +17,40 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9547bbeedf71a536b1a7dd9d"
+    },
+    {
+      "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
+      "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever",
+      "source": "Ars Technica",
+      "published": "2026-10-08T16:32:46+00:00",
+      "retrieved_at": "2026-10-08T17:41:52.735529+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Amazon killed its app store, so Google Play it is.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bb85386e52611543a651932d"
+    },
+    {
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "source": "OpenAI",
+      "published": "2026-10-08T16:00:00+00:00",
+      "retrieved_at": "2026-10-08T17:41:52.549643+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "76c86417b2a039019262f557"
     },
     {
       "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
@@ -221,6 +255,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "52429e2368e17694745f9f80"
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI",
+      "published": "2026-10-08T12:00:00+00:00",
+      "retrieved_at": "2026-10-08T17:41:52.549667+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "f88cf096c1791475647f5a78"
     },
     {
       "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
@@ -4199,57 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f2d355b1532528564635543a"
-    },
-    {
-      "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
-      "url": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says",
-      "source": "Ars Technica",
-      "published": "2026-09-29T17:29:14+00:00",
-      "retrieved_at": "2026-09-29T19:23:41.091132+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e539a971b455f0cd30617b4e"
-    },
-    {
-      "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
-      "url": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders",
-      "source": "TechCrunch",
-      "published": "2026-09-29T17:27:09+00:00",
-      "retrieved_at": "2026-09-29T17:28:41.395059+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9e956fd2aaa71c18f1500688"
-    },
-    {
-      "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience",
-      "source": "TechCrunch AI",
-      "published": "2026-09-29T17:20:00+00:00",
-      "retrieved_at": "2026-09-29T23:34:22.383827+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6689a25a6911c712e0d67301"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T17:36:53.586677+00:00",
+    "checked_at": "2026-10-08T17:41:51.254041+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
