@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-08T13:16:12.241035+00:00",
+  "updated": "2026-10-08T13:21:07.190554+00:00",
   "items": [
+    {
+      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta",
+      "source": "TechCrunch AI",
+      "published": "2026-10-08T13:20:32+00:00",
+      "retrieved_at": "2026-10-08T13:21:02.486035+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund and others also participated.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0a8e67db244b6b79e729e609"
+    },
     {
       "title": "Last call to volunteer at TechCrunch Founder Summit 2026",
       "url": "https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "73a55411515e1fbe149f9b5f"
-    },
-    {
-      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-      "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release",
-      "source": "Ars Technica AI",
-      "published": "2026-09-29T14:22:31+00:00",
-      "retrieved_at": "2026-09-29T16:28:43.505493+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Similar performance, security trade-offs also seen in current public models.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "459ca165f2001dac295c6095"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-08T13:16:05.052555+00:00",
+    "checked_at": "2026-10-08T13:21:01.992327+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
