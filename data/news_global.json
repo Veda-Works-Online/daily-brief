@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-08T01:33:22.272253+00:00",
+  "updated": "2026-10-08T02:08:25.628068+00:00",
   "items": [
+    {
+      "title": "Why is Guantanamo prison still open?",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/8/why-is-guantanamo-prison-still-open",
+      "source": "Al Jazeera",
+      "published": "2026-10-08T01:49:11+00:00",
+      "retrieved_at": "2026-10-08T02:08:22.721005+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Guantanamo Bay opened after the US invasion of Afghanistan. 25 years later, the war is over, but the prison remains open",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1f93abbd377db5ef70db73a8"
+    },
     {
       "title": "Democrats sue US President Trump over taxpayer-funded ad campaign",
       "url": "https://aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "50eb3d3a5079394979c03ea1"
-    },
-    {
-      "title": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike",
-      "source": "Al Jazeera",
-      "published": "2026-10-03T20:10:17+00:00",
-      "retrieved_at": "2026-10-03T20:38:45.435896+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Funeral prayers were held at Gaza City’s Saint Porphyrius Greek Orthodox Church for a Palestinian mother and daughter.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6ee5029ca53938555d0985ef"
     }
   ],
   "unverified_history": [
