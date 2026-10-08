@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T16:41:12.382833+00:00",
+  "updated": "2026-10-08T16:46:20.881265+00:00",
   "items": [
     {
       "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
@@ -848,6 +848,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "50ca24e3bb68d99ee7f12a90"
+    },
+    {
+      "title": "US midterms: Is Trump campaigning at taxpayers' expense?",
+      "url": "https://dw.com/en/us-midterms-is-trump-campaigning-at-taxpayers-expense/a-79585673",
+      "source": "DW",
+      "published": "2026-10-07T20:10:00+00:00",
+      "retrieved_at": "2026-10-08T16:46:16.007591+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Despite not being on the ballot, Trump is campaigning hard ahead of the upcoming midterm elections. His tactics and promises have mostly been at the expense of US taypayers. Experts say some might violate federal law.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "26fcb2967b9bcdec2ee0ee24"
     },
     {
       "title": "As US midterm elections loom, Trump's campaign tactics are becoming increasingly unusual, and expensive",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "537d6925f35576d11c85065e"
-    },
-    {
-      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
-      "url": "https://bbc.co.uk/news/articles/c6wyz0r2n0djo",
-      "source": "BBC World",
-      "published": "2026-10-04T20:14:49+00:00",
-      "retrieved_at": "2026-10-04T20:18:20.049345+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "445f0006caa5eb131c0cbe45"
     }
   ],
   "unverified_history": [
