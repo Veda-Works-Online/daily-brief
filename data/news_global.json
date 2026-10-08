@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-08T20:56:56.442507+00:00",
+  "updated": "2026-10-08T21:31:59.943411+00:00",
   "items": [
+    {
+      "title": "Trump gives top US science awards to Elon Musk and other tech executives",
+      "url": "https://aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives",
+      "source": "Al Jazeera",
+      "published": "2026-10-08T21:11:54+00:00",
+      "retrieved_at": "2026-10-08T21:31:55.487212+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The National Medal of Science is annually given to scientists and engineers for major contributions in their fields.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f53d46938cbc7780b58b7024"
+    },
     {
       "title": "South Africa protests turn violent amid rage over asylum ruling",
       "url": "https://aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cb3eb8e60ed6ac706d0c8b2d"
-    },
-    {
-      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-      "url": "https://bbc.co.uk/news/articles/ck1l34ed592no",
-      "source": "BBC World",
-      "published": "2026-10-05T03:16:16+00:00",
-      "retrieved_at": "2026-10-05T07:54:45.182216+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cd9c60c8f0138682fd88d8fd"
     }
   ],
   "unverified_history": [
