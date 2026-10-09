@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-09T17:20:20.553151+00:00",
+  "updated": "2026-10-09T17:35:22.921720+00:00",
   "items": [
+    {
+      "title": "Shows of Strength and Signs of Strain",
+      "url": "https://warontherocks.com/shows-of-strength-and-signs-of-strain",
+      "source": "War on the Rocks",
+      "published": "2026-10-09T17:34:47+00:00",
+      "retrieved_at": "2026-10-09T17:35:19.954479+00:00",
+      "feed_url": "https://warontherocks.com/feed/",
+      "summary": "Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranIn late September, U.S. and Iranian negotiators engaged in indirect talks for the first time since the memorandum of understanding they struck in June fell apart. On Oct. 8, U.S. President Donald Trump said…",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://warontherocks.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4b27617640cb4dda5ddf9e5b"
+    },
     {
       "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
       "url": "https://bbc.co.uk/news/articles/c68xzqqn4ekro",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "68c0abeff307a491010fdd60"
-    },
-    {
-      "title": "Flávio Bolsonaro rides right-wing wave to win first round of Brazil election",
-      "url": "https://bbc.co.uk/news/articles/cqj6je4jen6po",
-      "source": "BBC World",
-      "published": "2026-10-05T20:42:19+00:00",
-      "retrieved_at": "2026-10-06T05:25:20.262176+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Flávio Bolsonaro's success could be the latest example of a resurgence of right-wing support in Latin America.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fecc209aaf4dfb81f74a921b"
     }
   ],
   "unverified_history": [
