@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-09T19:31:09.514374+00:00",
+  "updated": "2026-10-09T19:36:13.799959+00:00",
   "items": [
+    {
+      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+      "url": "https://wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting",
+      "source": "Wired",
+      "published": "2026-10-09T19:28:49+00:00",
+      "retrieved_at": "2026-10-09T19:36:07.672074+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6d51d4c9f7902d16e2918373"
+    },
     {
       "title": "AI disqualification yields new Nikon Small World in Motion winner",
       "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ef26862715c33a35fe688e94"
-    },
-    {
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots",
-      "source": "TechCrunch",
-      "published": "2026-09-30T17:45:00+00:00",
-      "retrieved_at": "2026-09-30T17:47:16.043469+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f4aebcda9084b37f5aaaffdf"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-09T19:31:03.073567+00:00",
+    "checked_at": "2026-10-09T19:36:06.338925+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
