@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T15:10:20.573368+00:00",
+  "updated": "2026-10-09T15:15:21.725386+00:00",
   "items": [
     {
       "title": "Ethiopia and Eritrea accuse one another of launching war",
@@ -256,6 +256,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "72df888ab460a85cd2736d40"
+    },
+    {
+      "title": "Finland, the world's happiest nation, faces a glum winter",
+      "url": "https://dw.com/en/finland-the-world-s-happiest-nation-faces-a-glum-winter/a-79544348",
+      "source": "DW",
+      "published": "2026-10-09T08:12:00+00:00",
+      "retrieved_at": "2026-10-09T15:15:18.547269+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Finns have many reasons to feel content, but the country's pile of debt is not one of them. Russia's war in Ukraine has added to the fiscal burden. Can the Nordic nation absorb another shock?",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d7b43fb3f8d03c1ddd889ecf"
     },
     {
       "title": "Finland: The world's happiest country has a debt problem it can no longer ignore",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "778911dc44734e18f9bdfb85"
-    },
-    {
-      "title": "Jerusalem Daily: Netanyahu gives voters dramatic ultimatum",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/5/jerusalem-daily-netanyahu-gives-voters-dramatic-ultimatum",
-      "source": "Al Jazeera",
-      "published": "2026-10-05T17:05:46+00:00",
-      "retrieved_at": "2026-10-05T17:21:44.813424+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu has given voters an election ultimatum: Vote for him or vote for Palestine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "25e1e8911691f732dd8c789a"
     }
   ],
   "unverified_history": [
