@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-09T02:02:35.685856+00:00",
+  "updated": "2026-10-09T02:07:34.800592+00:00",
   "items": [
+    {
+      "title": "Live: Watch ‘Uncanny Valley’ on Women, Tech, and Power",
+      "url": "https://wired.com/story/come-see-uncanny-valley-live",
+      "source": "Wired",
+      "published": "2026-10-09T02:00:00+00:00",
+      "retrieved_at": "2026-10-09T02:07:31.146064+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Enjoy an evening of podcasting in San Francisco for our latest WIRED@Night event.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "35a3dfe419d2136d650cc0bb"
+    },
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "url": "https://technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c6b93a481239f164ed0afa1e"
-    },
-    {
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "url": "https://technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer",
-      "source": "MIT Tech Review",
-      "published": "2026-09-30T10:40:30+00:00",
-      "retrieved_at": "2026-09-30T10:57:39.136286+00:00",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions…",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "89559658c9f5f57bdda2ddf0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-09T02:02:28.832959+00:00",
+    "checked_at": "2026-10-09T02:07:29.826555+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
