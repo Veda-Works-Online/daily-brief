@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-09T16:05:22.023822+00:00",
+  "updated": "2026-10-09T16:10:21.324498+00:00",
   "items": [
+    {
+      "title": "US imposes sanctions on International Criminal Court",
+      "url": "https://bbc.co.uk/news/articles/cj20vkkx3rdvo",
+      "source": "BBC World",
+      "published": "2026-10-09T16:06:59+00:00",
+      "retrieved_at": "2026-10-09T16:10:17.698161+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US says the measures are aimed at restricting the tribunal's resources and ability to operate.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "754b6aefd72f78d281a5a0ef"
+    },
     {
       "title": "Ethiopia and Eritrea accuse each other of starting conflict after troops cross border",
       "url": "https://bbc.co.uk/news/articles/c65ynvw250y1o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b8baea0a1e88700805ceb38d"
-    },
-    {
-      "title": "Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war",
-      "url": "https://aljazeera.com/economy/2026/10/5/trump-blames-democrats-and-ukraine-for-soaring-us-fuel-prices-not-iran-war",
-      "source": "Al Jazeera",
-      "published": "2026-10-05T19:01:32+00:00",
-      "retrieved_at": "2026-10-05T19:33:00.186298+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump shifts blame for fuel price hikes to blue states like California and Ukraine strikes on Russian oil refineries.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2ce299bdf2f7edf4386547a7"
     }
   ],
   "unverified_history": [

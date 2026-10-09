@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-09T16:05:16.358074+00:00",
+  "updated": "2026-10-09T16:10:15.222707+00:00",
   "items": [
+    {
+      "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+      "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe",
+      "source": "TechCrunch",
+      "published": "2026-10-09T16:07:26+00:00",
+      "retrieved_at": "2026-10-09T16:10:08.136922+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1963a46c51f23ec4a67381c8"
+    },
     {
       "title": "Remember Orkut? Its founder wants to bring it back",
       "url": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ed1b798ca45044d837a8091d"
-    },
-    {
-      "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
-      "url": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal",
-      "source": "TechCrunch",
-      "published": "2026-09-30T15:26:02+00:00",
-      "retrieved_at": "2026-09-30T15:26:35.076878+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "55298b4a671a53a3651c9a01"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-09T16:05:07.677661+00:00",
+    "checked_at": "2026-10-09T16:10:06.850178+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
