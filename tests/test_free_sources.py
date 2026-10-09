@@ -215,6 +215,9 @@ class ExchangeCapReconciliationTests(unittest.TestCase):
         self.assertEqual(out['field_metadata']['marketCap']['validation_status'],'STALE')
         self.assertEqual(out['field_metadata']['marketCap']['source_timestamp'],prior['field_metadata']['marketCap']['source_timestamp'])
         self.assertEqual(out['field_metadata']['marketCapUSD']['validation_status'],'DATA_UNAVAILABLE')
+        unavailable=self.bse.retain_primary_cap(self.row,self.row,{'BSE'},self.now,'TimeoutError',force_stale=True)
+        self.assertIsNone(unavailable['marketCap'])
+        self.assertEqual(unavailable['field_metadata']['marketCap']['validation_status'],'DATA_UNAVAILABLE')
 
     def test_nasdaq_direct_cap_is_indicative_and_checks_date_identity_price(self):
         row={'name':'Alphabet Inc.','ticker':'GOOGL','quote_currency':'USD','exchange':'NMS',
