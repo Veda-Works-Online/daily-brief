@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-09T17:15:23.817986+00:00",
+  "updated": "2026-10-09T17:20:20.553151+00:00",
   "items": [
+    {
+      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+      "url": "https://bbc.co.uk/news/articles/c68xzqqn4ekro",
+      "source": "BBC World",
+      "published": "2026-10-09T17:14:44+00:00",
+      "retrieved_at": "2026-10-09T17:20:17.146118+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "66ee244026b98fe98565c494"
+    },
     {
       "title": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
       "url": "https://bbc.co.uk/news/articles/cj20vkkx3rdvo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fecc209aaf4dfb81f74a921b"
-    },
-    {
-      "title": "Ukraine says Russian drone attack sinks ship in Romanian waters",
-      "url": "https://aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters",
-      "source": "Al Jazeera",
-      "published": "2026-10-05T20:03:06+00:00",
-      "retrieved_at": "2026-10-05T20:27:51.084381+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The latest suspected incursion on NATO's eastern flank increases fears that the war in Ukraine threatens to spill over.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "57210e087da4c5e099b9dc72"
     }
   ],
   "unverified_history": [
