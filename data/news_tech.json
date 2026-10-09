@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-09T14:40:19.846335+00:00",
+  "updated": "2026-10-09T14:45:19.303901+00:00",
   "items": [
+    {
+      "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
+      "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss",
+      "source": "TechCrunch",
+      "published": "2026-10-09T14:42:34+00:00",
+      "retrieved_at": "2026-10-09T14:45:09.197021+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7355593f88bfc39f7673acec"
+    },
     {
       "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
       "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c995fb1c370f3ad56fd4012e"
-    },
-    {
-      "title": "BMW reveals US 3 series pricing: The EV carries a hefty premium",
-      "url": "https://arstechnica.com/cars/2026/09/bmw-opens-us-order-books-for-the-new-gas-and-electric-3-series",
-      "source": "Ars Technica",
-      "published": "2026-09-30T14:42:58+00:00",
-      "retrieved_at": "2026-09-30T18:37:16.846318+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "The 2027 BMW 330 starts at $49,900, the i3 50 xDrive at $61,500.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "51b3bf87b0eac742db5f1cfd"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-09T14:40:09.360422+00:00",
+    "checked_at": "2026-10-09T14:45:07.896107+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
