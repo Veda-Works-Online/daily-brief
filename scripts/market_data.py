@@ -1083,7 +1083,7 @@ def refresh_markets(payload):
             try:
                 if symbol not in bse_quotes:
                     raise ValueError(bse_errors.get(symbol, 'BSE_CAP_UNAVAILABLE'))
-                result = apply_bse(result, symbol, bse_quotes[symbol], datetime.now(timezone.utc))
+                result = apply_bse(result, symbol, bse_quotes[symbol], datetime.now(timezone.utc), previous=row)
             except (ValueError, KeyError, TypeError, OverflowError) as exc:
                 error = str(exc) if isinstance(exc, ValueError) else 'BSE_CAP_INPUT_UNAVAILABLE'
                 result = retain_primary_cap(result, row, {'BSE'}, datetime.now(timezone.utc), error, force_stale=True)
