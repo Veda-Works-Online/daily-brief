@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-09T00:12:38.813316+00:00",
+  "updated": "2026-10-09T00:17:41.074394+00:00",
   "items": [
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
+      "source": "MIT Tech Review",
+      "published": "2026-10-09T00:08:24+00:00",
+      "retrieved_at": "2026-10-09T00:17:34.961423+00:00",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter…",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5a92ead7f701906b89440a1a"
+    },
     {
       "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
       "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "a8ca7f07507599113f009a8e"
-    },
-    {
-      "title": "Helping small businesses put AI to work",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "source": "OpenAI",
-      "published": "2026-09-30T10:00:00+00:00",
-      "retrieved_at": "2026-09-30T15:41:42.050235+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "545126af2d3fd83a7897f11d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-09T00:12:32.693600+00:00",
+    "checked_at": "2026-10-09T00:17:33.966365+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
