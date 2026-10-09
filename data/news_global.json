@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-09T00:32:42.365067+00:00",
+  "updated": "2026-10-09T00:52:41.239161+00:00",
   "items": [
+    {
+      "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
+      "url": "https://aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran",
+      "source": "Al Jazeera",
+      "published": "2026-10-09T00:39:20+00:00",
+      "retrieved_at": "2026-10-09T00:52:35.911905+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Crew members express relief after a record 265 days at sea that strained conditions on board.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fabf5c7d8adfdb69bcacf0f1"
+    },
     {
       "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b5f6f119716df96df0cdade6"
-    },
-    {
-      "title": "The AI-Assisted Strategic Own Goal in the Kill Chain",
-      "url": "https://warontherocks.com/cogs-of-war/the-ai-assisted-strategic-own-goal-in-the-kill-chain",
-      "source": "War on the Rocks",
-      "published": "2026-10-05T08:00:16+00:00",
-      "retrieved_at": "2026-10-05T08:04:41.326692+00:00",
-      "feed_url": "https://warontherocks.com/feed/",
-      "summary": "For eighty years, the Western alliance has anchored its strength in moral legitimacy, shared values, and the resulting credibility to shape international norms. NATO’s durability through the Cold War rested on more than nuclear deterrence alone: a shared conviction that the alliance represented a rules-based order worth sustaining, in which the use of force was bounded by law, constrained by…",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://warontherocks.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "501664bb6388863a2b6e660a"
     }
   ],
   "unverified_history": [
