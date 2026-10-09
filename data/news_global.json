@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-09T13:09:54.602989+00:00",
+  "updated": "2026-10-09T13:25:03.162858+00:00",
   "items": [
+    {
+      "title": "Ukraine pushes Russia back in Donetsk as military, civilian casualties soar",
+      "url": "https://aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar",
+      "source": "Al Jazeera",
+      "published": "2026-10-09T13:09:15+00:00",
+      "retrieved_at": "2026-10-09T13:24:56.202936+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Russia is fighting for settlements it once firmly held in Donetsk, and has retreated from many others.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7765a731d4d15318ad3b85b5"
+    },
     {
       "title": "Ukraine takes aim at Russia’s AI data infrastructure",
       "url": "https://aljazeera.com/news/2026/10/9/ukraine-takes-aim-at-russias-ai-data-infrastructure",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "61a42f6f6bb2c8f86762beb1"
-    },
-    {
-      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
-      "url": "https://bbc.co.uk/news/articles/cr0j0w3p8453o",
-      "source": "BBC World",
-      "published": "2026-10-05T15:17:23+00:00",
-      "retrieved_at": "2026-10-05T15:27:40.845407+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The vessel's captain was killed and 11 crew members were rescued after the attack on the Turkish-owned ship, Ukraine's leader says.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9ae0130ae803744f915d84a8"
     }
   ],
   "unverified_history": [
