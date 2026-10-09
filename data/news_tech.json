@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-09T16:45:15.525798+00:00",
+  "updated": "2026-10-09T16:50:17.296154+00:00",
   "items": [
+    {
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot",
+      "source": "TechCrunch",
+      "published": "2026-10-09T16:45:00+00:00",
+      "retrieved_at": "2026-10-09T16:50:08.098765+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "788ab7f02c36eded100164d0"
+    },
     {
       "title": "We can’t help treating AI like it’s human. But should we?",
       "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1f4a7c16c58973eabf6fdbff"
-    },
-    {
-      "title": "Instinct’s new product recommendations are giving some users the ick",
-      "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick",
-      "source": "TechCrunch AI",
-      "published": "2026-09-30T15:56:28+00:00",
-      "retrieved_at": "2026-09-30T15:56:45.069917+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a3961acd1de3fb5fc2847671"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-09T16:45:06.470042+00:00",
+    "checked_at": "2026-10-09T16:50:06.775785+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
