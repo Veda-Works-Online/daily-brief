@@ -82,6 +82,13 @@ def apply_bse(row, symbol, quote, now, previous=None):
 def retain_primary_cap(row, previous, sources, now, reason, force_stale=False):
     old = previous.get('field_metadata', {}).get('marketCap', {})
     if old.get('source') not in sources or previous.get('marketCap') is None:
+        if sources == {'BSE'}:
+            out = deepcopy(row)
+            out.update(marketCap=None, marketCapUSD=None)
+            for field in ['marketCap', 'marketCapUSD']:
+                out.setdefault('field_metadata', {})[field] = dict(validation_status='DATA_UNAVAILABLE',
+                    source='BSE', reason=reason, valuation_basis='BSE full company market cap')
+            return out
         return row
     out = deepcopy(row)
     ts = datetime.fromisoformat(old['source_timestamp'].replace('Z','+00:00'))
