@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T05:28:24.127091+00:00",
+  "updated": "2026-10-09T05:53:18.651485+00:00",
   "items": [
     {
       "title": "Photos: Gaza before and after – a city transformed by war",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a5fb01ddd58df1d741b95d96"
+    },
+    {
+      "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
+      "url": "https://bbc.co.uk/news/articles/c6zjx7jexz1do",
+      "source": "BBC World",
+      "published": "2026-10-09T04:53:50+00:00",
+      "retrieved_at": "2026-10-09T05:53:15.074244+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "600f746be1294a3b0d4cc6c3"
     },
     {
       "title": "Northern Ireland’s Sinn Fein faces police probe as protest tensions fester",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2f1dc815b2018ae352ff92e5"
-    },
-    {
-      "title": "Trump chooses top spy boss to run new AI taskforce",
-      "url": "https://bbc.co.uk/news/articles/cqj6jenp26zyo",
-      "source": "BBC World",
-      "published": "2026-10-05T10:03:38+00:00",
-      "retrieved_at": "2026-10-05T10:05:34.124180+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d7bc505f78737a78a9805b5a"
     }
   ],
   "unverified_history": [
