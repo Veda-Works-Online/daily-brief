@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T14:40:26.306684+00:00",
+  "updated": "2026-10-09T15:00:19.146896+00:00",
   "items": [
     {
       "title": "Ethiopia and Eritrea accuse one another of launching war",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "eb5ce2055e1d49a0e4ad1397"
+    },
+    {
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "url": "https://bbc.co.uk/news/articles/cm9wz5kng0x1o",
+      "source": "BBC World",
+      "published": "2026-10-09T14:00:47+00:00",
+      "retrieved_at": "2026-10-09T15:00:15.796968+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b41a5063e47ef28fbe4372ad"
     },
     {
       "title": "Ukraine pushes Russia back in Donetsk as military, civilian casualties soar",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e4741770ac380a5cee35fe8a"
-    },
-    {
-      "title": "Medvedev disqualified from China Open for hitting fan with a ball",
-      "url": "https://aljazeera.com/sports/2026/10/5/medvedev-disqualified-from-china-open-for-hitting-fan-with-a-ball",
-      "source": "Al Jazeera",
-      "published": "2026-10-05T16:17:07+00:00",
-      "retrieved_at": "2026-10-05T16:46:44.174789+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Russia's Daniil Medvedev disqualified from China Open for hitting spectator with ball during match with Novak Djokovic.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7e23b726f21ed69160fcf1f8"
     }
   ],
   "unverified_history": [
