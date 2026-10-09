@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T07:03:20.796948+00:00",
+  "updated": "2026-10-09T07:13:19.433127+00:00",
   "items": [
     {
       "title": "Who is Dov Lando, the Israeli rabbi criticising Zionism?",
@@ -82,11 +82,11 @@
       "story_fingerprint": "a5fb01ddd58df1d741b95d96"
     },
     {
-      "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
+      "title": "Russian strikes and approaching winter force many in Kyiv to pack bags and flee",
       "url": "https://bbc.co.uk/news/articles/c6zjx7jexz1do",
       "source": "BBC World",
       "published": "2026-10-09T04:53:50+00:00",
-      "retrieved_at": "2026-10-09T05:53:15.074244+00:00",
+      "retrieved_at": "2026-10-09T07:13:16.197626+00:00",
       "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "summary": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
       "category": "global",
@@ -95,7 +95,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "600f746be1294a3b0d4cc6c3"
+      "story_fingerprint": "eb168a84440ca887faedba4b"
     },
     {
       "title": "Northern Ireland’s Sinn Fein faces police probe as protest tensions fester",
@@ -384,6 +384,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ca290a5d7435c826eb2787e3"
+    },
+    {
+      "title": "A Raid on a Gay Bar Risks Taiwan’s LGBTQ-Friendly Reputation",
+      "url": "https://thediplomat.com/2026/10/a-raid-on-a-gay-bar-risks-taiwans-lgbtq-friendly-reputation",
+      "source": "The Diplomat",
+      "published": "2026-10-08T19:01:00+00:00",
+      "retrieved_at": "2026-10-09T07:13:16.220000+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "An attorney says authorities overstepped legal bounds, and activists warn of discrimination ahead of Asia's largest Pride event.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5465a31c3cf64827517414f4"
     },
     {
       "title": "Israel opens first-ever pavilion at Morocco defence show",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "682cc353bb09cbf23d4ea983"
-    },
-    {
-      "title": "Gaza mothers seek breastfeeding support amid hunger and siege",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/5/gaza-mothers-seek-breastfeeding-support-amid-hunger-and-siege",
-      "source": "Al Jazeera",
-      "published": "2026-10-05T10:42:08+00:00",
-      "retrieved_at": "2026-10-05T11:00:33.538014+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Palestinian mothers are finding it increasingly difficult to breastfeed their babies in Gaza.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "150d99779f4aa971cbcaa6cb"
     }
   ],
   "unverified_history": [
