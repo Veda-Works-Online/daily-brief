@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T17:55:18.173019+00:00",
+  "updated": "2026-10-09T18:10:23.383796+00:00",
   "items": [
     {
       "title": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6d0100c4e64455fe28f12b22"
+    },
+    {
+      "title": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms",
+      "source": "Al Jazeera",
+      "published": "2026-10-09T17:37:05+00:00",
+      "retrieved_at": "2026-10-09T18:10:20.004709+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A US charity announced it will use an AI-software to monitor Gaza classrooms for ‘anti-Semitism’ and ‘hate speech’.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2f591bda595092f8ede57173"
     },
     {
       "title": "Shows of Strength and Signs of Strain",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fb56c05e734d67f06a219ff4"
-    },
-    {
-      "title": "Trump says US ready to aid Russia with plague outbreak in Siberia",
-      "url": "https://aljazeera.com/news/2026/10/5/trump-says-us-ready-to-aid-russia-with-plague-outbreak-in-siberia",
-      "source": "Al Jazeera",
-      "published": "2026-10-05T21:03:21+00:00",
-      "retrieved_at": "2026-10-05T21:17:51.696140+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Russian authorities quarantine hospital, monitor 200 contacts after suspected pneumonic plague death in Siberia.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "716374dbede79ffa575804da"
     }
   ],
   "unverified_history": [
