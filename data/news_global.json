@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T10:29:47.273894+00:00",
+  "updated": "2026-10-09T10:34:52.702116+00:00",
   "items": [
     {
       "title": "The girls in the Gaza school photograph",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "23819b29c0db860bb24e239d"
+    },
+    {
+      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "url": "https://bbc.co.uk/news/articles/cmz7xe37g5wro",
+      "source": "BBC World",
+      "published": "2026-10-09T10:07:04+00:00",
+      "retrieved_at": "2026-10-09T10:34:45.954268+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8a9bb42729ff743714de4be4"
     },
     {
       "title": "2026 Nobel Peace Prize awarded to Navi Pillay",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "113b451e08d5126518256a37"
-    },
-    {
-      "title": "A Woman Exposed China’s Cat-Abuse Networks – and Paid a Terrible Price",
-      "url": "https://thediplomat.com/2026/10/a-woman-exposed-chinas-cat-abuse-networks-and-paid-a-terrible-price",
-      "source": "The Diplomat",
-      "published": "2026-10-05T13:04:00+00:00",
-      "retrieved_at": "2026-10-05T15:11:50.455973+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "When the law lags behind, citizens end up doing investigative work themselves, and pay for it when the people they expose strike back.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d2eb1f044ee11b26da72a9d8"
     }
   ],
   "unverified_history": [
