@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T18:36:11.938380+00:00",
+  "updated": "2026-10-09T18:41:10.185665+00:00",
   "items": [
     {
       "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
@@ -291,23 +291,6 @@
       "story_fingerprint": "be42b6a2e32a1da9b67005c7"
     },
     {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI",
-      "published": "2026-10-09T07:00:00+00:00",
-      "retrieved_at": "2026-10-09T18:36:03.876946+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "eb390223549dc0048e83a9b6"
-    },
-    {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
       "source": "OpenAI",
@@ -323,6 +306,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "f1f4216583e95326ce27ef10"
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI",
+      "published": "2026-10-09T07:00:00+00:00",
+      "retrieved_at": "2026-10-09T18:36:03.876946+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "eb390223549dc0048e83a9b6"
     },
     {
       "title": "Livestream Replay: Watch ‘Uncanny Valley’ on Women, Tech, and Power",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-09T18:36:02.707749+00:00",
+    "checked_at": "2026-10-09T18:41:01.148637+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
