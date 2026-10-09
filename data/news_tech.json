@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-09T15:55:18.487683+00:00",
+  "updated": "2026-10-09T16:00:20.346124+00:00",
   "items": [
+    {
+      "title": "Remember Orkut? Its founder wants to bring it back",
+      "url": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back",
+      "source": "TechCrunch",
+      "published": "2026-10-09T15:56:15+00:00",
+      "retrieved_at": "2026-10-09T16:00:10.488189+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Orkut's founder is now taking aim at algorithms and AI-generated content.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b651f54f7b3de764e7ab10f8"
+    },
     {
       "title": "A16z’s Olivia Moore on the state of consumer AI",
       "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "55298b4a671a53a3651c9a01"
-    },
-    {
-      "title": "Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio",
-      "source": "Google DeepMind",
-      "published": "2026-09-30T15:03:07+00:00",
-      "retrieved_at": "2026-09-30T15:06:33.630813+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "8d6b407bd70776c88485322a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-09T15:55:09.002878+00:00",
+    "checked_at": "2026-10-09T16:00:09.309788+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
