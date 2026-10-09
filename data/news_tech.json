@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-09T22:01:02.172808+00:00",
+  "updated": "2026-10-09T22:06:01.169761+00:00",
   "items": [
+    {
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google",
+      "source": "Ars Technica AI",
+      "published": "2026-10-09T22:04:07+00:00",
+      "retrieved_at": "2026-10-09T22:05:56.847212+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "11155b4e733b9ee2f00fb967"
+    },
     {
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
       "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4526b8beb04b3e9f9684a646"
-    },
-    {
-      "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
-      "url": "https://wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps",
-      "source": "Wired",
-      "published": "2026-09-30T19:00:00+00:00",
-      "retrieved_at": "2026-09-30T19:02:15.696159+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9836945db7d1c913c6324b97"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-09T22:00:55.599547+00:00",
+    "checked_at": "2026-10-09T22:05:55.815990+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
