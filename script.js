@@ -287,7 +287,7 @@ function renderStocksTable(stocks, region, usdInr = null) {
         escapeHtml(capMeta?.validation_status === 'DATA_UNAVAILABLE' ? 'unavailable' : staleQuote(s, 'marketCap') ? 'stale estimate' : 'estimate') +
         (capMeta?.shares_as_of ? ' · shares as of ' + escapeHtml(capMeta.shares_as_of) : '') + '</small>' :
       capMeta?.source === 'BSE' ? '<br><small>BSE full company cap · ' +
-        (staleQuote(s, 'marketCap') ? 'stale snapshot' : 'indicative snapshot') + ' · ' +
+        (capMeta.validation_status === 'DATA_UNAVAILABLE' ? 'unavailable' : staleQuote(s, 'marketCap') ? 'stale snapshot' : 'indicative snapshot') + ' · ' +
         escapeHtml(quoteTime(capMeta.source_timestamp, s.display_timezone)) + '</small>' :
       capMeta?.source === 'Nasdaq' ? '<br><small>Nasdaq company cap · indicative snapshot · ' +
         escapeHtml(capMeta.source_date || '') + '</small>' : '';
