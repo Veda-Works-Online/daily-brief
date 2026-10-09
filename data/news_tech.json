@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-09T19:36:13.799959+00:00",
+  "updated": "2026-10-09T19:41:07.947672+00:00",
   "items": [
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+      "source": "TechCrunch AI",
+      "published": "2026-10-09T19:36:56+00:00",
+      "retrieved_at": "2026-10-09T19:41:03.084349+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4f7d594b498a66eab12ac1a2"
+    },
     {
       "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
       "url": "https://wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "307cb536e16d7140ba969fc6"
-    },
-    {
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b",
-      "source": "TechCrunch AI",
-      "published": "2026-09-30T18:23:57+00:00",
-      "retrieved_at": "2026-09-30T18:27:15.733520+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ef26862715c33a35fe688e94"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-09T19:36:06.338925+00:00",
+    "checked_at": "2026-10-09T19:41:02.560739+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
