@@ -154,4 +154,81 @@ class FreeSourceTests(unittest.TestCase):
             self.assertNotIn(key,out)
 
 
+class ExchangeCapReconciliationTests(unittest.TestCase):
+    def setUp(self):
+        import exchange_caps as bse
+        self.bse = bse
+        self.now = datetime(2026,10,9,3,0,tzinfo=timezone.utc)
+        self.header = {'Cmpname':{'EquityScrips':'500180','FullN':'HDFC Bank Ltd'},
+            'CurrRate':{'LTP':'692.60'},'Header':{'Ason':'08 Oct 26 | 16:00'}}
+        self.trade = {'MktCapFull':'10,67,892.05'}
+        self.row = {'name':'HDFC Bank','ticker':'HDFCBANK.NS','marketCap':Decimal('5310000000000'),
+            'indexValue':Decimal('692.2'),'changePercent':Decimal('-1.0'),'currency':'INR',
+            'source_timestamp':'2026-10-08T10:00:00+00:00','market_status':'CLOSED',
+            'field_metadata':{'marketCap':{'validation_status':'INDICATIVE','source':'Google Finance'}}}
+
+    def quote(self):
+        return dict(self.bse.parse_bse('HDFCBANK.NS',self.header,self.trade),retrieved_at=self.now.isoformat())
+
+    def test_bse_crore_scale_and_cap_independent_of_nse_price(self):
+        out=self.bse.apply_bse(self.row,'HDFCBANK.NS',self.quote(),self.now)
+        self.assertEqual(out['marketCap'],Decimal('10678920500000'))
+        self.assertEqual(out['indexValue'],self.row['indexValue'])
+        self.assertEqual(out['changePercent'],self.row['changePercent'])
+        self.assertEqual(out['field_metadata']['marketCap']['source'],'BSE')
+        self.assertEqual(out['field_metadata']['marketCap']['validation_status'],'INDICATIVE')
+
+    def test_adani_split_adjusted_full_cap(self):
+        h={'Cmpname':{'EquityScrips':'533096','FullN':'Adani Power Ltd'},
+           'CurrRate':{'LTP':'188.00'},'Header':{'Ason':'08 Oct 26 | 16:00'}}
+        q=self.bse.parse_bse('ADANIPOWER.NS',h,{'MktCapFull':'3,62,552.26'})
+        self.assertEqual(q['marketCap'],Decimal('3625522600000'))
+
+    def test_identity_nonfinite_and_missing_date_fail_closed(self):
+        import copy
+        for part,key,value in [('Cmpname','EquityScrips','500112'),('Cmpname','FullN','State Bank of India'),
+                               ('Header','Ason',''),('CurrRate','LTP','NaN')]:
+            h=copy.deepcopy(self.header);h[part][key]=value
+            with self.subTest(key=key),self.assertRaises(ValueError):
+                self.bse.parse_bse('HDFCBANK.NS',h,self.trade)
+        with self.assertRaises(ValueError):
+            self.bse.parse_bse('HDFCBANK.NS',self.header,{'MktCapFull':'NaN'})
+
+    def test_open_session_older_session_future_and_regression_rejected(self):
+        q=self.quote()
+        with self.assertRaisesRegex(ValueError,'NOT_CURRENT'):
+            self.bse.apply_bse(dict(self.row,market_status='OPEN'),'HDFCBANK.NS',q,self.now)
+        with self.assertRaisesRegex(ValueError,'OLDER_SESSION'):
+            self.bse.apply_bse(dict(self.row,source_timestamp='2026-10-09T02:00:00Z'),'HDFCBANK.NS',q,self.now)
+        with self.assertRaisesRegex(ValueError,'NOT_CURRENT'):
+            self.bse.apply_bse(self.row,'HDFCBANK.NS',dict(q,timestamp='2026-10-10T10:30:00+00:00'),self.now)
+        previous=self.bse.apply_bse(self.row,'HDFCBANK.NS',q,self.now)
+        with self.assertRaisesRegex(ValueError,'OLDER_BSE'):
+            self.bse.apply_bse(previous,'HDFCBANK.NS',dict(q,timestamp='2026-10-08T10:00:00+00:00'),self.now)
+        with self.assertRaisesRegex(ValueError,'OLDER_BSE'):
+            self.bse.apply_bse(self.row,'HDFCBANK.NS',dict(q,timestamp='2026-10-08T10:00:00+00:00'),self.now,previous=previous)
+
+    def test_bse_failure_retains_corrected_cap_as_stale(self):
+        prior=self.bse.apply_bse(self.row,'HDFCBANK.NS',self.quote(),self.now)
+        out=self.bse.retain_primary_cap(self.row,prior,{'BSE'},self.now,'TimeoutError',force_stale=True)
+        self.assertEqual(out['marketCap'],prior['marketCap'])
+        self.assertEqual(out['field_metadata']['marketCap']['validation_status'],'STALE')
+        self.assertEqual(out['field_metadata']['marketCap']['source_timestamp'],prior['field_metadata']['marketCap']['source_timestamp'])
+        self.assertEqual(out['field_metadata']['marketCapUSD']['validation_status'],'DATA_UNAVAILABLE')
+
+    def test_nasdaq_direct_cap_is_indicative_and_checks_date_identity_price(self):
+        row={'name':'Alphabet Inc.','ticker':'GOOGL','quote_currency':'USD','exchange':'NMS',
+             'source_timestamp':'2026-10-08T20:00:00Z','market_status':'CLOSED',
+             'indexValue':Decimal('348.29'),'marketCap':Decimal('4240000000000'),'field_metadata':{}}
+        q={'symbol':'GOOGL','company_name':'Alphabet Inc.','exchange':'NASDAQ','source_date':'2026-10-08',
+           'price':Decimal('348.29'),'marketCap':Decimal('4259586700000'),'retrieved_at':self.now.isoformat()}
+        out=m.nasdaq_snapshot(row,'GOOGL',q,self.now)
+        self.assertEqual(out['marketCap'],q['marketCap'])
+        self.assertEqual(out['field_metadata']['marketCap']['validation_status'],'INDICATIVE')
+        for changes in [{'company_name':'Microsoft'},{'source_date':'2026-10-07'},{'exchange':'NYSE'},
+                        {'price':Decimal('100')},{'marketCap':Decimal('NaN')}]:
+            with self.subTest(changes=changes),self.assertRaises(ValueError):
+                m.nasdaq_snapshot(row,'GOOGL',dict(q,**changes),self.now)
+
+
 if __name__ == '__main__':unittest.main()
