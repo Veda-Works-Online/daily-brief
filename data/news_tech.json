@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T00:52:32.855625+00:00",
+  "updated": "2026-10-09T00:57:41.309003+00:00",
   "items": [
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -53,11 +53,28 @@
       "story_fingerprint": "be66c4dee69e94bce5772fd3"
     },
     {
-      "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says",
+      "source": "Ars Technica",
+      "published": "2026-10-08T20:39:31+00:00",
+      "retrieved_at": "2026-10-09T00:57:36.475220+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2c2ffee5d83bda592b0c9584"
+    },
+    {
+      "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
       "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing",
       "source": "Ars Technica",
       "published": "2026-10-08T20:15:53+00:00",
-      "retrieved_at": "2026-10-08T20:16:47.782125+00:00",
+      "retrieved_at": "2026-10-09T00:57:36.475244+00:00",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
       "isAI": false,
@@ -67,7 +84,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "505834d6bb73ef5d0b3f8c29"
+      "story_fingerprint": "0bcfeaaef9d20930c87e279b"
     },
     {
       "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "source_type": "PUBLISHER",
       "story_fingerprint": "89559658c9f5f57bdda2ddf0"
-    },
-    {
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "source": "OpenAI",
-      "published": "2026-09-30T10:30:00+00:00",
-      "retrieved_at": "2026-09-30T17:37:14.961290+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "a8ca7f07507599113f009a8e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-09T00:52:27.822777+00:00",
+    "checked_at": "2026-10-09T00:57:35.197466+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
