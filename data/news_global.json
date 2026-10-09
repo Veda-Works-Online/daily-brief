@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T17:35:22.921720+00:00",
+  "updated": "2026-10-09T17:45:22.020709+00:00",
   "items": [
     {
       "title": "Shows of Strength and Signs of Strain",
@@ -16,6 +16,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4b27617640cb4dda5ddf9e5b"
+    },
+    {
+      "title": "Drone strike kills 30 people in Sudan’s Blue Nile region",
+      "url": "https://aljazeera.com/news/2026/10/9/drone-strike-kills-30-people-in-sudans-blue-nile-region",
+      "source": "Al Jazeera",
+      "published": "2026-10-09T17:19:43+00:00",
+      "retrieved_at": "2026-10-09T17:45:18.472934+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Drone reportedly linked to RSF targets Wad al-Mahi, killing dozens near displacement camp, including women and children.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "54325a94b250f73be0f8a096"
     },
     {
       "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "716374dbede79ffa575804da"
-    },
-    {
-      "title": "What’s next for Bosnia after elections?",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/5/whats-next-for-bosnia-after-elections",
-      "source": "Al Jazeera",
-      "published": "2026-10-05T20:54:57+00:00",
-      "retrieved_at": "2026-10-05T21:02:50.028939+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Bosnia and Herzegovina’s election strengthened nationalist parties.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "68c0abeff307a491010fdd60"
     }
   ],
   "unverified_history": [
