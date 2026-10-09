@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-09T11:04:31.539073+00:00",
+  "updated": "2026-10-09T11:09:34.104763+00:00",
   "items": [
+    {
+      "title": "Dunking on Dating App Profiles Is Content Gold. People Are Getting Sick of It",
+      "url": "https://wired.com/story/dunking-on-dating-app-profiles-is-content-gold-people-are-getting-sick-of-it",
+      "source": "Wired",
+      "published": "2026-10-09T11:00:00+00:00",
+      "retrieved_at": "2026-10-09T11:09:26.215595+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Relationship coaches, TikTokers, and disgruntled singles alike frequently shame bad profiles, as more apps experiment with blocking screenshots.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c6a11e545c6dd7897e2399e5"
+    },
+    {
+      "title": "The Best Mac Desktop to Buy (2026): Mac Mini, Mac Studio, or iMac?",
+      "url": "https://wired.com/story/best-mac-desktop",
+      "source": "Wired",
+      "published": "2026-10-09T11:00:00+00:00",
+      "retrieved_at": "2026-10-09T11:09:26.215625+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Apple’s Mac desktops have become some of the most sought-after computers this year, driven by surging interest in agentic AI. Here’s which model to buy depending on your use case.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1a20fdd9b35711cba7563970"
+    },
     {
       "title": "Best Battery-Powered Leaf Blowers (2026): Tested for Power, Battery Life, and Noise",
       "url": "https://wired.com/story/best-battery-powered-leaf-blowers",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "55df9504b3a55753bfa63027"
-    },
-    {
-      "title": "Instagram rolls out an AI video editor for creators",
-      "url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators",
-      "source": "TechCrunch",
-      "published": "2026-09-30T14:30:00+00:00",
-      "retrieved_at": "2026-09-30T14:31:35.234315+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "82fd1ababb28e57bcb54b5f8"
-    },
-    {
-      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents",
-      "source": "TechCrunch AI",
-      "published": "2026-09-30T14:27:11+00:00",
-      "retrieved_at": "2026-09-30T16:21:32.689132+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f361fd049710a02d91b37876"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-09T11:04:24.435698+00:00",
+    "checked_at": "2026-10-09T11:09:23.659284+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
