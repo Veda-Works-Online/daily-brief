@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-09T09:59:15.291494+00:00",
+  "updated": "2026-10-09T10:04:44.106908+00:00",
   "items": [
+    {
+      "title": "Even ‘Law & Order’ Is Terrified of AI",
+      "url": "https://wired.com/story/even-law-and-order-is-terrified-of-ai",
+      "source": "Wired",
+      "published": "2026-10-09T10:00:00+00:00",
+      "retrieved_at": "2026-10-09T10:04:36.417422+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c41d69736f669dbe426f4001"
+    },
     {
       "title": "A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up",
       "url": "https://wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7c12f7061693b65662e0c6a6"
-    },
-    {
-      "title": "OpenAI delays IPO over AI safety concerns",
-      "url": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns",
-      "source": "Ars Technica AI",
-      "published": "2026-09-30T14:06:15+00:00",
-      "retrieved_at": "2026-09-30T14:11:35.686050+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "694568d194f4c19596edab98"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-09T09:59:08.240809+00:00",
+    "checked_at": "2026-10-09T10:04:33.600667+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
