@@ -160,7 +160,7 @@ function staleQuote(row, field) {
   const ts = meta?.source_timestamp || row.source_timestamp;
   if (!ts) return false;
   const age = Date.now() - new Date(ts).getTime();
-  const maxAge = (row.quote_policy?.max_quote_age_seconds ?? (row.market_status === 'OPEN' ? 1800 : 7 * 86400)) * 1000;
+  const maxAge = (meta?.max_quote_age_seconds ?? row.quote_policy?.max_quote_age_seconds ?? (row.market_status === 'OPEN' ? 1800 : 7 * 86400)) * 1000;
   return !Number.isFinite(age) || age < -120000 || age > maxAge;
 }
 function marketRefreshCounts(data) {
@@ -285,7 +285,12 @@ function renderStocksTable(stocks, region, usdInr = null) {
     const listing = ['BABA', 'TSM'].includes(s.ticker) ? '<br><small>US-listed ADR · USD quote</small>' :
       s.ticker === '005930.KS' ? '<br><small>Company cap: common + preferred · ' +
         escapeHtml(capMeta?.validation_status === 'DATA_UNAVAILABLE' ? 'unavailable' : staleQuote(s, 'marketCap') ? 'stale estimate' : 'estimate') +
-        (capMeta?.shares_as_of ? ' · shares as of ' + escapeHtml(capMeta.shares_as_of) : '') + '</small>' : '';
+        (capMeta?.shares_as_of ? ' · shares as of ' + escapeHtml(capMeta.shares_as_of) : '') + '</small>' :
+      capMeta?.source === 'BSE' ? '<br><small>BSE full company cap · ' +
+        (staleQuote(s, 'marketCap') ? 'stale snapshot' : 'indicative snapshot') + ' · ' +
+        escapeHtml(quoteTime(capMeta.source_timestamp, s.display_timezone)) + '</small>' :
+      capMeta?.source === 'Nasdaq' ? '<br><small>Nasdaq company cap · indicative snapshot · ' +
+        escapeHtml(capMeta.source_date || '') + '</small>' : '';
     const value = isCommodities ? escapeHtml(commodity.rate) : !canDisplay(s, field) ? 'DATA UNAVAILABLE' : isCurrency
       ? fmtFxValue(s.indexValue, exactValue(s, 'indexValue'))
       : isIndexes
