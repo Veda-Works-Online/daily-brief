@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-09T17:05:22.708332+00:00",
+  "updated": "2026-10-09T17:15:23.817986+00:00",
   "items": [
+    {
+      "title": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
+      "url": "https://bbc.co.uk/news/articles/cj20vkkx3rdvo",
+      "source": "BBC World",
+      "published": "2026-10-09T17:12:03+00:00",
+      "retrieved_at": "2026-10-09T17:15:20.360898+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The European Union described the move against the International Criminal Court as \"deeply regrettable\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6d0100c4e64455fe28f12b22"
+    },
     {
       "title": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
       "url": "https://aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank",
@@ -32,22 +48,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "acf5a54827b077cbe8004a6b"
-    },
-    {
-      "title": "US imposes sanctions on International Criminal Court",
-      "url": "https://bbc.co.uk/news/articles/cj20vkkx3rdvo",
-      "source": "BBC World",
-      "published": "2026-10-09T16:06:59+00:00",
-      "retrieved_at": "2026-10-09T16:10:17.698161+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The US says the measures are aimed at restricting the tribunal's resources and ability to operate.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "754b6aefd72f78d281a5a0ef"
     },
     {
       "title": "Trump launches probe into Federal Reserve Governor Lisa Cook",
