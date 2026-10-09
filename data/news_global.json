@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-09T20:46:08.730592+00:00",
+  "updated": "2026-10-09T21:01:12.151187+00:00",
   "items": [
+    {
+      "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+      "url": "https://aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue",
+      "source": "Al Jazeera",
+      "published": "2026-10-09T20:56:01+00:00",
+      "retrieved_at": "2026-10-09T21:01:06.307574+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Saudi Arabia and Yemen's internationally recognised gov't urge UN Security Council action amid Houthi escalation.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8436d767afe61f70bf69868b"
+    },
     {
       "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
       "url": "https://aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says",
@@ -80,6 +96,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a7c85c41b113651e786e1175"
+    },
+    {
+      "title": "Katie Zacharia selected to be next White House press secretary",
+      "url": "https://aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary",
+      "source": "Al Jazeera",
+      "published": "2026-10-09T18:49:24+00:00",
+      "retrieved_at": "2026-10-09T21:01:06.307735+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US President Donald Trump called the conservative commentator \"a devoted fan.\"",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "02f31a17389196f68367f77f"
     },
     {
       "title": "AI deepfake ads grow more popular in US midterm campaigns, blurring truth",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "71f87bb725d05404d7272a76"
-    },
-    {
-      "title": "China’s AI Governance Push and the Race to Shape Global AI Rules",
-      "url": "https://thediplomat.com/2026/10/chinas-ai-governance-push-and-the-race-to-shape-global-ai-rules",
-      "source": "The Diplomat",
-      "published": "2026-10-06T00:28:00+00:00",
-      "retrieved_at": "2026-10-06T07:10:21.771100+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "In contrast to Washington's fragmented approach, Beijing is showing an impressive ability to enact and coordinate regulations, policies, technical standards, and enforcement.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "88f9f029c086110ae7c0b3f0"
-    },
-    {
-      "title": "Syrian Airlines unveils laser-sharp look for the future",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future",
-      "source": "Al Jazeera",
-      "published": "2026-10-06T00:25:01+00:00",
-      "retrieved_at": "2026-10-06T00:44:27.785481+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Syrian Airlines unveils a new visual identity as it rebrands amid Syria’s post-Assad development.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "57e7562adabb240a00b8c95c"
     }
   ],
   "unverified_history": [
