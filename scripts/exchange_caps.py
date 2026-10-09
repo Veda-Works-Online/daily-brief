@@ -46,7 +46,7 @@ def fetch_bse(symbol):
     return q
 
 
-def apply_bse(row, symbol, quote, now):
+def apply_bse(row, symbol, quote, now, previous=None):
     if quote.get('symbol') != symbol or quote.get('code') != LISTINGS[symbol]['code'] or quote.get('currency') != 'INR':
         raise ValueError('BSE_COMPANY_IDENTITY_MISMATCH')
     ts = datetime.fromisoformat(quote['timestamp'])
@@ -59,7 +59,8 @@ def apply_bse(row, symbol, quote, now):
     if row_ts and ts.astimezone(ZoneInfo('Asia/Kolkata')).date() < datetime.fromisoformat(row_ts.replace('Z','+00:00')).astimezone(ZoneInfo('Asia/Kolkata')).date():
         raise ValueError('BSE_CAP_OLDER_SESSION')
     old = row.get('field_metadata', {}).get('marketCap', {})
-    if old.get('source') == 'BSE' and old.get('source_timestamp') and ts < datetime.fromisoformat(old['source_timestamp']):
+    prior_meta = (previous or row).get('field_metadata', {}).get('marketCap', {})
+    if prior_meta.get('source') == 'BSE' and prior_meta.get('source_timestamp') and ts < datetime.fromisoformat(prior_meta['source_timestamp']):
         raise ValueError('OLDER_BSE_CAP_OBSERVATION')
     cap = Decimal(str(quote['marketCap']))
     if not cap.is_finite() or cap <= 0:
