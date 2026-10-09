@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-09T19:56:31.332947+00:00",
+  "updated": "2026-10-09T20:06:12.448383+00:00",
   "items": [
+    {
+      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "url": "https://bbc.co.uk/news/articles/cm1dwgr666wno",
+      "source": "BBC World",
+      "published": "2026-10-09T20:03:55+00:00",
+      "retrieved_at": "2026-10-09T20:06:06.789977+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "261f9486813666792492f88c"
+    },
     {
       "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
       "url": "https://aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices",
@@ -32,22 +48,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8d58628d6444c5468524bfcf"
-    },
-    {
-      "title": "Trump announces deal with Putin to release Russian diesel",
-      "url": "https://bbc.co.uk/news/articles/cm1dwgr666wno",
-      "source": "BBC World",
-      "published": "2026-10-09T19:24:38+00:00",
-      "retrieved_at": "2026-10-09T19:26:14.244631+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Diesel prices in the US have doubled since the war with Iran began in February, putting pressure on Republicans ahead of the midterms.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "94f5e04a767470f5a041ef28"
     },
     {
       "title": "Commentator Katie Zacharia picked as new White House press secretary",
