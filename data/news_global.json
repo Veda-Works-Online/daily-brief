@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-09T21:11:11.270299+00:00",
+  "updated": "2026-10-09T21:36:11.698916+00:00",
   "items": [
+    {
+      "title": "US judge rules Trump administration’s use of voter data unlawful",
+      "url": "https://aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful",
+      "source": "Al Jazeera",
+      "published": "2026-10-09T21:29:01+00:00",
+      "retrieved_at": "2026-10-09T21:36:06.097112+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A federal judge ruled against the Justice Department's use of voter data to cross-reference an immigration database.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5424330faa8e7be1107b932d"
+    },
     {
       "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
       "url": "https://aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0a270287ff974893241f2b33"
-    },
-    {
-      "title": "Trump says taxpayers will no longer fund TV ads that praise him",
-      "url": "https://aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him",
-      "source": "Al Jazeera",
-      "published": "2026-10-06T01:51:32+00:00",
-      "retrieved_at": "2026-10-06T02:24:28.790866+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Move comes after ethics experts criticised three nationally broadcast ads and called for independent investigations.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "71f87bb725d05404d7272a76"
     }
   ],
   "unverified_history": [
