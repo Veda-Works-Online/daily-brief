@@ -22,6 +22,7 @@ from local_gold import GOLD_ID, refresh_gold
 from market_timezones import apply_region_timezones
 from free_sources import fetch_shenzhen, fetch_tsm, fetch_nasdaq_cap
 from samsung_cap import fetch_share_counts, freshest_company_cap, cap_unavailable
+from exchange_caps import LISTINGS as BSE_LISTINGS, fetch_bse, apply_bse, retain_primary_cap
 
 FIELDS = ('indexValue', 'marketCap', 'changePercent', 'absoluteChange',
           'previousClose', 'dayHigh', 'dayLow', 'volume', 'marketCapUSD')
@@ -908,6 +909,32 @@ def needs_nasdaq_cap(symbol, quote, google):
     return abs(decimal(quote['marketCap']) - decimal(google['marketCap'])) > decimal(google.get('cap_resolution', 0)) / 2
 
 
+def nasdaq_snapshot(row, symbol, quote, now):
+    """Direct exchange observation when cap providers disagree; stays indicative."""
+    if (quote.get('symbol') != symbol or row.get('quote_currency') != 'USD'
+            or EXCHANGES.get(row.get('exchange')) != quote.get('exchange')
+            or not issuer_matches(row['name'], quote.get('company_name', ''), symbol)):
+        raise ValueError('NASDAQ_SNAPSHOT_IDENTITY_MISMATCH')
+    ts = timestamp(row['source_timestamp'])
+    if (ts.astimezone(ZoneInfo('America/New_York')).date().isoformat() != quote.get('source_date')
+            or not -120 <= (now-ts).total_seconds() <= quote_policy(symbol, row.get('market_status'))['max_quote_age_seconds']):
+        raise ValueError('NASDAQ_SNAPSHOT_DATE_MISMATCH')
+    price, cap = decimal(quote['price']), decimal(quote['marketCap'])
+    if min(price,cap) <= 0 or abs(price-decimal(row['indexValue']))/price > Decimal('0.005'):
+        raise ValueError('NASDAQ_SNAPSHOT_PRICE_MISMATCH')
+    out = deepcopy(row)
+    out.update(marketCap=cap, marketCapUSD=cap, currency='USD')
+    out.setdefault('field_metadata', {})['marketCap'] = dict(validation_status='INDICATIVE', quality='INDICATIVE',
+        source='Nasdaq', decimal=format(cap,'f'), currency='USD', source_timestamp=ts.isoformat(),
+        source_date=quote['source_date'], retrieved_at=quote['retrieved_at'], verification_sources=[],
+        valuation_basis='Nasdaq-reported company cap for ' + symbol + '; share-class scope not independently verified',
+        timestamp_scope='Matched regular-session date; timestamp belongs to the price row; Nasdaq supplies no cap-specific time',
+        exchange_price=price, source_check=deepcopy(row.get('field_metadata', {}).get('marketCap', {}).get('source_check', {})),
+        reconciliation='Direct exchange cap selected after provider disagreement')
+    out['field_metadata']['marketCapUSD'] = deepcopy(out['field_metadata']['marketCap'])
+    return out
+
+
 def refresh_markets(payload):
     now = datetime.now(timezone.utc)
     symbols = [r.get('source_symbol') or ('BHARTIARTL.NS' if r['ticker'] == 'BHARTIARTL' else r['ticker'])
@@ -934,6 +961,20 @@ def refresh_markets(payload):
             return symbol, {'error': str(exc) if isinstance(exc, ValueError) else type(exc).__name__}
     with ThreadPoolExecutor(max_workers=6) as pool:
         secondary = dict(pool.map(get_secondary, symbols))
+    bse_quotes, bse_errors = {}, {}
+    def bse_observation(symbol):
+        try:
+            return symbol, fetch_bse(symbol), None
+        except Exception as exc:
+            return symbol, None, str(exc) if isinstance(exc, ValueError) else type(exc).__name__
+    # Two bounded requests per company, four tasks at once. Cap numbers are
+    # fetched each cycle; only exchange identity mappings are stored in code.
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        for symbol, quote, error in pool.map(bse_observation, [s for s in symbols if s in BSE_LISTINGS]):
+            if quote:
+                bse_quotes[symbol] = quote
+            else:
+                bse_errors[symbol] = error
     extras, extra_errors = {}, {}
     samsung_shares, samsung_error = None, None
     with ThreadPoolExecutor(max_workers=2) as pool:
@@ -1015,6 +1056,11 @@ def refresh_markets(payload):
                 result = apply_free_source(result, symbol, extras[symbol], quotes.get(symbol, {}), datetime.now(timezone.utc))
             except (ValueError, KeyError, TypeError, OverflowError, ZeroDivisionError) as exc:
                 extra_errors[symbol] = str(exc) if isinstance(exc, ValueError) else type(exc).__name__
+                if symbol not in {'399001.SZ'}:
+                    try:
+                        result = nasdaq_snapshot(result, symbol, extras[symbol], datetime.now(timezone.utc))
+                    except (ValueError, KeyError, TypeError, OverflowError):
+                        result = retain_primary_cap(result, row, {'Nasdaq'}, datetime.now(timezone.utc), extra_errors[symbol], force_stale=True)
         if result.get('marketCap') is not None:
             meta = result.setdefault('field_metadata', {}).setdefault('marketCap', {})
             meta['source_check'] = {'nasdaq_requested':symbol in tasks and symbol != '399001.SZ',
@@ -1033,6 +1079,17 @@ def refresh_markets(payload):
             if result.get('quote_currency') == 'USD' and result.get('marketCapUSD') == result['marketCap']:
                 result['field_metadata']['marketCapUSD'] = deepcopy(meta)
         result = prevent_quote_regression(row, result)
+        if symbol in BSE_LISTINGS:
+            try:
+                if symbol not in bse_quotes:
+                    raise ValueError(bse_errors.get(symbol, 'BSE_CAP_UNAVAILABLE'))
+                result = apply_bse(result, symbol, bse_quotes[symbol], datetime.now(timezone.utc), previous=row)
+            except (ValueError, KeyError, TypeError, OverflowError) as exc:
+                error = str(exc) if isinstance(exc, ValueError) else 'BSE_CAP_INPUT_UNAVAILABLE'
+                result = retain_primary_cap(result, row, {'BSE'}, datetime.now(timezone.utc), error, force_stale=True)
+                extra_errors[symbol] = error
+        elif symbol not in extras and row.get('field_metadata', {}).get('marketCap', {}).get('source') == 'Nasdaq' and result.get('field_metadata', {}).get('marketCap', {}).get('source') != 'Nasdaq':
+            result = retain_primary_cap(result, row, {'Nasdaq'}, datetime.now(timezone.utc), 'PRIMARY_CAP_NOT_SELECTED_THIS_CYCLE')
         if symbol == '005930.KS':
             try:
                 if samsung_shares is None:

@@ -203,3 +203,11 @@ const counts = ctx.marketRefreshCounts({regions:{us:[freshRow, staleCapRow, expi
 assert.equal(counts.stale_count, 2);
 assert.equal(counts.unavailable_count, 1);
 assert(ctx.quoteStatus(expiredCapRow).startsWith('STALE'));
+const bseRow = {...freshRow, name:'HDFC Bank', currency:'INR', marketCap:10678920500000,
+  field_metadata:{marketCap:{source:'BSE',validation_status:'INDICATIVE',
+    source_timestamp:new Date(Date.now()-3600*1000).toISOString(),max_quote_age_seconds:604800}}};
+assert.equal(ctx.staleQuote(bseRow,'marketCap'),false);
+assert(ctx.renderStocksTable([bseRow],'india').includes('BSE full company cap'));
+const nasdaqRow = {...freshRow,name:'Alphabet',field_metadata:{marketCap:{source:'Nasdaq',
+  validation_status:'INDICATIVE',source_date:'2026-10-08'}}};
+assert(ctx.renderStocksTable([nasdaqRow],'us').includes('Nasdaq company cap'));
