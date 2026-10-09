@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T13:25:03.162858+00:00",
+  "updated": "2026-10-09T13:55:16.699298+00:00",
   "items": [
     {
       "title": "Ukraine pushes Russia back in Donetsk as military, civilian casualties soar",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7765a731d4d15318ad3b85b5"
+    },
+    {
+      "title": "Is China seeking to restrict Taiwan's cultural presence?",
+      "url": "https://dw.com/en/is-china-seeking-to-restrict-taiwan-s-cultural-presence/a-79610947",
+      "source": "DW",
+      "published": "2026-10-09T13:04:00+00:00",
+      "retrieved_at": "2026-10-09T13:55:13.804361+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "From coffee competitions to literature awards, Beijing appears to be working to limit Taiwan's international cultural and political impact.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5613f1aad614ba0a6ee50e46"
     },
     {
       "title": "Ukraine takes aim at Russia’s AI data infrastructure",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ba53ac10a555d81d3755194a"
-    },
-    {
-      "title": "What happened between Ireland and Israel in their Nations League match?",
-      "url": "https://aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match",
-      "source": "Al Jazeera",
-      "published": "2026-10-05T15:28:16+00:00",
-      "retrieved_at": "2026-10-05T15:46:43.129956+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Spitting allegations, no handshakes, and bowed heads headlined the second Nations League fixture.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "61a42f6f6bb2c8f86762beb1"
     }
   ],
   "unverified_history": [
