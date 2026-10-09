@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T15:25:30.967598+00:00",
+  "updated": "2026-10-09T16:05:22.023822+00:00",
   "items": [
     {
       "title": "Ethiopia and Eritrea accuse each other of starting conflict after troops cross border",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0533675f6f2bdfa44acf8cb9"
+    },
+    {
+      "title": "Eritrean troops in Ethiopia raise fears of a regional war",
+      "url": "https://dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065",
+      "source": "DW",
+      "published": "2026-10-09T15:20:00+00:00",
+      "retrieved_at": "2026-10-09T16:05:19.235061+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Ethiopia and Eritrea are trading blame for confrontations in Tigray amid international calls for restraint. Their respective allies have the potential to catapult the conflict into a regional war.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3621ed16516c069bfe4b70de"
     },
     {
       "title": "US sanctions International Criminal Court itself in latest escalation",
@@ -48,6 +64,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "23184934c6ca8b84fea05bdb"
+    },
+    {
+      "title": "US imposes sanctions aiming to 'dismantle' International Criminal Court",
+      "url": "https://dw.com/en/us-imposes-sanctions-aiming-to-dismantle-international-criminal-court/a-79618577",
+      "source": "DW",
+      "published": "2026-10-09T14:53:00+00:00",
+      "retrieved_at": "2026-10-09T16:05:19.235090+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The US has announced new sanctions on the International Criminal Court. It's the latest in a series of steps by the Donald Trump administration as it seeks to \"dismantle\" the intergovernmental organization.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d2de8150be2bd87f86d2bf61"
     },
     {
       "title": "Ethiopia and Eritrea accuse one another of launching war",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2ce299bdf2f7edf4386547a7"
-    },
-    {
-      "title": "UK ‘threatens to expel 27 Israeli diplomats’ over Jerusalem consulate",
-      "url": "https://aljazeera.com/news/2026/10/5/uk-threatens-to-expel-27-israeli-diplomats-over-jerusalem-consulate",
-      "source": "Al Jazeera",
-      "published": "2026-10-05T18:42:36+00:00",
-      "retrieved_at": "2026-10-05T18:56:46.899663+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel ordered East Jerusalem consulate to be closed after Britain sanctioned settlements in the occupied West Bank.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ffa89a3301be9cfed425e36f"
-    },
-    {
-      "title": "Mecca Alliance: Turkiye, Pakistan agree to military deployment to Saudi Arabia",
-      "url": "https://aljazeera.com/news/2026/10/5/mecca-alliance-agrees-to-activate-collective-deterrence-measures",
-      "source": "Al Jazeera",
-      "published": "2026-10-05T18:32:04+00:00",
-      "retrieved_at": "2026-10-05T19:33:00.186340+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The three countries agree to trigger collective deterrence measures in response to \"heinous attacks\" by Yemen's Houthis.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4ae4124cd218f5ba1c2d4a08"
     }
   ],
   "unverified_history": [
