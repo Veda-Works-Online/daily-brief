@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-09T18:51:09.357183+00:00",
+  "updated": "2026-10-09T18:56:08.616896+00:00",
   "items": [
     {
-      "title": "Winning Nikon Small World in Motion video disqualified for AI use",
+      "title": "AI disqualification yields new Nikon Small World in Motion winner",
       "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use",
       "source": "Ars Technica AI",
       "published": "2026-10-09T18:44:06+00:00",
-      "retrieved_at": "2026-10-09T18:46:01.929653+00:00",
+      "retrieved_at": "2026-10-09T18:56:01.368482+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
       "isAI": true,
@@ -16,7 +16,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "c5d324f85f4c5838e40c76bb"
+      "story_fingerprint": "2f4c609595f8550cc20165bd"
     },
     {
       "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-09T18:51:01.916541+00:00",
+    "checked_at": "2026-10-09T18:56:00.333889+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-09T18:30:21.934447+00:00",
+  "updated": "2026-10-09T18:56:17.601360+00:00",
   "items": [
+    {
+      "title": "Commentator Katie Zacharia picked as new White House press secretary",
+      "url": "https://bbc.co.uk/news/articles/c5rmy73zr0rro",
+      "source": "BBC World",
+      "published": "2026-10-09T18:52:06+00:00",
+      "retrieved_at": "2026-10-09T18:56:11.957991+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a7c85c41b113651e786e1175"
+    },
     {
       "title": "AI deepfake ads grow more popular in US midterm campaigns, blurring truth",
       "url": "https://aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "61cc16d9f81e0ef113b625a7"
-    },
-    {
-      "title": "What’s happening in Ethiopia?",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/5/whats-happening-in-ethiopia",
-      "source": "Al Jazeera",
-      "published": "2026-10-05T23:38:51+00:00",
-      "retrieved_at": "2026-10-06T00:09:27.815156+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Ethiopia is facing renewed fighting in the north, just four years after the devastating Tigray war ended.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "235e88e94fb33527d1345314"
     }
   ],
   "unverified_history": [
