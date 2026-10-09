@@ -1,5 +1,23 @@
 # Daily Brief market times
 
+Indian company caps use BSE's full market-cap field (crore converted to INR),
+with explicit symbol-to-scrip mappings and issuer, currency, positive-value and
+quote-header date validation. The row identifies BSE's cap separately from the
+NSE price/daily-change observation. Caps are direct exchange snapshots labelled
+INDICATIVE: BSE provides an aggregate header time, not a cap-specific timestamp.
+Every cycle fetches the mapped companies with four bounded concurrent tasks.
+An open-session cap must be under 30 minutes old; older sessions cannot replace
+a later quote session. Failures retain a prior BSE cap as STALE, preserving its
+original time and preventing a reversion to the conflicting Google cap.
+Nasdaq can supply a direct INDICATIVE cap when Yahoo corroboration fails, only
+with a matching issuer, exchange, regular-session date and price within 0.5%.
+It provides only a date; metadata explicitly identifies the price-row timestamp
+as the date-matching anchor, never as a Nasdaq cap-specific timestamp. Retained
+Nasdaq caps keep their original provenance between rotating source checks.
+USD/INR remains an indicative rupees-per-US-dollar quote; commodity conversion
+multiplies USD benchmark values by this rate and marks FX older than 8 minutes
+stale. Unsupported exchange-session states remain UNKNOWN rather than guessed.
+
 Stock analysis uses these regional display zones:
 
 | Tab | IANA zone | Display |
