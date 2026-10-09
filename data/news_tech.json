@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-09T19:41:07.947672+00:00",
+  "updated": "2026-10-09T19:46:09.869879+00:00",
   "items": [
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
+      "source": "Ars Technica AI",
+      "published": "2026-10-09T19:43:50+00:00",
+      "retrieved_at": "2026-10-09T19:46:04.482677+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "845612c63e7ec7d402238675"
+    },
     {
       "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
       "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c68217bc5219858498f2743c"
-    },
-    {
-      "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
-      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack",
-      "source": "Ars Technica AI",
-      "published": "2026-09-30T18:25:04+00:00",
-      "retrieved_at": "2026-09-30T18:42:17.401497+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "307cb536e16d7140ba969fc6"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-09T19:41:02.560739+00:00",
+    "checked_at": "2026-10-09T19:46:03.453589+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
