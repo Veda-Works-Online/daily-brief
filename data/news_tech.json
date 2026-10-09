@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-09T16:50:17.296154+00:00",
+  "updated": "2026-10-09T16:55:18.560040+00:00",
   "items": [
+    {
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card",
+      "source": "TechCrunch AI",
+      "published": "2026-10-09T16:53:02+00:00",
+      "retrieved_at": "2026-10-09T16:55:07.907554+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents…",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "07ac809ad626dbfea3950a5a"
+    },
     {
       "title": "Danu Robotics’ fight to build a better recycling robot",
       "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4e04bf60516fd853bef51c0f"
-    },
-    {
-      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-      "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page",
-      "source": "TechCrunch AI",
-      "published": "2026-09-30T16:00:00+00:00",
-      "retrieved_at": "2026-09-30T16:01:50.159008+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1f4a7c16c58973eabf6fdbff"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-09T16:50:06.775785+00:00",
+    "checked_at": "2026-10-09T16:55:07.283151+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
