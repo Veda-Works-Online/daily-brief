@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-10T12:02:58.842122+00:00",
+  "updated": "2026-10-10T12:07:59.297576+00:00",
   "items": [
+    {
+      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
+      "url": "https://wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals",
+      "source": "Wired",
+      "published": "2026-10-10T12:00:00+00:00",
+      "retrieved_at": "2026-10-10T12:07:57.178564+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1b76d9a031fcb8341583305e"
+    },
     {
       "title": "How This Tiny Startup Built the World’s Safest Bike Helmet",
       "url": "https://wired.com/story/how-this-tiny-startup-pikio-built-the-worlds-safest-bike-helmet",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b094094ec7476e185c4ba626"
-    },
-    {
-      "title": "The Battle to Be Your Personal AI Agent Is Here",
-      "url": "https://wired.com/story/ai-agents-dots-devday-muse-battling-it-out",
-      "source": "Wired",
-      "published": "2026-09-30T19:30:00+00:00",
-      "retrieved_at": "2026-09-30T19:32:20.539495+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "55d8004efd1daa0e1a682786"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-10T12:02:55.415113+00:00",
+    "checked_at": "2026-10-10T12:07:56.026581+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
