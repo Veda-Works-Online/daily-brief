@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-10T11:28:09.581778+00:00",
+  "updated": "2026-10-10T12:38:07.640487+00:00",
   "items": [
+    {
+      "title": "Why is US turning to Russia for diesel despite sanctions?",
+      "url": "https://aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions",
+      "source": "Al Jazeera",
+      "published": "2026-10-10T12:16:12+00:00",
+      "retrieved_at": "2026-10-10T12:38:04.306257+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "President Donald Trump's deal with Putin comes amid surging fuel prices and looming US midterm elections.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f3aa7b83860744afb6345f64"
+    },
     {
       "title": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
       "url": "https://aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "171b8cd558cd9b53ba951559"
-    },
-    {
-      "title": "Ship sinks and crew missing after Black Sea drone attack",
-      "url": "https://bbc.co.uk/news/articles/c8ly0v5r602eo",
-      "source": "BBC World",
-      "published": "2026-10-06T10:37:19+00:00",
-      "retrieved_at": "2026-10-06T11:29:09.451493+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ec5bf8768f3013f1d2880a0a"
     }
   ],
   "unverified_history": [
