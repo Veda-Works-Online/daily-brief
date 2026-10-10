@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T22:24:51.189912+00:00",
+  "updated": "2026-10-10T23:09:52.413356+00:00",
   "items": [
     {
       "title": "Yemeni government’s military says its forces advancing against Houthis",
@@ -48,6 +48,38 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ff081554121290a413680305"
+    },
+    {
+      "title": "China’s Bid to Define the ‘Global South’",
+      "url": "https://thediplomat.com/2026/10/chinas-bid-to-define-the-global-south",
+      "source": "The Diplomat",
+      "published": "2026-10-10T20:29:00+00:00",
+      "retrieved_at": "2026-10-10T23:09:46.782531+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "Beijing has adopted its own, quite different, definition of the term.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9ba92710af5ba8991aa30c0a"
+    },
+    {
+      "title": "Whither Japan’s Three Non-Nuclear Principles?",
+      "url": "https://thediplomat.com/2026/10/whither-japans-three-non-nuclear-principles",
+      "source": "The Diplomat",
+      "published": "2026-10-10T20:16:00+00:00",
+      "retrieved_at": "2026-10-10T23:09:46.782544+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "A highly contentious debate is in the offing.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bf28d5d6997155a7d20a0c4d"
     },
     {
       "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6fcbfbf59c2aeb0f0166fe9c"
-    },
-    {
-      "title": "Russia denies imposing anti-plague measures after lab worker death",
-      "url": "https://aljazeera.com/news/2026/10/6/russia-denies-imposing-anti-plague-measures-after-lab-worker-death",
-      "source": "Al Jazeera",
-      "published": "2026-10-06T19:26:27+00:00",
-      "retrieved_at": "2026-10-06T19:36:48.414845+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Russia denies plague cases after laboratory technician's death; US demands 'transparency' as WHO monitors situation.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "165e91966ba8c71246130fb0"
-    },
-    {
-      "title": "EU seeks ways to make expansion more palatable to members",
-      "url": "https://dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297",
-      "source": "DW",
-      "published": "2026-10-06T18:02:00+00:00",
-      "retrieved_at": "2026-10-06T19:01:53.427468+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The European Commission has put forward ideas it hopes will both ease the EU expansion process and allay concerns among existing members. Several countries, not least war-torn Ukraine, are among the candidates.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b333cbd106c316ea355bcb33"
     }
   ],
   "unverified_history": [
