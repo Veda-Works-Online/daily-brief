@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T14:18:03.738734+00:00",
+  "updated": "2026-10-10T14:28:04.122018+00:00",
   "items": [
     {
       "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fa231ae630662069aa01fa0f"
+    },
+    {
+      "title": "Has Yemen returned to ‘full-scale war’?",
+      "url": "https://aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war",
+      "source": "Al Jazeera",
+      "published": "2026-10-10T14:10:24+00:00",
+      "retrieved_at": "2026-10-10T14:28:00.859054+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Fighting is intensifying between Yemeni government forces and Houthi rebel group.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b0c68eb7a59fee5ab8edb4a7"
     },
     {
       "title": "When streets become a workplace: Gaza workers convert tents into offices",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d8afbd207800c2fcacf159a4"
-    },
-    {
-      "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
-      "url": "https://aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two",
-      "source": "Al Jazeera",
-      "published": "2026-10-06T12:42:19+00:00",
-      "retrieved_at": "2026-10-06T12:54:11.096608+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Russia says 290 drones targeted Moscow and nearby regions in the overnight Ukrainian assault.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8a8f2e766d5aa1501e0104fe"
     }
   ],
   "unverified_history": [
