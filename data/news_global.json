@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-10T17:04:03.127959+00:00",
+  "updated": "2026-10-10T17:39:00.791657+00:00",
   "items": [
+    {
+      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "url": "https://bbc.co.uk/news/articles/cqe8r5l7n92jo",
+      "source": "BBC World",
+      "published": "2026-10-10T17:31:24+00:00",
+      "retrieved_at": "2026-10-10T17:38:54.816442+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "241c3b5ba3911869c13b1f61"
+    },
     {
       "title": "Several injured in attack on airport in Saudi capital Riyadh",
       "url": "https://bbc.co.uk/news/articles/cw33x4y8k82no",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f052211b3b540c6dab365f05"
-    },
-    {
-      "title": "In Gaza, we cannot even begin to recover from trauma",
-      "url": "https://aljazeera.com/opinions/2026/10/6/in-gaza-we-cannot-even-begin-to-recover-from-trauma",
-      "source": "Al Jazeera",
-      "published": "2026-10-06T14:42:22+00:00",
-      "retrieved_at": "2026-10-06T15:06:16.133995+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The genocide has killed many and left the rest broken. For us, survivors, recovery is not on the horizon.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "70b921839ca1ef6e9b56af39"
     }
   ],
   "unverified_history": [
