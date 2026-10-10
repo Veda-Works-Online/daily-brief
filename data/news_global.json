@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T00:07:01.721113+00:00",
+  "updated": "2026-10-10T00:16:59.708789+00:00",
   "items": [
     {
       "title": "Iran war live: Kremlin says Trump welcomed Russia effort in Iran deal",
@@ -18,6 +18,22 @@
       "story_fingerprint": "a9680fa71f30adfa9fd2a516"
     },
     {
+      "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+      "url": "https://bbc.co.uk/news/articles/cm2d6xd2g4w2o",
+      "source": "BBC World",
+      "published": "2026-10-09T23:02:07+00:00",
+      "retrieved_at": "2026-10-10T00:16:53.671030+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "132db86ce2cda495abc3441d"
+    },
+    {
       "title": "Mexico investigates video said to show cartel members fighting for Ukraine",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine",
       "source": "Al Jazeera",
@@ -32,6 +48,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c03e9df16477d6656c406c8a"
+    },
+    {
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "url": "https://bbc.co.uk/news/articles/c5lye9z4xw4yo",
+      "source": "BBC World",
+      "published": "2026-10-09T22:30:22+00:00",
+      "retrieved_at": "2026-10-10T00:16:53.670923+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8b09c4317be672f8a0c1fd9b"
     },
     {
       "title": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "72e9209fceac2cff7ff94567"
-    },
-    {
-      "title": "Violent clashes erupt after mass housing protest in Barcelona",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/6/10-6-barcelona-protests-clip-mp4",
-      "source": "Al Jazeera",
-      "published": "2026-10-06T04:34:51+00:00",
-      "retrieved_at": "2026-10-06T04:49:24.141283+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Protesters in Barcelona set fires, built barricades and hurled projectiles as violence erupted at a housing protest.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ef2e53b033ba9a51cd0a250d"
-    },
-    {
-      "title": "Quebec separatists win election reviving push for independence",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/6/quebec-separatists-win-election-reviving-push-for-independence",
-      "source": "Al Jazeera",
-      "published": "2026-10-06T04:34:16+00:00",
-      "retrieved_at": "2026-10-06T04:49:24.141305+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Parti Quebecois leader Paul St-Pierre Plamondon vows a future referendum on independence from Canada.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6bd3fc6dd91c2ad35852ce21"
     }
   ],
   "unverified_history": [
