@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T15:34:02.411862+00:00",
+  "updated": "2026-10-10T15:59:00.323712+00:00",
   "items": [
     {
       "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cfa92121bab1843f91dec4bf"
+    },
+    {
+      "title": "Trump Accounts: Free money, but who gets a say?",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say",
+      "source": "Al Jazeera",
+      "published": "2026-10-10T15:21:39+00:00",
+      "retrieved_at": "2026-10-10T15:58:54.576297+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Trump Accounts promise children a financial head start. Al Jazeera’s Emma Withrow spoke with one parent.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7bc0ce803360d89b772015de"
     },
     {
       "title": "With or without Hamas",
@@ -162,11 +178,11 @@
       "story_fingerprint": "097f87e8b66e496bd7e6f41f"
     },
     {
-      "title": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
+      "title": "Child among eight killed by Israel on Gaza ‘ceasefire’ anniversary",
       "url": "https://aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child",
       "source": "Al Jazeera",
       "published": "2026-10-10T12:40:57+00:00",
-      "retrieved_at": "2026-10-10T13:13:05.284607+00:00",
+      "retrieved_at": "2026-10-10T15:58:54.576531+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "At least 1,481 Palestinians killed in Israeli attacks since last year's 'ceasefire', Gaza's Health Ministry says.",
       "category": "global",
@@ -175,7 +191,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "83547c51bc8eb879a6b035c9"
+      "story_fingerprint": "b0d3e520924ac3ac550099b9"
     },
     {
       "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c32a9424763a5f8a105eb576"
-    },
-    {
-      "title": "As more Iranian women reject hijab rules, regime looks at new ways to force compliance",
-      "url": "https://dw.com/en/as-more-iranian-women-reject-hijab-rules-regime-looks-at-new-ways-to-force-compliance/a-79564962",
-      "source": "DW",
-      "published": "2026-10-06T13:50:00+00:00",
-      "retrieved_at": "2026-10-06T14:56:16.572398+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "As more women in Iran reject rules on wearing hijab headscarves, hardliners are shifting focus from \"morality police\" street enforcement towards social pressure in workplaces, services and businesses.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2216f3aec8d757a4c001a17f"
     }
   ],
   "unverified_history": [
