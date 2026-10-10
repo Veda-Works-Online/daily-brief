@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-10T14:08:02.863954+00:00",
+  "updated": "2026-10-10T14:18:03.738734+00:00",
   "items": [
+    {
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "url": "https://bbc.co.uk/news/articles/cwvgdpv642g5o",
+      "source": "BBC World",
+      "published": "2026-10-10T14:16:50+00:00",
+      "retrieved_at": "2026-10-10T14:18:00.482157+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fa231ae630662069aa01fa0f"
+    },
     {
       "title": "When streets become a workplace: Gaza workers convert tents into offices",
       "url": "https://aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8a8f2e766d5aa1501e0104fe"
-    },
-    {
-      "title": "Taiwan’s Maritime Law Enforcement Operations Spark Anger in Chinese Society",
-      "url": "https://thediplomat.com/2026/10/taiwans-maritime-law-enforcement-operation-has-sparked-anger-in-chinese-society",
-      "source": "The Diplomat",
-      "published": "2026-10-06T12:31:00+00:00",
-      "retrieved_at": "2026-10-06T23:12:48.035703+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "The reaction to a Taiwan Coast Guard confrontation reflects the existence of a particularly hardline strand of opinion on Taiwan among mainland Chinese.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3497ab3e0aae4c639dda97bc"
     }
   ],
   "unverified_history": [
