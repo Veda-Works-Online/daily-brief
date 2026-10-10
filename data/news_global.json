@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-10T14:54:02.369177+00:00",
+  "updated": "2026-10-10T15:29:00.615315+00:00",
   "items": [
+    {
+      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "url": "https://bbc.co.uk/news/articles/cqkgjrpmr47vo",
+      "source": "BBC World",
+      "published": "2026-10-10T15:23:47+00:00",
+      "retrieved_at": "2026-10-10T15:28:54.766583+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cfa92121bab1843f91dec4bf"
+    },
     {
       "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
       "url": "https://bbc.co.uk/news/articles/c8vgx9ew571wo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "863e330961c74feadbbaaaaa"
-    },
-    {
-      "title": "Watch: How Russia responded to US after plague researcher death",
-      "url": "https://bbc.co.uk/news/videos/c8e36y796enno",
-      "source": "BBC World",
-      "published": "2026-10-06T13:32:42+00:00",
-      "retrieved_at": "2026-10-07T05:38:40.618846+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The US and Russia have each offered to help each other tackling infectious diseases.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3147ace1a51f44efedb37bdf"
     }
   ],
   "unverified_history": [
