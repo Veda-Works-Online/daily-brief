@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T05:07:28.768216+00:00",
+  "updated": "2026-10-10T05:12:26.346963+00:00",
   "items": [
     {
       "title": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9051f1a00637f0c5bbcc491a"
+    },
+    {
+      "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+      "url": "https://bbc.co.uk/news/articles/ckgj921e14jdo",
+      "source": "BBC World",
+      "published": "2026-10-10T04:07:11+00:00",
+      "retrieved_at": "2026-10-10T05:12:21.651342+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bd56ba45f64f160299582d7c"
     },
     {
       "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b83f52de9d24273daf5cfcf4"
-    },
-    {
-      "title": "Trump jokes about letting Iran bomb Los Angeles and San Diego",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/6/trump-jokes-about-letting-iran-bomb-los-angeles-and-san-diego",
-      "source": "Al Jazeera",
-      "published": "2026-10-06T07:12:00+00:00",
-      "retrieved_at": "2026-10-06T07:30:22.458009+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "At a campaign rally in Nebraska, US President Donald Trump joked about letting Iran bomb Los Angeles and San Diego.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e1da5fb80cec03db9a3fd010"
     }
   ],
   "unverified_history": [
