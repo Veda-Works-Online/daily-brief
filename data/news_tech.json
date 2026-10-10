@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-10T16:58:52.143954+00:00",
+  "updated": "2026-10-10T17:03:53.030038+00:00",
   "items": [
+    {
+      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+      "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles",
+      "source": "TechCrunch",
+      "published": "2026-10-10T17:00:00+00:00",
+      "retrieved_at": "2026-10-10T17:03:45.647412+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4c74d1a0d2543f0a9b44ea42"
+    },
     {
       "title": "Cloudflare acquires Deno to improve its Workers programming model",
       "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bfe63997644576010d974038"
-    },
-    {
-      "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-      "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet",
-      "source": "Ars Technica AI",
-      "published": "2026-09-30T20:11:08+00:00",
-      "retrieved_at": "2026-09-30T20:17:12.530821+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "So much for Gemini 3.5 Pro.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "459cfb4879af9683844f29a3"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-10T16:58:44.562066+00:00",
+    "checked_at": "2026-10-10T17:03:44.175710+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

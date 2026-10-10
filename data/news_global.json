@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T16:59:01.636887+00:00",
+  "updated": "2026-10-10T17:04:03.127959+00:00",
   "items": [
     {
       "title": "Several injured in attack on airport in Saudi capital Riyadh",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2832833b500c4b3102b98f0e"
+    },
+    {
+      "title": "Eritrea urges UN to intervene in standoff with Ethiopia",
+      "url": "https://aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with",
+      "source": "Al Jazeera",
+      "published": "2026-10-10T16:41:25+00:00",
+      "retrieved_at": "2026-10-10T17:03:57.181627+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The neighbouring countries blame one another for starting war amid heightened tensions and fears of a wider conflict.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5fb34c5ae166e79586cc3370"
     },
     {
       "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "70b921839ca1ef6e9b56af39"
-    },
-    {
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "url": "https://bbc.co.uk/news/articles/c6r7yn8pknyxo",
-      "source": "BBC World",
-      "published": "2026-10-06T14:15:06+00:00",
-      "retrieved_at": "2026-10-06T15:41:19.716644+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "de4945263e23f1ba61e50c8e"
     }
   ],
   "unverified_history": [
