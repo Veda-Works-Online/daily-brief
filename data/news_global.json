@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-10T00:16:59.708789+00:00",
+  "updated": "2026-10-10T00:21:58.311098+00:00",
   "items": [
+    {
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "url": "https://bbc.co.uk/news/articles/cm1dwgr666wno",
+      "source": "BBC World",
+      "published": "2026-10-10T00:19:26+00:00",
+      "retrieved_at": "2026-10-10T00:21:52.382988+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "22686f47890a8741342b24a5"
+    },
     {
       "title": "Iran war live: Kremlin says Trump welcomed Russia effort in Iran deal",
       "url": "https://aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal",
@@ -128,22 +144,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2443b7008bab2527e871c16a"
-    },
-    {
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "url": "https://bbc.co.uk/news/articles/cm1dwgr666wno",
-      "source": "BBC World",
-      "published": "2026-10-09T20:03:55+00:00",
-      "retrieved_at": "2026-10-09T20:06:06.789977+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "261f9486813666792492f88c"
     },
     {
       "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
