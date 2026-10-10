@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-10T16:23:52.046718+00:00",
+  "updated": "2026-10-10T16:28:53.426118+00:00",
   "items": [
+    {
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
+      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model",
+      "source": "TechCrunch",
+      "published": "2026-10-10T16:25:42+00:00",
+      "retrieved_at": "2026-10-10T16:28:49.229312+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f87aa172d0ef14a2ed9153c4"
+    },
     {
       "title": "Here are the top AI agents that can live in your text messages",
       "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "459cfb4879af9683844f29a3"
-    },
-    {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-      "source": "Google DeepMind",
-      "published": "2026-09-30T20:01:45+00:00",
-      "retrieved_at": "2026-09-30T20:02:16.464433+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "c499d4647ea27b42edffda01"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-10T16:23:43.443416+00:00",
+    "checked_at": "2026-10-10T16:28:47.739301+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
