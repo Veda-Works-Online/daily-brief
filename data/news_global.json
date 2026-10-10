@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-10T18:39:02.254428+00:00",
+  "updated": "2026-10-10T19:09:02.699498+00:00",
   "items": [
+    {
+      "title": "Trump calls for new president in Ukraine",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine",
+      "source": "Al Jazeera",
+      "published": "2026-10-10T18:50:23+00:00",
+      "retrieved_at": "2026-10-10T19:08:56.764799+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US President Trump criticised Ukraine’s Volodymyr Zelenskyy as he called for new leadership in Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2d93d6b3730c6d785538fabd"
+    },
+    {
+      "title": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into",
+      "source": "Al Jazeera",
+      "published": "2026-10-10T18:38:01+00:00",
+      "retrieved_at": "2026-10-10T19:08:56.764827+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "One year to the day after the US-brokered ceasefire was agreed, more Israeli attacks killed Palestinians in Gaza.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b672581463bfb0dd2c4d9f56"
+    },
     {
       "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
       "url": "https://aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e8c5b59bc0a90806e40c8cf2"
-    },
-    {
-      "title": "Birzeit University memorial destruction aims to crush Palestinian memory",
-      "url": "https://aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory",
-      "source": "Al Jazeera",
-      "published": "2026-10-06T15:14:28+00:00",
-      "retrieved_at": "2026-10-06T15:36:17.425168+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israeli soldiers removed the monument to students and alumni killed by Israel and replaced it with a fig sapling.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d965a34323163b08a323d9a2"
-    },
-    {
-      "title": "Will US President Donald Trump Visit Central Asia?",
-      "url": "https://thediplomat.com/2026/10/will-us-president-donald-trump-visit-central-asia",
-      "source": "The Diplomat",
-      "published": "2026-10-06T14:57:00+00:00",
-      "retrieved_at": "2026-10-06T23:12:48.035647+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "No U.S. president has ever traveled to Central Asia while in office. Could Donald Trump be the first? Sure. But will he be? That’s a different question.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2b61c6d1d3d317fdb9571142"
     }
   ],
   "unverified_history": [
