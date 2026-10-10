@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-10T08:57:20.164611+00:00",
+  "updated": "2026-10-10T09:02:20.828050+00:00",
   "items": [
+    {
+      "title": "How This Tiny Startup Built the World’s Safest Bike Helmet",
+      "url": "https://wired.com/story/how-this-tiny-startup-pikio-built-the-worlds-safest-bike-helmet",
+      "source": "Wired",
+      "published": "2026-10-10T09:00:00+00:00",
+      "retrieved_at": "2026-10-10T09:02:17.797370+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Inspired by head-banging woodpeckers, Vancouver-based Pikio Labs has discovered a new approach to skull protection.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "59c11ef5b570caad5b502f26"
+    },
     {
       "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
       "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "55d8004efd1daa0e1a682786"
-    },
-    {
-      "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
-      "url": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper",
-      "source": "TechCrunch",
-      "published": "2026-09-30T19:19:40+00:00",
-      "retrieved_at": "2026-09-30T19:22:19.969773+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "379428384a46fd1f5fdbdc5e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-10T08:57:15.730622+00:00",
+    "checked_at": "2026-10-10T09:02:16.216340+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
