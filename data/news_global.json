@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-10T20:39:49.544093+00:00",
+  "updated": "2026-10-10T20:54:51.455493+00:00",
   "items": [
+    {
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "url": "https://bbc.co.uk/news/articles/cwvgdpv642g5o",
+      "source": "BBC World",
+      "published": "2026-10-10T20:51:12+00:00",
+      "retrieved_at": "2026-10-10T20:54:45.782199+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ff081554121290a413680305"
+    },
     {
       "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into",
@@ -256,22 +272,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b6c898968d08bcff837320f8"
-    },
-    {
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-      "url": "https://bbc.co.uk/news/articles/cwvgdpv642g5o",
-      "source": "BBC World",
-      "published": "2026-10-10T14:16:50+00:00",
-      "retrieved_at": "2026-10-10T14:18:00.482157+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fa231ae630662069aa01fa0f"
     },
     {
       "title": "Has Yemen returned to ‘full-scale war’?",
