@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-10T00:21:58.311098+00:00",
+  "updated": "2026-10-10T00:41:59.905227+00:00",
   "items": [
+    {
+      "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+      "url": "https://aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border",
+      "source": "Al Jazeera",
+      "published": "2026-10-10T00:22:52+00:00",
+      "retrieved_at": "2026-10-10T00:41:54.078239+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Five Syrians and one Lebanese wounded in latest Israeli attack, Lebanon's health authorities say.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3dd0cda81036e1899ac376cb"
+    },
     {
       "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "url": "https://bbc.co.uk/news/articles/cm1dwgr666wno",
@@ -18,20 +34,20 @@
       "story_fingerprint": "22686f47890a8741342b24a5"
     },
     {
-      "title": "Iran war live: Kremlin says Trump welcomed Russia effort in Iran deal",
+      "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
       "url": "https://aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal",
       "source": "Al Jazeera",
       "published": "2026-10-10T00:00:00+00:00",
-      "retrieved_at": "2026-10-10T00:06:55.971827+00:00",
+      "retrieved_at": "2026-10-10T00:41:54.078284+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The Kremlin says US president welcomes Russia’s involvement in efforts aimed at reaching a settlement over Iran.",
+      "summary": "The Kremlin says the US president welcomes Russia's involvement in efforts aimed at reaching a settlement over Iran.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "a9680fa71f30adfa9fd2a516"
+      "story_fingerprint": "1ed3e50885b227ae22d7f986"
     },
     {
       "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "050a78c94d108c43d8964c1a"
-    },
-    {
-      "title": "Iranian Ships Test Sri Lanka’s Sovereignty Again",
-      "url": "https://thediplomat.com/2026/10/iranian-ships-test-sri-lankas-sovereignty-again",
-      "source": "The Diplomat",
-      "published": "2026-10-06T05:18:00+00:00",
-      "retrieved_at": "2026-10-06T15:11:19.721957+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "The U.S. has threatened Sri Lanka with sanctions if it provides supplies to Iranian vessels stranded off its coasts.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "72e9209fceac2cff7ff94567"
     }
   ],
   "unverified_history": [
