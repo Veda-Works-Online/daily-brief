@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T10:03:09.352603+00:00",
+  "updated": "2026-10-10T10:23:04.222834+00:00",
   "items": [
     {
       "title": "A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing",
@@ -128,6 +128,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3a7ba08c9584d09d4aa65217"
+    },
+    {
+      "title": "Nord Stream trial: How German police followed the evidence - to Ukraine",
+      "url": "https://bbc.co.uk/news/articles/c317ke5ngrq7o",
+      "source": "BBC World",
+      "published": "2026-10-10T04:51:57+00:00",
+      "retrieved_at": "2026-10-10T10:23:00.903802+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "After four years, a Ukrainian man is set to stand trial in Hamburg accused of sabotaging the Nord Stream pipelines.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e018076c56c0ff2d24857cdf"
     },
     {
       "title": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "226a562778455d029117743f"
-    },
-    {
-      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
-      "url": "https://bbc.co.uk/news/articles/cr4g1qxzwyj1o",
-      "source": "BBC World",
-      "published": "2026-10-06T09:48:37+00:00",
-      "retrieved_at": "2026-10-06T09:55:17.447304+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d6ec1a19a6c96c355456e878"
     }
   ],
   "unverified_history": [
