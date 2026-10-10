@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-10T19:49:44.524598+00:00",
+  "updated": "2026-10-10T19:54:42.730977+00:00",
   "items": [
+    {
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe",
+      "source": "TechCrunch AI",
+      "published": "2026-10-10T19:50:00+00:00",
+      "retrieved_at": "2026-10-10T19:54:37.786339+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0547cc56ef4cde9dd1112284"
+    },
     {
       "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
       "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "78244a4b71e6ecb8699c54e2"
-    },
-    {
-      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-      "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america",
-      "source": "TechCrunch",
-      "published": "2026-09-30T20:20:02+00:00",
-      "retrieved_at": "2026-09-30T20:22:11.905681+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, while Function Health has also raised significant capital to build out its preventative-health platform. Why are investors betting so big on this…",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bfe63997644576010d974038"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-10T19:49:35.350784+00:00",
+    "checked_at": "2026-10-10T19:54:37.061291+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
