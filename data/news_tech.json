@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-10T13:58:05.734909+00:00",
+  "updated": "2026-10-10T14:03:04.980023+00:00",
   "items": [
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "source": "TechCrunch",
+      "published": "2026-10-10T14:00:00+00:00",
+      "retrieved_at": "2026-10-10T14:02:59.401539+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d09820ef9e18411bc0d1000d"
+    },
     {
       "title": "AI Is Getting Really Good at Messing With Cybercriminals",
       "url": "https://wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "c499d4647ea27b42edffda01"
-    },
-    {
-      "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
-      "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt",
-      "source": "Ars Technica AI",
-      "published": "2026-09-30T19:31:25+00:00",
-      "retrieved_at": "2026-09-30T20:17:12.530843+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "AI is far from a perfect resource. But it seems to hallucinate less than Kennedy.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b094094ec7476e185c4ba626"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-10T13:57:58.242884+00:00",
+    "checked_at": "2026-10-10T14:02:58.300398+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
