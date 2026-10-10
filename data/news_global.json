@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-10T12:38:07.640487+00:00",
+  "updated": "2026-10-10T12:43:06.842516+00:00",
   "items": [
+    {
+      "title": "Ukraine warns Trump-Putin diesel deal will bankroll Russia’s war",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war",
+      "source": "Al Jazeera",
+      "published": "2026-10-10T12:33:07+00:00",
+      "retrieved_at": "2026-10-10T12:43:03.700527+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Donald Trump’s diesel deal with Putin gives Russia more money to continue attacking Ukraine, Zelenskyy says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b056ac2008b5838ff1020fc0"
+    },
     {
       "title": "Why is US turning to Russia for diesel despite sanctions?",
       "url": "https://aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "737ecdec9eef8ada8561b8ce"
-    },
-    {
-      "title": "Fact check: Misleading claims spark plague fears in Russia",
-      "url": "https://dw.com/en/fact-check-misleading-claims-spark-plague-fears-in-russia/a-79560752",
-      "source": "DW",
-      "published": "2026-10-06T11:07:00+00:00",
-      "retrieved_at": "2026-10-06T11:24:08.382646+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The death of a lab worker at a plague research institute in Russia has sparked claims about a lab accident, hundreds of infections and international spread. Some of these viral narratives are misleading.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "171b8cd558cd9b53ba951559"
     }
   ],
   "unverified_history": [
