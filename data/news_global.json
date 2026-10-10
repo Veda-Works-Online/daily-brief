@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-10T14:49:03.576718+00:00",
+  "updated": "2026-10-10T14:54:02.369177+00:00",
   "items": [
+    {
+      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "url": "https://bbc.co.uk/news/articles/c8vgx9ew571wo",
+      "source": "BBC World",
+      "published": "2026-10-10T14:49:32+00:00",
+      "retrieved_at": "2026-10-10T14:53:55.081313+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9408b4cf37646ef38e222d4e"
+    },
     {
       "title": "Why is the US sanctioning the International Criminal Court?",
       "url": "https://aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3147ace1a51f44efedb37bdf"
-    },
-    {
-      "title": "Tigray war may spill over to Eritrea — helped by Prime Minister Abiy Ahmed's rhetoric",
-      "url": "https://dw.com/en/tigray-war-may-spill-over-to-eritrea-helped-by-prime-minister-abiy-ahmed-s-rhetoric/a-79562957",
-      "source": "DW",
-      "published": "2026-10-06T13:32:00+00:00",
-      "retrieved_at": "2026-10-06T13:56:11.418752+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Ethiopia's Prime Minister Abiy Ahmed is consolidating power, but he must contend with a regional alliance opposing him and a Tigray conflict that could spill over into Eritrea.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7d5b749b702aa6cb90c57e00"
     }
   ],
   "unverified_history": [
