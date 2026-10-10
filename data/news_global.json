@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-10T05:12:26.346963+00:00",
+  "updated": "2026-10-10T05:37:26.903477+00:00",
   "items": [
+    {
+      "title": "Taiwan president says defence spending boost aims to ‘deter war’",
+      "url": "https://aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war",
+      "source": "Al Jazeera",
+      "published": "2026-10-10T05:08:49+00:00",
+      "retrieved_at": "2026-10-10T05:37:22.274013+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "President Lai Ching-te emphasises peace and freedom, vows not to tolerate aggression in Taiwan Strait.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3a7ba08c9584d09d4aa65217"
+    },
     {
       "title": "Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/10/10-10-ukraine-drone-russia-oil-clip",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "38c4ddc98584c7467715024d"
-    },
-    {
-      "title": "Trump approves firing squad execution for Fort Hood attacker Nidal Hasan",
-      "url": "https://aljazeera.com/news/2026/10/6/trump-approves-firing-squad-execution-for-fort-hood-attacker-nidal-hasan",
-      "source": "Al Jazeera",
-      "published": "2026-10-06T07:23:00+00:00",
-      "retrieved_at": "2026-10-06T07:50:25.654215+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Pentagon confirms execution order for Nidal Hasan, convicted of killing 13 in Fort Hood shooting in 2009.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b83f52de9d24273daf5cfcf4"
     }
   ],
   "unverified_history": [
