@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T20:28:05.060309+00:00",
+  "updated": "2026-10-11T20:33:08.363840+00:00",
   "items": [
     {
       "title": "Syrian families demand release of detainees held by Israel",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6b8aeeb74f3f6181af4c19d1"
+    },
+    {
+      "title": "Moscow claims former Ukrainian prisoners are fighting under Russian command — voluntarily. But veterans and former POWs share different accounts.",
+      "url": "https://dw.com/en/moscow-claims-former-ukrainian-prisoners-are-fighting-under-russian-command-voluntarily-but-veterans-and-former-pows-share-different-accounts/a-79629555",
+      "source": "DW",
+      "published": "2026-10-11T18:57:00+00:00",
+      "retrieved_at": "2026-10-11T20:33:03.044221+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Russia has announced a battalion consisting of Ukrainian \"volunteers.\" But veterans and former prisoners of war share very different accounts.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5c0a7aa6be4cf1b614e3726e"
     },
     {
       "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "826ceacad6ed59cbb3fa026f"
-    },
-    {
-      "title": "The Quiet, Careful Growth of Philippines-Taiwan Ties",
-      "url": "https://thediplomat.com/2026/10/the-quiet-careful-growth-of-philippine-taiwan-ties",
-      "source": "The Diplomat",
-      "published": "2026-10-07T14:44:00+00:00",
-      "retrieved_at": "2026-10-08T15:11:09.665309+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Manila is exploiting the space between its One China policy and functional cooperation with Taipei.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "341697396f28ef62b4fe1613"
     }
   ],
   "unverified_history": [
