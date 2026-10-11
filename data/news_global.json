@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T19:28:09.344542+00:00",
+  "updated": "2026-10-11T19:58:10.893056+00:00",
   "items": [
     {
       "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
@@ -176,6 +176,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a7474624ece5848141721c10"
+    },
+    {
+      "title": "Trump claims Russia and Ukraine agreed to 'energy ceasefire'",
+      "url": "https://dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509",
+      "source": "DW",
+      "published": "2026-10-11T14:47:00+00:00",
+      "retrieved_at": "2026-10-11T19:58:05.544905+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "US President Donald Trump says both sides have agreed to stop targeting oil refineries, power plants and other energy infrastructure immediately.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9a695418b18d92fad3a758c4"
     },
     {
       "title": "Trump announces 'energy ceasefire' between Russia and Ukraine",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c2bd90084f4eb6c8aa032d9a"
-    },
-    {
-      "title": "The Strategic Implications of China’s Military Facility in Laos",
-      "url": "https://thediplomat.com/2026/10/the-strategic-implications-of-chinas-military-facility-in-laos",
-      "source": "The Diplomat",
-      "published": "2026-10-07T13:59:00+00:00",
-      "retrieved_at": "2026-10-07T23:13:24.439045+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Ban Keun poses only a limited direct threat to the South China Sea or Taiwan, but it will enhance China’s ability to place pressure on U.S. naval forces.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "45b7ff23bd4fc8b7e42ebf37"
     }
   ],
   "unverified_history": [
