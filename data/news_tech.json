@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-11T15:57:56.704927+00:00",
+  "updated": "2026-10-11T16:02:57.192900+00:00",
   "items": [
+    {
+      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
+      "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks",
+      "source": "TechCrunch",
+      "published": "2026-10-11T16:02:00+00:00",
+      "retrieved_at": "2026-10-11T16:02:53.050469+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bd91b06002b32814f1dc94f1"
+    },
     {
       "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
       "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "6baf57848ee8df1f84b76018"
-    },
-    {
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet",
-      "source": "TechCrunch AI",
-      "published": "2026-09-30T23:43:07+00:00",
-      "retrieved_at": "2026-09-30T23:48:08.925932+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9e3ad4493fcc4a62b973fe9f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-11T15:57:51.357615+00:00",
+    "checked_at": "2026-10-11T16:02:51.752246+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
