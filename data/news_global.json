@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-11T21:38:47.690433+00:00",
+  "updated": "2026-10-11T22:48:53.667310+00:00",
   "items": [
+    {
+      "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+      "url": "https://bbc.co.uk/news/articles/cr93znyk44e1o",
+      "source": "BBC World",
+      "published": "2026-10-11T22:45:58+00:00",
+      "retrieved_at": "2026-10-11T22:48:49.384045+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "eceb1f0138cd38a560540b7c"
+    },
     {
       "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
       "url": "https://bbc.co.uk/news/articles/c6pvg4jyz1m0o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "37c7487bc38559fae40ed84b"
-    },
-    {
-      "title": "The Atlantic Brief: U.S. and European Perspectives on Nuclear Deterrence",
-      "url": "https://warontherocks.com/the-atlantic-brief-u-s-and-european-perspectives-on-nuclear-deterrence",
-      "source": "War on the Rocks",
-      "published": "2026-10-07T16:00:59+00:00",
-      "retrieved_at": "2026-10-07T16:22:48.122122+00:00",
-      "feed_url": "https://warontherocks.com/feed/",
-      "summary": "For this edition of The Atlantic Brief, the Royal United Services Institute and War on the Rocks present a dialogue on U.S. and European Perspectives on Nuclear Deterrence. Participating experts from the United Kingdom, continental Europe, and the United States bring decades of first-hand experience in the armed forces, diplomacy, and foreign policy. They explore evolving views of America’s…",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://warontherocks.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d636f3df27a9caa6bfd53f58"
     }
   ],
   "unverified_history": [
