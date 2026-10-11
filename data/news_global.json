@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-10T23:54:50.324036+00:00",
+  "updated": "2026-10-11T00:24:51.715094+00:00",
   "items": [
+    {
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "url": "https://bbc.co.uk/news/articles/cw33x4y8k82no",
+      "source": "BBC World",
+      "published": "2026-10-11T00:21:52+00:00",
+      "retrieved_at": "2026-10-11T00:24:46.176824+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3a2eed9beead5b582b396555"
+    },
     {
       "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
       "url": "https://bbc.co.uk/news/articles/c680zlny0gk4o",
@@ -240,22 +256,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "241c3b5ba3911869c13b1f61"
-    },
-    {
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
-      "url": "https://bbc.co.uk/news/articles/cw33x4y8k82no",
-      "source": "BBC World",
-      "published": "2026-10-10T16:56:32+00:00",
-      "retrieved_at": "2026-10-10T16:58:55.744423+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2832833b500c4b3102b98f0e"
     },
     {
       "title": "Eritrea urges UN to intervene in standoff with Ethiopia",
