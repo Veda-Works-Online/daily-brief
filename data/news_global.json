@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-11T21:03:48.325775+00:00",
+  "updated": "2026-10-11T21:38:47.690433+00:00",
   "items": [
+    {
+      "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+      "url": "https://bbc.co.uk/news/articles/c6pvg4jyz1m0o",
+      "source": "BBC World",
+      "published": "2026-10-11T21:36:40+00:00",
+      "retrieved_at": "2026-10-11T21:38:43.606590+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "17a31c13b7e129e376d41096"
+    },
     {
       "title": "Two killed near Israeli-occupied area in south Lebanon",
       "url": "https://aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d636f3df27a9caa6bfd53f58"
-    },
-    {
-      "title": "The mass killing does not mean Israel’s winning",
-      "url": "https://aljazeera.com/opinions/2026/10/7/the-mass-killing-does-not-mean-israels-winning",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T15:25:06+00:00",
-      "retrieved_at": "2026-10-07T16:22:47.961459+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel’s military might has failed to achieve the political goals in Gaza it was supposed to.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7daf9f8eff2bdecf62b5939a"
     }
   ],
   "unverified_history": [
