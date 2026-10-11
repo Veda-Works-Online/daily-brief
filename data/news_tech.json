@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-11T13:57:10.927197+00:00",
+  "updated": "2026-10-11T14:02:13.452016+00:00",
   "items": [
+    {
+      "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet",
+      "source": "TechCrunch AI",
+      "published": "2026-10-11T14:00:00+00:00",
+      "retrieved_at": "2026-10-11T14:02:04.619665+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a02e9d4c1be6abfae38b9b12"
+    },
     {
       "title": "I Made Terrible Games With Google’s AI Playground",
       "url": "https://wired.com/story/i-made-terrible-games-with-googles-ai-playground",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b143a3fc17e969551b0f0d79"
-    },
-    {
-      "title": "A local network of implants uses your body as the wiring",
-      "url": "https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue",
-      "source": "Ars Technica",
-      "published": "2026-09-30T21:06:56+00:00",
-      "retrieved_at": "2026-09-30T22:28:07.610912+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "It's possible to send electrical signals right through human tissues.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1c1b05d366c8efce8c1b430f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-11T13:57:02.817156+00:00",
+    "checked_at": "2026-10-11T14:02:03.845630+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
