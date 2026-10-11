@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-11T07:56:26.989165+00:00",
+  "updated": "2026-10-11T08:01:24.046025+00:00",
   "items": [
+    {
+      "title": "Ground Robots Are Arriving on the Front Lines",
+      "url": "https://warontherocks.com/cogs-of-war/ground-robots-are-arriving-on-the-front-lines",
+      "source": "War on the Rocks",
+      "published": "2026-10-11T08:00:11+00:00",
+      "retrieved_at": "2026-10-11T08:01:19.927974+00:00",
+      "feed_url": "https://warontherocks.com/feed/",
+      "summary": "For years, ground autonomy lagged well behind its counterparts in the air. That gap is starting to close. Jonathan is joined by Ryan Hartman (Ondas Sentinel) and Scott Philips (Forterra) to examine what it takes to field autonomous ground vehicles in combat. The conversation ranges across what Ukraine and Gaza have taught them, what operating without GPS and resilient communications really looks…",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://warontherocks.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5f62bf78b3f4e1461a124e3a"
+    },
     {
       "title": "US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a2657e42c0e663af9cd55334"
-    },
-    {
-      "title": "Syrian embassy returns seized passport after 43 years",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/7/syrian-embassy-returns-seized-passport-after-43-years",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T01:20:11+00:00",
-      "retrieved_at": "2026-10-07T01:27:44.129139+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Syria's embassy in Berlin has returned the passport of a citizen that the former Assad government seized 43 years ago.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cd944bd544b4e9f946586418"
     }
   ],
   "unverified_history": [
