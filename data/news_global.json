@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-11T14:47:18.821088+00:00",
+  "updated": "2026-10-11T15:02:24.318603+00:00",
   "items": [
+    {
+      "title": "Trump says Ukraine and Russia have agreed 'energy ceasefire'",
+      "url": "https://bbc.co.uk/news/articles/c6pvg4jyz1m0o",
+      "source": "BBC World",
+      "published": "2026-10-11T14:46:50+00:00",
+      "retrieved_at": "2026-10-11T15:02:18.343334+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Neither Kyiv nor Moscow have yet commented on the US president's assertion of an immediate truce.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7d85f8674c77df2ebf0883eb"
+    },
     {
       "title": "Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties",
       "url": "https://aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "85b2fb6e9dbf69a77978fb2f"
-    },
-    {
-      "title": "Three years of Israel’s mass dispossession of West Bank Palestinians",
-      "url": "https://aljazeera.com/features/2026/10/7/three-years-of-israels-mass-dispossession-of-west-bank-palestinians",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T08:22:19+00:00",
-      "retrieved_at": "2026-10-07T08:28:37.148867+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Bedouin families uprooted by Israeli settlers describe a state-backed project of forced transfer in the West Bank.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e1989294e8427a25e48e3a59"
     }
   ],
   "unverified_history": [
