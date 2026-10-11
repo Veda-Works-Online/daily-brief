@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T15:17:20.177259+00:00",
+  "updated": "2026-10-11T15:22:21.887019+00:00",
   "items": [
     {
       "title": "Trump announces 'energy ceasefire' between Russia and Ukraine",
@@ -304,6 +304,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ba73f63aa82721d31e10a966"
+    },
+    {
+      "title": "Who are the Ukrainian 'volunteers' under Russian command?",
+      "url": "https://dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555",
+      "source": "DW",
+      "published": "2026-10-11T06:38:00+00:00",
+      "retrieved_at": "2026-10-11T15:22:16.074498+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Russia has announced a battalion consisting of Ukrainian \"volunteers.\" But veterans and former prisoners of war share very different accounts.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "29e8c977c17464bed9ca1a3c"
     },
     {
       "title": "Ukrainian prisoners of war and defectors have been gathered into a Russian battalion to face Ukrainian forces — why? And how?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7811a517bef9f0be9346bb40"
-    },
-    {
-      "title": "What does a year-long ceasefire in Gaza look like?",
-      "url": "https://aljazeera.com/video/by-the-numbers-3/2026/10/7/what-does-a-year-long-ceasefire-in-gaza-look-like",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T08:55:12+00:00",
-      "retrieved_at": "2026-10-07T09:24:13.429340+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel attacked Gaza nine days out of 10 during a so-called ceasefire.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2afdf87b708b77b9e672e8b5"
     }
   ],
   "unverified_history": [
