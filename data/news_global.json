@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-11T15:02:24.318603+00:00",
+  "updated": "2026-10-11T15:17:20.177259+00:00",
   "items": [
+    {
+      "title": "Trump announces 'energy ceasefire' between Russia and Ukraine",
+      "url": "https://dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509",
+      "source": "DW",
+      "published": "2026-10-11T14:47:00+00:00",
+      "retrieved_at": "2026-10-11T15:17:14.270962+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "US President Donald Trump says both sides have agreed to stop targeting oil refineries, power plants and other energy infrastructure immediately.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "59978fd1ca2fe39de5a2d7b1"
+    },
     {
       "title": "Trump says Ukraine and Russia have agreed 'energy ceasefire'",
       "url": "https://bbc.co.uk/news/articles/c6pvg4jyz1m0o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2afdf87b708b77b9e672e8b5"
-    },
-    {
-      "title": "Fear and a far-right lurch: How October 7 reshaped Israel",
-      "url": "https://aljazeera.com/news/2026/10/7/fear-and-a-far-right-lurch-how-october-7-reshaped-israel",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T08:53:23+00:00",
-      "retrieved_at": "2026-10-07T09:24:13.429353+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Three years on, the trauma of October 7, 2023, continues to reshape Israel’s politics, wars and place in the world.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "85b2fb6e9dbf69a77978fb2f"
     }
   ],
   "unverified_history": [
