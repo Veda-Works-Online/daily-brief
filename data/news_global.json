@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-11T20:33:08.363840+00:00",
+  "updated": "2026-10-11T20:38:07.928739+00:00",
   "items": [
+    {
+      "title": "Zelenskyy welcomes US-announced energy ceasefire",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T20:28:46+00:00",
+      "retrieved_at": "2026-10-11T20:38:02.417937+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "President Zelenskyy has responded to Donald Trump’s announcement that Russia and Ukraine agreed to an energy ceasefire",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fa0b66e710754e35acf2c16d"
+    },
     {
       "title": "Syrian families demand release of detainees held by Israel",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "56fde6c818b1935416ba407f"
-    },
-    {
-      "title": "Why music in Iran is more than just entertainment",
-      "url": "https://dw.com/en/why-music-in-iran-is-more-than-just-entertainment/a-79583224",
-      "source": "DW",
-      "published": "2026-10-07T14:58:00+00:00",
-      "retrieved_at": "2026-10-07T16:22:48.308522+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Iranian authorities are trying to persuade prominent singers in exile to return home. While the state seeks to harness music as a political tool, music has also become a powerful expression of dissent and resistance.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "826ceacad6ed59cbb3fa026f"
     }
   ],
   "unverified_history": [
