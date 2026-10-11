@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-11T11:02:14.226394+00:00",
+  "updated": "2026-10-11T11:07:11.264022+00:00",
   "items": [
+    {
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "url": "https://wired.com/story/i-made-terrible-games-with-googles-ai-playground",
+      "source": "Wired",
+      "published": "2026-10-11T11:00:00+00:00",
+      "retrieved_at": "2026-10-11T11:07:05.090266+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "A long day’s haul in the video game slop mines.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "41e4057d419c722416f4542f"
+    },
     {
       "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
       "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1c1b05d366c8efce8c1b430f"
-    },
-    {
-      "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
-      "url": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition",
-      "source": "TechCrunch",
-      "published": "2026-09-30T20:39:09+00:00",
-      "retrieved_at": "2026-10-01T00:43:08.590999+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "475a3440ebb5e42f1d2caf1f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-11T11:02:04.548858+00:00",
+    "checked_at": "2026-10-11T11:07:03.395669+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
