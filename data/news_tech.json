@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-11T20:48:41.142227+00:00",
+  "updated": "2026-10-11T20:53:40.212429+00:00",
   "items": [
+    {
+      "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+      "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start",
+      "source": "TechCrunch",
+      "published": "2026-10-11T20:51:47+00:00",
+      "retrieved_at": "2026-10-11T20:53:37.277293+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "What does this mean for a fall full of movies starring villainous tech CEOs?",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2d133f6b861f616d916b579c"
+    },
     {
       "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
       "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "92298687f6f0fa2d1505c01d"
-    },
-    {
-      "title": "Madison Square Garden’s James Dolan Is Spending Big on New York’s Governor Race",
-      "url": "https://wired.com/story/madison-square-gardens-james-dolan-is-spending-big-on-new-yorks-governor-race",
-      "source": "Wired",
-      "published": "2026-10-01T10:30:00+00:00",
-      "retrieved_at": "2026-10-01T10:35:20.130953+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "James Dolan has put surveillance at the center of his sports and entertainment empire. Now he’s getting involved in GOP politics by backing a candidate who supports Flock, ICE, and AI data centers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "46b818b3609e634d2d12aac8"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-11T20:48:37.228358+00:00",
+    "checked_at": "2026-10-11T20:53:36.447811+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
