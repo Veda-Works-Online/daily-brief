@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-11T21:13:41.103021+00:00",
+  "updated": "2026-10-11T21:18:45.286678+00:00",
   "items": [
+    {
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success",
+      "source": "TechCrunch AI",
+      "published": "2026-10-11T21:14:40+00:00",
+      "retrieved_at": "2026-10-11T21:18:37.927034+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Apple will announce a new smart home hub on Tuesday called the HomeView, according to Bloomberg’s Mark Gurman. Over the past couple of years, we’ve seen There have been multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date. Gurman […]",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5b3908a241a96dfa8e7e0ab4"
+    },
     {
       "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
       "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b0c4dc93a1de9f0ceaceaabf"
-    },
-    {
-      "title": "Exclusive: Neurable’s First Brain-Scanning Headphones Want to Fine-Tune Your Focus",
-      "url": "https://wired.com/story/exclusive-neurable-one-brain-scanning-headphones-want-to-fix-your-focus",
-      "source": "Wired",
-      "published": "2026-10-01T11:00:00+00:00",
-      "retrieved_at": "2026-10-01T11:05:11.186309+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The company claims that its new device, the Neurable One, can keep you in the zone, calculate the best time to take a break, and tell you when your “brain battery” needs a recharge.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "92298687f6f0fa2d1505c01d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-11T21:13:37.314663+00:00",
+    "checked_at": "2026-10-11T21:18:37.511848+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
