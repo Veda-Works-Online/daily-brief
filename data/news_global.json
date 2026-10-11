@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-11T08:56:22.932939+00:00",
+  "updated": "2026-10-11T09:56:21.641690+00:00",
   "items": [
+    {
+      "title": "Russia’s Yandex says data centre in Vladimir shut down after drone attack",
+      "url": "https://aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T09:33:03+00:00",
+      "retrieved_at": "2026-10-11T09:56:17.420470+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Third strike on Yandex facilities in a week comes as Russia and Ukraine escalate attacks on tech infrastructure.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "af6a745158b8d1c94b31bd78"
+    },
     {
       "title": "Trump calls for Ukraine election, says Zelenskyy failed to end war",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4c6db1699410b8bd034e1e1e"
-    },
-    {
-      "title": "Israelis pause to mark October 7 Hamas-attack anniversary",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/7/israelis-pause-to-mark-october-7-hamas-attack-anniversary",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T04:43:02+00:00",
-      "retrieved_at": "2026-10-07T05:03:39.306153+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israelis gathered at memorials to mark the moment the Hamas-led attack began on October 7, 2023.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1bf5386780d45316eadf9236"
     }
   ],
   "unverified_history": [
