@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-11T18:23:05.700612+00:00",
+  "updated": "2026-10-11T18:33:06.639136+00:00",
   "items": [
+    {
+      "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T18:25:42+00:00",
+      "retrieved_at": "2026-10-11T18:33:00.953716+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e79f8969393c7105007d0027"
+    },
     {
       "title": "Lebanon’s first electric train hopes to revive railway system",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d3ca7d6834ea9ee69a9a5215"
-    },
-    {
-      "title": "China's Golden Week reveals cautious consumer spending despite travel surge",
-      "url": "https://dw.com/en/china-s-golden-week-reveals-cautious-consumer-spending-despite-travel-surge/a-79577254",
-      "source": "DW",
-      "published": "2026-10-07T13:18:00+00:00",
-      "retrieved_at": "2026-10-07T14:20:17.929439+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Chinese visitors are returning from trips after the 13-day Golden Week holiday. Their subdued spending has raised fresh questions about domestic demand in the world's second-largest economy.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2a7c9ead8605b73438f94f35"
     }
   ],
   "unverified_history": [
