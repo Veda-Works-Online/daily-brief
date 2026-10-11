@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-11T16:47:56.435142+00:00",
+  "updated": "2026-10-11T16:52:56.155371+00:00",
   "items": [
+    {
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
+      "source": "TechCrunch AI",
+      "published": "2026-10-11T16:52:33+00:00",
+      "retrieved_at": "2026-10-11T16:52:51.273749+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "24f51d476934d90fb0daa984"
+    },
     {
       "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
       "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "07d084ef773323d1ee90c92f"
-    },
-    {
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "url": "https://openai.com/index/the-den-family-social",
-      "source": "OpenAI",
-      "published": "2026-10-01T00:00:00+00:00",
-      "retrieved_at": "2026-10-01T21:31:44.836034+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "6baf57848ee8df1f84b76018"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-11T16:47:50.942155+00:00",
+    "checked_at": "2026-10-11T16:52:50.829515+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
