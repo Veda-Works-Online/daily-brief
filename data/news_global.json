@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T00:24:51.715094+00:00",
+  "updated": "2026-10-11T00:29:53.424726+00:00",
   "items": [
     {
       "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3a2eed9beead5b582b396555"
+    },
+    {
+      "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+      "url": "https://aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T00:00:13+00:00",
+      "retrieved_at": "2026-10-11T00:29:47.897042+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "eba2818acbdd49e4e600fbc3"
     },
     {
       "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3c4e28f248610f78178ed139"
-    },
-    {
-      "title": "Is there a MAGA after Trump?",
-      "url": "https://aljazeera.com/video/lets-focus/2026/10/6/is-there-a-maga-after-trump",
-      "source": "Al Jazeera",
-      "published": "2026-10-06T20:07:11+00:00",
-      "retrieved_at": "2026-10-06T20:41:50.939764+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "From the Epstein files to the war on Iran, Josh Rushing examines the cracks forming within MAGA in Trump's second term.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9c6a290db05e9d60a68849a6"
     }
   ],
   "unverified_history": [
