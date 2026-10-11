@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-11T22:48:53.667310+00:00",
+  "updated": "2026-10-11T22:58:46.905339+00:00",
   "items": [
+    {
+      "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store",
+      "source": "Al Jazeera",
+      "published": "2026-10-11T22:49:23+00:00",
+      "retrieved_at": "2026-10-11T22:58:42.841827+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "eb80e925ec0f0bb4946e1c49"
+    },
     {
       "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
       "url": "https://bbc.co.uk/news/articles/cr93znyk44e1o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0209a4110fe7c727d6da337d"
-    },
-    {
-      "title": "More than 200,000 displaced as fighting escalates in Yemen, UN says",
-      "url": "https://aljazeera.com/gallery/2026/10/7/more-than-200000-displaced-as-fighting-escalates-in-yemen-un-says-2",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T16:02:17+00:00",
-      "retrieved_at": "2026-10-07T16:22:47.961433+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "With 3,700 fleeing to Djibouti amid Houthi clashes, the UN warns three in four families in parts of Yemen face hunger.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "37c7487bc38559fae40ed84b"
     }
   ],
   "unverified_history": [
