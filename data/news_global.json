@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-11T11:57:18.462948+00:00",
+  "updated": "2026-10-11T12:17:21.739500+00:00",
   "items": [
+    {
+      "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+      "url": "https://bbc.co.uk/news/articles/cwy7lxx60dg5o",
+      "source": "BBC World",
+      "published": "2026-10-11T12:08:20+00:00",
+      "retrieved_at": "2026-10-11T12:17:15.785010+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The boat was travelling from Djibouti to Yemen with 350 people on board, when it capsized near the port town of Obock on Thursday night.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d38d9d25400138e12346b944"
+    },
     {
       "title": "Trump’s brash remarks entertain crowd at election rally in Tennessee",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/11/trumps-brash-remarks-entertain-crowd-at-election-rally-in-tennessee",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4f4ae31e5ca28faccb51837d"
-    },
-    {
-      "title": "Yemen’s displaced children dream of returning to school",
-      "url": "https://aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T06:15:44+00:00",
-      "retrieved_at": "2026-10-07T06:33:36.050370+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "More than 137,000 students in conflict zones lose access to education, deepening Yemen's already dire schooling crisis.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ed68713743108df52084a3be"
     }
   ],
   "unverified_history": [
