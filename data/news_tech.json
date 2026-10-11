@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-11T18:57:57.171799+00:00",
+  "updated": "2026-10-11T19:02:58.058856+00:00",
   "items": [
+    {
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next",
+      "source": "TechCrunch AI",
+      "published": "2026-10-11T19:00:00+00:00",
+      "retrieved_at": "2026-10-11T19:02:52.273018+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2dc6a2c093b90c74334c41ea"
+    },
     {
       "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
       "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "46b818b3609e634d2d12aac8"
-    },
-    {
-      "title": "Apple Mac Studio (M5 Ultra) Review: Unlimited Power",
-      "url": "https://wired.com/review/apple-mac-studio-m5-ultra-2026",
-      "source": "Wired",
-      "published": "2026-10-01T10:00:00+00:00",
-      "retrieved_at": "2026-10-01T10:05:11.499075+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The Mac Studio can run frontier-level AI language models locally. It’s only a preview of what’s to come.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "07d084ef773323d1ee90c92f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-11T18:57:51.728710+00:00",
+    "checked_at": "2026-10-11T19:02:51.795919+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
