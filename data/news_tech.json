@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-12T10:00:22.275651+00:00",
+  "updated": "2026-10-12T10:05:17.569119+00:00",
   "items": [
+    {
+      "title": "The Best Gifts for the Techie in Your Life (2026)",
+      "url": "https://wired.com/story/best-tech-gifts",
+      "source": "Wired",
+      "published": "2026-10-12T10:00:00+00:00",
+      "retrieved_at": "2026-10-12T10:05:13.435494+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Don’t buy a loved one something you wouldn’t want for yourself. These are the must-haves that tech enthusiasts have on their wish lists this year.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1d6e5ba936bff9889dd6fb6d"
+    },
     {
       "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
       "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "62a796b1d95b637c6e81893f"
-    },
-    {
-      "title": "2 Driverless Cars Crashed Going 155 mph. That Could Be a Good Thing",
-      "url": "https://wired.com/story/2-driverless-cars-crashed-going-155-mph-that-could-be-a-good-thing",
-      "source": "Wired",
-      "published": "2026-10-01T12:15:00+00:00",
-      "retrieved_at": "2026-10-01T12:20:12.578402+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Only two of five vehicles finished the race around a notoriously difficult Formula 1 track, exposing what happens when autonomous systems meet blind corners, sensor failures, and physics.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0f99307e92ad1ac3d729671b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-12T10:00:11.568945+00:00",
+    "checked_at": "2026-10-12T10:05:11.510644+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
