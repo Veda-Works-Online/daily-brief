@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T14:37:39.398412+00:00",
+  "updated": "2026-10-12T14:57:39.277878+00:00",
   "items": [
     {
       "title": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "056b135aaaecc9b9b2359d45"
+    },
+    {
+      "title": "Immigration agents search Congresswoman Ilhan Omar's home",
+      "url": "https://bbc.co.uk/news/articles/cvp8glg97393o",
+      "source": "BBC World",
+      "published": "2026-10-12T14:21:12+00:00",
+      "retrieved_at": "2026-10-12T14:57:33.851703+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b755fcaa7911e6e5e437eac0"
     },
     {
       "title": "At least 20 injured in northern Israel explosion",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1f93abbd377db5ef70db73a8"
-    },
-    {
-      "title": "Democrats sue US President Trump over taxpayer-funded ad campaign",
-      "url": "https://aljazeera.com/news/2026/10/8/democrats-sue-us-president-trump-over-taxpayer-funded-ad-campaign",
-      "source": "Al Jazeera",
-      "published": "2026-10-08T01:21:26+00:00",
-      "retrieved_at": "2026-10-08T01:33:19.186227+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump has faced a bipartisan backlash over ads that critics say violate prohibitions on taxpayer-funded propaganda.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8c1683a0c6a31c7db3f26bcf"
     }
   ],
   "unverified_history": [
