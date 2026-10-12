@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-12T21:45:05.223256+00:00",
+  "updated": "2026-10-12T22:10:06.054135+00:00",
   "items": [
+    {
+      "title": "Immigration agents search congresswoman Ilhan Omar's home",
+      "url": "https://bbc.co.uk/news/articles/cvp8glg97393o",
+      "source": "BBC World",
+      "published": "2026-10-12T22:05:31+00:00",
+      "retrieved_at": "2026-10-12T22:10:00.880476+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b755fcaa7911e6e5e437eac0"
+    },
     {
       "title": "Conflict, drought increasing risk of famine in Sudan: Monitor",
       "url": "https://aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor",
@@ -192,22 +208,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0910dcfc6a221b55e3b1d5d1"
-    },
-    {
-      "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-      "url": "https://bbc.co.uk/news/articles/cvp8glg97393o",
-      "source": "BBC World",
-      "published": "2026-10-12T17:09:55+00:00",
-      "retrieved_at": "2026-10-12T18:39:12.308988+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b755fcaa7911e6e5e437eac0"
     },
     {
       "title": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
