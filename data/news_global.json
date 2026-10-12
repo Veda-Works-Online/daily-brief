@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-12T01:28:48.288434+00:00",
+  "updated": "2026-10-12T03:54:48.706771+00:00",
   "items": [
+    {
+      "title": "North Korea fires multiple ballistic missiles towards the sea",
+      "url": "https://aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea",
+      "source": "Al Jazeera",
+      "published": "2026-10-12T03:37:12+00:00",
+      "retrieved_at": "2026-10-12T03:54:43.075250+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Latest missile launch appears to be a show of force since South Korea's hypersonic missile test-fire, Seoul says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d1bb324d7c802de75c8f8d60"
+    },
     {
       "title": "UK PM Andy Burnham says it is ‘clear’ Russia interfered in 2016 Brexit vote",
       "url": "https://aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-says-it-is-clear-russia-interfered-in-2016-brexit-vote",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ab82b1b2bdbb2f8bf738725f"
-    },
-    {
-      "title": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
-      "url": "https://dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245",
-      "source": "DW",
-      "published": "2026-10-07T17:33:00+00:00",
-      "retrieved_at": "2026-10-07T21:28:26.077972+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Pakistan and Turkey have agreed to provide \"practical measures\" to defend Saudi Arabia against Houthi attacks. Could a new alliance reshape the war against the Houthis in Yemen?",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "562b1942f59f4f26d6f2a56f"
     }
   ],
   "unverified_history": [
