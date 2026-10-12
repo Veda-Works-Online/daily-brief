@@ -701,6 +701,29 @@ def accepted(row, symbol, a, b, now):
                 calculation='Google quote minus same-source previous close' if field == 'absoluteChange' else
                     '(Google quote / same-source previous close - 1) * 100; rounded to 6 decimal places',
                 input_price=price, input_previous_close=prev, currency=None if field == 'changePercent' else a['currency'])
+    # During pre-market Google can roll its previous-close field forward while
+    # its regular price/time still belongs to the previous session. Use Yahoo's
+    # regular-session close only when the displayed prices match exactly.
+    if ('previousClose' in out.get('field_conflicts', [])
+            and a.get('quoteType') == 'EQUITY' and a.get('currency') == 'USD'
+            and EXCHANGES.get(a.get('exchange')) in {'NYSE', 'NASDAQ', 'NYSEAMERICAN'}
+            and decimal(a['regularMarketPrice']) == decimal(b['price'])
+            and ta.astimezone(ZoneInfo('America/New_York')).date()
+                == tb.astimezone(ZoneInfo('America/New_York')).date()
+            and a.get('regularMarketPreviousClose') is not None
+            and decimal(a['regularMarketPreviousClose']) > 0):
+        prev, price = decimal(a['regularMarketPreviousClose']), decimal(a['regularMarketPrice'])
+        with localcontext() as context:
+            context.prec = 34
+            change = price - prev
+            pct = (change / prev * 100).quantize(Decimal('0.000001'), rounding=ROUND_HALF_UP)
+        for field, value in [('previousClose', prev), ('absoluteChange', change), ('changePercent', pct)]:
+            put(field, value, 'Yahoo Finance')
+            out['field_metadata'][field].update(validation_status='INDICATIVE', quality='INDICATIVE',
+                verification_sources=[], input_price=price, input_previous_close=prev,
+                currency=None if field == 'changePercent' else a['currency'],
+                calculation='Yahoo regular-session price and previous close; price exactly matches displayed Google quote',
+                rejected_google_previous_close=b.get('previousClose'))
     if a.get('marketCap') is not None and b.get('marketCap') is not None:
         cap = decimal(a['marketCap'])
         if cap > 0 and abs(cap-b['marketCap']) <= b['cap_resolution']/2:
@@ -1151,7 +1174,12 @@ def refresh_markets(payload):
                 result = retain_primary_cap(result, row, sources, datetime.now(timezone.utc), error, force_stale=True)
                 extra_errors[symbol] = error
         elif symbol not in extras and row.get('field_metadata', {}).get('marketCap', {}).get('source') == 'Nasdaq' and result.get('field_metadata', {}).get('marketCap', {}).get('source') != 'Nasdaq':
-            result = retain_primary_cap(result, row, {'Nasdaq'}, datetime.now(timezone.utc), 'PRIMARY_CAP_NOT_SELECTED_THIS_CYCLE')
+            current_cap = result.get('field_metadata', {}).get('marketCap', {})
+            prior_cap = row['field_metadata']['marketCap']
+            if not (current_cap.get('validation_status') == 'VERIFIED'
+                    and current_cap.get('source_timestamp') and prior_cap.get('source_timestamp')
+                    and timestamp(current_cap['source_timestamp']) >= timestamp(prior_cap['source_timestamp'])):
+                result = retain_primary_cap(result, row, {'Nasdaq'}, datetime.now(timezone.utc), 'PRIMARY_CAP_NOT_SELECTED_THIS_CYCLE')
         if symbol == '005930.KS':
             try:
                 if samsung_shares is None:
