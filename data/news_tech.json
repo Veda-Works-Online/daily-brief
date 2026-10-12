@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-12T11:15:21.013961+00:00",
+  "updated": "2026-10-12T11:20:18.991383+00:00",
   "items": [
+    {
+      "title": "How Apple Puts Indigenous Languages on the iPhone Keyboard",
+      "url": "https://wired.com/story/how-apple-puts-indigenous-languages-on-the-iphone-keyboard",
+      "source": "Wired",
+      "published": "2026-10-12T11:15:00+00:00",
+      "retrieved_at": "2026-10-12T11:20:12.753463+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "To save endangered languages, tech companies like Apple are working with Indigenous communities to meet the next generation where they type.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a26d2e457d095eb7376a5c05"
+    },
     {
       "title": "AlterMe Review: Fitness Built Around My DNA",
       "url": "https://wired.com/review/alterme-fitness-and-wellness-program",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8d340bcae46bf22dc333b030"
-    },
-    {
-      "title": "Hearing tech startup Legato launches its AI hearing glasses",
-      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses",
-      "source": "TechCrunch AI",
-      "published": "2026-10-01T13:00:00+00:00",
-      "retrieved_at": "2026-10-01T13:10:22.483418+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2465011320b5b74452a47d1b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-12T11:15:11.546104+00:00",
+    "checked_at": "2026-10-12T11:20:11.342049+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
