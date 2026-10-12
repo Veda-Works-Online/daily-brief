@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-12T12:10:26.279073+00:00",
+  "updated": "2026-10-12T12:25:30.822856+00:00",
   "items": [
+    {
+      "title": "Who are the Houthis, and why are they so hard to fight?",
+      "url": "https://bbc.co.uk/news/videos/cmy56nzd6y69o",
+      "source": "BBC World",
+      "published": "2026-10-12T12:15:01+00:00",
+      "retrieved_at": "2026-10-12T12:25:25.297907+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0d58362287a1fb573656a5b1"
+    },
     {
       "title": "Gaza: Still Reporting",
       "url": "https://aljazeera.com/video/witness/2026/10/12/gaza-still-reporting",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bbaeaee2e2d19cacbedfcf50"
-    },
-    {
-      "title": "Trade Agreement With US Close to Completion, Thai Prime Minister Says",
-      "url": "https://thediplomat.com/2026/10/trade-agreement-with-us-close-to-completion-thai-prime-minister-says",
-      "source": "The Diplomat",
-      "published": "2026-10-07T23:35:00+00:00",
-      "retrieved_at": "2026-10-08T07:09:13.150469+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Anutin Charnvirakul said that he expected to sign the Agreement on ⁠Reciprocal Trade during President Donald Trump's next visit to Asia.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e6b5f8698e568b730d955308"
     }
   ],
   "unverified_history": [
