@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-12T19:04:16.675265+00:00",
+  "updated": "2026-10-12T19:39:12.244915+00:00",
   "items": [
+    {
+      "title": "UK: Iran 'highly likely' to be behind RAF Fairford incident",
+      "url": "https://dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941",
+      "source": "DW",
+      "published": "2026-10-12T19:02:00+00:00",
+      "retrieved_at": "2026-10-12T19:39:09.599486+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Prime Minister Andy Burnham told parliament there were \"strong indications\" of Iranian involvement. The government summoned Iran's ambassador. The scare at RAF Fairford led to the withdrawal of USAF B-1 heavy bombers.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "04ae398d83f67190057770b6"
+    },
     {
       "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
       "url": "https://aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4327ad5c91d6b0b62265dd49"
-    },
-    {
-      "title": "What did Palestinians take when they fled after October 7?",
-      "url": "https://aljazeera.com/gallery/longform/2026/10/8/what-did-palestinians-take-when-they-fled-after-october-7",
-      "source": "Al Jazeera",
-      "published": "2026-10-08T06:08:05+00:00",
-      "retrieved_at": "2026-10-08T06:24:18.348555+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Palestinians displaced by war chose cherished items, revealing poignant stories amid devastation in Gaza.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "11277fd439ea35f492611670"
     }
   ],
   "unverified_history": [
