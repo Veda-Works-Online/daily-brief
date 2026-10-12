@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-12T15:12:04.832945+00:00",
+  "updated": "2026-10-12T15:22:41.100596+00:00",
   "items": [
+    {
+      "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+      "url": "https://bbc.co.uk/news/articles/cwr5y2lgr4gdo",
+      "source": "BBC World",
+      "published": "2026-10-12T15:19:17+00:00",
+      "retrieved_at": "2026-10-12T15:22:35.627228+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "080f898b7dd0c0c219db17aa"
+    },
     {
       "title": "Trump critic Democratic Rep. Ilhan Omar’s home searched by federal agents",
       "url": "https://aljazeera.com/news/2026/10/12/trump-critic-democratic-rep-ilhan-omars-home-searched-by-federal-agents",
@@ -320,22 +336,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b06daa681cd57763a8c30776"
-    },
-    {
-      "title": "Indian opposition leaders march to top court to demand election chief resign",
-      "url": "https://bbc.co.uk/news/articles/cwr5y2lgr4gdo",
-      "source": "BBC World",
-      "published": "2026-10-12T06:42:35+00:00",
-      "retrieved_at": "2026-10-12T10:45:21.445215+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The march follows a chaotic weekend in Delhi which saw thousands of protesters being detained by police.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "278ad4be28a6bb89b29915f6"
     },
     {
       "title": "India opposition march live: Rally to Supreme Court against election chief",
