@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-12T13:00:29.529370+00:00",
+  "updated": "2026-10-12T13:05:26.580662+00:00",
   "items": [
+    {
+      "title": "Google Fitbit Edge: Specs, Features, Price, Release Date",
+      "url": "https://wired.com/story/googles-fitbit-edge-debuts-a-replaceable-battery-and-brings-back-the-screen",
+      "source": "Wired",
+      "published": "2026-10-12T13:00:00+00:00",
+      "retrieved_at": "2026-10-12T13:05:22.663159+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The new $179 tracker features Pixel Watch smarts, week-long battery life, and an OLED screen.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "baa7ea6c39c16f5b00e2fad7"
+    },
     {
       "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
       "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "a1a382c561793a00038fcb1e"
-    },
-    {
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system",
-      "source": "TechCrunch AI",
-      "published": "2026-10-01T15:12:00+00:00",
-      "retrieved_at": "2026-10-01T15:16:03.699357+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7b82c82d6c565b9facb4e6ad"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-12T13:00:21.573882+00:00",
+    "checked_at": "2026-10-12T13:05:21.197518+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
