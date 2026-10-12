@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-12T20:14:03.022520+00:00",
+  "updated": "2026-10-12T20:19:01.667812+00:00",
   "items": [
+    {
+      "title": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine",
+      "url": "https://wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine",
+      "source": "Wired",
+      "published": "2026-10-12T20:13:28+00:00",
+      "retrieved_at": "2026-10-12T20:18:59.680236+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "My Muse agent told me its kink was exerting “control” and described pornographic encounters. Meta defends its cuddly AI agent generating smut as “legal adult behavior.”",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a45efabc90d8ad14e35136a3"
+    },
     {
       "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
       "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "968d751741c1231b1545eccb"
-    },
-    {
-      "title": "Can good design stop content creators from having sex in robotaxis?",
-      "url": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis",
-      "source": "Ars Technica",
-      "published": "2026-10-01T19:19:42+00:00",
-      "retrieved_at": "2026-10-01T20:51:46.778558+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Autonomous vehicle designers have to worry about riders getting frisky in public.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "490f729a9eebc9aed278893e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-12T20:13:59.701319+00:00",
+    "checked_at": "2026-10-12T20:18:58.523075+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
