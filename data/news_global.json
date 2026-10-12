@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T03:54:48.706771+00:00",
+  "updated": "2026-10-12T04:39:42.551969+00:00",
   "items": [
     {
       "title": "North Korea fires multiple ballistic missiles towards the sea",
@@ -64,6 +64,38 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "12935cc90cc8bd155c9b0123"
+    },
+    {
+      "title": "Trump faces growing backlash over plans to import diesel from Russia",
+      "url": "https://bbc.co.uk/news/articles/cjn5v21py07vo",
+      "source": "BBC World",
+      "published": "2026-10-11T23:18:45+00:00",
+      "retrieved_at": "2026-10-12T04:39:36.674478+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e02e6e304bb8eab297acf41c"
+    },
+    {
+      "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+      "url": "https://bbc.co.uk/news/articles/c6d7q5z17gp5o",
+      "source": "BBC World",
+      "published": "2026-10-11T23:13:51+00:00",
+      "retrieved_at": "2026-10-12T04:39:36.674758+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1632f85b395839cf44b68635"
     },
     {
       "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "179d3ba43453005c1bddd08c"
-    },
-    {
-      "title": "Jerusalem Daily: Gaza’s devastation, three years after October 7",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/7/jerusalem-daily-gazas-devastation-three-years-after-october-7",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T18:03:14+00:00",
-      "retrieved_at": "2026-10-07T21:28:25.685455+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Three years after the October 7 attacks, more than 74,000 people have been killed in Gaza.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "94c85f25a14bc323b71ec2b1"
-    },
-    {
-      "title": "Saudi Arabia, Pakistan, Turkey: Could the Mecca deal be a game changer against the Houthis in Yemen?",
-      "url": "https://dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-deal-be-a-game-changer-against-the-houthis-in-yemen/a-79577245",
-      "source": "DW",
-      "published": "2026-10-07T17:33:00+00:00",
-      "retrieved_at": "2026-10-08T16:11:07.406580+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Pakistan and Turkey have agreed to provide \"practical measures\" to defend Saudi Arabia against Houthi attacks. Could a new alliance reshape the war against the Houthis in Yemen?",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ab82b1b2bdbb2f8bf738725f"
     }
   ],
   "unverified_history": [
