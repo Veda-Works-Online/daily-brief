@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T11:15:30.750978+00:00",
+  "updated": "2026-10-12T11:25:27.553647+00:00",
   "items": [
     {
       "title": "Ukraine’s Zelenskyy accuses Russia of violating Trump’s ‘energy ceasefire’",
@@ -352,6 +352,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5caae3ec1ddd487516e1cd4b"
+    },
+    {
+      "title": "Watch: What's behind Trump's energy ceasefire claim?",
+      "url": "https://bbc.co.uk/news/videos/cwvgde9vrdd9o",
+      "source": "BBC World",
+      "published": "2026-10-11T20:55:02+00:00",
+      "retrieved_at": "2026-10-12T11:25:22.046207+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7a06263d9f48125fe6ec0935"
     },
     {
       "title": "Two killed near Israeli-occupied area in south Lebanon",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "76e63442299709e88fc7bfab"
-    },
-    {
-      "title": "Gaza child’s autoimmune condition triggered amid Israel’s war",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/7/gaza-childs-autoimmune-condition-triggered-amid-israels-war",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T21:06:46+00:00",
-      "retrieved_at": "2026-10-07T21:28:25.685318+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Gaza child’s autoimmune condition triggered amid Israel’s war",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bafbd35c56fc7657e3ac9ddc"
     }
   ],
   "unverified_history": [
