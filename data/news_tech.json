@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-12T20:59:05.456575+00:00",
+  "updated": "2026-10-12T21:04:05.946711+00:00",
   "items": [
+    {
+      "title": "Report: Epic Games goes all-in on AI for Disney collaboration",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
+      "source": "Ars Technica AI",
+      "published": "2026-10-12T20:59:50+00:00",
+      "retrieved_at": "2026-10-12T21:03:59.774016+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8c4974acec6eba84db609d72"
+    },
     {
       "title": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine",
       "url": "https://wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5c439177a0d376c4ec3377d3"
-    },
-    {
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you",
-      "source": "TechCrunch AI",
-      "published": "2026-10-01T19:21:53+00:00",
-      "retrieved_at": "2026-10-01T19:26:50.839526+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "968d751741c1231b1545eccb"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-12T20:59:02.175374+00:00",
+    "checked_at": "2026-10-12T21:03:58.688394+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
