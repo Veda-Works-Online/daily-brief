@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T07:35:40.661258+00:00",
+  "updated": "2026-10-12T07:51:19.318319+00:00",
   "items": [
     {
       "title": "How China and America Can Move from Competition to Stability",
@@ -16,6 +16,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "790cc3862e7c9e0f09174d9f"
+    },
+    {
+      "title": "If Netanyahu goes, does anything really change for Palestinians?",
+      "url": "https://aljazeera.com/news/2026/10/12/if-netanyahu-goes-does-anything-really-change-for-palestinians",
+      "source": "Al Jazeera",
+      "published": "2026-10-12T07:27:14+00:00",
+      "retrieved_at": "2026-10-12T07:51:13.732599+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Analysts say opposition win in polls may bring only marginal change and no fundamental shift on Gaza, West Bank.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b06daa681cd57763a8c30776"
     },
     {
       "title": "India protest live: Opposition to march to Supreme Court over ‘vote theft’",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "72980154af8f23d2693f2bb2"
-    },
-    {
-      "title": "At least 24 killed as Russia launches massive attack on Ukraine",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T18:32:08+00:00",
-      "retrieved_at": "2026-10-07T21:28:25.685395+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Ukraine says Russia launched a massive overnight barrage of 130 drones, 48 cruise missiles and ballistic missiles",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b0162ac6e038df689617dda8"
     }
   ],
   "unverified_history": [
