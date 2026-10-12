@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-12T18:19:09.445628+00:00",
+  "updated": "2026-10-12T18:24:06.968185+00:00",
   "items": [
+    {
+      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police",
+      "source": "Ars Technica AI",
+      "published": "2026-10-12T18:21:36+00:00",
+      "retrieved_at": "2026-10-12T18:24:04.767983+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5f00525d9e6aaf4a547bc723"
+    },
     {
       "title": "Meta releases its first frontier model, Muse Wonder",
       "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder",
@@ -72,17 +89,17 @@
     {
       "title": "Honeyjar offers AI tools to improve PR and comms at every company",
       "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company",
-      "source": "TechCrunch",
+      "source": "TechCrunch AI",
       "published": "2026-10-12T15:45:00+00:00",
-      "retrieved_at": "2026-10-12T15:47:23.910458+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Could AI actually make PR better?",
+      "retrieved_at": "2026-10-12T18:24:04.225409+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "142a35bc8d6ac58a278fbd4e"
     },
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "490f729a9eebc9aed278893e"
-    },
-    {
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground",
-      "source": "TechCrunch AI",
-      "published": "2026-10-01T19:18:03+00:00",
-      "retrieved_at": "2026-10-01T20:11:48.302447+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0b33ec7d6e5cd4036e983a7c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-12T18:19:05.968904+00:00",
+    "checked_at": "2026-10-12T18:24:03.679757+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
