@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-12T15:57:38.059962+00:00",
+  "updated": "2026-10-12T16:32:36.949416+00:00",
   "items": [
+    {
+      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "url": "https://bbc.co.uk/news/articles/cvlyd4pdlwkxo",
+      "source": "BBC World",
+      "published": "2026-10-12T16:19:46+00:00",
+      "retrieved_at": "2026-10-12T16:32:31.588656+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e698dba7d77700497a71a956"
+    },
     {
       "title": "Thousands march to Indian Supreme Court to demand election chief resign",
       "url": "https://bbc.co.uk/news/articles/cwr5y2lgr4gdo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ac1f3197715761abe6262682"
-    },
-    {
-      "title": "Trump interrupted by protesters at Texas rally",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/8/trump-interrupted-by-protesters-at-texas-rally",
-      "source": "Al Jazeera",
-      "published": "2026-10-08T04:30:57+00:00",
-      "retrieved_at": "2026-10-08T04:59:11.867904+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "At least 10 protesters were removed from a Trump rally in San Antonio as he was heckled during his speech.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "81646bb0a9258d69b9bc02f4"
     }
   ],
   "unverified_history": [
