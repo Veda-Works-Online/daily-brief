@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-12T11:50:28.926803+00:00",
+  "updated": "2026-10-12T12:10:26.279073+00:00",
   "items": [
+    {
+      "title": "Gaza: Still Reporting",
+      "url": "https://aljazeera.com/video/witness/2026/10/12/gaza-still-reporting",
+      "source": "Al Jazeera",
+      "published": "2026-10-12T12:00:00+00:00",
+      "retrieved_at": "2026-10-12T12:10:20.721739+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "When Israel orders an evacuation of Gaza City, a journalist documents the displacement while living it with her family.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "638eb0c13f94978defeaefc2"
+    },
     {
       "title": "‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?",
       "url": "https://aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e6b5f8698e568b730d955308"
-    },
-    {
-      "title": "UN peacekeeping force in Lebanon says shots fired at Israeli border post",
-      "url": "https://aljazeera.com/news/2026/10/7/un-peacekeeping-force-in-lebanon-says-shots-fired-at-israeli-border-post",
-      "source": "Al Jazeera",
-      "published": "2026-10-07T23:33:29+00:00",
-      "retrieved_at": "2026-10-07T23:48:23.300246+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The United Nations Interim Force in Lebanon said there were no casualties after small arms fire targeted a border post.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4ee09511f9f99e529132b826"
     }
   ],
   "unverified_history": [
