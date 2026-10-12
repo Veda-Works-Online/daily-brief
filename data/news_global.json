@@ -1,14 +1,30 @@
 {
-  "updated": "2026-10-12T17:29:27.596443+00:00",
+  "updated": "2026-10-12T18:39:15.239889+00:00",
   "items": [
+    {
+      "title": "UK PM says RAF base incidents ‘likely coordinated’ by Iran",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/12/uk-pm-says-raf-base-incidents-likely-coordinated-by-iran",
+      "source": "Al Jazeera",
+      "published": "2026-10-12T18:24:42+00:00",
+      "retrieved_at": "2026-10-12T18:39:12.370656+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "UK Prime Minister Andy Burnham says the incidents at RAF Fairford and RAF Molesworth were likely coordinated by Iran.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0910dcfc6a221b55e3b1d5d1"
+    },
     {
       "title": "Immigration agents search Congresswoman Ilhan Omar's home",
       "url": "https://bbc.co.uk/news/articles/cvp8glg97393o",
       "source": "BBC World",
       "published": "2026-10-12T17:09:55+00:00",
-      "retrieved_at": "2026-10-12T17:14:15.415836+00:00",
+      "retrieved_at": "2026-10-12T18:39:12.308988+00:00",
       "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and that she \"will not be silenced\".",
+      "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1e3b314a4549cf637829880a"
-    },
-    {
-      "title": "Protesters in Colombia rally against ties with Israel",
-      "url": "https://aljazeera.com/news/2026/10/8/protesters-in-colombia-rally-against-ties-with-israel",
-      "source": "Al Jazeera",
-      "published": "2026-10-08T05:09:13+00:00",
-      "retrieved_at": "2026-10-08T05:14:17.151646+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Hundreds took to the streets of Bogota to protest against the ongoing genocide in Gaza.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f92a96064ba666cabbd1836c"
     }
   ],
   "unverified_history": [
