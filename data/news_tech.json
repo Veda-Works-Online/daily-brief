@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-12T00:58:40.976587+00:00",
+  "updated": "2026-10-12T01:03:39.996809+00:00",
   "items": [
+    {
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know",
+      "source": "TechCrunch",
+      "published": "2026-10-12T00:59:01+00:00",
+      "retrieved_at": "2026-10-12T01:03:37.101193+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2772406bcaecdbe5ff91faea"
+    },
     {
       "title": "Will the HomeView be Apple’s first smart home success?",
       "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0f99307e92ad1ac3d729671b"
-    },
-    {
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
-      "source": "TechCrunch",
-      "published": "2026-10-01T12:00:00+00:00",
-      "retrieved_at": "2026-10-01T12:05:11.094349+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b0c4dc93a1de9f0ceaceaabf"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-12T00:58:36.071360+00:00",
+    "checked_at": "2026-10-12T01:03:36.247785+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
