@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-12T12:40:39.955769+00:00",
+  "updated": "2026-10-12T13:42:39.193245+00:00",
   "items": [
+    {
+      "title": "At least 20 injured in northern Israel explosion",
+      "url": "https://aljazeera.com/news/2026/10/12/explosion-in-northern-israel-students-and-teachers-injured",
+      "source": "Al Jazeera",
+      "published": "2026-10-12T13:15:43+00:00",
+      "retrieved_at": "2026-10-12T13:42:33.587272+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "About 20 people has been injured by an unexploded ordnance, police say, according to preliminary indications.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7709e70ca04a837ae42f18ff"
+    },
+    {
+      "title": "Can South Korea and Ukraine resolve their diplomatic spat over North Korean POWs?",
+      "url": "https://dw.com/en/can-south-korea-and-ukraine-resolve-their-diplomatic-spat-over-north-korean-pows/a-79641352",
+      "source": "DW",
+      "published": "2026-10-12T13:10:00+00:00",
+      "retrieved_at": "2026-10-12T13:42:33.883521+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Seoul and Kyiv are trading accusations after the transfer of two North Korean POWs to South Korea. The South insists the move was to be kept secret as it seeks to avoid antagonizing Pyongyang.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ebe20472daa01041d81184a6"
+    },
     {
       "title": "Trump thinks Ukraine needs a new president. Who could replace Zelenskyy?",
       "url": "https://aljazeera.com/news/2026/10/12/trump-thinks-ukraine-needs-a-new-president-who-could-replace-zelenskyy",
@@ -98,20 +130,20 @@
       "story_fingerprint": "42755643d377d4cde65bab76"
     },
     {
-      "title": "Delhi braces for more protests against election chief amid crackdown",
+      "title": "Indian opposition defies lockdown, marches to demand election chief sacking",
       "url": "https://aljazeera.com/features/2026/10/12/delhi-braces-for-more-protests-against-election-chief-amid-crackdown",
       "source": "Al Jazeera",
       "published": "2026-10-12T08:55:46+00:00",
-      "retrieved_at": "2026-10-12T09:10:22.094313+00:00",
+      "retrieved_at": "2026-10-12T13:42:33.587533+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Opposition parties joined by student groups are back on the streets, disrupting New Delhi with flash marches.",
+      "summary": "Opposition parties joined by student groups have petitioned the Supreme Court, seeking the election chief's ouster.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "0980a97a22aff45252607810"
+      "story_fingerprint": "209963eb9d78800a5dd7a408"
     },
     {
       "title": "Russia introduces drone classes in public schools",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "85d2972a7d3bae0d4827cb2c"
-    },
-    {
-      "title": "Russia dismisses reports of second plague case as ‘false information’",
-      "url": "https://aljazeera.com/news/2026/10/8/russia-dismisses-reports-of-second-plague-case-as-false-information",
-      "source": "Al Jazeera",
-      "published": "2026-10-08T00:16:41+00:00",
-      "retrieved_at": "2026-10-08T00:53:21.315564+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Senior WHO official urges Russia to provide more information on the suspected pneumonic plague cases.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "067bbf469eed90ca29cea36c"
-    },
-    {
-      "title": "Yemen war live: Gov’t forces claim key heights, Houthi attacks continue",
-      "url": "https://aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on",
-      "source": "Al Jazeera",
-      "published": "2026-10-08T00:00:00+00:00",
-      "retrieved_at": "2026-10-08T05:34:09.784501+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Saudi-backed Yemeni forces claim advances in western Taiz's mountain belt overlooking the coast.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "08326a455d28669e060c96f4"
     }
   ],
   "unverified_history": [
