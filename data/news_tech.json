@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-12T10:35:16.901257+00:00",
+  "updated": "2026-10-12T10:40:18.233262+00:00",
   "items": [
+    {
+      "title": "AlterMe Review: Fitness Built Around My DNA",
+      "url": "https://wired.com/review/alterme-fitness-and-wellness-program",
+      "source": "Wired",
+      "published": "2026-10-12T10:34:00+00:00",
+      "retrieved_at": "2026-10-12T10:40:12.244322+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Six months with AlterMe’s smart ring and a fitness app helped me build better habits, but the genetic insights were less revealing than I’d hoped.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cfb774d62bde8f64ab1909da"
+    },
     {
       "title": "The Best Gifts for the Techie in Your Life (2026)",
       "url": "https://wired.com/story/best-tech-gifts",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2465011320b5b74452a47d1b"
-    },
-    {
-      "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
-      "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters",
-      "source": "TechCrunch",
-      "published": "2026-10-01T13:00:00+00:00",
-      "retrieved_at": "2026-10-01T13:05:21.685998+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "62a796b1d95b637c6e81893f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-12T10:35:10.457089+00:00",
+    "checked_at": "2026-10-12T10:40:10.784025+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
