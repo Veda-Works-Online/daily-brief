@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T17:14:18.322900+00:00",
+  "updated": "2026-10-12T17:29:27.596443+00:00",
   "items": [
     {
       "title": "Immigration agents search Congresswoman Ilhan Omar's home",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b755fcaa7911e6e5e437eac0"
+    },
+    {
+      "title": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc",
+      "source": "Al Jazeera",
+      "published": "2026-10-12T17:07:50+00:00",
+      "retrieved_at": "2026-10-12T17:29:24.610672+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Nobel Peace Prize winner Navi Pillay has condemned US sanctions against the International Criminal Court.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "df566dfdb9327b4b4bd153e1"
     },
     {
       "title": "Blast kills teenager, injures dozens in northern Israel",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f92a96064ba666cabbd1836c"
-    },
-    {
-      "title": "UK renames East Jerusalem consulate as a mission; some diplomats to remain",
-      "url": "https://aljazeera.com/news/2026/10/8/signage-at-uk-consulate-in-east-jerusalem-removed-as-israels-deadline-over",
-      "source": "Al Jazeera",
-      "published": "2026-10-08T05:06:25+00:00",
-      "retrieved_at": "2026-10-08T08:15:19.602634+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "UK Foreign ⁠Minister ⁠Ed Miliband says consulate building will not be closing as Israeli deadline expires.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "eb2a1584aedb66658787c323"
     }
   ],
   "unverified_history": [
