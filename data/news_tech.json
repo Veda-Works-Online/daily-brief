@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-12T15:42:28.637084+00:00",
+  "updated": "2026-10-12T15:47:31.647897+00:00",
   "items": [
+    {
+      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company",
+      "source": "TechCrunch",
+      "published": "2026-10-12T15:45:00+00:00",
+      "retrieved_at": "2026-10-12T15:47:23.910458+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Could AI actually make PR better?",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "142a35bc8d6ac58a278fbd4e"
+    },
     {
       "title": "Microsoft president says UK is best placed to drive AI regulation",
       "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "1e49a1d564c12ae04be5a870"
-    },
-    {
-      "title": "Amazon releases its own Jev clone as decision models flood the web",
-      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web",
-      "source": "TechCrunch AI",
-      "published": "2026-10-01T16:49:22+00:00",
-      "retrieved_at": "2026-10-01T16:51:02.733849+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ad33fc46037b75699aa51e42"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-12T15:42:19.477407+00:00",
+    "checked_at": "2026-10-12T15:47:22.582649+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
