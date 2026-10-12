@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-12T22:10:06.054135+00:00",
+  "updated": "2026-10-12T22:50:02.496948+00:00",
   "items": [
+    {
+      "title": "Poland says two Turks arrested over Russia-linked Starlink station fire",
+      "url": "https://aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire",
+      "source": "Al Jazeera",
+      "published": "2026-10-12T22:44:00+00:00",
+      "retrieved_at": "2026-10-12T22:49:57.701868+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Warsaw says the 2 suspects held in Germany will face sabotage charges.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d5fef1ad4a65d21d469b6b89"
+    },
     {
       "title": "Immigration agents search congresswoman Ilhan Omar's home",
       "url": "https://bbc.co.uk/news/articles/cvp8glg97393o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ad2afddc8d6af937cb5c6fd1"
-    },
-    {
-      "title": "Russian attack on buses in Ukraine’s Kramatorsk kills at least 30 people",
-      "url": "https://aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12",
-      "source": "Al Jazeera",
-      "published": "2026-10-08T10:31:42+00:00",
-      "retrieved_at": "2026-10-08T12:46:08.689347+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Eighteen people were wounded in strike on the city in eastern Donetsk region, local authorities say.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d89484994e9c9c5f3fa71eaa"
     }
   ],
   "unverified_history": [
