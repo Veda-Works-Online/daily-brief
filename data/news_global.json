@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-12T21:04:11.144687+00:00",
+  "updated": "2026-10-12T21:14:07.048122+00:00",
   "items": [
+    {
+      "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
+      "url": "https://bbc.co.uk/news/articles/cqgm087rkze2o",
+      "source": "BBC World",
+      "published": "2026-10-12T21:07:25+00:00",
+      "retrieved_at": "2026-10-12T21:14:04.005679+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "US President Donald Trump has had a whirlwind weekend, announcing a diesel deal with Russia and an energy ceasefire between Russia and Ukraine. With the midterms coming up, it looks like Trump is turning overseas for help.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f77e2d54f5b03cae75be3913"
+    },
     {
       "title": "Israel demolitions in Negev displace 400 Palestinians",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/12/israel-demolitions-in-negev-displace-400-palestinians",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8f01c51dca0c4f38ba5efd4f"
-    },
-    {
-      "title": "Gaza war sped up India’s shift towards Israel under Modi",
-      "url": "https://aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi",
-      "source": "Al Jazeera",
-      "published": "2026-10-08T08:31:44+00:00",
-      "retrieved_at": "2026-10-08T10:25:10.113292+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "As even Israel's traditional allies are distancing themselves from Netanyahu, Modi's India has embraced the country.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "328b45a4a75cc1d930b7803f"
     }
   ],
   "unverified_history": [
