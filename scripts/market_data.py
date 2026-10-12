@@ -935,6 +935,62 @@ def nasdaq_snapshot(row, symbol, quote, now):
     return out
 
 
+def indian_google_cap(row, previous, symbol, quote, identity, now):
+    """Indicative Google cap with a historical exchange share-count sanity check."""
+    if symbol not in BSE_LISTINGS or quote.get('id') != google_id(symbol, identity):
+        raise ValueError('INDIA_CAP_IDENTITY_MISMATCH')
+    if quote.get('currency') != 'INR' or quote.get('exchange') not in {'NSE', 'BOM'}:
+        raise ValueError('INDIA_CAP_LISTING_MISMATCH')
+    if not issuer_matches(row['name'], quote.get('name', ''), symbol):
+        raise ValueError('INDIA_CAP_ISSUER_MISMATCH')
+    if not -120 <= (now-timestamp(quote['retrieved_at'])).total_seconds() <= 300:
+        raise ValueError('INDIA_CAP_RETRIEVAL_NOT_CURRENT')
+    # Yahoo may establish the current session, but supplies no cap or price here.
+    state = 'UNKNOWN'
+    if identity.get('symbol') == symbol:
+        try:
+            if -120 <= (now-timestamp(identity['_retrieved_at'])).total_seconds() <= 300:
+                state, _ = session_state(identity, now)
+        except (ValueError, KeyError, TypeError):
+            pass
+    limit = 604800 if state in {'CLOSED', 'WEEKEND', 'HOLIDAY', 'PRE_MARKET', 'AFTER_HOURS'} else 7200 if state == 'BREAK' else 1800
+    ts = timestamp(quote['timestamp'])
+    if not -120 <= (now-ts).total_seconds() <= limit:
+        raise ValueError('INDIA_CAP_QUOTE_STALE')
+    if row.get('source_timestamp') and ts.astimezone(ZoneInfo('Asia/Kolkata')).date() < timestamp(row['source_timestamp']).astimezone(ZoneInfo('Asia/Kolkata')).date():
+        raise ValueError('INDIA_CAP_OLDER_SESSION')
+    cap, price = decimal(quote['marketCap']), decimal(quote['price'])
+    if min(cap, price) <= 0:
+        raise ValueError('INDIA_CAP_NONPOSITIVE_INPUT')
+    old = previous.get('field_metadata', {}).get('marketCap', {})
+    if old.get('source_timestamp') and ts < timestamp(old['source_timestamp']):
+        raise ValueError('INDIA_CAP_OLDER_OBSERVATION')
+    reference = ({'source':'BSE', 'marketCap':previous['marketCap'], 'price':old.get('exchange_price'),
+                  'source_timestamp':old.get('source_timestamp')}
+                 if old.get('source') == 'BSE' else old.get('bse_reference'))
+    if not reference or reference.get('source') != 'BSE':
+        raise ValueError('INDIA_CAP_REFERENCE_UNAVAILABLE')
+    reference_cap, reference_price = decimal(reference['marketCap']), decimal(reference['price'])
+    if min(reference_cap, reference_price) <= 0:
+        raise ValueError('INDIA_CAP_INVALID_REFERENCE')
+    difference = abs((cap / price) / (reference_cap / reference_price) - 1)
+    if difference > Decimal('0.01'):
+        raise ValueError('INDIA_CAP_SHARE_COUNT_REQUIRES_REVIEW')
+    out = deepcopy(row)
+    out.update(marketCap=cap, marketCapUSD=None, currency='INR')
+    out.setdefault('field_metadata', {})['marketCap'] = dict(validation_status='INDICATIVE', quality='INDICATIVE',
+        source='Google Finance', source_timestamp=ts.isoformat(), retrieved_at=quote['retrieved_at'],
+        decimal=format(cap, 'f'), currency='INR', verification_sources=[], max_quote_age_seconds=limit,
+        valuation_basis='Google Finance reported cap; indicative, not official BSE data',
+        timestamp_scope='Google quote snapshot; no separate cap-specific timestamp',
+        reference='https://www.google.com/finance/quote/' + quote['id'],
+        bse_reference=deepcopy(reference), implied_share_count_difference=difference,
+        display_resolution=quote.get('cap_resolution'),
+        reconciliation='Implied shares within 1% of historical BSE cap/price; no current exchange verification')
+    out['field_metadata']['marketCapUSD'] = {'validation_status':'DATA_UNAVAILABLE', 'reason':'INR_LISTING'}
+    return out
+
+
 def refresh_markets(payload):
     now = datetime.now(timezone.utc)
     symbols = [r.get('source_symbol') or ('BHARTIARTL.NS' if r['ticker'] == 'BHARTIARTL' else r['ticker'])
@@ -969,8 +1025,9 @@ def refresh_markets(payload):
             return symbol, None, str(exc) if isinstance(exc, ValueError) else type(exc).__name__
     # Two bounded requests per company, four tasks at once. Cap numbers are
     # fetched each cycle; only exchange identity mappings are stored in code.
+    bse_enabled = os.getenv('INDIA_CAP_SOURCE', 'google').lower() == 'bse'
     with ThreadPoolExecutor(max_workers=4) as pool:
-        for symbol, quote, error in pool.map(bse_observation, [s for s in symbols if s in BSE_LISTINGS]):
+        for symbol, quote, error in pool.map(bse_observation, [s for s in symbols if s in BSE_LISTINGS] if bse_enabled else []):
             if quote:
                 bse_quotes[symbol] = quote
             else:
@@ -1081,12 +1138,17 @@ def refresh_markets(payload):
         result = prevent_quote_regression(row, result)
         if symbol in BSE_LISTINGS:
             try:
-                if symbol not in bse_quotes:
-                    raise ValueError(bse_errors.get(symbol, 'BSE_CAP_UNAVAILABLE'))
-                result = apply_bse(result, symbol, bse_quotes[symbol], datetime.now(timezone.utc), previous=row)
+                if bse_enabled:
+                    if symbol not in bse_quotes:
+                        raise ValueError(bse_errors.get(symbol, 'BSE_CAP_UNAVAILABLE'))
+                    result = apply_bse(result, symbol, bse_quotes[symbol], datetime.now(timezone.utc), previous=row)
+                else:
+                    result = indian_google_cap(result, row, symbol, secondary.get(symbol, {}),
+                        identity(symbol), datetime.now(timezone.utc))
             except (ValueError, KeyError, TypeError, OverflowError) as exc:
                 error = str(exc) if isinstance(exc, ValueError) else 'BSE_CAP_INPUT_UNAVAILABLE'
-                result = retain_primary_cap(result, row, {'BSE'}, datetime.now(timezone.utc), error, force_stale=True)
+                sources = {'BSE', 'Google Finance'} if row.get('field_metadata', {}).get('marketCap', {}).get('bse_reference') else {'BSE'}
+                result = retain_primary_cap(result, row, sources, datetime.now(timezone.utc), error, force_stale=True)
                 extra_errors[symbol] = error
         elif symbol not in extras and row.get('field_metadata', {}).get('marketCap', {}).get('source') == 'Nasdaq' and result.get('field_metadata', {}).get('marketCap', {}).get('source') != 'Nasdaq':
             result = retain_primary_cap(result, row, {'Nasdaq'}, datetime.now(timezone.utc), 'PRIMARY_CAP_NOT_SELECTED_THIS_CYCLE')
