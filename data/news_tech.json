@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-12T17:19:08.172694+00:00",
+  "updated": "2026-10-12T17:24:18.818071+00:00",
   "items": [
+    {
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data",
+      "source": "TechCrunch AI",
+      "published": "2026-10-12T17:19:14+00:00",
+      "retrieved_at": "2026-10-12T17:24:12.251375+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a US military contract worth almost $50 million.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "37adf0519e08228a4c2aa9be"
+    },
     {
       "title": "Muse Wonder Puts Meta Back at the AI Frontier",
       "url": "https://wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "68263b9f132f88cea1af362b"
-    },
-    {
-      "title": "This startup wants to turn idle car inventory into rental revenue",
-      "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue",
-      "source": "TechCrunch",
-      "published": "2026-10-01T17:09:00+00:00",
-      "retrieved_at": "2026-10-01T19:26:51.426693+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at TechCrunch Disrupt, taking place October 13 to 15 in San Francisco.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9d9846803be674bf47f215f1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-12T17:19:04.853444+00:00",
+    "checked_at": "2026-10-12T17:24:11.727141+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
