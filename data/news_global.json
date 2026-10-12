@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T10:15:24.939256+00:00",
+  "updated": "2026-10-12T10:45:27.054378+00:00",
   "items": [
     {
       "title": "Maps show how Israel’s ‘Yellow Line’ keeps squeezing Palestinians in Gaza",
@@ -112,6 +112,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b06daa681cd57763a8c30776"
+    },
+    {
+      "title": "Indian opposition leaders march to top court to demand election chief resign",
+      "url": "https://bbc.co.uk/news/articles/cwr5y2lgr4gdo",
+      "source": "BBC World",
+      "published": "2026-10-12T06:42:35+00:00",
+      "retrieved_at": "2026-10-12T10:45:21.445215+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The march follows a chaotic weekend in Delhi which saw thousands of protesters being detained by police.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "278ad4be28a6bb89b29915f6"
     },
     {
       "title": "India protest live: Opposition holds ‘March for Democracy’ to Supreme Court",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e6e804a06ce913eb0a45a756"
-    },
-    {
-      "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-      "url": "https://bbc.co.uk/news/articles/cwkgj0g30m5jo",
-      "source": "BBC World",
-      "published": "2026-10-07T20:27:03+00:00",
-      "retrieved_at": "2026-10-07T21:28:25.564840+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f4a09b38344a7d8e25bdbf9c"
     }
   ],
   "unverified_history": [
