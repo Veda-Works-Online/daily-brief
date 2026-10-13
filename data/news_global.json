@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-13T23:10:11.760178+00:00",
+  "updated": "2026-10-13T23:45:10.654658+00:00",
   "items": [
+    {
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "url": "https://bbc.co.uk/news/articles/cw99zpmnxzmjo",
+      "source": "BBC World",
+      "published": "2026-10-13T23:42:22+00:00",
+      "retrieved_at": "2026-10-13T23:45:04.448418+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a53808c7ec262a8d85405529"
+    },
     {
       "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
       "url": "https://bbc.co.uk/news/articles/ck20r9qpw505o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e830b5cb51cb8b844d7450dd"
-    },
-    {
-      "title": "Ukraine pushes Russia back in Donetsk as military, civilian casualties soar",
-      "url": "https://aljazeera.com/news/2026/10/9/ukraine-pushes-russia-back-in-donetsk-as-military-civilian-casualties-soar",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T13:09:15+00:00",
-      "retrieved_at": "2026-10-09T13:24:56.202936+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Russia is fighting for settlements it once firmly held in Donetsk, and has retreated from many others.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7765a731d4d15318ad3b85b5"
     }
   ],
   "unverified_history": [
