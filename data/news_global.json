@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-13T18:59:18.597555+00:00",
+  "updated": "2026-10-13T19:04:17.949936+00:00",
   "items": [
+    {
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "url": "https://bbc.co.uk/news/articles/cr5ynplvpg7lo",
+      "source": "BBC World",
+      "published": "2026-10-13T18:54:28+00:00",
+      "retrieved_at": "2026-10-13T19:04:12.812435+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ff34f0b2741a0ad5870a9e41"
+    },
     {
       "title": "Russia arrests Japanese reporter for alleged espionage",
       "url": "https://aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "aa43a0b5b1163fc60e46ec55"
-    },
-    {
-      "title": "The girls in the Gaza school photograph",
-      "url": "https://aljazeera.com/features/longform/2026/10/9/the-girls-in-the-gaza-school-photograph",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T10:23:42+00:00",
-      "retrieved_at": "2026-10-09T10:29:40.887989+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Just before the genocide, 15 Gaza schoolgirls posed for a photograph. Three years on, Al Jazeera went looking for them.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "23819b29c0db860bb24e239d"
     }
   ],
   "unverified_history": [
