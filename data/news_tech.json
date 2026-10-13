@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T19:04:09.310270+00:00",
+  "updated": "2026-10-13T19:09:11.244312+00:00",
   "items": [
     {
       "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
@@ -459,6 +459,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a7dbad146f65c0cbb9f8bb9a"
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "OpenAI",
+      "published": "2026-10-13T12:00:00+00:00",
+      "retrieved_at": "2026-10-13T19:09:02.947912+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "222372e11e23ee06cfff916a"
     },
     {
       "title": "40 Gifts Under $100 That Will Delight Any Tech Enthusiast (2026)",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e9b0d45f2e8949dd20e8f1ec"
-    },
-    {
-      "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
-      "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china",
-      "source": "Ars Technica AI",
-      "published": "2026-10-02T18:39:36+00:00",
-      "retrieved_at": "2026-10-02T18:40:07.358731+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "aee9c8a56e3143be797900ba"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T19:03:59.833830+00:00",
+    "checked_at": "2026-10-13T19:09:01.677754+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
