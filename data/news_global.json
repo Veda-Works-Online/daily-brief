@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T09:26:54.423444+00:00",
+  "updated": "2026-10-13T09:36:51.558476+00:00",
   "items": [
     {
       "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "09a5c5aae17276204e3ee7d8"
+    },
+    {
+      "title": "Germany's China calculation shifts as import pressures eclipse export benefits",
+      "url": "https://dw.com/en/germany-s-china-calculation-shifts-as-import-pressures-eclipse-export-benefits/a-79571852",
+      "source": "DW",
+      "published": "2026-10-13T08:47:00+00:00",
+      "retrieved_at": "2026-10-13T09:36:48.170552+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Germany long resisted tougher action against China because of retaliation fears. But rising pressure on key industries has pushed Berlin and Paris to seek stronger EU trade-defense powers to protect its industrial base.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "04cf40ebfa7c990ebac3871d"
     },
     {
       "title": "The escalation in Yemen is a turning point",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0c6968b87c7838c5e326c019"
-    },
-    {
-      "title": "Dozens killed in Russian strike on civilian buses in eastern Ukraine",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine",
-      "source": "Al Jazeera",
-      "published": "2026-10-08T17:07:18+00:00",
-      "retrieved_at": "2026-10-08T17:21:10.216764+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "At least 33 people were killed after a Russian strike hit two civilian buses in a city within the Donestsk region.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "765dc0d6c6bed97e0f564ffc"
     }
   ],
   "unverified_history": [
