@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T19:04:17.949936+00:00",
+  "updated": "2026-10-13T19:34:19.648921+00:00",
   "items": [
     {
       "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
@@ -16,6 +16,38 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ff34f0b2741a0ad5870a9e41"
+    },
+    {
+      "title": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
+      "url": "https://dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869",
+      "source": "DW",
+      "published": "2026-10-13T18:51:00+00:00",
+      "retrieved_at": "2026-10-13T19:34:14.680972+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Germany's Johann Wadephul said hybrid plots like the Starlink fire showed Europe was \"in Russia's crosshairs.\" The UK's Ed Miliband said Trump's Russian diesel deal led to a \"very difficult few days\" diplomatically.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5afb52d12a51d706e539e35e"
+    },
+    {
+      "title": "Ukraine and the US: What's next after Trump’s diesel deal with Russia?",
+      "url": "https://dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785",
+      "source": "DW",
+      "published": "2026-10-13T18:51:00+00:00",
+      "retrieved_at": "2026-10-13T19:34:14.681005+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Donald Trump plans to allow the purchase of Russian diesel, drawing criticism at home and abroad. What is behind the US president’s decision and what should Ukraine do next? DW spoke with experts.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5bdbbf2708c87eebb7924f3e"
     },
     {
       "title": "Russia arrests Japanese reporter for alleged espionage",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e9c6735457f77619355d214f"
-    },
-    {
-      "title": "Labour fends off the Green party in closely watched UK by-election",
-      "url": "https://aljazeera.com/news/2026/10/9/labour-fends-off-the-green-party-in-closely-watched-uk-by-election",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T10:56:33+00:00",
-      "retrieved_at": "2026-10-09T11:09:38.861149+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Sagal Abdi-Wali won by 3,300 votes in the London seat of Holborn and St Pancras.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a74831be944b4d3fd374aa30"
-    },
-    {
-      "title": "Is Trump signalling a return to war with Iran after the midterms?",
-      "url": "https://aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T10:40:36+00:00",
-      "retrieved_at": "2026-10-09T10:59:41.565213+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US media reports suggest he may be weighing strikes before the vote, but the president has ruled that out.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "aa43a0b5b1163fc60e46ec55"
     }
   ],
   "unverified_history": [
