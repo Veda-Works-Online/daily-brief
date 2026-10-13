@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-13T13:33:01.752739+00:00",
+  "updated": "2026-10-13T14:03:05.984480+00:00",
   "items": [
+    {
+      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+      "url": "https://bbc.co.uk/news/articles/c9y7l0pm8jkko",
+      "source": "BBC World",
+      "published": "2026-10-13T13:27:31+00:00",
+      "retrieved_at": "2026-10-13T14:03:02.658265+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d34c1091a7e78d07ffaac34c"
+    },
     {
       "title": "Trump’s diesel deal opens a new rift with Europe over Ukraine",
       "url": "https://aljazeera.com/news/2026/10/13/trumps-diesel-deal-opens-a-new-rift-with-europe-over-ukraine",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6b66391ca5f4ccfe124236e8"
-    },
-    {
-      "title": "Trump gives top US science awards to Elon Musk and other tech executives",
-      "url": "https://aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives",
-      "source": "Al Jazeera",
-      "published": "2026-10-08T21:11:54+00:00",
-      "retrieved_at": "2026-10-08T21:31:55.487212+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The National Medal of Science is annually given to scientists and engineers for major contributions in their fields.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f53d46938cbc7780b58b7024"
     }
   ],
   "unverified_history": [
