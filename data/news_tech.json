@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-13T20:59:02.817599+00:00",
+  "updated": "2026-10-13T21:04:04.070329+00:00",
   "items": [
+    {
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room",
+      "source": "TechCrunch",
+      "published": "2026-10-13T20:59:11+00:00",
+      "retrieved_at": "2026-10-13T21:03:58.342688+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The FBI arrested a Saudi national who worked at OpenAI on the product team. The AI maker accused the employee of hiding a recording device in an executive conference room.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "699268e166b16955f1547e04"
+    },
     {
       "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
       "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b88500ebf4093e5f601efe21"
-    },
-    {
-      "title": "Someone got Doom in an SQL database",
-      "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition",
-      "source": "Ars Technica",
-      "published": "2026-10-02T21:19:05+00:00",
-      "retrieved_at": "2026-10-02T22:40:50.651615+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ea36b656625fdfdccf10c31c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T20:58:54.834128+00:00",
+    "checked_at": "2026-10-13T21:03:56.239284+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
