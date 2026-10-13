@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-13T14:27:58.044952+00:00",
+  "updated": "2026-10-13T14:33:00.187153+00:00",
   "items": [
+    {
+      "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
+      "url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify",
+      "source": "TechCrunch",
+      "published": "2026-10-13T14:30:12+00:00",
+      "retrieved_at": "2026-10-13T14:32:56.731821+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "10a084fc831ddc18df0875d2"
+    },
     {
       "title": "TechCrunch Disrupt 2026: Day 1",
       "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2cf2bcd803d6ffe0079ca8e7"
-    },
-    {
-      "title": "Tesla sustains its EV sales momentum despite US troubles",
-      "url": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles",
-      "source": "TechCrunch",
-      "published": "2026-10-02T13:39:23+00:00",
-      "retrieved_at": "2026-10-02T13:44:15.893044+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ccebae6766fc03a5c12e0cb5"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T14:27:53.948211+00:00",
+    "checked_at": "2026-10-13T14:32:55.289914+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
