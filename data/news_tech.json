@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-13T10:11:42.825970+00:00",
+  "updated": "2026-10-13T10:16:44.982843+00:00",
   "items": [
+    {
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks",
+      "source": "MIT Tech Review",
+      "published": "2026-10-13T10:00:00+00:00",
+      "retrieved_at": "2026-10-13T10:16:38.457684+00:00",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the…",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fbe7413150b17b74a5ac79a4"
+    },
     {
       "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
       "url": "https://wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "493d5e22871fedfa358ce073"
-    },
-    {
-      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president",
-      "source": "TechCrunch AI",
-      "published": "2026-10-01T21:08:11+00:00",
-      "retrieved_at": "2026-10-01T21:11:44.658348+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e4a083517480989517697414"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T10:11:38.480575+00:00",
+    "checked_at": "2026-10-13T10:16:37.424316+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
