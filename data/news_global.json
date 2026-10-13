@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T13:23:08.903457+00:00",
+  "updated": "2026-10-13T13:33:01.752739+00:00",
   "items": [
     {
       "title": "Trump’s diesel deal opens a new rift with Europe over Ukraine",
@@ -336,6 +336,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "05c8e31959b85a877e0c05bd"
+    },
+    {
+      "title": "Where the US midterm elections will be won and lost",
+      "url": "https://bbc.co.uk/news/articles/cr20wlp09gn3o",
+      "source": "BBC World",
+      "published": "2026-10-13T05:02:44+00:00",
+      "retrieved_at": "2026-10-13T13:32:57.924880+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f42ea698f975e4923404fbc5"
     },
     {
       "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f53d46938cbc7780b58b7024"
-    },
-    {
-      "title": "South Africa protests turn violent amid rage over asylum ruling",
-      "url": "https://aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling",
-      "source": "Al Jazeera",
-      "published": "2026-10-08T20:43:34+00:00",
-      "retrieved_at": "2026-10-08T20:56:51.854428+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Several cars torched and foreign-run businesses forced to shut in Johannesburg's Soweto and coastal city of Durban.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f293a0644d8aa5ac35d5f362"
     }
   ],
   "unverified_history": [
