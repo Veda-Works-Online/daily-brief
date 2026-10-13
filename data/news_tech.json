@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-13T11:02:03.666385+00:00",
+  "updated": "2026-10-13T11:07:03.275165+00:00",
   "items": [
+    {
+      "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+      "url": "https://wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence",
+      "source": "Wired",
+      "published": "2026-10-13T11:00:00+00:00",
+      "retrieved_at": "2026-10-13T11:06:59.168174+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e699f97411a23eaef88948b1"
+    },
     {
       "title": "30 Best Tech Books to Gift in 2026: Biographies, Startup Histories, Exposés",
       "url": "https://wired.com/gallery/best-tech-books-to-gift",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "cdacf412e88dd4899cb1bbf0"
-    },
-    {
-      "title": "Whatever AI Safety Is, It’s Not This",
-      "url": "https://wired.com/story/whatever-ai-safety-looks-like-its-not-this",
-      "source": "Wired",
-      "published": "2026-10-01T22:10:42+00:00",
-      "retrieved_at": "2026-10-01T22:21:46.478402+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a99339fe054326e570db0fdc"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T11:01:57.204473+00:00",
+    "checked_at": "2026-10-13T11:06:57.828542+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
