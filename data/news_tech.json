@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T17:07:59.148130+00:00",
+  "updated": "2026-10-13T17:12:59.012428+00:00",
   "items": [
     {
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
@@ -36,6 +36,23 @@
       "story_fingerprint": "8c3bd0566a7a09db0aebf476"
     },
     {
+      "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
+      "url": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt",
+      "source": "TechCrunch",
+      "published": "2026-10-13T17:00:00+00:00",
+      "retrieved_at": "2026-10-13T17:12:56.577016+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a745f4a4cac5eb06c5c72652"
+    },
+    {
       "title": "Google Play now supports private, vibe-coded apps built just for you",
       "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you",
       "source": "TechCrunch AI",
@@ -51,23 +68,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cf0d50cab1ba666ad381ad7f"
-    },
-    {
-      "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers; see it at Disrupt",
-      "url": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt",
-      "source": "TechCrunch",
-      "published": "2026-10-13T17:00:00+00:00",
-      "retrieved_at": "2026-10-13T17:02:55.269964+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a745f4a4cac5eb06c5c72652"
     },
     {
       "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T17:07:55.297280+00:00",
+    "checked_at": "2026-10-13T17:12:55.134936+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
