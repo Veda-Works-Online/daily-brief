@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-13T13:38:02.396681+00:00",
+  "updated": "2026-10-13T13:43:01.869285+00:00",
   "items": [
+    {
+      "title": "Apple refreshes its Homepod mini with a new chip and $149 price tag",
+      "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag",
+      "source": "TechCrunch",
+      "published": "2026-10-13T13:38:03+00:00",
+      "retrieved_at": "2026-10-13T13:42:58.195866+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "35819c0a0d9023ba7d9f7cd4"
+    },
     {
       "title": "India delays digital payments fee rollout amid retailer pushback",
       "url": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cee720ce9f1e817a4d3fd546"
-    },
-    {
-      "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
-      "url": "https://wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data",
-      "source": "Wired",
-      "published": "2026-10-02T09:45:00+00:00",
-      "retrieved_at": "2026-10-02T09:48:59.947365+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1d98c3da7dbc32154aee4772"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T13:37:58.444339+00:00",
+    "checked_at": "2026-10-13T13:42:56.993925+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
