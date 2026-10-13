@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-13T11:27:04.859573+00:00",
+  "updated": "2026-10-13T11:32:04.266713+00:00",
   "items": [
+    {
+      "title": "40 Gifts Under $100 That Will Delight Any Tech Enthusiast (2026)",
+      "url": "https://wired.com/gallery/best-gifts-under-100",
+      "source": "Wired",
+      "published": "2026-10-13T11:30:00+00:00",
+      "retrieved_at": "2026-10-13T11:31:57.747891+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Score a great gift for everyone on your list without breaking the bank. Every one of these gifts comes WIRED-recommended.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d796387e0412d3a6c747eaca"
+    },
     {
       "title": "30 Best Tech Books to Gift in 2026: Biographies, Startup Histories, Exposés",
       "url": "https://wired.com/gallery/best-tech-books-to-gift",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2772406bcaecdbe5ff91faea"
-    },
-    {
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "source": "OpenAI",
-      "published": "2026-10-02T00:00:00+00:00",
-      "retrieved_at": "2026-10-02T17:20:05.222221+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "cdacf412e88dd4899cb1bbf0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T11:26:56.767607+00:00",
+    "checked_at": "2026-10-13T11:31:56.262222+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
