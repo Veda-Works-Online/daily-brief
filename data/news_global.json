@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T08:01:51.041213+00:00",
+  "updated": "2026-10-13T08:12:20.167360+00:00",
   "items": [
     {
       "title": "Building an Arsenal That Survives the Tenth Salvo",
@@ -16,6 +16,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "966d2a7265ec2621ed3bbc19"
+    },
+    {
+      "title": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
+      "url": "https://aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T07:45:07+00:00",
+      "retrieved_at": "2026-10-13T08:12:16.295416+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A year after Gaza's ceasefire, Israeli attacks persist as settler violence disrupts West Bank's oil harvest.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3e117af76dfc4043d1f63475"
     },
     {
       "title": "How Taiwan Activates Beijing’s Chosen Fear",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "56e4a4ec670fae1d6dc5fb64"
-    },
-    {
-      "title": "London voters go to polls for Holborn and St Pancras by-election",
-      "url": "https://aljazeera.com/news/2026/10/8/london-voters-go-to-polls-for-holborn-and-st-pancras-by-election",
-      "source": "Al Jazeera",
-      "published": "2026-10-08T15:19:46+00:00",
-      "retrieved_at": "2026-10-08T15:31:05.134799+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The vote in London's Holborn and St Pancras parliamentary seat tests whether Burnham can restore faith in Labour.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1fbc5098e4d5ab0bbc9c62fb"
     }
   ],
   "unverified_history": [
