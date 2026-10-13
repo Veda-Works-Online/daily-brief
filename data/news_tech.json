@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T20:39:04.612072+00:00",
+  "updated": "2026-10-13T20:44:04.960049+00:00",
   "items": [
     {
       "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
@@ -597,23 +597,6 @@
       "story_fingerprint": "e699f97411a23eaef88948b1"
     },
     {
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks",
-      "source": "MIT Tech Review",
-      "published": "2026-10-13T10:00:00+00:00",
-      "retrieved_at": "2026-10-13T10:16:38.457684+00:00",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the…",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fbe7413150b17b74a5ac79a4"
-    },
-    {
       "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
       "url": "https://wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies",
       "source": "Wired",
@@ -629,6 +612,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "42191205ca2e02d2cff28d9e"
+    },
+    {
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks",
+      "source": "MIT Tech Review",
+      "published": "2026-10-13T10:00:00+00:00",
+      "retrieved_at": "2026-10-13T10:16:38.457684+00:00",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the…",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fbe7413150b17b74a5ac79a4"
     },
     {
       "title": "AI labs are buying data from dead startups to train their models",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T20:38:57.818994+00:00",
+    "checked_at": "2026-10-13T20:43:56.891442+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
