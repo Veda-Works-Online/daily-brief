@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-13T12:58:04.023602+00:00",
+  "updated": "2026-10-13T13:03:03.605414+00:00",
   "items": [
+    {
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases",
+      "source": "TechCrunch AI",
+      "published": "2026-10-13T13:00:00+00:00",
+      "retrieved_at": "2026-10-13T13:02:58.447685+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "90409339cae42c853b94bacf"
+    },
+    {
+      "title": "Apple Reboots Its Smart-Home Strategy With New Hardware and a ‘Home Collection’",
+      "url": "https://wired.com/story/apple-overhauls-its-smart-home-play-with-new-hardware-and-a-home-collection",
+      "source": "Wired",
+      "published": "2026-10-13T13:00:00+00:00",
+      "retrieved_at": "2026-10-13T13:02:59.083703+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "I got an early glimpse of Apple’s biggest push into the smart home in years.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c6da382fea7c926e86acb3bb"
+    },
     {
       "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
       "url": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fcf95c85b4c9751bc1768860"
-    },
-    {
-      "title": "Don’t be fooled—LLMs don’t reason",
-      "url": "https://technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason",
-      "source": "MIT Tech Review",
-      "published": "2026-10-02T08:00:00+00:00",
-      "retrieved_at": "2026-10-02T08:33:06.505813+00:00",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a…",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4f51c160f94ea574ea3dec5b"
-    },
-    {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face",
-      "published": "2026-10-02T04:01:31+00:00",
-      "retrieved_at": "2026-10-02T04:02:19.512460+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "72410235582abf82c678cf5e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T12:57:59.787863+00:00",
+    "checked_at": "2026-10-13T13:02:57.742131+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
