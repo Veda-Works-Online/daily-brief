@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-13T18:19:10.273662+00:00",
+  "updated": "2026-10-13T18:24:08.360511+00:00",
   "items": [
+    {
+      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech",
+      "source": "Ars Technica AI",
+      "published": "2026-10-13T18:23:33+00:00",
+      "retrieved_at": "2026-10-13T18:24:03.864300+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "47a897b536f5b62fb3a59200"
+    },
     {
       "title": "Facebook is giving users more control over their algorithm",
       "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "104263b9763a043ddeeec1b4"
-    },
-    {
-      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house",
-      "source": "TechCrunch AI",
-      "published": "2026-10-02T17:48:16+00:00",
-      "retrieved_at": "2026-10-02T17:50:06.009376+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as…",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4ebe6221f26161626ea63b8b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T18:19:01.421958+00:00",
+    "checked_at": "2026-10-13T18:24:02.293751+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
