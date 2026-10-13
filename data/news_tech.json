@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-13T13:13:05.189590+00:00",
+  "updated": "2026-10-13T13:18:02.949836+00:00",
   "items": [
+    {
+      "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
+      "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands",
+      "source": "TechCrunch",
+      "published": "2026-10-13T13:16:11+00:00",
+      "retrieved_at": "2026-10-13T13:17:59.989688+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c2f719b725ae7f9895e328f9"
+    },
     {
       "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
       "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1ee6749001b329efa81533f2"
-    },
-    {
-      "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
-      "url": "https://wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess",
-      "source": "Wired",
-      "published": "2026-10-02T09:30:00+00:00",
-      "retrieved_at": "2026-10-02T09:34:00.712866+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fcf95c85b4c9751bc1768860"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T13:13:01.377177+00:00",
+    "checked_at": "2026-10-13T13:17:58.743148+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
