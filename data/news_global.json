@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-13T08:12:20.167360+00:00",
+  "updated": "2026-10-13T09:01:48.832915+00:00",
   "items": [
+    {
+      "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
+      "url": "https://bbc.co.uk/news/articles/cmn06w5x9g25o",
+      "source": "BBC World",
+      "published": "2026-10-13T08:52:48+00:00",
+      "retrieved_at": "2026-10-13T09:01:44.929006+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Bulgaria's prime minister says two merchant ships were hit by drones and he suspects Russia was behind the attacks.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "716dc141f10cba84907727ac"
+    },
     {
       "title": "Building an Arsenal That Survives the Tenth Salvo",
       "url": "https://warontherocks.com/cogs-of-war/building-an-arsenal-that-survives-the-tenth-salvo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6926ecc78b8ad99d6656f8d6"
-    },
-    {
-      "title": "How the Houthi-Saudi conflict is affecting countries on Africa's Red Sea coast — and beyond",
-      "url": "https://dw.com/en/how-the-houthi-saudi-conflict-is-affecting-countries-on-africa-s-red-sea-coast-and-beyond/a-79588992",
-      "source": "DW",
-      "published": "2026-10-08T16:11:00+00:00",
-      "retrieved_at": "2026-10-08T19:21:59.147684+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The Bab el-Mandeb Strait, which Yemeni government forces are trying to take back from the Houthis, is located not far from Djibouti and other African states.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "56e4a4ec670fae1d6dc5fb64"
     }
   ],
   "unverified_history": [
