@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T09:06:50.328870+00:00",
+  "updated": "2026-10-13T09:11:51.261379+00:00",
   "items": [
     {
       "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "716dc141f10cba84907727ac"
+    },
+    {
+      "title": "Former DR Congo president Kabila joins M23 rebels in a new coalition",
+      "url": "https://aljazeera.com/news/2026/10/13/former-dr-congo-president-kabila-joins-m23-rebels-in-a-new-coalition",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T08:50:49+00:00",
+      "retrieved_at": "2026-10-13T09:11:47.429659+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Alliance raises fears of more fighting and confrontation with President Tshisekedi's government.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "09a5c5aae17276204e3ee7d8"
     },
     {
       "title": "The escalation in Yemen is a turning point",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "765dc0d6c6bed97e0f564ffc"
-    },
-    {
-      "title": "FIFA President Infantino’s crisis: UEFA details new candidate criteria",
-      "url": "https://aljazeera.com/sports/2026/10/8/uefa-details-fifa-presidential-candidate-criteria-in-bid-to-oust-infantino",
-      "source": "Al Jazeera",
-      "published": "2026-10-08T16:53:25+00:00",
-      "retrieved_at": "2026-10-08T19:27:00.468803+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "UEFA draws up qualities required for a candidate to run against FIFA President Gianni Infantino in March's election.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1aca636bba55f22260cb7b1b"
     }
   ],
   "unverified_history": [
