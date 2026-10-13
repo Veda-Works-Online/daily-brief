@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-13T10:01:42.187118+00:00",
+  "updated": "2026-10-13T10:06:47.759438+00:00",
   "items": [
+    {
+      "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+      "url": "https://wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies",
+      "source": "Wired",
+      "published": "2026-10-13T10:00:00+00:00",
+      "retrieved_at": "2026-10-13T10:06:40.930435+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "42191205ca2e02d2cff28d9e"
+    },
     {
       "title": "AI labs are buying data from dead startups to train their models",
       "url": "https://technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e4a083517480989517697414"
-    },
-    {
-      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-      "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge",
-      "source": "Ars Technica AI",
-      "published": "2026-10-01T20:11:55+00:00",
-      "retrieved_at": "2026-10-01T20:26:43.708026+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fdd2c98d3a37b3df5dc01218"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T10:01:38.014764+00:00",
+    "checked_at": "2026-10-13T10:06:39.540065+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
