@@ -1,13 +1,14 @@
 # Daily Brief market times
 
-Indian company caps temporarily use Google Finance while BSE access is pending.
-Each five-minute cycle checks issuer, listing, INR currency, quote freshness,
-and implied shares against the saved BSE reference (maximum 1% difference).
-Accepted caps are labelled INDICATIVE with Google provenance and quote time;
-Google does not provide a cap-specific timestamp. Conflicts and fetch failures
-retain the last accepted cap as STALE with its original timestamp. Yahoo market
-caps are never substituted. BSE requests are paused by default; the previous
-BSE full-cap path remains available through `INDIA_CAP_SOURCE=bse`.
+Indian company caps use Google Finance only, refreshed on the five-minute cycle.
+The refresh validates issuer, NSE symbol, INR currency, positive finite values,
+and quote/retrieval freshness. Caps remain INDICATIVE because share-class scope
+and cap-specific timestamps are not independently confirmed. BSE data is not
+requested, used as a reference, retained on failures, or published by this path.
+A failed request retains only an earlier Google cap as STALE; otherwise the cap
+is unavailable. Yahoo market caps are never substituted for Indian caps.
+Google quote fallbacks can use fresh, matching-symbol Yahoo session metadata
+while preserving Google prices and timestamps. Unknown sessions stay conservative.
 Nasdaq can supply a direct INDICATIVE cap when Yahoo corroboration fails, only
 with a matching issuer, exchange, regular-session date and price within 0.5%.
 It provides only a date; metadata explicitly identifies the price-row timestamp

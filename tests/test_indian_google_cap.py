@@ -25,7 +25,7 @@ class IndianGoogleCapTests(unittest.TestCase):
         return m.indian_google_cap(self.row, previous or self.row, 'ATGL.NS',
             self.quote if quote is None else quote, self.identity if identity is None else identity, self.now)
 
-    def test_google_cap_preserves_price_and_reference_across_cycles(self):
+    def test_google_cap_preserves_price_without_exchange_reference(self):
         out = self.apply()
         self.assertEqual(out['marketCap'], self.quote['marketCap'])
         self.assertEqual(out['indexValue'], self.row['indexValue'])
@@ -34,11 +34,12 @@ class IndianGoogleCapTests(unittest.TestCase):
         self.assertEqual(meta['source'], 'Google Finance')
         self.assertEqual(meta['validation_status'], 'INDICATIVE')
         self.assertEqual(meta['source_timestamp'], self.quote['timestamp'])
-        self.assertEqual(self.apply(previous=out)['field_metadata']['marketCap']['bse_reference'], meta['bse_reference'])
+        self.assertNotIn('bse_reference', meta)
+        self.assertEqual(self.apply(previous=out)['marketCap'], self.quote['marketCap'])
 
-    def test_wrong_identity_currency_stale_future_and_share_counts_rejected(self):
+    def test_wrong_identity_currency_stale_future_and_invalid_numbers_rejected(self):
         for change in [dict(id='HDFCBANK:NSE'), dict(currency='USD'), dict(name='HDFC Bank'),
-                       dict(marketCap='NaN'), dict(price=0), dict(marketCap=Decimal('309650000000')),
+                       dict(marketCap='NaN'), dict(price=0), dict(marketCap=-1),
                        dict(timestamp=(self.now+timedelta(minutes=3)).isoformat()),
                        dict(timestamp=(self.now-timedelta(days=9)).isoformat()),
                        dict(retrieved_at=(self.now-timedelta(minutes=6)).isoformat())]:
@@ -54,6 +55,31 @@ class IndianGoogleCapTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'OLDER_OBSERVATION'):
             self.apply(previous=out, quote=dict(self.quote, timestamp='2026-10-12T09:59:59+00:00'))
 
-    def test_missing_reference_fails_closed(self):
-        with self.assertRaisesRegex(ValueError, 'REFERENCE_UNAVAILABLE'):
-            self.apply(previous=dict(self.row, field_metadata={}))
+    def test_caps_do_not_depend_on_bse_reference_or_share_count(self):
+        out = self.apply(previous=dict(self.row, field_metadata={}),
+            quote=dict(self.quote, marketCap=Decimal('309650000000')))
+        self.assertEqual(out['marketCap'], Decimal('309650000000'))
+        self.assertNotIn('bse_reference', out['field_metadata']['marketCap'])
+
+    def test_failures_never_publish_bse_or_yahoo_caps(self):
+        out = m.indian_cap_unavailable(self.row, self.row, 'GOOGLE_UNAVAILABLE', self.now)
+        self.assertIsNone(out['marketCap'])
+        self.assertEqual(out['field_metadata']['marketCap']['validation_status'], 'DATA_UNAVAILABLE')
+        google = self.apply()
+        google['field_metadata']['marketCap']['bse_reference'] = {'source':'BSE'}
+        out = m.indian_cap_unavailable(self.row, google, 'GOOGLE_UNAVAILABLE', self.now)
+        self.assertEqual(out['marketCap'], google['marketCap'])
+        self.assertEqual(out['field_metadata']['marketCap']['validation_status'], 'STALE')
+        self.assertNotIn('bse_reference', out['field_metadata']['marketCap'])
+
+    def test_google_quote_uses_only_current_same_symbol_session_metadata(self):
+        out = m.google_observation(self.row, 'ATGL.NS', self.quote, self.identity, self.now)
+        self.assertEqual(out['market_status'], 'CLOSED')
+        self.assertEqual(out['validation_status'], 'INDICATIVE')
+        self.assertEqual(out['market_timezone'], 'Asia/Kolkata')
+        for change in [dict(symbol='HDFCBANK.NS'),
+                dict(_retrieved_at=(self.now-timedelta(minutes=6)).isoformat())]:
+            out = m.google_observation(self.row, 'ATGL.NS', self.quote,
+                dict(self.identity, **change), self.now)
+            self.assertEqual(out['market_status'], 'UNKNOWN')
+            self.assertEqual(out['validation_status'], 'STALE')
