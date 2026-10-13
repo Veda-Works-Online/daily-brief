@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T23:35:03.698000+00:00",
+  "updated": "2026-10-13T23:40:33.038914+00:00",
   "items": [
     {
       "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
@@ -6272,7 +6272,7 @@
         "licence": "mit",
         "published": "2026-09-09T17:47:04+00:00",
         "url": "https://huggingface.co/nvidia/DeepSeek-V4-Pro-0813-nvfp4-DSpark",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "nvidia/Qwen3.8-27B-NVFP4",
@@ -6281,7 +6281,7 @@
         "licence": "apache-2.0",
         "published": "2026-09-04T21:43:04+00:00",
         "url": "https://huggingface.co/nvidia/Qwen3.8-27B-NVFP4",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "nvidia/DeepSeek-V4-Pro-0813-NVFP4",
@@ -6290,7 +6290,7 @@
         "licence": "mit",
         "published": "2026-08-27T10:39:25+00:00",
         "url": "https://huggingface.co/nvidia/DeepSeek-V4-Pro-0813-NVFP4",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "allenai/Bwen-8B",
@@ -6335,7 +6335,7 @@
         "licence": "mit",
         "published": "2026-08-19T17:09:47+00:00",
         "url": "https://huggingface.co/nvidia/DeepSeek-V4-Flash-0731-NVFP4",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "ibm-granite/granite-4.2-8b-nvfp4",
@@ -6437,9 +6437,30 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T23:34:54.162327+00:00",
-    "status": "CURRENT",
-    "errors": [],
+    "checked_at": "2026-10-13T23:39:54.870609+00:00",
+    "status": "PARTIAL",
+    "errors": [
+      {
+        "publisher": "zai-org",
+        "reason": "ReadTimeout"
+      },
+      {
+        "publisher": "MiniMaxAI",
+        "reason": "ReadTimeout"
+      },
+      {
+        "publisher": "openai",
+        "reason": "ReadTimeout"
+      },
+      {
+        "publisher": "nvidia",
+        "reason": "ReadTimeout"
+      },
+      {
+        "publisher": "tiiuae",
+        "reason": "ReadTimeout"
+      }
+    ],
     "publishers": [
       "Qwen",
       "deepseek-ai",
