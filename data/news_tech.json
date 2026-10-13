@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-13T13:48:00.604221+00:00",
+  "updated": "2026-10-13T13:53:02.778067+00:00",
   "items": [
+    {
+      "title": "SpaceXSI bundles X Premium, Grok and Cursor into one subscription",
+      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription",
+      "source": "TechCrunch AI",
+      "published": "2026-10-13T13:50:19+00:00",
+      "retrieved_at": "2026-10-13T13:52:54.939666+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8b70255bd876bcdeb2b3bad7"
+    },
     {
       "title": "Apple refreshes its Homepod mini with a new chip and $149 price tag",
       "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5ef3fc7f6e53a34e94d593f5"
-    },
-    {
-      "title": "Rivian issues R2 recall for poorly tightened battery packs",
-      "url": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs",
-      "source": "TechCrunch",
-      "published": "2026-10-02T12:50:11+00:00",
-      "retrieved_at": "2026-10-02T12:54:19.076253+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The company says around 14 vehicles may be affected, and that it has resolved the issue on the assembly line.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cee720ce9f1e817a4d3fd546"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T13:47:56.210140+00:00",
+    "checked_at": "2026-10-13T13:52:54.276505+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
