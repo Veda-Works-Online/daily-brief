@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T09:46:52.016430+00:00",
+  "updated": "2026-10-13T09:56:44.241089+00:00",
   "items": [
     {
       "title": "Air France says it will follow Israeli rule barring crew from some nations",
@@ -1728,6 +1728,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5f62bf78b3f4e1461a124e3a"
+    },
+    {
+      "title": "Georgia's surrogacy industry is booming, but at what cost?",
+      "url": "https://dw.com/en/georgia-s-surrogacy-industry-is-booming-but-at-what-cost/a-79629971",
+      "source": "DW",
+      "published": "2026-10-11T07:45:00+00:00",
+      "retrieved_at": "2026-10-13T09:56:40.729243+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Georgia became a hub for surrogate pregnancies after Russia's full-scale invasion of Ukraine in 2022. DW spoke with parents, and those who wanted to become parents, about the hidden costs of a booming industry.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "630626bebe734ca4c9476f5b"
     },
     {
       "title": "Surrogacy in Georgia is booming but at what cost?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "89d6c4cf4a05cdef0a3f1bb8"
-    },
-    {
-      "title": "Syria calls for independent probe into sinking of ship in Black Sea",
-      "url": "https://aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea",
-      "source": "Al Jazeera",
-      "published": "2026-10-08T17:27:47+00:00",
-      "retrieved_at": "2026-10-08T17:52:00.010134+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Syrian authorities questioned why search and rescue operations were called off before the fate of 10 sailors was known.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "79dec2d22dcf1e99d34b6978"
     }
   ],
   "unverified_history": [
