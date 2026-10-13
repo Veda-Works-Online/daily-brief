@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T09:01:48.832915+00:00",
+  "updated": "2026-10-13T09:06:50.328870+00:00",
   "items": [
     {
       "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
@@ -16,6 +16,38 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "716dc141f10cba84907727ac"
+    },
+    {
+      "title": "The escalation in Yemen is a turning point",
+      "url": "https://aljazeera.com/opinions/2026/10/13/the-escalation-in-yemen-is-a-turning-point",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T08:42:55+00:00",
+      "retrieved_at": "2026-10-13T09:06:46.432719+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The risk of a region-wide war is increasing, but if cooler heads prevail, a peaceful arrangement can still be reached.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "dedb057c5e2514957eb4ed12"
+    },
+    {
+      "title": "Police detain leaders of India’s ‘cockroach’ movement at New Delhi protest",
+      "url": "https://aljazeera.com/news/2026/10/13/police-detain-leaders-of-indias-cockroach-movement-at-new-delhi-protest",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T08:36:27+00:00",
+      "retrieved_at": "2026-10-13T09:06:46.432742+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Cockroach Janta Party volunteers detained after entering a popular protest site authorities had declared off-limits.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9119fa2b6fa5c2a549cc89b6"
     },
     {
       "title": "Building an Arsenal That Survives the Tenth Salvo",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1aca636bba55f22260cb7b1b"
-    },
-    {
-      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "url": "https://bbc.co.uk/news/articles/c875pwq134l3o",
-      "source": "BBC World",
-      "published": "2026-10-08T16:31:29+00:00",
-      "retrieved_at": "2026-10-08T16:36:07.423954+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d9ebb6de23627acbebd88190"
-    },
-    {
-      "title": "Zambia signs US health deal after disputes over data-sharing",
-      "url": "https://bbc.co.uk/news/articles/cqd09eyk0g8no",
-      "source": "BBC World",
-      "published": "2026-10-08T16:24:05+00:00",
-      "retrieved_at": "2026-10-08T16:41:07.146298+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6926ecc78b8ad99d6656f8d6"
     }
   ],
   "unverified_history": [
