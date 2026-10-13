@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-13T09:11:44.128827+00:00",
+  "updated": "2026-10-13T09:16:42.640501+00:00",
   "items": [
+    {
+      "title": "AI labs are buying data from dead startups to train their models",
+      "url": "https://technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models",
+      "source": "MIT Tech Review",
+      "published": "2026-10-13T09:00:00+00:00",
+      "retrieved_at": "2026-10-13T09:16:38.437133+00:00",
+      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around…",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "366ebdedcd91c0fc9e87ea87"
+    },
     {
       "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
       "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fdd2c98d3a37b3df5dc01218"
-    },
-    {
-      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-      "url": "https://wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk",
-      "source": "Wired",
-      "published": "2026-10-01T19:58:31+00:00",
-      "retrieved_at": "2026-10-01T20:01:54.178205+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5c439177a0d376c4ec3377d3"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T09:11:38.909108+00:00",
+    "checked_at": "2026-10-13T09:16:37.415048+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
