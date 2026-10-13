@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-13T23:05:03.220309+00:00",
+  "updated": "2026-10-13T23:10:03.007146+00:00",
   "items": [
+    {
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home",
+      "source": "TechCrunch AI",
+      "published": "2026-10-13T23:05:34+00:00",
+      "retrieved_at": "2026-10-13T23:09:57.761646+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e8e94c2fd5b9bb997f90b57a"
+    },
+    {
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks",
+      "source": "TechCrunch AI",
+      "published": "2026-10-13T23:00:00+00:00",
+      "retrieved_at": "2026-10-13T23:09:57.761684+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ff0288c0965f6a2e6b3f8125"
+    },
     {
       "title": "Cerebras CEO pushes back on AI doomsday warnings",
       "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fd5e13f8c3ef4375d1690aa6"
-    },
-    {
-      "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
-      "url": "https://wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family",
-      "source": "Wired",
-      "published": "2026-10-03T12:00:00+00:00",
-      "retrieved_at": "2026-10-03T12:12:56.887984+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9f169da1daa0d883260cacb2"
-    },
-    {
-      "title": "Meta wants your next gadget to be Muse-infused",
-      "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget",
-      "source": "TechCrunch AI",
-      "published": "2026-10-03T00:45:39+00:00",
-      "retrieved_at": "2026-10-03T00:51:30.671304+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b0611f93162249f7f07e9447"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T23:04:57.417324+00:00",
+    "checked_at": "2026-10-13T23:09:57.099840+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
