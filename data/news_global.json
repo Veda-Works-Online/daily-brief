@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-13T17:18:04.069205+00:00",
+  "updated": "2026-10-13T17:38:05.566576+00:00",
   "items": [
+    {
+      "title": "Cholera cases surge in Yemen as conflict intensifies, WHO says",
+      "url": "https://aljazeera.com/news/2026/10/13/cholera-cases-surge-in-yemen-as-conflict-intensifies-who-says",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T17:18:45+00:00",
+      "retrieved_at": "2026-10-13T17:38:01.431033+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Yemen has reported 8,034 suspected cases and 27 deaths this year, with a quarter of the total coming in last four weeks.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6485fca5ed60565f1afaeb87"
+    },
     {
       "title": "Saudi Arabia's military struggle against Houthi attacks",
       "url": "https://dw.com/en/saudi-arabia-s-military-struggle-against-houthi-attacks/a-79650857",
@@ -96,6 +112,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "98edcfec3af084002e30408e"
+    },
+    {
+      "title": "Houthis threaten Saudi Aramco facilities, airports amid escalating conflict",
+      "url": "https://aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T15:01:36+00:00",
+      "retrieved_at": "2026-10-13T17:38:01.431152+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Explosions in Sanaa reported shortly after Saudi-led coalition's evacuation order as Houthis promise 'harsh' response.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7b762cc7794f00532be46ca3"
     },
     {
       "title": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan?",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f62a31f108691bd436987d1c"
-    },
-    {
-      "title": "Brazilian Supreme Court judge issues arrest warrant for Eduardo Bolsonaro",
-      "url": "https://aljazeera.com/news/2026/10/9/brazilian-supreme-court-judge-issues-arrest-warrant-for-eduardo-bolsonaro",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T06:19:56+00:00",
-      "retrieved_at": "2026-10-09T06:33:26.191021+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Arrest warrant for presidential candidate's brother is issued weeks before Brazil's runoff election.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1497a5108f466d553a56ab2d"
-    },
-    {
-      "title": "How October 7 changed Lebanon and Hezbollah’s political reality",
-      "url": "https://aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T05:52:49+00:00",
-      "retrieved_at": "2026-10-09T06:03:14.611480+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Analysts say Hezbollah's decision on October 8 to join a 'war of support' for Gaza changed Lebanon's political reality.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fb92a75d58c79ba5a7f956bd"
     }
   ],
   "unverified_history": [
