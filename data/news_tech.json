@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-13T12:37:09.405169+00:00",
+  "updated": "2026-10-13T12:42:08.254924+00:00",
   "items": [
+    {
+      "title": "Giraffe Bio aims its bespoke biomolecules at the looming copper shortage",
+      "url": "https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage",
+      "source": "TechCrunch",
+      "published": "2026-10-13T12:40:00+00:00",
+      "retrieved_at": "2026-10-13T12:42:05.360827+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "As AI data centers and EVs drive up demand for copper, Giraffe Bio has unearthed a $6.4 million seed round to help miners extract more of the mineral.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "da22e2e572388f00b0fe04a7"
+    },
     {
       "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
       "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "72410235582abf82c678cf5e"
-    },
-    {
-      "title": "Robotaxi operators will face fines for blocking first responders",
-      "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders",
-      "source": "TechCrunch",
-      "published": "2026-10-02T00:57:57+00:00",
-      "retrieved_at": "2026-10-02T12:34:13.734984+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "A new California law places new rules on autonomous vehicles operators.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cffada1128f37dc6df2faa08"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T12:37:01.508132+00:00",
+    "checked_at": "2026-10-13T12:42:04.028236+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
