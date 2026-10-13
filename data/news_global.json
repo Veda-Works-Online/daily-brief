@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-13T07:11:01.892691+00:00",
+  "updated": "2026-10-13T07:16:03.716700+00:00",
   "items": [
+    {
+      "title": "India 'cockroach' leaders detained after entering barricaded protest site",
+      "url": "https://bbc.co.uk/news/articles/cqz0v11n2vj5o",
+      "source": "BBC World",
+      "published": "2026-10-13T06:58:20+00:00",
+      "retrieved_at": "2026-10-13T07:15:58.634877+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "895b62bb3882bda59fddc213"
+    },
     {
       "title": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
       "url": "https://aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7269c58e1f451c587ce36a1c"
-    },
-    {
-      "title": "Saudi-led coalition says it intercepts three Houthi ballistic missiles",
-      "url": "https://aljazeera.com/news/2026/10/8/saudi-led-coalition-says-it-intercepts-three-houthi-ballistic-missiles",
-      "source": "Al Jazeera",
-      "published": "2026-10-08T14:43:19+00:00",
-      "retrieved_at": "2026-10-08T15:06:05.355242+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Houthi military spokesman claims Yemeni group fired one ballistic missile towards airport in Saudi capital, Riyadh.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b56579290395763956a597b6"
     }
   ],
   "unverified_history": [
