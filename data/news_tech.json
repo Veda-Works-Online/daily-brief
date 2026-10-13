@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-13T15:58:16.183831+00:00",
+  "updated": "2026-10-13T16:02:59.165503+00:00",
   "items": [
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+      "source": "Google DeepMind",
+      "published": "2026-10-13T16:01:58+00:00",
+      "retrieved_at": "2026-10-13T16:02:56.342763+00:00",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://deepmind.google/blog/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "18470ad7389d004970cc6cfe"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon",
+      "source": "Google DeepMind",
+      "published": "2026-10-13T16:01:52+00:00",
+      "retrieved_at": "2026-10-13T16:02:56.342778+00:00",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://deepmind.google/blog/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "d5c82a2b66ef933fccd06618"
+    },
     {
       "title": "They war-gamed dimming the Sun. It went even worse than you think.",
       "url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
       "source_type": "PRIMARY",
       "story_fingerprint": "b86e5d2dd94796bdf1de1a97"
-    },
-    {
-      "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
-      "url": "https://wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked",
-      "source": "Wired",
-      "published": "2026-10-02T15:00:00+00:00",
-      "retrieved_at": "2026-10-03T02:41:31.486647+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9f28e8ef9ace193419e00548"
-    },
-    {
-      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-      "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai",
-      "source": "Ars Technica AI",
-      "published": "2026-10-02T14:52:16+00:00",
-      "retrieved_at": "2026-10-02T16:15:03.677006+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fc9766bb1a8a5eeebfde9bc2"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T15:57:59.652421+00:00",
+    "checked_at": "2026-10-13T16:02:55.241713+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
