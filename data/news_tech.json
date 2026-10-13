@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-13T22:34:09.549352+00:00",
+  "updated": "2026-10-13T22:39:00.812041+00:00",
   "items": [
+    {
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
+      "source": "TechCrunch AI",
+      "published": "2026-10-13T22:36:59+00:00",
+      "retrieved_at": "2026-10-13T22:38:54.605788+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "74b0cb92c4e74217e03076e6"
+    },
     {
       "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
       "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b0611f93162249f7f07e9447"
-    },
-    {
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
-      "source": "Ars Technica AI",
-      "published": "2026-10-02T23:03:16+00:00",
-      "retrieved_at": "2026-10-02T23:05:52.102853+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b88500ebf4093e5f601efe21"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T22:34:00.011404+00:00",
+    "checked_at": "2026-10-13T22:38:53.978399+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
