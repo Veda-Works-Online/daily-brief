@@ -3,6 +3,7 @@ import unittest
 from datetime import datetime, timezone, timedelta
 from decimal import Decimal
 from pathlib import Path
+from unittest.mock import patch, Mock
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 import market_data as m
 
@@ -83,3 +84,17 @@ class IndianGoogleCapTests(unittest.TestCase):
                 dict(self.identity, **change), self.now)
             self.assertEqual(out['market_status'], 'UNKNOWN')
             self.assertEqual(out['validation_status'], 'STALE')
+
+    def test_stale_nse_page_retries_alternate_route_without_regressing(self):
+        now = datetime.now(timezone.utc)
+        old = dict(self.quote, timestamp=(now-timedelta(days=1)).isoformat())
+        fresh = dict(self.quote, timestamp=(now-timedelta(minutes=2)).isoformat())
+        response = Mock(text='quote body')
+        with patch.object(m.requests, 'get', return_value=response) as get, \
+                patch.object(m, 'parse_google', side_effect=[old, fresh]):
+            self.assertEqual(m.fetch_google('ATGL:NSE')['timestamp'], fresh['timestamp'])
+            self.assertEqual(get.call_count, 2)
+        older = dict(old, timestamp=(now-timedelta(days=2)).isoformat())
+        with patch.object(m.requests, 'get', return_value=response), \
+                patch.object(m, 'parse_google', side_effect=[old, older]):
+            self.assertEqual(m.fetch_google('ATGL:NSE')['timestamp'], old['timestamp'])
