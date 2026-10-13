@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T16:02:59.165503+00:00",
+  "updated": "2026-10-13T16:08:07.495807+00:00",
   "items": [
     {
       "title": "Gemini 4 Argon for Robotics",
@@ -34,6 +34,23 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "d5c82a2b66ef933fccd06618"
+    },
+    {
+      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+      "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay",
+      "source": "Ars Technica AI",
+      "published": "2026-10-13T16:00:02+00:00",
+      "retrieved_at": "2026-10-13T16:08:03.648389+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Developers will get 50 percent discounted API rates through November.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "29c00a45bbbbf68bda89dcbf"
     },
     {
       "title": "They war-gamed dimming the Sun. It went even worse than you think.",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "54a8c7dc15c16a15476e5225"
-    },
-    {
-      "title": "The latest AI news we announced in September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-      "source": "Google AI",
-      "published": "2026-10-02T15:00:00+00:00",
-      "retrieved_at": "2026-10-02T15:10:05.317384+00:00",
-      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-      "summary": "A video showing the September AI updates",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "b86e5d2dd94796bdf1de1a97"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T16:02:55.241713+00:00",
+    "checked_at": "2026-10-13T16:08:02.368278+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
