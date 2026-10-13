@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-13T18:29:16.843606+00:00",
+  "updated": "2026-10-13T18:39:15.470835+00:00",
   "items": [
     {
-      "title": "Presidential hopeful Melenchon joins France school protest march",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/13/presidential-hopeful-melenchon-joins-france-school-protest-march",
+      "title": "US Supreme Court agrees to hear watchdog case on Elon Musk’s DOGE records",
+      "url": "https://aljazeera.com/news/2026/10/13/us-supreme-court-agrees-to-hear-watchdog-case-on-elon-musks-doge-records",
       "source": "Al Jazeera",
-      "published": "2026-10-13T18:16:44+00:00",
-      "retrieved_at": "2026-10-13T18:29:11.665409+00:00",
+      "published": "2026-10-13T18:21:18+00:00",
+      "retrieved_at": "2026-10-13T18:39:09.795884+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Left-wing presidential hopeful Jean-Luc Melenchon has given his support to school protests in France",
+      "summary": "The Trump administration argues that DOGE is exempt from freedom of information requirements.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "ea4d1ef9105e1886579eabbb"
+      "story_fingerprint": "1dc47c94810a0107946a96dc"
     },
     {
       "title": "Trump says Putin and Zelenskyy both want to end Russia’s war on Ukraine",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3749d98c0ec649ebf9e17dee"
+    },
+    {
+      "title": "Presidential hopeful Melenchon joins France school protest march",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/13/presidential-hopeful-melenchon-joins-france-school-protest-march",
+      "source": "Al Jazeera",
+      "published": "2026-10-13T18:16:44+00:00",
+      "retrieved_at": "2026-10-13T18:29:11.665409+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Left-wing presidential hopeful Jean-Luc Melenchon has given his support to school protests in France",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ea4d1ef9105e1886579eabbb"
     },
     {
       "title": "Why Trump’s ‘energy ceasefire’ upset Europe",
@@ -144,6 +160,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "41998e96151e7c2b75c61093"
+    },
+    {
+      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
+      "url": "https://bbc.co.uk/news/articles/c60rl5vwpk02o",
+      "source": "BBC World",
+      "published": "2026-10-13T15:52:15+00:00",
+      "retrieved_at": "2026-10-13T18:39:10.005582+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2339f7a44de636e77ed84600"
     },
     {
       "title": "France seizes tanker suspected of belonging to Russia’s shadow fleet",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2827790cd028e9352b35a1bb"
-    },
-    {
-      "title": "New York police push politician to ground during anti-ICE protest",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/9/new-york-police-push-politician-to-ground-during-anti-ice-protest",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T08:59:49+00:00",
-      "retrieved_at": "2026-10-09T09:29:32.822354+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "New York police push politician to ground during anti-ICE protest",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "72df888ab460a85cd2736d40"
-    },
-    {
-      "title": "Finland, the world's happiest nation, faces a glum winter",
-      "url": "https://dw.com/en/finland-the-world-s-happiest-nation-faces-a-glum-winter/a-79544348",
-      "source": "DW",
-      "published": "2026-10-09T08:12:00+00:00",
-      "retrieved_at": "2026-10-09T15:15:18.547269+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Finns have many reasons to feel content, but the country's pile of debt is not one of them. Russia's war in Ukraine has added to the fiscal burden. Can the Nordic nation absorb another shock?",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d7b43fb3f8d03c1ddd889ecf"
     }
   ],
   "unverified_history": [
