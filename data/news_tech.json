@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-13T18:04:13.255327+00:00",
+  "updated": "2026-10-13T18:09:16.647698+00:00",
   "items": [
+    {
+      "title": "Facebook is giving users more control over their algorithm",
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm",
+      "source": "TechCrunch AI",
+      "published": "2026-10-13T18:05:24+00:00",
+      "retrieved_at": "2026-10-13T18:09:07.755871+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Facebook is the latest social media platform to give users greater control over the algorithm that determines what appears in their feeds. Meta announced the launch of its new AI-powered feature, “Your Algorithm,” on Tuesday, a feature it first launched on Instagram. The new tool allows Facebook users to influence the content they see in […]",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5695e55c2ae351aef334f55d"
+    },
     {
       "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
       "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4ebe6221f26161626ea63b8b"
-    },
-    {
-      "title": "This startup pays NYC residents to run air conditioners on free batteries",
-      "url": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units",
-      "source": "Ars Technica",
-      "published": "2026-10-02T17:20:21+00:00",
-      "retrieved_at": "2026-10-03T19:03:39.343789+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Bonus: Every Electric’s batteries are beloved by household cats.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2a2fca0adb680a07efd74a27"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T18:04:07.447910+00:00",
+    "checked_at": "2026-10-13T18:09:07.121727+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
