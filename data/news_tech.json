@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-13T14:57:56.138601+00:00",
+  "updated": "2026-10-13T15:02:58.105245+00:00",
   "items": [
+    {
+      "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
+      "url": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between",
+      "source": "TechCrunch",
+      "published": "2026-10-13T15:02:00+00:00",
+      "retrieved_at": "2026-10-13T15:02:54.646820+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "23bdafe67f006f93f116d972"
+    },
     {
       "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
       "url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "914857f798ca908dfc54b6d7"
-    },
-    {
-      "title": "Less than 24 hours to apply for a Side Event at Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026",
-      "source": "TechCrunch",
-      "published": "2026-10-02T14:00:00+00:00",
-      "retrieved_at": "2026-10-02T14:04:14.601391+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at midnight PT. Connect with the Boston startup ecosystem through November 1–7 by hosting your own Side Event. Bring your community, start an impactful conversation that’ll push the […]",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2cf2bcd803d6ffe0079ca8e7"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T14:57:52.299479+00:00",
+    "checked_at": "2026-10-13T15:02:53.243791+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
