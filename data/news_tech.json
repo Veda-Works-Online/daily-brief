@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T18:09:16.647698+00:00",
+  "updated": "2026-10-13T18:14:08.739713+00:00",
   "items": [
     {
       "title": "Facebook is giving users more control over their algorithm",
@@ -121,11 +121,11 @@
       "story_fingerprint": "a745f4a4cac5eb06c5c72652"
     },
     {
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
       "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
       "source": "TechCrunch AI",
       "published": "2026-10-13T16:30:00+00:00",
-      "retrieved_at": "2026-10-13T16:32:55.215331+00:00",
+      "retrieved_at": "2026-10-13T18:14:03.516488+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
       "isAI": true,
@@ -135,7 +135,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "b0c4dc93a1de9f0ceaceaabf"
+      "story_fingerprint": "e977ef82dda4f1e87fd913c1"
     },
     {
       "title": "Gemini 4 Argon for Robotics",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-13T18:09:07.121727+00:00",
+    "checked_at": "2026-10-13T18:14:02.896616+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
