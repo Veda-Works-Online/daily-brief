@@ -328,10 +328,11 @@ def fetch_google(identifier):
             quote = parse_google(response.text, identifier)
             if best is None or timestamp(quote['timestamp']) > timestamp(best['timestamp']):
                 best = quote
-            # Retry old FX observations too; never replace a valid newer quote
+            # Retry old FX and NSE observations too; never replace a valid newer quote
             # with an older response or turn its retrieval time into quote time.
             fx = identifier in {'-'.join(pair) for pair in PAIRS.values()}
-            if not fx or (datetime.now(timezone.utc)-timestamp(best['timestamp'])).total_seconds() <= 480:
+            retry_age = 480 if fx else 1800 if identifier.endswith(':NSE') else None
+            if retry_age is None or (datetime.now(timezone.utc)-timestamp(best['timestamp'])).total_seconds() <= retry_age:
                 return best
         except (requests.RequestException, ValueError, KeyError, TypeError) as exc:
             error = exc
