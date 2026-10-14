@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-14T16:52:55.540284+00:00",
+  "updated": "2026-10-14T16:57:58.578816+00:00",
   "items": [
     {
-      "title": "FBI arrests OpenAI engineer suspected of planting bug in conference room",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
       "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room",
       "source": "Ars Technica AI",
       "published": "2026-10-14T16:41:49+00:00",
-      "retrieved_at": "2026-10-14T16:47:51.005771+00:00",
+      "retrieved_at": "2026-10-14T16:57:51.240099+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
       "isAI": true,
@@ -16,7 +16,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "3176a2063ed6794e2c1a8db2"
+      "story_fingerprint": "d6616d7214d01bb05dfc08df"
     },
     {
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T16:52:49.391209+00:00",
+    "checked_at": "2026-10-14T16:57:49.491127+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
