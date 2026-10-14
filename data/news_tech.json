@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T08:21:04.463392+00:00",
+  "updated": "2026-10-14T08:25:58.171962+00:00",
   "items": [
     {
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
@@ -6272,7 +6272,7 @@
         "licence": "mit",
         "published": "2026-09-09T17:47:04+00:00",
         "url": "https://huggingface.co/nvidia/DeepSeek-V4-Pro-0813-nvfp4-DSpark",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "nvidia/Qwen3.8-27B-NVFP4",
@@ -6281,7 +6281,7 @@
         "licence": "apache-2.0",
         "published": "2026-09-04T21:43:04+00:00",
         "url": "https://huggingface.co/nvidia/Qwen3.8-27B-NVFP4",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "nvidia/DeepSeek-V4-Pro-0813-NVFP4",
@@ -6290,7 +6290,7 @@
         "licence": "mit",
         "published": "2026-08-27T10:39:25+00:00",
         "url": "https://huggingface.co/nvidia/DeepSeek-V4-Pro-0813-NVFP4",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "allenai/Bwen-8B",
@@ -6335,7 +6335,7 @@
         "licence": "mit",
         "published": "2026-08-19T17:09:47+00:00",
         "url": "https://huggingface.co/nvidia/DeepSeek-V4-Flash-0731-NVFP4",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "ibm-granite/granite-4.2-8b-nvfp4",
@@ -6425,7 +6425,7 @@
         "licence": "mit",
         "published": "2026-08-13T03:05:06+00:00",
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "ibm-granite/granite-4.2-30b",
@@ -6437,19 +6437,11 @@
         "source_status": "STALE"
       }
     ],
-    "checked_at": "2026-10-14T08:20:38.291622+00:00",
+    "checked_at": "2026-10-14T08:25:41.171486+00:00",
     "status": "PARTIAL",
     "errors": [
       {
-        "publisher": "deepseek-ai",
-        "reason": "HTTPError"
-      },
-      {
         "publisher": "mistralai",
-        "reason": "HTTPError"
-      },
-      {
-        "publisher": "HuggingFaceTB",
         "reason": "HTTPError"
       },
       {
@@ -6461,15 +6453,7 @@
         "reason": "HTTPError"
       },
       {
-        "publisher": "moonshotai",
-        "reason": "HTTPError"
-      },
-      {
         "publisher": "ibm-granite",
-        "reason": "HTTPError"
-      },
-      {
-        "publisher": "zai-org",
         "reason": "HTTPError"
       },
       {
@@ -6478,10 +6462,6 @@
       },
       {
         "publisher": "openai",
-        "reason": "HTTPError"
-      },
-      {
-        "publisher": "nvidia",
         "reason": "HTTPError"
       },
       {
