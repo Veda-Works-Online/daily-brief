@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T21:18:35.204044+00:00",
+  "updated": "2026-10-14T21:23:31.333351+00:00",
   "items": [
+    {
+      "title": "\"Programming is hard\": Epic Games leans on \"vibe coding\" for its new Launcher app",
+      "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app",
+      "source": "Ars Technica AI",
+      "published": "2026-10-14T21:15:56+00:00",
+      "retrieved_at": "2026-10-14T21:23:26.920060+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cf13d427dff308d493b81f98"
+    },
     {
       "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
       "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "becf887690f98fae920b8e98"
-    },
-    {
-      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai",
-      "source": "TechCrunch",
-      "published": "2026-10-05T18:07:07+00:00",
-      "retrieved_at": "2026-10-05T18:46:47.519703+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "63b37ed8b3a130e553366d2b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T21:18:28.895154+00:00",
+    "checked_at": "2026-10-14T21:23:26.072869+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
