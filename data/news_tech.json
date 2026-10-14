@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T16:08:01.636179+00:00",
+  "updated": "2026-10-14T16:12:58.743810+00:00",
   "items": [
+    {
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "source": "Hugging Face",
+      "published": "2026-10-14T16:12:42+00:00",
+      "retrieved_at": "2026-10-14T16:12:54.280726+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "1b48718a6947e579611861f5"
+    },
     {
       "title": "Deezer will soon let you filter out AI-generated music",
       "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1514ed994b2ed4cb01193aa6"
-    },
-    {
-      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T12:00:00+00:00",
-      "retrieved_at": "2026-10-05T13:10:42.612081+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c903df679146b066796774ae"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T16:07:53.332463+00:00",
+    "checked_at": "2026-10-14T16:12:52.638941+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
