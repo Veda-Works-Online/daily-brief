@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-14T09:36:41.598163+00:00",
+  "updated": "2026-10-14T09:46:30.530910+00:00",
   "items": [
+    {
+      "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
+      "url": "https://bbc.co.uk/news/articles/cm2d6e62p49do",
+      "source": "BBC World",
+      "published": "2026-10-14T09:42:08+00:00",
+      "retrieved_at": "2026-10-14T09:46:27.527116+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Critical energy infrastructure is hit, as Ukraine says speed restrictions of Elon Musk's Starlink are disrupting battlefield missions.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5b2dbd1ab30cc7dcad3a44af"
+    },
     {
       "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
       "url": "https://bbc.co.uk/news/articles/cw99zpmnxzmjo",
@@ -144,22 +160,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1b27bcf7b1b2d93e823cdb1d"
-    },
-    {
-      "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
-      "url": "https://bbc.co.uk/news/articles/cm2d6e62p49do",
-      "source": "BBC World",
-      "published": "2026-10-14T07:21:50+00:00",
-      "retrieved_at": "2026-10-14T08:21:07.548625+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine's president says \"critical\" infrastructure was hit overnight, while emergency services say at least three were killed.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9ef8c2eb38c4f462f2b6c2ff"
     },
     {
       "title": "‘Massive’ Russian attack on Ukraine kills at least six, damages power sites",
