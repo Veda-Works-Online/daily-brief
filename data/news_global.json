@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-14T15:23:07.119917+00:00",
+  "updated": "2026-10-14T15:43:06.398314+00:00",
   "items": [
+    {
+      "title": "Judge extends White House access for US media outlets amid Trump standoff",
+      "url": "https://aljazeera.com/news/2026/10/14/us-judge-extends-white-house-access-for-media-outlets-amid-trump-standoff",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T15:15:58+00:00",
+      "retrieved_at": "2026-10-14T15:43:01.070028+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "CNN, MS Now and Politico can continue to access White House as judge maintains Trump's ban likely illegal.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5256f70845b66284e7320322"
+    },
     {
       "title": "Renewed fighting risks ‘humanitarian catastrophe’ in Yemen, aid groups warn",
       "url": "https://aljazeera.com/news/2026/10/14/renewed-fighting-risks-humanitarian-catastrophe-in-yemen-aid-groups-warn",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ad0712bbc584c411de61cfc5"
-    },
-    {
-      "title": "Trump slams Norway for not awarding him Nobel Peace Prize",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/10/trump-slams-norway-for-not-awarding-him-nobel-peace-prize",
-      "source": "Al Jazeera",
-      "published": "2026-10-10T06:47:10+00:00",
-      "retrieved_at": "2026-10-10T07:17:22.486052+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump slams Norway for not awarding him Nobel Peace Prize",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "127664cc2cf6c5be967dfd7e"
     }
   ],
   "unverified_history": [
