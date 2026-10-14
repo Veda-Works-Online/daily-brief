@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T09:46:30.530910+00:00",
+  "updated": "2026-10-14T10:11:34.903189+00:00",
   "items": [
     {
       "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5b2dbd1ab30cc7dcad3a44af"
+    },
+    {
+      "title": "Girl rescued from flaming apartment after Israeli attack on Gaza",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/14/girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T09:40:20+00:00",
+      "retrieved_at": "2026-10-14T10:11:31.994043+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Civilians rushed to rescue a girl trapped in a burning apartment after an Israeli attack struck a building in Gaza City.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6db4204b75d0c6702e687f48"
     },
     {
       "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a7c85c41b113651e786e1175"
-    },
-    {
-      "title": "Katie Zacharia selected to be next White House press secretary",
-      "url": "https://aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T18:49:24+00:00",
-      "retrieved_at": "2026-10-09T21:11:05.734043+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US President Donald Trump called the conservative commentator 'a devoted fan'.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "02f31a17389196f68367f77f"
     }
   ],
   "unverified_history": [
