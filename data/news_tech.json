@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T07:31:15.537355+00:00",
+  "updated": "2026-10-14T07:35:41.178523+00:00",
   "items": [
     {
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
@@ -6263,7 +6263,7 @@
         "licence": "apache-2.0",
         "published": "2026-09-10T23:36:30+00:00",
         "url": "https://huggingface.co/allenai/AstaBrief_8B_SFT",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "nvidia/DeepSeek-V4-Pro-0813-nvfp4-DSpark",
@@ -6272,7 +6272,7 @@
         "licence": "mit",
         "published": "2026-09-09T17:47:04+00:00",
         "url": "https://huggingface.co/nvidia/DeepSeek-V4-Pro-0813-nvfp4-DSpark",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "nvidia/Qwen3.8-27B-NVFP4",
@@ -6281,7 +6281,7 @@
         "licence": "apache-2.0",
         "published": "2026-09-04T21:43:04+00:00",
         "url": "https://huggingface.co/nvidia/Qwen3.8-27B-NVFP4",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "nvidia/DeepSeek-V4-Pro-0813-NVFP4",
@@ -6290,7 +6290,7 @@
         "licence": "mit",
         "published": "2026-08-27T10:39:25+00:00",
         "url": "https://huggingface.co/nvidia/DeepSeek-V4-Pro-0813-NVFP4",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "allenai/Bwen-8B",
@@ -6299,7 +6299,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-26T13:21:04+00:00",
         "url": "https://huggingface.co/allenai/Bwen-8B",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "allenai/Bwen-8B-Stage1",
@@ -6308,7 +6308,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-26T13:18:26+00:00",
         "url": "https://huggingface.co/allenai/Bwen-8B-Stage1",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "allenai/Bolmo-1B-Stage1",
@@ -6317,7 +6317,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-26T13:16:56+00:00",
         "url": "https://huggingface.co/allenai/Bolmo-1B-Stage1",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "allenai/Bolmo-7B-Stage1",
@@ -6326,7 +6326,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-26T13:12:59+00:00",
         "url": "https://huggingface.co/allenai/Bolmo-7B-Stage1",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "nvidia/DeepSeek-V4-Flash-0731-NVFP4",
@@ -6335,7 +6335,7 @@
         "licence": "mit",
         "published": "2026-08-19T17:09:47+00:00",
         "url": "https://huggingface.co/nvidia/DeepSeek-V4-Flash-0731-NVFP4",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "ibm-granite/granite-4.2-8b-nvfp4",
@@ -6344,7 +6344,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:05:48+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-8b-nvfp4",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "ibm-granite/granite-4.2-8b-mxfp4",
@@ -6353,7 +6353,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:05:29+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-8b-mxfp4",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "ibm-granite/granite-4.2-8b-fp8",
@@ -6362,7 +6362,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:05:07+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-8b-fp8",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "ibm-granite/granite-4.2-3b-nvfp4",
@@ -6371,7 +6371,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:04:44+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-3b-nvfp4",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "ibm-granite/granite-4.2-3b-mxfp4",
@@ -6380,7 +6380,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:04:23+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-3b-mxfp4",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "ibm-granite/granite-4.2-3b-fp8",
@@ -6389,7 +6389,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:03:50+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-3b-fp8",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "ibm-granite/granite-4.2-30b-nvfp4",
@@ -6398,7 +6398,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:03:19+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-nvfp4",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "ibm-granite/granite-4.2-30b-mxfp4",
@@ -6407,7 +6407,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:02:51+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-mxfp4",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "ibm-granite/granite-4.2-30b-fp8",
@@ -6416,7 +6416,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:02:02+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-fp8",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
@@ -6425,7 +6425,7 @@
         "licence": "mit",
         "published": "2026-08-13T03:05:06+00:00",
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       },
       {
         "id": "ibm-granite/granite-4.2-30b",
@@ -6434,12 +6434,69 @@
         "licence": "apache-2.0",
         "published": "2026-08-07T16:29:50+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-30b",
-        "source_status": "CURRENT"
+        "source_status": "STALE"
       }
     ],
-    "checked_at": "2026-10-14T07:30:52.867159+00:00",
-    "status": "CURRENT",
-    "errors": [],
+    "checked_at": "2026-10-14T07:35:25.230628+00:00",
+    "status": "STALE",
+    "errors": [
+      {
+        "publisher": "Qwen",
+        "reason": "ReadTimeout"
+      },
+      {
+        "publisher": "deepseek-ai",
+        "reason": "ReadTimeout"
+      },
+      {
+        "publisher": "mistralai",
+        "reason": "ReadTimeout"
+      },
+      {
+        "publisher": "allenai",
+        "reason": "ReadTimeout"
+      },
+      {
+        "publisher": "HuggingFaceTB",
+        "reason": "HTTPError"
+      },
+      {
+        "publisher": "HuggingFaceH4",
+        "reason": "HTTPError"
+      },
+      {
+        "publisher": "microsoft",
+        "reason": "HTTPError"
+      },
+      {
+        "publisher": "moonshotai",
+        "reason": "HTTPError"
+      },
+      {
+        "publisher": "ibm-granite",
+        "reason": "HTTPError"
+      },
+      {
+        "publisher": "zai-org",
+        "reason": "HTTPError"
+      },
+      {
+        "publisher": "MiniMaxAI",
+        "reason": "HTTPError"
+      },
+      {
+        "publisher": "openai",
+        "reason": "HTTPError"
+      },
+      {
+        "publisher": "nvidia",
+        "reason": "HTTPError"
+      },
+      {
+        "publisher": "tiiuae",
+        "reason": "HTTPError"
+      }
+    ],
     "publishers": [
       "Qwen",
       "deepseek-ai",
