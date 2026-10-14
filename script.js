@@ -163,17 +163,31 @@ function staleQuote(row, field) {
   const maxAge = (meta?.max_quote_age_seconds ?? row.quote_policy?.max_quote_age_seconds ?? (row.market_status === 'OPEN' ? 1800 : 7 * 86400)) * 1000;
   return !Number.isFinite(age) || age < -120000 || age > maxAge;
 }
+function lastTradeEvidence(row, field) {
+  const activity = row.quote_activity;
+  const meta = row.field_metadata?.[field];
+  if (activity?.kind !== 'MATCHING_LAST_REPORTED_TRADE' || meta?.source !== 'Google Finance'
+      || meta.source_timestamp !== activity.last_trade_timestamp || row.market_status !== 'OPEN') return null;
+  const age = Date.now() - Date.parse(activity.checked_at);
+  if (!Number.isFinite(age) || age < -120000 || age > 600000) return null;
+  try {
+    const today = new Intl.DateTimeFormat('en-CA', {timeZone:row.market_timezone,year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+    if (activity.trading_date !== today) return null;
+  } catch { return null; }
+  return activity;
+}
 function marketRefreshCounts(data) {
-  let stale_count = 0, unavailable_count = 0;
+  let stale_count = 0, unavailable_count = 0, old_last_trade_count = 0;
   for (const [region, rows] of Object.entries(data.regions || {})) {
     for (const row of rows) {
       const fields = displayedMarketFields(region, row);
       if (staleQuote(row) || fields.some(field => staleQuote(row, field))) stale_count++;
+      if (fields.some(field => staleQuote(row, field) && lastTradeEvidence(row, field))) old_last_trade_count++;
       if (row.validation_status === 'DATA_UNAVAILABLE' || fields.some(field =>
         row[field] === null || row[field] === undefined || row.field_metadata?.[field]?.validation_status === 'DATA_UNAVAILABLE')) unavailable_count++;
     }
   }
-  return {stale_count, unavailable_count};
+  return {stale_count, unavailable_count, old_last_trade_count};
 }
 function quoteStatus(row) {
   const ts = row.source_timestamp;
@@ -269,13 +283,20 @@ function stockFieldLabel(row, field) {
   const date = session?.date;
   const zone = session?.timezone || row.market_timezone;
   const stale = staleQuote(row, field);
+  const activity = stale ? lastTradeEvidence(row, field) : null;
   const status = stale ? 'STALE' : meta.validation_status === 'INDICATIVE' || meta.quality === 'INDICATIVE' ? 'INDICATIVE' : 'VERIFIED';
-  const parts = [stale ? 'STALE' : date ? 'Within freshness limit' : 'Observation within freshness limit', status === 'STALE' ? '' : status,
+  const parts = [stale ? activity ? 'OLDER LAST-TRADE QUOTE' : 'STALE' : date ? 'Within freshness limit' : 'Observation within freshness limit', status === 'STALE' ? '' : status,
     date ? 'Session ' + date + ' (' + zone + ')' : 'Session unconfirmed'].filter(Boolean);
   const ts = session?.timestamp;
   if (ts) parts.push((field === 'marketCap' ? 'Valuation quote ' : 'Quote ') + quoteTime(ts, row.display_timezone));
   else if (meta?.source_timestamp) parts.push('Provider observation ' + quoteTime(meta.source_timestamp, row.display_timezone));
   if (field === 'marketCap') parts.push('Cap-specific time unavailable');
+  if (activity) {
+    const ageMinutes = Math.max(0, Math.floor((Date.now() - Date.parse(activity.last_trade_timestamp)) / 60000));
+    parts.push('Last reported trade ' + ageMinutes + 'm old',
+      'Sources checked ' + quoteTime(activity.checked_at, row.display_timezone),
+      'Google / Yahoo agree on last reported trade');
+  }
   if (field === 'marketCap' && row.stock_reference_policy === 'GOOGLE_FINANCE_V1'
       && row.nativeMarketCap !== null && row.nativeMarketCap !== undefined && row.quote_currency !== row.currency) {
     parts.push('Google cap ' + fmtMarketCap(row.nativeMarketCap, row.quote_currency) + ' · USD conversion');
@@ -562,7 +583,7 @@ function refreshStatus(data) {
   const delayed = !Number.isFinite(age) || age > 600000;
   const counts = data?.regions ? marketRefreshCounts(data) : data?.refresh;
   return (delayed ? 'UPDATE DELAYED · ' : '') + 'Sources checked ' + quoteTime(ts) +
-    (counts ? ' · ' + counts.stale_count + ' stale / ' + counts.unavailable_count + ' unavailable' : '');
+    (counts ? ' · ' + counts.stale_count + ' stale' + (counts.old_last_trade_count ? ' (' + counts.old_last_trade_count + ' older last-trade quote)' : '') + ' / ' + counts.unavailable_count + ' unavailable' : '');
 }
 function setUpdated(data) {
   document.getElementById('updated').textContent = refreshStatus(data);
@@ -610,5 +631,6 @@ document.addEventListener('visibilitychange', () => {
   if (!document.hidden) refreshData();
 });
 if (window.innerWidth >= 820) body.classList.add('menu-open');
+
 
 

@@ -1125,6 +1125,36 @@ def google_equity_reference(row, previous, symbol, quote, identity, now):
     out['field_metadata']['marketCapUSD'] = (deepcopy(out['field_metadata']['marketCap'])
         if out['currency'] == 'USD' else {'validation_status':'DATA_UNAVAILABLE', 'reason':'NATIVE_CURRENCY'})
     out['stock_reference_policy'] = 'GOOGLE_FINANCE_V1'
+    out.pop('quote_activity', None)
+    # An old last-trade timestamp is not itself evidence that refresh failed.
+    # Record recent agreement on the SAME regular quote without upgrading the
+    # quote's age/status or inventing a new trade time.
+    try:
+        google_time = timestamp(quote['timestamp'])
+        yahoo_time = timestamp(identity['regularMarketTime'])
+        google_checked, yahoo_checked = timestamp(quote['retrieved_at']), timestamp(identity['_retrieved_at'])
+        zone = ZoneInfo(out['market_timezone'])
+        age = (now-google_time).total_seconds()
+        if (out['market_status'] == 'OPEN' and identity.get('symbol') == symbol
+                and identity.get('quoteType') == 'EQUITY'
+                and EXCHANGES.get(identity.get('exchange')) == quote['exchange']
+                and identity.get('currency') == quote['currency']
+                and issuer_matches(out['name'], identity.get('longName') or identity.get('shortName',''), symbol)
+                and all(-120 <= (now-t).total_seconds() <= 300 for t in (google_checked,yahoo_checked))
+                and abs((google_time-yahoo_time).total_seconds()) <= 1
+                and google_time.astimezone(zone).date() == now.astimezone(zone).date()
+                and age > out['quote_policy']['max_quote_age_seconds']
+                and out['source_timestamp'] == quote['timestamp']
+                and decimal(out['indexValue']) == decimal(quote['price']) == decimal(identity['regularMarketPrice'])
+                and decimal(quote['previousClose']) == decimal(identity['regularMarketPreviousClose'])):
+            out['quote_activity'] = dict(kind='MATCHING_LAST_REPORTED_TRADE',
+                last_trade_timestamp=quote['timestamp'], checked_at=min(google_checked,yahoo_checked).isoformat(),
+                trading_date=google_time.astimezone(zone).date().isoformat(),
+                sources=['Google Finance','Yahoo Finance'], price=quote['price'],
+                previous_close=quote['previousClose'], reported_volume=identity.get('regularMarketVolume'),
+                scope='Sources recently returned the same last reported regular-session trade; no claim of a newer trade or independent underlying feeds')
+    except (ValueError, KeyError, TypeError, OverflowError):
+        pass
     return out
 
 
@@ -1340,5 +1370,6 @@ def refresh_markets(payload):
     else:
         output['updated'] = now_iso()
     return output, attempts
+
 
 
