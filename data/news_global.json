@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-14T13:02:09.255328+00:00",
+  "updated": "2026-10-14T13:31:40.892201+00:00",
   "items": [
+    {
+      "title": "Russia arrests Japanese journalist on suspicion of ‘espionage’",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/14/russia-arrests-japanese-journalist-on-suspicion-of",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T13:22:46+00:00",
+      "retrieved_at": "2026-10-14T13:31:37.510802+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A Japanese journalist has been detained in Russia on suspicion of spying for Japanese intelligence.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "46314122c2ce6ddd4617622d"
+    },
+    {
+      "title": "Iran targets Starlink as ‘tool of war’ with hints of more internet curbs",
+      "url": "https://aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T13:17:34+00:00",
+      "retrieved_at": "2026-10-14T13:31:37.510835+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "One official claims satellite internet could erode online governance in Iran amid war with the US and Israel.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "77e22c5bef46abc2fb77f285"
+    },
     {
       "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
       "url": "https://bbc.co.uk/news/articles/cq98z59xdny5o",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3dd0cda81036e1899ac376cb"
-    },
-    {
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "url": "https://bbc.co.uk/news/articles/cm1dwgr666wno",
-      "source": "BBC World",
-      "published": "2026-10-10T00:19:26+00:00",
-      "retrieved_at": "2026-10-10T00:21:52.382988+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "22686f47890a8741342b24a5"
-    },
-    {
-      "title": "Iran war live: Trump vows to quickly ‘settle or win’ Iran and Ukraine wars",
-      "url": "https://aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal",
-      "source": "Al Jazeera",
-      "published": "2026-10-10T00:00:00+00:00",
-      "retrieved_at": "2026-10-10T04:31:50.642040+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump says that he expects to soon “settle or win” the conflicts involving Iran and Russia-Ukraine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f5f1f92721f598ea2e4d9df4"
     }
   ],
   "unverified_history": [
