@@ -62,6 +62,20 @@ class IndianGoogleCapTests(unittest.TestCase):
         self.assertEqual(out['marketCap'], Decimal('309650000000'))
         self.assertNotIn('bse_reference', out['field_metadata']['marketCap'])
 
+    def test_closed_session_cap_not_rejected_by_next_morning_provider_time(self):
+        self.now = datetime(2026,10,13,3,40,tzinfo=timezone.utc)
+        self.identity['_retrieved_at'] = self.now.isoformat()
+        self.quote['retrieved_at'] = self.now.isoformat()
+        self.row['source_timestamp'] = '2026-10-13T03:39:34+00:00'
+        self.row['field_metadata']['indexValue'] = {
+            'trading_session': {'date':'2026-10-12'}}
+        out = self.apply()
+        self.assertEqual(out['field_metadata']['marketCap']['validation_status'], 'INDICATIVE')
+        self.assertEqual(out['field_metadata']['marketCap']['source_timestamp'], '2026-10-12T10:00:00+00:00')
+        self.row['field_metadata']['indexValue']['trading_session']['date'] = '2026-10-13'
+        with self.assertRaisesRegex(ValueError, 'OLDER_SESSION'):
+            self.apply()
+
     def test_failures_never_publish_bse_or_yahoo_caps(self):
         out = m.indian_cap_unavailable(self.row, self.row, 'GOOGLE_UNAVAILABLE', self.now)
         self.assertIsNone(out['marketCap'])
@@ -98,3 +112,4 @@ class IndianGoogleCapTests(unittest.TestCase):
         with patch.object(m.requests, 'get', return_value=response), \
                 patch.object(m, 'parse_google', side_effect=[old, older]):
             self.assertEqual(m.fetch_google('ATGL:NSE')['timestamp'], old['timestamp'])
+

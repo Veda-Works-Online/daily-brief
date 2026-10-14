@@ -156,8 +156,8 @@ function displayedMarketFields(region, row) {
 }
 function staleQuote(row, field) {
   const meta = field ? row.field_metadata?.[field] : null;
-  if (row.validation_status === 'STALE' || meta?.validation_status === 'STALE') return true;
-  const ts = meta?.source_timestamp || row.source_timestamp;
+  if (meta ? meta.validation_status === 'STALE' : row.validation_status === 'STALE') return true;
+  const ts = meta?.trading_session?.timestamp || meta?.source_timestamp || row.source_timestamp;
   if (!ts) return false;
   const age = Date.now() - new Date(ts).getTime();
   const maxAge = (meta?.max_quote_age_seconds ?? row.quote_policy?.max_quote_age_seconds ?? (row.market_status === 'OPEN' ? 1800 : 7 * 86400)) * 1000;
@@ -262,6 +262,25 @@ function marketReference(row, field, usdInr = null) {
   return [...new Set(sources.filter(Boolean))].join(' / ') || 'No available source';
 }
 
+function stockFieldLabel(row, field) {
+  const meta = row.field_metadata?.[field];
+  if (!canDisplay(row, field)) return '<br><small>DATA UNAVAILABLE · Session unconfirmed</small>';
+  const session = meta?.trading_session;
+  const date = session?.date;
+  const zone = session?.timezone || row.market_timezone;
+  const stale = staleQuote(row, field);
+  const status = stale ? 'STALE' : meta.validation_status === 'INDICATIVE' || meta.quality === 'INDICATIVE' ? 'INDICATIVE' : 'VERIFIED';
+  const parts = [stale ? 'STALE' : date ? 'Within freshness limit' : 'Observation within freshness limit', status === 'STALE' ? '' : status,
+    date ? 'Session ' + date + ' (' + zone + ')' : 'Session unconfirmed'].filter(Boolean);
+  const ts = session?.timestamp;
+  if (ts) parts.push((field === 'marketCap' ? 'Valuation quote ' : 'Quote ') + quoteTime(ts, row.display_timezone));
+  else if (meta?.source_timestamp) parts.push('Provider observation ' + quoteTime(meta.source_timestamp, row.display_timezone));
+  if (field === 'marketCap') parts.push('Cap-specific time unavailable');
+  if (meta?.fx_source_timestamp) parts.push('FX ' + (row.fxValidation || meta.validation_status) + ' · ' + quoteTime(meta.fx_source_timestamp, row.display_timezone));
+  if (meta?.source) parts.push(meta.source);
+  return '<br><small class="market-field-status" title="' + escapeHtml(session?.basis || 'No session evidence saved') + '">' + escapeHtml(parts.join(' · ')) + '</small>';
+}
+
 function renderStocksTable(stocks, region, usdInr = null) {
   if (!stocks || !stocks.length) {
     return '<p class="muted" style="padding:20px;">No data — run the GitHub Action to populate this.</p>';
@@ -269,6 +288,7 @@ function renderStocksTable(stocks, region, usdInr = null) {
   const isIndexes = region === 'indexes';
   const isCommodities = region === 'commodities';
   const isCurrency = region === 'currency';
+  const isEquity = ['us', 'asia', 'india'].includes(region);
   const hero = isCurrency ? fxHeroHtml(stocks) : '';
   const sorted = isCurrency ? stocks.slice() : stocks.slice().sort((a, b) =>
     (a.sortName || a.name || '').localeCompare(b.sortName || b.name || '', undefined, { sensitivity: 'base' })
@@ -297,12 +317,12 @@ function renderStocksTable(stocks, region, usdInr = null) {
         ? fmtIndexValue(s.indexValue, exactValue(s, 'indexValue'))
         : fmtMarketCap(s.marketCap, s.currency);
     return `<tr>
-      <td><strong>${escapeHtml(isCommodities && s.ticker === 'ZS=F' ? 'Soyabeans' : s.name)}</strong>${listing}${'<br><small>' + escapeHtml(quoteStatus(s)) + '</small>'}</td>
-      <td class="muted" title="${escapeHtml(quoteStatus(s))}">${s.ticker === 'GOLD_24K_HYDERABAD' ? '<a href="' + escapeHtml(s.source === 'Economic Times' ? 'https://economictimes.indiatimes.com/goldrate/city-hyderabad,msid-88971989.cms' : 'https://groww.in/gold-rates/gold-rate-today-in-hyderabad') + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(s.source || 'Groww') + '</a>' : escapeHtml(marketReference(s, field, isCommodities ? usdInr : null))}</td>
+      <td><strong>${escapeHtml(isCommodities && s.ticker === 'ZS=F' ? 'Soyabeans' : s.name)}</strong>${listing}${'<br><small>' + escapeHtml(isEquity ? (s.market_status || 'UNKNOWN') + ' · Field sessions shown beside each value' : quoteStatus(s)) + '</small>'}</td>
+      <td class="muted" title="${escapeHtml(isEquity ? 'Sources for the independently dated fields' : quoteStatus(s))}">${s.ticker === 'GOLD_24K_HYDERABAD' ? '<a href="' + escapeHtml(s.source === 'Economic Times' ? 'https://economictimes.indiatimes.com/goldrate/city-hyderabad,msid-88971989.cms' : 'https://groww.in/gold-rates/gold-rate-today-in-hyderabad') + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(s.source || 'Groww') + '</a>' : escapeHtml(marketReference(s, field, isCommodities ? usdInr : null))}</td>
       <td class="muted">${escapeHtml(s.sector || '')}</td>
       ${isCommodities ? '<td title="' + escapeHtml(commodity.quantityTitle) + '">' + escapeHtml(commodity.quantity) + '</td>' : ''}
-      <td class="num" title="${escapeHtml(isCommodities ? commodity.title + ' · ' + commodity.note : field === 'marketCap' ? capDetails : exactValue(s, field) || 'DATA UNAVAILABLE')}">${value}${isCommodities ? '<br><small>' + escapeHtml(commodity.note) + '</small>' : field === 'marketCap' ? '' : fieldStatus(s, field)}</td>
-      <td class="num">${canDisplay(s, 'changePercent') ? fmtGainLossPercent(s.changePercent, exactValue(s, 'changePercent')) : 'DATA UNAVAILABLE'}</td>
+      <td class="num" title="${escapeHtml(isCommodities ? commodity.title + ' · ' + commodity.note : field === 'marketCap' ? capDetails : exactValue(s, field) || 'DATA UNAVAILABLE')}">${value}${isEquity ? stockFieldLabel(s, field) : isCommodities ? '<br><small>' + escapeHtml(commodity.note) + '</small>' : fieldStatus(s, field)}</td>
+      <td class="num">${canDisplay(s, 'changePercent') ? fmtGainLossPercent(s.changePercent, exactValue(s, 'changePercent')) : 'DATA UNAVAILABLE'}${isEquity ? stockFieldLabel(s, 'changePercent') : ''}</td>
     </tr>`;
   }).join('');
   const regionalClock = REGION_TIMEZONES[region] ? '<p class="muted">' +
@@ -585,3 +605,4 @@ document.addEventListener('visibilitychange', () => {
   if (!document.hidden) refreshData();
 });
 if (window.innerWidth >= 820) body.classList.add('menu-open');
+

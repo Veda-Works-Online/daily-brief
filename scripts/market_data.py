@@ -20,6 +20,7 @@ import exchange_calendars as calendars
 import pandas as pd
 from local_gold import GOLD_ID, refresh_gold
 from market_timezones import apply_region_timezones
+from trading_sessions import annotate_sessions
 from free_sources import fetch_shenzhen, fetch_tsm, fetch_nasdaq_cap
 from samsung_cap import fetch_share_counts, freshest_company_cap, cap_unavailable
 from exchange_caps import retain_primary_cap
@@ -995,7 +996,10 @@ def indian_google_cap(row, previous, symbol, quote, identity, now):
     ts = timestamp(quote['timestamp'])
     if not -120 <= (now-ts).total_seconds() <= limit:
         raise ValueError('INDIA_CAP_QUOTE_STALE')
-    if row.get('source_timestamp') and ts.astimezone(ZoneInfo('Asia/Kolkata')).date() < timestamp(row['source_timestamp']).astimezone(ZoneInfo('Asia/Kolkata')).date():
+    price_session = row.get('field_metadata', {}).get('indexValue', {}).get('trading_session', {}).get('date')
+    comparison_date = (datetime.fromisoformat(price_session).date() if price_session else
+                       timestamp(row['source_timestamp']).astimezone(ZoneInfo('Asia/Kolkata')).date() if row.get('source_timestamp') else None)
+    if comparison_date and ts.astimezone(ZoneInfo('Asia/Kolkata')).date() < comparison_date:
         raise ValueError('INDIA_CAP_OLDER_SESSION')
     cap, price = decimal(quote['marketCap']), decimal(quote['price'])
     if min(cap, price) <= 0:
@@ -1167,6 +1171,12 @@ def refresh_markets(payload):
                 result['field_metadata']['marketCapUSD'] = deepcopy(meta)
         result = prevent_quote_regression(row, result)
         if symbol.endswith('.NS'):
+            session_quote = secondary.get(symbol, {})
+            try:
+                google_observation(result, symbol, session_quote, identity(symbol), datetime.now(timezone.utc))
+            except (ValueError, KeyError, TypeError, OverflowError):
+                session_quote = None
+            annotate_sessions(result, session_quote, datetime.now(timezone.utc))
             try:
                 result = indian_google_cap(result, row, symbol, secondary.get(symbol, {}),
                     identity(symbol), datetime.now(timezone.utc))
@@ -1215,6 +1225,17 @@ def refresh_markets(payload):
                     current['currency'] = 'USD'
                     current['field_metadata']['marketCap'] = dict(old, validation_status='STALE', reason='NEW_FX_OR_CAP_UNCONFIRMED')
                     current['last_verified_fx_metadata'] = previous.get('fx_metadata')
+    for region in ('us', 'asia', 'india'):
+        for row in output['regions'].get(region, []):
+            symbol = row.get('source_symbol') or ('BHARTIARTL.NS' if row['ticker'] == 'BHARTIARTL' else row['ticker'])
+            google = secondary.get(symbol, {})
+            try:
+                # Reuse security, exchange, currency and timestamp validation;
+                # a merely matching price from an unrelated page is insufficient.
+                google_observation(row, symbol, google, identity(symbol), now)
+            except (ValueError, KeyError, TypeError, OverflowError):
+                google = None
+            annotate_sessions(row, google, now)
     apply_region_timezones(output)
     # Retrieval times are execution evidence, not a reason for a Git commit.
     def stable(value):
@@ -1226,3 +1247,4 @@ def refresh_markets(payload):
     else:
         output['updated'] = now_iso()
     return output, attempts
+

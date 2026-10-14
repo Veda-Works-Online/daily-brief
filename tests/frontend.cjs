@@ -25,7 +25,9 @@ for (const [zone, instant, expected] of [
 assert.equal(ctx.quoteTime(null), 'Unknown quote time');
 assert.equal(ctx.quoteTime('invalid'), 'Unknown quote time');
 for (const [region, suffix] of [['us','EST'], ['india','IST'], ['asia','GMT+8']]) {
-  const markup = ctx.renderStocksTable([{name:'Regional',ticker:'X',source_timestamp:'2026-01-15T20:00:00Z'}], region);
+  const markup = ctx.renderStocksTable([{name:'Regional',ticker:'X',source_timestamp:'2026-01-15T20:00:00Z',
+    verification_version:1,validation_status:'VERIFIED',marketCap:1,
+    field_metadata:{marketCap:{validation_status:'VERIFIED',decimal:'1',source_timestamp:'2026-01-15T20:00:00Z'}}}], region);
   assert(markup.includes(suffix));
   assert(markup.includes('Source refresh target: 5 minutes'));
 }
@@ -155,7 +157,7 @@ ctx.window = {location: {hostname: 'veda-works-online.github.io'}};
 assert.equal(ctx.dataURL('data/stocks.json'), 'https://raw.githubusercontent.com/Veda-Works-Online/daily-brief/main/data/stocks.json');
 ctx.window.location.hostname = 'localhost';
 assert.equal(ctx.dataURL('data/stocks.json'), 'data/stocks.json');
-// Commodity status stays visible; market-cap cells show only their value.
+// Commodity status stays visible; stock values now have field-level session labels.
 ctx.staleCommodity = {...ctx.gold, validation_status:'STALE', source_timestamp:'2026-09-17T00:00:00Z'};
 assert(vm.runInContext("renderStocksTable([staleCommodity], 'commodities', inr)",ctx).includes('<small>STALE'));
 const capHtml = vm.runInContext("renderStocksTable([fieldRow], 'us')",ctx);
@@ -167,6 +169,31 @@ ctx.adr = {name:'TSMC',ticker:'TSM',marketCap:2090000000000,indexValue:485.8,
     indexValue:{validation_status:'VERIFIED',decimal:'485.8'}}};
 const adrHtml = ctx.renderStocksTable([ctx.adr], 'asia');
 assert(adrHtml.includes('US-listed ADR · USD quote'));
+const sessionStock = {name:'Adani Enterprises', ticker:'ADANIENT.NS', currency:'INR',
+  verification_version:1, validation_status:'INDICATIVE', market_status:'CLOSED',
+  market_timezone:'Asia/Kolkata', marketCap:3110000000000, changePercent:2.471483,
+  source_timestamp:'2026-10-14T03:39:34Z', field_metadata:{
+    marketCap:{validation_status:'STALE',decimal:'3110000000000',source:'Google Finance',
+      source_timestamp:'2026-10-13T10:00:00Z',trading_session:{date:'2026-10-13',timezone:'Asia/Kolkata',timestamp:'2026-10-13T10:00:00Z'}},
+    changePercent:{validation_status:'INDICATIVE',decimal:'2.471483',source:'Yahoo Finance',
+      source_timestamp:'2026-10-14T03:39:34Z',trading_session:{date:'2026-10-13',timezone:'Asia/Kolkata',timestamp:'2026-10-13T10:00:00Z'}}}};
+const sessionHtml = ctx.renderStocksTable([sessionStock], 'india');
+assert.equal((sessionHtml.match(/Session 2026-10-13 \(Asia\/Kolkata\)/g)||[]).length, 2);
+assert(sessionHtml.includes('₹3.11 L Cr'));
+assert(sessionHtml.includes('+2.47%'));
+assert(sessionHtml.includes('STALE · Session'));
+assert(sessionHtml.includes('Cap-specific time unavailable'));
+assert(!sessionHtml.includes('14 Oct 2026, 09:09:34 IST'));
+const independent = {...sessionStock, validation_status:'STALE', field_metadata:{...sessionStock.field_metadata,
+  changePercent:{validation_status:'INDICATIVE', decimal:'2.471483',source:'Yahoo Finance',source_timestamp:new Date().toISOString()}}};
+assert(!ctx.staleQuote(independent, 'changePercent'));
+assert(ctx.stockFieldLabel(independent, 'changePercent').includes('Observation within freshness limit · INDICATIVE · Session unconfirmed'));
+assert(ctx.stockFieldLabel(independent, 'marketCap').includes('STALE'));
+independent.field_metadata.marketCap.fx_source_timestamp = '2026-10-13T10:00:00Z';
+independent.fxValidation = 'STALE';
+assert(ctx.stockFieldLabel(independent, 'marketCap').includes('FX STALE'));
+sessionStock.field_metadata.changePercent.validation_status='DATA_UNAVAILABLE';
+assert(ctx.stockFieldLabel(sessionStock, 'changePercent').includes('DATA UNAVAILABLE · Session unconfirmed'));
 for (const region of ['us', 'asia', 'india']) {
   const stockHtml = ctx.renderStocksTable([ctx.adr], region);
   assert(!stockHtml.includes('Share Price'));
@@ -182,7 +209,7 @@ assert.equal(ctx.newerSnapshot(olderSnapshot, currentSnapshot), currentSnapshot)
 assert.equal(ctx.newerSnapshot(null, currentSnapshot), currentSnapshot);
 ctx.fieldRow.fxValidation = 'STALE';
 ctx.fieldRow.field_metadata.marketCap.fx_source_timestamp = '2026-09-30T04:00:00Z';
-assert(!ctx.renderStocksTable([ctx.fieldRow], 'asia').includes('FX STALE'));
+assert(ctx.renderStocksTable([ctx.fieldRow], 'asia').includes('Session unconfirmed'));
 ctx.samsung = {...ctx.adr, name:'Samsung Electronics', ticker:'005930.KS',
   field_metadata:{marketCap:{validation_status:'INDICATIVE', shares_as_of:'2026-06-30', source:'Samsung IR + Google Finance'}}};
 assert(ctx.renderStocksTable([ctx.samsung], 'asia').includes('Company cap: common + preferred · estimate · shares as of 2026-06-30'));
@@ -211,3 +238,4 @@ assert(ctx.renderStocksTable([bseRow],'india').includes('BSE full company cap'))
 const nasdaqRow = {...freshRow,name:'Alphabet',field_metadata:{marketCap:{source:'Nasdaq',
   validation_status:'INDICATIVE',source_date:'2026-10-08'}}};
 assert(ctx.renderStocksTable([nasdaqRow],'us').includes('Nasdaq company cap'));
+

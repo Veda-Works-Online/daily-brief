@@ -233,3 +233,12 @@ body.menu-open main { margin-left: var(--sidebar-w); }
   font-weight: 500;
 }
 .news-card .read-more:hover { text-decoration: underline; }
+
+/* Keep field provenance readable beside each independently dated value. */
+.market-field-status {
+  display: inline-block;
+  max-width: 28rem;
+  white-space: normal;
+  line-height: 1.45;
+  font-weight: normal;
+}

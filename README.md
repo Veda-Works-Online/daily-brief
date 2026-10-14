@@ -44,11 +44,23 @@ when a hidden tab becomes visible. It does not wait for a Pages build for each
 data commit. Pages still publishes changes to the dashboard code. Local copies
 read their local data files.
 
+Market-cap and daily gain/loss cells now each show their own source-reported
+trading-session date in the listing exchange's time zone, quote time in the
+tab's display zone, and field-specific freshness/quality. A refresh or provider
+observation time is never presented as proof of a new trading session. For
+closed-market observations outside regular hours, a validated Google quote
+establishes the session only when both price and previous close match exactly;
+otherwise the session remains unconfirmed. Session dates are source evidence,
+not inferred holiday calendars. Original provider/retrieval timestamps remain
+unchanged. Market caps explicitly identify the lack of cap-specific timestamps;
+converted caps also expose FX freshness. A cap from the matching closed session
+is not rejected solely because a price provider reports a next-morning timestamp.
+
 The header shows the actual completed source-check time and warns after ten
 minutes without a refresh. Every tab displays quote timestamps and stale status;
-individual indicative/stale fields remain labelled; market-cap cells keep their
-value-only appearance and expose status, source, quote time and FX provenance in
-their tooltips. Daily gain/loss percentages round half up to two decimals while
+individual indicative/stale fields remain labelled; stock market-cap and daily
+change cells expose their session provenance visibly as well as in tooltips.
+Daily gain/loss percentages round half up to two decimals while
 the underlying source values remain unchanged. Equity tables identify BABA/TSM
 as US-listed ADRs.
 Source delays, market closures,
@@ -62,8 +74,8 @@ quote, label the retained snapshot stale, and record the rejected source time.
 The browser also retains its newer market snapshot if both endpoints lag.
 Daily changes on corroborated rows are calculated from the same Google price
 and previous close, with calculation inputs and timestamps in field metadata.
-Market-cap cells show only formatted values, and GAIN/LOSS% cells show only signed
-percentage values. Missing data remains explicitly unavailable. Verification, source-time and FX
+Market-cap cells show formatted values and GAIN/LOSS% cells show signed
+percentage values, each accompanied by session/freshness labels. Missing data remains explicitly unavailable. Verification, source-time and FX
 metadata remain in the data, and row-level quote status remains visible.
 If an edit advances main during publication, the worker discards only its own
 unpushed generated snapshot and fetches the latest branch before regenerating
@@ -128,3 +140,4 @@ per-run artifacts record free-source errors. Public endpoint availability is not
 a guarantee of real-time data. Market-cap cells retain their numeric formatting.
 
 Samsung class-price fallback: when the common quote uses Yahoo Finance, both explicitly identified KRX classes use Yahoo regular-session prices with the same freshness and timing checks. Market cap records its own class input timestamps; retained display prices are not substituted into the calculation.
+
