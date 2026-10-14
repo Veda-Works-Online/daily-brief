@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T08:06:16.622218+00:00",
+  "updated": "2026-10-14T08:21:12.760714+00:00",
   "items": [
     {
       "title": "Palestinians say Israel’s democracy ‘is a joke’",
@@ -48,6 +48,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1b27bcf7b1b2d93e823cdb1d"
+    },
+    {
+      "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
+      "url": "https://bbc.co.uk/news/articles/cm2d6e62p49do",
+      "source": "BBC World",
+      "published": "2026-10-14T07:21:50+00:00",
+      "retrieved_at": "2026-10-14T08:21:07.548625+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine's president says \"critical\" infrastructure was hit overnight, while emergency services say at least three were killed.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9ef8c2eb38c4f462f2b6c2ff"
     },
     {
       "title": "‘Massive’ Russian attack on Ukraine kills at least six, cuts power in Kyiv",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5cde665d93a255f26b627e1b"
-    },
-    {
-      "title": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T17:37:05+00:00",
-      "retrieved_at": "2026-10-09T18:10:20.004709+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A US charity announced it will use an AI-software to monitor Gaza classrooms for ‘anti-Semitism’ and ‘hate speech’.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2f591bda595092f8ede57173"
     }
   ],
   "unverified_history": [

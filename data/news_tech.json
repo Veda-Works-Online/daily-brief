@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T08:16:10.791649+00:00",
+  "updated": "2026-10-14T08:21:04.463392+00:00",
   "items": [
     {
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
@@ -6263,7 +6263,7 @@
         "licence": "apache-2.0",
         "published": "2026-09-10T23:36:30+00:00",
         "url": "https://huggingface.co/allenai/AstaBrief_8B_SFT",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "nvidia/DeepSeek-V4-Pro-0813-nvfp4-DSpark",
@@ -6299,7 +6299,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-26T13:21:04+00:00",
         "url": "https://huggingface.co/allenai/Bwen-8B",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "allenai/Bwen-8B-Stage1",
@@ -6308,7 +6308,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-26T13:18:26+00:00",
         "url": "https://huggingface.co/allenai/Bwen-8B-Stage1",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "allenai/Bolmo-1B-Stage1",
@@ -6317,7 +6317,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-26T13:16:56+00:00",
         "url": "https://huggingface.co/allenai/Bolmo-1B-Stage1",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "allenai/Bolmo-7B-Stage1",
@@ -6326,7 +6326,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-26T13:12:59+00:00",
         "url": "https://huggingface.co/allenai/Bolmo-7B-Stage1",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "nvidia/DeepSeek-V4-Flash-0731-NVFP4",
@@ -6437,24 +6437,16 @@
         "source_status": "STALE"
       }
     ],
-    "checked_at": "2026-10-14T08:15:39.657638+00:00",
-    "status": "STALE",
+    "checked_at": "2026-10-14T08:20:38.291622+00:00",
+    "status": "PARTIAL",
     "errors": [
       {
-        "publisher": "Qwen",
-        "reason": "ReadTimeout"
-      },
-      {
         "publisher": "deepseek-ai",
-        "reason": "ReadTimeout"
+        "reason": "HTTPError"
       },
       {
         "publisher": "mistralai",
-        "reason": "ReadTimeout"
-      },
-      {
-        "publisher": "allenai",
-        "reason": "ReadTimeout"
+        "reason": "HTTPError"
       },
       {
         "publisher": "HuggingFaceTB",
