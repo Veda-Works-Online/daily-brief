@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T16:18:07.664127+00:00",
+  "updated": "2026-10-14T16:28:05.077361+00:00",
   "items": [
     {
       "title": "UN official warns of looming food crisis as Hormuz fertiliser plan stalls",
@@ -48,6 +48,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "45e2370d0309f37e531a905f"
+    },
+    {
+      "title": "India urges Russia, Ukraine to protect Black Sea shipping",
+      "url": "https://dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826",
+      "source": "DW",
+      "published": "2026-10-14T15:29:00+00:00",
+      "retrieved_at": "2026-10-14T16:28:00.255706+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "New Delhi wants Moscow and Kyiv to ensure safe commercial shipping in the Black Sea amid attacks that put Indian seafarers at risk.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ac42d039ce40954630da2b1a"
     },
     {
       "title": "Judge extends White House access for US media outlets amid Trump standoff",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7f68600c30656eb273356a8d"
-    },
-    {
-      "title": "A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing",
-      "url": "https://aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing",
-      "source": "Al Jazeera",
-      "published": "2026-10-10T09:30:14+00:00",
-      "retrieved_at": "2026-10-10T09:43:03.803120+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Continuing attacks, restrictions on medical aid and delayed evacuations are still killing Palestinians.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a96bfd202e341aa80838636e"
     }
   ],
   "unverified_history": [
