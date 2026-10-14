@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T14:58:04.067188+00:00",
+  "updated": "2026-10-14T15:03:01.275591+00:00",
   "items": [
+    {
+      "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers",
+      "source": "TechCrunch",
+      "published": "2026-10-14T15:00:00+00:00",
+      "retrieved_at": "2026-10-14T15:02:57.011636+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Floqer is an autonomous customer knowledge platform that provides business-to-business sales and marketing teams with an AI-powered database designed to continuously collect, organize, and update the information used to understand their customers. Floqer is pitching Wednesday on the Startup Battlefield stage at TechCrunch Disrupt 2026. The startup told TechCrunch ahead of the presentation that it…",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d7a8a07f9e42e26f5604e902"
+    },
     {
       "title": "TechCrunch Disrupt 2026: Day 2",
       "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8eb02ec89fde0f2e3d8989d7"
-    },
-    {
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "url": "https://technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything",
-      "source": "MIT Tech Review",
-      "published": "2026-10-05T04:00:00+00:00",
-      "retrieved_at": "2026-10-05T16:01:35.595692+00:00",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches…",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "722e9b6557261ae96807f5ed"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T14:57:57.794392+00:00",
+    "checked_at": "2026-10-14T15:02:55.001453+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
