@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T18:12:58.239274+00:00",
+  "updated": "2026-10-14T18:18:01.022476+00:00",
   "items": [
+    {
+      "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
+      "url": "https://wired.com/story/ai-is-coming-for-science-next-watch-out",
+      "source": "Wired",
+      "published": "2026-10-14T18:15:00+00:00",
+      "retrieved_at": "2026-10-14T18:17:53.767480+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3850477da03c471180c081de"
+    },
     {
       "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
       "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence",
@@ -204,6 +221,23 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9c64787d9c276dd911343f8b"
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "source": "OpenAI",
+      "published": "2026-10-14T12:00:00+00:00",
+      "retrieved_at": "2026-10-14T18:17:53.402066+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "b81b4991ddb2aa752bb3fb54"
     },
     {
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "source_type": "PUBLISHER",
       "story_fingerprint": "74fffab2840cdc997ad678bf"
-    },
-    {
-      "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T15:14:24+00:00",
-      "retrieved_at": "2026-10-05T21:17:42.884799+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "040da72da09d70546a1bddc5"
-    },
-    {
-      "title": "Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "source": "OpenAI",
-      "published": "2026-10-05T15:00:00+00:00",
-      "retrieved_at": "2026-10-05T15:21:36.259663+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "ad99c805ad21c0013751df90"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T18:12:52.132476+00:00",
+    "checked_at": "2026-10-14T18:17:51.774176+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
