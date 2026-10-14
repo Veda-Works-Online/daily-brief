@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T11:11:43.415563+00:00",
+  "updated": "2026-10-14T11:21:44.629866+00:00",
   "items": [
     {
       "title": "Trump plans for ‘massive’ resource exploration in Greenland",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "922c11f5fc94c8ea3ceaf766"
+    },
+    {
+      "title": "Trump's US Super Intelligence Force and AI czar Jay Clayton",
+      "url": "https://dw.com/en/trump-s-us-super-intelligence-force-and-ai-czar-jay-clayton/a-79598001",
+      "source": "DW",
+      "published": "2026-10-14T10:58:00+00:00",
+      "retrieved_at": "2026-10-14T11:21:42.119671+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Trump announced a new Super Intelligence taskforce with the White House AI czar Jay Clayton in charge of a group responsible for making sure the US leads international competition in artificial intelligence development.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d8d3d5bc37db606a19f3a305"
     },
     {
       "title": "Russia’s arrest of Japanese journalist: Why are tensions rising?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5424330faa8e7be1107b932d"
-    },
-    {
-      "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
-      "url": "https://aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T20:56:01+00:00",
-      "retrieved_at": "2026-10-09T21:01:06.307574+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Saudi Arabia and Yemen's internationally recognised gov't urge UN Security Council action amid Houthi escalation.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8436d767afe61f70bf69868b"
     }
   ],
   "unverified_history": [
