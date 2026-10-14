@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T02:00:01.296791+00:00",
+  "updated": "2026-10-14T02:04:59.235170+00:00",
   "items": [
+    {
+      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+      "source": "Google DeepMind",
+      "published": "2026-10-14T02:00:14+00:00",
+      "retrieved_at": "2026-10-14T02:04:54.530640+00:00",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://deepmind.google/blog/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "f6413557d90125d9018e1c75"
+    },
     {
       "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
       "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e5b7cc743df888d54747b7f6"
-    },
-    {
-      "title": "All the AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages",
-      "source": "TechCrunch AI",
-      "published": "2026-10-03T14:00:00+00:00",
-      "retrieved_at": "2026-10-03T14:02:50.046209+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f9c4c750e69f10d00103b62a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T01:59:55.492577+00:00",
+    "checked_at": "2026-10-14T02:04:53.137904+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
