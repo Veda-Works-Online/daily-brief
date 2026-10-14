@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T16:57:58.578816+00:00",
+  "updated": "2026-10-14T17:02:56.291882+00:00",
   "items": [
+    {
+      "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+      "url": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network",
+      "source": "TechCrunch",
+      "published": "2026-10-14T17:00:00+00:00",
+      "retrieved_at": "2026-10-14T17:02:51.862869+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "dc801f4d724b20ed4e0d6b4b"
+    },
     {
       "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
       "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room",
@@ -153,6 +170,23 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9c64787d9c276dd911343f8b"
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "source": "OpenAI",
+      "published": "2026-10-14T12:00:00+00:00",
+      "retrieved_at": "2026-10-14T17:02:51.386874+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "5ccd60c31ea6a3395f5f41f6"
     },
     {
       "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c9923235b55312a673da2c93"
-    },
-    {
-      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T14:35:09+00:00",
-      "retrieved_at": "2026-10-05T14:36:36.311656+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ff0486a820fb3375c568995f"
-    },
-    {
-      "title": "AI glasses face their first major government crackdown",
-      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown",
-      "source": "Ars Technica AI",
-      "published": "2026-10-05T13:39:30+00:00",
-      "retrieved_at": "2026-10-05T13:40:32.808027+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Norway wants time to write permanent rules for glasses that can record bystanders.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "445580e4900692cbf4cae458"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T16:57:49.491127+00:00",
+    "checked_at": "2026-10-14T17:02:49.815690+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
