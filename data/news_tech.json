@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T19:58:51.812629+00:00",
+  "updated": "2026-10-14T20:03:47.635809+00:00",
   "items": [
+    {
+      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+      "url": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine",
+      "source": "TechCrunch",
+      "published": "2026-10-14T20:00:00+00:00",
+      "retrieved_at": "2026-10-14T20:03:39.508605+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "94aa5bc4433e81c86a0bf62a"
+    },
     {
       "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
       "url": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "19137d8497bfaab0c9851cfb"
-    },
-    {
-      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-      "url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T16:43:35+00:00",
-      "retrieved_at": "2026-10-05T16:46:35.699017+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0f7571abf71a07ea72897888"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T19:58:42.690036+00:00",
+    "checked_at": "2026-10-14T20:03:37.526753+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
