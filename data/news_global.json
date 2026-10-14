@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-14T06:25:38.070153+00:00",
+  "updated": "2026-10-14T07:05:54.648937+00:00",
   "items": [
+    {
+      "title": "Russia arrests Japanese journalist on spying charges",
+      "url": "https://bbc.co.uk/news/articles/cwp9g1el7x9zo",
+      "source": "BBC World",
+      "published": "2026-10-14T07:02:50+00:00",
+      "retrieved_at": "2026-10-14T07:05:49.337126+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "227f3d89aa830e0fd1316863"
+    },
+    {
+      "title": "Photos: Student protest in Albania prompts violent clashes with police",
+      "url": "https://aljazeera.com/gallery/2026/10/14/photos-student-protest-in-albania-spark-violent-clashes-with-police-forces",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T06:46:31+00:00",
+      "retrieved_at": "2026-10-14T07:05:49.419163+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Protesters in Tirana throw bricks at the Education Ministry building as police respond with tear gas and water cannon.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "21b62f3de3b3e382d01c3fdf"
+    },
     {
       "title": "Iran: Political infighting deepens as economic woes mount during war",
       "url": "https://dw.com/en/iran-political-infighting-deepens-as-economic-woes-mount-during-war/a-79654461",
@@ -32,22 +64,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6015e8b3dbec8c7e0b6ebd8d"
-    },
-    {
-      "title": "Russia arrests Japanese journalist on alleged espionage",
-      "url": "https://bbc.co.uk/news/articles/cwp9g1el7x9zo",
-      "source": "BBC World",
-      "published": "2026-10-14T04:10:49+00:00",
-      "retrieved_at": "2026-10-14T04:15:39.773655+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3e786c37df2792e5d2a0c577"
     },
     {
       "title": "UN official says ‘window of opportunity’ for peace in DR Congo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "acf5a54827b077cbe8004a6b"
-    },
-    {
-      "title": "Trump launches probe into Federal Reserve Governor Lisa Cook",
-      "url": "https://aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T16:01:37+00:00",
-      "retrieved_at": "2026-10-09T16:20:15.685507+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump began efforts to remove Cook as one of the governors on the US Fed Reserve Board in 2025 and litigation is on.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "32acfdc9aaf644ead3aae239"
     }
   ],
   "unverified_history": [
