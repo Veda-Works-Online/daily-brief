@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T04:15:44.919753+00:00",
+  "updated": "2026-10-14T04:20:41.742604+00:00",
   "items": [
     {
       "title": "Russia arrests Japanese journalist on alleged espionage",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3e786c37df2792e5d2a0c577"
+    },
+    {
+      "title": "UN official says ‘window of opportunity’ for peace in DR Congo",
+      "url": "https://aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T03:57:24+00:00",
+      "retrieved_at": "2026-10-14T04:20:36.609334+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The envoy lauds the progress in diplomatic efforts despite the worsening security and humanitarian situation.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4873edb8117f0bddd622692c"
     },
     {
       "title": "Israel returns 22 stolen ancient artefacts to Greece",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0533675f6f2bdfa44acf8cb9"
-    },
-    {
-      "title": "Eritrean troops in Ethiopia raise fears of a regional war",
-      "url": "https://dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065",
-      "source": "DW",
-      "published": "2026-10-09T15:20:00+00:00",
-      "retrieved_at": "2026-10-09T16:05:19.235061+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Ethiopia and Eritrea are trading blame for confrontations in Tigray amid international calls for restraint. Their respective allies have the potential to catapult the conflict into a regional war.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3621ed16516c069bfe4b70de"
     }
   ],
   "unverified_history": [
