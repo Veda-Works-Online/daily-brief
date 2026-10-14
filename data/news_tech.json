@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T15:13:02.982662+00:00",
+  "updated": "2026-10-14T15:17:57.773680+00:00",
   "items": [
+    {
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music",
+      "source": "TechCrunch AI",
+      "published": "2026-10-14T15:16:04+00:00",
+      "retrieved_at": "2026-10-14T15:17:52.297487+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cb883b7849db0c78e16ab9b3"
+    },
     {
       "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
       "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "7f6670ce86c370890570bc51"
-    },
-    {
-      "title": "A Prediction Market About the Past? Sure, Why Not!",
-      "url": "https://wired.com/story/a-prediction-market-about-the-past-sure-why-not",
-      "source": "Wired",
-      "published": "2026-10-05T09:30:00+00:00",
-      "retrieved_at": "2026-10-05T09:35:25.551695+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "As prediction markets surge in popularity, a new platform called Verifact Markets is pushing the concept even further, letting users trade on “disputed facts.”",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "921856d0d7cff5a25bc5743c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T15:12:52.942951+00:00",
+    "checked_at": "2026-10-14T15:17:51.308201+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
