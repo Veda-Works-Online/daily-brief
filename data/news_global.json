@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T23:13:41.262331+00:00",
+  "updated": "2026-10-14T23:54:34.031075+00:00",
   "items": [
     {
       "title": "Denmark pushes back as Trump touts Greenland oil and mineral deals",
@@ -34,6 +34,22 @@
       "story_fingerprint": "b4b042fb8244fa3eb40ce671"
     },
     {
+      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+      "url": "https://bbc.co.uk/news/articles/c8wy9veedgygo",
+      "source": "BBC World",
+      "published": "2026-10-14T20:55:24+00:00",
+      "retrieved_at": "2026-10-14T23:54:29.194086+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "74254731c468756cb4ce5e09"
+    },
+    {
       "title": "Israeli quadcopter drone drops bomb in Lebanon",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon",
       "source": "Al Jazeera",
@@ -64,22 +80,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "790353d2a253bf7739e735ad"
-    },
-    {
-      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
-      "url": "https://bbc.co.uk/news/articles/c8wy9veedgygo",
-      "source": "BBC World",
-      "published": "2026-10-14T20:17:09+00:00",
-      "retrieved_at": "2026-10-14T20:53:39.625902+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4f4267458091e636977dbbaf"
     },
     {
       "title": "Russia attack hits Kyiv after reported intelligence lapse",
