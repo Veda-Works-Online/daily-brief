@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T18:18:01.022476+00:00",
+  "updated": "2026-10-14T18:22:55.967232+00:00",
   "items": [
     {
       "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
@@ -223,23 +223,6 @@
       "story_fingerprint": "9c64787d9c276dd911343f8b"
     },
     {
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "url": "https://openai.com/index/sentinelone",
-      "source": "OpenAI",
-      "published": "2026-10-14T12:00:00+00:00",
-      "retrieved_at": "2026-10-14T18:17:53.402066+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "b81b4991ddb2aa752bb3fb54"
-    },
-    {
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "url": "https://openai.com/index/amp-beyond-coding",
       "source": "OpenAI",
@@ -255,6 +238,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "5ccd60c31ea6a3395f5f41f6"
+    },
+    {
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "source": "OpenAI",
+      "published": "2026-10-14T12:00:00+00:00",
+      "retrieved_at": "2026-10-14T18:17:53.402066+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "b81b4991ddb2aa752bb3fb54"
     },
     {
       "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T18:17:51.774176+00:00",
+    "checked_at": "2026-10-14T18:22:48.649693+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
