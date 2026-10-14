@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T17:12:59.711493+00:00",
+  "updated": "2026-10-14T17:17:59.997251+00:00",
   "items": [
+    {
+      "title": "Researchers use AI to design proteins that cut up other proteins",
+      "url": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins",
+      "source": "Ars Technica AI",
+      "published": "2026-10-14T17:10:15+00:00",
+      "retrieved_at": "2026-10-14T17:17:55.671058+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a52172de2e1f5f2ea4eb3195"
+    },
     {
       "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
       "url": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cfa69492affa543f31c5f53f"
-    },
-    {
-      "title": "Hackers steal 8 million citizens’ records from Danish government database",
-      "url": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database",
-      "source": "TechCrunch",
-      "published": "2026-10-05T14:58:42+00:00",
-      "retrieved_at": "2026-10-05T15:01:39.485877+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c9923235b55312a673da2c93"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T17:12:49.850537+00:00",
+    "checked_at": "2026-10-14T17:17:53.787384+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
