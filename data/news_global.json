@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-14T12:31:41.465437+00:00",
+  "updated": "2026-10-14T12:41:55.974989+00:00",
   "items": [
+    {
+      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "url": "https://bbc.co.uk/news/articles/cq98z59xdny5o",
+      "source": "BBC World",
+      "published": "2026-10-14T12:36:24+00:00",
+      "retrieved_at": "2026-10-14T12:41:51.125392+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "It comes ahead of a meeting between the prime minister and President Zelensky at Downing Street.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a81ec03fdb3aecc86c169be5"
+    },
     {
       "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
       "url": "https://bbc.co.uk/news/articles/cw99zpmnxzmjo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "132db86ce2cda495abc3441d"
-    },
-    {
-      "title": "Mexico investigates video said to show cartel members fighting for Ukraine",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/9/mexico-investigates-video-said-to-show-cartel-members-fighting-for-ukraine",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T22:50:15+00:00",
-      "retrieved_at": "2026-10-09T22:56:04.409195+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Mexico is investigating a viral video showing suspected mercenaries chanting cartel slogans while fighting in Ukraine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c03e9df16477d6656c406c8a"
     }
   ],
   "unverified_history": [
