@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T07:05:54.648937+00:00",
+  "updated": "2026-10-14T07:10:53.665129+00:00",
   "items": [
     {
       "title": "Russia arrests Japanese journalist on spying charges",
@@ -368,6 +368,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e84a32911a1da8f66976629e"
+    },
+    {
+      "title": "Drones and Missiles Are Rewriting the Military Balance on the Korean Peninsula",
+      "url": "https://thediplomat.com/2026/10/drones-and-missiles-are-rewriting-the-military-balance-on-the-korean-peninsula",
+      "source": "The Diplomat",
+      "published": "2026-10-13T18:35:00+00:00",
+      "retrieved_at": "2026-10-14T07:10:48.582266+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "North Korea’s ability to disperse, conceal, and employ its drones, missiles, and nuclear weapons is outpacing South Korea’s capacity to destroy them.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "22bec40b649ea2b84d29bbdf"
     },
     {
       "title": "US Supreme Court agrees to hear watchdog case on Elon Musk’s DOGE records",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1aba7ead87452abdfc87d7c1"
-    },
-    {
-      "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
-      "url": "https://aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T16:07:29+00:00",
-      "retrieved_at": "2026-10-09T16:20:15.685484+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Belgian police respond to 'troublemakers' on sidelines of main rally with tear gas, water cannon and baton charges.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "acf5a54827b077cbe8004a6b"
     }
   ],
   "unverified_history": [
