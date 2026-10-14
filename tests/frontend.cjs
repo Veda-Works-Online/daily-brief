@@ -192,6 +192,13 @@ assert(ctx.stockFieldLabel(independent, 'marketCap').includes('STALE'));
 independent.field_metadata.marketCap.fx_source_timestamp = '2026-10-13T10:00:00Z';
 independent.fxValidation = 'STALE';
 assert(ctx.stockFieldLabel(independent, 'marketCap').includes('FX STALE'));
+const nativeGoogle = {...sessionStock,stock_reference_policy:'GOOGLE_FINANCE_V1',currency:'USD',
+  quote_currency:'HKD',nativeMarketCap:3850000000000};
+assert(ctx.stockFieldLabel(nativeGoogle,'marketCap').includes('Google cap HK$3.85T · USD conversion'));
+const googleSamsung = {...nativeGoogle,ticker:'005930.KS',name:'Samsung Electronics'};
+const googleSamsungHtml = ctx.renderStocksTable([googleSamsung],'asia');
+assert(googleSamsungHtml.includes('Google reported cap · share-class scope unconfirmed'));
+assert(!googleSamsungHtml.includes('Company cap: common + preferred'));
 sessionStock.field_metadata.changePercent.validation_status='DATA_UNAVAILABLE';
 assert(ctx.stockFieldLabel(sessionStock, 'changePercent').includes('DATA UNAVAILABLE · Session unconfirmed'));
 for (const region of ['us', 'asia', 'india']) {

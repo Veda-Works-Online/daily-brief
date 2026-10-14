@@ -322,14 +322,20 @@ class IntegrityTests(unittest.TestCase):
         original = self.accept()
         payload = {'updated': self.now.isoformat(), 'regions': {'us': [original]}}
         m.apply_region_timezones(payload)  # A snapshot already migrated to regional time metadata.
-        def accept_again(row, symbol, a, b, now):
-            return dict(row, retrieved_at='2026-09-08T15:05:00+00:00')
+        now = self.now
+        class FrozenDatetime(datetime):
+            @classmethod
+            def now(cls, tz=None):
+                return now
         with patch.object(m, 'yahoo_quotes', return_value={'MSFT': self.yahoo}), \
              patch.object(m, 'fetch_google', return_value=self.google), \
-             patch.object(m, 'accepted', side_effect=accept_again), \
-             patch.object(m, 'fill_google_fields', side_effect=lambda row, *args: row):
-            output, attempts = m.refresh_markets(payload)
-        self.assertEqual(output, payload)
+             patch.object(m, 'datetime', FrozenDatetime):
+            migrated, _ = m.refresh_markets(payload)
+            now += timedelta(seconds=5)
+            self.google['retrieved_at'] = now.isoformat()
+            self.yahoo['_retrieved_at'] = now.isoformat()
+            output, attempts = m.refresh_markets(migrated)
+        self.assertEqual(output, migrated)
         self.assertEqual(len(attempts), 3)  # existing row + two internal FX dependencies
 
     def test_failed_fetch_preserves_universe(self):
@@ -394,3 +400,4 @@ class IntegrityTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
