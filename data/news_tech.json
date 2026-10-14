@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T21:48:38.626309+00:00",
+  "updated": "2026-10-14T21:53:34.168793+00:00",
   "items": [
     {
       "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
@@ -6257,6 +6257,15 @@
   "open_llms": {
     "items": [
       {
+        "id": "microsoft/UserRepGen-4B",
+        "name": "UserRepGen-4B",
+        "publisher": "microsoft",
+        "licence": "mit",
+        "published": "2026-10-14T20:30:00+00:00",
+        "url": "https://huggingface.co/microsoft/UserRepGen-4B",
+        "source_status": "CURRENT"
+      },
+      {
         "id": "allenai/AstaBrief_8B_SFT",
         "name": "AstaBrief_8B_SFT",
         "publisher": "allenai",
@@ -6426,18 +6435,9 @@
         "published": "2026-08-13T03:05:06+00:00",
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
         "source_status": "CURRENT"
-      },
-      {
-        "id": "ibm-granite/granite-4.2-30b",
-        "name": "granite-4.2-30b",
-        "publisher": "ibm-granite",
-        "licence": "apache-2.0",
-        "published": "2026-08-07T16:29:50+00:00",
-        "url": "https://huggingface.co/ibm-granite/granite-4.2-30b",
-        "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T21:48:32.434890+00:00",
+    "checked_at": "2026-10-14T21:53:28.739597+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
