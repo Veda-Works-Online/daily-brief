@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T21:58:37.983682+00:00",
+  "updated": "2026-10-14T22:03:34.153508+00:00",
   "items": [
+    {
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes",
+      "source": "TechCrunch",
+      "published": "2026-10-14T22:00:00+00:00",
+      "retrieved_at": "2026-10-14T22:03:26.994671+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fd855a5f6d7625bca0ff7e18"
+    },
     {
       "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
       "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d68da6b79345159f9662e430"
-    },
-    {
-      "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-      "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T18:54:30+00:00",
-      "retrieved_at": "2026-10-05T18:56:34.696820+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal agents share information or take action.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0322f4946f64a3e78a6086ff"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T21:58:28.620147+00:00",
+    "checked_at": "2026-10-14T22:03:25.785052+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
