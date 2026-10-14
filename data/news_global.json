@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-14T07:10:53.665129+00:00",
+  "updated": "2026-10-14T07:40:55.222257+00:00",
   "items": [
+    {
+      "title": "‘Massive’ Russian attack on Ukraine kills at least six, cuts power in Kyiv",
+      "url": "https://aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T07:08:32+00:00",
+      "retrieved_at": "2026-10-14T07:40:49.930515+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "At least six people have been killed in overnight Russian attacks across Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cdf01ba6755e79e9c85add7e"
+    },
+    {
+      "title": "‘Like we don’t exist’: Palestinians in West Bank denied say in Israel vote",
+      "url": "https://aljazeera.com/features/2026/10/14/like-we-dont-exist-palestinians-in-west-bank-denied-say-in-israel-vote",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T07:05:31+00:00",
+      "retrieved_at": "2026-10-14T07:40:49.930540+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Palestinians in the occupied West Bank see little prospect Israel’s election will change their lives under occupation.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "528a857066209b121dbd4cde"
+    },
     {
       "title": "Russia arrests Japanese journalist on spying charges",
       "url": "https://bbc.co.uk/news/articles/cwp9g1el7x9zo",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "54325a94b250f73be0f8a096"
-    },
-    {
-      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-      "url": "https://bbc.co.uk/news/articles/c68xzqqn4ekro",
-      "source": "BBC World",
-      "published": "2026-10-09T17:14:44+00:00",
-      "retrieved_at": "2026-10-09T17:20:17.146118+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "66ee244026b98fe98565c494"
-    },
-    {
-      "title": "‘A Ceuta-style surge is possible’: Border tensions on NATO’s eastern flank",
-      "url": "https://aljazeera.com/news/2026/10/9/a-ceuta-style-surge-is-possible-border-tensions-on-natos-eastern-flank",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T16:33:26+00:00",
-      "retrieved_at": "2026-10-09T17:05:19.276562+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Belarus-linked incidents trouble Latvia and Lithuania, where experts warn of security challenges.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1aba7ead87452abdfc87d7c1"
     }
   ],
   "unverified_history": [

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T07:35:41.178523+00:00",
+  "updated": "2026-10-14T07:40:46.766716+00:00",
   "items": [
     {
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
@@ -6437,24 +6437,24 @@
         "source_status": "STALE"
       }
     ],
-    "checked_at": "2026-10-14T07:35:25.230628+00:00",
+    "checked_at": "2026-10-14T07:40:19.694095+00:00",
     "status": "STALE",
     "errors": [
       {
         "publisher": "Qwen",
-        "reason": "ReadTimeout"
+        "reason": "HTTPError"
       },
       {
         "publisher": "deepseek-ai",
-        "reason": "ReadTimeout"
+        "reason": "HTTPError"
       },
       {
         "publisher": "mistralai",
-        "reason": "ReadTimeout"
+        "reason": "HTTPError"
       },
       {
         "publisher": "allenai",
-        "reason": "ReadTimeout"
+        "reason": "HTTPError"
       },
       {
         "publisher": "HuggingFaceTB",
