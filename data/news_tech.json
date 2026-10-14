@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T16:42:58.668452+00:00",
+  "updated": "2026-10-14T16:47:58.999312+00:00",
   "items": [
+    {
+      "title": "FBI arrests OpenAI engineer suspected of planting bug in conference room",
+      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room",
+      "source": "Ars Technica AI",
+      "published": "2026-10-14T16:41:49+00:00",
+      "retrieved_at": "2026-10-14T16:47:51.005771+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3176a2063ed6794e2c1a8db2"
+    },
     {
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
       "url": "https://huggingface.co/blog/allenai/hiro-acev2",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "445580e4900692cbf4cae458"
-    },
-    {
-      "title": "Bringing predictive analytics to the agentic AI era",
-      "url": "https://technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era",
-      "source": "MIT Tech Review",
-      "published": "2026-10-05T13:29:32+00:00",
-      "retrieved_at": "2026-10-05T13:55:33.139316+00:00",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between…",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1514ed994b2ed4cb01193aa6"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T16:42:52.257150+00:00",
+    "checked_at": "2026-10-14T16:47:49.252535+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
