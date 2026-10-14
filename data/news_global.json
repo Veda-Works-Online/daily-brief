@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-14T09:06:40.567448+00:00",
+  "updated": "2026-10-14T09:26:42.024475+00:00",
   "items": [
+    {
+      "title": "China’s exports surge amid AI-driven demand",
+      "url": "https://aljazeera.com/economy/2026/10/14/chinas-exports-sugrge",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T09:05:17+00:00",
+      "retrieved_at": "2026-10-14T09:26:37.102693+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Exports grew by 36.3 percent in September, the biggest leap since the COVID-19 pandemic.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6bbe5b4da4da3b0a12a8e56a"
+    },
     {
       "title": "India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1499dbff1cc8fb4650a0464a"
-    },
-    {
-      "title": "AI deepfake ads grow more popular in US midterm campaigns, blurring truth",
-      "url": "https://aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T18:23:43+00:00",
-      "retrieved_at": "2026-10-09T18:30:18.464264+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The US midterm election campaign has been filled with political ads featuring AI deepfakes that can mislead voters.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d758b65bf096ae193ea49058"
     }
   ],
   "unverified_history": [
