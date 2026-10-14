@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-14T00:35:10.010786+00:00",
+  "updated": "2026-10-14T01:05:09.250504+00:00",
   "items": [
+    {
+      "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
+      "url": "https://aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T00:45:16+00:00",
+      "retrieved_at": "2026-10-14T01:05:03.603596+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A year into the ceasefire, nearly two-thirds of Gaza is in Israeli hands and Netanyahu vows control of the West Bank.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "57b9d3eea4381b09f0363e9a"
+    },
     {
       "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
       "url": "https://aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "eb5ce2055e1d49a0e4ad1397"
-    },
-    {
-      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-      "url": "https://bbc.co.uk/news/articles/cm9wz5kng0x1o",
-      "source": "BBC World",
-      "published": "2026-10-09T14:00:47+00:00",
-      "retrieved_at": "2026-10-09T15:00:15.796968+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b41a5063e47ef28fbe4372ad"
     }
   ],
   "unverified_history": [
