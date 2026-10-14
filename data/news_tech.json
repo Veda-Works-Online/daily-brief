@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T09:31:34.437285+00:00",
+  "updated": "2026-10-14T09:36:36.584453+00:00",
   "items": [
+    {
+      "title": "Men Can’t Stop Faking How Much They Know About AI",
+      "url": "https://wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai",
+      "source": "Wired",
+      "published": "2026-10-14T09:30:00+00:00",
+      "retrieved_at": "2026-10-14T09:36:32.241594+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "960a575710fd87d7ebb9817c"
+    },
     {
       "title": "Tesla’s Roadster 2 Is Late—and Entering a Different EV World",
       "url": "https://wired.com/story/tesla-roadster-2-is-late-and-entering-a-different-ev-world",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "7d204a428923de094581ff34"
-    },
-    {
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas",
-      "source": "TechCrunch AI",
-      "published": "2026-10-03T18:43:57+00:00",
-      "retrieved_at": "2026-10-03T18:48:38.958409+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "562b5bc5d70c1e5d77ffd998"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T09:31:30.851340+00:00",
+    "checked_at": "2026-10-14T09:36:30.964149+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

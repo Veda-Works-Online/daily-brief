@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-14T09:31:39.234627+00:00",
+  "updated": "2026-10-14T09:36:41.598163+00:00",
   "items": [
+    {
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "url": "https://bbc.co.uk/news/articles/cw99zpmnxzmjo",
+      "source": "BBC World",
+      "published": "2026-10-14T09:32:54+00:00",
+      "retrieved_at": "2026-10-14T09:36:38.541978+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Four years after the attacks, Serhii K is in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a53808c7ec262a8d85405529"
+    },
     {
       "title": "What we know about Russia's overnight strikes on Ukraine",
       "url": "https://bbc.co.uk/news/videos/cmx280x092x7o",
@@ -368,22 +384,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6c033d8c7c1b5ef6a61e26f7"
-    },
-    {
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "url": "https://bbc.co.uk/news/articles/cw99zpmnxzmjo",
-      "source": "BBC World",
-      "published": "2026-10-13T23:42:22+00:00",
-      "retrieved_at": "2026-10-13T23:45:04.448418+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a53808c7ec262a8d85405529"
     },
     {
       "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
