@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T08:25:58.171962+00:00",
+  "updated": "2026-10-14T08:30:57.758560+00:00",
   "items": [
     {
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
@@ -6344,7 +6344,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:05:48+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-8b-nvfp4",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "ibm-granite/granite-4.2-8b-mxfp4",
@@ -6353,7 +6353,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:05:29+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-8b-mxfp4",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "ibm-granite/granite-4.2-8b-fp8",
@@ -6362,7 +6362,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:05:07+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-8b-fp8",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "ibm-granite/granite-4.2-3b-nvfp4",
@@ -6371,7 +6371,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:04:44+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-3b-nvfp4",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "ibm-granite/granite-4.2-3b-mxfp4",
@@ -6380,7 +6380,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:04:23+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-3b-mxfp4",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "ibm-granite/granite-4.2-3b-fp8",
@@ -6389,7 +6389,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:03:50+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-3b-fp8",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "ibm-granite/granite-4.2-30b-nvfp4",
@@ -6398,7 +6398,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:03:19+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-nvfp4",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "ibm-granite/granite-4.2-30b-mxfp4",
@@ -6407,7 +6407,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:02:51+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-mxfp4",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "ibm-granite/granite-4.2-30b-fp8",
@@ -6416,7 +6416,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-13T21:02:02+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-fp8",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
@@ -6434,41 +6434,12 @@
         "licence": "apache-2.0",
         "published": "2026-08-07T16:29:50+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-30b",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T08:25:41.171486+00:00",
-    "status": "PARTIAL",
-    "errors": [
-      {
-        "publisher": "mistralai",
-        "reason": "HTTPError"
-      },
-      {
-        "publisher": "HuggingFaceH4",
-        "reason": "HTTPError"
-      },
-      {
-        "publisher": "microsoft",
-        "reason": "HTTPError"
-      },
-      {
-        "publisher": "ibm-granite",
-        "reason": "HTTPError"
-      },
-      {
-        "publisher": "MiniMaxAI",
-        "reason": "HTTPError"
-      },
-      {
-        "publisher": "openai",
-        "reason": "HTTPError"
-      },
-      {
-        "publisher": "tiiuae",
-        "reason": "HTTPError"
-      }
-    ],
+    "checked_at": "2026-10-14T08:30:51.612807+00:00",
+    "status": "CURRENT",
+    "errors": [],
     "publishers": [
       "Qwen",
       "deepseek-ai",
