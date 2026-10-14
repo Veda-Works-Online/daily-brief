@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T12:41:55.974989+00:00",
+  "updated": "2026-10-14T13:02:09.255328+00:00",
   "items": [
     {
       "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a81ec03fdb3aecc86c169be5"
+    },
+    {
+      "title": "Colombia opens embassy in Jerusalem and restores free trade with Israel",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/14/colombia-opens-embassy-in-jerusalem-and-restores-free-trade-with-israel",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T12:28:06+00:00",
+      "retrieved_at": "2026-10-14T13:02:06.195568+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Colombia has opened an embassy in West Jerusalem under new far-right President Abelardo de la Espriella.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "da852b52f2032ab32514fb64"
     },
     {
       "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f5f1f92721f598ea2e4d9df4"
-    },
-    {
-      "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-      "url": "https://bbc.co.uk/news/articles/cm2d6xd2g4w2o",
-      "source": "BBC World",
-      "published": "2026-10-09T23:02:07+00:00",
-      "retrieved_at": "2026-10-10T00:16:53.671030+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "132db86ce2cda495abc3441d"
     }
   ],
   "unverified_history": [
