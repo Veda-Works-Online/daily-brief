@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-14T10:26:53.422252+00:00",
+  "updated": "2026-10-14T11:11:43.415563+00:00",
   "items": [
+    {
+      "title": "Trump plans for ‘massive’ resource exploration in Greenland",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T11:05:07+00:00",
+      "retrieved_at": "2026-10-14T11:11:40.272735+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US President Donald Trump announces a plan on Truth Social for oil, gas and mineral exploration in Greenland.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "922c11f5fc94c8ea3ceaf766"
+    },
+    {
+      "title": "Russia’s arrest of Japanese journalist: Why are tensions rising?",
+      "url": "https://aljazeera.com/news/2026/10/14/russias-arrest-of-japanese-journalist-why-are-tensions-rising",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T10:46:55+00:00",
+      "retrieved_at": "2026-10-14T11:11:40.272770+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Japanese journalist Imai Yuki arrested on Sakhalin for allegedly spying on Russian defence capabilities, says the FSB.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "734c3468d2ab363602f1757d"
+    },
     {
       "title": "Albanian students clash with police as they protest over education and jobs",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/14/albanian-students-clash-with-police-as-they-protest-over-education-and-jobs",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8436d767afe61f70bf69868b"
-    },
-    {
-      "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
-      "url": "https://aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T20:13:24+00:00",
-      "retrieved_at": "2026-10-09T20:46:03.032387+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Attorney General says suspect admitted he acted alone after preparing ‌‌psychologically ‌‌and physically for the attack.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2443b7008bab2527e871c16a"
-    },
-    {
-      "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
-      "url": "https://aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T19:47:33+00:00",
-      "retrieved_at": "2026-10-09T20:21:07.516945+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c141abec33cfefda2b7fb5e3"
     }
   ],
   "unverified_history": [
