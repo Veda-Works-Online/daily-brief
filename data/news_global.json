@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-14T12:26:51.122178+00:00",
+  "updated": "2026-10-14T12:31:41.465437+00:00",
   "items": [
+    {
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "url": "https://bbc.co.uk/news/articles/cw99zpmnxzmjo",
+      "source": "BBC World",
+      "published": "2026-10-14T12:27:00+00:00",
+      "retrieved_at": "2026-10-14T12:31:38.379325+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a53808c7ec262a8d85405529"
+    },
     {
       "title": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
       "url": "https://aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh",
@@ -160,22 +176,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6db4204b75d0c6702e687f48"
-    },
-    {
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "url": "https://bbc.co.uk/news/articles/cw99zpmnxzmjo",
-      "source": "BBC World",
-      "published": "2026-10-14T09:32:54+00:00",
-      "retrieved_at": "2026-10-14T09:36:38.541978+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Four years after the attacks, Serhii K is in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a53808c7ec262a8d85405529"
     },
     {
       "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
