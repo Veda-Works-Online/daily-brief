@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T19:48:51.884901+00:00",
+  "updated": "2026-10-14T19:53:49.283130+00:00",
   "items": [
+    {
+      "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+      "url": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers",
+      "source": "TechCrunch",
+      "published": "2026-10-14T19:51:34+00:00",
+      "retrieved_at": "2026-10-14T19:53:44.143278+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ed5fc430164b80d420ef2e76"
+    },
     {
       "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
       "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0f7571abf71a07ea72897888"
-    },
-    {
-      "title": "F1 in Bahrain... in Malaysia: The race needed a software update to start",
-      "url": "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start",
-      "source": "Ars Technica",
-      "published": "2026-10-05T16:09:07+00:00",
-      "retrieved_at": "2026-10-05T17:21:37.501529+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "A software bug waylaid half the field and required a race reboot.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3aa2efe036bcea7c4a85d66d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T19:48:46.297629+00:00",
+    "checked_at": "2026-10-14T19:53:42.921419+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
