@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-14T08:21:12.760714+00:00",
+  "updated": "2026-10-14T08:36:03.029587+00:00",
   "items": [
+    {
+      "title": "How do Iranians move money abroad to avoid US sanctions?",
+      "url": "https://aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T08:24:02+00:00",
+      "retrieved_at": "2026-10-14T08:35:57.788526+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "From currency brokers to crypto, Iranians find ways to circumvent sanctions, but each comes with its own problems.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "519d19e7010cd5b2ff453a37"
+    },
+    {
+      "title": "Trump says oil, gas and mineral exploration to begin in Greenland",
+      "url": "https://aljazeera.com/news/2026/10/14/trump-says-oil-gas-and-mineral-exploration-to-begin-in-greenland",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T08:08:42+00:00",
+      "retrieved_at": "2026-10-14T08:35:57.788550+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The US president also praises the security advantages of last month's deal with Denmark and Greenland.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4ca702ead2e255deee4031bb"
+    },
     {
       "title": "Palestinians say Israel’s democracy ‘is a joke’",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/14/palestinians-say-israels-democracy-is-a",
@@ -66,20 +98,20 @@
       "story_fingerprint": "9ef8c2eb38c4f462f2b6c2ff"
     },
     {
-      "title": "‘Massive’ Russian attack on Ukraine kills at least six, cuts power in Kyiv",
+      "title": "‘Massive’ Russian attack on Ukraine kills at least six, damages power sites",
       "url": "https://aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv",
       "source": "Al Jazeera",
       "published": "2026-10-14T07:08:32+00:00",
-      "retrieved_at": "2026-10-14T08:06:11.077874+00:00",
+      "retrieved_at": "2026-10-14T08:35:57.788673+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Volodymyr Zelenskyy says Russian attacks on Kyiv came without Ukraine receiving advance warning from allies.",
+      "summary": "Volodymyr Zelenskyy says Ukraine's partners failed to warn of Russian ballistic missile attack on Kyiv.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "cdf01ba6755e79e9c85add7e"
+      "story_fingerprint": "61244fb3e4b3c3e4c518a28e"
     },
     {
       "title": "‘Like we don’t exist’: Palestinians in West Bank denied say in Israel vote",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "451859cf34c3e1a50fe3eac7"
-    },
-    {
-      "title": "‘An attack against sovereign states’: ICC President slams US sanctions",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/9/an-attack-against-sovereign-states-icc-president-slams-us-sanctions",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T18:06:48+00:00",
-      "retrieved_at": "2026-10-09T18:30:18.464295+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "International Criminal Court President Tomoko Akane has responded to US sanctions imposed to ‘defend sovereignty’.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8fbcf2eadbfc186d6a852a1a"
-    },
-    {
-      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "url": "https://bbc.co.uk/news/articles/cj20vkkx3rdvo",
-      "source": "BBC World",
-      "published": "2026-10-09T17:43:03+00:00",
-      "retrieved_at": "2026-10-09T18:15:21.142631+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5cde665d93a255f26b627e1b"
     }
   ],
   "unverified_history": [
