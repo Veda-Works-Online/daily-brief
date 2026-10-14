@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T23:03:40.225333+00:00",
+  "updated": "2026-10-14T23:08:35.067428+00:00",
   "items": [
     {
       "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
@@ -529,23 +529,6 @@
       "story_fingerprint": "39b25023aebbdb6bb5b9804f"
     },
     {
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "source": "OpenAI",
-      "published": "2026-10-14T07:00:00+00:00",
-      "retrieved_at": "2026-10-14T23:03:32.183743+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "a9c661ea7185881c9004ba0f"
-    },
-    {
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "url": "https://openai.com/index/third-moment-research",
       "source": "OpenAI",
@@ -561,6 +544,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "3d5d91b3b91f73d134ea87f0"
+    },
+    {
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "source": "OpenAI",
+      "published": "2026-10-14T07:00:00+00:00",
+      "retrieved_at": "2026-10-14T23:03:32.183743+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "a9c661ea7185881c9004ba0f"
     },
     {
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T23:03:31.071980+00:00",
+    "checked_at": "2026-10-14T23:08:25.930063+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
