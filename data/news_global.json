@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-14T11:21:44.629866+00:00",
+  "updated": "2026-10-14T11:36:45.442180+00:00",
   "items": [
+    {
+      "title": "Houthi missile hits Aramco building after Saudi-led coalition hits Yemen fuel depot",
+      "url": "https://bbc.co.uk/news/articles/crx2d60y1py3o",
+      "source": "BBC World",
+      "published": "2026-10-14T11:33:24+00:00",
+      "retrieved_at": "2026-10-14T11:36:42.449719+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "251010adabd898965ca2eb9a"
+    },
+    {
+      "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+      "url": "https://bbc.co.uk/news/articles/cm2d6e62p49do",
+      "source": "BBC World",
+      "published": "2026-10-14T11:32:07+00:00",
+      "retrieved_at": "2026-10-14T11:36:42.449662+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "87a3fec906d9eff1733b7c20"
+    },
     {
       "title": "Trump plans for ‘massive’ resource exploration in Greenland",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/14/trump-plans-for-massive-resource-exploration-in-greenland",
@@ -80,22 +112,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d6c8397c8cf0672ac8c94d57"
-    },
-    {
-      "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
-      "url": "https://bbc.co.uk/news/articles/cm2d6e62p49do",
-      "source": "BBC World",
-      "published": "2026-10-14T09:42:08+00:00",
-      "retrieved_at": "2026-10-14T09:46:27.527116+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Critical energy infrastructure is hit, as Ukraine says speed restrictions of Elon Musk's Starlink are disrupting battlefield missions.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5b2dbd1ab30cc7dcad3a44af"
     },
     {
       "title": "Girl rescued from flaming apartment after Israeli attack on Gaza",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "65f495237f5ad1e0929f7621"
-    },
-    {
-      "title": "US judge rules Trump administration’s use of voter data unlawful",
-      "url": "https://aljazeera.com/news/2026/10/9/us-judge-rules-trump-administrations-use-of-voter-data-unlawful",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T21:29:01+00:00",
-      "retrieved_at": "2026-10-09T21:36:06.097112+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A federal judge ruled against the Justice Department's use of voter data to cross-reference an immigration database.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5424330faa8e7be1107b932d"
     }
   ],
   "unverified_history": [
