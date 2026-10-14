@@ -199,6 +199,26 @@ const googleSamsung = {...nativeGoogle,ticker:'005930.KS',name:'Samsung Electron
 const googleSamsungHtml = ctx.renderStocksTable([googleSamsung],'asia');
 assert(googleSamsungHtml.includes('Google reported cap · share-class scope unconfirmed'));
 assert(!googleSamsungHtml.includes('Company cap: common + preferred'));
+const oldTradeTime = new Date(Date.now()-3600000).toISOString();
+const tradeDate = new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Kolkata',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+const oldTrade = {...sessionStock, market_status:'OPEN',market_timezone:'Asia/Kolkata',source_timestamp:oldTradeTime,
+  quote_activity:{kind:'MATCHING_LAST_REPORTED_TRADE',last_trade_timestamp:oldTradeTime,checked_at:new Date().toISOString(),trading_date:tradeDate},
+  field_metadata:{marketCap:{...sessionStock.field_metadata.marketCap,source_timestamp:oldTradeTime,
+    trading_session:{date:tradeDate,timezone:'Asia/Kolkata',timestamp:oldTradeTime}},
+    changePercent:{...sessionStock.field_metadata.changePercent,validation_status:'STALE',source:'Google Finance',source_timestamp:oldTradeTime,
+    trading_session:{date:tradeDate,timezone:'Asia/Kolkata',timestamp:oldTradeTime}}}};
+assert(ctx.staleQuote(oldTrade,'changePercent'));
+assert(ctx.stockFieldLabel(oldTrade,'changePercent').includes('OLDER LAST-TRADE QUOTE'));
+assert(ctx.stockFieldLabel(oldTrade,'changePercent').includes('Sources checked'));
+assert(ctx.stockFieldLabel(oldTrade,'changePercent').includes('Google / Yahoo agree on last reported trade'));
+const oldTradeCounts = ctx.marketRefreshCounts({regions:{india:[oldTrade]}});
+assert.equal(oldTradeCounts.stale_count,1);
+assert.equal(oldTradeCounts.old_last_trade_count,1);
+oldTrade.field_metadata.marketCap.source_timestamp='2026-01-01T00:00:00Z';
+assert(!ctx.stockFieldLabel(oldTrade,'marketCap').includes('OLDER LAST-TRADE QUOTE'));
+oldTrade.quote_activity.checked_at = new Date(Date.now()-601000).toISOString();
+assert(!ctx.stockFieldLabel(oldTrade,'changePercent').includes('OLDER LAST-TRADE QUOTE'));
+assert(ctx.stockFieldLabel(oldTrade,'changePercent').includes('STALE'));
 sessionStock.field_metadata.changePercent.validation_status='DATA_UNAVAILABLE';
 assert(ctx.stockFieldLabel(sessionStock, 'changePercent').includes('DATA UNAVAILABLE · Session unconfirmed'));
 for (const region of ['us', 'asia', 'india']) {
@@ -245,4 +265,5 @@ assert(ctx.renderStocksTable([bseRow],'india').includes('BSE full company cap'))
 const nasdaqRow = {...freshRow,name:'Alphabet',field_metadata:{marketCap:{source:'Nasdaq',
   validation_status:'INDICATIVE',source_date:'2026-10-08'}}};
 assert(ctx.renderStocksTable([nasdaqRow],'us').includes('Nasdaq company cap'));
+
 

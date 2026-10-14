@@ -91,3 +91,30 @@ class GoogleEquityReferenceTests(unittest.TestCase):
             selected=m.fetch_google('ADANIENT:NSE')
         self.assertEqual(get.call_count,2)
         self.assertEqual(selected['marketCap'],newer['marketCap'])
+
+    def test_recent_sources_can_confirm_an_old_current_session_trade(self):
+        quote=dict(self.quote,timestamp=(self.now-timedelta(hours=1)).isoformat())
+        identity=dict(self.identity,longName='Adani Enterprises Limited',
+            regularMarketTime=int((self.now-timedelta(hours=1)).timestamp()),
+            regularMarketPrice=quote['price'],regularMarketPreviousClose=quote['previousClose'],regularMarketVolume=133)
+        out=self.apply(quote=quote,identity=identity)
+        self.assertEqual(out['validation_status'],'STALE')
+        self.assertEqual(out['field_metadata']['marketCap']['validation_status'],'STALE')
+        self.assertEqual(out['source_timestamp'],quote['timestamp'])
+        self.assertEqual(out['quote_activity']['kind'],'MATCHING_LAST_REPORTED_TRADE')
+        self.assertEqual(out['quote_activity']['last_trade_timestamp'],quote['timestamp'])
+        self.assertEqual(out['quote_activity']['reported_volume'],133)
+
+    def test_disagreement_old_checks_or_prior_session_do_not_confirm_activity(self):
+        quote=dict(self.quote,timestamp=(self.now-timedelta(hours=1)).isoformat())
+        identity=dict(self.identity,longName='Adani Enterprises Limited',
+            regularMarketTime=int((self.now-timedelta(hours=1)).timestamp()),
+            regularMarketPrice=quote['price'],regularMarketPreviousClose=quote['previousClose'])
+        for change in (dict(regularMarketPrice=Decimal('1')),dict(regularMarketPreviousClose=Decimal('1')),
+                       dict(regularMarketTime=int(self.now.timestamp())),dict(longName='Unrelated company'),
+                       dict(_retrieved_at=(self.now-timedelta(minutes=6)).isoformat())):
+            with self.subTest(change=change):
+                self.assertNotIn('quote_activity',self.apply(quote=quote,identity=dict(identity,**change)))
+        old=dict(quote,timestamp=(self.now-timedelta(days=1)).isoformat())
+        self.assertNotIn('quote_activity',self.apply(quote=old,identity=dict(identity,regularMarketTime=int((self.now-timedelta(days=1)).timestamp()))))
+

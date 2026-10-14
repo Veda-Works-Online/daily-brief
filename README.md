@@ -1,5 +1,14 @@
 # Daily Brief market times
 
+Older last-trade quotes are distinguished from failed refreshes. If fresh,
+matching Google and Yahoo observations agree on the same old regular-session
+trade in today's open session, field labels show `OLDER LAST-TRADE QUOTE`, the
+actual quote age, and the source-check time. This is source agreement, not proof
+of independent feeds or of a newer exchange trade. The quote's original time,
+STALE validation and age limit remain unchanged. The evidence expires after ten
+minutes without another matching source check; disagreement, a failed check or
+a prior-session quote keeps the ordinary stale label.
+
 ## Current stock reference: Google Finance
 
 The displayed market cap and daily gain/loss for all US, Asia and India stocks
@@ -160,4 +169,5 @@ per-run artifacts record free-source errors. Public endpoint availability is not
 a guarantee of real-time data. Market-cap cells retain their numeric formatting.
 
 Samsung class-price fallback: when the common quote uses Yahoo Finance, both explicitly identified KRX classes use Yahoo regular-session prices with the same freshness and timing checks. Market cap records its own class input timestamps; retained display prices are not substituted into the calculation.
+
 
