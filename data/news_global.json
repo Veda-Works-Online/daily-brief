@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-14T01:05:09.250504+00:00",
+  "updated": "2026-10-14T01:35:07.399866+00:00",
   "items": [
+    {
+      "title": "US fines Bank of America $1.2bn for money laundering, sanctions violations",
+      "url": "https://aljazeera.com/news/2026/10/14/us-fines-bank-of-america-1-2bn-for-money-laundering-sanctions-violations",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T01:15:30+00:00",
+      "retrieved_at": "2026-10-14T01:35:02.276917+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The second-largest US bank faces record penalties for failing to comply with money laundering and sanctions laws.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8b4305ea20973aec9fe3ac1e"
+    },
     {
       "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
       "url": "https://aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7f24ffbda999fe513638b2d8"
-    },
-    {
-      "title": "Ethiopia and Eritrea accuse one another of launching war",
-      "url": "https://aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T14:11:50+00:00",
-      "retrieved_at": "2026-10-09T14:40:22.545227+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Eritrea denies backing TPLF as Ethiopia alleges collusion, further straining their already volatile relationship.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "eb5ce2055e1d49a0e4ad1397"
     }
   ],
   "unverified_history": [
