@@ -276,6 +276,10 @@ function stockFieldLabel(row, field) {
   if (ts) parts.push((field === 'marketCap' ? 'Valuation quote ' : 'Quote ') + quoteTime(ts, row.display_timezone));
   else if (meta?.source_timestamp) parts.push('Provider observation ' + quoteTime(meta.source_timestamp, row.display_timezone));
   if (field === 'marketCap') parts.push('Cap-specific time unavailable');
+  if (field === 'marketCap' && row.stock_reference_policy === 'GOOGLE_FINANCE_V1'
+      && row.nativeMarketCap !== null && row.nativeMarketCap !== undefined && row.quote_currency !== row.currency) {
+    parts.push('Google cap ' + fmtMarketCap(row.nativeMarketCap, row.quote_currency) + ' · USD conversion');
+  }
   if (meta?.fx_source_timestamp) parts.push('FX ' + (row.fxValidation || meta.validation_status) + ' · ' + quoteTime(meta.fx_source_timestamp, row.display_timezone));
   if (meta?.source) parts.push(meta.source);
   return '<br><small class="market-field-status" title="' + escapeHtml(session?.basis || 'No session evidence saved') + '">' + escapeHtml(parts.join(' · ')) + '</small>';
@@ -303,6 +307,7 @@ function renderStocksTable(stocks, region, usdInr = null) {
       capMeta.calculation, capMeta.fx_source ? 'FX: ' + capMeta.fx_source + ' · ' + quoteTime(capMeta.fx_source_timestamp, s.display_timezone) : '',
       capMeta.source_check?.nasdaq_error ? 'Nasdaq check: ' + capMeta.source_check.nasdaq_error : ''].filter(Boolean).join(' · ') : 'DATA UNAVAILABLE';
     const listing = ['BABA', 'TSM'].includes(s.ticker) ? '<br><small>US-listed ADR · USD quote</small>' :
+      s.ticker === '005930.KS' && s.stock_reference_policy === 'GOOGLE_FINANCE_V1' ? '<br><small>Google reported cap · share-class scope unconfirmed</small>' :
       s.ticker === '005930.KS' ? '<br><small>Company cap: common + preferred · ' +
         escapeHtml(capMeta?.validation_status === 'DATA_UNAVAILABLE' ? 'unavailable' : staleQuote(s, 'marketCap') ? 'stale estimate' : 'estimate') +
         (capMeta?.shares_as_of ? ' · shares as of ' + escapeHtml(capMeta.shares_as_of) : '') + '</small>' :
@@ -605,4 +610,5 @@ document.addEventListener('visibilitychange', () => {
   if (!document.hidden) refreshData();
 });
 if (window.innerWidth >= 820) body.classList.add('menu-open');
+
 

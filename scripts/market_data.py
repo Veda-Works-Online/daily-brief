@@ -292,6 +292,10 @@ def parse_google_beta(soup, identifier):
               'currency': currency, 'exchange': exchange, 'price': price,
               'timestamp': timestamp(quote[17][0]).isoformat(),
               'retrieved_at': now_iso(), 'session': 'REGULAR'}
+    # The regular quote header's daily percentage belongs to this observation.
+    # Extended-hours percentages live in other slots and must not replace it.
+    if len(quote[5]) > 2 and quote[5][2] is not None:
+        result['reportedChangePercent'] = decimal(quote[5][2])
     if quote[7] is not None:
         result['previousClose'] = decimal(quote[7])
     # These are the primary quote's Overview stats, repeated for desktop/mobile.
@@ -333,7 +337,8 @@ def fetch_google(identifier):
             # with an older response or turn its retrieval time into quote time.
             fx = identifier in {'-'.join(pair) for pair in PAIRS.values()}
             retry_age = 480 if fx else 1800 if identifier.endswith(':NSE') else None
-            if retry_age is None or (datetime.now(timezone.utc)-timestamp(best['timestamp'])).total_seconds() <= retry_age:
+            equity = identifier.rsplit(':', 1)[-1] in {'NASDAQ','NYSE','NYSEAMERICAN','NSE','BOM','HKG','KRX'}
+            if not equity and (retry_age is None or (datetime.now(timezone.utc)-timestamp(best['timestamp'])).total_seconds() <= retry_age):
                 return best
         except (requests.RequestException, ValueError, KeyError, TypeError) as exc:
             error = exc
@@ -1040,6 +1045,89 @@ def indian_cap_unavailable(row, previous, reason, now):
     return out
 
 
+def google_equity_reference(row, previous, symbol, quote, identity, now):
+    """Displayed stock fields use Google's quote, not a different provider total.
+
+    Selection is field-specific: a newer Yahoo price cannot cause an older
+    Google cap/change to be presented as new. Retention accepts only Google
+    provenance and preserves native cap units before the Asia USD conversion.
+    """
+    def prior(field):
+        meta = previous.get('field_metadata', {}).get(field, {})
+        value = previous.get(field)
+        if field == 'marketCap' and previous.get('currency') != previous.get('quote_currency'):
+            meta = previous.get('native_market_cap_metadata', {})
+            value = previous.get('nativeMarketCap')
+        if (previous.get('verification_version') == 1 and meta.get('source') == 'Google Finance'
+                and meta.get('validation_status') in {'VERIFIED', 'INDICATIVE', 'STALE'}
+                and meta.get('source_timestamp') and value is not None):
+            return value, deepcopy(meta)
+        return None, None
+
+    try:
+        if not -120 <= (now-timestamp(quote['retrieved_at'])).total_seconds() <= 300:
+            raise ValueError('GOOGLE_RETRIEVAL_NOT_CURRENT')
+        out = google_observation(row, symbol, quote, identity, now)
+        reason = 'GOOGLE_FIELD_UNAVAILABLE'
+        # Use Google's regular-session header percentage verbatim. It can
+        # differ slightly from arithmetic using its rounded displayed price.
+        if quote.get('reportedChangePercent') is not None:
+            value = decimal(quote['reportedChangePercent'])
+            out['changePercent'] = value
+            out['field_metadata']['changePercent'] = dict(
+                validation_status=out['validation_status'], quality='INDICATIVE',
+                source='Google Finance', source_timestamp=quote['timestamp'],
+                retrieved_at=quote['retrieved_at'], decimal=format(value, 'f'),
+                currency=None, verification_sources=[],
+                calculation='Google Finance regular-session header daily change; not extended hours',
+                input_price=quote['price'], input_previous_close=quote.get('previousClose'))
+    except (ValueError, KeyError, TypeError, OverflowError) as exc:
+        reason = str(exc) if isinstance(exc, ValueError) else 'GOOGLE_QUOTE_UNAVAILABLE'
+        out = deepcopy(row)
+        for field in ('indexValue', 'previousClose', 'absoluteChange', 'changePercent', 'marketCap'):
+            out[field] = None
+            out.setdefault('field_metadata', {})[field] = {'validation_status':'DATA_UNAVAILABLE', 'reason':reason}
+
+    for field in ('indexValue', 'previousClose', 'absoluteChange', 'changePercent', 'marketCap'):
+        value, old = prior(field)
+        meta = out.setdefault('field_metadata', {}).get(field, {})
+        older = old and meta.get('source_timestamp') and timestamp(meta['source_timestamp']) < timestamp(old['source_timestamp'])
+        if old and (out.get(field) is None or older):
+            out[field] = value
+            out['field_metadata'][field] = dict(old, validation_status='STALE',
+                retention_reason='OLDER_GOOGLE_OBSERVATION' if older else reason)
+        elif out.get(field) is None:
+            out['field_metadata'][field] = dict(validation_status='DATA_UNAVAILABLE', source='Google Finance', reason=reason)
+        else:
+            out['field_metadata'][field]['reference_policy'] = 'GOOGLE_FINANCE_V1'
+        if field == 'marketCap' and out.get(field) is not None:
+            out['field_metadata'][field].update(
+                valuation_basis='Google Finance reported cap for ' + google_id(symbol, identity) + '; share-class scope not independently verified',
+                timestamp_scope='Google quote snapshot; no separate cap-specific timestamp',
+                reference='https://www.google.com/finance/quote/' + google_id(symbol, identity))
+
+    price_meta = out['field_metadata']['indexValue']
+    if out.get('indexValue') is not None:
+        out.update(source='Google Finance', source_timestamp=price_meta['source_timestamp'],
+            retrieved_at=price_meta.get('retrieved_at'), verification_version=1,
+            validation_status=price_meta['validation_status'], validationStatus=price_meta['validation_status'],
+            quote_quality='INDICATIVE', validation_scope='Google Finance reference; not independently verified')
+        out['sourceTimestamp'] = out['source_timestamp']
+        out['retrievedAt'] = out['retrieved_at']
+    elif any(out.get(f) is not None for f in ('marketCap','changePercent')):
+        out.update(verification_version=1, validation_status='STALE', validationStatus='STALE')
+    out['currency'] = out.get('quote_currency') or identity.get('currency') or previous.get('quote_currency') or previous.get('currency')
+    # Remove the old estimate/conversion provenance before recomputing FX from
+    # the selected Google native cap. No quarterly-share estimate is substituted.
+    for key in ('nativeMarketCap','native_market_cap_metadata','fxRate','fxTimestamp','fx_metadata','last_verified_fx_metadata','fxValidation'):
+        out.pop(key, None)
+    out['marketCapUSD'] = out['marketCap'] if out['currency'] == 'USD' else None
+    out['field_metadata']['marketCapUSD'] = (deepcopy(out['field_metadata']['marketCap'])
+        if out['currency'] == 'USD' else {'validation_status':'DATA_UNAVAILABLE', 'reason':'NATIVE_CURRENCY'})
+    out['stock_reference_policy'] = 'GOOGLE_FINANCE_V1'
+    return out
+
+
 def refresh_markets(payload):
     now = datetime.now(timezone.utc)
     symbols = [r.get('source_symbol') or ('BHARTIARTL.NS' if r['ticker'] == 'BHARTIARTL' else r['ticker'])
@@ -1048,6 +1136,8 @@ def refresh_markets(payload):
     if '005930.KS' in symbols:
         symbols.append('005935.KS')
     known = {r.get('source_symbol') or r['ticker']:r for rows in payload['regions'].values() for r in rows}
+    equity_symbols = {r.get('source_symbol') or ('BHARTIARTL.NS' if r['ticker'] == 'BHARTIARTL' else r['ticker'])
+                      for region in ('us', 'asia', 'india') for r in payload['regions'].get(region, [])}
     def identity(symbol):
         if symbol in quotes:
             return quotes[symbol]
@@ -1204,6 +1294,9 @@ def refresh_markets(payload):
                 reason = str(exc) if isinstance(exc, ValueError) else 'SAMSUNG_CAP_INPUT_UNAVAILABLE'
                 result = cap_unavailable(result, row, reason)
                 extra_errors[symbol] = reason
+        if symbol in equity_symbols:
+            result = google_equity_reference(result, row, symbol, secondary.get(symbol, {}),
+                                             identity(symbol), datetime.now(timezone.utc))
         attempts.append({'ticker': row['ticker'], 'retrieved_at': now_iso(),
                          'validation_status': result['validation_status'], 'reason': result.get('error', {}).get('reason'),
                          'free_source_error':extra_errors.get(symbol),
@@ -1247,4 +1340,5 @@ def refresh_markets(payload):
     else:
         output['updated'] = now_iso()
     return output, attempts
+
 

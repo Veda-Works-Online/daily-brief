@@ -1,5 +1,25 @@
 # Daily Brief market times
 
+## Current stock reference: Google Finance
+
+The displayed market cap and daily gain/loss for all US, Asia and India stocks
+use the matching Google Finance listing. Its regular-session header percentage
+is preferred to recalculation from rounded prices; extended-hours changes are
+not used. Legacy pages without that header retain same-source arithmetic.
+Both Google page routes are checked and the newer quote snapshot is selected.
+Yahoo/Nasdaq totals and Samsung share-count estimates are no longer substituted
+into these displayed fields. They remain secondary diagnostic adapters in the
+code described below. Google's cap remains indicative because share-class scope
+and a cap-specific timestamp are not independently established.
+
+Identity, listing, currency and freshness checks still apply. Older Google
+observations retain newer Google fields as stale; missing fields retain only a
+prior Google value as stale, otherwise show unavailable. Native HKD/KRW caps
+appear with the USD conversion so readers can compare directly with Google.
+The policy is recorded as `stock_reference_policy: GOOGLE_FINANCE_V1`.
+The secondary-provider selection descriptions below document the adapters;
+the final stock display selection above takes precedence over those adapters.
+
 Indian company caps use Google Finance only, refreshed on the five-minute cycle.
 The refresh validates issuer, NSE symbol, INR currency, positive finite values,
 and quote/retrieval freshness. Caps remain INDICATIVE because share-class scope

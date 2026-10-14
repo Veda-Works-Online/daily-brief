@@ -37,7 +37,7 @@ class USReconciliationTests(unittest.TestCase):
         out = m.accepted(self.row, 'ADBE', self.yahoo, self.google, self.now)
         self.assertIsNone(out['changePercent'])
 
-    def test_new_corroborated_cap_replaces_saved_nasdaq_but_conflict_retains_it(self):
+    def test_displayed_google_cap_is_not_replaced_by_yahoo_or_nasdaq(self):
         old = dict(self.row, marketCap=Decimal('90000000000'), marketCapUSD=Decimal('90000000000'),
             quote_currency='USD', field_metadata={'marketCap':dict(source='Nasdaq',
                 source_timestamp='2026-10-09T19:00:00+00:00', decimal='90000000000',
@@ -51,13 +51,14 @@ class USReconciliationTests(unittest.TestCase):
                 patch.object(m, 'fetch_google', return_value=self.google), \
                 patch.object(m, 'datetime', FrozenDatetime):
             out, _ = m.refresh_markets({'regions':{'us':[old]}})
-        self.assertEqual(out['regions']['us'][0]['marketCap'], self.yahoo['marketCap'])
-        self.assertEqual(out['regions']['us'][0]['field_metadata']['marketCap']['source'], 'Yahoo Finance')
+        self.assertEqual(out['regions']['us'][0]['marketCap'], self.google['marketCap'])
+        self.assertEqual(out['regions']['us'][0]['field_metadata']['marketCap']['source'], 'Google Finance')
         conflict = dict(self.google, marketCap=Decimal('80000000000'))
         with patch.object(m, 'yahoo_quotes', return_value={'ADBE':self.yahoo}), \
                 patch.object(m, 'fetch_google', return_value=conflict), \
                 patch.object(m, 'fetch_nasdaq_cap', side_effect=TimeoutError), \
                 patch.object(m, 'datetime', FrozenDatetime):
             out, _ = m.refresh_markets({'regions':{'us':[old]}})
-        self.assertEqual(out['regions']['us'][0]['marketCap'], old['marketCap'])
-        self.assertEqual(out['regions']['us'][0]['field_metadata']['marketCap']['source'], 'Nasdaq')
+        self.assertEqual(out['regions']['us'][0]['marketCap'], conflict['marketCap'])
+        self.assertEqual(out['regions']['us'][0]['field_metadata']['marketCap']['source'], 'Google Finance')
+
