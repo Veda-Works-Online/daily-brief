@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T09:03:05.407684+00:00",
+  "updated": "2026-10-14T09:06:35.158449+00:00",
   "items": [
+    {
+      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+      "url": "https://wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity",
+      "source": "Wired",
+      "published": "2026-10-14T09:00:00+00:00",
+      "retrieved_at": "2026-10-14T09:06:29.141081+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "39b25023aebbdb6bb5b9804f"
+    },
     {
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
       "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "141cf6f15407afb73428b95d"
-    },
-    {
-      "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order",
-      "source": "TechCrunch",
-      "published": "2026-10-03T15:02:01+00:00",
-      "retrieved_at": "2026-10-03T15:02:52.005037+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e5b7cc743df888d54747b7f6"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T09:02:58.016791+00:00",
+    "checked_at": "2026-10-14T09:06:27.834727+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
