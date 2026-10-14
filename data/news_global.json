@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-14T11:36:45.442180+00:00",
+  "updated": "2026-10-14T11:51:42.608808+00:00",
   "items": [
+    {
+      "title": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+      "url": "https://aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T11:39:06+00:00",
+      "retrieved_at": "2026-10-14T11:51:39.633072+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Saudi civil defence authority says danger passed after it issued alerts via its national early warning platform.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2ea0c79a2e3a60a3caf059f8"
+    },
     {
       "title": "Houthi missile hits Aramco building after Saudi-led coalition hits Yemen fuel depot",
       "url": "https://bbc.co.uk/news/articles/crx2d60y1py3o",
@@ -32,6 +48,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "87a3fec906d9eff1733b7c20"
+    },
+    {
+      "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+      "url": "https://aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T11:16:21+00:00",
+      "retrieved_at": "2026-10-14T11:51:39.633082+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Ships in the Strait of Hormuz have been experiencing the worst spate of attacks since the start of the war.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f41269ec3f34c592ce03b49f"
     },
     {
       "title": "Trump plans for ‘massive’ resource exploration in Greenland",
@@ -146,11 +178,11 @@
       "story_fingerprint": "a53808c7ec262a8d85405529"
     },
     {
-      "title": "What we know about Russia's overnight strikes on Ukraine",
+      "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
       "url": "https://bbc.co.uk/news/videos/cmx280x092x7o",
       "source": "BBC World",
       "published": "2026-10-14T09:25:03+00:00",
-      "retrieved_at": "2026-10-14T09:31:36.172779+00:00",
+      "retrieved_at": "2026-10-14T11:51:39.560238+00:00",
       "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "summary": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
       "category": "global",
@@ -159,7 +191,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "b6029c3d07095ba8211bb015"
+      "story_fingerprint": "e2f8627585138504938020ba"
     },
     {
       "title": "China’s exports surge amid AI-driven demand",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c03e9df16477d6656c406c8a"
-    },
-    {
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "url": "https://bbc.co.uk/news/articles/c5lye9z4xw4yo",
-      "source": "BBC World",
-      "published": "2026-10-09T22:30:22+00:00",
-      "retrieved_at": "2026-10-10T00:16:53.670923+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8b09c4317be672f8a0c1fd9b"
-    },
-    {
-      "title": "Trump confirms Fort Hood shooter’s execution will be by firing squad",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/9/trump-confirms-fort-hood-shooters-execution-will-be-by-firing-squad",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T21:53:01+00:00",
-      "retrieved_at": "2026-10-09T22:06:04.377028+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be public and livestreamed.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "65f495237f5ad1e0929f7621"
     }
   ],
   "unverified_history": [
