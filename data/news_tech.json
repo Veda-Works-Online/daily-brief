@@ -1,12 +1,29 @@
 {
-  "updated": "2026-10-14T21:28:36.088483+00:00",
+  "updated": "2026-10-14T21:33:36.175809+00:00",
   "items": [
     {
-      "title": "\"Programming is hard\": Epic Games leans on \"vibe coding\" for its new Launcher app",
+      "title": "Flock CEO says its microphones detect ‘just gunshots.’ Its website says different",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different",
+      "source": "TechCrunch AI",
+      "published": "2026-10-14T21:30:33+00:00",
+      "retrieved_at": "2026-10-14T21:33:30.336303+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1b7ac78ec2b6752b9ef19196"
+    },
+    {
+      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
       "url": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app",
       "source": "Ars Technica AI",
       "published": "2026-10-14T21:15:56+00:00",
-      "retrieved_at": "2026-10-14T21:23:26.920060+00:00",
+      "retrieved_at": "2026-10-14T21:33:30.809777+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
       "isAI": true,
@@ -16,7 +33,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "cf13d427dff308d493b81f98"
+      "story_fingerprint": "8626f96445568a7da58549ff"
     },
     {
       "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0322f4946f64a3e78a6086ff"
-    },
-    {
-      "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T18:29:00+00:00",
-      "retrieved_at": "2026-10-05T18:31:36.048415+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "becf887690f98fae920b8e98"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T21:28:30.604507+00:00",
+    "checked_at": "2026-10-14T21:33:29.845265+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
