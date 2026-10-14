@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-14T10:11:34.903189+00:00",
+  "updated": "2026-10-14T10:26:53.422252+00:00",
   "items": [
+    {
+      "title": "Albanian students clash with police as they protest over education and jobs",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/14/albanian-students-clash-with-police-as-they-protest-over-education-and-jobs",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T10:14:17+00:00",
+      "retrieved_at": "2026-10-14T10:26:50.483630+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Albanian students clash with police as they protest education costs, poor university conditions and bleak job prospects.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e2398e283702457c2e2253b8"
+    },
+    {
+      "title": "Israeli air strike kills Palestinian woman in Gaza City",
+      "url": "https://aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T10:08:49+00:00",
+      "retrieved_at": "2026-10-14T10:26:50.483644+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The woman's young daughter was rescued from a large fire inside the apartment, caused by the attack.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d6c8397c8cf0672ac8c94d57"
+    },
     {
       "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
       "url": "https://bbc.co.uk/news/articles/cm2d6e62p49do",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c141abec33cfefda2b7fb5e3"
-    },
-    {
-      "title": "European states, Canada, Japan and UN back ICC against US sanctions",
-      "url": "https://aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions",
-      "source": "Al Jazeera",
-      "published": "2026-10-09T19:32:13+00:00",
-      "retrieved_at": "2026-10-09T19:41:11.464681+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Several US allies call to 'defend' and 'protect' the ICC following Washington's decision to sanction the judiciary body.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8d58628d6444c5468524bfcf"
-    },
-    {
-      "title": "Commentator Katie Zacharia picked as new White House press secretary",
-      "url": "https://bbc.co.uk/news/articles/c5rmy73zr0rro",
-      "source": "BBC World",
-      "published": "2026-10-09T18:52:06+00:00",
-      "retrieved_at": "2026-10-09T18:56:11.957991+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a7c85c41b113651e786e1175"
     }
   ],
   "unverified_history": [
