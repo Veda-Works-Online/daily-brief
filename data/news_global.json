@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-14T20:33:48.071565+00:00",
+  "updated": "2026-10-14T20:53:44.885593+00:00",
   "items": [
+    {
+      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "url": "https://bbc.co.uk/news/articles/c8wy9veedgygo",
+      "source": "BBC World",
+      "published": "2026-10-14T20:17:09+00:00",
+      "retrieved_at": "2026-10-14T20:53:39.625902+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4f4267458091e636977dbbaf"
+    },
     {
       "title": "Russia attack hits Kyiv after reported intelligence lapse",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/14/russia-attack-hits-kyiv-after-reported-intelligence-lapse",
@@ -48,6 +64,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "123bf3e4cbe612ab1b30660a"
+    },
+    {
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "url": "https://bbc.co.uk/news/articles/cqkgk4zg54reo",
+      "source": "BBC World",
+      "published": "2026-10-14T19:52:04+00:00",
+      "retrieved_at": "2026-10-14T20:53:39.626111+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ae600cc48e02e23b1fb30d78"
     },
     {
       "title": "Bangladesh arrests two for luring locals to fight for Russia in Ukraine",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7bc0ce803360d89b772015de"
-    },
-    {
-      "title": "With or without Hamas",
-      "url": "https://aljazeera.com/opinions/2026/10/10/with-or-without-hamas",
-      "source": "Al Jazeera",
-      "published": "2026-10-10T15:19:41+00:00",
-      "retrieved_at": "2026-10-10T15:33:54.269686+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Hamas’s fate will not profoundly shape Gaza’s future.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f8e4c5d596bd56deb34d1413"
-    },
-    {
-      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "url": "https://bbc.co.uk/news/articles/c8vgx9ew571wo",
-      "source": "BBC World",
-      "published": "2026-10-10T14:49:32+00:00",
-      "retrieved_at": "2026-10-10T14:53:55.081313+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9408b4cf37646ef38e222d4e"
     }
   ],
   "unverified_history": [
