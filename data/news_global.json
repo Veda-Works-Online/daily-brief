@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T13:53:11.137405+00:00",
+  "updated": "2026-10-14T14:03:09.781183+00:00",
   "items": [
     {
       "title": "UK restaurateur claims losses after video calling for Gaza destruction",
@@ -48,6 +48,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "77e22c5bef46abc2fb77f285"
+    },
+    {
+      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+      "url": "https://bbc.co.uk/news/articles/cm2d6e62p49do",
+      "source": "BBC World",
+      "published": "2026-10-14T13:11:17+00:00",
+      "retrieved_at": "2026-10-14T14:03:04.330063+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1492e0e33ae004af192fbbbb"
     },
     {
       "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
@@ -128,22 +144,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "052f135179bfbcb914a3a18a"
-    },
-    {
-      "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
-      "url": "https://bbc.co.uk/news/articles/cm2d6e62p49do",
-      "source": "BBC World",
-      "published": "2026-10-14T11:32:07+00:00",
-      "retrieved_at": "2026-10-14T11:36:42.449662+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "87a3fec906d9eff1733b7c20"
     },
     {
       "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",

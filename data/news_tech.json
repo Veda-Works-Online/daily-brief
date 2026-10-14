@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T13:57:58.296990+00:00",
+  "updated": "2026-10-14T14:03:00.663308+00:00",
   "items": [
+    {
+      "title": "NTangible bets it can predict how athletes will perform under pressure",
+      "url": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure",
+      "source": "TechCrunch",
+      "published": "2026-10-14T14:00:00+00:00",
+      "retrieved_at": "2026-10-14T14:02:56.458764+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's \"clutch\" factor.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a6c427bf0d8b6f3d57f22329"
+    },
     {
       "title": "Anthropic warns small AI models could self-replicate through IoT devices",
       "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "source_type": "PUBLISHER",
       "story_fingerprint": "722e9b6557261ae96807f5ed"
-    },
-    {
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions",
-      "source": "TechCrunch AI",
-      "published": "2026-10-04T20:31:07+00:00",
-      "retrieved_at": "2026-10-04T20:33:06.767490+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "AI slop seems to be overwhelming bug bounty programs.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4e8e6c56cff0eb5fba46f152"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T13:57:48.630587+00:00",
+    "checked_at": "2026-10-14T14:02:54.613856+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
