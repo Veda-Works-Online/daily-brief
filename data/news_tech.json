@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T14:27:58.741808+00:00",
+  "updated": "2026-10-14T14:32:52.743177+00:00",
   "items": [
+    {
+      "title": "TechCrunch Disrupt 2026: Day 2",
+      "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2",
+      "source": "TechCrunch",
+      "published": "2026-10-14T14:30:00+00:00",
+      "retrieved_at": "2026-10-14T14:32:48.496733+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b6477f32fcbb59d919e69e65"
+    },
     {
       "title": "NTangible bets it can predict how athletes will perform under pressure",
       "url": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure",
@@ -646,23 +663,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "10a084fc831ddc18df0875d2"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Day 1",
-      "url": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1",
-      "source": "TechCrunch AI",
-      "published": "2026-10-13T14:00:00+00:00",
-      "retrieved_at": "2026-10-13T14:02:55.355039+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "076567d99187bc27761caeb7"
     },
     {
       "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T14:27:51.483056+00:00",
+    "checked_at": "2026-10-14T14:32:46.618002+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
