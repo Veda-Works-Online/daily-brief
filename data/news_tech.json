@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T15:32:57.769334+00:00",
+  "updated": "2026-10-14T15:37:52.320732+00:00",
   "items": [
     {
       "title": "Deezer will soon let you filter out AI-generated music",
@@ -38,17 +38,17 @@
     {
       "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
       "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers",
-      "source": "TechCrunch",
+      "source": "TechCrunch AI",
       "published": "2026-10-14T15:00:00+00:00",
-      "retrieved_at": "2026-10-14T15:02:57.011636+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Floqer is an autonomous customer knowledge platform that provides business-to-business sales and marketing teams with an AI-powered database designed to continuously collect, organize, and update the information used to understand their customers. Floqer is pitching Wednesday on the Startup Battlefield stage at TechCrunch Disrupt 2026. The startup told TechCrunch ahead of the presentation that it…",
+      "retrieved_at": "2026-10-14T15:37:46.874708+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d7a8a07f9e42e26f5604e902"
     },
@@ -85,6 +85,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a6c427bf0d8b6f3d57f22329"
+    },
+    {
+      "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps",
+      "source": "Ars Technica",
+      "published": "2026-10-14T13:56:11+00:00",
+      "retrieved_at": "2026-10-14T15:37:47.973927+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "08045527af0efab049709120"
     },
     {
       "title": "Anthropic warns small AI models could self-replicate through IoT devices",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c903df679146b066796774ae"
-    },
-    {
-      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
-      "url": "https://wired.com/gallery/best-portable-chargers-power-banks",
-      "source": "Wired",
-      "published": "2026-10-05T11:00:00+00:00",
-      "retrieved_at": "2026-10-05T11:05:28.208335+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "10d1eaaa82a3b2fea6f8cdad"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T15:32:51.524948+00:00",
+    "checked_at": "2026-10-14T15:37:45.998547+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
