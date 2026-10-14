@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T09:26:35.053669+00:00",
+  "updated": "2026-10-14T09:31:34.437285+00:00",
   "items": [
     {
       "title": "Tesla’s Roadster 2 Is Late—and Entering a Different EV World",
@@ -51,6 +51,23 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "8e44ba96b3bbd551d8975c63"
+    },
+    {
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "source": "OpenAI",
+      "published": "2026-10-14T00:00:00+00:00",
+      "retrieved_at": "2026-10-14T09:31:31.880019+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "d43b53d500af1b4c9c7b7960"
     },
     {
       "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "562b5bc5d70c1e5d77ffd998"
-    },
-    {
-      "title": "The Nvidia Shield TV Is 7 Years Old. It Just Got a $100 Price Hike",
-      "url": "https://wired.com/story/7-year-old-tv-now-100-dollars-more-expensive-thank-ai",
-      "source": "Wired",
-      "published": "2026-10-03T18:00:00+00:00",
-      "retrieved_at": "2026-10-03T18:03:39.745667+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The price of anything with memory is skyrocketing thanks to AI. Aging streaming devices are no exception.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5e75a568a0bcadac2d4a7728"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T09:26:31.488735+00:00",
+    "checked_at": "2026-10-14T09:31:30.851340+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

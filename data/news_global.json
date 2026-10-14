@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-14T09:26:42.024475+00:00",
+  "updated": "2026-10-14T09:31:39.234627+00:00",
   "items": [
+    {
+      "title": "What we know about Russia's overnight strikes on Ukraine",
+      "url": "https://bbc.co.uk/news/videos/cmx280x092x7o",
+      "source": "BBC World",
+      "published": "2026-10-14T09:25:03+00:00",
+      "retrieved_at": "2026-10-14T09:31:36.172779+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b6029c3d07095ba8211bb015"
+    },
     {
       "title": "China’s exports surge amid AI-driven demand",
       "url": "https://aljazeera.com/economy/2026/10/14/chinas-exports-sugrge",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "02f31a17389196f68367f77f"
-    },
-    {
-      "title": "Why Afghanistan’s Neighbors Have Not Backed Pakistan’s Strikes on the Taliban",
-      "url": "https://thediplomat.com/2026/10/why-afghanistans-neighbors-have-not-backed-pakistans-strikes-on-the-taliban",
-      "source": "The Diplomat",
-      "published": "2026-10-09T18:48:00+00:00",
-      "retrieved_at": "2026-10-09T23:11:03.659172+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "China, Uzbekistan, and Tajikistan are less exposed to the impact of cross-border terrorism – and less willing to risk smooth relations with Kabul over the issue.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1499dbff1cc8fb4650a0464a"
     }
   ],
   "unverified_history": [
