@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T20:58:36.426101+00:00",
+  "updated": "2026-10-14T21:03:41.430116+00:00",
   "items": [
+    {
+      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+      "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts",
+      "source": "TechCrunch",
+      "published": "2026-10-14T21:00:00+00:00",
+      "retrieved_at": "2026-10-14T21:03:34.063750+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "78d4d3b06c77af361b1812cf"
+    },
     {
       "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
       "url": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine",
@@ -34,6 +51,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ed5fc430164b80d420ef2e76"
+    },
+    {
+      "title": "Software development and rules stability: Prototype racing in 2030",
+      "url": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030",
+      "source": "Ars Technica",
+      "published": "2026-10-14T19:44:26+00:00",
+      "retrieved_at": "2026-10-14T21:03:34.235908+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fa490fd55c68b97577fda058"
     },
     {
       "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "63b37ed8b3a130e553366d2b"
-    },
-    {
-      "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T17:29:22+00:00",
-      "retrieved_at": "2026-10-05T17:31:37.587407+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a6e8da6269f97c3fa895dd11"
-    },
-    {
-      "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
-      "url": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day",
-      "source": "TechCrunch",
-      "published": "2026-10-05T17:26:44+00:00",
-      "retrieved_at": "2026-10-05T17:31:38.443008+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "TechCrunch attended Pear’s latest demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "19137d8497bfaab0c9851cfb"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T20:58:31.032093+00:00",
+    "checked_at": "2026-10-14T21:03:32.604955+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

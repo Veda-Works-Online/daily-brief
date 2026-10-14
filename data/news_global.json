@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-14T20:53:44.885593+00:00",
+  "updated": "2026-10-14T21:03:51.436460+00:00",
   "items": [
+    {
+      "title": "Israeli quadcopter drone drops bomb in Lebanon",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T20:47:46+00:00",
+      "retrieved_at": "2026-10-14T21:03:45.926287+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "An Israeli quadcopter drone was filmed dropping a bomb on the outskirts of the village of Zibqin in southern Lebanon.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ffad0fed55bc059c5cf9164a"
+    },
+    {
+      "title": "Families of Trinidadian men killed in US boat strike demand accountability",
+      "url": "https://aljazeera.com/news/2026/10/14/families-of-trinidadian-men-killed-in-us-boat-strike-demand-accountability",
+      "source": "Al Jazeera",
+      "published": "2026-10-14T20:42:59+00:00",
+      "retrieved_at": "2026-10-14T21:03:45.926305+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The Trump administration has killed at least 239 people in boat strikes denounced as extrajudicial killings.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "790353d2a253bf7739e735ad"
+    },
     {
       "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
       "url": "https://bbc.co.uk/news/articles/c8wy9veedgygo",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5fb34c5ae166e79586cc3370"
-    },
-    {
-      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "url": "https://bbc.co.uk/news/articles/cqkgjrpmr47vo",
-      "source": "BBC World",
-      "published": "2026-10-10T15:23:47+00:00",
-      "retrieved_at": "2026-10-10T15:28:54.766583+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cfa92121bab1843f91dec4bf"
-    },
-    {
-      "title": "Trump Accounts: Free money, but who gets a say?",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say",
-      "source": "Al Jazeera",
-      "published": "2026-10-10T15:21:39+00:00",
-      "retrieved_at": "2026-10-10T15:58:54.576297+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump Accounts promise children a financial head start. Al Jazeera’s Emma Withrow spoke with one parent.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7bc0ce803360d89b772015de"
     }
   ],
   "unverified_history": [
