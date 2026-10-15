@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-15T14:26:31.132741+00:00",
+  "updated": "2026-10-15T14:31:31.463495+00:00",
   "items": [
+    {
+      "title": "Google’s Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T14:29:33+00:00",
+      "retrieved_at": "2026-10-15T14:31:24.740539+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "87e94a43e88c4f913da93181"
+    },
     {
       "title": "TechCrunch Disrupt 2026: Last day",
       "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1ec38ce3a2260d63188f3b50"
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "source": "OpenAI",
-      "published": "2026-10-06T12:00:00+00:00",
-      "retrieved_at": "2026-10-15T14:26:24.118742+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "4a12763560a85f25ffa4452a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T14:26:22.677095+00:00",
+    "checked_at": "2026-10-15T14:31:23.967449+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

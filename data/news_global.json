@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-15T13:51:41.989812+00:00",
+  "updated": "2026-10-15T14:31:40.528246+00:00",
   "items": [
+    {
+      "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
+      "url": "https://bbc.co.uk/news/articles/crx23qlnj27qo",
+      "source": "BBC World",
+      "published": "2026-10-15T14:28:54+00:00",
+      "retrieved_at": "2026-10-15T14:31:34.647190+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The planned execution of Nidal Hasan is scheduled to be the first military execution in more than 60 years.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2111536cddc00e532da4b306"
+    },
     {
       "title": "What is Starshield, and who limited Ukraine’s access to it?",
       "url": "https://aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "701b3490f41e9a9819220354"
-    },
-    {
-      "title": "Cockroach Janta Party accuses Modi of ‘waging war’ on Indians",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T13:34:07+00:00",
-      "retrieved_at": "2026-10-11T14:02:17.699791+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "India’s Cockroach Janta Party leaders say the Modi government is ‘waging war’ on its own citizens.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c97bf8295c3a4e602b35c298"
     }
   ],
   "unverified_history": [
