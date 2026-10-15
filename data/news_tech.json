@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-15T19:27:04.676893+00:00",
+  "updated": "2026-10-15T19:32:03.524081+00:00",
   "items": [
+    {
+      "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network",
+      "source": "TechCrunch",
+      "published": "2026-10-15T19:29:05+00:00",
+      "retrieved_at": "2026-10-15T19:32:00.105938+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "959cd23241cc963a28111ee8"
+    },
     {
       "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
       "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access",
@@ -818,23 +835,6 @@
       "story_fingerprint": "26e7225a248f631d38caf185"
     },
     {
-      "title": "My Friend Has No Soul",
-      "url": "https://wired.com/story/my-friend-has-no-soul",
-      "source": "Wired",
-      "published": "2026-10-14T11:00:00+00:00",
-      "retrieved_at": "2026-10-14T11:06:35.975036+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "18cdd04190bc9d6dbf836d4b"
-    },
-    {
       "title": "Breville Eye Q Toaster Review: Neat Sensors, but Less-Than-Perfect Toast",
       "url": "https://wired.com/review/breville-eye-q-toaster",
       "source": "Wired",
@@ -850,6 +850,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cdef6d2f0d617ae9fb2d26c5"
+    },
+    {
+      "title": "My Friend Has No Soul",
+      "url": "https://wired.com/story/my-friend-has-no-soul",
+      "source": "Wired",
+      "published": "2026-10-14T11:00:00+00:00",
+      "retrieved_at": "2026-10-14T11:06:35.975036+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "18cdd04190bc9d6dbf836d4b"
     },
     {
       "title": "Men Can’t Stop Faking How Much They Know About AI",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "2bf5a46e2b4b213014f71ed2"
-    },
-    {
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits",
-      "source": "TechCrunch AI",
-      "published": "2026-10-06T16:00:00+00:00",
-      "retrieved_at": "2026-10-06T16:01:09.926837+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "26c5fb0c588961f64076bf2d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T19:26:57.261029+00:00",
+    "checked_at": "2026-10-15T19:31:58.986428+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T19:22:05.315996+00:00",
+  "updated": "2026-10-15T19:32:09.149899+00:00",
   "items": [
     {
       "title": "Letters with 'suspicious substances' sent to US election offices",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4bf9b72618c544ecd396a7b6"
+    },
+    {
+      "title": "Dying in ICE custody: Inside one family’s story of heartbreak",
+      "url": "https://aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T18:57:08+00:00",
+      "retrieved_at": "2026-10-15T19:32:06.003123+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Ismael Ayala-Uribe was one of 53 people to die in ICE custody during Trump’s first 500 days back in office.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "00b6c721921a5d12c6dbb445"
     },
     {
       "title": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3671e2bd41954998964f2f19"
-    },
-    {
-      "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T18:25:42+00:00",
-      "retrieved_at": "2026-10-11T18:33:00.953716+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e79f8969393c7105007d0027"
     }
   ],
   "unverified_history": [
