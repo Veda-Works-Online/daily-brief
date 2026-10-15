@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-15T11:01:10.652939+00:00",
+  "updated": "2026-10-15T11:06:11.175380+00:00",
   "items": [
+    {
+      "title": "Kids’ Content Is Deeply Broken. A New Platform Wants to Fix It",
+      "url": "https://wired.com/story/maka-streaming-platform-for-kids-fighting-against-ai-slop",
+      "source": "Wired",
+      "published": "2026-10-15T11:00:00+00:00",
+      "retrieved_at": "2026-10-15T11:06:06.822983+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Low-quality AI-generated content currently dominates children’s media. Maka, a streaming platform run by child development experts, is offering an alternative.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5debafa94a1fb6eac9e7dd7d"
+    },
     {
       "title": "Figma announces new features to define how agents work on its platform",
       "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "e7629629c10b1e251496040f"
-    },
-    {
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "source": "Hugging Face",
-      "published": "2026-10-06T06:44:39+00:00",
-      "retrieved_at": "2026-10-06T06:45:12.420099+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "12f2259140a30f62dc9986d7"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T11:01:04.353232+00:00",
+    "checked_at": "2026-10-15T11:06:04.917126+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
