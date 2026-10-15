@@ -276,6 +276,27 @@ function marketReference(row, field, usdInr = null) {
   return [...new Set(sources.filter(Boolean))].join(' / ') || 'No available source';
 }
 
+function stockSessionPhase(row, field) {
+  const meta = row.field_metadata?.[field];
+  const session = meta?.trading_session;
+  const zone = session?.timezone || row.market_timezone;
+  if (!zone) return null;
+  try {
+    const dateFormat = new Intl.DateTimeFormat('en-CA', {timeZone:zone,year:'numeric',month:'2-digit',day:'2-digit'});
+    const today = dateFormat.format(new Date());
+    if (session?.date && session.date < today) return row.market_status === 'OPEN' ? 'AWAITING TODAY’S QUOTE' : 'PREVIOUS SESSION';
+    if (!session?.date && zone === 'Asia/Kolkata' && meta?.source_timestamp) {
+      const instant = new Date(meta.source_timestamp);
+      const parts = new Intl.DateTimeFormat('en-GB',{timeZone:zone,hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).formatToParts(instant);
+      const clock = Object.fromEntries(parts.map(p=>[p.type,p.value]));
+      const minute = Number(clock.hour)*60+Number(clock.minute);
+      if (dateFormat.format(instant) === today && minute >= 9*60 && minute < 9*60+15) {
+        return row.market_status === 'OPEN' ? 'AWAITING REGULAR-SESSION QUOTE' : 'PRE-OPEN OBSERVATION';
+      }
+    }
+  } catch { return null; }
+  return null;
+}
 function stockFieldLabel(row, field) {
   const meta = row.field_metadata?.[field];
   if (!canDisplay(row, field)) return '<br><small>DATA UNAVAILABLE · Session unconfirmed</small>';
@@ -284,8 +305,9 @@ function stockFieldLabel(row, field) {
   const zone = session?.timezone || row.market_timezone;
   const stale = staleQuote(row, field);
   const activity = stale ? lastTradeEvidence(row, field) : null;
+  const phase = stockSessionPhase(row, field);
   const status = stale ? 'STALE' : meta.validation_status === 'INDICATIVE' || meta.quality === 'INDICATIVE' ? 'INDICATIVE' : 'VERIFIED';
-  const parts = [stale ? activity ? 'OLDER LAST-TRADE QUOTE' : 'STALE' : date ? 'Within freshness limit' : 'Observation within freshness limit', status === 'STALE' ? '' : status,
+  const parts = [stale ? activity ? 'OLDER LAST-TRADE QUOTE' : 'STALE' : phase || (date ? 'Within freshness limit' : 'Observation within freshness limit'), stale && phase ? phase : '', status === 'STALE' ? '' : status,
     date ? 'Session ' + date + ' (' + zone + ')' : 'Session unconfirmed'].filter(Boolean);
   const ts = session?.timestamp;
   if (ts) parts.push((field === 'marketCap' ? 'Valuation quote ' : 'Quote ') + quoteTime(ts, row.display_timezone));
@@ -631,6 +653,7 @@ document.addEventListener('visibilitychange', () => {
   if (!document.hidden) refreshData();
 });
 if (window.innerWidth >= 820) body.classList.add('menu-open');
+
 
 
 

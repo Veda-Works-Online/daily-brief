@@ -181,7 +181,7 @@ const sessionHtml = ctx.renderStocksTable([sessionStock], 'india');
 assert.equal((sessionHtml.match(/Session 2026-10-13 \(Asia\/Kolkata\)/g)||[]).length, 2);
 assert(sessionHtml.includes('₹3.11 L Cr'));
 assert(sessionHtml.includes('+2.47%'));
-assert(sessionHtml.includes('STALE · Session'));
+assert(sessionHtml.includes('STALE'));
 assert(sessionHtml.includes('Cap-specific time unavailable'));
 assert(!sessionHtml.includes('14 Oct 2026, 09:09:34 IST'));
 const independent = {...sessionStock, validation_status:'STALE', field_metadata:{...sessionStock.field_metadata,
@@ -219,6 +219,26 @@ assert(!ctx.stockFieldLabel(oldTrade,'marketCap').includes('OLDER LAST-TRADE QUO
 oldTrade.quote_activity.checked_at = new Date(Date.now()-601000).toISOString();
 assert(!ctx.stockFieldLabel(oldTrade,'changePercent').includes('OLDER LAST-TRADE QUOTE'));
 assert(ctx.stockFieldLabel(oldTrade,'changePercent').includes('STALE'));
+const realDate = ctx.Date;
+ctx.Date = class extends Date {
+  constructor(...args) { super(...(args.length ? args : ['2026-10-15T03:47:00Z'])); }
+  static now() { return new Date('2026-10-15T03:47:00Z').getTime(); }
+};
+const openingRow = {...sessionStock,market_status:'CLOSED',market_timezone:'Asia/Kolkata',
+  field_metadata:{marketCap:{validation_status:'INDICATIVE',decimal:'3110000000000',source:'Google Finance',
+    source_timestamp:'2026-10-14T10:00:00Z',trading_session:{date:'2026-10-14',timezone:'Asia/Kolkata',timestamp:'2026-10-14T10:00:00Z'}}}};
+assert(ctx.stockFieldLabel(openingRow,'marketCap').includes('PREVIOUS SESSION'));
+assert(!ctx.stockFieldLabel(openingRow,'marketCap').includes('Within freshness limit'));
+openingRow.market_status='OPEN';
+assert(ctx.stockFieldLabel(openingRow,'marketCap').includes('AWAITING TODAY’S QUOTE'));
+openingRow.field_metadata.marketCap.source_timestamp='2026-10-15T03:39:34Z';
+openingRow.field_metadata.marketCap.trading_session={date:null,timezone:'Asia/Kolkata'};
+assert(ctx.stockFieldLabel(openingRow,'marketCap').includes('AWAITING REGULAR-SESSION QUOTE'));
+openingRow.field_metadata.marketCap.source_timestamp='2026-10-15T03:46:34Z';
+openingRow.field_metadata.marketCap.trading_session={date:'2026-10-15',timezone:'Asia/Kolkata',timestamp:'2026-10-15T03:46:34Z'};
+assert(ctx.stockFieldLabel(openingRow,'marketCap').includes('Within freshness limit'));
+assert(!ctx.stockFieldLabel(openingRow,'marketCap').includes('AWAITING'));
+ctx.Date = realDate;
 sessionStock.field_metadata.changePercent.validation_status='DATA_UNAVAILABLE';
 assert(ctx.stockFieldLabel(sessionStock, 'changePercent').includes('DATA UNAVAILABLE · Session unconfirmed'));
 for (const region of ['us', 'asia', 'india']) {
@@ -265,5 +285,6 @@ assert(ctx.renderStocksTable([bseRow],'india').includes('BSE full company cap'))
 const nasdaqRow = {...freshRow,name:'Alphabet',field_metadata:{marketCap:{source:'Nasdaq',
   validation_status:'INDICATIVE',source_date:'2026-10-08'}}};
 assert(ctx.renderStocksTable([nasdaqRow],'us').includes('Nasdaq company cap'));
+
 
 

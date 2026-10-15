@@ -79,6 +79,28 @@ class RecoveryTests(unittest.TestCase):
         self.assertEqual(worker.next_tick(1000, 1075, 300), 1300)
         self.assertEqual(worker.next_tick(1000, 1350, 300), 1600)
 
+    def test_opening_poll_interrupts_preopen_sleep(self):
+        start=datetime(2026,10,15,3,43,tzinfo=timezone.utc)
+        end=datetime(2026,10,15,3,44,tzinfo=timezone.utc)
+        self.assertEqual(worker.next_refresh_tick(1000,1060,300,start,end),1120)
+
+    def test_fetch_crossing_open_is_followed_by_serial_refresh(self):
+        start=datetime(2026,10,15,3,44,tzinfo=timezone.utc)
+        end=datetime(2026,10,15,3,46,tzinfo=timezone.utc)
+        self.assertEqual(worker.next_refresh_tick(1000,1120,300,start,end),1120)
+        start=datetime(2026,10,15,3,46,tzinfo=timezone.utc)
+        end=datetime(2026,10,15,3,47,tzinfo=timezone.utc)
+        self.assertEqual(worker.next_refresh_tick(1000,1180,300,start,end),1300)
+
+    def test_weekends_and_after_open_keep_normal_cadence(self):
+        for day in (15,17):
+            start=datetime(2026,10,day,3,46,tzinfo=timezone.utc)
+            end=datetime(2026,10,day,3,47,tzinfo=timezone.utc)
+            self.assertEqual(worker.next_refresh_tick(1000,1180,300,start,end),1300)
+        start=datetime(2026,10,17,3,43,tzinfo=timezone.utc)
+        end=datetime(2026,10,17,3,44,tzinfo=timezone.utc)
+        self.assertEqual(worker.next_refresh_tick(1000,1060,300,start,end),1300)
+
     def test_failed_fetch_is_never_committed_or_pushed(self):
         import subprocess
         with patch.object(worker, 'git_revision', return_value='base'), \
@@ -103,3 +125,4 @@ class RecoveryTests(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+

@@ -1,5 +1,14 @@
 # Daily Brief market times
 
+The worker adds a weekday 09:15 IST source poll to the normal five-minute
+cadence. A pre-open fetch that finishes after 09:15 is followed immediately by
+another serial fetch. This polling boundary does not assert that a holiday is
+a trading day, and it cannot eliminate provider delays. Existing workers adopt
+the scheduler change on restart/successor; each data fetch already loads the
+latest source-selection code. Yesterday's stock fields visibly say PREVIOUS
+SESSION (or AWAITING TODAY'S QUOTE when the checked market state is OPEN).
+Pre-open observations are not relabelled as regular-session opening quotes.
+
 Older last-trade quotes are distinguished from failed refreshes. If fresh,
 matching Google and Yahoo observations agree on the same old regular-session
 trade in today's open session, field labels show `OLDER LAST-TRADE QUOTE`, the
@@ -169,5 +178,6 @@ per-run artifacts record free-source errors. Public endpoint availability is not
 a guarantee of real-time data. Market-cap cells retain their numeric formatting.
 
 Samsung class-price fallback: when the common quote uses Yahoo Finance, both explicitly identified KRX classes use Yahoo regular-session prices with the same freshness and timing checks. Market cap records its own class input timestamps; retained display prices are not substituted into the calculation.
+
 
 
