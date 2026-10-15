@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-15T03:04:20.808825+00:00",
+  "updated": "2026-10-15T03:43:50.971854+00:00",
   "items": [
+    {
+      "title": "North Korea tests two submarine-launched missiles, state media reports",
+      "url": "https://aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T03:23:49+00:00",
+      "retrieved_at": "2026-10-15T03:43:46.500652+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The tests showcase North Korea's war deterrent capabilities in the region, KCNA says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "dd2e657cc0ccf20aa14352ce"
+    },
+    {
+      "title": "Trump administration seeks to strip Ilhan Omar of US citizenship: WSJ",
+      "url": "https://aljazeera.com/news/2026/10/15/trump-administration-seeks-to-strip-ilhan-omar-of-us-citizenship-wsj",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T03:03:00+00:00",
+      "retrieved_at": "2026-10-15T03:43:46.500699+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Investigators have subpoenaed relatives and examined immigration records, the newspaper reports.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "602c875f206d90e5c3975f9d"
+    },
     {
       "title": "Trump plays Muslim Brotherhood card against Senate candidate El-Sayed",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/15/14-10-clip-trump-attacks-el-sayed-mb-us",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9ba92710af5ba8991aa30c0a"
-    },
-    {
-      "title": "Whither Japan’s Three Non-Nuclear Principles?",
-      "url": "https://thediplomat.com/2026/10/whither-japans-three-non-nuclear-principles",
-      "source": "The Diplomat",
-      "published": "2026-10-10T20:16:00+00:00",
-      "retrieved_at": "2026-10-10T23:09:46.782544+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "A highly contentious debate is in the offing.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bf28d5d6997155a7d20a0c4d"
-    },
-    {
-      "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into",
-      "source": "Al Jazeera",
-      "published": "2026-10-10T20:14:01+00:00",
-      "retrieved_at": "2026-10-10T20:39:43.998682+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "An Israeli strike destroyed a residential building in the Al-Rimal neighbourhood in Gaza City.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "455abacbca22de7772496c1d"
     }
   ],
   "unverified_history": [
