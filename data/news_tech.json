@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-15T18:52:01.233658+00:00",
+  "updated": "2026-10-15T18:57:00.473460+00:00",
   "items": [
+    {
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T18:56:46+00:00",
+      "retrieved_at": "2026-10-15T18:56:57.651287+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "886a19fbde443d3fd1583a5a"
+    },
     {
       "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
       "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "19200fb1cda0f2033c644f64"
-    },
-    {
-      "title": "All-electric camping gets a solar upgrade: The 2027 Pebble Flow",
-      "url": "https://arstechnica.com/cars/2026/10/this-self-parking-electric-travel-trailer-gets-a-solar-upgrade-for-2027",
-      "source": "Ars Technica",
-      "published": "2026-10-06T15:23:28+00:00",
-      "retrieved_at": "2026-10-06T18:46:42.173341+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "The Pebble Flow has a 45 kWh LFP battery and can even charge an EV.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9c0c6ab140a54b376616bc2e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T18:51:57.827905+00:00",
+    "checked_at": "2026-10-15T18:56:57.130066+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
