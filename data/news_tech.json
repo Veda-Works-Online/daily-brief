@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-15T15:22:02.014783+00:00",
+  "updated": "2026-10-15T15:27:00.717286+00:00",
   "items": [
     {
-      "title": "YouTube Music begins labeling AI songs",
+      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling",
       "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs",
       "source": "Ars Technica AI",
       "published": "2026-10-15T15:12:58+00:00",
-      "retrieved_at": "2026-10-15T15:17:01.962934+00:00",
+      "retrieved_at": "2026-10-15T15:26:58.035179+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
       "isAI": true,
@@ -16,7 +16,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "c793665ea8d8480c9df43882"
+      "story_fingerprint": "07754b193ef46e35cc8f5463"
     },
     {
       "title": "AI agents are coming to Rivian’s cars",
@@ -204,6 +204,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "67a01011e9c14bc137e15ede"
+    },
+    {
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
+      "source": "Hugging Face",
+      "published": "2026-10-15T00:00:00+00:00",
+      "retrieved_at": "2026-10-15T15:26:57.742233+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "585c27c6b89336a46a3c68d1"
     },
     {
       "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0b7a298b8121820289ae5dc8"
-    },
-    {
-      "title": "Glimpse wants to give hardware companies an X-ray view of every critical part",
-      "url": "https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part",
-      "source": "TechCrunch",
-      "published": "2026-10-06T13:15:00+00:00",
-      "retrieved_at": "2026-10-06T13:16:04.749357+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Called Explore, Glimpse's new image processing software lets hardware makers speed up quality control checks using CT scanners.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d7c24a1c290944d435d95064"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T15:21:58.565814+00:00",
+    "checked_at": "2026-10-15T15:26:56.975800+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
