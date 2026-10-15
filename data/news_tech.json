@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-15T21:02:39.853872+00:00",
+  "updated": "2026-10-15T21:07:37.504095+00:00",
   "items": [
+    {
+      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+      "url": "https://wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up",
+      "source": "Wired",
+      "published": "2026-10-15T21:00:28+00:00",
+      "retrieved_at": "2026-10-15T21:07:34.402505+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e9bdf985a41726b8c47da614"
+    },
     {
       "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0f3945c541e07cfdaa0b30f9"
-    },
-    {
-      "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
-      "url": "https://wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again",
-      "source": "Wired",
-      "published": "2026-10-06T17:28:33+00:00",
-      "retrieved_at": "2026-10-06T17:51:08.057633+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "06fb72d8071944d814bf6a4b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T21:02:35.223216+00:00",
+    "checked_at": "2026-10-15T21:07:33.053042+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
