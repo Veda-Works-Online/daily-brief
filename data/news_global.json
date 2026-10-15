@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-15T13:31:51.201407+00:00",
+  "updated": "2026-10-15T13:41:41.105248+00:00",
   "items": [
+    {
+      "title": "Ukrainians lash out at Trump as Zelenskyy warns of US betrayal",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/15/10-15-ukraine-angry-at-us-sv",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T13:19:09+00:00",
+      "retrieved_at": "2026-10-15T13:41:35.242408+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Ukrainians accuse the US of gambling with their lives as Russian strikes devastated residential buildings in the capital",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3527130e274b9ff12be65b5f"
+    },
+    {
+      "title": "Starlink: How Elon Musk's company influences geopolitics",
+      "url": "https://dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477",
+      "source": "DW",
+      "published": "2026-10-15T12:59:00+00:00",
+      "retrieved_at": "2026-10-15T13:41:35.649043+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Designed to bring internet access to remote regions, Elon Musk's Starlink has become vital in crisis regions and war zones. But Ukraine also shows the risks of depending on the service.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f7b68aa15173a4183568c82c"
+    },
     {
       "title": "Photos: China and North Korea open new border bridge amid deepening ties",
       "url": "https://aljazeera.com/gallery/2026/10/15/photos-china-and-north-korea-open-new-border-bridge-amid-deepening-ties",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7e8b80d5246dcff2d8116589"
-    },
-    {
-      "title": "Trump’s brash remarks entertain crowd at election rally in Tennessee",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/11/trumps-brash-remarks-entertain-crowd-at-election-rally-in-tennessee",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T11:42:50+00:00",
-      "retrieved_at": "2026-10-11T11:57:12.490544+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US President Donald Trump told his supporters they would applaud anything he says.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "13d0b7e36f54535d77ff6c5a"
-    },
-    {
-      "title": "The scramble to rewrite Biden’s record on Gaza",
-      "url": "https://aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T11:29:48+00:00",
-      "retrieved_at": "2026-10-11T11:42:12.350414+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Former Biden officials are offering their accounts of the Gaza war. Is this a coming clean or revisionism?",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c25b388b63d66ab4c49ef9f0"
     }
   ],
   "unverified_history": [
