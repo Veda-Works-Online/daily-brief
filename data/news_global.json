@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-15T09:40:02.964089+00:00",
+  "updated": "2026-10-15T10:26:18.361962+00:00",
   "items": [
+    {
+      "title": "Russia says Ukraine resumes attacks on oil refineries",
+      "url": "https://aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T10:02:17+00:00",
+      "retrieved_at": "2026-10-15T10:26:12.566816+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Ukraine's president earlier said Kyiv was 'done' with energy ceasefire and that strikes on Russian oil refineries would resume.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3199998aebd440e49033c104"
+    },
+    {
+      "title": "Long-delayed China-North Korea bridge officially opens",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/15/long-delayed-china-north-korea-bridge-officially-opens",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T10:00:58+00:00",
+      "retrieved_at": "2026-10-15T10:26:12.566863+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "China and North Korea have officially opened the New Yalu River Bridge after a 12-year delay.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f14a867952401120902dd012"
+    },
     {
       "title": "‘Each country goes its own way’: How Balkan politics shape ties with Israel",
       "url": "https://aljazeera.com/news/2026/10/15/each-country-goes-its-own-way-how-balkan-politics-shape-ties-with-israel",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "29e8c977c17464bed9ca1a3c"
-    },
-    {
-      "title": "Ukrainian prisoners of war and defectors have been gathered into a Russian battalion to face Ukrainian forces — why? And how?",
-      "url": "https://dw.com/en/ukrainian-prisoners-of-war-and-defectors-have-been-gathered-into-a-russian-battalion-to-face-ukrainian-forces-why-and-how/a-79629555",
-      "source": "DW",
-      "published": "2026-10-11T06:38:00+00:00",
-      "retrieved_at": "2026-10-11T07:16:20.790336+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Russia has announced a battalion consisting of Ukrainian \"volunteers.\" But veterans and former prisoners of war share very different accounts.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "029fc235aab56d81a0223af5"
-    },
-    {
-      "title": "How genocidal war on Gaza is shaping Israel’s election",
-      "url": "https://aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T05:35:09+00:00",
-      "retrieved_at": "2026-10-11T06:01:19.857336+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel’s election signals not a demand for change, but deeper entrenchment of the jingoism unleashed after October 7.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4d3494f0aa50c7cfaafc8317"
     }
   ],
   "unverified_history": [
