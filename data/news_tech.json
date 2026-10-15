@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-15T15:52:02.994666+00:00",
+  "updated": "2026-10-15T15:56:57.990339+00:00",
   "items": [
     {
-      "title": "FTC probes if OpenAI, Anthropic security incidents harmed Americans, report says",
+      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
       "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says",
       "source": "Ars Technica AI",
       "published": "2026-10-15T15:43:24+00:00",
-      "retrieved_at": "2026-10-15T15:47:04.087576+00:00",
+      "retrieved_at": "2026-10-15T15:56:55.611859+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
       "isAI": true,
@@ -16,7 +16,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "6b7f75298b0e6fc074395ff8"
+      "story_fingerprint": "9ceb4a0e18776e7715f4967c"
     },
     {
       "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T15:51:59.327639+00:00",
+    "checked_at": "2026-10-15T15:56:54.569578+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
