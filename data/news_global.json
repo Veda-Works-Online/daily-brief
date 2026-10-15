@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-15T15:42:06.571193+00:00",
+  "updated": "2026-10-15T16:02:05.341574+00:00",
   "items": [
+    {
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "url": "https://bbc.co.uk/news/articles/crx23qlnj27qo",
+      "source": "BBC World",
+      "published": "2026-10-15T15:52:10+00:00",
+      "retrieved_at": "2026-10-15T16:02:02.110795+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a327845f7cb6da45085ac0bc"
+    },
     {
       "title": "Syrian court sentences two to death over 2025 coastal violence",
       "url": "https://aljazeera.com/news/2026/10/15/syrian-court-sentences-two-to-death-over-2025-coastal-violence",
@@ -48,22 +64,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4158999009eb756b9baa7007"
-    },
-    {
-      "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
-      "url": "https://bbc.co.uk/news/articles/crx23qlnj27qo",
-      "source": "BBC World",
-      "published": "2026-10-15T14:34:22+00:00",
-      "retrieved_at": "2026-10-15T14:36:35.334660+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Trump said some would \"rather not watch\" the execution of Nidal Hasan, the first military execution in over 60 years.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2111536cddc00e532da4b306"
     },
     {
       "title": "Trump says Fort Hood US shooter execution will not be livestreamed",
