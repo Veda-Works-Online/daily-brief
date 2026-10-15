@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T14:06:35.980458+00:00",
+  "updated": "2026-10-15T14:11:33.736540+00:00",
   "items": [
     {
       "title": "TechCrunch Disrupt 2026: Last day",
@@ -4235,13 +4235,13 @@
       "story_fingerprint": "1ec38ce3a2260d63188f3b50"
     },
     {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
       "source": "OpenAI",
       "published": "2026-10-06T12:00:00+00:00",
-      "retrieved_at": "2026-10-15T14:06:27.811012+00:00",
+      "retrieved_at": "2026-10-15T14:11:28.169465+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4249,7 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "4a12763560a85f25ffa4452a"
+      "story_fingerprint": "81c924bb7e01cd39aa55b4bd"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T14:06:26.270819+00:00",
+    "checked_at": "2026-10-15T14:11:26.656705+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
