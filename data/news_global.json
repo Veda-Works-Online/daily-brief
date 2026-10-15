@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-15T21:37:48.207691+00:00",
+  "updated": "2026-10-15T21:47:45.941493+00:00",
   "items": [
+    {
+      "title": "Letters with 'suspicious substances' sent to US senators and election offices",
+      "url": "https://bbc.co.uk/news/articles/cmq8n513x523o",
+      "source": "BBC World",
+      "published": "2026-10-15T21:42:26+00:00",
+      "retrieved_at": "2026-10-15T21:47:41.705092+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "073203821b7fdd9b43fa3033"
+    },
     {
       "title": "ICE tactics spark debate before pivotal US midterm elections",
       "url": "https://aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections",
@@ -16,22 +32,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ceef2900b421531e2ea02e7b"
-    },
-    {
-      "title": "Letters with 'suspicious substances' sent to US election offices",
-      "url": "https://bbc.co.uk/news/articles/cmq8n513x523o",
-      "source": "BBC World",
-      "published": "2026-10-15T19:13:09+00:00",
-      "retrieved_at": "2026-10-15T19:22:02.151758+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4bf9b72618c544ecd396a7b6"
     },
     {
       "title": "Dying in ICE custody: Inside one family’s story of heartbreak",
