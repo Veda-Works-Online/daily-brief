@@ -7,6 +7,7 @@ import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -18,6 +19,24 @@ def run(*args, timeout=60):
 def next_tick(started, finished, interval):
     """Skip missed slots after a slow fetch; never overlap fetches."""
     return started + (int((finished - started) // interval) + 1) * interval
+
+
+def next_refresh_tick(started, finished, interval, cycle_started_at, finished_at):
+    """Add a weekday 09:15 IST poll without inferring holiday/session status.
+
+    If a pre-open fetch crosses that boundary, follow it immediately with a
+    new fetch. The loop stays serial and the normal cadence stays anchored.
+    """
+    regular = next_tick(started, finished, interval)
+    local = finished_at.astimezone(ZoneInfo('Asia/Kolkata'))
+    if local.weekday() >= 5:
+        return regular
+    opening = local.replace(hour=9, minute=15, second=0, microsecond=0)
+    if cycle_started_at < opening <= finished_at:
+        return finished
+    if finished_at < opening:
+        return min(regular, finished + (opening-finished_at).total_seconds())
+    return regular
 
 
 def git_revision(ref):
@@ -76,6 +95,7 @@ def main():
     started = time.monotonic()
     deadline = started + args.duration_seconds
     while time.monotonic() < deadline:
+        cycle_started_at = datetime.now(timezone.utc)
         try:
             cycle(branch)
         except (subprocess.SubprocessError, RuntimeError) as exc:
@@ -88,9 +108,11 @@ def main():
                 'reason': type(exc).__name__}), encoding='utf-8')
             print('::error::Refresh interrupted: ' + type(exc).__name__, flush=True)
             return 1
-        tick = next_tick(started, time.monotonic(), args.interval_seconds)
+        tick = next_refresh_tick(started, time.monotonic(), args.interval_seconds,
+                                 cycle_started_at, datetime.now(timezone.utc))
         time.sleep(max(0, min(tick, deadline) - time.monotonic()))
 
 
 if __name__ == '__main__':
     sys.exit(main())
+
