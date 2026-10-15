@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-15T11:11:21.462934+00:00",
+  "updated": "2026-10-15T11:31:26.423535+00:00",
   "items": [
+    {
+      "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
+      "url": "https://aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T10:52:12+00:00",
+      "retrieved_at": "2026-10-15T11:31:20.265611+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9af3a654bf4496a73876628c"
+    },
     {
       "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
       "url": "https://bbc.co.uk/news/articles/cqwyrnwd9dw1o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f64de0a185095ba895b4c697"
-    },
-    {
-      "title": "Ground Robots Are Arriving on the Front Lines",
-      "url": "https://warontherocks.com/cogs-of-war/ground-robots-are-arriving-on-the-front-lines",
-      "source": "War on the Rocks",
-      "published": "2026-10-11T08:00:11+00:00",
-      "retrieved_at": "2026-10-11T08:01:19.927974+00:00",
-      "feed_url": "https://warontherocks.com/feed/",
-      "summary": "For years, ground autonomy lagged well behind its counterparts in the air. That gap is starting to close. Jonathan is joined by Ryan Hartman (Ondas Sentinel) and Scott Philips (Forterra) to examine what it takes to field autonomous ground vehicles in combat. The conversation ranges across what Ukraine and Gaza have taught them, what operating without GPS and resilient communications really looks…",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://warontherocks.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5f62bf78b3f4e1461a124e3a"
     }
   ],
   "unverified_history": [
