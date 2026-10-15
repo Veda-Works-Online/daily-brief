@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-15T23:32:37.885319+00:00",
+  "updated": "2026-10-15T23:37:38.394066+00:00",
   "items": [
+    {
+      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
+      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems",
+      "source": "TechCrunch",
+      "published": "2026-10-15T23:33:45+00:00",
+      "retrieved_at": "2026-10-15T23:37:34.143405+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4494b121d57e2c460f9312af"
+    },
     {
       "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
       "url": "https://wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cb929c73da6fb8abf9fdb0f0"
-    },
-    {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-      "source": "Google DeepMind",
-      "published": "2026-10-06T19:57:04+00:00",
-      "retrieved_at": "2026-10-06T20:11:40.000145+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "45acea30a8660f3fe7a3ec10"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T23:32:29.502116+00:00",
+    "checked_at": "2026-10-15T23:37:32.886830+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
