@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T10:26:18.361962+00:00",
+  "updated": "2026-10-15T10:41:28.319780+00:00",
   "items": [
     {
       "title": "Russia says Ukraine resumes attacks on oil refineries",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f14a867952401120902dd012"
+    },
+    {
+      "title": "Brazil's elections matter for the planet. This is why",
+      "url": "https://dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928",
+      "source": "DW",
+      "published": "2026-10-15T09:52:00+00:00",
+      "retrieved_at": "2026-10-15T10:41:22.932989+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Brazil is heading back to the polls, but the impact could be felt worldwide. With the Amazon vital to the health of the planet, the election could help shape its future.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6f016d1b1a499b2f54af842b"
     },
     {
       "title": "‘Each country goes its own way’: How Balkan politics shape ties with Israel",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ba73f63aa82721d31e10a966"
-    },
-    {
-      "title": "Who are the Ukrainian 'volunteers' under Russian command?",
-      "url": "https://dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555",
-      "source": "DW",
-      "published": "2026-10-11T06:38:00+00:00",
-      "retrieved_at": "2026-10-11T15:22:16.074498+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Russia has announced a battalion consisting of Ukrainian \"volunteers.\" But veterans and former prisoners of war share very different accounts.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "29e8c977c17464bed9ca1a3c"
     }
   ],
   "unverified_history": [
