@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T13:26:30.851550+00:00",
+  "updated": "2026-10-15T13:31:41.377637+00:00",
   "items": [
     {
       "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
@@ -34,6 +34,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5debafa94a1fb6eac9e7dd7d"
+    },
+    {
+      "title": "Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "source": "Hugging Face",
+      "published": "2026-10-15T09:08:45+00:00",
+      "retrieved_at": "2026-10-15T13:31:33.535866+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "6c7bad5f6139bc7c398aa880"
     },
     {
       "title": "Figma announces new features to define how agents work on its platform",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f7d7f2bfb905043cf107cab4"
-    },
-    {
-      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
-      "url": "https://wired.com/story/the-big-interview-podcast-kevin-roose",
-      "source": "Wired",
-      "published": "2026-10-06T10:30:00+00:00",
-      "retrieved_at": "2026-10-06T10:32:51.798770+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1f037801ef560bbd17d0f33b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T13:26:24.838529+00:00",
+    "checked_at": "2026-10-15T13:31:31.996101+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
