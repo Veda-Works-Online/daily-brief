@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-15T12:01:22.026282+00:00",
+  "updated": "2026-10-15T12:06:22.801453+00:00",
   "items": [
+    {
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "url": "https://bbc.co.uk/news/articles/cqwyrnwd9dw1o",
+      "source": "BBC World",
+      "published": "2026-10-15T12:03:51+00:00",
+      "retrieved_at": "2026-10-15T12:06:17.035890+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5a7affe1dfb6c375df28f3f9"
+    },
     {
       "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
       "url": "https://aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify",
@@ -48,22 +64,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9af3a654bf4496a73876628c"
-    },
-    {
-      "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
-      "url": "https://bbc.co.uk/news/articles/cqwyrnwd9dw1o",
-      "source": "BBC World",
-      "published": "2026-10-15T10:27:26+00:00",
-      "retrieved_at": "2026-10-15T11:11:15.644356+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0a963fb66b9af1bc0482f01e"
     },
     {
       "title": "Russia says Ukraine resumes attacks on oil refineries",
