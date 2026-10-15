@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-15T16:06:59.779029+00:00",
+  "updated": "2026-10-15T16:12:03.952672+00:00",
   "items": [
+    {
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
+      "source": "Google DeepMind",
+      "published": "2026-10-15T16:08:03+00:00",
+      "retrieved_at": "2026-10-15T16:12:00.280295+00:00",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://deepmind.google/blog/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "cf2c6c882be8803044d51e76"
+    },
     {
       "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
       "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0552b2ecf8f2fd2b96f7f6db"
-    },
-    {
-      "title": "Paramount closes historic Warner Bros. merger to form Skydance",
-      "url": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance",
-      "source": "TechCrunch",
-      "published": "2026-10-06T13:57:32+00:00",
-      "retrieved_at": "2026-10-06T14:01:05.532163+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The deal brings together two major streaming platforms, Paramount+ and HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food Network.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a9428383c4200ee0b27d8dc2"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T16:06:55.392040+00:00",
+    "checked_at": "2026-10-15T16:11:59.381047+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
