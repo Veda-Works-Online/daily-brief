@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-15T15:12:05.020558+00:00",
+  "updated": "2026-10-15T15:17:05.475440+00:00",
   "items": [
+    {
+      "title": "YouTube Music begins labeling AI songs",
+      "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs",
+      "source": "Ars Technica AI",
+      "published": "2026-10-15T15:12:58+00:00",
+      "retrieved_at": "2026-10-15T15:17:01.962934+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c793665ea8d8480c9df43882"
+    },
     {
       "title": "AI agents are coming to Rivian’s cars",
       "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d7c24a1c290944d435d95064"
-    },
-    {
-      "title": "Flai’s AI dealership software is booking 50,000 appointments per month",
-      "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month",
-      "source": "TechCrunch",
-      "published": "2026-10-06T13:00:00+00:00",
-      "retrieved_at": "2026-10-06T13:01:05.567926+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Flai's revenue has grown 20x in a year, and the company just closed a $27 million Series A funding round.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "11a7521d8613caf3b1ce2991"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T15:12:00.318669+00:00",
+    "checked_at": "2026-10-15T15:17:00.869326+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
