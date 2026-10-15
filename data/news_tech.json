@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-15T00:29:12.979730+00:00",
+  "updated": "2026-10-15T00:34:13.458071+00:00",
   "items": [
+    {
+      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026",
+      "source": "TechCrunch",
+      "published": "2026-10-15T00:30:00+00:00",
+      "retrieved_at": "2026-10-15T00:34:09.776756+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "67a01011e9c14bc137e15ede"
+    },
     {
       "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
       "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "efc080e502a855b148932236"
-    },
-    {
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu",
-      "source": "TechCrunch AI",
-      "published": "2026-10-05T20:36:48+00:00",
-      "retrieved_at": "2026-10-05T20:37:41.796073+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ebef6a4c81a330941d5bfc05"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T00:29:07.678719+00:00",
+    "checked_at": "2026-10-15T00:34:08.222726+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
