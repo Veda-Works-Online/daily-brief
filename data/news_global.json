@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-15T18:37:05.233861+00:00",
+  "updated": "2026-10-15T19:22:05.315996+00:00",
   "items": [
+    {
+      "title": "Letters with 'suspicious substances' sent to US election offices",
+      "url": "https://bbc.co.uk/news/articles/cmq8n513x523o",
+      "source": "BBC World",
+      "published": "2026-10-15T19:13:09+00:00",
+      "retrieved_at": "2026-10-15T19:22:02.151758+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4bf9b72618c544ecd396a7b6"
+    },
     {
       "title": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
       "url": "https://aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e79f8969393c7105007d0027"
-    },
-    {
-      "title": "Lebanon’s first electric train hopes to revive railway system",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/11/lebanons-first-electric-train-hopes-to-revive-railway-system",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T18:00:51+00:00",
-      "retrieved_at": "2026-10-11T18:23:00.261013+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A new solar-powered model train has returned to a section of Lebanon’s historic railway.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "99731f7defc2ac11cefa7264"
     }
   ],
   "unverified_history": [
