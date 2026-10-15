@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-15T04:14:14.039309+00:00",
+  "updated": "2026-10-15T04:34:08.927310+00:00",
   "items": [
+    {
+      "title": "X suspends 13,000 accounts, alleging foreign influence ahead of US midterms",
+      "url": "https://aljazeera.com/news/2026/10/15/x-suspends-13000-accounts-alleging-foreign-influence-ahead-of-us-midterms",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T04:15:55+00:00",
+      "retrieved_at": "2026-10-15T04:34:04.427805+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The social platform says networks targeted US political debate across the spectrum ahead of midterm elections.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c55059cf012c8d772a91cbf4"
+    },
     {
       "title": "Argentina’s Milei backs Trump for US midterms, calls vote crucial for West",
       "url": "https://aljazeera.com/news/2026/10/15/argentinas-milei-backs-trump-for-us-midterms-calls-vote-crucial-for-west",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8b118a7577990c659f384adc"
-    },
-    {
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-      "url": "https://bbc.co.uk/news/articles/cwvgdpv642g5o",
-      "source": "BBC World",
-      "published": "2026-10-10T20:51:12+00:00",
-      "retrieved_at": "2026-10-10T20:54:45.782199+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ff081554121290a413680305"
     }
   ],
   "unverified_history": [
