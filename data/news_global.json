@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T16:02:05.341574+00:00",
+  "updated": "2026-10-15T16:17:11.204259+00:00",
   "items": [
     {
       "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a327845f7cb6da45085ac0bc"
+    },
+    {
+      "title": "What is the ‘Mother of All Bombs’ US could use in Iran?",
+      "url": "https://aljazeera.com/news/2026/10/15/what-is-the-mother-of-all-bombs-us-could-use-in-iran",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T15:46:41+00:00",
+      "retrieved_at": "2026-10-15T16:17:08.040030+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US media reports military considering plans to use GBU-43/B Massive Ordnance Air Blast Bomb (MOAB)",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "181309a9b7f69b77e657a1d6"
     },
     {
       "title": "Syrian court sentences two to death over 2025 coastal violence",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a7474624ece5848141721c10"
-    },
-    {
-      "title": "Trump claims Russia and Ukraine agreed to 'energy ceasefire'",
-      "url": "https://dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509",
-      "source": "DW",
-      "published": "2026-10-11T14:47:00+00:00",
-      "retrieved_at": "2026-10-11T19:58:05.544905+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "US President Donald Trump says both sides have agreed to stop targeting oil refineries, power plants and other energy infrastructure immediately.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9a695418b18d92fad3a758c4"
     }
   ],
   "unverified_history": [
