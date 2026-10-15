@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-15T13:41:41.105248+00:00",
+  "updated": "2026-10-15T13:51:41.989812+00:00",
   "items": [
+    {
+      "title": "What is Starshield, and who limited Ukraine’s access to it?",
+      "url": "https://aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T13:32:16+00:00",
+      "retrieved_at": "2026-10-15T13:51:36.160780+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Ukraine relies on Starshield, the military-grade version of Elon Musk's Starlink satellite service, to fight Russia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "02357d96b91d4bdf340cf080"
+    },
+    {
+      "title": "Russia accuses Ukraine of contradicting US brokered deal",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/15/russia-accuses-ukraine-of-contradicting-us-brokered-deal",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T13:29:38+00:00",
+      "retrieved_at": "2026-10-15T13:51:36.160798+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Russia has accused Ukraine of going against US peace efforts, after an overnight Ukrainian drone strike.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4ed4cda8798575e202785cfa"
+    },
     {
       "title": "Ukrainians lash out at Trump as Zelenskyy warns of US betrayal",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/15/10-15-ukraine-angry-at-us-sv",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c97bf8295c3a4e602b35c298"
-    },
-    {
-      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-      "url": "https://bbc.co.uk/news/articles/cw0k0g57mk3zo",
-      "source": "BBC World",
-      "published": "2026-10-11T12:50:46+00:00",
-      "retrieved_at": "2026-10-11T13:57:14.109134+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8dd9dccdcb3883245703e8d3"
-    },
-    {
-      "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T12:28:11+00:00",
-      "retrieved_at": "2026-10-11T12:47:15.282313+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A Houthi attack on Riyadh airport killed at least 12 people and injured more than 300.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7e8b80d5246dcff2d8116589"
     }
   ],
   "unverified_history": [
