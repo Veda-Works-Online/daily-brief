@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-15T23:42:34.495528+00:00",
+  "updated": "2026-10-15T23:47:35.882207+00:00",
   "items": [
+    {
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T23:44:56+00:00",
+      "retrieved_at": "2026-10-15T23:47:31.003152+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "98f26dfa76d388820c21b30a"
+    },
     {
       "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
       "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bd4a64541635da0cd9865a1a"
-    },
-    {
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo",
-      "source": "TechCrunch AI",
-      "published": "2026-10-06T20:00:30+00:00",
-      "retrieved_at": "2026-10-06T20:01:41.617571+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cb929c73da6fb8abf9fdb0f0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T23:42:30.002596+00:00",
+    "checked_at": "2026-10-15T23:47:30.352027+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
