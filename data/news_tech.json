@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-14T23:59:18.698235+00:00",
+  "updated": "2026-10-15T00:04:13.530934+00:00",
   "items": [
+    {
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T00:00:00+00:00",
+      "retrieved_at": "2026-10-15T00:04:09.342049+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” […]",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b37bddea86bf67851572f1c1"
+    },
     {
       "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
       "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ebef6a4c81a330941d5bfc05"
-    },
-    {
-      "title": "Etched fields funding offers at $40B+ valuation, sources say",
-      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say",
-      "source": "TechCrunch",
-      "published": "2026-10-05T20:24:09+00:00",
-      "retrieved_at": "2026-10-05T20:27:40.317692+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "260d60d84b30a25c2f901e77"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-14T23:59:12.522076+00:00",
+    "checked_at": "2026-10-15T00:04:08.522001+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
