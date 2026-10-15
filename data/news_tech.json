@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-15T15:42:01.071446+00:00",
+  "updated": "2026-10-15T15:47:06.574879+00:00",
   "items": [
+    {
+      "title": "FTC probes if OpenAI, Anthropic security incidents harmed Americans, report says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says",
+      "source": "Ars Technica AI",
+      "published": "2026-10-15T15:43:24+00:00",
+      "retrieved_at": "2026-10-15T15:47:04.087576+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6b7f75298b0e6fc074395ff8"
+    },
     {
       "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling",
       "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a9428383c4200ee0b27d8dc2"
-    },
-    {
-      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
-      "url": "https://wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier",
-      "source": "Wired",
-      "published": "2026-10-06T13:15:23+00:00",
-      "retrieved_at": "2026-10-06T13:21:06.028652+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0b7a298b8121820289ae5dc8"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T15:41:55.563018+00:00",
+    "checked_at": "2026-10-15T15:47:03.060491+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
