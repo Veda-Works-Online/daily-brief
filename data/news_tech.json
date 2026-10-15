@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-15T20:32:36.740623+00:00",
+  "updated": "2026-10-15T20:37:40.402466+00:00",
   "items": [
+    {
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "Hugging Face",
+      "published": "2026-10-15T20:34:01+00:00",
+      "retrieved_at": "2026-10-15T20:37:36.750748+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "6eb094f9af4277b1c318857f"
+    },
     {
       "title": "Meta launches an open-weight AI model that runs on Macs",
       "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "06fb72d8071944d814bf6a4b"
-    },
-    {
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior",
-      "source": "TechCrunch AI",
-      "published": "2026-10-06T16:35:00+00:00",
-      "retrieved_at": "2026-10-06T17:01:10.688288+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "62f6a7636a19156abbf1493b"
     }
   ],
   "unverified_history": [
@@ -6257,6 +6257,24 @@
   "open_llms": {
     "items": [
       {
+        "id": "ibm-granite/granite-switch-4.1-8b",
+        "name": "granite-switch-4.1-8b",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-10-14T21:38:09+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-switch-4.1-8b",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-switch-4.1-30b",
+        "name": "granite-switch-4.1-30b",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-10-14T21:23:12+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-switch-4.1-30b",
+        "source_status": "CURRENT"
+      },
+      {
         "id": "microsoft/UserRepGen-4B",
         "name": "UserRepGen-4B",
         "publisher": "microsoft",
@@ -6417,27 +6435,9 @@
         "published": "2026-08-13T21:02:51+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-mxfp4",
         "source_status": "CURRENT"
-      },
-      {
-        "id": "ibm-granite/granite-4.2-30b-fp8",
-        "name": "granite-4.2-30b-fp8",
-        "publisher": "ibm-granite",
-        "licence": "apache-2.0",
-        "published": "2026-08-13T21:02:02+00:00",
-        "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-fp8",
-        "source_status": "CURRENT"
-      },
-      {
-        "id": "deepseek-ai/DeepSeek-V4-Pro-0813",
-        "name": "DeepSeek-V4-Pro-0813",
-        "publisher": "deepseek-ai",
-        "licence": "mit",
-        "published": "2026-08-13T03:05:06+00:00",
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
-        "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T20:32:32.191539+00:00",
+    "checked_at": "2026-10-15T20:37:35.901645+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
