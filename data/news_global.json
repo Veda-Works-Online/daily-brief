@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T07:00:01.057356+00:00",
+  "updated": "2026-10-15T07:10:15.879233+00:00",
   "items": [
     {
       "title": "From Morocco to South Africa, Israel election watched closely across Africa",
@@ -384,6 +384,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2a0cf94876675fa0339ba69a"
+    },
+    {
+      "title": "China’s Advance in the Bahamas",
+      "url": "https://thediplomat.com/2026/10/chinas-advance-in-the-bahamas",
+      "source": "The Diplomat",
+      "published": "2026-10-14T17:33:00+00:00",
+      "retrieved_at": "2026-10-15T07:10:12.747319+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "Beijing's presence in the Bahamas and its military implications for the U.S. are often overshadowed by discussion of Chinese activities elsewhere in the region.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3a89438a8e424b838318cd19"
     },
     {
       "title": "The Paradox of Victory: When Winning in Ukraine Raises the Nuclear Stakes",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3a2eed9beead5b582b396555"
-    },
-    {
-      "title": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond",
-      "url": "https://aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T00:00:13+00:00",
-      "retrieved_at": "2026-10-11T06:01:19.857485+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7c183ab903ccfda83084a61a"
     }
   ],
   "unverified_history": [
