@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-15T16:41:55.751232+00:00",
+  "updated": "2026-10-15T16:47:02.149205+00:00",
   "items": [
+    {
+      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+      "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us",
+      "source": "TechCrunch",
+      "published": "2026-10-15T16:45:37+00:00",
+      "retrieved_at": "2026-10-15T16:46:58.650345+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "SK Hynix’s Solidigm is reportedly seeking US approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ae1b4c860a009cd43f556f51"
+    },
     {
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
       "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c16ab77d5f00ac08f8612fd9"
-    },
-    {
-      "title": "Pinterest’s AI now turns beauty Pins into action plans",
-      "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans",
-      "source": "TechCrunch AI",
-      "published": "2026-10-06T14:00:49+00:00",
-      "retrieved_at": "2026-10-06T14:46:07.500204+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0552b2ecf8f2fd2b96f7f6db"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T16:41:50.673254+00:00",
+    "checked_at": "2026-10-15T16:46:57.525111+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
