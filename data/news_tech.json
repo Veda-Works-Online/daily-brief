@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-15T17:57:01.900876+00:00",
+  "updated": "2026-10-15T18:01:58.695943+00:00",
   "items": [
+    {
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends Oct. 16",
+      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T18:00:00+00:00",
+      "retrieved_at": "2026-10-15T18:01:55.070096+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit end on October 16. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "900ac283cefbc518e6a4d74e"
+    },
     {
       "title": "Volvo makes a bigger bet on Nvidia",
       "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9c0c6ab140a54b376616bc2e"
-    },
-    {
-      "title": "A New Neurotech Startup Launches to Rival Sam Altman’s Merge Labs",
-      "url": "https://wired.com/story/bridge-neurotech-startup-rival-sam-altman-merge-labs",
-      "source": "Wired",
-      "published": "2026-10-06T15:00:00+00:00",
-      "retrieved_at": "2026-10-06T15:06:04.732786+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Bridge Neurotech is planning to build a wearable brain-computer interface that uses ultrasound.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3f77a87de58f3735fd06851b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T17:56:58.195295+00:00",
+    "checked_at": "2026-10-15T18:01:54.495655+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
