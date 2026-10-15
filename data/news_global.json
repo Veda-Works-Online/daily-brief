@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-15T23:12:43.659209+00:00",
+  "updated": "2026-10-15T23:42:41.676665+00:00",
   "items": [
+    {
+      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+      "url": "https://bbc.co.uk/news/articles/cm62y6lp73zdo",
+      "source": "BBC World",
+      "published": "2026-10-15T23:38:46+00:00",
+      "retrieved_at": "2026-10-15T23:42:37.358370+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3d80ec679cc87f6c5a83b65f"
+    },
     {
       "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
       "url": "https://aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims",
@@ -160,22 +176,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6835e70e8d8e27912c238de1"
-    },
-    {
-      "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-      "url": "https://bbc.co.uk/news/articles/cm62y6lp73zdo",
-      "source": "BBC World",
-      "published": "2026-10-15T17:18:49+00:00",
-      "retrieved_at": "2026-10-15T18:37:02.008807+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1dfa53d6d1a0998659742641"
     },
     {
       "title": "Dying in Detention",
