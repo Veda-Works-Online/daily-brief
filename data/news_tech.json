@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-15T00:59:18.713498+00:00",
+  "updated": "2026-10-15T01:04:14.166233+00:00",
   "items": [
+    {
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T01:01:32+00:00",
+      "retrieved_at": "2026-10-15T01:04:08.754928+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ced7b09b1853f16fb1f8ae0e"
+    },
     {
       "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
       "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4e63cda5f02b5b6d66f6516a"
-    },
-    {
-      "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
-      "url": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years",
-      "source": "TechCrunch",
-      "published": "2026-10-05T21:54:01+00:00",
-      "retrieved_at": "2026-10-05T22:52:40.318295+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "efc080e502a855b148932236"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T00:59:09.711422+00:00",
+    "checked_at": "2026-10-15T01:04:07.853423+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
