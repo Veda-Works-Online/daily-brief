@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T11:36:28.227241+00:00",
+  "updated": "2026-10-15T11:41:20.172220+00:00",
   "items": [
     {
       "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
@@ -114,6 +114,22 @@
       "story_fingerprint": "224fad3044b04a0c72bbdd34"
     },
     {
+      "title": "North Korea, China open border bridge after 12-year delay",
+      "url": "https://dw.com/en/north-korea-china-open-border-bridge-after-12-year-delay/a-79666112",
+      "source": "DW",
+      "published": "2026-10-15T08:12:00+00:00",
+      "retrieved_at": "2026-10-15T11:41:14.611770+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Twelve years after it was constructed, the New Yalu River Bridge between China and North Korea is finally operational. It is the latest sign of warming ties between the two nations.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "66fb5adf3e2a0f99042b1ba4"
+    },
+    {
       "title": "Golden Dome Is Technologically and Financially Infeasible",
       "url": "https://warontherocks.com/cogs-of-war/golden-dome-is-technologically-and-financially-infeasible",
       "source": "War on the Rocks",
@@ -208,22 +224,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0c3ce407aaeba01e56ebe6f3"
-    },
-    {
-      "title": "North Korea and China open new bridge after 12-year delay",
-      "url": "https://bbc.co.uk/news/articles/ck1exgw3j115o",
-      "source": "BBC World",
-      "published": "2026-10-15T06:24:45+00:00",
-      "retrieved_at": "2026-10-15T11:11:15.644587+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "10832595776a342eab5be290"
     },
     {
       "title": "G20 finance ministers, central bankers gather amid fallout from Iran war",
