@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T14:36:41.123586+00:00",
+  "updated": "2026-10-15T14:51:36.824127+00:00",
   "items": [
     {
       "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2111536cddc00e532da4b306"
+    },
+    {
+      "title": "Trump says Fort Hood shooter execution will not be livestreamed",
+      "url": "https://aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed",
+      "source": "Al Jazeera",
+      "published": "2026-10-15T14:27:35+00:00",
+      "retrieved_at": "2026-10-15T14:51:31.361235+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US president reverses Pentagon's plan to publicly stream execution of Nidal Malik Hasan after outcry.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d83698bdf58f483c38152092"
     },
     {
       "title": "What is Starshield, and who limited Ukraine’s access to it?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2a40b059f580a8b7b3c3dabc"
-    },
-    {
-      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-      "url": "https://aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T14:04:32+00:00",
-      "retrieved_at": "2026-10-11T14:27:13.085990+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "IRGC warns against ignoring waterway's 'security and rules' as CENTCOM says US disabled vessel trying to run blockade.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "701b3490f41e9a9819220354"
     }
   ],
   "unverified_history": [
