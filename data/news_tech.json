@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-15T20:02:51.175923+00:00",
+  "updated": "2026-10-15T20:07:46.050039+00:00",
   "items": [
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T20:04:53+00:00",
+      "retrieved_at": "2026-10-15T20:07:38.149227+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9766125fe3278dfdb695b1cc"
+    },
     {
       "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
       "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps",
@@ -835,23 +852,6 @@
       "story_fingerprint": "aaa341f2e72960324fbc02f0"
     },
     {
-      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai",
-      "source": "TechCrunch",
-      "published": "2026-10-14T11:00:00+00:00",
-      "retrieved_at": "2026-10-14T11:01:34.627981+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "26e7225a248f631d38caf185"
-    },
-    {
       "title": "Breville Eye Q Toaster Review: Neat Sensors, but Less-Than-Perfect Toast",
       "url": "https://wired.com/review/breville-eye-q-toaster",
       "source": "Wired",
@@ -867,6 +867,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cdef6d2f0d617ae9fb2d26c5"
+    },
+    {
+      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai",
+      "source": "TechCrunch",
+      "published": "2026-10-14T11:00:00+00:00",
+      "retrieved_at": "2026-10-14T11:01:34.627981+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "26e7225a248f631d38caf185"
     },
     {
       "title": "My Friend Has No Soul",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "62f6a7636a19156abbf1493b"
-    },
-    {
-      "title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
-      "url": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors",
-      "source": "TechCrunch",
-      "published": "2026-10-06T16:29:12+00:00",
-      "retrieved_at": "2026-10-06T16:31:07.970865+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The storied Silicon Valley firm makes its first pure defense investment.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a40bf2db1f9abbc746e769a4"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T20:02:42.603766+00:00",
+    "checked_at": "2026-10-15T20:07:37.263653+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
