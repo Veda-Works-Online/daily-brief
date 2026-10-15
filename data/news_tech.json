@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-15T13:56:26.948478+00:00",
+  "updated": "2026-10-15T14:01:38.410757+00:00",
   "items": [
+    {
+      "title": "TechCrunch Disrupt 2026: Last day",
+      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day",
+      "source": "TechCrunch AI",
+      "published": "2026-10-15T14:00:00+00:00",
+      "retrieved_at": "2026-10-15T14:01:28.998442+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "69e216192371427319b9a784"
+    },
+    {
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "source": "OpenAI",
+      "published": "2026-10-15T13:00:00+00:00",
+      "retrieved_at": "2026-10-15T14:01:29.677393+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "18693d3c776ffb87c53a89c8"
+    },
     {
       "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
       "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "81c924bb7e01cd39aa55b4bd"
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "source": "OpenAI",
-      "published": "2026-10-06T12:00:00+00:00",
-      "retrieved_at": "2026-10-06T22:46:38.848492+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "4a12763560a85f25ffa4452a"
-    },
-    {
-      "title": "GamerCard Review: A Flawed Pocket-Size Retro Handheld",
-      "url": "https://wired.com/review/gamercard",
-      "source": "Wired",
-      "published": "2026-10-06T11:00:00+00:00",
-      "retrieved_at": "2026-10-06T11:04:24.903734+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "This pocket-size Raspberry Pi handheld has a fantastic retro-ready screen, but awful controls and awkward software deal it a losing hand.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f7d7f2bfb905043cf107cab4"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-15T13:56:20.719817+00:00",
+    "checked_at": "2026-10-15T14:01:28.220627+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
