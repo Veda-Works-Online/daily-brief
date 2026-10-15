@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T12:06:22.801453+00:00",
+  "updated": "2026-10-15T12:41:31.921446+00:00",
   "items": [
     {
       "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5a7affe1dfb6c375df28f3f9"
+    },
+    {
+      "title": "Hypersonic missiles highlight arms race on Korean Peninsula",
+      "url": "https://dw.com/en/hypersonic-missiles-highlight-arms-race-on-korean-peninsula/a-79667084",
+      "source": "DW",
+      "published": "2026-10-15T12:02:00+00:00",
+      "retrieved_at": "2026-10-15T12:41:26.720137+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Both Seoul and Pyongyang have now tested weapons feared by military planners for their speed and ability to maneuver in flight.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5f724d47483cd1803e2cc922"
     },
     {
       "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "96773c1dbaaacbf892997ade"
-    },
-    {
-      "title": "Photos: Thousands detained in police crackdown on India’s youth protest",
-      "url": "https://aljazeera.com/gallery/2026/10/11/photos-thousands-detained-as-new-delhi-cracks-down-on-youth-protest",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T09:58:19+00:00",
-      "retrieved_at": "2026-10-11T10:36:21.116863+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Demonstrators intercepted and detained as authorities crack down on 'cockroach' movement rally in central New Delhi.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9659bb5b70d0aecaea3d6cc4"
     }
   ],
   "unverified_history": [
