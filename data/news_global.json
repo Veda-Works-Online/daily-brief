@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-16T20:11:32.271120+00:00",
+  "updated": "2026-10-16T20:56:27.598068+00:00",
   "items": [
+    {
+      "title": "Food affordability fears plague Gaza as Israel halts commercial goods",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T20:37:22+00:00",
+      "retrieved_at": "2026-10-16T20:56:21.849790+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2d800c6c43dbedc1f6876867"
+    },
     {
       "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
       "url": "https://dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b755fcaa7911e6e5e437eac0"
-    },
-    {
-      "title": "Conflict, drought increasing risk of famine in Sudan: Monitor",
-      "url": "https://aljazeera.com/news/2026/10/12/conflict-drought-increasing-risk-of-famine-in-sudan-monitor",
-      "source": "Al Jazeera",
-      "published": "2026-10-12T21:27:42+00:00",
-      "retrieved_at": "2026-10-12T21:45:00.293592+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "El Nino-induced drought is affecting roughly half of the country as three-year long war continues.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "70a7e20d2817be1fe114d7c5"
     }
   ],
   "unverified_history": [
