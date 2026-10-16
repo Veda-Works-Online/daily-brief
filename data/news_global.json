@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T08:54:31.312208+00:00",
+  "updated": "2026-10-16T08:59:16.424406+00:00",
   "items": [
     {
       "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "438f22d87f78a1bef0e7bbc2"
+    },
+    {
+      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "url": "https://bbc.co.uk/news/articles/cq1j3wdxy48ro",
+      "source": "BBC World",
+      "published": "2026-10-16T08:45:54+00:00",
+      "retrieved_at": "2026-10-16T08:59:12.121359+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fad2d0dfb423a8fdfd7536ea"
     },
     {
       "title": "Norway wealth fund urged to ease nuclear arms ban after Gaza investment row",
@@ -160,22 +176,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "395681e83457987639a993da"
-    },
-    {
-      "title": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
-      "url": "https://aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T02:56:21+00:00",
-      "retrieved_at": "2026-10-16T03:03:45.370672+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "'The Palestinian question is the greatest historical injustice of this century,' China's foreign minister said.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fad2d0dfb423a8fdfd7536ea"
     },
     {
       "title": "Argentine students protest on campus over Milei’s austerity",
