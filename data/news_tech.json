@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-16T21:22:02.159107+00:00",
+  "updated": "2026-10-16T21:27:08.981706+00:00",
   "items": [
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says",
+      "source": "TechCrunch AI",
+      "published": "2026-10-16T21:22:28+00:00",
+      "retrieved_at": "2026-10-16T21:27:02.941214+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Replit CEO and co-founder Amjad Masad made the comments during TechCrunch Disrupt 2026.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "62d7b866bb28c73e09933714"
+    },
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
       "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "39d39578d6479d0a1af02403"
-    },
-    {
-      "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
-      "url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains",
-      "source": "TechCrunch",
-      "published": "2026-10-07T15:00:00+00:00",
-      "retrieved_at": "2026-10-07T16:22:42.770906+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2096fc234db461e004ce3576"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-16T21:21:55.660324+00:00",
+    "checked_at": "2026-10-16T21:27:02.518455+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
