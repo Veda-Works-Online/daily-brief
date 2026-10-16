@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T13:05:35.958011+00:00",
+  "updated": "2026-10-16T13:10:35.504841+00:00",
   "items": [
     {
       "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
@@ -34,6 +34,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6abc9212b4c777b9490465fa"
+    },
+    {
+      "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
+      "url": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises",
+      "source": "Ars Technica",
+      "published": "2026-10-16T12:00:05+00:00",
+      "retrieved_at": "2026-10-16T13:10:30.388789+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ef2f581a11ce835f02cf3db0"
     },
     {
       "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "b13f0fdc12a122113fe624a0"
-    },
-    {
-      "title": "Introducing Playground: Create and play custom games",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
-      "source": "Google AI",
-      "published": "2026-10-07T12:00:00+00:00",
-      "retrieved_at": "2026-10-07T12:14:09.421350+00:00",
-      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-      "summary": "Overview of Playground",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "f3cef89d1e1b83802abbfb06"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-16T13:05:30.321916+00:00",
+    "checked_at": "2026-10-16T13:10:29.070235+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
