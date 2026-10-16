@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-16T14:00:38.045131+00:00",
+  "updated": "2026-10-16T14:05:33.949199+00:00",
   "items": [
+    {
+      "title": "Romance scam doc, Super Scam Me, takes viewers deep into love-bombing terrain",
+      "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain",
+      "source": "Ars Technica AI",
+      "published": "2026-10-16T14:00:59+00:00",
+      "retrieved_at": "2026-10-16T14:05:29.499490+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b1d91b6224f261e0265def33"
+    },
     {
       "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
       "url": "https://wired.com/review/microsoft-surface-laptop-ultra",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "9a69b5212c143e8a726bd8d5"
-    },
-    {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "source": "OpenAI",
-      "published": "2026-10-07T12:00:00+00:00",
-      "retrieved_at": "2026-10-16T14:00:33.646674+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "b13f0fdc12a122113fe624a0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-16T14:00:32.454113+00:00",
+    "checked_at": "2026-10-16T14:05:28.544614+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
