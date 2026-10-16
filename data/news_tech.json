@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-16T11:00:24.908827+00:00",
+  "updated": "2026-10-16T11:05:19.875886+00:00",
   "items": [
+    {
+      "title": "AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content",
+      "url": "https://wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content",
+      "source": "Wired",
+      "published": "2026-10-16T11:00:00+00:00",
+      "retrieved_at": "2026-10-16T11:05:14.739627+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6aa733b7087fc5c4b5801384"
+    },
     {
       "title": "Googlebook review: Android on a laptop is still Android",
       "url": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "cd37cadb2196a0b0e50d510b"
-    },
-    {
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "source": "OpenAI",
-      "published": "2026-10-07T00:00:00+00:00",
-      "retrieved_at": "2026-10-07T21:28:20.588847+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "9af29a2b711daf04bee80af0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-16T11:00:15.404245+00:00",
+    "checked_at": "2026-10-16T11:05:13.450589+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
