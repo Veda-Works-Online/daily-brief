@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-16T12:20:29.927469+00:00",
+  "updated": "2026-10-16T12:25:32.624414+00:00",
   "items": [
+    {
+      "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+      "url": "https://bbc.co.uk/news/articles/cq398zl8jmvdo",
+      "source": "BBC World",
+      "published": "2026-10-16T12:16:42+00:00",
+      "retrieved_at": "2026-10-16T12:25:26.932300+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1333eb45e7b625c1e1aa2e0f"
+    },
     {
       "title": "‘Trying to dominate’: In Cyprus, some fear Israel’s growing influence",
       "url": "https://aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "12ae0c5cb1b759dd5229cbc0"
-    },
-    {
-      "title": "Why is it so hard to fight the Houthis?",
-      "url": "https://bbc.co.uk/news/videos/cmy56nzd6y69o",
-      "source": "BBC World",
-      "published": "2026-10-12T12:15:01+00:00",
-      "retrieved_at": "2026-10-12T14:07:32.805999+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d93aaee665ec428585a281c7"
     }
   ],
   "unverified_history": [
