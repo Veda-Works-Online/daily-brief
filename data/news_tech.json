@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-16T16:01:27.071265+00:00",
+  "updated": "2026-10-16T16:06:24.606997+00:00",
   "items": [
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
+      "source": "TechCrunch AI",
+      "published": "2026-10-16T16:01:37+00:00",
+      "retrieved_at": "2026-10-16T16:06:19.427279+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8c793223d0392cd5d27a6a5e"
+    },
     {
       "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
       "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "65d3648e310aa92ad52d27c1"
-    },
-    {
-      "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
-      "url": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation",
-      "source": "TechCrunch",
-      "published": "2026-10-07T13:45:00+00:00",
-      "retrieved_at": "2026-10-07T13:49:10.477960+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e8c417028546e5b624313e58"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-16T16:01:19.172806+00:00",
+    "checked_at": "2026-10-16T16:06:18.645471+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
