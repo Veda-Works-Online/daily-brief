@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-16T11:15:26.998189+00:00",
+  "updated": "2026-10-16T11:45:30.218622+00:00",
   "items": [
+    {
+      "title": "US in ‘denuclearisation’ talks with Russia and China: Trump",
+      "url": "https://aljazeera.com/news/2026/10/16/us-in-denuclearisation-talks-with-russia-and-china-trump",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T11:28:12+00:00",
+      "retrieved_at": "2026-10-16T11:45:24.678019+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US and Russia each have more than 4,000 warheads. China set to catch up with them within five years, Trump says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6440895dc52d0616fe430c7b"
+    },
     {
       "title": "Poland scrambles fighter jets as Russia strikes western Ukraine",
       "url": "https://aljazeera.com/news/2026/10/16/poland-scrambles-fighter-jets-as-russia-strikes-western-ukraine",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "319e51d0b45731e949e4dbb0"
-    },
-    {
-      "title": "Ukraine’s Zelenskyy accuses Russia of violating Trump’s ‘energy ceasefire’",
-      "url": "https://aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire",
-      "source": "Al Jazeera",
-      "published": "2026-10-12T10:35:51+00:00",
-      "retrieved_at": "2026-10-12T11:15:25.172311+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The EU also announced that it officially added almost 1,600 new sanctions on Russia's military industrial complex.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "89efc97a525c964a4112cad6"
     }
   ],
   "unverified_history": [
