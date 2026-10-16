@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T13:55:39.001414+00:00",
+  "updated": "2026-10-16T14:00:48.390492+00:00",
   "items": [
     {
       "title": "Zelensky says Ukraine has right to defend itself after Trump criticism",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e69ba308469a222e0a9df6c1"
+    },
+    {
+      "title": "The EU wants an AI revolution. But on whose terms?",
+      "url": "https://dw.com/en/the-eu-wants-an-ai-revolution-but-on-whose-terms/a-79673456",
+      "source": "DW",
+      "published": "2026-10-16T13:12:00+00:00",
+      "retrieved_at": "2026-10-16T14:00:42.279216+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "As the US and China race ahead, the European Union seeks to boost its economy with AI. Can it compete while protecting workers, safety and the climate?",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "12b0b58c15ef161bd0331663"
     },
     {
       "title": "How UN chief Antonio Guterres tests the limits of quiet diplomacy",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bdd2adec36530409b8ff64fb"
-    },
-    {
-      "title": "South Korea Recalls Ambassador, Demands Public Apology From Ukraine",
-      "url": "https://thediplomat.com/2026/10/south-korea-recalls-ambassador-demands-public-apology-from-ukraine",
-      "source": "The Diplomat",
-      "published": "2026-10-12T13:11:00+00:00",
-      "retrieved_at": "2026-10-12T15:11:59.453134+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "A diplomatic rift is growing after a North Korean prisoner transfer that Kyiv revealed against Seoul’s wishes.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7a2e83d7bfb59cd565d7f535"
     }
   ],
   "unverified_history": [
