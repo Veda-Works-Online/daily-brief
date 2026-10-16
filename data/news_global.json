@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-16T18:21:39.115113+00:00",
+  "updated": "2026-10-16T18:41:31.903151+00:00",
   "items": [
+    {
+      "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
+      "url": "https://aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T18:21:43+00:00",
+      "retrieved_at": "2026-10-16T18:41:26.213013+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Through statements in English, Iranian officials are emphasising gas prices and issues with the US economy.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "05c8bea324719dd35d01535e"
+    },
     {
       "title": "Ukraine president targets Trump, Putin at EU summit",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2f3b396cc4e38294f14a7eeb"
-    },
-    {
-      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-      "url": "https://bbc.co.uk/news/articles/cjx2359qekrdo",
-      "source": "BBC World",
-      "published": "2026-10-12T20:17:37+00:00",
-      "retrieved_at": "2026-10-12T20:24:03.343831+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3ea667ba794a04ef63dcab7d"
     }
   ],
   "unverified_history": [
