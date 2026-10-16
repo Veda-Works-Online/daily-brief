@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T23:22:04.388396+00:00",
+  "updated": "2026-10-16T23:27:02.259361+00:00",
   "items": [
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
@@ -85,6 +85,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "15580ef0c50a062c2665790b"
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI",
+      "published": "2026-10-16T19:00:00+00:00",
+      "retrieved_at": "2026-10-16T23:26:55.839002+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "5bca9ee4bc43f935eff4a2cf"
     },
     {
       "title": "India becomes the latest country to report rogue AI agent activity",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "89d1b292b0fde2c3e5d1e1fc"
-    },
-    {
-      "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
-      "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing",
-      "source": "TechCrunch",
-      "published": "2026-10-07T15:00:00+00:00",
-      "retrieved_at": "2026-10-07T16:22:42.770896+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "39d39578d6479d0a1af02403"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-16T23:21:58.976924+00:00",
+    "checked_at": "2026-10-16T23:26:54.682613+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
