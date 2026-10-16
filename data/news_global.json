@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-16T14:30:44.054718+00:00",
+  "updated": "2026-10-16T14:45:38.658366+00:00",
   "items": [
+    {
+      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "url": "https://bbc.co.uk/news/articles/c58jz174w89ro",
+      "source": "BBC World",
+      "published": "2026-10-16T14:44:11+00:00",
+      "retrieved_at": "2026-10-16T14:45:32.920072+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "aebc18064558f1f1e21fbf8c"
+    },
     {
       "title": "Qatar announces ‘massive’ solar plant project in Lebanon",
       "url": "https://aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon",
@@ -64,22 +80,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "182fabc62e6cb0a92dd384bd"
-    },
-    {
-      "title": "Zelensky says Ukraine has right to defend itself after Trump criticism",
-      "url": "https://bbc.co.uk/news/articles/c58jz174w89ro",
-      "source": "BBC World",
-      "published": "2026-10-16T13:25:48+00:00",
-      "retrieved_at": "2026-10-16T13:30:44.824452+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "EU leaders rally around Ukraine's leader after Donald Trump says he is \"more difficult to work with than Putin\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e69ba308469a222e0a9df6c1"
     },
     {
       "title": "The EU wants an AI revolution. But on whose terms?",
