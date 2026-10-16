@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-16T20:06:19.223722+00:00",
+  "updated": "2026-10-16T20:11:23.070169+00:00",
   "items": [
+    {
+      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
+      "url": "https://wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds",
+      "source": "Wired",
+      "published": "2026-10-16T20:05:08+00:00",
+      "retrieved_at": "2026-10-16T20:11:16.688007+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem-linked company that aims to use AI for mining. Both the company and she say she never worked there.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ab365a8927bb54ea61d0da5c"
+    },
     {
       "title": "India becomes the latest country to report rogue AI agent activity",
       "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "873c334ec1837e4e8a432002"
-    },
-    {
-      "title": "Google rolls out improved SynthID AI content detector, now available globally",
-      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally",
-      "source": "Ars Technica AI",
-      "published": "2026-10-07T14:00:08+00:00",
-      "retrieved_at": "2026-10-07T14:05:12.507108+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "The new SynthID website can now identify AI content from Google, OpenAI, and more.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7b564799d2090e73d82d7fbe"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-16T20:06:13.196166+00:00",
+    "checked_at": "2026-10-16T20:11:15.104502+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

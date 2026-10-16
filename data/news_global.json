@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T20:01:15.296214+00:00",
+  "updated": "2026-10-16T20:11:32.271120+00:00",
   "items": [
     {
       "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
@@ -16,6 +16,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2809a7381c79b204ed1bf7b3"
+    },
+    {
+      "title": "Trump told new press secretary to ‘reconsider’ role",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/16/trump-told-new-press-secretary-to-reconsider-role",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T19:41:15+00:00",
+      "retrieved_at": "2026-10-16T20:11:26.407565+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Al Jazeera has confirmed that White House press secretary Katie Zacharia is “transitioning out” of her role.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c8d2239e6b99a9d090805954"
     },
     {
       "title": "Trump denies limiting Ukraine access to Starlink network",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "70a7e20d2817be1fe114d7c5"
-    },
-    {
-      "title": "Why do Iran’s oil ‘intermediaries’ owe the government billions?",
-      "url": "https://aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions",
-      "source": "Al Jazeera",
-      "published": "2026-10-12T21:16:58+00:00",
-      "retrieved_at": "2026-10-12T21:29:08.319502+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran says intermediaries handling its oil sales owe it billions of dollars, but how did the debts accumulate?",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "810cdd5418f4b994578cd03e"
     }
   ],
   "unverified_history": [
