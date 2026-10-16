@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-16T19:41:34.894899+00:00",
+  "updated": "2026-10-16T20:01:15.296214+00:00",
   "items": [
+    {
+      "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+      "url": "https://dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340",
+      "source": "DW",
+      "published": "2026-10-16T19:42:00+00:00",
+      "retrieved_at": "2026-10-16T20:01:09.717202+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "EU leaders reaffirmed support for Ukraine at the Brussels summit. But souring relations with the US over Russia and Starlink and a big hole in the budget will make for a difficult winter for Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2809a7381c79b204ed1bf7b3"
+    },
     {
       "title": "Trump denies limiting Ukraine access to Starlink network",
       "url": "https://bbc.co.uk/news/articles/ckz65g34wyd8o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "810cdd5418f4b994578cd03e"
-    },
-    {
-      "title": "Abdi-Wali makes history as first Somali-born refugee in UK Parliament",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament",
-      "source": "Al Jazeera",
-      "published": "2026-10-12T21:08:08+00:00",
-      "retrieved_at": "2026-10-12T21:29:08.319516+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Newly sworn-in Labour MP Sagal Abdi-Wali has become the first Somali-born refugee woman elected to UK Parliament.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9d1eac91c6056ecd0a6c6ed4"
     }
   ],
   "unverified_history": [
