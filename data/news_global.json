@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-16T00:07:38.293437+00:00",
+  "updated": "2026-10-16T01:33:47.151244+00:00",
   "items": [
+    {
+      "title": "Clashes erupt at protest over university funding law in Argentina",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T01:19:25+00:00",
+      "retrieved_at": "2026-10-16T01:33:41.526440+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Protesters in Buenos Aires demanded the government implement a law to boost university funding.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "57439b4bc89f5a353e9b8cd6"
+    },
     {
       "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
       "url": "https://aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1632f85b395839cf44b68635"
-    },
-    {
-      "title": "Footage shows moment Russian strike hits Ukrainian grocery store",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/11/footage-shows-moment-russian-strike-hits-ukrainian-grocery-store",
-      "source": "Al Jazeera",
-      "published": "2026-10-11T22:49:23+00:00",
-      "retrieved_at": "2026-10-11T22:58:42.841827+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "CCTV footage shows the moment of a Russian strike on a residential street in Kharkiv, Ukraine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "eb80e925ec0f0bb4946e1c49"
     }
   ],
   "unverified_history": [
