@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-16T19:11:35.401323+00:00",
+  "updated": "2026-10-16T19:41:34.894899+00:00",
   "items": [
+    {
+      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "url": "https://bbc.co.uk/news/articles/ckz65g34wyd8o",
+      "source": "BBC World",
+      "published": "2026-10-16T19:33:48+00:00",
+      "retrieved_at": "2026-10-16T19:41:29.114715+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f8726807ab2ce78ddd779430"
+    },
     {
       "title": "White House press secretary Katie Zacharia fired after five days on the job",
       "url": "https://aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9d1eac91c6056ecd0a6c6ed4"
-    },
-    {
-      "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
-      "url": "https://bbc.co.uk/news/articles/cqgm087rkze2o",
-      "source": "BBC World",
-      "published": "2026-10-12T21:07:25+00:00",
-      "retrieved_at": "2026-10-12T21:14:04.005679+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "US President Donald Trump has had a whirlwind weekend, announcing a diesel deal with Russia and an energy ceasefire between Russia and Ukraine. With the midterms coming up, it looks like Trump is turning overseas for help.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f77e2d54f5b03cae75be3913"
     }
   ],
   "unverified_history": [
