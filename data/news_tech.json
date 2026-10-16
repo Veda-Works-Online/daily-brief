@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-16T20:21:19.170969+00:00",
+  "updated": "2026-10-16T20:26:14.958539+00:00",
   "items": [
+    {
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops",
+      "source": "Ars Technica AI",
+      "published": "2026-10-16T20:20:07+00:00",
+      "retrieved_at": "2026-10-16T20:26:09.274580+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "22753483bff088e1ed52ce06"
+    },
     {
       "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
       "url": "https://wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds",
@@ -17,6 +34,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ab365a8927bb54ea61d0da5c"
+    },
+    {
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis",
+      "source": "TechCrunch",
+      "published": "2026-10-16T19:40:00+00:00",
+      "retrieved_at": "2026-10-16T20:26:09.526618+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The 2027 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "15580ef0c50a062c2665790b"
     },
     {
       "title": "India becomes the latest country to report rogue AI agent activity",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e2e01f1e804d27de14cf67e3"
-    },
-    {
-      "title": "Google experiments with an AI-powered gaming platform",
-      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform",
-      "source": "TechCrunch AI",
-      "published": "2026-10-07T14:36:23+00:00",
-      "retrieved_at": "2026-10-07T14:40:08.942182+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "863877fc8b90841d82b0fbae"
-    },
-    {
-      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
-      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models",
-      "source": "Ars Technica AI",
-      "published": "2026-10-07T14:12:37+00:00",
-      "retrieved_at": "2026-10-07T14:15:11.775432+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "873c334ec1837e4e8a432002"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-16T20:21:09.582692+00:00",
+    "checked_at": "2026-10-16T20:26:08.008875+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
