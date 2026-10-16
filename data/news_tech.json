@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T00:27:32.831347+00:00",
+  "updated": "2026-10-16T00:32:30.739337+00:00",
   "items": [
     {
       "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -476,6 +476,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "67a01011e9c14bc137e15ede"
+    },
+    {
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "source": "OpenAI",
+      "published": "2026-10-15T00:00:00+00:00",
+      "retrieved_at": "2026-10-16T00:32:27.274104+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "32903181bdd4d373b4580002"
     },
     {
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
@@ -2824,23 +2841,6 @@
       "story_fingerprint": "be42b6a2e32a1da9b67005c7"
     },
     {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "source": "OpenAI",
-      "published": "2026-10-09T07:00:00+00:00",
-      "retrieved_at": "2026-10-09T09:09:25.209884+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "f1f4216583e95326ce27ef10"
-    },
-    {
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "url": "https://openai.com/index/asana-browser-agent",
       "source": "OpenAI",
@@ -2856,6 +2856,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "eb390223549dc0048e83a9b6"
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "source": "OpenAI",
+      "published": "2026-10-09T07:00:00+00:00",
+      "retrieved_at": "2026-10-09T09:09:25.209884+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "f1f4216583e95326ce27ef10"
     },
     {
       "title": "Livestream Replay: Watch ‘Uncanny Valley’ on Women, Tech, and Power",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6cb4fadca3509ecf49da5978"
-    },
-    {
-      "title": "How AI decision models could change content moderation",
-      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation",
-      "source": "TechCrunch AI",
-      "published": "2026-10-06T20:35:20+00:00",
-      "retrieved_at": "2026-10-06T20:36:43.305590+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bd4a64541635da0cd9865a1a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-16T00:27:28.267811+00:00",
+    "checked_at": "2026-10-16T00:32:26.193628+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
