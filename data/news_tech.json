@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-16T20:56:18.329188+00:00",
+  "updated": "2026-10-16T21:02:17.605329+00:00",
   "items": [
+    {
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites",
+      "source": "Ars Technica AI",
+      "published": "2026-10-16T20:59:01+00:00",
+      "retrieved_at": "2026-10-16T21:02:10.309117+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.`",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "39881979fb65c4f306637ae4"
+    },
     {
       "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
       "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2096fc234db461e004ce3576"
-    },
-    {
-      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next",
-      "source": "TechCrunch AI",
-      "published": "2026-10-07T14:41:38+00:00",
-      "retrieved_at": "2026-10-07T14:45:11.470933+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e2e01f1e804d27de14cf67e3"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-16T20:56:12.612418+00:00",
+    "checked_at": "2026-10-16T21:02:09.181299+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
