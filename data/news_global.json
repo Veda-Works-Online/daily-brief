@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-16T18:01:39.238712+00:00",
+  "updated": "2026-10-16T18:21:39.115113+00:00",
   "items": [
+    {
+      "title": "Ukraine president targets Trump, Putin at EU summit",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T17:59:48+00:00",
+      "retrieved_at": "2026-10-16T18:21:29.664696+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "President Zelenskyy warned Russia’s ambitions extend beyond eastern Ukraine, saying its drone attack threaten NATO.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "eff23110157dbe71b7681b65"
+    },
     {
       "title": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal",
       "url": "https://aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3ea667ba794a04ef63dcab7d"
-    },
-    {
-      "title": "Israeli strike on tent in Gaza’s Khan Younis kills three",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/12/israeli-strike-on-tent-in-gazas-khan-younis-kills-three",
-      "source": "Al Jazeera",
-      "published": "2026-10-12T20:06:04+00:00",
-      "retrieved_at": "2026-10-12T20:19:03.914009+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israeli strike on tent in Gaza’s Khan Younis kills three",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "09b683ca235293f2b968cf89"
     }
   ],
   "unverified_history": [
