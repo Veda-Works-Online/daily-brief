@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-16T15:40:31.995051+00:00",
+  "updated": "2026-10-16T15:45:28.991574+00:00",
   "items": [
+    {
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees",
+      "source": "Ars Technica AI",
+      "published": "2026-10-16T15:41:00+00:00",
+      "retrieved_at": "2026-10-16T15:45:23.586746+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "977c19b53aad1347f3a21b92"
+    },
     {
       "title": "Jev is Vercel’s fastest-adopted AI model ever",
       "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e8c417028546e5b624313e58"
-    },
-    {
-      "title": "Introducing Falcon ASR",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "source": "Hugging Face",
-      "published": "2026-10-07T13:21:03+00:00",
-      "retrieved_at": "2026-10-07T13:24:08.981610+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "646177aa596828908dac988c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-16T15:40:25.524584+00:00",
+    "checked_at": "2026-10-16T15:45:22.615986+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
