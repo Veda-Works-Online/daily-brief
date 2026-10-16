@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-16T13:01:09.074219+00:00",
+  "updated": "2026-10-16T13:05:35.958011+00:00",
   "items": [
+    {
+      "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
+      "url": "https://wired.com/review/microsoft-surface-laptop-ultra",
+      "source": "Wired",
+      "published": "2026-10-16T13:00:00+00:00",
+      "retrieved_at": "2026-10-16T13:05:31.644831+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The Surface Laptop Ultra is a true MacBook Pro competitor for Windows, and Microsoft has never been so close to dethroning Apple—if only it weren't for the lack of battery life.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "456caccc0c0772616fb79566"
+    },
     {
       "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
       "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company",
@@ -85,6 +102,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "3e62c61213959cb5432b362a"
+    },
+    {
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "source": "Hugging Face",
+      "published": "2026-10-16T00:00:00+00:00",
+      "retrieved_at": "2026-10-16T13:05:30.954030+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "897c354eac1c27119d85d0b0"
     },
     {
       "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
       "source_type": "PRIMARY",
       "story_fingerprint": "f3cef89d1e1b83802abbfb06"
-    },
-    {
-      "title": "A Startup Has a Plan to Make Water From Air Using Data Centers’ Waste Heat",
-      "url": "https://wired.com/story/startup-atoco-makes-water-from-air-using-data-centers",
-      "source": "Wired",
-      "published": "2026-10-07T10:00:00+00:00",
-      "retrieved_at": "2026-10-07T10:04:09.548488+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Atoco’s new machines use specialized materials that can harvest water from some of the driest air on Earth without using electricity.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "02943899e2ec9272cde5b077"
-    },
-    {
-      "title": "Your Next Great Read Might Be Certified ‘Organic’",
-      "url": "https://wired.com/story/organic-literature-books-by-people-stamp-ai",
-      "source": "Wired",
-      "published": "2026-10-07T08:30:00+00:00",
-      "retrieved_at": "2026-10-07T08:38:29.271383+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a4de552c82c3f91fbe43fd83"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-16T13:00:56.377640+00:00",
+    "checked_at": "2026-10-16T13:05:30.321916+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
