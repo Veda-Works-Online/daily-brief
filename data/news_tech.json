@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-16T10:19:10.835697+00:00",
+  "updated": "2026-10-16T10:24:09.713630+00:00",
   "items": [
+    {
+      "title": "Googlebook review: Android on a laptop is still Android",
+      "url": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android",
+      "source": "Ars Technica",
+      "published": "2026-10-16T10:00:32+00:00",
+      "retrieved_at": "2026-10-16T10:24:06.744685+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Android laptops are here, but Google has a lot of work ahead to make them good.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "dfbf07924e4d01607a5221fd"
+    },
     {
       "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
       "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "9af29a2b711daf04bee80af0"
-    },
-    {
-      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product",
-      "source": "TechCrunch AI",
-      "published": "2026-10-06T22:34:03+00:00",
-      "retrieved_at": "2026-10-06T23:42:36.633125+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2cfa3a06bc05e0d83e2225df"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-16T10:19:06.373508+00:00",
+    "checked_at": "2026-10-16T10:24:05.892132+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
