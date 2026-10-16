@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-16T18:41:31.903151+00:00",
+  "updated": "2026-10-16T19:11:35.401323+00:00",
   "items": [
+    {
+      "title": "White House press secretary Katie Zacharia fired after five days on the job",
+      "url": "https://aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T18:58:06+00:00",
+      "retrieved_at": "2026-10-16T19:11:29.428349+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Trump advised Katie Zacharia to reconsider her press secretary role due to media backlash over her credentials.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "02626f190d09031258fd21e4"
+    },
     {
       "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
       "url": "https://aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f77e2d54f5b03cae75be3913"
-    },
-    {
-      "title": "Israel demolitions in Negev displace 400 Palestinians",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/12/israel-demolitions-in-negev-displace-400-palestinians",
-      "source": "Al Jazeera",
-      "published": "2026-10-12T20:50:37+00:00",
-      "retrieved_at": "2026-10-12T21:04:08.292069+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israeli authorities have demolished 80 structures in Al-Dahiya village in Israel’s Negev Desert",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2f3b396cc4e38294f14a7eeb"
     }
   ],
   "unverified_history": [
