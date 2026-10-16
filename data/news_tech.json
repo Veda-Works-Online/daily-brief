@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T13:40:30.709906+00:00",
+  "updated": "2026-10-16T13:45:30.102451+00:00",
   "items": [
     {
       "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
@@ -4235,21 +4235,21 @@
       "story_fingerprint": "9a69b5212c143e8a726bd8d5"
     },
     {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "source": "OpenAI",
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform",
+      "source": "Google AI",
       "published": "2026-10-07T12:00:00+00:00",
-      "retrieved_at": "2026-10-16T13:40:26.303117+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "retrieved_at": "2026-10-16T13:45:23.529023+00:00",
+      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "summary": "Overview of Playground",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
+      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
       "source_type": "PRIMARY",
-      "story_fingerprint": "b13f0fdc12a122113fe624a0"
+      "story_fingerprint": "f3cef89d1e1b83802abbfb06"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-16T13:40:25.182307+00:00",
+    "checked_at": "2026-10-16T13:45:22.956523+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
