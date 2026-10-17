@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-16T23:37:10.395243+00:00",
+  "updated": "2026-10-17T00:02:09.174301+00:00",
   "items": [
+    {
+      "title": "Trump mocks Middle Eastern names with ‘Mohammed’ joke",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/16/trump-mocks-middle-eastern-names-with-mohammed-joke",
+      "source": "Al Jazeera",
+      "published": "2026-10-16T23:55:57+00:00",
+      "retrieved_at": "2026-10-17T00:02:03.281064+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "“If you’re in doubt about somebody’s name from the Middle East, just say ‘Mohammed,’” says US President Donald Trump.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4a6f3f46b0cdea9af23c9909"
+    },
+    {
+      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+      "url": "https://bbc.co.uk/news/articles/c64g18ljjd8do",
+      "source": "BBC World",
+      "published": "2026-10-16T23:54:35+00:00",
+      "retrieved_at": "2026-10-17T00:02:03.312722+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "91010533e52625cb59f4bc8e"
+    },
     {
       "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
       "url": "https://aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1d56ba9ba079ef137e8e9bc5"
-    },
-    {
-      "title": "Why China’s Training Center in Laos Will Not Change Vietnam’s Non-Aligned Foreign Policy",
-      "url": "https://thediplomat.com/2026/10/why-chinas-training-center-in-laos-will-not-change-vietnams-non-aligned-foreign-policy",
-      "source": "The Diplomat",
-      "published": "2026-10-13T00:06:00+00:00",
-      "retrieved_at": "2026-10-13T15:12:58.393923+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Hanoi's best option to keep its western neighbors neutral is to resist further Chinese encroachment by political means.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bde4fc241881b58d2f0e36bf"
-    },
-    {
-      "title": "Iran war live: Qatar urges stronger efforts to secure Gulf maritime routes",
-      "url": "https://aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T00:00:00+00:00",
-      "retrieved_at": "2026-10-13T06:50:52.084064+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US President Trump condemns Yemen's Houthis over escalating attacks, as Saudi Arabia halts flights at Riyadh airport.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c0d817d7aeda8935d140f3dd"
     }
   ],
   "unverified_history": [
