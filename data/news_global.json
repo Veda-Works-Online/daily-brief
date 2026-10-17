@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-17T05:32:44.075405+00:00",
+  "updated": "2026-10-17T06:42:47.178944+00:00",
   "items": [
+    {
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "url": "https://bbc.co.uk/news/articles/cxr5yvzv7rp0o",
+      "source": "BBC World",
+      "published": "2026-10-17T06:39:40+00:00",
+      "retrieved_at": "2026-10-17T06:42:42.906262+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8cfd46e7a20cc40d58cb34f9"
+    },
     {
       "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
       "url": "https://aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million",
@@ -96,22 +112,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fa835e1d05d5f0176b3cf082"
-    },
-    {
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
-      "url": "https://bbc.co.uk/news/articles/cxr5yvzv7rp0o",
-      "source": "BBC World",
-      "published": "2026-10-17T02:48:36+00:00",
-      "retrieved_at": "2026-10-17T03:02:37.626433+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9a67a72b760ce2c10af03245"
     },
     {
       "title": "Brazil sees record fall in Amazon deforestation as key election looms",
