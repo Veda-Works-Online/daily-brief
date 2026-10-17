@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T12:14:43.812178+00:00",
+  "updated": "2026-10-17T12:29:42.649586+00:00",
   "items": [
     {
       "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "23087b9b6b7e77256e0fa64f"
+    },
+    {
+      "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
+      "url": "https://dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703",
+      "source": "DW",
+      "published": "2026-10-17T11:34:00+00:00",
+      "retrieved_at": "2026-10-17T12:29:37.643942+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow a boost for Vladimir Putin.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4de1a2bbf3120773b3da64ac"
     },
     {
       "title": "Russian strikes kill civilians, injure dozens across Ukraine",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e1a68cc227500c958918e57e"
-    },
-    {
-      "title": "Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia",
-      "url": "https://dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641",
-      "source": "DW",
-      "published": "2026-10-13T12:04:00+00:00",
-      "retrieved_at": "2026-10-13T16:03:01.771985+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Slovakia is restoring military-diplomatic relations with Russia for the first time since 2022. The government has defended the move but critics warn of espionage risks and further damage to trust within NATO.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9bfd6ad01493db98efcd243e"
     }
   ],
   "unverified_history": [
