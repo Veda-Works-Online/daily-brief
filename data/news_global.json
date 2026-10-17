@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-17T04:57:37.637122+00:00",
+  "updated": "2026-10-17T05:02:48.538037+00:00",
   "items": [
+    {
+      "title": "Trump puts on hold new Russia sanctions he signed into law",
+      "url": "https://aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T04:45:03+00:00",
+      "retrieved_at": "2026-10-17T05:02:44.227866+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US president's executive order comes two days before sanctions deadline and a week after diesel deal with Putin.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b5d1deb63cc63ea5c32d06e8"
+    },
     {
       "title": "Albania’s PM blames ‘foreign hands’ for protests",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/17/albanias-pm-blames-foreign-hands-for-protests",
@@ -416,6 +432,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "aebc18064558f1f1e21fbf8c"
+    },
+    {
+      "title": "Femicide in Iran: When 'honor' becomes a death sentence",
+      "url": "https://dw.com/en/femicide-in-iran-when-honor-becomes-a-death-sentence/a-79681977",
+      "source": "DW",
+      "published": "2026-10-16T14:27:00+00:00",
+      "retrieved_at": "2026-10-17T05:02:44.781789+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The murder of a young mother has once again sparked debate in Iran over so-called honor killings, the social acceptance of violence against women and the lack of protection for people vulnerable to gender-based violence.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6491273c6a31fa0cc5fc2aa2"
     },
     {
       "title": "Iran: When 'honor' becomes a death sentence for women",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f42ea698f975e4923404fbc5"
-    },
-    {
-      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-      "url": "https://bbc.co.uk/news/articles/c9y7lgg2vdggo",
-      "source": "BBC World",
-      "published": "2026-10-13T05:02:34+00:00",
-      "retrieved_at": "2026-10-13T05:15:59.911948+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a9946fbcedbb9822ef1c65a1"
-    },
-    {
-      "title": "More than 100 foreign trekkers stranded by floods in Nepal’s Gorkha region",
-      "url": "https://aljazeera.com/news/2026/10/13/more-than-100-foreign-trekkers-stranded-by-floods-in-nepals-gorkha-region",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T05:01:14+00:00",
-      "retrieved_at": "2026-10-13T09:26:50.599720+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Rescue operation underway after flash floods swept away homes, bridges and parts of the Manaslu trekking trail.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "949f3efc1541b3f71ac5ca61"
     }
   ],
   "unverified_history": [
