@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T12:29:42.649586+00:00",
+  "updated": "2026-10-17T12:39:39.218174+00:00",
   "items": [
     {
       "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
@@ -16,6 +16,38 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "23087b9b6b7e77256e0fa64f"
+    },
+    {
+      "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+      "url": "https://aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T12:10:56+00:00",
+      "retrieved_at": "2026-10-17T12:39:33.786024+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Two vessels have been struck with naval mines in the Strait of Hormuz this week.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "35468e28ec5b1576bf7f053a"
+    },
+    {
+      "title": "Women protest in New Delhi against police brutality",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T12:07:15+00:00",
+      "retrieved_at": "2026-10-17T12:39:33.786037+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Women protest in New Delhi against police brutality",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f59dbccee42c384992ca64fb"
     },
     {
       "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "43a614ca027cab1786a7c73f"
-    },
-    {
-      "title": "Iran threatens Gulf data centres: How exposed is the region’s internet?",
-      "url": "https://aljazeera.com/news/2026/10/13/iran-threatens-gulf-data-centres-how-exposed-is-the-regions-internet",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T13:03:33+00:00",
-      "retrieved_at": "2026-10-13T13:13:07.759000+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran has warned that cables and data centres in the region could be attacked, as Houthi allies hold internet chokepoint.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "27faa9bac83e39427330d53d"
-    },
-    {
-      "title": "African Union holds Kigali talks as fighting continues in eastern DRC",
-      "url": "https://aljazeera.com/news/2026/10/13/african-union-holds-kigali-talks-as-fighting-continues-in-eastern-drc",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T12:40:26+00:00",
-      "retrieved_at": "2026-10-13T12:48:15.219301+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Three former African presidents discussed security commitments, refugee protection and regional cooperation.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e1a68cc227500c958918e57e"
     }
   ],
   "unverified_history": [
