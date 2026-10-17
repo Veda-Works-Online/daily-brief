@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-17T02:32:36.810497+00:00",
+  "updated": "2026-10-17T02:37:34.217401+00:00",
   "items": [
+    {
+      "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept",
+      "source": "TechCrunch",
+      "published": "2026-10-17T02:36:18+00:00",
+      "retrieved_at": "2026-10-17T02:37:30.847200+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "57ade5a5045951c49471525d"
+    },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e9be86d15c5a41c7025bd5cf"
-    },
-    {
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look",
-      "source": "TechCrunch AI",
-      "published": "2026-10-07T15:07:08+00:00",
-      "retrieved_at": "2026-10-07T16:22:42.216124+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "89d1b292b0fde2c3e5d1e1fc"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-17T02:32:32.412902+00:00",
+    "checked_at": "2026-10-17T02:37:29.570289+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
