@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-17T06:42:47.178944+00:00",
+  "updated": "2026-10-17T07:03:46.645825+00:00",
   "items": [
+    {
+      "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
+      "url": "https://aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T06:41:34+00:00",
+      "retrieved_at": "2026-10-17T07:03:41.018596+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Houthi missile strikes threaten key supply routes on Yemen's Red Sea coast, intensifying pressure on government forces.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9a02fc2c8d235c71c6024e87"
+    },
     {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "url": "https://bbc.co.uk/news/articles/cxr5yvzv7rp0o",
@@ -16,6 +32,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8cfd46e7a20cc40d58cb34f9"
+    },
+    {
+      "title": "Ukraine and Europe have little choice but to work with Trump",
+      "url": "https://aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T06:36:03+00:00",
+      "retrieved_at": "2026-10-17T07:03:41.018624+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Despite growing tensions over Russia, Kyiv and European leaders remain dependent on US support.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7478977e3dd70ad3a02dbfe5"
     },
     {
       "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "40f19565a4dfa258659c60cf"
-    },
-    {
-      "title": "India 'cockroach' leaders detained after entering barricaded protest site",
-      "url": "https://bbc.co.uk/news/articles/cqz0v11n2vj5o",
-      "source": "BBC World",
-      "published": "2026-10-13T06:58:20+00:00",
-      "retrieved_at": "2026-10-13T07:15:58.634877+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "895b62bb3882bda59fddc213"
-    },
-    {
-      "title": "Middle East and Central Asia’s economy to shrink in 2026 amid war, IMF says",
-      "url": "https://aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T05:59:48+00:00",
-      "retrieved_at": "2026-10-13T06:15:53.899498+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iraq, Bahrain, Kuwait and Qatar face double-digit declines in GDP amid the fallout from the US-Israel war on Iran.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4cede1cbcf50573fe0d6dc3f"
     }
   ],
   "unverified_history": [
