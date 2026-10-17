@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T14:24:38.416259+00:00",
+  "updated": "2026-10-17T15:19:37.315494+00:00",
   "items": [
     {
       "title": "Protesters clash with police during nationwide demonstrations in France",
@@ -192,6 +192,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "22fcb2587dfc52e93efdbd26"
+    },
+    {
+      "title": "France: Police and protesters clash in nationwide protests",
+      "url": "https://dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584",
+      "source": "DW",
+      "published": "2026-10-17T08:02:00+00:00",
+      "retrieved_at": "2026-10-17T15:19:32.082248+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Students, trade unionists and Yellow Vest activists are taking to French streets to protest high prices and inequality. Police and protesters have already clashed in Paris and Marseille.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "744080c502037807b697767f"
     },
     {
       "title": "France braces for nationwide protests",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "609b712a764f895c21477c8c"
-    },
-    {
-      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
-      "url": "https://bbc.co.uk/news/articles/c9y7l0pm8jkko",
-      "source": "BBC World",
-      "published": "2026-10-13T13:27:31+00:00",
-      "retrieved_at": "2026-10-13T14:03:02.658265+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d34c1091a7e78d07ffaac34c"
     }
   ],
   "unverified_history": [
