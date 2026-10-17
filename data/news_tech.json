@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-17T09:03:35.635893+00:00",
+  "updated": "2026-10-17T09:08:33.207344+00:00",
   "items": [
+    {
+      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "url": "https://wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes",
+      "source": "Wired",
+      "published": "2026-10-17T09:00:00+00:00",
+      "retrieved_at": "2026-10-17T09:08:29.096681+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8110fa76b78ccc9cfc2509ff"
+    },
     {
       "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
       "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "eb2f138ca81d2d8c8f64ed0b"
-    },
-    {
-      "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
-      "url": "https://wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos",
-      "source": "Wired",
-      "published": "2026-10-07T15:34:33+00:00",
-      "retrieved_at": "2026-10-07T16:22:42.858531+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8ce17335d1aee9c3ba8f6e06"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-17T09:03:26.425605+00:00",
+    "checked_at": "2026-10-17T09:08:27.767453+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
