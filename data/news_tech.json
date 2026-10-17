@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-17T21:30:12.731728+00:00",
+  "updated": "2026-10-17T21:35:12.080834+00:00",
   "items": [
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+      "source": "TechCrunch AI",
+      "published": "2026-10-17T21:31:32+00:00",
+      "retrieved_at": "2026-10-17T21:35:04.639034+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "452977fc22229558c607dc29"
+    },
     {
       "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
       "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "baeafcbb59df648fc31e865f"
-    },
-    {
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises",
-      "source": "TechCrunch AI",
-      "published": "2026-10-07T18:15:28+00:00",
-      "retrieved_at": "2026-10-07T21:28:20.398893+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "55f7e3ace5b98d91857f3c43"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-17T21:30:03.394059+00:00",
+    "checked_at": "2026-10-17T21:35:03.986640+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
