@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T19:25:15.985800+00:00",
+  "updated": "2026-10-17T19:30:17.995188+00:00",
   "items": [
     {
       "title": "Ilhan Omar: The US Democrat targeted by Donald Trump",
@@ -304,6 +304,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "22fcb2587dfc52e93efdbd26"
+    },
+    {
+      "title": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
+      "url": "https://dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584",
+      "source": "DW",
+      "published": "2026-10-17T08:02:00+00:00",
+      "retrieved_at": "2026-10-17T19:30:14.286402+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Unrest broke out in parts of France as students, trade unionists and Yellow Vest activists took to the streets to protest high prices and inequality. Police arrested hundreds amid chaotic scenes in cities across France.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7f7e26fab7a850157b7566c5"
     },
     {
       "title": "France: Police and protesters clash in nationwide protests",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2339f7a44de636e77ed84600"
-    },
-    {
-      "title": "France seizes tanker suspected of belonging to Russia’s shadow fleet",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/13/france-seizes-tanker-suspected-of-belonging-to-russias-shadow-fleet",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T15:44:44+00:00",
-      "retrieved_at": "2026-10-13T15:58:18.819803+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "France seizes tanker suspected of belonging to Russia’s shadow fleet",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "19f866d8b1ae32fd57a62d28"
     }
   ],
   "unverified_history": [
