@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-17T05:22:37.986076+00:00",
+  "updated": "2026-10-17T05:32:44.075405+00:00",
   "items": [
+    {
+      "title": "Russian attacks in Ukraine kill at least 8, cut power to 1 million",
+      "url": "https://aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T05:19:19+00:00",
+      "retrieved_at": "2026-10-17T05:32:39.965871+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Russia strikes Kharkiv, Kramatorsk, Volyn and Rivne as Moscow presses its campaign against Ukraine's power grid.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6e7445e1216a7eb43549a1b8"
+    },
     {
       "title": "The Israeli politicians seeking to replace Netanyahu",
       "url": "https://aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4cede1cbcf50573fe0d6dc3f"
-    },
-    {
-      "title": "Despite long history with Netanyahu, Trump hedges as Israel vote nears",
-      "url": "https://aljazeera.com/news/2026/10/13/despite-long-history-with-netanyahu-trump-hedges-as-israel-vote-nears",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T05:40:10+00:00",
-      "retrieved_at": "2026-10-13T06:01:00.365380+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US president has not endorsed Israeli prime minister ahead of October 27 election amid shifting public sentiment.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "05c8e31959b85a877e0c05bd"
     }
   ],
   "unverified_history": [

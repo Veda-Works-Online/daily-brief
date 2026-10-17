@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T05:27:30.328931+00:00",
+  "updated": "2026-10-17T05:32:37.574155+00:00",
   "items": [
     {
       "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
@@ -376,23 +376,6 @@
       "story_fingerprint": "3e62c61213959cb5432b362a"
     },
     {
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "source": "OpenAI",
-      "published": "2026-10-16T00:00:00+00:00",
-      "retrieved_at": "2026-10-17T05:27:26.937045+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "81b19b863eb63ff9ca4e0dca"
-    },
-    {
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "source": "OpenAI",
@@ -408,6 +391,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "91099d2a023607ef71adc7e5"
+    },
+    {
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "source": "OpenAI",
+      "published": "2026-10-16T00:00:00+00:00",
+      "retrieved_at": "2026-10-17T05:27:26.937045+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "81b19b863eb63ff9ca4e0dca"
     },
     {
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-17T05:27:25.889081+00:00",
+    "checked_at": "2026-10-17T05:32:29.395583+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
