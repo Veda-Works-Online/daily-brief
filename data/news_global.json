@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-17T05:02:48.538037+00:00",
+  "updated": "2026-10-17T05:22:37.986076+00:00",
   "items": [
+    {
+      "title": "The Israeli politicians seeking to replace Netanyahu",
+      "url": "https://aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T05:00:58+00:00",
+      "retrieved_at": "2026-10-17T05:22:33.864865+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A look at Israel's main opposition leaders, their parties and their largely shared positions on Gaza and other wars.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9879febedd503ead62c2138e"
+    },
+    {
+      "title": "Trump waives Russia sanctions as rift with Zelenskyy widens",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T04:58:32+00:00",
+      "retrieved_at": "2026-10-17T05:22:33.864881+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US President Donald Trump has waived more sanctions on Russia in a bid to ease energy prices.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fd132c9419157682f0f91147"
+    },
     {
       "title": "Trump puts on hold new Russia sanctions he signed into law",
       "url": "https://aljazeera.com/news/2026/10/17/trump-puts-on-hold-new-russia-sanctions-he-signed-into-law",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "05c8e31959b85a877e0c05bd"
-    },
-    {
-      "title": "Protests Escalate in Delhi Despite Modi Government’s Heavy-handed Crackdown",
-      "url": "https://thediplomat.com/2026/10/protests-escalate-in-delhi-despite-modi-governments-heavy-handed-crackdown",
-      "source": "The Diplomat",
-      "published": "2026-10-13T05:14:00+00:00",
-      "retrieved_at": "2026-10-13T15:12:58.393896+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Indiscriminate arrests, detentions, police brutality, and blockades have not been able to demoralize protesters seeking the removal of the chief election commissioner.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "080416be28b4c6a99d2262e6"
-    },
-    {
-      "title": "Where the US midterm elections will be won and lost",
-      "url": "https://bbc.co.uk/news/articles/cr20wlp09gn3o",
-      "source": "BBC World",
-      "published": "2026-10-13T05:02:44+00:00",
-      "retrieved_at": "2026-10-13T13:32:57.924880+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f42ea698f975e4923404fbc5"
     }
   ],
   "unverified_history": [
