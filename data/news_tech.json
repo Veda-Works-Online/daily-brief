@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-17T18:45:12.249565+00:00",
+  "updated": "2026-10-17T18:50:10.611759+00:00",
   "items": [
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
+      "source": "TechCrunch AI",
+      "published": "2026-10-17T18:48:08+00:00",
+      "retrieved_at": "2026-10-17T18:50:02.818914+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "62d7b866bb28c73e09933714"
+    },
     {
       "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
       "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better",
@@ -85,23 +102,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "57ade5a5045951c49471525d"
-    },
-    {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "source": "TechCrunch AI",
-      "published": "2026-10-16T21:22:28+00:00",
-      "retrieved_at": "2026-10-16T21:56:53.568256+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "62d7b866bb28c73e09933714"
     },
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-17T18:45:02.525487+00:00",
+    "checked_at": "2026-10-17T18:50:02.235076+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
