@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-17T23:26:16.467702+00:00",
+  "updated": "2026-10-17T23:46:12.184334+00:00",
   "items": [
+    {
+      "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+      "url": "https://aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T23:40:59+00:00",
+      "retrieved_at": "2026-10-17T23:46:07.675921+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Trump-appointed Ambassador Mike Huckabee calls the attack on Heidi Levine a 'despicable act of terror'.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "af89da3937d4f72952aea001"
+    },
     {
       "title": "Ilhan Omar: The US Democrat targeted by Donald Trump",
       "url": "https://dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a3ff112b5a3b470f5d54abb8"
-    },
-    {
-      "title": "UK spy chief says Iran is stepping up targeting of military bases",
-      "url": "https://aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T16:06:56+00:00",
-      "retrieved_at": "2026-10-13T16:23:04.098854+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "MI5 chief says 50 arrests were made in past year to disrupt Iran-led operations.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "41998e96151e7c2b75c61093"
     }
   ],
   "unverified_history": [
