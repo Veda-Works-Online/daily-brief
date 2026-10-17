@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-17T02:42:41.216783+00:00",
+  "updated": "2026-10-17T03:02:42.468475+00:00",
   "items": [
+    {
+      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "url": "https://bbc.co.uk/news/articles/cxr5yvzv7rp0o",
+      "source": "BBC World",
+      "published": "2026-10-17T02:48:36+00:00",
+      "retrieved_at": "2026-10-17T03:02:37.626433+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9a67a72b760ce2c10af03245"
+    },
     {
       "title": "Brazil sees record fall in Amazon deforestation as key election looms",
       "url": "https://bbc.co.uk/news/articles/cqe8rzg6zl00o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6b3ca967a01f3ec6a2beb595"
-    },
-    {
-      "title": "Trump insists energy ceasefire holds as Ukraine reports new Russian strikes",
-      "url": "https://aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T03:30:23+00:00",
-      "retrieved_at": "2026-10-13T03:47:03.704495+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US President urges Zelenskyy, Putin to end 'ridiculous war' and insists they agreed to stop attacks on energy sites.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e1cf9a3ad0c0189a2768deef"
     }
   ],
   "unverified_history": [
