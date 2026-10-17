@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T10:18:41.256651+00:00",
+  "updated": "2026-10-17T10:53:42.856501+00:00",
   "items": [
     {
       "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
@@ -624,6 +624,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6273dfb7ada2f155e55e4424"
+    },
+    {
+      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+      "url": "https://bbc.co.uk/news/videos/cm2ke1v8e4geo",
+      "source": "BBC World",
+      "published": "2026-10-16T15:45:10+00:00",
+      "retrieved_at": "2026-10-17T10:53:37.167537+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d50ceae4929f4b65489500d2"
     },
     {
       "title": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "162a39354bb7b3e1dc6f8810"
-    },
-    {
-      "title": "Trump Protester punched at Trump rally as they’re mocked by the president",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/13/trump-protester-punched-at-trump-rally-as-theyre-mocked-by-the-president",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T10:02:30+00:00",
-      "retrieved_at": "2026-10-13T10:26:52.940002+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A protester wearing a ‘Release the Epstein files’ shirt was punched by Trump supporters at a Republican rally in Ohio.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cb4fd37142ad4abd1f9fb493"
     }
   ],
   "unverified_history": [
