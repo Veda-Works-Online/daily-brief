@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T05:22:31.540558+00:00",
+  "updated": "2026-10-17T05:27:30.328931+00:00",
   "items": [
     {
       "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
@@ -374,6 +374,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "3e62c61213959cb5432b362a"
+    },
+    {
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "source": "OpenAI",
+      "published": "2026-10-16T00:00:00+00:00",
+      "retrieved_at": "2026-10-17T05:27:26.937045+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "81b19b863eb63ff9ca4e0dca"
     },
     {
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8ce17335d1aee9c3ba8f6e06"
-    },
-    {
-      "title": "Trade group crunches numbers on Trump’s impossible push for 100% US-made tech",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trade-group-crunches-numbers-on-trumps-impossible-push-for-100-us-made-tech",
-      "source": "Ars Technica",
-      "published": "2026-10-07T15:19:05+00:00",
-      "retrieved_at": "2026-10-07T21:28:20.910152+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Trump's aggressive reshoring push could cost tech firms $230 billion, CTA estimates.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e9be86d15c5a41c7025bd5cf"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-17T05:22:27.178641+00:00",
+    "checked_at": "2026-10-17T05:27:25.889081+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
