@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T19:30:17.995188+00:00",
+  "updated": "2026-10-17T19:35:19.561248+00:00",
   "items": [
     {
       "title": "Ilhan Omar: The US Democrat targeted by Donald Trump",
@@ -16,6 +16,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9a70ba694bc9e128a67f156d"
+    },
+    {
+      "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
+      "url": "https://aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia",
+      "source": "Al Jazeera",
+      "published": "2026-10-17T19:03:49+00:00",
+      "retrieved_at": "2026-10-17T19:35:15.357610+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US support at risk as Trump-Zelenskyy relations nosedive.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ccd4e4a9eab2ccdd26c3964b"
     },
     {
       "title": "Is the US Embassy in Jerusalem for Israel or America?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "41998e96151e7c2b75c61093"
-    },
-    {
-      "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-      "url": "https://bbc.co.uk/news/articles/c60rl5vwpk02o",
-      "source": "BBC World",
-      "published": "2026-10-13T15:52:15+00:00",
-      "retrieved_at": "2026-10-13T18:39:10.005582+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2339f7a44de636e77ed84600"
     }
   ],
   "unverified_history": [
