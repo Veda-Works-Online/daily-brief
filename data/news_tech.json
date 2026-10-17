@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-17T15:29:33.221227+00:00",
+  "updated": "2026-10-17T15:34:32.981990+00:00",
   "items": [
+    {
+      "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+      "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better",
+      "source": "TechCrunch",
+      "published": "2026-10-17T15:30:00+00:00",
+      "retrieved_at": "2026-10-17T15:34:25.211768+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "886ef7aab6f41d5ce9c640d6"
+    },
     {
       "title": "HTC Made Smart Glasses That Are Way More Private",
       "url": "https://wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "33556d55ae6284f802459995"
-    },
-    {
-      "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
-      "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits",
-      "source": "Ars Technica AI",
-      "published": "2026-10-07T17:57:39+00:00",
-      "retrieved_at": "2026-10-07T21:28:20.731770+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Man gets 18 months for AI scheme stealing $8M in music streaming royalties.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1148baf137d53f13dffaa5e4"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-17T15:29:21.897036+00:00",
+    "checked_at": "2026-10-17T15:34:23.715398+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
