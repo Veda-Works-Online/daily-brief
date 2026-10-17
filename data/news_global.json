@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T07:58:39.958497+00:00",
+  "updated": "2026-10-17T08:03:42.934714+00:00",
   "items": [
     {
       "title": "Israeli raids and arrests in southern Syria push population to the brink",
@@ -80,6 +80,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6e7445e1216a7eb43549a1b8"
+    },
+    {
+      "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
+      "url": "https://bbc.co.uk/news/articles/c6kg53zrexdeo",
+      "source": "BBC World",
+      "published": "2026-10-17T05:01:40+00:00",
+      "retrieved_at": "2026-10-17T08:03:37.253681+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Archbishop Paul Gallagher tells the BBC there was no sign of the Pope's ill health prior to his operation this week.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bcd101cb9cc0b06eff4f200e"
     },
     {
       "title": "The Israeli politicians seeking to replace Netanyahu",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "04cf40ebfa7c990ebac3871d"
-    },
-    {
-      "title": "The escalation in Yemen is a turning point",
-      "url": "https://aljazeera.com/opinions/2026/10/13/the-escalation-in-yemen-is-a-turning-point",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T08:42:55+00:00",
-      "retrieved_at": "2026-10-13T09:06:46.432719+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The risk of a region-wide war is increasing, but if cooler heads prevail, a peaceful arrangement can still be reached.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dedb057c5e2514957eb4ed12"
     }
   ],
   "unverified_history": [
