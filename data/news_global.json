@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-18T00:06:14.679206+00:00",
+  "updated": "2026-10-18T00:21:11.120715+00:00",
   "items": [
+    {
+      "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+      "url": "https://aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T00:00:11+00:00",
+      "retrieved_at": "2026-10-18T00:21:06.913734+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Fires reported on three tankers as masked settlers attack European politicians in the occupied West Bank.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "353aeccf72bc7ba3bde3a035"
+    },
     {
       "title": "US ambassador urges Israel to prosecute attackers of American journalist",
       "url": "https://aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7a3a0461f09a4e689dd07fac"
-    },
-    {
-      "title": "Majority in US say Trump prioritises personal wealth over all else: Poll",
-      "url": "https://aljazeera.com/news/2026/10/13/majority-in-us-say-trump-prioritises-personal-wealth-over-all-else-poll",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T16:07:26+00:00",
-      "retrieved_at": "2026-10-13T16:23:04.098835+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A majority of US adults say President Trump and his family have inappropriately profited from presidency.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a3ff112b5a3b470f5d54abb8"
     }
   ],
   "unverified_history": [
