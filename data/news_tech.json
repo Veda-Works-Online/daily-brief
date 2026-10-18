@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-18T16:03:29.685018+00:00",
+  "updated": "2026-10-18T16:08:26.714985+00:00",
   "items": [
+    {
+      "title": "TechCrunch Mobility: Rivian’s next act",
+      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act",
+      "source": "TechCrunch",
+      "published": "2026-10-18T16:05:00+00:00",
+      "retrieved_at": "2026-10-18T16:08:23.045631+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "688a5fd546e7ccd6323596a7"
+    },
     {
       "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
       "url": "https://wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3ec70f355ab84c9f27c2eaee"
-    },
-    {
-      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-      "url": "https://wired.com/story/ai-is-driving-cars-now-oh-boy",
-      "source": "Wired",
-      "published": "2026-10-07T18:45:00+00:00",
-      "retrieved_at": "2026-10-07T21:28:20.983651+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9aad7e079708cca1a528c5fc"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-18T16:03:22.055194+00:00",
+    "checked_at": "2026-10-18T16:08:21.914351+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
