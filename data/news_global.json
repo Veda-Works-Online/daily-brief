@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T19:53:31.540876+00:00",
+  "updated": "2026-10-18T20:03:29.200701+00:00",
   "items": [
     {
       "title": "India’s crackdown on cockroaches, critics and cameras",
@@ -1504,6 +1504,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "aebc18064558f1f1e21fbf8c"
+    },
+    {
+      "title": "The murder of a young mother in Iran has once again sparked debate on femicide and the social acceptance of violence against women.",
+      "url": "https://dw.com/en/the-murder-of-a-young-mother-in-iran-has-once-again-sparked-debate-on-femicide-and-the-social-acceptance-of-violence-against-women/a-79681977",
+      "source": "DW",
+      "published": "2026-10-16T14:27:00+00:00",
+      "retrieved_at": "2026-10-18T20:03:23.746832+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The murder of a young mother has once again sparked debate in Iran over so-called honor killings, the social acceptance of violence against women and the lack of protection for people vulnerable to gender-based violence.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "378e15e439f2e2c7c4ed36b2"
     },
     {
       "title": "Femicide in Iran: When 'honor' becomes a death sentence",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1b27bcf7b1b2d93e823cdb1d"
-    },
-    {
-      "title": "‘Massive’ Russian attack on Ukraine kills at least six, damages power sites",
-      "url": "https://aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T07:08:32+00:00",
-      "retrieved_at": "2026-10-14T08:35:57.788673+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Volodymyr Zelenskyy says Ukraine's partners failed to warn of Russian ballistic missile attack on Kyiv.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "61244fb3e4b3c3e4c518a28e"
     }
   ],
   "unverified_history": [
