@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-18T20:03:29.200701+00:00",
+  "updated": "2026-10-18T22:24:09.954869+00:00",
   "items": [
+    {
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "url": "https://bbc.co.uk/news/articles/c9p8gz7zx4peo",
+      "source": "BBC World",
+      "published": "2026-10-18T22:10:45+00:00",
+      "retrieved_at": "2026-10-18T22:24:06.905536+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a6e8ccbf3b53864cdbb0b97e"
+    },
     {
       "title": "India’s crackdown on cockroaches, critics and cameras",
       "url": "https://aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a94bfab4d2ccb29675eac5a4"
-    },
-    {
-      "title": "Ex-DRC President Kabila’s alliance with M23 rebels: Why it matters",
-      "url": "https://aljazeera.com/news/2026/10/14/ex-drc-president-joseph-kabila-joins-hands-with-m23-rebels-why-it-matters",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T07:32:24+00:00",
-      "retrieved_at": "2026-10-14T08:06:11.077842+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Kabila's move confirms numerous accusations from the government in Kinshasa of his ties to armed rebels.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1b27bcf7b1b2d93e823cdb1d"
     }
   ],
   "unverified_history": [
