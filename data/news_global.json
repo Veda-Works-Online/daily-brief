@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-18T11:42:48.530103+00:00",
+  "updated": "2026-10-18T12:02:49.627080+00:00",
   "items": [
+    {
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "url": "https://bbc.co.uk/news/articles/c3eweygrjzd7o",
+      "source": "BBC World",
+      "published": "2026-10-18T11:57:49+00:00",
+      "retrieved_at": "2026-10-18T12:02:44.299026+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "47b5577c6354d8fb16454c8c"
+    },
     {
       "title": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
       "url": "https://aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "408962ce94ceb3b24325c84e"
-    },
-    {
-      "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
-      "url": "https://bbc.co.uk/news/articles/cm5ynwpzkgk1o",
-      "source": "BBC World",
-      "published": "2026-10-13T22:02:09+00:00",
-      "retrieved_at": "2026-10-13T22:14:00.763360+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b15acae348f5f091d4f40741"
     }
   ],
   "unverified_history": [
