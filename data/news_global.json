@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-18T04:07:05.837922+00:00",
+  "updated": "2026-10-18T05:12:04.214321+00:00",
   "items": [
+    {
+      "title": "St Petersburg under attack from Ukrainian drone swarm",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T04:51:01+00:00",
+      "retrieved_at": "2026-10-18T05:11:58.816585+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Video posted on social media shows multiple explosions in St Petersburg, Russia after a suspected Ukrainian drone swarm.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fdce875e4a0dcc616e6ebc95"
+    },
     {
       "title": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
       "url": "https://aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4ba01698df61f950f5b6ea25"
-    },
-    {
-      "title": "China sentences three people to death for running Myanmar scam centres",
-      "url": "https://aljazeera.com/news/2026/10/13/china-sentences-three-people-to-death-for-running-myanmar-scam-centres",
-      "source": "Al Jazeera",
-      "published": "2026-10-13T17:41:16+00:00",
-      "retrieved_at": "2026-10-13T17:54:08.253253+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Dozens more were imprisoned for their involvement in telecommunications fraud, trafficking, prostitution and murder.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "788f5d5e880e0d2706303657"
     }
   ],
   "unverified_history": [
