@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-18T12:02:49.627080+00:00",
+  "updated": "2026-10-18T12:12:50.718652+00:00",
   "items": [
+    {
+      "title": "There’s a ‘New Middle East’, but not the one Israel planned",
+      "url": "https://aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T12:07:34+00:00",
+      "retrieved_at": "2026-10-18T12:12:45.319725+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Instead of redrawing the region, Israel's wars of expasion pushed the region to work together against it.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ce58db3c6c8049fb4b19dedd"
+    },
+    {
+      "title": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
+      "url": "https://aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T12:00:04+00:00",
+      "retrieved_at": "2026-10-18T12:12:45.319753+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Akhlaghi's experience centres on ballistic missiles, aerospace technology and defence-industrial production.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9ad390ed7482127e88b86b3c"
+    },
     {
       "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
       "url": "https://bbc.co.uk/news/articles/c3eweygrjzd7o",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "57b9d3eea4381b09f0363e9a"
-    },
-    {
-      "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
-      "url": "https://aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T00:00:00+00:00",
-      "retrieved_at": "2026-10-14T00:35:04.807591+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A Saudi Aramco building has been hit in Dhahran, following Saudi-led coalition strikes on Houthi 'vital assets' in Yemen",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6c033d8c7c1b5ef6a61e26f7"
-    },
-    {
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "url": "https://bbc.co.uk/news/articles/ck20r9qpw505o",
-      "source": "BBC World",
-      "published": "2026-10-13T22:14:33+00:00",
-      "retrieved_at": "2026-10-13T22:50:06.236308+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "408962ce94ceb3b24325c84e"
     }
   ],
   "unverified_history": [
