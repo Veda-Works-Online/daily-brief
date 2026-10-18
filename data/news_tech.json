@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-18T10:27:41.682940+00:00",
+  "updated": "2026-10-18T10:32:38.774405+00:00",
   "items": [
+    {
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "url": "https://wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty",
+      "source": "Wired",
+      "published": "2026-10-18T10:30:00+00:00",
+      "retrieved_at": "2026-10-18T10:32:34.543557+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4011de95f739e61c6d218679"
+    },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9aad7e079708cca1a528c5fc"
-    },
-    {
-      "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut",
-      "source": "TechCrunch AI",
-      "published": "2026-10-07T18:30:57+00:00",
-      "retrieved_at": "2026-10-07T21:28:20.398878+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "baeafcbb59df648fc31e865f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-18T10:27:32.492046+00:00",
+    "checked_at": "2026-10-18T10:32:33.264612+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
