@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-18T16:50:35.512642+00:00",
+  "updated": "2026-10-18T17:13:29.889437+00:00",
   "items": [
+    {
+      "title": "Trump endorses Netanyahu in Israeli legislative elections",
+      "url": "https://aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections",
+      "source": "Al Jazeera",
+      "published": "2026-10-18T16:36:26+00:00",
+      "retrieved_at": "2026-10-18T17:13:24.494867+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "In a social media post ahead of the October 27 election, Trump calls Netanyahu a 'Strong, Brave, and Brilliant' leader.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6f51ce4f03c9f76a96fe30db"
+    },
     {
       "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
       "url": "https://aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cfcfb9266e2663d1cade0d02"
-    },
-    {
-      "title": "China and North Korea to open New Yalu River Bridge, state media reports",
-      "url": "https://aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T04:27:18+00:00",
-      "retrieved_at": "2026-10-14T04:50:32.188377+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The long-delayed bridge will formally open on Thursday, according to China's state-run Xinhua news agency.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6015e8b3dbec8c7e0b6ebd8d"
     }
   ],
   "unverified_history": [
