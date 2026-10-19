@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-19T18:47:16.344954+00:00",
+  "updated": "2026-10-19T18:52:18.411636+00:00",
   "items": [
+    {
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago",
+      "source": "TechCrunch AI",
+      "published": "2026-10-19T18:49:04+00:00",
+      "retrieved_at": "2026-10-19T18:52:14.077422+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c9a14ab7c3274843be822475"
+    },
     {
       "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
       "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cb37dd102013dda5dd750a22"
-    },
-    {
-      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots",
-      "source": "Ars Technica AI",
-      "published": "2026-10-08T11:15:33+00:00",
-      "retrieved_at": "2026-10-08T11:19:58.878251+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dfc764612c68693f21a1950e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-19T18:47:12.162950+00:00",
+    "checked_at": "2026-10-19T18:52:13.363923+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
