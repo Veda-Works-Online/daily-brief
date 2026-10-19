@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-19T09:00:32.502153+00:00",
+  "updated": "2026-10-19T09:05:32.122876+00:00",
   "items": [
+    {
+      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+      "url": "https://wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card",
+      "source": "Wired",
+      "published": "2026-10-19T09:00:00+00:00",
+      "retrieved_at": "2026-10-19T09:05:29.161365+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7189cdf7053bd228ac96f21b"
+    },
     {
       "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
       "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "9dce76d0d61c06d338e20ddd"
-    },
-    {
-      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia",
-      "source": "TechCrunch",
-      "published": "2026-10-07T23:36:57+00:00",
-      "retrieved_at": "2026-10-08T00:08:16.958749+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a6cfbb1b0e820bb71b4609da"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-19T09:00:24.435190+00:00",
+    "checked_at": "2026-10-19T09:05:27.714640+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
