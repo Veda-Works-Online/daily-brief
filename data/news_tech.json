@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-19T18:37:20.150936+00:00",
+  "updated": "2026-10-19T18:42:19.869723+00:00",
   "items": [
+    {
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
+      "source": "TechCrunch AI",
+      "published": "2026-10-19T18:37:27+00:00",
+      "retrieved_at": "2026-10-19T18:42:13.643871+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "792f49d4b780bc397f68cfa9"
+    },
     {
       "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
       "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dfc764612c68693f21a1950e"
-    },
-    {
-      "title": "WIRED’s Midterms Races to Watch",
-      "url": "https://wired.com/story/wireds-midterms-races-to-watch",
-      "source": "Wired",
-      "published": "2026-10-08T10:00:00+00:00",
-      "retrieved_at": "2026-10-08T10:09:59.925903+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "From data centers to Elon Musk funding to the AI lobby, the 2026 midterms are the most WIRED elections yet. These are the candidates we're following closely.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4fe20bb328c6479af5891a51"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-19T18:37:15.920438+00:00",
+    "checked_at": "2026-10-19T18:42:12.950247+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
