@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T21:12:10.656109+00:00",
+  "updated": "2026-10-19T21:17:11.382256+00:00",
   "items": [
     {
       "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
@@ -34,6 +34,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a9289512dda7b5e40ac1d96a"
+    },
+    {
+      "title": "PSA: Patch your Plex media server before someone hacks it",
+      "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware",
+      "source": "Ars Technica",
+      "published": "2026-10-19T19:39:19+00:00",
+      "retrieved_at": "2026-10-19T21:17:05.302942+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "af26edae7aec2c888b22b007"
     },
     {
       "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "38cf8018cedd516afe7379e9"
-    },
-    {
-      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta",
-      "source": "TechCrunch AI",
-      "published": "2026-10-08T13:20:32+00:00",
-      "retrieved_at": "2026-10-08T14:01:00.287697+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0a8e67db244b6b79e729e609"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-19T21:12:03.771905+00:00",
+    "checked_at": "2026-10-19T21:17:03.578883+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

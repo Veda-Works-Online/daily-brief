@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-19T20:47:10.474847+00:00",
+  "updated": "2026-10-19T21:17:16.095956+00:00",
   "items": [
+    {
+      "title": "Trump approval hits record-low 31 percent, polls show Republican struggles",
+      "url": "https://aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T20:59:05+00:00",
+      "retrieved_at": "2026-10-19T21:17:13.247211+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Reuters/Ipsos poll shows Democrats leading by 12 points in generic US congressional ballot surveys against Republicans.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2f85819a0eef46d7ebfee6c7"
+    },
     {
       "title": "Trump signs order launching women’s health division at NIH, White House",
       "url": "https://aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6caa1d65d55222b7f3cb905b"
-    },
-    {
-      "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
-      "url": "https://bbc.co.uk/news/articles/cvy0rd1j2kzlo",
-      "source": "BBC World",
-      "published": "2026-10-14T23:32:11+00:00",
-      "retrieved_at": "2026-10-15T11:11:15.644761+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9b3f1bb71e1686770c333d07"
     }
   ],
   "unverified_history": [
