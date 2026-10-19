@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-19T07:29:47.532089+00:00",
+  "updated": "2026-10-19T07:34:51.592532+00:00",
   "items": [
+    {
+      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+      "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics",
+      "source": "TechCrunch",
+      "published": "2026-10-19T07:30:00+00:00",
+      "retrieved_at": "2026-10-19T07:34:46.042080+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b9fd9975a148e828837efb0f"
+    },
     {
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
       "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a6cfbb1b0e820bb71b4609da"
-    },
-    {
-      "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
-      "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere",
-      "source": "TechCrunch",
-      "published": "2026-10-07T22:59:16+00:00",
-      "retrieved_at": "2026-10-07T23:03:15.761063+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f91963816428c0362a7fd466"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-19T07:29:43.994677+00:00",
+    "checked_at": "2026-10-19T07:34:44.693221+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
