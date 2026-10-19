@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T06:09:59.507394+00:00",
+  "updated": "2026-10-19T06:25:00.955222+00:00",
   "items": [
     {
       "title": "Funding shortages force World Food Programme to cut aid to Gaza",
@@ -16,6 +16,38 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "33ee6c80b15cde47217b0d78"
+    },
+    {
+      "title": "The kingmakers who could determine Israel’s election",
+      "url": "https://aljazeera.com/news/2026/10/19/the-kingmakers-that-could-determine-israels-election",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T05:58:46+00:00",
+      "retrieved_at": "2026-10-19T06:24:58.046250+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israel’s Arab-led and ultra-Orthodox parties face attacks but could hold the balance of power after October 27 vote.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ce75f4d821a315b9c72efa9f"
+    },
+    {
+      "title": "China’s economy grows 4.5 percent in Q3, beating forecasts",
+      "url": "https://aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T05:56:47+00:00",
+      "retrieved_at": "2026-10-19T06:24:58.046260+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "GDP growth picks up from Q2 amid AI-driven boom in exports.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7c60d3fab1aa914f924338f7"
     },
     {
       "title": "US President Donald Trump endorses Netanyahu for Israeli election",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d8d3d5bc37db606a19f3a305"
-    },
-    {
-      "title": "Russia’s arrest of Japanese journalist: Why are tensions rising?",
-      "url": "https://aljazeera.com/news/2026/10/14/russias-arrest-of-japanese-journalist-why-are-tensions-rising",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T10:46:55+00:00",
-      "retrieved_at": "2026-10-14T11:11:40.272770+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Japanese journalist Imai Yuki arrested on Sakhalin for allegedly spying on Russian defence capabilities, says the FSB.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "734c3468d2ab363602f1757d"
-    },
-    {
-      "title": "Albanian students clash with police as they protest over education and jobs",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/14/albanian-students-clash-with-police-as-they-protest-over-education-and-jobs",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T10:14:17+00:00",
-      "retrieved_at": "2026-10-14T10:26:50.483630+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Albanian students clash with police as they protest education costs, poor university conditions and bleak job prospects.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e2398e283702457c2e2253b8"
     }
   ],
   "unverified_history": [
