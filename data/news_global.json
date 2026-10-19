@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T15:41:49.997232+00:00",
+  "updated": "2026-10-19T15:56:55.472920+00:00",
   "items": [
     {
       "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fc19f2b98138359e9e3c8304"
+    },
+    {
+      "title": "Can diplomacy prevent an Ethiopia-Eritrea war as Tigray gets a new administration?",
+      "url": "https://dw.com/en/can-diplomacy-prevent-an-ethiopia-eritrea-war-as-tigray-gets-a-new-administration/a-79705435",
+      "source": "DW",
+      "published": "2026-10-19T15:02:00+00:00",
+      "retrieved_at": "2026-10-19T15:56:51.180316+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters. But tensions with Eritrea continue to raise fears of a wider regional war.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "21acaaed64bfceeaf0a11edb"
     },
     {
       "title": "Pakistan suspends Iran border trade, amid violence on both sides",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a81ec03fdb3aecc86c169be5"
-    },
-    {
-      "title": "Jerusalem Daily: UN demands Israel do more to stop settler violence",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/14/jerusalem-daily-un-demands-israel-do-more-to-stop-settler-violence",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T15:49:54+00:00",
-      "retrieved_at": "2026-10-14T16:18:00.187260+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Netanyahu warns again of Israel’s ‘enemies’ planning an attack before elections.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "45e2370d0309f37e531a905f"
     }
   ],
   "unverified_history": [
