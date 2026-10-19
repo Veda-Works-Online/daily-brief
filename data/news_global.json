@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T18:27:23.233471+00:00",
+  "updated": "2026-10-19T18:32:29.481985+00:00",
   "items": [
     {
       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
@@ -18,6 +18,22 @@
       "story_fingerprint": "16499ef83dbe014ec115f2bc"
     },
     {
+      "title": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
+      "url": "https://aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T18:21:06+00:00",
+      "retrieved_at": "2026-10-19T18:32:26.788240+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Experts say Netanyahu's security doctrine and map of regional alliances serve his political ambitions ahead of elections",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "69a3dafd84272df68eb71ac9"
+    },
+    {
       "title": "In Skepticism We Trust: Ukraine Reacts to the Diesel Deal",
       "url": "https://warontherocks.com/in-skepticism-we-trust-ukraine-reacts-to-the-diesel-deal",
       "source": "War on the Rocks",
@@ -32,6 +48,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "27a7dac470d89b5aca586f02"
+    },
+    {
+      "title": "Benny Gantz drops out of Israel’s election race",
+      "url": "https://aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T18:11:01+00:00",
+      "retrieved_at": "2026-10-19T18:32:26.788252+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Decision comes after polls showed his Blue and White party below the 3.25 percent threshold needed to enter the Knesset.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4ac7631121cb75324681dced"
     },
     {
       "title": "Can religion help Democrats win in red states? These faith leaders hope so",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b4b042fb8244fa3eb40ce671"
-    },
-    {
-      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-      "url": "https://bbc.co.uk/news/articles/c8wy9veedgygo",
-      "source": "BBC World",
-      "published": "2026-10-14T20:55:24+00:00",
-      "retrieved_at": "2026-10-14T23:54:29.194086+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "74254731c468756cb4ce5e09"
-    },
-    {
-      "title": "Israeli quadcopter drone drops bomb in Lebanon",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/14/israeli-quadcopter-drone-drops-bomb-in-lebanon",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T20:47:46+00:00",
-      "retrieved_at": "2026-10-14T21:03:45.926287+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "An Israeli quadcopter drone was filmed dropping a bomb on the outskirts of the village of Zibqin in southern Lebanon.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ffad0fed55bc059c5cf9164a"
     }
   ],
   "unverified_history": [
