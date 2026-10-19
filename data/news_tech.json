@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T19:32:20.908115+00:00",
+  "updated": "2026-10-19T19:37:18.974915+00:00",
   "items": [
     {
       "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
@@ -17,6 +17,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2488bf9178ad45411347b3c7"
+    },
+    {
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test",
+      "source": "Ars Technica",
+      "published": "2026-10-19T19:27:24+00:00",
+      "retrieved_at": "2026-10-19T19:37:16.524100+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b65776e10b32b89b0bbec047"
     },
     {
       "title": "Tolan snags $30M for its AI companion that helps users navigate life",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "554f7030b9b8994435825695"
-    },
-    {
-      "title": "Uber and China’s Pony.ai plan to launch robotaxis in London",
-      "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london",
-      "source": "TechCrunch",
-      "published": "2026-10-08T12:53:39+00:00",
-      "retrieved_at": "2026-10-08T12:56:06.643702+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The two companies said on Thursday that they would begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "52429e2368e17694745f9f80"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-19T19:32:15.491576+00:00",
+    "checked_at": "2026-10-19T19:37:14.912083+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
