@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-19T10:30:45.171242+00:00",
+  "updated": "2026-10-19T10:50:44.431323+00:00",
   "items": [
+    {
+      "title": "Israeli police arrest 10 after settler attacks on journalist, diplomats",
+      "url": "https://aljazeera.com/news/2026/10/19/israeli-police-arrest-10-after-settler-attacks-on-journalist-diplomats",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T10:43:55+00:00",
+      "retrieved_at": "2026-10-19T10:50:40.513128+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US Ambassador to Israel Mike Huckabee said on X that the arrests were 'a very positive development'.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "011eb2fc6046ebea606376e6"
+    },
     {
       "title": "WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages",
       "url": "https://aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "792d45c2de6030e620f1b022"
-    },
-    {
-      "title": "UK restaurateur claims losses after video calling for Gaza destruction",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T13:28:21+00:00",
-      "retrieved_at": "2026-10-14T13:53:05.742836+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A UK restaurateur is claiming losses, weeks after posting a video appearing to urge Israel to destroy buildings in Gaza.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "00d8ebdfba5da7bb81860e70"
     }
   ],
   "unverified_history": [
