@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-19T03:45:58.340190+00:00",
+  "updated": "2026-10-19T05:19:54.798645+00:00",
   "items": [
+    {
+      "title": "US President Donald Trump endorses Netanyahu for Israeli election",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/19/us-president-donald-trump-endorses-netanyahu-for-israeli-election",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T05:10:37+00:00",
+      "retrieved_at": "2026-10-19T05:19:51.851119+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US President Donald Trump endorses Netanyahu for Israeli election",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4cb5c6e9a739d569303b419d"
+    },
     {
       "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
       "url": "https://aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy",
@@ -18,11 +34,11 @@
       "story_fingerprint": "270d777b3b0cd9d1dbe41160"
     },
     {
-      "title": "Threat forces Israel to Austria flight into emergency landing",
+      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
       "url": "https://bbc.co.uk/news/articles/c680zdmn100lo",
       "source": "BBC World",
       "published": "2026-10-19T02:41:50+00:00",
-      "retrieved_at": "2026-10-19T03:24:58.019219+00:00",
+      "retrieved_at": "2026-10-19T05:19:51.820346+00:00",
       "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
       "category": "global",
@@ -31,7 +47,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "83047d868264abb77b639b44"
+      "story_fingerprint": "d1825a23a33f09f115a1eb94"
     },
     {
       "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d6c8397c8cf0672ac8c94d57"
-    },
-    {
-      "title": "Girl rescued from flaming apartment after Israeli attack on Gaza",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/14/girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T09:40:20+00:00",
-      "retrieved_at": "2026-10-14T10:11:31.994043+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Civilians rushed to rescue a girl trapped in a burning apartment after an Israeli attack struck a building in Gaza City.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6db4204b75d0c6702e687f48"
     }
   ],
   "unverified_history": [
