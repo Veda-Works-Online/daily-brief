@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-19T18:57:20.718085+00:00",
+  "updated": "2026-10-19T19:02:17.838935+00:00",
   "items": [
+    {
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life",
+      "source": "TechCrunch AI",
+      "published": "2026-10-19T19:00:12+00:00",
+      "retrieved_at": "2026-10-19T19:02:14.752837+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "69a0c92dd81669f0ac987c08"
+    },
     {
       "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
       "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "5c43c7350de2e594d3921640"
-    },
-    {
-      "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
-      "url": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents",
-      "source": "TechCrunch",
-      "published": "2026-10-08T12:00:00+00:00",
-      "retrieved_at": "2026-10-08T12:05:00.874675+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cb37dd102013dda5dd750a22"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-19T18:57:13.173244+00:00",
+    "checked_at": "2026-10-19T19:02:14.021939+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
