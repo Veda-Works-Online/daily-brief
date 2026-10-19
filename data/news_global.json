@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-19T03:14:57.692218+00:00",
+  "updated": "2026-10-19T03:25:01.308294+00:00",
   "items": [
+    {
+      "title": "Threat forces Israel to Austria flight into emergency landing",
+      "url": "https://bbc.co.uk/news/articles/c680zdmn100lo",
+      "source": "BBC World",
+      "published": "2026-10-19T02:41:50+00:00",
+      "retrieved_at": "2026-10-19T03:24:58.019219+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "83047d868264abb77b639b44"
+    },
     {
       "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
       "url": "https://aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e2f8627585138504938020ba"
-    },
-    {
-      "title": "China’s exports surge amid AI-driven demand",
-      "url": "https://aljazeera.com/economy/2026/10/14/chinas-exports-sugrge",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T09:05:17+00:00",
-      "retrieved_at": "2026-10-14T09:26:37.102693+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Exports grew by 36.3 percent in September, the biggest leap since the COVID-19 pandemic.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6bbe5b4da4da3b0a12a8e56a"
     }
   ],
   "unverified_history": [
