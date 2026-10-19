@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T17:21:54.145912+00:00",
+  "updated": "2026-10-19T17:31:53.817468+00:00",
   "items": [
     {
       "title": "Search under way for four soldiers missing after gang attack in Haiti",
@@ -112,6 +112,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c59d7e1d7a215e87a5b6a586"
+    },
+    {
+      "title": "Can diplomacy stop another Ethiopia-Eritrea war?",
+      "url": "https://dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435",
+      "source": "DW",
+      "published": "2026-10-19T15:07:00+00:00",
+      "retrieved_at": "2026-10-19T17:31:49.539348+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters. But tensions with Eritrea continue to raise fears of a wider regional war.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "69a6052588f3da89ca32ece8"
     },
     {
       "title": "Famine fears as aid cuts and shipment restrictions coincide in Gaza",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ae600cc48e02e23b1fb30d78"
-    },
-    {
-      "title": "Bangladesh arrests two for luring locals to fight for Russia in Ukraine",
-      "url": "https://aljazeera.com/news/2026/10/14/bangladesh-arrests-two-for-luring-locals-to-fight-for-russia-in-ukraine",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T19:02:51+00:00",
-      "retrieved_at": "2026-10-14T19:38:50.291464+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Twenty Bangladeshi citizens have been killed after being used by Russia as 'bait' to locate enemy positions, police say.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4ae5561029534b063a1bafa4"
     }
   ],
   "unverified_history": [
