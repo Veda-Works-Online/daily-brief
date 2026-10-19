@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-19T18:52:23.327495+00:00",
+  "updated": "2026-10-19T18:57:25.261544+00:00",
   "items": [
+    {
+      "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
+      "url": "https://dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745",
+      "source": "DW",
+      "published": "2026-10-19T18:45:00+00:00",
+      "retrieved_at": "2026-10-19T18:57:22.931165+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "A Bulgarian court has issued arrest warrants for two young German nationals suspected of setting fire to Starlink antennae. The case is reminiscent of another in Poland, which Warsaw says was orchestrated by Russia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "70e9c0fe4da1c61a258b66a1"
+    },
     {
       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
       "url": "https://bbc.co.uk/news/articles/cmj47yx572z5o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ec892155fb57ab1776d2c985"
-    },
-    {
-      "title": "Colombia opposition groups launch protest against de la Espriella’s cuts",
-      "url": "https://aljazeera.com/news/2026/10/14/colombia-opposition-groups-launch-protest-against-de-la-espriellas-cuts",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T21:35:27+00:00",
-      "retrieved_at": "2026-10-14T22:03:37.382096+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Former President Gustavo Petro joined thousands of demonstrators in Bogota in march against austerity, Israel ties.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b4b042fb8244fa3eb40ce671"
     }
   ],
   "unverified_history": [
