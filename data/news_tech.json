@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-19T19:27:16.800080+00:00",
+  "updated": "2026-10-19T19:32:20.908115+00:00",
   "items": [
+    {
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
+      "source": "TechCrunch AI",
+      "published": "2026-10-19T19:28:34+00:00",
+      "retrieved_at": "2026-10-19T19:32:16.196965+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2488bf9178ad45411347b3c7"
+    },
     {
       "title": "Tolan snags $30M for its AI companion that helps users navigate life",
       "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "52429e2368e17694745f9f80"
-    },
-    {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "source": "OpenAI",
-      "published": "2026-10-08T12:00:00+00:00",
-      "retrieved_at": "2026-10-19T19:27:13.903257+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "f88cf096c1791475647f5a78"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-19T19:27:12.760500+00:00",
+    "checked_at": "2026-10-19T19:32:15.491576+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
