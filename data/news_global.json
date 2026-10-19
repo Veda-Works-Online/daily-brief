@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T09:15:42.934875+00:00",
+  "updated": "2026-10-19T09:20:36.735716+00:00",
   "items": [
     {
       "title": "Rubio says there was no US pause in intelligence sharing with Ukraine",
@@ -48,6 +48,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d32b5a3a96879c7f136b025f"
+    },
+    {
+      "title": "Deepfakes, bots and distrust: How AI is shaping Israel's election",
+      "url": "https://dw.com/en/deepfakes-bots-and-distrust-how-ai-is-shaping-israel-s-election/a-79657988",
+      "source": "DW",
+      "published": "2026-10-19T08:26:00+00:00",
+      "retrieved_at": "2026-10-19T09:20:33.269177+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "For the first time, AI is playing a major role in Israel's elections. Observers warn that deepfakes, bots and influence campaigns could sway voters.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "17c165bbfa16dae6874ff5da"
     },
     {
       "title": "Mali’s military and armed groups committing abuses against civilians: HRW",
@@ -178,6 +194,22 @@
       "story_fingerprint": "4cb5c6e9a739d569303b419d"
     },
     {
+      "title": "After War of Words, China Says Relations With Philippines at ‘Critical Juncture’",
+      "url": "https://thediplomat.com/2026/10/after-war-of-words-china-says-relations-with-philippines-at-critical-juncture",
+      "source": "The Diplomat",
+      "published": "2026-10-19T04:38:00+00:00",
+      "retrieved_at": "2026-10-19T09:20:32.842970+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "Growing political polarization has the potential to undermine Manila’s ability to handle its ongoing maritime disputes with Beijing.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f0496f3e1e7956eef68dbc5c"
+    },
+    {
       "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
       "url": "https://aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy",
       "source": "Al Jazeera",
@@ -224,6 +256,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "31db6e09c909b90de9d9299a"
+    },
+    {
+      "title": "Deepavali vs Diwali Sparks New Political Row in Malaysia",
+      "url": "https://thediplomat.com/2026/10/deepavali-vs-diwali-sparks-new-political-row-in-malaysia",
+      "source": "The Diplomat",
+      "published": "2026-10-19T00:56:00+00:00",
+      "retrieved_at": "2026-10-19T09:20:32.842991+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "Is the Malaysian Indian Congress using Hindu identity politics to regain its political relevance ahead of the next general election?",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "671dff19ab6549e47795548c"
     },
     {
       "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
@@ -3952,54 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "77e22c5bef46abc2fb77f285"
-    },
-    {
-      "title": "In Confronting China, The West Needs Partners in Southeast Asia",
-      "url": "https://thediplomat.com/2026/10/in-confronting-china-the-west-needs-partners-in-southeast-asia",
-      "source": "The Diplomat",
-      "published": "2026-10-14T13:17:00+00:00",
-      "retrieved_at": "2026-10-14T23:13:35.888867+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "A plan to confront Beijing without subsequent outreach toward Southeast Asian countries will sacrifice national imperatives for willing partners, and those are hard to come by.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d8d638ae75e067e6edb0d28c"
-    },
-    {
-      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-      "url": "https://bbc.co.uk/news/articles/cm2d6e62p49do",
-      "source": "BBC World",
-      "published": "2026-10-14T13:11:17+00:00",
-      "retrieved_at": "2026-10-14T14:03:04.330063+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1492e0e33ae004af192fbbbb"
-    },
-    {
-      "title": "Can the China-US Detente Last?",
-      "url": "https://thediplomat.com/2026/10/can-the-china-us-detente-last",
-      "source": "The Diplomat",
-      "published": "2026-10-14T12:56:00+00:00",
-      "retrieved_at": "2026-10-14T15:13:06.364749+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Competition can generate incentives for restraint, and restraint can create opportunities for further competition.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "830891a518407e6d0a191b60"
     }
   ],
   "unverified_history": [
