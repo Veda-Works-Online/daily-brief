@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T12:30:39.711086+00:00",
+  "updated": "2026-10-19T12:35:50.027144+00:00",
   "items": [
     {
       "title": "Stratospheric airship flew from US to Japan to test sky cell tower concept",
@@ -4235,21 +4235,21 @@
       "story_fingerprint": "4ee7a0221e0fe49860054ed5"
     },
     {
-      "title": "Disrupting AI-enabled “false front” operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "source": "OpenAI",
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "source": "Hugging Face",
       "published": "2026-10-08T00:00:00+00:00",
-      "retrieved_at": "2026-10-19T12:30:33.137051+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "retrieved_at": "2026-10-19T12:35:35.249105+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "52ad424335d32b9ccebd6b9c"
+      "story_fingerprint": "9dce76d0d61c06d338e20ddd"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-19T12:30:32.170489+00:00",
+    "checked_at": "2026-10-19T12:35:34.593044+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
