@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T16:31:49.824699+00:00",
+  "updated": "2026-10-19T16:36:49.376333+00:00",
   "items": [
     {
       "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a5a7acea285921d86957f48b"
+    },
+    {
+      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+      "url": "https://bbc.co.uk/news/articles/cr15jl7dd42vo",
+      "source": "BBC World",
+      "published": "2026-10-19T16:16:51+00:00",
+      "retrieved_at": "2026-10-19T16:36:44.753832+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b59bac2f9a87c7bba2ab96e5"
     },
     {
       "title": "Gaza faces worsening hunger as WFP announces food aid cuts",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "af067da0c5400270a1a36914"
-    },
-    {
-      "title": "At least two security officials killed near Iran’s critical Chabahar port",
-      "url": "https://aljazeera.com/news/2026/10/14/at-least-two-security-officials-killed-near-irans-critical-chabahar-port",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T16:22:04+00:00",
-      "retrieved_at": "2026-10-14T16:33:00.624577+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran says 'terrorist groups' supported from outside the country are targeting security forces.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c12cc1f5216838437eb83c7b"
     }
   ],
   "unverified_history": [
