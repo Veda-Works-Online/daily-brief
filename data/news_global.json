@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-19T13:21:55.934826+00:00",
+  "updated": "2026-10-19T13:27:06.352013+00:00",
   "items": [
+    {
+      "title": "Exiled critic of Rwandan president found beheaded",
+      "url": "https://bbc.co.uk/news/articles/c3lylj78777do",
+      "source": "BBC World",
+      "published": "2026-10-19T13:13:15+00:00",
+      "retrieved_at": "2026-10-19T13:27:01.619364+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0c825d4ba065b3e0c3a32ff5"
+    },
     {
       "title": "Marco Rubio visits India this week, with a visit to the world's largest oil refinery topping the agenda",
       "url": "https://dw.com/en/marco-rubio-visits-india-this-week-with-a-visit-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f82a212e332598b12bdb2bf2"
-    },
-    {
-      "title": "Russia’s Arrest of a Japanese Journalist Deepens the Freeze in Japan-Russia Relations",
-      "url": "https://thediplomat.com/2026/10/russias-arrest-of-a-japanese-journalist-deepens-the-freeze-in-japan-russia-relations",
-      "source": "The Diplomat",
-      "published": "2026-10-14T14:15:00+00:00",
-      "retrieved_at": "2026-10-14T23:13:35.888848+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "The case of Hokkaido Shimbun correspondent Imai Yuki could chill reporting from Russia’s Far East and narrow the space for even limited diplomatic engagement.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a31b6351da66c15ef007d9a4"
     }
   ],
   "unverified_history": [
