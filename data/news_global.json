@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-19T15:56:55.472920+00:00",
+  "updated": "2026-10-19T16:16:49.956013+00:00",
   "items": [
+    {
+      "title": "Gaza faces worsening hunger as WFP announces food aid cuts",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T16:06:57+00:00",
+      "retrieved_at": "2026-10-19T16:16:45.259022+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The World Food Programme has announced that funding shortages will force it to suspend food assistance in Gaza",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "00fba25d727521c367420d95"
+    },
+    {
+      "title": "Trump endorses Netanyhu ahead of elections",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T15:54:25+00:00",
+      "retrieved_at": "2026-10-19T16:16:45.259043+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Trump endorses Netanyahu ahead of Israel’s election, Ben-Gvir faces student protesters.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9b7307112f0cc82967969a39"
+    },
     {
       "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/19/russias-lavrov-discusses-us-war-and-regional-security-in-tehran-visit",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "55f663738a6871fe7fa54e42"
-    },
-    {
-      "title": "The Trump-Xi Summit Exposed the Problems in China-US Crisis Management",
-      "url": "https://thediplomat.com/2026/10/the-trump-xi-summit-exposed-the-problems-in-china-us-crisis-management",
-      "source": "The Diplomat",
-      "published": "2026-10-14T16:06:00+00:00",
-      "retrieved_at": "2026-10-14T23:13:35.888792+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Military communication channels become bargaining chips precisely when a crisis makes them indispensable.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3bd86f8638cc2fbf32cffb61"
-    },
-    {
-      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
-      "url": "https://bbc.co.uk/news/articles/cq98z59xdny5o",
-      "source": "BBC World",
-      "published": "2026-10-14T15:56:57+00:00",
-      "retrieved_at": "2026-10-14T15:58:04.117250+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "It comes as the prime minister meets President Zelensky at Downing Street.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a81ec03fdb3aecc86c169be5"
     }
   ],
   "unverified_history": [
