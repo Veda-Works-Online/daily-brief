@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-19T00:13:57.811962+00:00",
+  "updated": "2026-10-19T03:14:57.692218+00:00",
   "items": [
+    {
+      "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+      "url": "https://aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T02:10:09+00:00",
+      "retrieved_at": "2026-10-19T03:14:54.437105+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The air strike, one of Ukraine's largest in the war, comes amid rising tensions between Kyiv and Washington.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "31db6e09c909b90de9d9299a"
+    },
     {
       "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
       "url": "https://bbc.co.uk/news/articles/c6pwgzkj8zzgo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6bbe5b4da4da3b0a12a8e56a"
-    },
-    {
-      "title": "India’s ‘Cockroach’ leaders jailed after entering ‘banned’ protest site",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/14/indias-cockroach-leaders-jailed-after-entering-banned-protest-site",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T08:51:36+00:00",
-      "retrieved_at": "2026-10-14T09:06:37.558519+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Two Cockroach Janta Party leaders have been jailed for five days after entering a banned protest site in India's Delhi.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b46909aa6bc5a25177e15102"
     }
   ],
   "unverified_history": [
