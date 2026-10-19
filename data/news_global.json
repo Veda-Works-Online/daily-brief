@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-19T05:49:56.870804+00:00",
+  "updated": "2026-10-19T06:09:59.507394+00:00",
   "items": [
+    {
+      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+      "url": "https://bbc.co.uk/news/articles/cm79plrvpl4vo",
+      "source": "BBC World",
+      "published": "2026-10-19T06:00:18+00:00",
+      "retrieved_at": "2026-10-19T06:09:56.293665+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "33ee6c80b15cde47217b0d78"
+    },
     {
       "title": "US President Donald Trump endorses Netanyahu for Israeli election",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/19/us-president-donald-trump-endorses-netanyahu-for-israeli-election",
@@ -82,20 +98,20 @@
       "story_fingerprint": "e4189d33f5088a9f1c922b2f"
     },
     {
-      "title": "Iran war live: US issues Mideast security alert; Yemen fighting flares",
+      "title": "Iran war live: US issues Middle East security alert; Yemen fighting flares",
       "url": "https://aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares",
       "source": "Al Jazeera",
       "published": "2026-10-18T23:59:34+00:00",
-      "retrieved_at": "2026-10-19T05:49:53.535820+00:00",
+      "retrieved_at": "2026-10-19T06:09:56.342780+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US embassies in the Middle East issued a security alert for Americans as combat in Yemen continued to ramp up.",
+      "summary": "US embassies in the Middle East have issued a security alert for Americans as fighting in Yemen continues to ramp up.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "12dea537fb713da94cfa2679"
+      "story_fingerprint": "f3221438e825e59ca6136275"
     },
     {
       "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e2398e283702457c2e2253b8"
-    },
-    {
-      "title": "Israeli air strike kills Palestinian woman in Gaza City",
-      "url": "https://aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city",
-      "source": "Al Jazeera",
-      "published": "2026-10-14T10:08:49+00:00",
-      "retrieved_at": "2026-10-14T10:26:50.483644+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The woman's young daughter was rescued from a large fire inside the apartment, caused by the attack.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d6c8397c8cf0672ac8c94d57"
     }
   ],
   "unverified_history": [
