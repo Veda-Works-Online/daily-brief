@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-19T03:25:01.308294+00:00",
+  "updated": "2026-10-19T03:45:58.340190+00:00",
   "items": [
+    {
+      "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+      "url": "https://aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy",
+      "source": "Al Jazeera",
+      "published": "2026-10-19T03:10:05+00:00",
+      "retrieved_at": "2026-10-19T03:45:55.088541+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US president accuses Ukrainian leader of not wanting to end the war, as Zelenskyy speaks with Washington envoys.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "270d777b3b0cd9d1dbe41160"
+    },
     {
       "title": "Threat forces Israel to Austria flight into emergency landing",
       "url": "https://bbc.co.uk/news/articles/c680zdmn100lo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6db4204b75d0c6702e687f48"
-    },
-    {
-      "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
-      "url": "https://bbc.co.uk/news/videos/cmx280x092x7o",
-      "source": "BBC World",
-      "published": "2026-10-14T09:25:03+00:00",
-      "retrieved_at": "2026-10-14T11:51:39.560238+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "BBC Ukraine Correspondent Dan Johnson is in Kyiv, where at least three people were killed in overnight strikes.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e2f8627585138504938020ba"
     }
   ],
   "unverified_history": [
