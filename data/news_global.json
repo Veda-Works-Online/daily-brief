@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T10:34:57.389516+00:00",
+  "updated": "2026-10-20T10:44:54.056482+00:00",
   "items": [
     {
       "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
@@ -48,6 +48,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "eda79d13b95c916c1e260c03"
+    },
+    {
+      "title": "Why Israeli Gen Z voters are drawn to the far right",
+      "url": "https://bbc.co.uk/news/articles/cmvg632xgndeo",
+      "source": "BBC World",
+      "published": "2026-10-20T08:53:06+00:00",
+      "retrieved_at": "2026-10-20T10:44:51.266400+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5321d1bc2bd1b2ff4f83e4a3"
     },
     {
       "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "66fb5adf3e2a0f99042b1ba4"
-    },
-    {
-      "title": "Golden Dome Is Technologically and Financially Infeasible",
-      "url": "https://warontherocks.com/cogs-of-war/golden-dome-is-technologically-and-financially-infeasible",
-      "source": "War on the Rocks",
-      "published": "2026-10-15T08:00:39+00:00",
-      "retrieved_at": "2026-10-15T08:04:55.280739+00:00",
-      "feed_url": "https://warontherocks.com/feed/",
-      "summary": "For as long as nuclear-armed, intercontinental ballistic missiles and submarine-launched ballistic missiles have existed, strategists and engineers have pursued a seductive idea: a shield effective enough to diminish — or even block — a ballistic missile attack. The appeal is obvious. A state that could reliably intercept ballistic missiles could protect its cities from these terrifying weapons…",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://warontherocks.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "24a6a7ffd5cef21824d6bc8b"
     }
   ],
   "unverified_history": [
