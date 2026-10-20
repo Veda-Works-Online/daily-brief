@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-20T19:31:34.215911+00:00",
+  "updated": "2026-10-20T19:41:34.449590+00:00",
   "items": [
+    {
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "url": "https://bbc.co.uk/news/articles/cqrkyj13m588o",
+      "source": "BBC World",
+      "published": "2026-10-20T19:30:05+00:00",
+      "retrieved_at": "2026-10-20T19:41:31.912190+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ee2e4c7873f1437040c45acf"
+    },
     {
       "title": "Reading Pyongyang Through the Cracks of the International System",
       "url": "https://warontherocks.com/reading-pyongyang-through-the-cracks-of-the-international-system",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4acc588988b45eaa084a6b1b"
-    },
-    {
-      "title": "Trump administration sues California over noncitizens on voter rolls",
-      "url": "https://aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls",
-      "source": "Al Jazeera",
-      "published": "2026-10-15T21:44:59+00:00",
-      "retrieved_at": "2026-10-15T22:12:38.363857+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Lawsuit comes weeks before midterm elections and follows debunked claims of noncitizens voting in various states.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ce1a6d41f25763bd56d87aae"
     }
   ],
   "unverified_history": [
