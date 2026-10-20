@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-20T13:10:15.101695+00:00",
+  "updated": "2026-10-20T13:45:17.695061+00:00",
   "items": [
+    {
+      "title": "Indonesians protest over land-clearing fires",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T13:23:44+00:00",
+      "retrieved_at": "2026-10-20T13:45:14.923662+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ce7e20a5ac8d0d76feacc92e"
+    },
+    {
+      "title": "US envoy Barrack defends decision to join Israel in war on Iran",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T13:20:33+00:00",
+      "retrieved_at": "2026-10-20T13:45:14.923687+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US envoy Tom Barrack says President Trump did not follow Israel in going to war against Iran.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e037d4636df8f945110e8712"
+    },
     {
       "title": "Israeli attacks kill at least four Palestinians in Gaza",
       "url": "https://aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c95ccbefc3026a7f3a347e3b"
-    },
-    {
-      "title": "Starlink: How Elon Musk's company influences geopolitics",
-      "url": "https://dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477",
-      "source": "DW",
-      "published": "2026-10-15T12:59:00+00:00",
-      "retrieved_at": "2026-10-15T13:41:35.649043+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Designed to bring internet access to remote regions, Elon Musk's Starlink has become vital in crisis regions and war zones. But Ukraine also shows the risks of depending on the service.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f7b68aa15173a4183568c82c"
-    },
-    {
-      "title": "Photos: China and North Korea open new border bridge amid deepening ties",
-      "url": "https://aljazeera.com/gallery/2026/10/15/photos-china-and-north-korea-open-new-border-bridge-amid-deepening-ties",
-      "source": "Al Jazeera",
-      "published": "2026-10-15T12:54:00+00:00",
-      "retrieved_at": "2026-10-15T13:11:38.050020+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The New Yalu River Bridge connects Dandong, China, and Sinuiju, North Korea, enhancing regional trade and collaboration.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "515e79b61573470a62139a77"
     }
   ],
   "unverified_history": [
