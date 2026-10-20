@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T21:51:18.833862+00:00",
+  "updated": "2026-10-20T21:56:20.804409+00:00",
   "items": [
     {
       "title": "Anthropic’s cloud partnerships are getting messy",
@@ -478,23 +478,6 @@
       "story_fingerprint": "17e3dd517dc6985c0454aace"
     },
     {
-      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T11:00:00+00:00",
-      "retrieved_at": "2026-10-20T11:04:45.414169+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. […]",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6f0e0a5beb529cbd90fdb77b"
-    },
-    {
       "title": "Yelp can now call on your behalf to check wait times at a restaurant",
       "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
       "source": "TechCrunch",
@@ -510,6 +493,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d60f3ccf9d14bd63ef765767"
+    },
+    {
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
+      "source": "TechCrunch AI",
+      "published": "2026-10-20T11:00:00+00:00",
+      "retrieved_at": "2026-10-20T11:04:45.414169+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. […]",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6f0e0a5beb529cbd90fdb77b"
     },
     {
       "title": "This New Food Delivery App Could Be the Antidote to Menu Markups",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T21:51:14.629398+00:00",
+    "checked_at": "2026-10-20T21:56:13.681631+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
