@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T18:45:43.225522+00:00",
+  "updated": "2026-10-20T18:50:42.341919+00:00",
   "items": [
     {
       "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
@@ -461,23 +461,6 @@
       "story_fingerprint": "94d6919ebdff340c36ed9cc1"
     },
     {
-      "title": "OpenAI acquires Orchestra Bio",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "source": "OpenAI",
-      "published": "2026-10-20T00:00:00+00:00",
-      "retrieved_at": "2026-10-20T18:20:43.080923+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "3b0f167270254c322515553c"
-    },
-    {
       "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
       "url": "https://huggingface.co/blog/hf-torchtpu",
       "source": "Hugging Face",
@@ -527,6 +510,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "b1757ac195a678f277deb226"
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "source": "OpenAI",
+      "published": "2026-10-20T00:00:00+00:00",
+      "retrieved_at": "2026-10-20T18:20:43.080923+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "3b0f167270254c322515553c"
     },
     {
       "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T18:45:37.552427+00:00",
+    "checked_at": "2026-10-20T18:50:37.585225+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
