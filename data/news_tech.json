@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-20T13:15:11.614669+00:00",
+  "updated": "2026-10-20T13:20:11.836843+00:00",
   "items": [
+    {
+      "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+      "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation",
+      "source": "TechCrunch",
+      "published": "2026-10-20T13:17:36+00:00",
+      "retrieved_at": "2026-10-20T13:20:02.698784+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ef0595c7723fddd24c73d101"
+    },
     {
       "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
       "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "931640c3acd68ed58a50e944"
-    },
-    {
-      "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
-      "url": "https://wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate",
-      "source": "Wired",
-      "published": "2026-10-08T19:30:00+00:00",
-      "retrieved_at": "2026-10-08T19:36:55.742762+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5ec03094b74adcf82fefd496"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T13:15:02.418063+00:00",
+    "checked_at": "2026-10-20T13:20:01.345969+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
