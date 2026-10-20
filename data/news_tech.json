@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-20T17:50:43.714582+00:00",
+  "updated": "2026-10-20T17:55:56.054943+00:00",
   "items": [
+    {
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei",
+      "source": "TechCrunch AI",
+      "published": "2026-10-20T17:55:12+00:00",
+      "retrieved_at": "2026-10-20T17:55:47.947335+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ae57137dec0b9f2ca2524338"
+    },
     {
       "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
       "url": "https://wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests",
@@ -19,11 +36,11 @@
       "story_fingerprint": "271b84644d2dc55e6d66f93f"
     },
     {
-      "title": "Meta ordered to name execs who approved torrenting for AI training",
+      "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
       "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training",
       "source": "Ars Technica AI",
       "published": "2026-10-20T17:40:20+00:00",
-      "retrieved_at": "2026-10-20T17:45:41.570756+00:00",
+      "retrieved_at": "2026-10-20T17:55:48.439780+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "Meta argues nobody “decided” to pirate books to train AI.",
       "isAI": true,
@@ -33,7 +50,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "0b9c929d6ef91eab0c35e1ba"
+      "story_fingerprint": "68ebbaed8145d25ca7457c55"
     },
     {
       "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c41d69736f669dbe426f4001"
-    },
-    {
-      "title": "A New Mexico Community Was a Place to Build a Life. Then a Hypersonic Missile Factory Showed Up",
-      "url": "https://wired.com/story/a-new-mexico-community-was-a-place-to-build-a-life-then-a-hypersonic-missile-factory-showed-up",
-      "source": "Wired",
-      "published": "2026-10-09T09:30:00+00:00",
-      "retrieved_at": "2026-10-09T09:39:37.337909+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Castelion—a next-generation defense tech company—is building a facility in Rio Rancho Estates that documents show could pose a major fire and chemical hazard to neighboring communities.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2ad729eb30afdf28bb21c94c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T17:50:38.948930+00:00",
+    "checked_at": "2026-10-20T17:55:47.363091+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
