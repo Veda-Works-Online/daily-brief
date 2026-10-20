@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-20T17:45:45.388141+00:00",
+  "updated": "2026-10-20T17:50:43.714582+00:00",
   "items": [
+    {
+      "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
+      "url": "https://wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests",
+      "source": "Wired",
+      "published": "2026-10-20T17:41:58+00:00",
+      "retrieved_at": "2026-10-20T17:50:40.362677+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "271b84644d2dc55e6d66f93f"
+    },
     {
       "title": "Meta ordered to name execs who approved torrenting for AI training",
       "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2ad729eb30afdf28bb21c94c"
-    },
-    {
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "url": "https://technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no",
-      "source": "MIT Tech Review",
-      "published": "2026-10-09T09:00:00+00:00",
-      "retrieved_at": "2026-10-09T09:09:25.453124+00:00",
-      "feed_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recently, the idea that AI shouldn’t…",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "be42b6a2e32a1da9b67005c7"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T17:45:40.450231+00:00",
+    "checked_at": "2026-10-20T17:50:38.948930+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
