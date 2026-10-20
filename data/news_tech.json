@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-20T12:35:07.105965+00:00",
+  "updated": "2026-10-20T12:39:58.900253+00:00",
   "items": [
+    {
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations",
+      "source": "Ars Technica AI",
+      "published": "2026-10-20T12:33:13+00:00",
+      "retrieved_at": "2026-10-20T12:39:48.775639+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "A single query is all that's required to find thousands of conversations listed by title.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "17e3dd517dc6985c0454aace"
+    },
     {
       "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
       "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4d33531190ba8f53684e1a73"
-    },
-    {
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference",
-      "source": "TechCrunch AI",
-      "published": "2026-10-08T18:16:24+00:00",
-      "retrieved_at": "2026-10-08T18:16:57.372525+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f61fcce7061edd568759e1be"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T12:34:55.477968+00:00",
+    "checked_at": "2026-10-20T12:39:47.683599+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
