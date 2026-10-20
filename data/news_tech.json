@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-20T18:15:46.298365+00:00",
+  "updated": "2026-10-20T18:20:49.118051+00:00",
   "items": [
+    {
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "source": "Hugging Face",
+      "published": "2026-10-20T18:17:47+00:00",
+      "retrieved_at": "2026-10-20T18:20:42.643645+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "d83b78aff6bf96f590771b40"
+    },
     {
       "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
       "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei",
@@ -391,6 +408,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "94d6919ebdff340c36ed9cc1"
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "source": "OpenAI",
+      "published": "2026-10-20T00:00:00+00:00",
+      "retrieved_at": "2026-10-20T18:20:43.080923+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "3b0f167270254c322515553c"
     },
     {
       "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ba339d488fbd927ecf878d11"
-    },
-    {
-      "title": "Volkswagen's replacement for the ID.4 crossover is here",
-      "url": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here",
-      "source": "Ars Technica",
-      "published": "2026-10-09T10:00:59+00:00",
-      "retrieved_at": "2026-10-09T12:19:35.062288+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0062d1c3550a76d0caeddd8d"
-    },
-    {
-      "title": "Even ‘Law & Order’ Is Terrified of AI",
-      "url": "https://wired.com/story/even-law-and-order-is-terrified-of-ai",
-      "source": "Wired",
-      "published": "2026-10-09T10:00:00+00:00",
-      "retrieved_at": "2026-10-09T10:04:36.417422+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c41d69736f669dbe426f4001"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T18:15:39.580425+00:00",
+    "checked_at": "2026-10-20T18:20:41.980126+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
