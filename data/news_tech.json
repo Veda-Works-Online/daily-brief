@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T17:25:40.058038+00:00",
+  "updated": "2026-10-20T17:30:44.122925+00:00",
   "items": [
     {
       "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
@@ -4235,13 +4235,13 @@
       "story_fingerprint": "be42b6a2e32a1da9b67005c7"
     },
     {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
       "source": "OpenAI",
       "published": "2026-10-09T07:00:00+00:00",
-      "retrieved_at": "2026-10-20T17:25:36.433594+00:00",
+      "retrieved_at": "2026-10-20T17:30:39.535576+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4249,7 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "eb390223549dc0048e83a9b6"
+      "story_fingerprint": "f1f4216583e95326ce27ef10"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T17:25:35.230547+00:00",
+    "checked_at": "2026-10-20T17:30:38.294282+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
