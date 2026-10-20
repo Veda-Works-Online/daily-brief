@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T15:35:45.296823+00:00",
+  "updated": "2026-10-20T15:41:10.217309+00:00",
   "items": [
     {
       "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
@@ -255,6 +255,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "94d6919ebdff340c36ed9cc1"
+    },
+    {
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "source": "Hugging Face",
+      "published": "2026-10-20T00:00:00+00:00",
+      "retrieved_at": "2026-10-20T15:41:04.221715+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "f57b3aa9a3163613a27738f2"
     },
     {
       "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "be66c4dee69e94bce5772fd3"
-    },
-    {
-      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says",
-      "source": "Ars Technica",
-      "published": "2026-10-08T20:39:31+00:00",
-      "retrieved_at": "2026-10-09T00:57:36.475220+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2c2ffee5d83bda592b0c9584"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T15:35:38.733992+00:00",
+    "checked_at": "2026-10-20T15:41:03.495586+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
