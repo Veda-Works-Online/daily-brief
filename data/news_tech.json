@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-20T19:56:27.285969+00:00",
+  "updated": "2026-10-20T20:01:27.426694+00:00",
   "items": [
+    {
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car",
+      "source": "TechCrunch",
+      "published": "2026-10-20T20:00:00+00:00",
+      "retrieved_at": "2026-10-20T20:01:21.467159+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "01944ffe1081077c589d19a1"
+    },
     {
       "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
       "url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "10d72bb4d7351ab3a844b460"
-    },
-    {
-      "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
-      "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss",
-      "source": "TechCrunch",
-      "published": "2026-10-09T14:42:34+00:00",
-      "retrieved_at": "2026-10-09T14:45:09.197021+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7355593f88bfc39f7673acec"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T19:56:23.779478+00:00",
+    "checked_at": "2026-10-20T20:01:19.840335+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
