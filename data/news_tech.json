@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-20T05:03:58.895453+00:00",
+  "updated": "2026-10-20T05:08:59.410083+00:00",
   "items": [
+    {
+      "title": "Mint Mobile Discounts for October 2026",
+      "url": "https://wired.com/story/mint-mobile-promo-code",
+      "source": "Wired",
+      "published": "2026-10-20T05:00:00+00:00",
+      "retrieved_at": "2026-10-20T05:08:55.631215+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9b2418edb544e37c1481ebd2"
+    },
     {
       "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
       "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "caed4e9738e31707f149de02"
-    },
-    {
-      "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
-      "url": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one",
-      "source": "TechCrunch",
-      "published": "2026-10-08T15:06:17+00:00",
-      "retrieved_at": "2026-10-08T15:11:00.447585+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "137432cc5ef7c95b4046aa2f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T05:03:53.486534+00:00",
+    "checked_at": "2026-10-20T05:08:54.327583+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
