@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T20:26:10.196361+00:00",
+  "updated": "2026-10-20T20:31:21.953452+00:00",
   "items": [
     {
       "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
@@ -51,6 +51,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "01944ffe1081077c589d19a1"
+    },
+    {
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs",
+      "source": "Ars Technica",
+      "published": "2026-10-20T19:47:35+00:00",
+      "retrieved_at": "2026-10-20T20:31:15.997612+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e612380bafb3f11709a5722e"
     },
     {
       "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
@@ -136,6 +153,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "d83b78aff6bf96f590771b40"
+    },
+    {
+      "title": "Quantum error correction goes well beyond breakeven",
+      "url": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven",
+      "source": "Ars Technica",
+      "published": "2026-10-20T18:08:57+00:00",
+      "retrieved_at": "2026-10-20T20:31:15.997645+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "A demo of error-corrected qubits shows big reductions in errors as they grow.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c8d972f0119ff01854b0d533"
     },
     {
       "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d0af70dac2671929fa3b6416"
-    },
-    {
-      "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
-      "url": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe",
-      "source": "TechCrunch",
-      "published": "2026-10-09T16:07:26+00:00",
-      "retrieved_at": "2026-10-09T16:10:08.136922+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1963a46c51f23ec4a67381c8"
-    },
-    {
-      "title": "Remember Orkut? Its founder wants to bring it back",
-      "url": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back",
-      "source": "TechCrunch",
-      "published": "2026-10-09T15:56:15+00:00",
-      "retrieved_at": "2026-10-09T16:00:10.488189+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Orkut's founder is now taking aim at algorithms and AI-generated content.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b651f54f7b3de764e7ab10f8"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T20:26:07.028158+00:00",
+    "checked_at": "2026-10-20T20:31:14.831270+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
