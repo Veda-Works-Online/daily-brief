@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-20T02:03:03.264368+00:00",
+  "updated": "2026-10-20T05:19:06.181665+00:00",
   "items": [
+    {
+      "title": "How is the US economy really doing under President Trump?",
+      "url": "https://bbc.co.uk/news/articles/cv98ze40jz18o",
+      "source": "BBC World",
+      "published": "2026-10-20T05:00:45+00:00",
+      "retrieved_at": "2026-10-20T05:19:01.221456+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ae61d0713dced9695fe43ab8"
+    },
     {
       "title": "The human cost of surging US air strikes in Somalia",
       "url": "https://aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c55059cf012c8d772a91cbf4"
-    },
-    {
-      "title": "Argentina’s Milei backs Trump for US midterms, calls vote crucial for West",
-      "url": "https://aljazeera.com/news/2026/10/15/argentinas-milei-backs-trump-for-us-midterms-calls-vote-crucial-for-west",
-      "source": "Al Jazeera",
-      "published": "2026-10-15T03:50:14+00:00",
-      "retrieved_at": "2026-10-15T04:14:09.444589+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The US President's ally says conservatives “cannot give an inch” in Latin America as he accepts an award in Washington.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5ebfcf8978f15645949683d1"
     }
   ],
   "unverified_history": [
