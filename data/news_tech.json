@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-20T10:15:06.648205+00:00",
+  "updated": "2026-10-20T10:19:49.635025+00:00",
   "items": [
+    {
+      "title": "This New Food Delivery App Could Be the Antidote to Menu Markups",
+      "url": "https://wired.com/story/olo-new-food-delivery-app-could-be-the-antidote-to-menu-markups",
+      "source": "Wired",
+      "published": "2026-10-20T10:15:00+00:00",
+      "retrieved_at": "2026-10-20T10:19:45.384534+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "By sticking to in-store menu prices and a flat 5 percent fee, Olo wants to take the sting out of ordering dinner.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3fa0be3bb3f1da3ef2cf6671"
+    },
     {
       "title": "5 Best AI Notetakers (2026), Tested and Reviewed",
       "url": "https://wired.com/gallery/best-ai-notetakers",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bb85386e52611543a651932d"
-    },
-    {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "source": "OpenAI",
-      "published": "2026-10-08T16:00:00+00:00",
-      "retrieved_at": "2026-10-08T17:41:52.549643+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "76c86417b2a039019262f557"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T10:14:55.948012+00:00",
+    "checked_at": "2026-10-20T10:19:44.098073+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
