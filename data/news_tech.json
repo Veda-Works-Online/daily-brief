@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-20T06:58:58.356711+00:00",
+  "updated": "2026-10-20T07:03:58.706305+00:00",
   "items": [
+    {
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet",
+      "source": "TechCrunch",
+      "published": "2026-10-20T07:01:00+00:00",
+      "retrieved_at": "2026-10-20T07:03:53.909021+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9b677cad6c216c2ce489315d"
+    },
     {
       "title": "Mint Mobile Discounts for October 2026",
       "url": "https://wired.com/story/mint-mobile-promo-code",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ca973de111069c01a002ae02"
-    },
-    {
-      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost",
-      "source": "TechCrunch AI",
-      "published": "2026-10-08T16:00:00+00:00",
-      "retrieved_at": "2026-10-08T17:00:59.226876+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "caed4e9738e31707f149de02"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T06:58:53.288104+00:00",
+    "checked_at": "2026-10-20T07:03:52.621943+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
