@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-20T00:12:58.586822+00:00",
+  "updated": "2026-10-20T02:03:03.264368+00:00",
   "items": [
+    {
+      "title": "The human cost of surging US air strikes in Somalia",
+      "url": "https://aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T01:52:32+00:00",
+      "retrieved_at": "2026-10-20T02:03:00.678592+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Families recount deaths, injuries and displacement as Trump accelerates US strikes against armed groups in Somalia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b43a27f59dc07e7cafbbd9fc"
+    },
     {
       "title": "Hegseth meets Netanyahu in unannounced Israel visit",
       "url": "https://aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5ebfcf8978f15645949683d1"
-    },
-    {
-      "title": "North Korea tests two submarine-launched missiles, state media reports",
-      "url": "https://aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports",
-      "source": "Al Jazeera",
-      "published": "2026-10-15T03:23:49+00:00",
-      "retrieved_at": "2026-10-15T03:43:46.500652+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The tests showcase North Korea's war deterrent capabilities in the region, KCNA says.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dd2e657cc0ccf20aa14352ce"
     }
   ],
   "unverified_history": [
