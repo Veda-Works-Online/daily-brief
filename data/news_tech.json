@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-20T01:22:58.384744+00:00",
+  "updated": "2026-10-20T01:28:00.951624+00:00",
   "items": [
+    {
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
+      "source": "TechCrunch AI",
+      "published": "2026-10-20T01:27:03+00:00",
+      "retrieved_at": "2026-10-20T01:27:56.388783+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "94d6919ebdff340c36ed9cc1"
+    },
     {
       "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
       "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b74126a29ac1c3e2f9c2f34a"
-    },
-    {
-      "title": "Spotify is getting more serious about selling enterprise software",
-      "url": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software",
-      "source": "TechCrunch",
-      "published": "2026-10-08T14:34:33+00:00",
-      "retrieved_at": "2026-10-08T14:36:04.369630+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7444fb47dbf47514acf5296f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T01:22:51.443438+00:00",
+    "checked_at": "2026-10-20T01:27:55.856260+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
