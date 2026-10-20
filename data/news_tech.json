@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-20T15:15:52.939025+00:00",
+  "updated": "2026-10-20T15:20:44.972785+00:00",
   "items": [
+    {
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "source": "Hugging Face",
+      "published": "2026-10-20T15:19:48+00:00",
+      "retrieved_at": "2026-10-20T15:20:37.824340+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "98c90566b0a964bdbbd59bc8"
+    },
     {
       "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
       "url": "https://wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2c2ffee5d83bda592b0c9584"
-    },
-    {
-      "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
-      "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing",
-      "source": "Ars Technica",
-      "published": "2026-10-08T20:15:53+00:00",
-      "retrieved_at": "2026-10-09T00:57:36.475244+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0bcfeaaef9d20930c87e279b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T15:15:47.022008+00:00",
+    "checked_at": "2026-10-20T15:20:37.058297+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
