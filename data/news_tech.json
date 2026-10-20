@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-20T20:06:27.478169+00:00",
+  "updated": "2026-10-20T20:11:19.227828+00:00",
   "items": [
+    {
+      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash",
+      "source": "Ars Technica AI",
+      "published": "2026-10-20T20:07:58+00:00",
+      "retrieved_at": "2026-10-20T20:11:16.604404+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d6cb90f59b1b6719ec921e35"
+    },
     {
       "title": "Gemini's Personal Intelligence is coming to cars",
       "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b651f54f7b3de764e7ab10f8"
-    },
-    {
-      "title": "a16z’s Olivia Moore on the state of consumer AI",
-      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai",
-      "source": "TechCrunch AI",
-      "published": "2026-10-09T15:43:33+00:00",
-      "retrieved_at": "2026-10-09T16:25:08.438908+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "83eeb32763b40aa7c6e7873d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T20:06:24.136339+00:00",
+    "checked_at": "2026-10-20T20:11:15.630568+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
