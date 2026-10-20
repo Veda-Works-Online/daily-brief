@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T19:26:27.332498+00:00",
+  "updated": "2026-10-20T19:31:29.140849+00:00",
   "items": [
     {
       "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
@@ -6257,6 +6257,15 @@
   "open_llms": {
     "items": [
       {
+        "id": "microsoft/Sentiment-Analysis-7B",
+        "name": "Sentiment-Analysis-7B",
+        "publisher": "microsoft",
+        "licence": "mit",
+        "published": "2026-10-17T00:51:18+00:00",
+        "url": "https://huggingface.co/microsoft/Sentiment-Analysis-7B",
+        "source_status": "CURRENT"
+      },
+      {
         "id": "ibm-granite/granite-switch-4.1-8b",
         "name": "granite-switch-4.1-8b",
         "publisher": "ibm-granite",
@@ -6426,18 +6435,9 @@
         "published": "2026-08-13T21:03:19+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-nvfp4",
         "source_status": "CURRENT"
-      },
-      {
-        "id": "ibm-granite/granite-4.2-30b-mxfp4",
-        "name": "granite-4.2-30b-mxfp4",
-        "publisher": "ibm-granite",
-        "licence": "apache-2.0",
-        "published": "2026-08-13T21:02:51+00:00",
-        "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-mxfp4",
-        "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T19:26:20.744927+00:00",
+    "checked_at": "2026-10-20T19:31:24.085855+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
