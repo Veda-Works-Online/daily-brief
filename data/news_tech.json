@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T11:04:51.733430+00:00",
+  "updated": "2026-10-20T11:09:50.260893+00:00",
   "items": [
     {
       "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
@@ -119,6 +119,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "94d6919ebdff340c36ed9cc1"
+    },
+    {
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "source": "Hugging Face",
+      "published": "2026-10-20T00:00:00+00:00",
+      "retrieved_at": "2026-10-20T11:09:43.355916+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "b1757ac195a678f277deb226"
     },
     {
       "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f61fcce7061edd568759e1be"
-    },
-    {
-      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-      "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet",
-      "source": "TechCrunch AI",
-      "published": "2026-10-08T18:10:55+00:00",
-      "retrieved_at": "2026-10-08T18:11:55.658488+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ba13a6c2cf1f1e7fac15fefc"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T11:04:44.752574+00:00",
+    "checked_at": "2026-10-20T11:09:42.680416+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
