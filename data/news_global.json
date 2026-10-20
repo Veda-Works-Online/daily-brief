@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-20T15:10:52.910763+00:00",
+  "updated": "2026-10-20T16:05:50.801689+00:00",
   "items": [
+    {
+      "title": "‘Not getting involved’: US Vice President refuses to endorse Netanyahu",
+      "url": "https://aljazeera.com/news/2026/10/20/not-getting-involved-us-vice-president-refuses-to-endorse-netanyahu",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T15:46:30+00:00",
+      "retrieved_at": "2026-10-20T16:05:46.682520+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "JD Vance's comments follow Donald Trump's backing of Israeli prime minister ahead of October 27 elections.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a34cc1d4b6ea17aed789d060"
+    },
     {
       "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
       "url": "https://aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "055112631f13f622060d5cfd"
-    },
-    {
-      "title": "What is Starshield, and who limited Ukraine’s access to it?",
-      "url": "https://aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it",
-      "source": "Al Jazeera",
-      "published": "2026-10-15T13:32:16+00:00",
-      "retrieved_at": "2026-10-15T13:51:36.160780+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Ukraine relies on Starshield, the military-grade version of Elon Musk's Starlink satellite service, to fight Russia.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "02357d96b91d4bdf340cf080"
     }
   ],
   "unverified_history": [
