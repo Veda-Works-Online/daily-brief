@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T20:16:19.594218+00:00",
+  "updated": "2026-10-20T20:21:28.921793+00:00",
   "items": [
     {
       "title": "EU revises Arctic strategy as pressure from Russia, US grows",
@@ -32,6 +32,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bd2ffd6469f872cac7f55877"
+    },
+    {
+      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+      "url": "https://bbc.co.uk/news/articles/ckrey51jrgnro",
+      "source": "BBC World",
+      "published": "2026-10-20T20:00:57+00:00",
+      "retrieved_at": "2026-10-20T20:21:26.227801+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "22907f759add06442f777fec"
     },
     {
       "title": "Netanyahu says he discussed ‘eliminating’ Iran’s regime with Trump",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "be99bae2583cc86e2275a4f3"
-    },
-    {
-      "title": "Clashes erupt at protest over university funding law in Argentina",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T01:19:25+00:00",
-      "retrieved_at": "2026-10-16T01:33:41.526440+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Protesters in Buenos Aires demanded the government implement a law to boost university funding.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "57439b4bc89f5a353e9b8cd6"
     }
   ],
   "unverified_history": [
