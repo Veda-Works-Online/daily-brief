@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-20T15:10:45.763162+00:00",
+  "updated": "2026-10-20T15:15:52.939025+00:00",
   "items": [
+    {
+      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+      "url": "https://wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding",
+      "source": "Wired",
+      "published": "2026-10-20T15:07:43+00:00",
+      "retrieved_at": "2026-10-20T15:15:48.369079+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "dcd64cc1aea2fe4c87414f20"
+    },
     {
       "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
       "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0bcfeaaef9d20930c87e279b"
-    },
-    {
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-      "source": "TechCrunch AI",
-      "published": "2026-10-08T20:04:26+00:00",
-      "retrieved_at": "2026-10-08T20:06:49.872714+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "42f04c8a227a49600da3426e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T15:10:37.292875+00:00",
+    "checked_at": "2026-10-20T15:15:47.022008+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
