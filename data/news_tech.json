@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-20T18:20:49.118051+00:00",
+  "updated": "2026-10-20T18:25:40.840307+00:00",
   "items": [
+    {
+      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice",
+      "source": "Ars Technica AI",
+      "published": "2026-10-20T18:22:54+00:00",
+      "retrieved_at": "2026-10-20T18:25:37.242109+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c8e452e29325efd75fa21fac"
+    },
     {
       "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
       "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1a20fdd9b35711cba7563970"
-    },
-    {
-      "title": "Best Battery-Powered Leaf Blowers (2026): Tested for Power, Battery Life, and Noise",
-      "url": "https://wired.com/story/best-battery-powered-leaf-blowers",
-      "source": "Wired",
-      "published": "2026-10-09T10:10:00+00:00",
-      "retrieved_at": "2026-10-09T10:19:27.731143+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "It’s finally time to ditch the gas canister—I tested these cordless leaf blowers on gravel, wood chips, and even a 5-pound concrete paver.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ba339d488fbd927ecf878d11"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T18:20:41.980126+00:00",
+    "checked_at": "2026-10-20T18:25:36.108536+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
