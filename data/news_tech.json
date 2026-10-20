@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-20T17:10:41.933636+00:00",
+  "updated": "2026-10-20T17:15:43.169101+00:00",
   "items": [
+    {
+      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps",
+      "source": "TechCrunch AI",
+      "published": "2026-10-20T17:12:48+00:00",
+      "retrieved_at": "2026-10-20T17:15:37.212116+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "54287759ef6bdfba8af86329"
+    },
     {
       "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
       "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era",
@@ -91,9 +108,9 @@
       "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol",
       "source": "TechCrunch AI",
       "published": "2026-10-20T14:13:32+00:00",
-      "retrieved_at": "2026-10-20T14:15:42.882271+00:00",
+      "retrieved_at": "2026-10-20T17:15:37.212174+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data",
+      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -189,23 +206,6 @@
       "story_fingerprint": "17e3dd517dc6985c0454aace"
     },
     {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
-      "source": "TechCrunch",
-      "published": "2026-10-20T11:00:00+00:00",
-      "retrieved_at": "2026-10-20T11:04:45.981565+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d60f3ccf9d14bd63ef765767"
-    },
-    {
       "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
       "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
       "source": "TechCrunch AI",
@@ -221,6 +221,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6f0e0a5beb529cbd90fdb77b"
+    },
+    {
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
+      "source": "TechCrunch",
+      "published": "2026-10-20T11:00:00+00:00",
+      "retrieved_at": "2026-10-20T11:04:45.981565+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d60f3ccf9d14bd63ef765767"
     },
     {
       "title": "This New Food Delivery App Could Be the Antidote to Menu Markups",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "eb390223549dc0048e83a9b6"
-    },
-    {
-      "title": "Livestream Replay: Watch ‘Uncanny Valley’ on Women, Tech, and Power",
-      "url": "https://wired.com/story/come-see-uncanny-valley-live",
-      "source": "Wired",
-      "published": "2026-10-09T03:30:00+00:00",
-      "retrieved_at": "2026-10-09T03:38:13.527739+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Missed our latest WIRED@Night event? Enjoy an evening of podcasting in San Francisco right here.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "61c2e41d2eae87423eb868a6"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T17:10:35.271029+00:00",
+    "checked_at": "2026-10-20T17:15:36.528246+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

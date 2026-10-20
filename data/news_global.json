@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T16:50:51.065733+00:00",
+  "updated": "2026-10-20T17:15:50.559780+00:00",
   "items": [
     {
       "title": "Is Cyprus becoming Israel’s backyard?",
@@ -336,6 +336,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3a57ca12a41697c8e3014cd8"
+    },
+    {
+      "title": "A Russian drone factory, North Korean workers and allegations of slavery. DW looks at the human cost of Moscow's war machine.",
+      "url": "https://dw.com/en/a-russian-drone-factory-north-korean-workers-and-allegations-of-slavery-dw-looks-at-the-human-cost-of-moscow-s-war-machine/a-79710877",
+      "source": "DW",
+      "published": "2026-10-20T11:30:00+00:00",
+      "retrieved_at": "2026-10-20T17:15:46.691164+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "A new report reveals the plight of North Korean workers at a drone factory in Russia. It also raised concerns that Pyongyang could gain hands-on knowledge of advanced weapons systems through the workers it sends there.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9710f280774cdc01d62d9cc9"
     },
     {
       "title": "North Korean workers treated as 'slaves' at Russian drone factory, says new report",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "181309a9b7f69b77e657a1d6"
-    },
-    {
-      "title": "Don’t Call It a Reset: The Modi-Xi Meeting Wasn’t a Turning Point",
-      "url": "https://thediplomat.com/2026/10/dont-call-it-a-reset-the-modi-xi-meeting-wasnt-a-turning-point",
-      "source": "The Diplomat",
-      "published": "2026-10-15T15:42:00+00:00",
-      "retrieved_at": "2026-10-15T23:12:39.145197+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Both sides are trying to prevent another crisis while their core disagreements remain unresolved.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "59d31ee1f6efe1b49b8c5c5e"
     }
   ],
   "unverified_history": [
