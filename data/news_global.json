@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T16:05:50.801689+00:00",
+  "updated": "2026-10-20T16:10:51.559319+00:00",
   "items": [
     {
       "title": "‘Not getting involved’: US Vice President refuses to endorse Netanyahu",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a34cc1d4b6ea17aed789d060"
+    },
+    {
+      "title": "Brazil's Lula, Flavio Bolsonaro tied ahead of runoff vote",
+      "url": "https://dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182",
+      "source": "DW",
+      "published": "2026-10-20T15:12:00+00:00",
+      "retrieved_at": "2026-10-20T16:10:47.542069+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "With just under a week to go before the decisive presidential runoff election, polls show left-wing incumbent Luiz Inacio Lula da Silva and his right-wing challenger Flavio Bolsonaro are virtually tied.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6063207b84e49e11919f0d11"
     },
     {
       "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1b07e8b7b91bf2cf2c7ae3b2"
-    },
-    {
-      "title": "Trump says Fort Hood US shooter execution will not be livestreamed",
-      "url": "https://aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed",
-      "source": "Al Jazeera",
-      "published": "2026-10-15T14:27:35+00:00",
-      "retrieved_at": "2026-10-15T15:17:08.161497+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US president reverses Pentagon's plan to publicly stream execution of Nidal Malik Hasan after outcry.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "055112631f13f622060d5cfd"
     }
   ],
   "unverified_history": [

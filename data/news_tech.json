@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-20T16:05:43.595109+00:00",
+  "updated": "2026-10-20T16:10:44.378900+00:00",
   "items": [
+    {
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "source": "Hugging Face",
+      "published": "2026-10-20T16:09:19+00:00",
+      "retrieved_at": "2026-10-20T16:10:38.409715+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "67aff9b8896bb713ca75891b"
+    },
     {
       "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
       "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5a92ead7f701906b89440a1a"
-    },
-    {
-      "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
-      "url": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes",
-      "source": "TechCrunch",
-      "published": "2026-10-08T22:33:59+00:00",
-      "retrieved_at": "2026-10-08T23:12:31.262518+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4844dccf547b00f2b5f20d64"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T16:05:38.666085+00:00",
+    "checked_at": "2026-10-20T16:10:37.656104+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
