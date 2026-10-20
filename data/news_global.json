@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-20T21:21:26.622372+00:00",
+  "updated": "2026-10-20T21:26:22.563921+00:00",
   "items": [
+    {
+      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+      "url": "https://aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods",
+      "source": "Al Jazeera",
+      "published": "2026-10-20T21:19:12+00:00",
+      "retrieved_at": "2026-10-20T21:26:19.914487+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6269f94f521b24d1331be4dc"
+    },
     {
       "title": "Why do the US midterms matter for Trump and Congress?",
       "url": "https://aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fbd76a25239ba3636dd5529b"
-    },
-    {
-      "title": "They fled Russia, but the West sent them back",
-      "url": "https://bbc.co.uk/news/articles/c6x23qpzjklwo",
-      "source": "BBC World",
-      "published": "2026-10-16T04:57:28+00:00",
-      "retrieved_at": "2026-10-17T07:58:34.373537+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d934fcf82f4e8f83a092b2be"
     }
   ],
   "unverified_history": [

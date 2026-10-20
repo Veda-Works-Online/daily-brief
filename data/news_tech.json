@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-20T21:21:21.629075+00:00",
+  "updated": "2026-10-20T21:26:17.086600+00:00",
   "items": [
+    {
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+      "source": "TechCrunch AI",
+      "published": "2026-10-20T21:25:22+00:00",
+      "retrieved_at": "2026-10-20T21:26:14.473610+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "90bd459310081866f0a5c849"
+    },
     {
       "title": "SpaceX’s AI business is beating expectations",
       "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
@@ -461,23 +478,6 @@
       "story_fingerprint": "17e3dd517dc6985c0454aace"
     },
     {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
-      "source": "TechCrunch",
-      "published": "2026-10-20T11:00:00+00:00",
-      "retrieved_at": "2026-10-20T11:04:45.981565+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d60f3ccf9d14bd63ef765767"
-    },
-    {
       "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
       "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
       "source": "TechCrunch AI",
@@ -493,6 +493,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6f0e0a5beb529cbd90fdb77b"
+    },
+    {
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
+      "source": "TechCrunch",
+      "published": "2026-10-20T11:00:00+00:00",
+      "retrieved_at": "2026-10-20T11:04:45.981565+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d60f3ccf9d14bd63ef765767"
     },
     {
       "title": "This New Food Delivery App Could Be the Antidote to Menu Markups",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "370c43a6ae84d06d31bdabd5"
-    },
-    {
-      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card",
-      "source": "TechCrunch AI",
-      "published": "2026-10-09T16:53:02+00:00",
-      "retrieved_at": "2026-10-09T16:55:07.907554+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents…",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "07ac809ad626dbfea3950a5a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-20T21:21:18.058321+00:00",
+    "checked_at": "2026-10-20T21:26:13.925865+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
