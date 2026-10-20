@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T18:56:29.179292+00:00",
+  "updated": "2026-10-20T19:11:33.005361+00:00",
   "items": [
     {
       "title": "Can a humanitarian crisis in Gaza be averted?",
@@ -32,6 +32,38 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7ea68e5d0479c23eeaec8d72"
+    },
+    {
+      "title": "Lebanon faces uncertainty as UNIFIL mandate nears end",
+      "url": "https://dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491",
+      "source": "DW",
+      "published": "2026-10-20T18:19:00+00:00",
+      "retrieved_at": "2026-10-20T19:11:30.387286+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "As UN peacekeeping forces prepare to withdraw from Lebanon, Israel remains present and Hezbollah is still armed. A new EU support mission aims to strengthen Lebanon's army, but will not replace UN peacekeepers.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b21be44ccaf59b1466688783"
+    },
+    {
+      "title": "Sudan drone strike kills around 150 in Abyei market",
+      "url": "https://dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587",
+      "source": "DW",
+      "published": "2026-10-20T18:09:00+00:00",
+      "retrieved_at": "2026-10-20T19:11:30.387312+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "A drone strike hit a market in the Abyei border region disputed by Sudan and South Sudan and killed dozens. The drone caused a large fire when it hit a fuel depot. South Sudanese officials blamed Sudan's military.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7f033598780fbb1f2382afba"
     },
     {
       "title": "JERUSALEM DAILY: Half a million Palestinians lose food aid",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "073203821b7fdd9b43fa3033"
-    },
-    {
-      "title": "ICE tactics spark debate before pivotal US midterm elections",
-      "url": "https://aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections",
-      "source": "Al Jazeera",
-      "published": "2026-10-15T21:02:31+00:00",
-      "retrieved_at": "2026-10-15T21:37:43.753232+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Polls have found that Trump's hardline immigration enforcement effort has divided voters before the 2026 midterm race.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ceef2900b421531e2ea02e7b"
-    },
-    {
-      "title": "Dying in ICE custody: Inside one family’s story of heartbreak",
-      "url": "https://aljazeera.com/news/longform/2026/10/15/dying-in-ice-custody-inside-one-familys-story-of-heartbreak",
-      "source": "Al Jazeera",
-      "published": "2026-10-15T18:57:08+00:00",
-      "retrieved_at": "2026-10-15T19:32:06.003123+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Ismael Ayala-Uribe was one of 53 people to die in ICE custody during Trump’s first 500 days back in office.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "00b6c721921a5d12c6dbb445"
     }
   ],
   "unverified_history": [
