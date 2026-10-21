@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T15:14:45.574991+00:00",
+  "updated": "2026-10-21T15:19:51.762375+00:00",
   "items": [
+    {
+      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+      "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using",
+      "source": "Ars Technica AI",
+      "published": "2026-10-21T15:14:07+00:00",
+      "retrieved_at": "2026-10-21T15:19:47.783077+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0e69e18799baacc447cee747"
+    },
     {
       "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
       "url": "https://wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6285428e4c4c8ed66825537f"
-    },
-    {
-      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next",
-      "source": "TechCrunch AI",
-      "published": "2026-10-11T19:00:00+00:00",
-      "retrieved_at": "2026-10-11T19:02:52.273018+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2dc6a2c093b90c74334c41ea"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T15:14:40.217347+00:00",
+    "checked_at": "2026-10-21T15:19:46.781455+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
