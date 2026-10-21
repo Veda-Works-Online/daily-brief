@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-21T22:55:48.928830+00:00",
+  "updated": "2026-10-21T23:25:41.160683+00:00",
   "items": [
+    {
+      "title": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
+      "url": "https://aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat",
+      "source": "Al Jazeera",
+      "published": "2026-10-21T23:13:35+00:00",
+      "retrieved_at": "2026-10-21T23:25:36.382677+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US State Department says Iran-aligned Houthis have 'increasingly ⁠⁠engaged in hostilities' against Saudi Arabia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b8fdc8acfd64b0d6fa88c856"
+    },
     {
       "title": "Tehran displays mock installation of Trump behind bars",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_tehran-displays-mock-installation-of-trump-211026",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9879febedd503ead62c2138e"
-    },
-    {
-      "title": "Trump waives Russia sanctions as rift with Zelenskyy widens",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/17/trump-waives-russia-sanctions-as-rift-with-zelenskyy-widens",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T04:58:32+00:00",
-      "retrieved_at": "2026-10-17T05:22:33.864881+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US President Donald Trump has waived more sanctions on Russia in a bid to ease energy prices.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fd132c9419157682f0f91147"
     }
   ],
   "unverified_history": [
