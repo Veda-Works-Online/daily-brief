@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-21T22:15:38.697917+00:00",
+  "updated": "2026-10-21T22:20:40.426780+00:00",
   "items": [
+    {
+      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts",
+      "source": "TechCrunch",
+      "published": "2026-10-21T22:16:05+00:00",
+      "retrieved_at": "2026-10-21T22:20:34.605443+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "759720332fc7af5bcbe5f3de"
+    },
+    {
+      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+      "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades",
+      "source": "Ars Technica",
+      "published": "2026-10-21T21:48:52+00:00",
+      "retrieved_at": "2026-10-21T22:20:34.721005+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4d3beb3c3e95bfca59227871"
+    },
     {
       "title": "TechCrunch Founder Summit 2026: Everything you need to know",
       "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a7dbad146f65c0cbb9f8bb9a"
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "source": "OpenAI",
-      "published": "2026-10-13T12:00:00+00:00",
-      "retrieved_at": "2026-10-13T19:09:02.947912+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "222372e11e23ee06cfff916a"
-    },
-    {
-      "title": "40 Gifts Under $100 That Will Delight Any Tech Enthusiast (2026)",
-      "url": "https://wired.com/gallery/best-gifts-under-100",
-      "source": "Wired",
-      "published": "2026-10-13T11:30:00+00:00",
-      "retrieved_at": "2026-10-13T11:31:57.747891+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Score a great gift for everyone on your list without breaking the bank. Every one of these gifts comes WIRED-recommended.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d796387e0412d3a6c747eaca"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T22:15:31.453161+00:00",
+    "checked_at": "2026-10-21T22:20:32.981328+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
