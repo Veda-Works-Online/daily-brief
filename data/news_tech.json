@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T18:59:53.489875+00:00",
+  "updated": "2026-10-21T19:04:57.348876+00:00",
   "items": [
+    {
+      "title": "The internet is having a very bad cybersecurity day",
+      "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day",
+      "source": "TechCrunch",
+      "published": "2026-10-21T19:03:28+00:00",
+      "retrieved_at": "2026-10-21T19:04:53.335309+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "047d31d879c9abae26274ef5"
+    },
     {
       "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
       "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "19c677c3ce26473177e2a731"
-    },
-    {
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data",
-      "source": "TechCrunch AI",
-      "published": "2026-10-12T17:19:14+00:00",
-      "retrieved_at": "2026-10-12T18:29:06.431482+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "37adf0519e08228a4c2aa9be"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T18:59:48.472543+00:00",
+    "checked_at": "2026-10-21T19:04:52.110291+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
