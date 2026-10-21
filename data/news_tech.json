@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T12:33:42.793568+00:00",
+  "updated": "2026-10-21T12:38:59.342780+00:00",
   "items": [
+    {
+      "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+      "url": "https://wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse",
+      "source": "Wired",
+      "published": "2026-10-21T12:35:00+00:00",
+      "retrieved_at": "2026-10-21T12:38:53.435286+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1a0eda0370906e07dd7424ec"
+    },
     {
       "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
       "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1a2593176888b4aa092fa58c"
-    },
-    {
-      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google",
-      "source": "Ars Technica AI",
-      "published": "2026-10-09T22:04:07+00:00",
-      "retrieved_at": "2026-10-09T22:05:56.847212+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "One damaged data center has supercomputers used for training Yandex’s AI model.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "11155b4e733b9ee2f00fb967"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T12:33:36.341224+00:00",
+    "checked_at": "2026-10-21T12:38:52.008702+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
