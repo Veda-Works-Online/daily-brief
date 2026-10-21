@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-21T02:52:26.947358+00:00",
+  "updated": "2026-10-21T04:02:29.990245+00:00",
   "items": [
+    {
+      "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
+      "url": "https://bbc.co.uk/news/articles/cq5ynkx3xy11o",
+      "source": "BBC World",
+      "published": "2026-10-21T03:59:18+00:00",
+      "retrieved_at": "2026-10-21T04:02:25.523879+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "154e6a1759f517cf4fc2345a"
+    },
     {
       "title": "Portugal cost-of-living protesters pour back into camps cleared by police",
       "url": "https://aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police",
@@ -256,22 +272,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cbc80eb26d2cede4574acbd5"
-    },
-    {
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-      "url": "https://bbc.co.uk/news/articles/cq5ynkx3xy11o",
-      "source": "BBC World",
-      "published": "2026-10-20T20:01:04+00:00",
-      "retrieved_at": "2026-10-20T20:16:16.885338+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bd2ffd6469f872cac7f55877"
     },
     {
       "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
