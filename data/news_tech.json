@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T16:59:54.059180+00:00",
+  "updated": "2026-10-21T17:04:43.547957+00:00",
   "items": [
+    {
+      "title": "Waymo starts offering rides at the Las Vegas airport",
+      "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport",
+      "source": "TechCrunch",
+      "published": "2026-10-21T16:59:44+00:00",
+      "retrieved_at": "2026-10-21T17:04:39.588150+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "743533507fc6f4fcf5c3c376"
+    },
     {
       "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
       "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1d6e5ba936bff9889dd6fb6d"
-    },
-    {
-      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know",
-      "source": "TechCrunch",
-      "published": "2026-10-12T00:59:01+00:00",
-      "retrieved_at": "2026-10-12T01:03:37.101193+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2772406bcaecdbe5ff91faea"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T16:59:47.073534+00:00",
+    "checked_at": "2026-10-21T17:04:38.288399+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
