@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-21T09:12:52.424960+00:00",
+  "updated": "2026-10-21T09:32:51.337651+00:00",
   "items": [
+    {
+      "title": "Russia frees US citizen Stephen Hubbard, state media reports",
+      "url": "https://bbc.co.uk/news/articles/c6m24l9v3745o",
+      "source": "BBC World",
+      "published": "2026-10-21T09:22:23+00:00",
+      "retrieved_at": "2026-10-21T09:32:48.492427+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "84279187fb579fb6cd8d005b"
+    },
     {
       "title": "Trump snaps at reporter, ordering him to be quiet",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/21/trump-snaps-at-reporter-ordering-him-to-be-quiet",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a7bca488f7b17ebf51122f63"
-    },
-    {
-      "title": "Pro-Nazi chants before Hajduk Split-Ajax UEFA Europa League match slammed",
-      "url": "https://aljazeera.com/sports/2026/10/16/pro-nazi-chants-ahead-of-ajax-match-slammed-by-croatia-leaders",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T12:42:30+00:00",
-      "retrieved_at": "2026-10-16T13:55:33.224523+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Croatia's Hajduk Split hosted Ajax on Thursday, but chants for pre-World War II regime precede UEFA Europa League game.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bc296ddb0c1f7fc6445c3bce"
     }
   ],
   "unverified_history": [
