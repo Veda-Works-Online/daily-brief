@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T18:19:56.129690+00:00",
+  "updated": "2026-10-21T18:24:57.248238+00:00",
   "items": [
+    {
+      "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+      "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits",
+      "source": "Ars Technica AI",
+      "published": "2026-10-21T18:20:40+00:00",
+      "retrieved_at": "2026-10-21T18:24:49.097781+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bc0f67a4abd7e6b7e5922bbf"
+    },
     {
       "title": "GM is giving OnStar an AI makeover",
       "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "58f9367d0e047df7f24e5066"
-    },
-    {
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes",
-      "source": "TechCrunch AI",
-      "published": "2026-10-12T15:27:59+00:00",
-      "retrieved_at": "2026-10-12T15:32:20.944811+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "395c26a26a5c59d5ef80b8a4"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T18:19:49.441304+00:00",
+    "checked_at": "2026-10-21T18:24:48.087037+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
