@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-21T17:59:47.806486+00:00",
+  "updated": "2026-10-21T18:04:48.487686+00:00",
   "items": [
+    {
+      "title": "GM is giving OnStar an AI makeover",
+      "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover",
+      "source": "TechCrunch",
+      "published": "2026-10-21T18:00:00+00:00",
+      "retrieved_at": "2026-10-21T18:04:40.636665+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "77c5fc72e06bcd00222972ef"
+    },
+    {
+      "title": "GM Wants Your Car to Do Your Chores",
+      "url": "https://wired.com/story/gm-wants-your-car-to-do-your-chores",
+      "source": "Wired",
+      "published": "2026-10-21T18:00:00+00:00",
+      "retrieved_at": "2026-10-21T18:04:40.754680+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The Detroit automaker wants your next vehicle to be a personal assistant, a best friend, and an autonomous errand-runner.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bbee17d1a9467b51014226ef"
+    },
     {
       "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
       "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5a00b6ae9c1f46f48872e5c8"
-    },
-    {
-      "title": "Google Fitbit Edge: Specs, Features, Price, Release Date",
-      "url": "https://wired.com/story/googles-fitbit-edge-debuts-a-replaceable-battery-and-brings-back-the-screen",
-      "source": "Wired",
-      "published": "2026-10-12T13:00:00+00:00",
-      "retrieved_at": "2026-10-12T13:05:22.663159+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The new $179 tracker features Pixel Watch smarts, week-long battery life, and an OLED screen.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "baa7ea6c39c16f5b00e2fad7"
-    },
-    {
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background",
-      "source": "TechCrunch AI",
-      "published": "2026-10-12T12:47:59+00:00",
-      "retrieved_at": "2026-10-12T17:04:07.240917+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c465dba030d05e2639e5d94a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T17:59:42.782694+00:00",
+    "checked_at": "2026-10-21T18:04:39.496989+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
