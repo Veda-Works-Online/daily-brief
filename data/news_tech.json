@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T18:24:57.248238+00:00",
+  "updated": "2026-10-21T18:29:53.527729+00:00",
   "items": [
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "source": "Hugging Face",
+      "published": "2026-10-21T18:26:30+00:00",
+      "retrieved_at": "2026-10-21T18:29:48.787739+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "d3eb659a0fc61c984ad5d9e7"
+    },
     {
       "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
       "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "142a35bc8d6ac58a278fbd4e"
-    },
-    {
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
-      "source": "TechCrunch AI",
-      "published": "2026-10-12T15:31:19+00:00",
-      "retrieved_at": "2026-10-12T18:04:05.876269+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "58f9367d0e047df7f24e5066"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T18:24:48.087037+00:00",
+    "checked_at": "2026-10-21T18:29:48.155216+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
