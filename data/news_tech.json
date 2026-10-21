@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T12:58:53.734695+00:00",
+  "updated": "2026-10-21T13:04:00.940348+00:00",
   "items": [
+    {
+      "title": "Mach9 raises $34M after pivoting to AI CAD software",
+      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software",
+      "source": "TechCrunch",
+      "published": "2026-10-21T13:00:00+00:00",
+      "retrieved_at": "2026-10-21T13:03:55.346669+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f3049a13bf4884ae2f53e198"
+    },
     {
       "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
       "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
@@ -51,6 +68,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1a0eda0370906e07dd7424ec"
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI",
+      "published": "2026-10-21T12:00:00+00:00",
+      "retrieved_at": "2026-10-21T13:03:53.412780+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "c99c0341fc46b581fa5faf60"
     },
     {
       "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f87aa172d0ef14a2ed9153c4"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages",
-      "source": "TechCrunch",
-      "published": "2026-10-10T14:00:00+00:00",
-      "retrieved_at": "2026-10-10T14:02:59.401539+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d09820ef9e18411bc0d1000d"
-    },
-    {
-      "title": "AI Is Getting Really Good at Messing With Cybercriminals",
-      "url": "https://wired.com/story/ai-is-getting-really-good-at-messing-with-cybercriminals",
-      "source": "Wired",
-      "published": "2026-10-10T12:00:00+00:00",
-      "retrieved_at": "2026-10-10T12:07:57.178564+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Anti-cybercrime initiatives are increasingly using AI to scam the scammers by tricking them into talking to lifelike bots that they think are real victims.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1b76d9a031fcb8341583305e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T12:58:50.166084+00:00",
+    "checked_at": "2026-10-21T13:03:52.524830+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
