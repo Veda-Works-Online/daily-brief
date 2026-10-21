@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-21T16:39:47.514726+00:00",
+  "updated": "2026-10-21T16:44:53.746644+00:00",
   "items": [
     {
       "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
       "source": "Hugging Face",
       "published": "2026-10-21T16:04:43+00:00",
-      "retrieved_at": "2026-10-21T16:09:42.133212+00:00",
+      "retrieved_at": "2026-10-21T16:44:47.158447+00:00",
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "summary": "",
       "isAI": true,
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T16:39:38.626983+00:00",
+    "checked_at": "2026-10-21T16:44:46.551565+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
