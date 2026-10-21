@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-21T19:39:57.408118+00:00",
+  "updated": "2026-10-21T19:55:05.656502+00:00",
   "items": [
+    {
+      "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+      "url": "https://dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190",
+      "source": "DW",
+      "published": "2026-10-21T19:32:00+00:00",
+      "retrieved_at": "2026-10-21T19:54:57.780147+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part?",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "998f7c97142c7cba8cfce4f3"
+    },
     {
       "title": "What China wants from a Trump-Putin summit on Ukraine",
       "url": "https://dw.com/en/what-china-wants-from-a-trump-putin-summit-on-ukraine/a-79726190",
@@ -978,22 +994,6 @@
       "story_fingerprint": "f4f7b449535eadbd8e0554b4"
     },
     {
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "url": "https://bbc.co.uk/news/articles/cqrkyj13m588o",
-      "source": "BBC World",
-      "published": "2026-10-20T19:30:05+00:00",
-      "retrieved_at": "2026-10-20T19:41:31.912190+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ee2e4c7873f1437040c45acf"
-    },
-    {
       "title": "Reading Pyongyang Through the Cracks of the International System",
       "url": "https://warontherocks.com/reading-pyongyang-through-the-cracks-of-the-international-system",
       "source": "War on the Rocks",
@@ -1008,6 +1008,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f5ac4a93e011059b675acff7"
+    },
+    {
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "url": "https://bbc.co.uk/news/articles/cqrkyj13m588o",
+      "source": "BBC World",
+      "published": "2026-10-20T19:30:05+00:00",
+      "retrieved_at": "2026-10-20T19:41:31.912190+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ee2e4c7873f1437040c45acf"
     },
     {
       "title": "Can a humanitarian crisis in Gaza be averted?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e211a9091c654cae02b59518"
-    },
-    {
-      "title": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire",
-      "url": "https://aljazeera.com/news/liveblog/2026/10/17/draft-2",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T00:00:00+00:00",
-      "retrieved_at": "2026-10-17T02:22:34.566669+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran’s IRGC says an oil supertanker is on fire in the Strait of Hormuz after striking a naval mine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1ec7adf4a92685a3488a803d"
     }
   ],
   "unverified_history": [

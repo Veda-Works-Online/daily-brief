@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T19:49:53.806549+00:00",
+  "updated": "2026-10-21T19:54:54.206081+00:00",
   "items": [
+    {
+      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+      "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers",
+      "source": "TechCrunch",
+      "published": "2026-10-21T19:52:20+00:00",
+      "retrieved_at": "2026-10-21T19:54:48.836056+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1443a58b1e8a24ea01bb978c"
+    },
     {
       "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
       "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a45efabc90d8ad14e35136a3"
-    },
-    {
-      "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police",
-      "source": "Ars Technica AI",
-      "published": "2026-10-12T18:21:36+00:00",
-      "retrieved_at": "2026-10-12T18:24:04.767983+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5f00525d9e6aaf4a547bc723"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T19:49:44.207097+00:00",
+    "checked_at": "2026-10-21T19:54:47.716867+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
