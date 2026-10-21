@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T22:50:37.977116+00:00",
+  "updated": "2026-10-21T22:55:40.721479+00:00",
   "items": [
+    {
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
+      "source": "TechCrunch AI",
+      "published": "2026-10-21T22:51:22+00:00",
+      "retrieved_at": "2026-10-21T22:55:33.232904+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e9f4e5b08002d0c24f1c385c"
+    },
     {
       "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
       "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "90409339cae42c853b94bacf"
-    },
-    {
-      "title": "Apple Reboots Its Smart-Home Strategy With New Hardware and a ‘Home Collection’",
-      "url": "https://wired.com/story/apple-overhauls-its-smart-home-play-with-new-hardware-and-a-home-collection",
-      "source": "Wired",
-      "published": "2026-10-13T13:00:00+00:00",
-      "retrieved_at": "2026-10-13T13:02:59.083703+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "I got an early glimpse of Apple’s biggest push into the smart home in years.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c6da382fea7c926e86acb3bb"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T22:50:31.834585+00:00",
+    "checked_at": "2026-10-21T22:55:32.341687+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
