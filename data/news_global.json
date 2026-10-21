@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-21T08:27:48.025192+00:00",
+  "updated": "2026-10-21T08:52:50.256809+00:00",
   "items": [
+    {
+      "title": "Trump snaps at reporter, ordering him to be quiet",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/21/trump-snaps-at-reporter-ordering-him-to-be-quiet",
+      "source": "Al Jazeera",
+      "published": "2026-10-21T08:29:08+00:00",
+      "retrieved_at": "2026-10-21T08:52:47.225542+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US President Donald Trump became visibly angry as he berated a reporter who attempted to ask a question.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f9ae43e620433bae2d108a1a"
+    },
     {
       "title": "Zelensky says intelligence sharing 'works now' as US envoy to meet Putin in Russia",
       "url": "https://bbc.co.uk/news/articles/cq5ynkx3xy11o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1333eb45e7b625c1e1aa2e0f"
-    },
-    {
-      "title": "‘Trying to dominate’: In Cyprus, some fear Israel’s growing influence",
-      "url": "https://aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T11:54:10+00:00",
-      "retrieved_at": "2026-10-16T12:35:22.000245+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel now reaches into Cyprus’s water, gas, health and defence and many Cypriots fear their island is losing control.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "020710a4551530a5994083d2"
     }
   ],
   "unverified_history": [
