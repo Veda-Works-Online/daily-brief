@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T13:29:03.623447+00:00",
+  "updated": "2026-10-21T13:39:03.357591+00:00",
   "items": [
     {
       "title": "France’s Macron says protesters won’t be allowed to ‘cause chaos’",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e1705cfb23d60325931c0c72"
+    },
+    {
+      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "url": "https://bbc.co.uk/news/articles/c6m24l9v3745o",
+      "source": "BBC World",
+      "published": "2026-10-21T12:32:01+00:00",
+      "retrieved_at": "2026-10-21T13:39:00.318942+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9df3548510ceb06b6ff3b93e"
     },
     {
       "title": "Macron says Trump spread rumours about protests",
@@ -48,22 +64,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2daeb375f722f2833abf9eb8"
-    },
-    {
-      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-      "url": "https://bbc.co.uk/news/articles/c6m24l9v3745o",
-      "source": "BBC World",
-      "published": "2026-10-21T11:39:25+00:00",
-      "retrieved_at": "2026-10-21T11:43:47.823717+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The 74-year-old former teacher has been released without any \"swap\" required, Trump says.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9df3548510ceb06b6ff3b93e"
     },
     {
       "title": "Why are French protesters chanting ‘Bismillah, c’est les ténèbres’?",
