@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-21T18:49:50.044039+00:00",
+  "updated": "2026-10-21T18:54:47.511165+00:00",
   "items": [
+    {
+      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation",
+      "source": "TechCrunch",
+      "published": "2026-10-21T18:51:56+00:00",
+      "retrieved_at": "2026-10-21T18:54:43.488572+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8bc967225da18fc61c6493f1"
+    },
+    {
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity",
+      "source": "Ars Technica AI",
+      "published": "2026-10-21T18:51:42+00:00",
+      "retrieved_at": "2026-10-21T18:54:43.224690+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8ea3d15ac445491ca261392c"
+    },
     {
       "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
       "url": "https://huggingface.co/blog/nvidia/kumo-relational",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "37adf0519e08228a4c2aa9be"
-    },
-    {
-      "title": "Muse Wonder Puts Meta Back at the AI Frontier",
-      "url": "https://wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier",
-      "source": "Wired",
-      "published": "2026-10-12T17:00:27+00:00",
-      "retrieved_at": "2026-10-12T17:09:08.166571+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ca4588eb6d62ac9dd746efd9"
-    },
-    {
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company",
-      "source": "TechCrunch AI",
-      "published": "2026-10-12T15:45:00+00:00",
-      "retrieved_at": "2026-10-12T18:24:04.225409+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "142a35bc8d6ac58a278fbd4e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T18:49:44.920782+00:00",
+    "checked_at": "2026-10-21T18:54:42.342991+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
