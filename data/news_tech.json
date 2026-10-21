@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T18:14:51.561393+00:00",
+  "updated": "2026-10-21T18:19:56.129690+00:00",
   "items": [
     {
       "title": "GM is giving OnStar an AI makeover",
@@ -102,6 +102,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f8a014a79cde6386fe3e820c"
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "source": "OpenAI",
+      "published": "2026-10-21T17:00:00+00:00",
+      "retrieved_at": "2026-10-21T18:19:50.461400+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "ec33a738710c6fe219b71fa0"
     },
     {
       "title": "Waymo starts offering rides at the Las Vegas airport",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "395c26a26a5c59d5ef80b8a4"
-    },
-    {
-      "title": "‘The Sixty-Year Mission’ Brings the Legacy of ‘Star Trek’ to a New Generation",
-      "url": "https://wired.com/story/new-york-comic-con-star-trek",
-      "source": "Wired",
-      "published": "2026-10-12T13:30:00+00:00",
-      "retrieved_at": "2026-10-12T13:42:25.757826+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The documentary chronicles how Star Trek’s positions on everything from race to AI were way ahead of their time.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5a00b6ae9c1f46f48872e5c8"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T18:14:43.477585+00:00",
+    "checked_at": "2026-10-21T18:19:49.441304+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
