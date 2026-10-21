@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T17:34:50.917974+00:00",
+  "updated": "2026-10-21T17:39:44.158449+00:00",
   "items": [
+    {
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "source": "Hugging Face",
+      "published": "2026-10-21T17:35:36+00:00",
+      "retrieved_at": "2026-10-21T17:39:39.488980+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "269a23f83b9a46fffc9260a9"
+    },
     {
       "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
       "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a26d2e457d095eb7376a5c05"
-    },
-    {
-      "title": "AlterMe Review: Fitness Built Around My DNA",
-      "url": "https://wired.com/review/alterme-fitness-and-wellness-program",
-      "source": "Wired",
-      "published": "2026-10-12T10:34:00+00:00",
-      "retrieved_at": "2026-10-12T10:40:12.244322+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Six months with AlterMe’s smart ring and a fitness app helped me build better habits, but the genetic insights were less revealing than I’d hoped.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cfb774d62bde8f64ab1909da"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T17:34:45.813855+00:00",
+    "checked_at": "2026-10-21T17:39:38.846580+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
