@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T10:58:45.390544+00:00",
+  "updated": "2026-10-21T11:03:41.933812+00:00",
   "items": [
+    {
+      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+      "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+      "source": "Hugging Face",
+      "published": "2026-10-21T10:59:42+00:00",
+      "retrieved_at": "2026-10-21T11:03:35.897427+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "d14e64582353ce564bb306eb"
+    },
     {
       "title": "NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models",
       "url": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "11155b4e733b9ee2f00fb967"
-    },
-    {
-      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch",
-      "source": "TechCrunch AI",
-      "published": "2026-10-09T21:41:29+00:00",
-      "retrieved_at": "2026-10-09T22:40:55.667993+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "118e33c646679f661ca3d848"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T10:58:36.004523+00:00",
+    "checked_at": "2026-10-21T11:03:35.194255+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
