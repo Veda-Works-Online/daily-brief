@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T09:03:04.554487+00:00",
+  "updated": "2026-10-21T09:12:52.424960+00:00",
   "items": [
     {
       "title": "Trump snaps at reporter, ordering him to be quiet",
@@ -112,6 +112,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "41e5fe53bf74a8eeeb8c5018"
+    },
+    {
+      "title": "US envoy to meet Putin after 'positive' talks with Zelenskyy",
+      "url": "https://dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452",
+      "source": "DW",
+      "published": "2026-10-21T06:46:00+00:00",
+      "retrieved_at": "2026-10-21T09:12:49.986999+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Steve Witkoff landed in St. Petersburg for talks on ending the war in Ukraine. It comes a day after he met with Ukrainian President Volodomyr Zelenskyy in Norway.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5f5480a61306a74c347482c1"
     },
     {
       "title": "Gaza children face worsening food shortages as prices rise and aid is cut",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bc296ddb0c1f7fc6445c3bce"
-    },
-    {
-      "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-      "url": "https://bbc.co.uk/news/articles/cq398zl8jmvdo",
-      "source": "BBC World",
-      "published": "2026-10-16T12:16:42+00:00",
-      "retrieved_at": "2026-10-16T12:25:26.932300+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1333eb45e7b625c1e1aa2e0f"
     }
   ],
   "unverified_history": [
