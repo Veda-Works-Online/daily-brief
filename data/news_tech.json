@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T13:28:58.171957+00:00",
+  "updated": "2026-10-21T13:33:49.813525+00:00",
   "items": [
+    {
+      "title": "Heat pump tech is 170 years old. Pascal thinks it’s time for an update.",
+      "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update",
+      "source": "TechCrunch",
+      "published": "2026-10-21T13:30:00+00:00",
+      "retrieved_at": "2026-10-21T13:33:41.625060+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8272218e03d2af021b94bd1e"
+    },
     {
       "title": "Mach9 raises $34M after pivoting to AI CAD software",
       "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4c74d1a0d2543f0a9b44ea42"
-    },
-    {
-      "title": "Cloudflare acquires Deno to improve its Workers programming model",
-      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model",
-      "source": "TechCrunch",
-      "published": "2026-10-10T16:25:42+00:00",
-      "retrieved_at": "2026-10-10T16:28:49.229312+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f87aa172d0ef14a2ed9153c4"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T13:28:48.947768+00:00",
+    "checked_at": "2026-10-21T13:33:40.376060+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
