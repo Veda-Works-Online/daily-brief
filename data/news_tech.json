@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T08:32:56.556115+00:00",
+  "updated": "2026-10-21T08:37:45.304359+00:00",
   "items": [
+    {
+      "title": "Can Europe Build Data Centers Without Giving Up Its Climate Goals?",
+      "url": "https://wired.com/story/europe-data-centers-climate-change",
+      "source": "Wired",
+      "published": "2026-10-21T08:30:00+00:00",
+      "retrieved_at": "2026-10-21T08:37:42.128495+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2ba2f9b01a78884d4441dc80"
+    },
     {
       "title": "Southeast Asia’s digital economy to hit $368 billion",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4f7d594b498a66eab12ac1a2"
-    },
-    {
-      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-      "url": "https://wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting",
-      "source": "Wired",
-      "published": "2026-10-09T19:28:49+00:00",
-      "retrieved_at": "2026-10-09T19:36:07.672074+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6d51d4c9f7902d16e2918373"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T08:32:53.246336+00:00",
+    "checked_at": "2026-10-21T08:37:40.949549+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
