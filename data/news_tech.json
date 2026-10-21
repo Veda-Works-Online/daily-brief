@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T20:25:37.235299+00:00",
+  "updated": "2026-10-21T20:30:33.596800+00:00",
   "items": [
+    {
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+      "source": "TechCrunch AI",
+      "published": "2026-10-21T20:27:41+00:00",
+      "retrieved_at": "2026-10-21T20:30:28.191931+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4cc3364b9b545dda8c17d53f"
+    },
     {
       "title": "GM is betting compute and AI will help it compete with Chinese automakers",
       "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
       "source_type": "PUBLISHER",
       "story_fingerprint": "366ebdedcd91c0fc9e87ea87"
-    },
-    {
-      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration",
-      "source": "Ars Technica AI",
-      "published": "2026-10-12T20:59:50+00:00",
-      "retrieved_at": "2026-10-12T21:13:59.365587+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1eb7b3817d687175f06817e7"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T20:25:31.014002+00:00",
+    "checked_at": "2026-10-21T20:30:27.187045+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
