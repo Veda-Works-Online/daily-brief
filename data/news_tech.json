@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T22:55:40.721479+00:00",
+  "updated": "2026-10-21T23:00:38.324215+00:00",
   "items": [
     {
       "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
@@ -359,19 +359,19 @@
       "story_fingerprint": "bbee17d1a9467b51014226ef"
     },
     {
-      "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
       "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-      "source": "TechCrunch",
+      "source": "TechCrunch AI",
       "published": "2026-10-21T17:59:12+00:00",
-      "retrieved_at": "2026-10-21T17:59:43.967177+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
+      "retrieved_at": "2026-10-21T23:00:33.009581+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d15b04fa8c59ea7589527606"
     },
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T22:55:32.341687+00:00",
+    "checked_at": "2026-10-21T23:00:32.125694+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
