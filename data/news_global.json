@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-21T06:12:42.225112+00:00",
+  "updated": "2026-10-21T06:42:47.285494+00:00",
   "items": [
+    {
+      "title": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'",
+      "url": "https://bbc.co.uk/news/articles/cq5ynkx3xy11o",
+      "source": "BBC World",
+      "published": "2026-10-21T06:37:55+00:00",
+      "retrieved_at": "2026-10-21T06:42:44.583219+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Steve Witkoff is in St Petersburg to discuss proposals on ending Russia's years-long conflict with Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6a0951fae578f67768c4dafb"
+    },
     {
       "title": "Gaza children face worsening food shortages as prices rise and aid is cut",
       "url": "https://aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut",
@@ -32,22 +48,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "121e2edefde6b98f7a5bdad6"
-    },
-    {
-      "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
-      "url": "https://bbc.co.uk/news/articles/cq5ynkx3xy11o",
-      "source": "BBC World",
-      "published": "2026-10-21T03:59:18+00:00",
-      "retrieved_at": "2026-10-21T04:02:25.523879+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "154e6a1759f517cf4fc2345a"
     },
     {
       "title": "Portugal cost-of-living protesters pour back into camps cleared by police",
