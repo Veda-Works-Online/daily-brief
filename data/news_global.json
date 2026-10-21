@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-21T07:57:52.158905+00:00",
+  "updated": "2026-10-21T08:22:51.620261+00:00",
   "items": [
+    {
+      "title": "Zelensky says intelligence sharing 'works now' as US envoy to meet Putin in Russia",
+      "url": "https://bbc.co.uk/news/articles/cq5ynkx3xy11o",
+      "source": "BBC World",
+      "published": "2026-10-21T08:18:53+00:00",
+      "retrieved_at": "2026-10-21T08:22:48.737393+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Steve Witkoff has landed in St Petersburg to discuss proposals on ending Russia's years-long conflict with Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f666307d2c904be79e087713"
+    },
     {
       "title": "Witkoff in Russia for Putin meeting after ‘positive’ talks with Zelenskyy",
       "url": "https://aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy",
@@ -48,22 +64,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "41e5fe53bf74a8eeeb8c5018"
-    },
-    {
-      "title": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'",
-      "url": "https://bbc.co.uk/news/articles/cq5ynkx3xy11o",
-      "source": "BBC World",
-      "published": "2026-10-21T06:37:55+00:00",
-      "retrieved_at": "2026-10-21T06:42:44.583219+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Steve Witkoff is in St Petersburg to discuss proposals on ending Russia's years-long conflict with Ukraine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6a0951fae578f67768c4dafb"
     },
     {
       "title": "Gaza children face worsening food shortages as prices rise and aid is cut",
