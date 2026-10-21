@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T14:53:59.209500+00:00",
+  "updated": "2026-10-21T14:59:51.683810+00:00",
   "items": [
+    {
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "source": "Hugging Face",
+      "published": "2026-10-21T14:58:18+00:00",
+      "retrieved_at": "2026-10-21T14:59:45.209844+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "9765c5ea411dc1048aa0398c"
+    },
     {
       "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
       "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bd91b06002b32814f1dc94f1"
-    },
-    {
-      "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
-      "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis",
-      "source": "TechCrunch",
-      "published": "2026-10-11T15:00:00+00:00",
-      "retrieved_at": "2026-10-12T14:32:24.268883+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "This Battlefield 200 startup has developed blood-purification tech to save children.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "26b5e9f3d7db46ce423a52e8"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T14:53:51.133588+00:00",
+    "checked_at": "2026-10-21T14:59:44.598094+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

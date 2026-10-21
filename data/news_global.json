@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-21T14:39:00.412991+00:00",
+  "updated": "2026-10-21T15:00:00.142911+00:00",
   "items": [
+    {
+      "title": "Russia releases American Stephen Hubbard after four years in prison",
+      "url": "https://aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison",
+      "source": "Al Jazeera",
+      "published": "2026-10-21T14:31:53+00:00",
+      "retrieved_at": "2026-10-21T14:59:55.227517+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Hubbard was jailed after being accused of fighting alongside Ukrainian forces against Russia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "079281bb99a46969b953e17f"
+    },
     {
       "title": "Macron accuses foreign leaders of exploiting French riots",
       "url": "https://bbc.co.uk/news/articles/ckjrw044ggxgo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e43f5c4ecd3ba2c46ea4882e"
-    },
-    {
-      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-      "url": "https://bbc.co.uk/news/articles/c58jz174w89ro",
-      "source": "BBC World",
-      "published": "2026-10-16T14:44:11+00:00",
-      "retrieved_at": "2026-10-16T14:45:32.920072+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "aebc18064558f1f1e21fbf8c"
     }
   ],
   "unverified_history": [
