@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T22:40:40.006709+00:00",
+  "updated": "2026-10-21T22:45:44.384995+00:00",
   "items": [
+    {
+      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "url": "https://wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure",
+      "source": "Wired",
+      "published": "2026-10-21T22:39:50+00:00",
+      "retrieved_at": "2026-10-21T22:45:38.050977+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "114d97fbb0fe93226deaee03"
+    },
     {
       "title": "Airbnb limits chores for guests, sparking backlash from hosts",
       "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "da22e2e572388f00b0fe04a7"
-    },
-    {
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy",
-      "source": "TechCrunch AI",
-      "published": "2026-10-13T12:23:42+00:00",
-      "retrieved_at": "2026-10-13T12:26:58.485082+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The startup will sell some of its assets to Disney for $20 million.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a7dbad146f65c0cbb9f8bb9a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T22:40:30.700225+00:00",
+    "checked_at": "2026-10-21T22:45:36.188221+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
