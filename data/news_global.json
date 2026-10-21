@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T09:32:51.337651+00:00",
+  "updated": "2026-10-21T09:37:44.994864+00:00",
   "items": [
     {
       "title": "Russia frees US citizen Stephen Hubbard, state media reports",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "84279187fb579fb6cd8d005b"
+    },
+    {
+      "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
+      "url": "https://aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp",
+      "source": "Al Jazeera",
+      "published": "2026-10-21T09:02:18+00:00",
+      "retrieved_at": "2026-10-21T09:37:41.862450+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Smoke seen rising near airport in Aden as Houthis say they attacked a military camp with a ballistic missile.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "945f88acdc411896c2979998"
     },
     {
       "title": "Trump snaps at reporter, ordering him to be quiet",
@@ -130,11 +146,11 @@
       "story_fingerprint": "41e5fe53bf74a8eeeb8c5018"
     },
     {
-      "title": "US envoy to meet Putin after 'positive' talks with Zelenskyy",
-      "url": "https://dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452",
+      "title": "US envoy meets Putin after 'positive' talks with Zelenskyy",
+      "url": "https://dw.com/en/us-envoy-meets-putin-after-positive-talks-with-zelenskyy/a-79719452",
       "source": "DW",
       "published": "2026-10-21T06:46:00+00:00",
-      "retrieved_at": "2026-10-21T09:12:49.986999+00:00",
+      "retrieved_at": "2026-10-21T09:37:42.438610+00:00",
       "feed_url": "https://rss.dw.com/rdf/rss-en-world",
       "summary": "Steve Witkoff landed in St. Petersburg for talks on ending the war in Ukraine. It comes a day after he met with Ukrainian President Volodomyr Zelenskyy in Norway.",
       "category": "global",
@@ -143,7 +159,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "5f5480a61306a74c347482c1"
+      "story_fingerprint": "0fb80262d0642912954dba71"
     },
     {
       "title": "Gaza children face worsening food shortages as prices rise and aid is cut",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f597ad821d3d99b8307f6ec8"
-    },
-    {
-      "title": "India police detain ‘Cockroach’ party founder ahead of protest",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/16/india-police-detain-cockroach-party-founder-ahead-of-protest",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T12:55:54+00:00",
-      "retrieved_at": "2026-10-16T13:30:44.838431+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Indian police detained Cockroach Janta Party founder Abhijeet Dipke ahead of a protest.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a7bca488f7b17ebf51122f63"
     }
   ],
   "unverified_history": [
