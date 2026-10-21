@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T01:27:11.834218+00:00",
+  "updated": "2026-10-21T01:32:13.670454+00:00",
   "items": [
     {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
@@ -495,23 +495,6 @@
       "story_fingerprint": "17e3dd517dc6985c0454aace"
     },
     {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
-      "source": "TechCrunch",
-      "published": "2026-10-20T11:00:00+00:00",
-      "retrieved_at": "2026-10-20T11:04:45.981565+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d60f3ccf9d14bd63ef765767"
-    },
-    {
       "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
       "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
       "source": "TechCrunch AI",
@@ -527,6 +510,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "22d8b4128919bbbf0783dd4e"
+    },
+    {
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
+      "source": "TechCrunch",
+      "published": "2026-10-20T11:00:00+00:00",
+      "retrieved_at": "2026-10-20T11:04:45.981565+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d60f3ccf9d14bd63ef765767"
     },
     {
       "title": "This New Food Delivery App Could Be the Antidote to Menu Markups",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T01:27:06.768626+00:00",
+    "checked_at": "2026-10-21T01:32:05.643490+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
