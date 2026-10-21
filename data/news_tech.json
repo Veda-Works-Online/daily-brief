@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T10:38:41.709790+00:00",
+  "updated": "2026-10-21T10:43:42.294350+00:00",
   "items": [
+    {
+      "title": "NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
+      "source": "Hugging Face",
+      "published": "2026-10-21T10:41:36+00:00",
+      "retrieved_at": "2026-10-21T10:43:35.969537+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "901270c7a581f8060c7ceea9"
+    },
     {
       "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
       "url": "https://wired.com/story/openai-startup-brain-implants-detect-cancer",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "118e33c646679f661ca3d848"
-    },
-    {
-      "title": "AI coding agents generate more code, but not more software",
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
-      "source": "Ars Technica AI",
-      "published": "2026-10-09T19:43:50+00:00",
-      "retrieved_at": "2026-10-09T19:46:04.482677+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "845612c63e7ec7d402238675"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T10:38:35.092029+00:00",
+    "checked_at": "2026-10-21T10:43:35.272372+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
