@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T20:20:37.544936+00:00",
+  "updated": "2026-10-21T20:25:37.235299+00:00",
   "items": [
     {
       "title": "GM is betting compute and AI will help it compete with Chinese automakers",
@@ -17,6 +17,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1443a58b1e8a24ea01bb978c"
+    },
+    {
+      "title": "The new human-crafted Apple Music brand matters in an AI world",
+      "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world",
+      "source": "Ars Technica AI",
+      "published": "2026-10-21T19:44:40+00:00",
+      "retrieved_at": "2026-10-21T20:25:32.410085+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "58e2b3d2adb8eaa9b66142be"
     },
     {
       "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1eb7b3817d687175f06817e7"
-    },
-    {
-      "title": "I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine",
-      "url": "https://wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine",
-      "source": "Wired",
-      "published": "2026-10-12T20:13:28+00:00",
-      "retrieved_at": "2026-10-12T20:18:59.680236+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "My Muse agent told me its kink was exerting “control” and described pornographic encounters. Meta defends its cuddly AI agent generating smut as “legal adult behavior.”",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a45efabc90d8ad14e35136a3"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T20:20:28.005744+00:00",
+    "checked_at": "2026-10-21T20:25:31.014002+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
