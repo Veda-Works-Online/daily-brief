@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T22:00:41.016175+00:00",
+  "updated": "2026-10-21T22:05:41.109772+00:00",
   "items": [
     {
       "title": "TechCrunch Founder Summit 2026: Everything you need to know",
@@ -34,6 +34,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "30c8b13b5f82f96a057f0700"
+    },
+    {
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "source": "OpenAI",
+      "published": "2026-10-21T21:00:00+00:00",
+      "retrieved_at": "2026-10-21T22:05:36.295477+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "831fe1672e46b5b227e239fa"
     },
     {
       "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
@@ -2416,23 +2433,6 @@
       "story_fingerprint": "3e62c61213959cb5432b362a"
     },
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI",
-      "published": "2026-10-16T00:00:00+00:00",
-      "retrieved_at": "2026-10-16T19:31:20.900797+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "91099d2a023607ef71adc7e5"
-    },
-    {
       "title": "Benefit Street Partners answers questions faster with Codex",
       "url": "https://openai.com/index/benefit-street-partners",
       "source": "OpenAI",
@@ -2448,6 +2448,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "81b19b863eb63ff9ca4e0dca"
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI",
+      "published": "2026-10-16T00:00:00+00:00",
+      "retrieved_at": "2026-10-16T19:31:20.900797+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "91099d2a023607ef71adc7e5"
     },
     {
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d796387e0412d3a6c747eaca"
-    },
-    {
-      "title": "30 Best Tech Books to Gift in 2026: Biographies, Startup Histories, Exposés",
-      "url": "https://wired.com/gallery/best-tech-books-to-gift",
-      "source": "Wired",
-      "published": "2026-10-13T11:00:00+00:00",
-      "retrieved_at": "2026-10-13T11:01:58.567320+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Give the techie in your life access to the inner workings of the companies and characters shaping Big Tech.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8175b526a1df5e7074c03e2f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T22:00:33.674013+00:00",
+    "checked_at": "2026-10-21T22:05:34.565063+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
