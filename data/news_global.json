@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-21T19:20:03.700497+00:00",
+  "updated": "2026-10-21T19:39:57.408118+00:00",
   "items": [
+    {
+      "title": "What China wants from a Trump-Putin summit on Ukraine",
+      "url": "https://dw.com/en/what-china-wants-from-a-trump-putin-summit-on-ukraine/a-79726190",
+      "source": "DW",
+      "published": "2026-10-21T19:32:00+00:00",
+      "retrieved_at": "2026-10-21T19:39:53.147646+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part?",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3606847b1352d55387787120"
+    },
+    {
+      "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+      "url": "https://bbc.co.uk/news/articles/c62kepvg2x9lo",
+      "source": "BBC World",
+      "published": "2026-10-21T19:29:40+00:00",
+      "retrieved_at": "2026-10-21T19:39:52.743669+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d6e4f81bff689e3c33965b68"
+    },
     {
       "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1ec7adf4a92685a3488a803d"
-    },
-    {
-      "title": "Trump mocks Middle Eastern names with ‘Mohammed’ joke",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/16/trump-mocks-middle-eastern-names-with-mohammed-joke",
-      "source": "Al Jazeera",
-      "published": "2026-10-16T23:55:57+00:00",
-      "retrieved_at": "2026-10-17T00:02:03.281064+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "“If you’re in doubt about somebody’s name from the Middle East, just say ‘Mohammed,’” says US President Donald Trump.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4a6f3f46b0cdea9af23c9909"
-    },
-    {
-      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-      "url": "https://bbc.co.uk/news/articles/c64g18ljjd8do",
-      "source": "BBC World",
-      "published": "2026-10-16T23:54:35+00:00",
-      "retrieved_at": "2026-10-17T00:02:03.312722+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "91010533e52625cb59f4bc8e"
     }
   ],
   "unverified_history": [
