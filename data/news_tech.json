@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T16:04:45.544508+00:00",
+  "updated": "2026-10-21T16:09:46.411826+00:00",
   "items": [
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+      "source": "Hugging Face",
+      "published": "2026-10-21T16:04:43+00:00",
+      "retrieved_at": "2026-10-21T16:09:42.133212+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "0cabc054a0fe2f48a169c01e"
+    },
     {
       "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
       "url": "https://wired.com/story/recursive-self-improvement-flint-latest-model-scary-good",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2772406bcaecdbe5ff91faea"
-    },
-    {
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success",
-      "source": "TechCrunch AI",
-      "published": "2026-10-11T21:14:40+00:00",
-      "retrieved_at": "2026-10-11T23:03:37.848459+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5b3908a241a96dfa8e7e0ab4"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T16:04:40.621335+00:00",
+    "checked_at": "2026-10-21T16:09:41.524934+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
