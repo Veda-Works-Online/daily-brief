@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-21T20:10:57.003802+00:00",
+  "updated": "2026-10-21T20:15:53.090667+00:00",
   "items": [
+    {
+      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+      "url": "https://bbc.co.uk/news/articles/cm98zn5j89kdo",
+      "source": "BBC World",
+      "published": "2026-10-21T19:58:06+00:00",
+      "retrieved_at": "2026-10-21T20:15:47.899257+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Russia's President Putin does not feel under pressure right now to end the war.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "63166fdae622c71ed9cb4d92"
+    },
     {
       "title": "Cuba accuses US of threatening countries ahead of UN embargo vote",
       "url": "https://aljazeera.com/news/2026/10/21/cuba-accuses-us-of-threatening-countries-ahead-of-un-embargo-vote",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fa835e1d05d5f0176b3cf082"
-    },
-    {
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "url": "https://bbc.co.uk/news/articles/cqe8rzg6zl00o",
-      "source": "BBC World",
-      "published": "2026-10-17T02:33:09+00:00",
-      "retrieved_at": "2026-10-17T02:42:37.124427+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5bfa93a645559cf46e03b7d1"
     }
   ],
   "unverified_history": [
