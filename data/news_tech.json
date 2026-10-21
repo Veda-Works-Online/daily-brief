@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T10:33:42.734117+00:00",
+  "updated": "2026-10-21T10:38:41.709790+00:00",
   "items": [
+    {
+      "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+      "url": "https://wired.com/story/openai-startup-brain-implants-detect-cancer",
+      "source": "Wired",
+      "published": "2026-10-21T10:30:00+00:00",
+      "retrieved_at": "2026-10-21T10:38:36.330927+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6f29845942b917543a5822ee"
+    },
     {
       "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in The Way",
       "url": "https://wired.com/story/europe-data-centers-climate-change",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "845612c63e7ec7d402238675"
-    },
-    {
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
-      "source": "TechCrunch AI",
-      "published": "2026-10-09T19:36:56+00:00",
-      "retrieved_at": "2026-10-09T19:41:03.084349+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4f7d594b498a66eab12ac1a2"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T10:33:39.097992+00:00",
+    "checked_at": "2026-10-21T10:38:35.092029+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
