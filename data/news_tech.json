@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T12:38:59.342780+00:00",
+  "updated": "2026-10-21T12:44:04.132233+00:00",
   "items": [
+    {
+      "title": "Protein Design with RFD4-Proteina and Hugging Face Spaces",
+      "url": "https://huggingface.co/blog/nvidia/rfd4-proteina-protein-design",
+      "source": "Hugging Face",
+      "published": "2026-10-21T12:39:49+00:00",
+      "retrieved_at": "2026-10-21T12:43:54.416550+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "6e40d70dde8273501d4ebd19"
+    },
     {
       "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
       "url": "https://wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "59c11ef5b570caad5b502f26"
-    },
-    {
-      "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-      "source": "TechCrunch AI",
-      "published": "2026-10-10T00:18:32+00:00",
-      "retrieved_at": "2026-10-12T16:37:20.996049+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed databases without paying fees, used URL-shortening services to smuggle information past restrictions, and even submitted a false murder tip to the Philadelphia police.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1a2593176888b4aa092fa58c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T12:38:52.008702+00:00",
+    "checked_at": "2026-10-21T12:43:53.645529+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
