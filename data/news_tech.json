@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T19:14:51.136711+00:00",
+  "updated": "2026-10-21T19:19:55.538633+00:00",
   "items": [
     {
       "title": "The internet is having a very bad cybersecurity day",
@@ -595,6 +595,23 @@
       "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
       "source_type": "PRIMARY",
       "story_fingerprint": "86f8d46d45c150efc482562b"
+    },
+    {
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "source": "OpenAI",
+      "published": "2026-10-21T00:00:00+00:00",
+      "retrieved_at": "2026-10-21T19:19:50.471203+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "7bb213f0d370459060650275"
     },
     {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1f32658553554a56b7f41ae8"
-    },
-    {
-      "title": "Russia was not ready for the data center war it started with Ukraine",
-      "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine",
-      "source": "Ars Technica AI",
-      "published": "2026-10-12T17:52:36+00:00",
-      "retrieved_at": "2026-10-12T17:54:05.889312+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "19c677c3ce26473177e2a731"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T19:14:46.069382+00:00",
+    "checked_at": "2026-10-21T19:19:49.416164+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
