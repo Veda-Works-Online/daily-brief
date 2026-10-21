@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T14:59:51.683810+00:00",
+  "updated": "2026-10-21T15:04:43.727547+00:00",
   "items": [
+    {
+      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
+      "url": "https://wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers",
+      "source": "Wired",
+      "published": "2026-10-21T15:02:15+00:00",
+      "retrieved_at": "2026-10-21T15:04:39.875716+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled their new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "38ae8f285503f04207ebe722"
+    },
     {
       "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
       "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "24f51d476934d90fb0daa984"
-    },
-    {
-      "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
-      "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks",
-      "source": "TechCrunch",
-      "published": "2026-10-11T16:02:00+00:00",
-      "retrieved_at": "2026-10-11T16:02:53.050469+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bd91b06002b32814f1dc94f1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T14:59:44.598094+00:00",
+    "checked_at": "2026-10-21T15:04:38.667707+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
