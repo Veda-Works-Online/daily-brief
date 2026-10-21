@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T17:14:58.236493+00:00",
+  "updated": "2026-10-21T17:19:41.368313+00:00",
   "items": [
+    {
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c",
+      "source": "TechCrunch",
+      "published": "2026-10-21T17:18:27+00:00",
+      "retrieved_at": "2026-10-21T17:19:37.259876+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f8a014a79cde6386fe3e820c"
+    },
     {
       "title": "Waymo starts offering rides at the Las Vegas airport",
       "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cfb774d62bde8f64ab1909da"
-    },
-    {
-      "title": "The Best Gifts for the Techie in Your Life (2026)",
-      "url": "https://wired.com/story/best-tech-gifts",
-      "source": "Wired",
-      "published": "2026-10-12T10:00:00+00:00",
-      "retrieved_at": "2026-10-12T10:05:13.435494+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Don’t buy a loved one something you wouldn’t want for yourself. These are the must-haves that tech enthusiasts have on their wish lists this year.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1d6e5ba936bff9889dd6fb6d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T17:14:53.035296+00:00",
+    "checked_at": "2026-10-21T17:19:36.128188+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
