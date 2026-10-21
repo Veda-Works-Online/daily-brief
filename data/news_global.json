@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-21T10:43:47.982247+00:00",
+  "updated": "2026-10-21T10:53:47.452276+00:00",
   "items": [
+    {
+      "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
+      "url": "https://bbc.co.uk/news/articles/c6m24l9v3745o",
+      "source": "BBC World",
+      "published": "2026-10-21T10:52:00+00:00",
+      "retrieved_at": "2026-10-21T10:53:44.604042+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The former teacher has been released without any \"swap\" required, according to the president.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "56d52c3221ec09e508cd150b"
+    },
     {
       "title": "Why are French protesters chanting ‘Bismillah, c’est les ténèbres’?",
       "url": "https://aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les",
@@ -32,22 +48,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "038777e8138b6e9a9e95e47c"
-    },
-    {
-      "title": "Russia frees US citizen Stephen Hubbard, state media reports",
-      "url": "https://bbc.co.uk/news/articles/c6m24l9v3745o",
-      "source": "BBC World",
-      "published": "2026-10-21T09:22:23+00:00",
-      "retrieved_at": "2026-10-21T09:32:48.492427+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "84279187fb579fb6cd8d005b"
     },
     {
       "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
