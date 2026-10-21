@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-21T12:49:02.001565+00:00",
+  "updated": "2026-10-21T12:53:53.489904+00:00",
   "items": [
+    {
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "source": "Hugging Face",
+      "published": "2026-10-21T12:51:24+00:00",
+      "retrieved_at": "2026-10-21T12:53:46.734217+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "47b44768885178bd77bf44e4"
+    },
     {
       "title": "Protein Design with RFD4-Proteina and Hugging Face Spaces",
       "url": "https://huggingface.co/blog/nvidia/rfd4-proteina-protein-design",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1b76d9a031fcb8341583305e"
-    },
-    {
-      "title": "How This Tiny Startup Built the World’s Safest Bike Helmet",
-      "url": "https://wired.com/story/how-this-tiny-startup-pikio-built-the-worlds-safest-bike-helmet",
-      "source": "Wired",
-      "published": "2026-10-10T09:00:00+00:00",
-      "retrieved_at": "2026-10-10T09:02:17.797370+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Inspired by head-banging woodpeckers, Vancouver-based Pikio Labs has discovered a new approach to skull protection.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "59c11ef5b570caad5b502f26"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T12:48:53.818580+00:00",
+    "checked_at": "2026-10-21T12:53:46.102224+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
