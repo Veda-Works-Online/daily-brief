@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-21T17:55:00.781789+00:00",
+  "updated": "2026-10-21T17:59:47.806486+00:00",
   "items": [
+    {
+      "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
+      "source": "TechCrunch",
+      "published": "2026-10-21T17:59:12+00:00",
+      "retrieved_at": "2026-10-21T17:59:43.967177+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d15b04fa8c59ea7589527606"
+    },
+    {
+      "title": "Train in Simulation, Deploy on a Real Robot: Microduck with Isaac Lab 3.0",
+      "url": "https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real",
+      "source": "Hugging Face",
+      "published": "2026-10-21T17:58:42+00:00",
+      "retrieved_at": "2026-10-21T17:59:43.455232+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "99cba3a55071cef900bf68c8"
+    },
     {
       "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
       "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c465dba030d05e2639e5d94a"
-    },
-    {
-      "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
-      "url": "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work",
-      "source": "Ars Technica AI",
-      "published": "2026-10-12T12:43:10+00:00",
-      "retrieved_at": "2026-10-12T13:00:22.763117+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "The second-largest corporate employer has bet big on robot workers to scale.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a2f4dbb4bf2ab5c4fed04db3"
-    },
-    {
-      "title": "How Apple Puts Indigenous Languages on the iPhone Keyboard",
-      "url": "https://wired.com/story/how-apple-puts-indigenous-languages-on-the-iphone-keyboard",
-      "source": "Wired",
-      "published": "2026-10-12T11:15:00+00:00",
-      "retrieved_at": "2026-10-12T11:20:12.753463+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "To save endangered languages, tech companies like Apple are working with Indigenous communities to meet the next generation where they type.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a26d2e457d095eb7376a5c05"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-21T17:54:55.842407+00:00",
+    "checked_at": "2026-10-21T17:59:42.782694+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
