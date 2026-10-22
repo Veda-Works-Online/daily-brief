@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-22T21:29:42.619984+00:00",
+  "updated": "2026-10-22T21:34:45.818248+00:00",
   "items": [
     {
       "title": "Rivian buys world model startup to accelerate self-driving ambitions",
       "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions",
       "source": "TechCrunch",
       "published": "2026-10-22T21:05:05+00:00",
-      "retrieved_at": "2026-10-22T21:08:44.088605+00:00",
+      "retrieved_at": "2026-10-22T21:34:38.247879+00:00",
       "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Terms of the deal weren’t disclosed.",
-      "isAI": false,
+      "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
+      "isAI": true,
       "category": "tech",
-      "relevance": "tech",
+      "relevance": "AI",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://techcrunch.com/feed/",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T21:29:37.051453+00:00",
+    "checked_at": "2026-10-22T21:34:36.790776+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
