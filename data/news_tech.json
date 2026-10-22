@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-22T14:27:57.206723+00:00",
+  "updated": "2026-10-22T14:32:57.591291+00:00",
   "items": [
+    {
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+      "source": "Google DeepMind",
+      "published": "2026-10-22T14:30:24+00:00",
+      "retrieved_at": "2026-10-22T14:32:50.103487+00:00",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://deepmind.google/blog/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "1853a6e2c29f728d83c5fcfd"
+    },
     {
       "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
       "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a745f4a4cac5eb06c5c72652"
-    },
-    {
-      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites",
-      "source": "TechCrunch AI",
-      "published": "2026-10-13T16:30:00+00:00",
-      "retrieved_at": "2026-10-13T18:14:03.516488+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e977ef82dda4f1e87fd913c1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T14:27:51.997162+00:00",
+    "checked_at": "2026-10-22T14:32:49.261358+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
