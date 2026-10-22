@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-22T22:19:40.771739+00:00",
+  "updated": "2026-10-22T22:24:43.612091+00:00",
   "items": [
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "source": "Hugging Face",
+      "published": "2026-10-22T22:24:34+00:00",
+      "retrieved_at": "2026-10-22T22:24:37.668472+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "4300026b396af82738acbfe2"
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T22:08:24+00:00",
+      "retrieved_at": "2026-10-22T22:24:37.473184+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5dfa51f2cd93a93199ccfa96"
+    },
     {
       "title": "Rivian buys world model startup to accelerate self-driving ambitions",
       "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions",
@@ -138,23 +172,6 @@
       "story_fingerprint": "bd985c69b341ebcbc809228b"
     },
     {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
-      "source": "TechCrunch AI",
-      "published": "2026-10-22T19:00:00+00:00",
-      "retrieved_at": "2026-10-22T19:28:58.257503+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "693ef25f016597e8a5bf6a35"
-    },
-    {
       "title": "Canva releases its first image generation model",
       "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
       "source": "TechCrunch AI",
@@ -170,6 +187,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "aaf0d605d614804f20e6bf54"
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T19:00:00+00:00",
+      "retrieved_at": "2026-10-22T19:28:58.257503+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "693ef25f016597e8a5bf6a35"
     },
     {
       "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "3d5d91b3b91f73d134ea87f0"
-    },
-    {
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "source": "OpenAI",
-      "published": "2026-10-14T07:00:00+00:00",
-      "retrieved_at": "2026-10-14T23:03:32.183743+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "a9c661ea7185881c9004ba0f"
-    },
-    {
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
-      "source": "Google DeepMind",
-      "published": "2026-10-14T02:00:14+00:00",
-      "retrieved_at": "2026-10-14T05:35:22.656372+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "8e44ba96b3bbd551d8975c63"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T22:19:35.223777+00:00",
+    "checked_at": "2026-10-22T22:24:37.089254+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
