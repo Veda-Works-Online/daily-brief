@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-22T21:39:50.134877+00:00",
+  "updated": "2026-10-22T21:44:50.847089+00:00",
   "items": [
+    {
+      "title": "Trump says Musk has restored Ukraine's internet access",
+      "url": "https://bbc.co.uk/news/articles/cq74pjpmx0e8o",
+      "source": "BBC World",
+      "published": "2026-10-22T21:42:39+00:00",
+      "retrieved_at": "2026-10-22T21:44:45.123205+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "95b872a97af99b0be322fd30"
+    },
     {
       "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
       "url": "https://aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "30cc7b95915ccbaaca80c3bc"
-    },
-    {
-      "title": "A timeline of West Bank attacks on Palestinians and foreign officials",
-      "url": "https://aljazeera.com/news/2026/10/18/a-timeline-of-west-bank-attacks-on-palestinians-and-foreign-officials",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T14:42:01+00:00",
-      "retrieved_at": "2026-10-18T15:13:30.266528+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Settler pogroms have escalated, coinciding with the annual olive harvest season in the occupied West Bank.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "98eced4b5602cefd9c2cc2e8"
     }
   ],
   "unverified_history": [
