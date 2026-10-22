@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-22T13:53:12.738570+00:00",
+  "updated": "2026-10-22T13:58:29.285539+00:00",
   "items": [
+    {
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T13:53:26+00:00",
+      "retrieved_at": "2026-10-22T13:58:24.369619+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e07b6686ea8ffe3e3b8362a7"
+    },
     {
       "title": "Nirva raises $33M for a pendant that only listens to you",
       "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "18470ad7389d004970cc6cfe"
-    },
-    {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon",
-      "source": "Google DeepMind",
-      "published": "2026-10-13T16:01:52+00:00",
-      "retrieved_at": "2026-10-13T16:02:56.342778+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "d5c82a2b66ef933fccd06618"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T13:53:07.209393+00:00",
+    "checked_at": "2026-10-22T13:58:23.902764+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
