@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-22T18:39:09.535883+00:00",
+  "updated": "2026-10-22T18:44:08.586594+00:00",
   "items": [
+    {
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T18:43:53+00:00",
+      "retrieved_at": "2026-10-22T18:44:00.396272+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "86a375e1478908391bd35992"
+    },
     {
       "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
       "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fc8e98e6ee487f51a65f129e"
-    },
-    {
-      "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
-      "url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes",
-      "source": "TechCrunch",
-      "published": "2026-10-13T19:00:00+00:00",
-      "retrieved_at": "2026-10-13T19:04:01.382581+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "26b54f160c8277175f9009ba"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T18:39:01.948726+00:00",
+    "checked_at": "2026-10-22T18:43:58.905931+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
