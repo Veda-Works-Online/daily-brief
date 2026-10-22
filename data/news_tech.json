@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-22T23:14:39.453601+00:00",
+  "updated": "2026-10-22T23:19:44.246558+00:00",
   "items": [
+    {
+      "title": "Palmer Luckey Made a Genetically Modified Military Dog Startup",
+      "url": "https://wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup",
+      "source": "Wired",
+      "published": "2026-10-22T23:15:00+00:00",
+      "retrieved_at": "2026-10-22T23:19:39.731243+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create \"elite working dogs\" equipped with \"advanced body armor.\"",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "154dd1e44c3ca5e430d496be"
+    },
     {
       "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
       "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "00e6d59f8fb8d703600e6ee6"
-    },
-    {
-      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-      "url": "https://wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity",
-      "source": "Wired",
-      "published": "2026-10-14T09:00:00+00:00",
-      "retrieved_at": "2026-10-14T09:06:29.141081+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "39b25023aebbdb6bb5b9804f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T23:14:33.899304+00:00",
+    "checked_at": "2026-10-22T23:19:38.229068+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
