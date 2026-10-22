@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-22T15:28:13.614062+00:00",
+  "updated": "2026-10-22T15:33:06.939714+00:00",
   "items": [
+    {
+      "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+      "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
+      "source": "Ars Technica AI",
+      "published": "2026-10-22T15:25:02+00:00",
+      "retrieved_at": "2026-10-22T15:33:02.666965+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Hackers were already probing the bug before defenders were told it existed.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "da0a68a15ace74370b853e2c"
+    },
     {
       "title": "Spotify’s current AI bet is about being the music service that agents choose",
       "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "93bed38bd10dc664b84893e8"
-    },
-    {
-      "title": "Google wants to host your personal vibe-coded apps in the Play Store",
-      "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store",
-      "source": "Ars Technica AI",
-      "published": "2026-10-13T17:00:39+00:00",
-      "retrieved_at": "2026-10-13T17:07:56.426628+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Google plans to help turn those personal AI-generated apps into wide releases.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8c3bd0566a7a09db0aebf476"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T15:28:04.628456+00:00",
+    "checked_at": "2026-10-22T15:33:01.650459+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
