@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-22T16:03:02.229678+00:00",
+  "updated": "2026-10-22T16:14:09.367681+00:00",
   "items": [
+    {
+      "title": "Israeli attacks in Gaza kill four, including a young girl",
+      "url": "https://aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T16:06:55+00:00",
+      "retrieved_at": "2026-10-22T16:14:04.273704+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Four Palestinians killed as Israeli military expands control across Gaza, displacing millions and destroying homes.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d3c37ace8b4471aab0ffc255"
+    },
     {
       "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
       "url": "https://bbc.co.uk/news/articles/cr5ynl63v0pyo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1cb4345c0028e0b5d1a355f4"
-    },
-    {
-      "title": "How reliant is Ukraine on the US-controlled Starlink internet service?",
-      "url": "https://dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729",
-      "source": "DW",
-      "published": "2026-10-18T08:58:00+00:00",
-      "retrieved_at": "2026-10-18T09:57:42.583952+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Kyiv keeps issuing warnings that the satellite internet system Starlink is being restricted in Ukraine. How dependent is the country on the system, and what would happen if it went down?",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "780b4dcd7b6a50a895079c46"
     }
   ],
   "unverified_history": [

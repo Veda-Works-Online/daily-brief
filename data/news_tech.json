@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-22T16:07:58.604258+00:00",
+  "updated": "2026-10-22T16:14:01.170168+00:00",
   "items": [
+    {
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "source": "Hugging Face",
+      "published": "2026-10-22T16:11:31+00:00",
+      "retrieved_at": "2026-10-22T16:13:56.503351+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "4c200665dbd818de9ddbbabf"
+    },
+    {
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T16:00:00+00:00",
+      "retrieved_at": "2026-10-22T16:13:56.377720+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e46736a63507ea43d294aaa7"
+    },
     {
       "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
       "url": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements",
@@ -108,9 +142,9 @@
       "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents",
       "source": "TechCrunch AI",
       "published": "2026-10-22T13:53:26+00:00",
-      "retrieved_at": "2026-10-22T13:58:24.369619+00:00",
+      "retrieved_at": "2026-10-22T16:13:56.377778+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5695e55c2ae351aef334f55d"
-    },
-    {
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
-      "source": "TechCrunch AI",
-      "published": "2026-10-13T17:30:00+00:00",
-      "retrieved_at": "2026-10-13T18:43:59.833847+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f9cae5c1bd8d5460c048f171"
-    },
-    {
-      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache",
-      "source": "TechCrunch AI",
-      "published": "2026-10-13T17:18:25+00:00",
-      "retrieved_at": "2026-10-13T17:59:02.843316+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6fea002b64353ec2ac42eb76"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T16:07:53.222005+00:00",
+    "checked_at": "2026-10-22T16:13:55.574046+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
