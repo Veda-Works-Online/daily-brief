@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-22T23:34:46.192474+00:00",
+  "updated": "2026-10-22T23:39:49.375125+00:00",
   "items": [
     {
       "title": "Palmer Luckey Made a Genetically Modified Military Dog Startup",
       "url": "https://wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup",
       "source": "Wired",
       "published": "2026-10-22T23:15:00+00:00",
-      "retrieved_at": "2026-10-22T23:19:39.731243+00:00",
+      "retrieved_at": "2026-10-22T23:39:43.042299+00:00",
       "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create \"elite working dogs\" equipped with \"advanced body armor.\"",
+      "summary": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with \"advanced body armor.\"",
       "isAI": false,
       "category": "tech",
       "relevance": "tech",
@@ -206,23 +206,6 @@
       "story_fingerprint": "bd985c69b341ebcbc809228b"
     },
     {
-      "title": "Canva releases its first image generation model",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
-      "source": "TechCrunch AI",
-      "published": "2026-10-22T19:00:00+00:00",
-      "retrieved_at": "2026-10-22T19:09:06.722060+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "aaf0d605d614804f20e6bf54"
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
       "source": "TechCrunch AI",
@@ -238,6 +221,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "693ef25f016597e8a5bf6a35"
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T19:00:00+00:00",
+      "retrieved_at": "2026-10-22T19:09:06.722060+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "aaf0d605d614804f20e6bf54"
     },
     {
       "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T23:34:36.512602+00:00",
+    "checked_at": "2026-10-22T23:39:41.742458+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
