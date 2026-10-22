@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-22T10:56:59.289437+00:00",
+  "updated": "2026-10-22T11:01:55.360445+00:00",
   "items": [
+    {
+      "title": "Best Microsoft Surface Laptop (2026): Which Models to Buy and Avoid",
+      "url": "https://wired.com/story/microsoft-surface-buying-guide",
+      "source": "Wired",
+      "published": "2026-10-22T11:00:00+00:00",
+      "retrieved_at": "2026-10-22T11:01:50.911107+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "With pricing in flux and new models available, here’s which Surface Laptop and Surface Pro to buy.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3576c9d6a5ec2dc375e06949"
+    },
     {
       "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
       "url": "https://wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "10a084fc831ddc18df0875d2"
-    },
-    {
-      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription",
-      "source": "TechCrunch AI",
-      "published": "2026-10-13T13:50:19+00:00",
-      "retrieved_at": "2026-10-13T14:47:52.361031+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8b70255bd876bcdeb2b3bad7"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T10:56:51.483286+00:00",
+    "checked_at": "2026-10-22T11:01:49.650535+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
