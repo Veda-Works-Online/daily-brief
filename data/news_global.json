@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T07:31:50.014310+00:00",
+  "updated": "2026-10-22T07:36:57.160020+00:00",
   "items": [
     {
       "title": "The West Is Thinking Too Small About Ukraine’s Victory",
@@ -16,6 +16,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9bb1aa4534d1aea7125252d4"
+    },
+    {
+      "title": "Wrong national anthems played three times at Asian Para Games in Japan",
+      "url": "https://aljazeera.com/sports/2026/10/22/wrong-national-anthems-played-three-times-at-asian-para-games-in-japan",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T07:10:55+00:00",
+      "retrieved_at": "2026-10-22T07:36:53.193810+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The Iranian national anthem was played for athletes from Taiwan and Mongolia, prompting Nagoya's mayor to apologise.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e979fd8f11ce12b7ae51fe78"
     },
     {
       "title": "In Israel election, Palestinian citizens weigh fear against disillusionment",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "23087b9b6b7e77256e0fa64f"
-    },
-    {
-      "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-      "url": "https://aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T12:10:56+00:00",
-      "retrieved_at": "2026-10-17T12:39:33.786024+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Two vessels have been struck with naval mines in the Strait of Hormuz this week.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "35468e28ec5b1576bf7f053a"
     }
   ],
   "unverified_history": [
