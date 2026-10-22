@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-22T12:57:59.173478+00:00",
+  "updated": "2026-10-22T13:03:12.413879+00:00",
   "items": [
+    {
+      "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
+      "url": "https://wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything",
+      "source": "Wired",
+      "published": "2026-10-22T13:00:00+00:00",
+      "retrieved_at": "2026-10-22T13:03:07.922327+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1f4cb04d48e19ab5126f8d35"
+    },
     {
       "title": "Best Microsoft Surface Laptop (2026): Which Models to Buy and Avoid",
       "url": "https://wired.com/story/microsoft-surface-buying-guide",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "23bdafe67f006f93f116d972"
-    },
-    {
-      "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
-      "url": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify",
-      "source": "TechCrunch",
-      "published": "2026-10-13T14:30:12+00:00",
-      "retrieved_at": "2026-10-13T14:32:56.731821+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "10a084fc831ddc18df0875d2"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T12:57:53.536433+00:00",
+    "checked_at": "2026-10-22T13:03:06.665014+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
