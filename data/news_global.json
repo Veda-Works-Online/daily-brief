@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-22T08:22:08.907669+00:00",
+  "updated": "2026-10-22T08:26:48.854975+00:00",
   "items": [
+    {
+      "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
+      "url": "https://aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin",
+      "source": "Al Jazeera",
+      "published": "2026-10-22T08:18:39+00:00",
+      "retrieved_at": "2026-10-22T08:26:44.744431+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Ukraine says 'appeasement' will not end war as Russian attacks kill 1, injure 22 in its capital.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f269e587d032d675521072df"
+    },
     {
       "title": "Can Russia broker a new US-Iran deal?",
       "url": "https://aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2215de6dd7e0371128aef528"
-    },
-    {
-      "title": "Tens of thousands protest for reforms in France amid tear gas and unrest",
-      "url": "https://aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T13:44:42+00:00",
-      "retrieved_at": "2026-10-17T16:59:31.186715+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Large cross-sector demonstrations in Paris and other cities unite students, teachers, unions and 'yellow vests'.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d10f1373f6525becb913412a"
     }
   ],
   "unverified_history": [
