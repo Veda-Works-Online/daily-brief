@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T00:45:40.471167+00:00",
+  "updated": "2026-10-22T00:50:34.543805+00:00",
   "items": [
     {
       "title": "Tesla says it will start selling Cybercabs by end of year",
@@ -850,6 +850,23 @@
       "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
       "source_type": "PRIMARY",
       "story_fingerprint": "86f8d46d45c150efc482562b"
+    },
+    {
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "source": "OpenAI",
+      "published": "2026-10-21T00:00:00+00:00",
+      "retrieved_at": "2026-10-22T00:50:29.676233+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "2423bbd9f31fb2ec169b7a91"
     },
     {
       "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7812dd9407d520ebfbf26f86"
-    },
-    {
-      "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
-      "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands",
-      "source": "TechCrunch",
-      "published": "2026-10-13T13:16:11+00:00",
-      "retrieved_at": "2026-10-13T13:17:59.989688+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c2f719b725ae7f9895e328f9"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T00:45:34.212015+00:00",
+    "checked_at": "2026-10-22T00:50:28.248918+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
