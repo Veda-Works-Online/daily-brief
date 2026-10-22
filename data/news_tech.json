@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-22T21:03:48.037853+00:00",
+  "updated": "2026-10-22T21:08:49.272206+00:00",
   "items": [
+    {
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions",
+      "source": "TechCrunch",
+      "published": "2026-10-22T21:05:05+00:00",
+      "retrieved_at": "2026-10-22T21:08:44.088605+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Terms of the deal weren’t disclosed.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ffc317bb62bcfa09e68ad22b"
+    },
     {
       "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
       "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "8e44ba96b3bbd551d8975c63"
-    },
-    {
-      "title": "The EU’s next chapter in AI is agentic",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "source": "OpenAI",
-      "published": "2026-10-14T00:00:00+00:00",
-      "retrieved_at": "2026-10-14T09:31:31.880019+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "d43b53d500af1b4c9c7b7960"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T21:03:42.273184+00:00",
+    "checked_at": "2026-10-22T21:08:42.611118+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
