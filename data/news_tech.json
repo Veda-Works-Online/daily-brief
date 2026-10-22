@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-22T18:34:02.831511+00:00",
+  "updated": "2026-10-22T18:39:09.535883+00:00",
   "items": [
+    {
+      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+      "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots",
+      "source": "TechCrunch",
+      "published": "2026-10-22T18:38:47+00:00",
+      "retrieved_at": "2026-10-22T18:39:03.363797+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The new startup raised a $215 million round led by Lightspeed.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2a676c5ac86e9b8f56dc9387"
+    },
     {
       "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
       "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "26b54f160c8277175f9009ba"
-    },
-    {
-      "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
-      "url": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field",
-      "source": "TechCrunch",
-      "published": "2026-10-13T18:30:03+00:00",
-      "retrieved_at": "2026-10-13T20:09:00.315106+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6934275606eb45c08f2daf7f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T18:33:57.326513+00:00",
+    "checked_at": "2026-10-22T18:39:01.948726+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
