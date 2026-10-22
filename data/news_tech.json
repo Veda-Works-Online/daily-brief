@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-22T10:02:15.859357+00:00",
+  "updated": "2026-10-22T10:06:59.955100+00:00",
   "items": [
+    {
+      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "url": "https://wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna",
+      "source": "Wired",
+      "published": "2026-10-22T10:00:00+00:00",
+      "retrieved_at": "2026-10-22T10:06:55.723525+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0d82e60bfc888b3e3066ee66"
+    },
     {
       "title": "Ensemble forecasting with IBM Granite time-series models",
       "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8b70255bd876bcdeb2b3bad7"
-    },
-    {
-      "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
-      "url": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag",
-      "source": "TechCrunch",
-      "published": "2026-10-13T13:38:03+00:00",
-      "retrieved_at": "2026-10-13T14:37:54.409557+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "35819c0a0d9023ba7d9f7cd4"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T10:02:08.104520+00:00",
+    "checked_at": "2026-10-22T10:06:54.372143+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
