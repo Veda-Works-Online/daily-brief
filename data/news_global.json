@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T14:53:09.196788+00:00",
+  "updated": "2026-10-22T15:22:59.428714+00:00",
   "items": [
     {
       "title": "Germany arrests Ukrainian man accused of spying for Russia",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cb8930238d399d484c8b7f3b"
+    },
+    {
+      "title": "Is Iran ready for another major US attack after midterm elections?",
+      "url": "https://dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082",
+      "source": "DW",
+      "published": "2026-10-22T14:16:00+00:00",
+      "retrieved_at": "2026-10-22T15:22:54.337160+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Tehran has said its goal is to keep the regime functioning and threaten enough regional costs to make a prolonged campaign unattractive. US media reports indicate Washington is considering strikes after the midterms.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "86b4e32117c339c4083caa1a"
     },
     {
       "title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "aedc2e15c34bac58ae09f610"
-    },
-    {
-      "title": "Church makes sainthood case for 'WW1 hero' priest",
-      "url": "https://bbc.co.uk/news/articles/cmg47rwddpxko",
-      "source": "BBC World",
-      "published": "2026-10-18T05:15:53+00:00",
-      "retrieved_at": "2026-10-18T07:36:58.086162+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Fr Willie Doyle was killed during World War One while trying to help injured and dying soldiers.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3ff53492c04dd6cb88862e03"
     }
   ],
   "unverified_history": [
