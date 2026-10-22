@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-22T14:57:55.150779+00:00",
+  "updated": "2026-10-22T15:02:56.622652+00:00",
   "items": [
+    {
+      "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
+      "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants",
+      "source": "TechCrunch",
+      "published": "2026-10-22T14:59:28+00:00",
+      "retrieved_at": "2026-10-22T15:02:52.521820+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7b6d5d66fd071d7b25854142"
+    },
     {
       "title": "Beyond tree cover: mapping the world’s forest types",
       "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a5ba4f871656ec9128045f45"
-    },
-    {
-      "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
-      "url": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt",
-      "source": "TechCrunch",
-      "published": "2026-10-13T17:00:00+00:00",
-      "retrieved_at": "2026-10-13T17:12:56.577016+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a745f4a4cac5eb06c5c72652"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T14:57:49.643122+00:00",
+    "checked_at": "2026-10-22T15:02:51.395279+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
