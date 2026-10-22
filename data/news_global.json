@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-22T15:28:23.468538+00:00",
+  "updated": "2026-10-22T16:03:02.229678+00:00",
   "items": [
+    {
+      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "url": "https://bbc.co.uk/news/articles/cr5ynl63v0pyo",
+      "source": "BBC World",
+      "published": "2026-10-22T15:56:36+00:00",
+      "retrieved_at": "2026-10-22T16:02:57.148421+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f761a62bc320c8fb3354178d"
+    },
     {
       "title": "From the streets to the ballot box: Serbia’s students hope for election win",
       "url": "https://aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "780b4dcd7b6a50a895079c46"
-    },
-    {
-      "title": "‘No Kings’ protests spread across the US ahead of midterm elections",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T08:25:24+00:00",
-      "retrieved_at": "2026-10-18T08:57:44.824217+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Thousands rallied across the US against President Donald Trump in ‘No Kings’ demonstrations.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d9ad119886f1c3f61f99bf0c"
     }
   ],
   "unverified_history": [
