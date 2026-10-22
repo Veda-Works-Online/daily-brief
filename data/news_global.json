@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T09:01:52.666795+00:00",
+  "updated": "2026-10-22T09:22:00.892252+00:00",
   "items": [
     {
       "title": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6aca80e4c069a4341cbf442a"
+    },
+    {
+      "title": "Bulgaria: Concerns about security in the Black Sea dominate presidential election campaign",
+      "url": "https://dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094",
+      "source": "DW",
+      "published": "2026-10-22T08:31:00+00:00",
+      "retrieved_at": "2026-10-22T09:21:57.148418+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Bulgaria's presidential election campaign has been shaped by recent drone attacks on ships in the Black Sea and the government's reduced support for Ukraine, making foreign policy a key factor in the first round.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "674c786074b64be44e9df594"
     },
     {
       "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
@@ -240,6 +256,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "84e0091bf60c3797cc1f8a94"
+    },
+    {
+      "title": "China Coast Guard Says It Monitored Philippine Resupply Mission at Contested Shoal",
+      "url": "https://thediplomat.com/2026/10/china-coast-guard-says-it-monitored-philippine-resupply-mission-at-contested-shoal",
+      "source": "The Diplomat",
+      "published": "2026-10-22T03:00:00+00:00",
+      "retrieved_at": "2026-10-22T09:21:56.843004+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "Last month, Manila accused Beijing of obstructing a similar mission to resupply troops stationed aboard a grounded warship on the shoal.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ede80a951da701aafd51f43d"
     },
     {
       "title": "Can Trump deport Congresswoman Ilhan Omar?",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0446fbbcc8d17b88215acbcd"
-    },
-    {
-      "title": "Why are Latin American countries building closer ties with Israel?",
-      "url": "https://aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T16:54:44+00:00",
-      "retrieved_at": "2026-10-17T17:05:22.145644+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0190b9664106a9f78975a937"
-    },
-    {
-      "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
-      "url": "https://aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied",
-      "source": "Al Jazeera",
-      "published": "2026-10-17T14:57:24+00:00",
-      "retrieved_at": "2026-10-17T15:29:36.256364+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Unions, opposition groups unite to demonstrate against poor living conditions and restrictions on political freedoms.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f98702e2eef272c134dc22c4"
     }
   ],
   "unverified_history": [
