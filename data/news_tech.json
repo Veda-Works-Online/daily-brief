@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-22T15:02:56.622652+00:00",
+  "updated": "2026-10-22T15:08:01.939092+00:00",
   "items": [
+    {
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T15:03:58+00:00",
+      "retrieved_at": "2026-10-22T15:07:57.267390+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "18161c1be4e8300e1d3433d1"
+    },
     {
       "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
       "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8c3bd0566a7a09db0aebf476"
-    },
-    {
-      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-      "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you",
-      "source": "TechCrunch AI",
-      "published": "2026-10-13T17:00:00+00:00",
-      "retrieved_at": "2026-10-13T17:53:59.833328+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a5ba4f871656ec9128045f45"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T15:02:51.395279+00:00",
+    "checked_at": "2026-10-22T15:07:56.779791+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
