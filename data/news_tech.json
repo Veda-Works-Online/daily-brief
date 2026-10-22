@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T19:09:15.209792+00:00",
+  "updated": "2026-10-22T19:14:01.103801+00:00",
   "items": [
     {
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
@@ -17,6 +17,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b8f113be2a113810fee4fb05"
+    },
+    {
+      "title": "Inside the Exclusive Nathan Fielder Interview",
+      "url": "https://wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview",
+      "source": "Wired",
+      "published": "2026-10-22T19:06:37+00:00",
+      "retrieved_at": "2026-10-22T19:13:53.974038+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "This week on “Uncanny Valley,” we go behind the scenes of our Nathan Fielder cover story, unpack tech billionaires’ generous promises, and discuss the suspicious letters sent to US election offices.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b7b5b79733d9651d27a8c071"
     },
     {
       "title": "Canva releases its first image generation model",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0efee50cc2a32b50437e412a"
-    },
-    {
-      "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
-      "url": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device",
-      "source": "TechCrunch",
-      "published": "2026-10-13T20:13:53+00:00",
-      "retrieved_at": "2026-10-13T20:18:53.045122+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3e4725cde3daa3e5720eb7ac"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-22T19:09:05.740489+00:00",
+    "checked_at": "2026-10-22T19:13:52.420870+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
