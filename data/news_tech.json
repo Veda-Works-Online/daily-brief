@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-23T11:31:42.960712+00:00",
+  "updated": "2026-10-23T11:36:46.446090+00:00",
   "items": [
+    {
+      "title": "Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could",
+      "url": "https://wired.com/review/samsung-galazy-z-flip8",
+      "source": "Wired",
+      "published": "2026-10-23T11:30:00+00:00",
+      "retrieved_at": "2026-10-23T11:36:38.222240+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Samsung’s cute compact is for those who want the smallest possible phone. Performance and camera are solid, but it’s pricier than its predecessor.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f4b396dbb9e3443cd8ecbd42"
+    },
     {
       "title": "A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married",
       "url": "https://wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "5ccd60c31ea6a3395f5f41f6"
-    },
-    {
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "url": "https://openai.com/index/sentinelone",
-      "source": "OpenAI",
-      "published": "2026-10-14T12:00:00+00:00",
-      "retrieved_at": "2026-10-14T18:17:53.402066+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "b81b4991ddb2aa752bb3fb54"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-23T11:31:36.450142+00:00",
+    "checked_at": "2026-10-23T11:36:36.598112+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
