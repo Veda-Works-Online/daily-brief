@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-23T19:23:21.913017+00:00",
+  "updated": "2026-10-23T20:28:09.992762+00:00",
   "items": [
+    {
+      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+      "url": "https://bbc.co.uk/news/articles/c6vgxkvl4w5eo",
+      "source": "BBC World",
+      "published": "2026-10-23T19:30:19+00:00",
+      "retrieved_at": "2026-10-23T20:28:06.551702+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c4db0c34468ff4d5f8719e57"
+    },
     {
       "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
       "url": "https://dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090",
@@ -176,22 +192,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7e8d9ecc2df36786eae0dab8"
-    },
-    {
-      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-      "url": "https://bbc.co.uk/news/articles/c6vgxkvl4w5eo",
-      "source": "BBC World",
-      "published": "2026-10-23T15:48:04+00:00",
-      "retrieved_at": "2026-10-23T15:52:41.674242+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "61d4ca767f5d4c9122da6511"
     },
     {
       "title": "South China Sea Code of Conduct: A Deal Is Not Enough",
