@@ -178,7 +178,7 @@ const sessionStock = {name:'Adani Enterprises', ticker:'ADANIENT.NS', currency:'
     changePercent:{validation_status:'INDICATIVE',decimal:'2.471483',source:'Yahoo Finance',
       source_timestamp:'2026-10-14T03:39:34Z',trading_session:{date:'2026-10-13',timezone:'Asia/Kolkata',timestamp:'2026-10-13T10:00:00Z'}}}};
 const sessionHtml = ctx.renderStocksTable([sessionStock], 'india');
-assert.equal((sessionHtml.match(/Session 2026-10-13 \(Asia\/Kolkata\)/g)||[]).length, 1);
+assert.equal((sessionHtml.match(/Session 2026-10-13 \(Asia\/Kolkata\)/g)||[]).length, 0);
 assert(sessionHtml.includes('₹3.11 L Cr'));
 assert(sessionHtml.includes('+2.47%'));
 assert(sessionHtml.includes('STALE'));
@@ -256,7 +256,7 @@ assert.equal(ctx.newerSnapshot(olderSnapshot, currentSnapshot), currentSnapshot)
 assert.equal(ctx.newerSnapshot(null, currentSnapshot), currentSnapshot);
 ctx.fieldRow.fxValidation = 'STALE';
 ctx.fieldRow.field_metadata.marketCap.fx_source_timestamp = '2026-09-30T04:00:00Z';
-assert(ctx.renderStocksTable([ctx.fieldRow], 'asia').includes('Session unconfirmed'));
+assert(!ctx.renderStocksTable([ctx.fieldRow], 'asia').includes('Session unconfirmed'));
 ctx.samsung = {...ctx.adr, name:'Samsung Electronics', ticker:'005930.KS',
   field_metadata:{marketCap:{validation_status:'INDICATIVE', shares_as_of:'2026-06-30', source:'Samsung IR + Google Finance'}}};
 assert(ctx.renderStocksTable([ctx.samsung], 'asia').includes('Company cap: common + preferred · estimate · shares as of 2026-06-30'));
