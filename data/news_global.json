@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T16:22:50.658768+00:00",
+  "updated": "2026-10-23T16:27:46.527155+00:00",
   "items": [
     {
       "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a797ef44e7222a9ebdbc6f15"
+    },
+    {
+      "title": "‘Foreign policy is the economy’: How Iran war is shaping US midterm vote",
+      "url": "https://aljazeera.com/news/2026/10/23/foreign-policy-is-the-economy-how-iran-war-is-shaping-us-midterm-vote",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T15:51:29+00:00",
+      "retrieved_at": "2026-10-23T16:27:41.352678+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Democrats are framing the conflict as an affordability issue to criticise Republican candidates backed by Trump.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7e8d9ecc2df36786eae0dab8"
     },
     {
       "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "69a6052588f3da89ca32ece8"
-    },
-    {
-      "title": "Famine fears as aid cuts and shipment restrictions coincide in Gaza",
-      "url": "https://aljazeera.com/news/2026/10/19/famine-fears-as-aid-cuts-and-shipment-restrictions-coincide-in-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T15:05:16+00:00",
-      "retrieved_at": "2026-10-19T15:11:44.703474+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Displaced families in Gaza fear worsening food insecurity as planned aid cuts coincide with continued restrictions.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fc19f2b98138359e9e3c8304"
     }
   ],
   "unverified_history": [
