@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-23T09:21:45.264735+00:00",
+  "updated": "2026-10-23T09:41:42.323074+00:00",
   "items": [
+    {
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "url": "https://bbc.co.uk/news/articles/cq74pjpmx0e8o",
+      "source": "BBC World",
+      "published": "2026-10-23T09:36:43+00:00",
+      "retrieved_at": "2026-10-23T09:41:36.661745+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a797ef44e7222a9ebdbc6f15"
+    },
     {
       "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
       "url": "https://aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground",
@@ -48,22 +64,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3b8ebe595ddcf53160d99c11"
-    },
-    {
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "url": "https://bbc.co.uk/news/articles/cq74pjpmx0e8o",
-      "source": "BBC World",
-      "published": "2026-10-23T08:36:32+00:00",
-      "retrieved_at": "2026-10-23T08:41:41.533696+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a797ef44e7222a9ebdbc6f15"
     },
     {
       "title": "Israeli forces accused of killing disabled man in Syria raid",
