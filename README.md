@@ -18,6 +18,21 @@ STALE validation and age limit remain unchanged. The evidence expires after ten
 minutes without another matching source check; disagreement, a failed check or
 a prior-session quote keeps the ordinary stale label.
 
+## Index and currency reference
+
+Index and FX fetches compare both Google page formats and keep the newest actual
+quote timestamp. Google beta index headers may omit currency because the value
+is in index points; missing denominations are resolved only for the five exact
+canonical index identifiers configured in the parser. Explicit conflicting
+currencies and missing equity currencies still fail validation.
+
+Currency pairs prefer Google's complete observation when it is within eight
+minutes, including its own previous close for daily change. If Google is missing
+or older, a Yahoo fallback is labelled on the dashboard with its actual source
+time and same-source daily-change baseline. Never mix one provider's rate with
+another provider's previous close. The existing anti-regression guard preserves
+a saved newer observation during the transition until Google catches up.
+
 ## Current stock reference: Google Finance
 
 The displayed market cap and daily gain/loss for all US, Asia and India stocks
