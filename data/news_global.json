@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-23T08:06:52.079483+00:00",
+  "updated": "2026-10-23T08:41:47.161120+00:00",
   "items": [
+    {
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "url": "https://bbc.co.uk/news/articles/cq74pjpmx0e8o",
+      "source": "BBC World",
+      "published": "2026-10-23T08:36:32+00:00",
+      "retrieved_at": "2026-10-23T08:41:41.533696+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a797ef44e7222a9ebdbc6f15"
+    },
     {
       "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
       "url": "https://aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war",
@@ -256,22 +272,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5c945e7f4e72dc7393de783f"
-    },
-    {
-      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-      "url": "https://bbc.co.uk/news/articles/cq74pjpmx0e8o",
-      "source": "BBC World",
-      "published": "2026-10-22T21:42:39+00:00",
-      "retrieved_at": "2026-10-22T22:54:49.465698+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b7557ab1cc9f6ab56b9a46c5"
     },
     {
       "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
