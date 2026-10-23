@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T10:21:44.057247+00:00",
+  "updated": "2026-10-23T10:51:54.391941+00:00",
   "items": [
     {
       "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
@@ -96,6 +96,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "32c673d6e6f4e79aac6e9030"
+    },
+    {
+      "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
+      "url": "https://bbc.co.uk/news/articles/cmwyqn6ejyd4o",
+      "source": "BBC World",
+      "published": "2026-10-23T09:23:53+00:00",
+      "retrieved_at": "2026-10-23T10:51:48.454778+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c7185420b6f922c1bf276a35"
     },
     {
       "title": "Israeli military kills two in gun battle in occupied West Bank",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "011eb2fc6046ebea606376e6"
-    },
-    {
-      "title": "WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages",
-      "url": "https://aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T10:08:06+00:00",
-      "retrieved_at": "2026-10-19T10:30:41.427194+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The UN agency says funding shortages threaten to reverse 'modest and fragile' progress on food security.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "66c87dfd1301a62685fc6764"
     }
   ],
   "unverified_history": [
