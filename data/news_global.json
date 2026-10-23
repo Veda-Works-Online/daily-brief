@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-23T09:51:35.393910+00:00",
+  "updated": "2026-10-23T10:16:40.611688+00:00",
   "items": [
+    {
+      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
+      "url": "https://bbc.co.uk/news/articles/cmwy4wlzqz3zo",
+      "source": "BBC World",
+      "published": "2026-10-23T10:14:33+00:00",
+      "retrieved_at": "2026-10-23T10:16:34.882760+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0e277b99e254caa085bdac09"
+    },
     {
       "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
       "url": "https://bbc.co.uk/news/articles/cq4g1p974wxko",
@@ -32,6 +48,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a797ef44e7222a9ebdbc6f15"
+    },
+    {
+      "title": "Sri Lanka: Death of iconic elephant raises habitat concerns",
+      "url": "https://dw.com/en/sri-lanka-death-of-iconic-elephant-raises-habitat-concerns/a-79735669",
+      "source": "DW",
+      "published": "2026-10-23T09:29:00+00:00",
+      "retrieved_at": "2026-10-23T10:16:35.158369+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The death of what was thought to be Sri Lanka’s largest elephant has drawn attention to human-elephant conflict in rural communities. The island country sees a high number of deadly encounters.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "32c673d6e6f4e79aac6e9030"
     },
     {
       "title": "Israeli military kills two in gun battle in occupied West Bank",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "669fbc70af40febe60c549d4"
-    },
-    {
-      "title": "NFL’s Azeez Al-Shaair honours Palestinian children for fifth straight week",
-      "url": "https://aljazeera.com/sports/2026/10/19/nfls-azeez-al-shaair-honours-palestinian-children-for-fifth-straight-week",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T08:45:05+00:00",
-      "retrieved_at": "2026-10-19T08:50:41.845561+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Al-Shaair's eyeblack carried the name of Maryam Ghanem, a girl in Gaza who was forced to watch her mother burn alive.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "84846e23b905a04532f4f521"
-    },
-    {
-      "title": "Hezbollah funding plan indicates a new challenge to Lebanon’s government",
-      "url": "https://aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T08:34:56+00:00",
-      "retrieved_at": "2026-10-19T08:50:41.845591+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The reported $200m in aid from Iran to Hezbollah has put the Lebanese government under increased pressure from the US.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d32b5a3a96879c7f136b025f"
     }
   ],
   "unverified_history": [
