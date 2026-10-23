@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T13:07:55.644174+00:00",
+  "updated": "2026-10-23T13:22:58.609640+00:00",
   "items": [
     {
       "title": "Russia-Ukraine talks planned for November in UAE: Kremlin",
@@ -32,6 +32,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bc75f12725c5d0580d03230c"
+    },
+    {
+      "title": "Japan-Russia ties erode as journalist sits in Moscow jail",
+      "url": "https://dw.com/en/japan-russia-ties-erode-as-journalist-sits-in-moscow-jail/a-79742995",
+      "source": "DW",
+      "published": "2026-10-23T12:42:00+00:00",
+      "retrieved_at": "2026-10-23T13:22:54.102129+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Japan is demanding access to a journalist who was arrested by Russian security services. Moscow claims Tokyo is using journalists as spies.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7ca4b7e60d5e81965ec25037"
     },
     {
       "title": "Typhoon Champi unleashes huge waves along Taiwan’s coast",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0b9a6c2ce5c0906ae1a9f2aa"
-    },
-    {
-      "title": "‘Weight of responsibility’: Promise and perils of covering Ethiopia’s war",
-      "url": "https://aljazeera.com/news/2026/10/19/weight-of-responsibility-promise-and-perils-of-covering-ethiopias-war",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T13:21:37+00:00",
-      "retrieved_at": "2026-10-19T13:36:44.875181+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Al Jazeera correspondent shares his experience of covering the fighting between government forces and Tigray rebels.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d5789c767cd9afac35a2627a"
     }
   ],
   "unverified_history": [
