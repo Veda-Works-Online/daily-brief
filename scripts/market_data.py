@@ -34,6 +34,11 @@ EXCHANGES.update({value:value for value in list(EXCHANGES.values())})
 INDEX_IDS = {'^BSESN': 'SENSEX:INDEXBOM', '^IXIC': '.IXIC:INDEXNASDAQ',
              '^HSI': 'HSI:INDEXHANGSENG', '000001.SS': '000001:SHA',
              '399001.SZ': '399001:SHE'}
+# Google beta index headers omit currency: these are index points, not FX.
+# Only these exact canonical instruments may supply a missing denomination.
+INDEX_CURRENCIES = {'SENSEX:INDEXBOM': 'INR', '.IXIC:INDEXNASDAQ': 'USD',
+                    'HSI:INDEXHANGSENG': 'HKD', '000001:SHA': 'CNY',
+                    '399001:SHE': 'CNY'}
 PAIRS = {'INR=X': ('USD', 'INR'), 'JPY=X': ('USD', 'JPY'),
          'CNY=X': ('USD', 'CNY'), 'EURUSD=X': ('EUR', 'USD'),
          'GBPUSD=X': ('GBP', 'USD'), 'HKD=X': ('USD', 'HKD'),
@@ -282,6 +287,8 @@ def parse_google_beta(soup, identifier):
         if quote[1] != identifier.split(':'):
             raise ValueError('GOOGLE_IDENTITY_MISMATCH')
         currency, exchange = quote[4], quote[1][1]
+        if currency is None and identifier in INDEX_CURRENCIES:
+            currency = INDEX_CURRENCIES[identifier]
     if not isinstance(quote[17], list) or not quote[17] or not isinstance(quote[17][0], int):
         raise ValueError('GOOGLE_QUOTE_TIMESTAMP_UNAVAILABLE')
     precision = quote[5][3]
@@ -338,7 +345,7 @@ def fetch_google(identifier):
             fx = identifier in {'-'.join(pair) for pair in PAIRS.values()}
             retry_age = 480 if fx else 1800 if identifier.endswith(':NSE') else None
             equity = identifier.rsplit(':', 1)[-1] in {'NASDAQ','NYSE','NYSEAMERICAN','NSE','BOM','HKG','KRX'}
-            if not equity and (retry_age is None or (datetime.now(timezone.utc)-timestamp(best['timestamp'])).total_seconds() <= retry_age):
+            if not equity and not fx and identifier not in INDEX_CURRENCIES and (retry_age is None or (datetime.now(timezone.utc)-timestamp(best['timestamp'])).total_seconds() <= retry_age):
                 return best
         except (requests.RequestException, ValueError, KeyError, TypeError) as exc:
             error = exc
@@ -433,7 +440,7 @@ def google_fx(row, symbol, quote, now, source='Google Finance'):
         raise ValueError('FUTURE_TIMESTAMP')
     status = 'STALE' if age > 480 else 'INDICATIVE'
     out = deepcopy(row)
-    for key in ['error', 'validation_evidence', 'field_conflicts', 'outlier_validation']:
+    for key in ['error', 'validation_evidence', 'field_conflicts', 'outlier_validation', 'reference_fallback']:
         out.pop(key, None)
     for field in FIELDS:
         out[field] = None
@@ -455,12 +462,16 @@ def google_fx(row, symbol, quote, now, source='Google Finance'):
 
 
 def freshest_fx(row, symbol, google, yahoo, now):
-    """Choose one complete provider snapshot; never mix FX prices and closes."""
+    """Prefer fresh Google FX; disclose Yahoo fallback without mixing closes."""
     candidates, errors = [], []
     try:
         if 'error' in google:
             raise ValueError(google['error'])
-        candidates.append(google_fx(row, symbol, google, now))
+        candidate = google_fx(row, symbol, google, now)
+        candidate['reference_policy'] = 'GOOGLE_FINANCE_FX_V1'
+        candidates.append(candidate)
+        if candidate['validation_status'] != 'STALE':
+            return candidate
     except (ValueError, KeyError, TypeError) as exc:
         errors.append(str(exc))
     try:
@@ -474,7 +485,10 @@ def freshest_fx(row, symbol, google, yahoo, now):
                  'retrieved_at': yahoo['_retrieved_at']}
         if yahoo.get('regularMarketPreviousClose') is not None:
             quote['previousClose'] = yahoo['regularMarketPreviousClose']
-        candidates.append(google_fx(row, symbol, quote, now, source='Yahoo Finance'))
+        candidate = google_fx(row, symbol, quote, now, source='Yahoo Finance')
+        candidate.update(reference_policy='GOOGLE_FINANCE_FX_V1',
+                         reference_fallback='Google Finance unavailable or older than 8 minutes; Yahoo Finance observation')
+        candidates.append(candidate)
     except (ValueError, KeyError, TypeError, OverflowError) as exc:
         errors.append(str(exc))
     if not candidates:

@@ -195,7 +195,7 @@ function quoteStatus(row) {
   const stale = staleQuote(row) || ['marketCap', 'indexValue', 'changePercent'].some(field =>
     row[field] !== null && row[field] !== undefined && staleQuote(row, field));
   return (stale ? 'STALE · ' : '') + (row.quote_quality === 'INDICATIVE' ? 'INDICATIVE' : row.market_status || 'UNKNOWN') + ' · Quote ' +
-    quoteTime(ts, row.display_timezone) + ' · ' + (row.source || 'Source unavailable') + (row.quote_basis ? ' · ' + row.quote_basis : '');
+    quoteTime(ts, row.display_timezone) + ' · ' + (row.source || 'Source unavailable') + (row.quote_basis ? ' · ' + row.quote_basis : '') + (row.reference_fallback ? ' · ' + row.reference_fallback : '');
 }
 function fieldStatus(row, field) {
   const meta = row.field_metadata?.[field];
