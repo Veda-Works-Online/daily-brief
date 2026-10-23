@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-23T15:57:43.666207+00:00",
+  "updated": "2026-10-23T16:22:50.658768+00:00",
   "items": [
+    {
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "url": "https://bbc.co.uk/news/articles/cq74pjpmx0e8o",
+      "source": "BBC World",
+      "published": "2026-10-23T16:19:36+00:00",
+      "retrieved_at": "2026-10-23T16:22:45.692827+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a797ef44e7222a9ebdbc6f15"
+    },
     {
       "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
       "url": "https://bbc.co.uk/news/articles/c6vgxkvl4w5eo",
@@ -320,22 +336,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8e83bcb168a096ccbbf39059"
-    },
-    {
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "url": "https://bbc.co.uk/news/articles/cq74pjpmx0e8o",
-      "source": "BBC World",
-      "published": "2026-10-23T09:36:43+00:00",
-      "retrieved_at": "2026-10-23T09:41:36.661745+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a797ef44e7222a9ebdbc6f15"
     },
     {
       "title": "Sri Lanka: Death of iconic elephant raises habitat concerns",
