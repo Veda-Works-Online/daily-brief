@@ -288,3 +288,11 @@ assert(ctx.renderStocksTable([nasdaqRow],'us').includes('Nasdaq company cap'));
 
 
 
+
+const companySyncRow = {...sessionStock, retrieved_at:'2026-10-23T11:41:01Z', display_timezone:'Asia/Kolkata'};
+const companySyncHtml = ctx.renderStocksTable([companySyncRow], 'india');
+assert(companySyncHtml.includes('MARKET CLOSED · Synced 23 Oct 2026, 17:11:01 IST'));
+assert(!companySyncHtml.includes('market-field-status'));
+assert(ctx.companyStatus({...companySyncRow,market_status:'OPEN'}).startsWith('MARKET OPEN'));
+assert(ctx.companyStatus({...companySyncRow,market_status:'PRE_MARKET'}).startsWith('MARKET CLOSED · PRE-MARKET'));
+assert(ctx.companyStatus({...companySyncRow,market_status:'UNKNOWN',retrieved_at:null}).includes('MARKET STATUS UNAVAILABLE · Sync time unavailable'));
