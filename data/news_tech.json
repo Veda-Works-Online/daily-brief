@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T16:07:35.967064+00:00",
+  "updated": "2026-10-23T16:12:40.539225+00:00",
   "items": [
     {
       "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
@@ -3317,23 +3317,6 @@
       "story_fingerprint": "3e62c61213959cb5432b362a"
     },
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI",
-      "published": "2026-10-16T00:00:00+00:00",
-      "retrieved_at": "2026-10-16T19:31:20.900797+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "91099d2a023607ef71adc7e5"
-    },
-    {
       "title": "Benefit Street Partners answers questions faster with Codex",
       "url": "https://openai.com/index/benefit-street-partners",
       "source": "OpenAI",
@@ -3366,6 +3349,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "897c354eac1c27119d85d0b0"
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI",
+      "published": "2026-10-16T00:00:00+00:00",
+      "retrieved_at": "2026-10-16T19:31:20.900797+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "91099d2a023607ef71adc7e5"
     },
     {
       "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-23T16:07:30.194714+00:00",
+    "checked_at": "2026-10-23T16:12:34.842637+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
