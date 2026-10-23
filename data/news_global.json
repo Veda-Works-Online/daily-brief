@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T04:40:46.164778+00:00",
+  "updated": "2026-10-23T05:05:41.658104+00:00",
   "items": [
     {
       "title": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
@@ -128,6 +128,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "762a70b28f07697ad951aa58"
+    },
+    {
+      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+      "url": "https://bbc.co.uk/news/articles/cj75p1xr7p7vo",
+      "source": "BBC World",
+      "published": "2026-10-22T23:16:20+00:00",
+      "retrieved_at": "2026-10-23T05:05:35.846045+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f46c5ef62897984b72835768"
     },
     {
       "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
@@ -336,6 +352,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9309a6599ae663ed96c213fa"
+    },
+    {
+      "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+      "url": "https://bbc.co.uk/news/videos/c9146p1vx888o",
+      "source": "BBC World",
+      "published": "2026-10-22T17:49:13+00:00",
+      "retrieved_at": "2026-10-23T05:05:35.845975+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "233be28d87f19278962d8f7e"
     },
     {
       "title": "‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "270d777b3b0cd9d1dbe41160"
-    },
-    {
-      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
-      "url": "https://bbc.co.uk/news/articles/c680zdmn100lo",
-      "source": "BBC World",
-      "published": "2026-10-19T02:41:50+00:00",
-      "retrieved_at": "2026-10-19T05:19:51.820346+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d1825a23a33f09f115a1eb94"
-    },
-    {
-      "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
-      "url": "https://aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T02:10:09+00:00",
-      "retrieved_at": "2026-10-19T03:14:54.437105+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The air strike, one of Ukraine's largest in the war, comes amid rising tensions between Kyiv and Washington.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "31db6e09c909b90de9d9299a"
     }
   ],
   "unverified_history": [
