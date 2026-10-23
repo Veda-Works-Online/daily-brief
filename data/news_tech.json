@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-23T16:12:40.539225+00:00",
+  "updated": "2026-10-23T16:17:43.264202+00:00",
   "items": [
+    {
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "source": "Hugging Face",
+      "published": "2026-10-23T16:15:50+00:00",
+      "retrieved_at": "2026-10-23T16:17:38.331997+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "85a46a9c99265cbfcddb81ea"
+    },
     {
       "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
       "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo",
@@ -108,9 +125,9 @@
       "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing",
       "source": "TechCrunch AI",
       "published": "2026-10-23T00:45:37+00:00",
-      "retrieved_at": "2026-10-23T00:49:39.974082+00:00",
+      "retrieved_at": "2026-10-23T16:17:38.188819+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+      "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring, and, eventually, getting better at their jobs.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -376,23 +393,6 @@
       "story_fingerprint": "bd985c69b341ebcbc809228b"
     },
     {
-      "title": "Canva releases its first image generation model",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
-      "source": "TechCrunch AI",
-      "published": "2026-10-22T19:00:00+00:00",
-      "retrieved_at": "2026-10-22T19:09:06.722060+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "aaf0d605d614804f20e6bf54"
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
       "source": "TechCrunch AI",
@@ -408,6 +408,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "693ef25f016597e8a5bf6a35"
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T19:00:00+00:00",
+      "retrieved_at": "2026-10-22T19:09:06.722060+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "aaf0d605d614804f20e6bf54"
     },
     {
       "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b6477f32fcbb59d919e69e65"
-    },
-    {
-      "title": "NTangible bets it can predict how athletes will perform under pressure",
-      "url": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure",
-      "source": "TechCrunch",
-      "published": "2026-10-14T14:00:00+00:00",
-      "retrieved_at": "2026-10-14T14:02:56.458764+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's \"clutch\" factor.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a6c427bf0d8b6f3d57f22329"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-23T16:12:34.842637+00:00",
+    "checked_at": "2026-10-23T16:17:37.500700+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
