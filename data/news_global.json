@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T15:17:51.327513+00:00",
+  "updated": "2026-10-23T15:22:39.705053+00:00",
   "items": [
     {
       "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
@@ -32,6 +32,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f1373ab35fe81633220496b8"
+    },
+    {
+      "title": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
+      "url": "https://dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469",
+      "source": "DW",
+      "published": "2026-10-23T14:23:00+00:00",
+      "retrieved_at": "2026-10-23T15:22:35.099252+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Repeated Ukrainian drone attacks are increasingly disrupting operations at Moscow's airports. The pounding is part of Ukraine's plan to shut down Russia's airpace.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "97e0e4b91e8f9fa1a79230f8"
     },
     {
       "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fc19f2b98138359e9e3c8304"
-    },
-    {
-      "title": "Can diplomacy prevent an Ethiopia-Eritrea war as Tigray gets a new administration?",
-      "url": "https://dw.com/en/can-diplomacy-prevent-an-ethiopia-eritrea-war-as-tigray-gets-a-new-administration/a-79705435",
-      "source": "DW",
-      "published": "2026-10-19T15:02:00+00:00",
-      "retrieved_at": "2026-10-19T15:56:51.180316+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters. But tensions with Eritrea continue to raise fears of a wider regional war.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "21acaaed64bfceeaf0a11edb"
     }
   ],
   "unverified_history": [
