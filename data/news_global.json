@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T12:01:58.540780+00:00",
+  "updated": "2026-10-23T12:22:36.360137+00:00",
   "items": [
     {
       "title": "US-Iran war, then and now: How the landscape has changed since February",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c31378933c76b25e49a5e63d"
+    },
+    {
+      "title": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
+      "url": "https://dw.com/en/serbia-hope-tension-and-apprehension-as-voters-prepare-to-elect-new-parliament/a-79738102",
+      "source": "DW",
+      "published": "2026-10-23T11:43:00+00:00",
+      "retrieved_at": "2026-10-23T12:22:31.943118+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "After two years of protests, Serbia faces a pivotal election on Sunday, with a student-led challenge to Aleksandar Vucic's lengthy rule. Allegations of electoral irregularities and fears of a post-election crisis abound.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b2ab6abddc8d3328c3c4dff5"
     },
     {
       "title": "‘Pink blooms from among the rubble’: Battling breast cancer in Gaza",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0961840f7722d81ce22aa401"
-    },
-    {
-      "title": "What the Greens Misunderstand About the Ukraine Conflict",
-      "url": "https://thediplomat.com/2026/10/what-the-greens-misunderstand-about-the-ukraine-conflict",
-      "source": "The Diplomat",
-      "published": "2026-10-19T12:25:00+00:00",
-      "retrieved_at": "2026-10-19T17:21:49.391704+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "As a policy, the Greens decision to not support military assistance to Ukraine is a deeply flawed one. As a political position it is self-defeating, too.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9a138769b808531942d1e183"
     }
   ],
   "unverified_history": [
