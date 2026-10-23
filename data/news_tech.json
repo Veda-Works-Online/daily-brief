@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-23T17:18:20.476989+00:00",
+  "updated": "2026-10-23T17:23:23.962596+00:00",
   "items": [
+    {
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs",
+      "source": "Ars Technica AI",
+      "published": "2026-10-23T17:18:31+00:00",
+      "retrieved_at": "2026-10-23T17:23:20.047053+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e766f9b401678663f776637f"
+    },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d6616d7214d01bb05dfc08df"
-    },
-    {
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "source": "Hugging Face",
-      "published": "2026-10-14T16:12:42+00:00",
-      "retrieved_at": "2026-10-14T16:12:54.280726+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "1b48718a6947e579611861f5"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-23T17:18:15.878622+00:00",
+    "checked_at": "2026-10-23T17:23:18.761386+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
