@@ -178,11 +178,11 @@ const sessionStock = {name:'Adani Enterprises', ticker:'ADANIENT.NS', currency:'
     changePercent:{validation_status:'INDICATIVE',decimal:'2.471483',source:'Yahoo Finance',
       source_timestamp:'2026-10-14T03:39:34Z',trading_session:{date:'2026-10-13',timezone:'Asia/Kolkata',timestamp:'2026-10-13T10:00:00Z'}}}};
 const sessionHtml = ctx.renderStocksTable([sessionStock], 'india');
-assert.equal((sessionHtml.match(/Session 2026-10-13 \(Asia\/Kolkata\)/g)||[]).length, 2);
+assert.equal((sessionHtml.match(/Session 2026-10-13 \(Asia\/Kolkata\)/g)||[]).length, 1);
 assert(sessionHtml.includes('₹3.11 L Cr'));
 assert(sessionHtml.includes('+2.47%'));
 assert(sessionHtml.includes('STALE'));
-assert(sessionHtml.includes('Cap-specific time unavailable'));
+assert(!sessionHtml.includes('Cap-specific time unavailable'));
 assert(!sessionHtml.includes('14 Oct 2026, 09:09:34 IST'));
 const independent = {...sessionStock, validation_status:'STALE', field_metadata:{...sessionStock.field_metadata,
   changePercent:{validation_status:'INDICATIVE', decimal:'2.471483',source:'Yahoo Finance',source_timestamp:new Date().toISOString()}}};
