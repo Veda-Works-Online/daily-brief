@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-22T23:34:54.762427+00:00",
+  "updated": "2026-10-23T00:29:53.039690+00:00",
   "items": [
+    {
+      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+      "url": "https://bbc.co.uk/news/articles/ck5ynd1z6e83o",
+      "source": "BBC World",
+      "published": "2026-10-23T00:25:30+00:00",
+      "retrieved_at": "2026-10-23T00:29:47.500737+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4704cf2f314cb3418c7c9fb7"
+    },
+    {
+      "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
+      "url": "https://aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T00:00:00+00:00",
+      "retrieved_at": "2026-10-23T00:29:47.384856+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Trump indicates new strikes on Iran, saying the US has knocked the 'hell out' of the country.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "762a70b28f07697ad951aa58"
+    },
     {
       "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
       "url": "https://bbc.co.uk/news/articles/c54g1kxw4nvvo",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "70871b88ef6b48d17f1673f5"
-    },
-    {
-      "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
-      "url": "https://aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T19:11:27+00:00",
-      "retrieved_at": "2026-10-18T19:18:23.233346+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Ukraine's president says communication between Washington and Kyiv 'virtually nonstop', despite a spat with Trump.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5e869bb3aba9255e072ec1ce"
-    },
-    {
-      "title": "Gaza bodybuilders find solace in strongman competition among the ruins",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins",
-      "source": "Al Jazeera",
-      "published": "2026-10-18T18:36:02+00:00",
-      "retrieved_at": "2026-10-18T18:48:21.072578+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Bodybuilders in Gaza are finding solace in testing their strength during a competition surrounded by rubble.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "040b07932286f4911cfeb20d"
     }
   ],
   "unverified_history": [
