@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T06:00:28.388788+00:00",
+  "updated": "2026-10-23T06:05:36.365253+00:00",
   "items": [
     {
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
@@ -34,6 +34,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "da0c92e2ff4b6a7a436d9c79"
+    },
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source": "OpenAI",
+      "published": "2026-10-23T00:00:00+00:00",
+      "retrieved_at": "2026-10-23T06:05:31.215937+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "6fe7481317bcd54d64792d6f"
     },
     {
       "title": "Palmer Luckey Made a Genetically Modified Military Dog Startup",
@@ -3198,23 +3215,6 @@
       "story_fingerprint": "3e62c61213959cb5432b362a"
     },
     {
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "source": "OpenAI",
-      "published": "2026-10-16T00:00:00+00:00",
-      "retrieved_at": "2026-10-17T05:27:26.937045+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "81b19b863eb63ff9ca4e0dca"
-    },
-    {
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "source": "OpenAI",
@@ -3230,6 +3230,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "91099d2a023607ef71adc7e5"
+    },
+    {
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "source": "OpenAI",
+      "published": "2026-10-16T00:00:00+00:00",
+      "retrieved_at": "2026-10-17T05:27:26.937045+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "81b19b863eb63ff9ca4e0dca"
     },
     {
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cdef6d2f0d617ae9fb2d26c5"
-    },
-    {
-      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai",
-      "source": "TechCrunch",
-      "published": "2026-10-14T11:00:00+00:00",
-      "retrieved_at": "2026-10-14T11:01:34.627981+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "26e7225a248f631d38caf185"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-23T06:00:18.872456+00:00",
+    "checked_at": "2026-10-23T06:05:29.880730+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
