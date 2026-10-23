@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-23T12:06:43.136272+00:00",
+  "updated": "2026-10-23T12:11:41.417745+00:00",
   "items": [
+    {
+      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites",
+      "source": "Ars Technica",
+      "published": "2026-10-23T11:30:22+00:00",
+      "retrieved_at": "2026-10-23T12:11:36.666464+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Ukraine has changed drones and war-fighting tech to reduce reliance on Starlink.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6b7a95b05227a98f0946ca21"
+    },
     {
       "title": "Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could",
       "url": "https://wired.com/review/samsung-galazy-z-flip8",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9c64787d9c276dd911343f8b"
-    },
-    {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "source": "OpenAI",
-      "published": "2026-10-14T12:00:00+00:00",
-      "retrieved_at": "2026-10-14T17:02:51.386874+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "5ccd60c31ea6a3395f5f41f6"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-23T12:06:36.693578+00:00",
+    "checked_at": "2026-10-23T12:11:35.093510+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
