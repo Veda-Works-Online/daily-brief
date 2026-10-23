@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-23T14:42:50.937719+00:00",
+  "updated": "2026-10-23T15:17:51.327513+00:00",
   "items": [
     {
-      "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
       "url": "https://bbc.co.uk/news/articles/c6vgxkvl4w5eo",
       "source": "BBC World",
-      "published": "2026-10-23T14:13:33+00:00",
-      "retrieved_at": "2026-10-23T14:22:46.028926+00:00",
+      "published": "2026-10-23T15:06:27+00:00",
+      "retrieved_at": "2026-10-23T15:17:46.149617+00:00",
       "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "summary": "Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
       "category": "global",
@@ -15,7 +15,23 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "b7fac75c32b999ea3820b094"
+      "story_fingerprint": "61d4ca767f5d4c9122da6511"
+    },
+    {
+      "title": "US Justice Department investigating Corey Lewandowski over DHS role",
+      "url": "https://bbc.co.uk/news/articles/c6ly0dg453v8o",
+      "source": "BBC World",
+      "published": "2026-10-23T14:58:19+00:00",
+      "retrieved_at": "2026-10-23T15:17:46.149703+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f1373ab35fe81633220496b8"
     },
     {
       "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "21acaaed64bfceeaf0a11edb"
-    },
-    {
-      "title": "Pakistan suspends Iran border trade, amid violence on both sides",
-      "url": "https://aljazeera.com/news/2026/10/19/pakistan-suspends-iran-border-trade-amid-violence-on-both-sides",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T14:43:03+00:00",
-      "retrieved_at": "2026-10-19T14:56:45.778593+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Islamabad cites security concerns, while Tehran points to technical issues as Pakistan mediates between Iran and the US.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "63c2bd7ba68c481a99125bdc"
     }
   ],
   "unverified_history": [
