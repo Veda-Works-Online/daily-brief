@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T17:33:23.829033+00:00",
+  "updated": "2026-10-23T17:38:20.677578+00:00",
   "items": [
     {
       "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
@@ -51,6 +51,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "16b7de78205899881b541f92"
+    },
+    {
+      "title": "Everybody panic: A Valve developer said \"HLX\" in public",
+      "url": "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public",
+      "source": "Ars Technica",
+      "published": "2026-10-23T16:35:00+00:00",
+      "retrieved_at": "2026-10-23T17:38:17.615038+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Sound designer lets Half Life-related codename slip at a conference.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "77bf667a367384be87885b6f"
     },
     {
       "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dc801f4d724b20ed4e0d6b4b"
-    },
-    {
-      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-      "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room",
-      "source": "Ars Technica AI",
-      "published": "2026-10-14T16:41:49+00:00",
-      "retrieved_at": "2026-10-14T16:57:51.240099+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d6616d7214d01bb05dfc08df"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-23T17:33:19.446989+00:00",
+    "checked_at": "2026-10-23T17:38:16.311021+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
