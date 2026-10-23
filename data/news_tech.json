@@ -1,23 +1,6 @@
 {
-  "updated": "2026-10-23T17:07:34.354459+00:00",
+  "updated": "2026-10-23T17:12:35.438231+00:00",
   "items": [
-    {
-      "title": "What’s the Best iPhone to Buy or Avoid Right Now? (2026)",
-      "url": "https://wired.com/gallery/iphone-buying-guide",
-      "source": "Wired",
-      "published": "2026-10-23T17:00:00+00:00",
-      "retrieved_at": "2026-10-23T17:07:30.450782+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they’re not your only options. We have all the details on Apple’s smartphone lineup to help you find the right model.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "16b7de78205899881b541f92"
-    },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
@@ -34,6 +17,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "2265c8a1bc84d92bfd490011"
+    },
+    {
+      "title": "What’s the Best iPhone to Buy or Avoid Right Now? (2026)",
+      "url": "https://wired.com/gallery/iphone-buying-guide",
+      "source": "Wired",
+      "published": "2026-10-23T17:00:00+00:00",
+      "retrieved_at": "2026-10-23T17:07:30.450782+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they’re not your only options. We have all the details on Apple’s smartphone lineup to help you find the right model.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "16b7de78205899881b541f92"
     },
     {
       "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-23T17:07:28.878283+00:00",
+    "checked_at": "2026-10-23T17:12:27.561104+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
