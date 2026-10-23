@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-23T10:56:55.114212+00:00",
+  "updated": "2026-10-23T11:21:53.355143+00:00",
   "items": [
+    {
+      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+      "url": "https://bbc.co.uk/news/articles/cq4g1p974wxko",
+      "source": "BBC World",
+      "published": "2026-10-23T10:26:06+00:00",
+      "retrieved_at": "2026-10-23T11:21:47.430606+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1d68762c986bfc750c2047c3"
+    },
     {
       "title": "South Korea invites North for military talks over border",
       "url": "https://aljazeera.com/news/2026/10/23/south-korea-invites-north-for-military-talks-over-border",
@@ -64,22 +80,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8e83bcb168a096ccbbf39059"
-    },
-    {
-      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-      "url": "https://bbc.co.uk/news/articles/cq4g1p974wxko",
-      "source": "BBC World",
-      "published": "2026-10-23T09:44:40+00:00",
-      "retrieved_at": "2026-10-23T09:51:29.698278+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1d68762c986bfc750c2047c3"
     },
     {
       "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
