@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-23T03:55:39.024123+00:00",
+  "updated": "2026-10-23T04:00:34.072129+00:00",
   "items": [
+    {
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia",
+      "source": "TechCrunch",
+      "published": "2026-10-23T04:00:00+00:00",
+      "retrieved_at": "2026-10-23T04:00:28.228550+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "395f793869d3ca5be92148b2"
+    },
     {
       "title": "Left alone with nothing to do, AI agents started playing",
       "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "26e7225a248f631d38caf185"
-    },
-    {
-      "title": "My Friend Has No Soul",
-      "url": "https://wired.com/story/my-friend-has-no-soul",
-      "source": "Wired",
-      "published": "2026-10-14T11:00:00+00:00",
-      "retrieved_at": "2026-10-14T11:06:35.975036+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "18cdd04190bc9d6dbf836d4b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-23T03:55:32.546042+00:00",
+    "checked_at": "2026-10-23T04:00:26.730823+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
