@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T00:09:41.831281+00:00",
+  "updated": "2026-10-23T00:14:42.230611+00:00",
   "items": [
     {
       "title": "Palmer Luckey Made a Genetically Modified Military Dog Startup",
@@ -3147,23 +3147,6 @@
       "story_fingerprint": "3e62c61213959cb5432b362a"
     },
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI",
-      "published": "2026-10-16T00:00:00+00:00",
-      "retrieved_at": "2026-10-16T19:31:20.900797+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "91099d2a023607ef71adc7e5"
-    },
-    {
       "title": "Benefit Street Partners answers questions faster with Codex",
       "url": "https://openai.com/index/benefit-street-partners",
       "source": "OpenAI",
@@ -3179,6 +3162,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "81b19b863eb63ff9ca4e0dca"
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI",
+      "published": "2026-10-16T00:00:00+00:00",
+      "retrieved_at": "2026-10-16T19:31:20.900797+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "91099d2a023607ef71adc7e5"
     },
     {
       "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-23T00:09:34.130995+00:00",
+    "checked_at": "2026-10-23T00:14:33.579083+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
