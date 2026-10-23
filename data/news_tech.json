@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T00:14:42.230611+00:00",
+  "updated": "2026-10-23T00:19:40.833347+00:00",
   "items": [
     {
       "title": "Palmer Luckey Made a Genetically Modified Military Dog Startup",
@@ -68,6 +68,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5dfa51f2cd93a93199ccfa96"
+    },
+    {
+      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+      "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational",
+      "source": "Ars Technica",
+      "published": "2026-10-22T21:07:09+00:00",
+      "retrieved_at": "2026-10-23T00:19:36.466120+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8a8f6dcf101501b90f8bc171"
     },
     {
       "title": "Rivian buys world model startup to accelerate self-driving ambitions",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "960a575710fd87d7ebb9817c"
-    },
-    {
-      "title": "Tesla’s Roadster 2 Is Late—and Entering a Different EV World",
-      "url": "https://wired.com/story/tesla-roadster-2-is-late-and-entering-a-different-ev-world",
-      "source": "Wired",
-      "published": "2026-10-14T09:15:00+00:00",
-      "retrieved_at": "2026-10-14T09:21:32.235705+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Nine years after its reveal, the overdue Roadster is set to debut on Thursday to an EV market that has grown skeptical of electric hypercars.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "00e6d59f8fb8d703600e6ee6"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-23T00:14:33.579083+00:00",
+    "checked_at": "2026-10-23T00:19:35.261839+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
