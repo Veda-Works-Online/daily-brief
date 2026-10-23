@@ -365,11 +365,11 @@ function renderStocksTable(stocks, region, usdInr = null) {
         ? fmtIndexValue(s.indexValue, exactValue(s, 'indexValue'))
         : fmtMarketCap(s.marketCap, s.currency);
     return `<tr>
-      <td><strong>${escapeHtml(isCommodities && s.ticker === 'ZS=F' ? 'Soyabeans' : s.name)}</strong>${listing}${'<br><small>' + escapeHtml(isEquity ? (s.market_status || 'UNKNOWN') + ' · Field sessions shown beside each value' : quoteStatus(s)) + '</small>'}</td>
+      <td><strong>${escapeHtml(isCommodities && s.ticker === 'ZS=F' ? 'Soyabeans' : s.name)}</strong>${listing}${'<br><small>' + escapeHtml(isEquity ? (s.market_status || 'UNKNOWN') + ' · Daily change session shown below; cap details on hover' : quoteStatus(s)) + '</small>'}</td>
       <td class="muted" title="${escapeHtml(isEquity ? 'Sources for the independently dated fields' : quoteStatus(s))}">${s.ticker === 'GOLD_24K_HYDERABAD' ? '<a href="' + escapeHtml(s.source === 'Economic Times' ? 'https://economictimes.indiatimes.com/goldrate/city-hyderabad,msid-88971989.cms' : 'https://groww.in/gold-rates/gold-rate-today-in-hyderabad') + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(s.source || 'Groww') + '</a>' : escapeHtml(marketReference(s, field, isCommodities ? usdInr : null))}</td>
       <td class="muted">${escapeHtml(s.sector || '')}</td>
       ${isCommodities ? '<td title="' + escapeHtml(commodity.quantityTitle) + '">' + escapeHtml(commodity.quantity) + '</td>' : ''}
-      <td class="num" title="${escapeHtml(isCommodities ? commodity.title + ' · ' + commodity.note : field === 'marketCap' ? capDetails : exactValue(s, field) || 'DATA UNAVAILABLE')}">${value}${isEquity ? stockFieldLabel(s, field) : isCommodities ? '<br><small>' + escapeHtml(commodity.note) + '</small>' : fieldStatus(s, field)}</td>
+      <td class="num" title="${escapeHtml(isCommodities ? commodity.title + ' · ' + commodity.note : field === 'marketCap' ? capDetails : exactValue(s, field) || 'DATA UNAVAILABLE')}">${value}${isEquity ? '' : isCommodities ? '<br><small>' + escapeHtml(commodity.note) + '</small>' : fieldStatus(s, field)}</td>
       <td class="num">${canDisplay(s, 'changePercent') ? fmtGainLossPercent(s.changePercent, exactValue(s, 'changePercent')) : 'DATA UNAVAILABLE'}${isEquity ? stockFieldLabel(s, 'changePercent') : ''}</td>
     </tr>`;
   }).join('');
