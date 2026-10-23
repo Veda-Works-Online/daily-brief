@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-23T14:12:46.577925+00:00",
+  "updated": "2026-10-23T14:17:45.926945+00:00",
   "items": [
+    {
+      "title": "US announces ceasefire in Russia-occupied Ukraine city 'on brink of disaster'",
+      "url": "https://bbc.co.uk/news/articles/c6vgxkvl4w5eo",
+      "source": "BBC World",
+      "published": "2026-10-23T14:13:33+00:00",
+      "retrieved_at": "2026-10-23T14:17:41.017425+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "US First Lady Melania Trump has secured a truce that will begin on 29 October in the southern city, the White House says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "06b9a69adffaa51026fbe9d7"
+    },
     {
       "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
       "url": "https://aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "63c2bd7ba68c481a99125bdc"
-    },
-    {
-      "title": "Amid Economic Challenges, China Turns to Vulnerable Workforce to Fix Its Social Security Problems",
-      "url": "https://thediplomat.com/2026/10/amid-economic-challenges-china-turns-to-vulnerable-workforce-to-fix-its-social-security-problems",
-      "source": "The Diplomat",
-      "published": "2026-10-19T14:30:00+00:00",
-      "retrieved_at": "2026-10-19T17:21:49.391639+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "China is looking to “optimize and enhance” its social security program. People fear that will translate to pressure on gig economy workers and rural migrant workers.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "704d921b52ba021a95b3c21a"
     }
   ],
   "unverified_history": [
