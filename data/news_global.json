@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-23T06:15:43.371929+00:00",
+  "updated": "2026-10-23T06:30:48.237777+00:00",
   "items": [
+    {
+      "title": "EU entering winter with lowest gas reserves on record, IEA boss warns",
+      "url": "https://aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T06:02:15+00:00",
+      "retrieved_at": "2026-10-23T06:30:42.542750+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Al Jazeera interviews Fatih Birol in Berlin as the Iran war disrupts global energy supplies.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c19d200386626dbf9bb18067"
+    },
     {
       "title": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
       "url": "https://aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up",
@@ -114,20 +130,20 @@
       "story_fingerprint": "4704cf2f314cb3418c7c9fb7"
     },
     {
-      "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
+      "title": "Iran war live: European, Mideast ministers meet in Istanbul for talks",
       "url": "https://aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran",
       "source": "Al Jazeera",
       "published": "2026-10-23T00:00:00+00:00",
-      "retrieved_at": "2026-10-23T00:29:47.384856+00:00",
+      "retrieved_at": "2026-10-23T06:30:42.542974+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump indicates new strikes on Iran, saying the US has knocked the 'hell out' of the country.",
+      "summary": "European and Mideast foreign ministers meet in Istanbul for talks on the Strait of Hormuz and regional crises.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "762a70b28f07697ad951aa58"
+      "story_fingerprint": "caffb2873e37c8dae8ab47b6"
     },
     {
       "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f0496f3e1e7956eef68dbc5c"
-    },
-    {
-      "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
-      "url": "https://aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T03:10:05+00:00",
-      "retrieved_at": "2026-10-19T03:45:55.088541+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US president accuses Ukrainian leader of not wanting to end the war, as Zelenskyy speaks with Washington envoys.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "270d777b3b0cd9d1dbe41160"
     }
   ],
   "unverified_history": [
