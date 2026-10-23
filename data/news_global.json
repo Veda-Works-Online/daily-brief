@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-23T17:38:25.984496+00:00",
+  "updated": "2026-10-23T17:53:21.755683+00:00",
   "items": [
+    {
+      "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T17:30:51+00:00",
+      "retrieved_at": "2026-10-23T17:53:18.526284+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu orders a “full lockdown” of the occupied West Bank following a shooting.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9c160e1ea427ad43d10f0036"
+    },
     {
       "title": "Romania blames Russia after drone sinks ship in the Black Sea",
       "url": "https://aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "27a7dac470d89b5aca586f02"
-    },
-    {
-      "title": "Benny Gantz drops out of Israel’s election race",
-      "url": "https://aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T18:11:01+00:00",
-      "retrieved_at": "2026-10-19T18:32:26.788252+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Decision comes after polls showed his Blue and White party below the 3.25 percent threshold needed to enter the Knesset.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4ac7631121cb75324681dced"
     }
   ],
   "unverified_history": [
