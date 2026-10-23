@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-23T08:41:47.161120+00:00",
+  "updated": "2026-10-23T08:56:45.003262+00:00",
   "items": [
+    {
+      "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+      "url": "https://bbc.co.uk/news/articles/cw98zn304zg7o",
+      "source": "BBC World",
+      "published": "2026-10-23T08:45:58+00:00",
+      "retrieved_at": "2026-10-23T08:56:39.191785+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "One person has died after being swept away by waves in Taiwan's Liuqiu island.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ede355eca18ed7992e1a6a5b"
+    },
     {
       "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
       "url": "https://bbc.co.uk/news/articles/cq74pjpmx0e8o",
@@ -16,6 +32,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a797ef44e7222a9ebdbc6f15"
+    },
+    {
+      "title": "Israeli forces accused of killing disabled man in Syria raid",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid",
+      "source": "Al Jazeera",
+      "published": "2026-10-23T08:35:44+00:00",
+      "retrieved_at": "2026-10-23T08:56:39.296710+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israeli forces reportedly shot dead a Syrian man with an intellectual disability and hearing problems, during a raid.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e476dfea3cf946f383df60ac"
     },
     {
       "title": "Are global oil reserves sufficient to withstand renewed US-Iran war?",
@@ -82,20 +114,20 @@
       "story_fingerprint": "c19d200386626dbf9bb18067"
     },
     {
-      "title": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
+      "title": "Israel preparing full lockdown of occupied West Bank after Hebron gun fight",
       "url": "https://aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up",
       "source": "Al Jazeera",
       "published": "2026-10-23T04:09:28+00:00",
-      "retrieved_at": "2026-10-23T04:40:40.417778+00:00",
+      "retrieved_at": "2026-10-23T08:56:39.297074+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israeli pogroms on Palestinian farmers and their lands during the olive harvest season intensify.",
+      "summary": "Clampdown comes as Israeli pogroms heighten tension and spread violence across Palestinian territory.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "62415fb10663d211b98848ed"
+      "story_fingerprint": "5c94feb254fd172a39297499"
     },
     {
       "title": "Venezuelans demand elections in first national protest in nearly two years",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7c5982efe6ea9c612278741d"
-    },
-    {
-      "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-      "url": "https://bbc.co.uk/news/articles/cm79plrvpl4vo",
-      "source": "BBC World",
-      "published": "2026-10-19T06:00:18+00:00",
-      "retrieved_at": "2026-10-19T06:09:56.293665+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "33ee6c80b15cde47217b0d78"
-    },
-    {
-      "title": "The kingmakers who could determine Israel’s election",
-      "url": "https://aljazeera.com/news/2026/10/19/the-kingmakers-that-could-determine-israels-election",
-      "source": "Al Jazeera",
-      "published": "2026-10-19T05:58:46+00:00",
-      "retrieved_at": "2026-10-19T06:24:58.046250+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel’s Arab-led and ultra-Orthodox parties face attacks but could hold the balance of power after October 27 vote.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ce75f4d821a315b9c72efa9f"
     }
   ],
   "unverified_history": [
