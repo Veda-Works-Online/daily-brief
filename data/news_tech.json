@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-23T10:16:31.826485+00:00",
+  "updated": "2026-10-23T10:21:35.234253+00:00",
   "items": [
+    {
+      "title": "A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married",
+      "url": "https://wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married",
+      "source": "Wired",
+      "published": "2026-10-23T10:15:00+00:00",
+      "retrieved_at": "2026-10-23T10:21:30.567675+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Upward, a newly relaunched Christian app, is pitching trad values to a generation that barely even dates.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3aabd48ec37b69040db34ad7"
+    },
     {
       "title": "The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars",
       "url": "https://wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "b81b4991ddb2aa752bb3fb54"
-    },
-    {
-      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say",
-      "source": "Ars Technica AI",
-      "published": "2026-10-14T11:00:30+00:00",
-      "retrieved_at": "2026-10-14T11:06:35.834968+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "aaa341f2e72960324fbc02f0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-23T10:16:25.273817+00:00",
+    "checked_at": "2026-10-23T10:21:29.023037+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
