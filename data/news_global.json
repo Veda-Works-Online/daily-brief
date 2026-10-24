@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-24T17:41:24.759109+00:00",
+  "updated": "2026-10-24T18:11:22.590918+00:00",
   "items": [
+    {
+      "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china",
+      "source": "Al Jazeera",
+      "published": "2026-10-24T18:00:20+00:00",
+      "retrieved_at": "2026-10-24T18:11:18.251577+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "14d5fec68124ddd2676b40f5"
+    },
     {
       "title": "Trump says he may move White House press corps to new location",
       "url": "https://aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location",
@@ -384,6 +400,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "649c274befc06429f7ffdc3c"
+    },
+    {
+      "title": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
+      "url": "https://dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995",
+      "source": "DW",
+      "published": "2026-10-24T05:29:00+00:00",
+      "retrieved_at": "2026-10-24T18:11:18.809942+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Japan is demanding access to a journalist who was arrested by Russian security services. The Kremlin claims that Japan is using journalists as spies.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c54a9b40f7bc3a96af89f9f7"
     },
     {
       "title": "Journalist or spy? Russia's arrest of a Japanese reporter sparks a high-stakes diplomatic showdown.",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a34cc1d4b6ea17aed789d060"
-    },
-    {
-      "title": "Brazil's Lula, Flavio Bolsonaro tied ahead of runoff vote",
-      "url": "https://dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182",
-      "source": "DW",
-      "published": "2026-10-20T15:12:00+00:00",
-      "retrieved_at": "2026-10-20T16:10:47.542069+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "With just under a week to go before the decisive presidential runoff election, polls show left-wing incumbent Luiz Inacio Lula da Silva and his right-wing challenger Flavio Bolsonaro are virtually tied.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6063207b84e49e11919f0d11"
-    },
-    {
-      "title": "Weapons to Russia, Wigs to China: How North Korea Balances Its Allies",
-      "url": "https://thediplomat.com/2026/10/weapons-to-russia-wigs-to-china-how-north-korea-balances-its-allies",
-      "source": "The Diplomat",
-      "published": "2026-10-20T15:07:00+00:00",
-      "retrieved_at": "2026-10-20T17:20:47.968247+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "A clear division of labor ensures North Korea’s alliances with Russia and China are complementary, not competitive with each other.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e0e0f1a07b1b77377779b992"
     }
   ],
   "unverified_history": [
