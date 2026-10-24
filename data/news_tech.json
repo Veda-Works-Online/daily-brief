@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-24T15:56:16.965934+00:00",
+  "updated": "2026-10-24T16:01:25.871778+00:00",
   "items": [
+    {
+      "title": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
+      "source": "TechCrunch AI",
+      "published": "2026-10-24T16:00:00+00:00",
+      "retrieved_at": "2026-10-24T16:01:18.078413+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5b3ace4d77179ab10478baf3"
+    },
     {
       "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
       "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b37bddea86bf67851572f1c1"
-    },
-    {
-      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
-      "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals",
-      "source": "TechCrunch",
-      "published": "2026-10-14T23:00:00+00:00",
-      "retrieved_at": "2026-10-14T23:03:32.320558+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "049a9c87589046d79105a11b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-24T15:56:12.112430+00:00",
+    "checked_at": "2026-10-24T16:01:17.532734+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
