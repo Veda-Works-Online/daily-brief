@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-24T20:11:51.855581+00:00",
+  "updated": "2026-10-24T20:16:50.067713+00:00",
   "items": [
+    {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet",
+      "source": "TechCrunch",
+      "published": "2026-10-24T20:15:33+00:00",
+      "retrieved_at": "2026-10-24T20:16:47.703864+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6d6c214d6c45e9cea16e3470"
+    },
     {
       "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "585c27c6b89336a46a3c68d1"
-    },
-    {
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "url": "https://openai.com/index/sullivan-cromwell",
-      "source": "OpenAI",
-      "published": "2026-10-15T00:00:00+00:00",
-      "retrieved_at": "2026-10-16T00:32:27.274104+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "32903181bdd4d373b4580002"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-24T20:11:48.415785+00:00",
+    "checked_at": "2026-10-24T20:16:46.507186+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
