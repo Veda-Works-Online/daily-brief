@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-24T03:59:54.236331+00:00",
+  "updated": "2026-10-24T04:34:52.929488+00:00",
   "items": [
+    {
+      "title": "France prepares for day of protest a week after nationwide riots",
+      "url": "https://bbc.co.uk/news/articles/cj62yv5k0w4yo",
+      "source": "BBC World",
+      "published": "2026-10-24T04:03:46+00:00",
+      "retrieved_at": "2026-10-24T04:34:47.343674+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5f22eba3f00630379551b9fa"
+    },
     {
       "title": "Argentina identifies dozens of victims killed in its ‘Dirty War’",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5321d1bc2bd1b2ff4f83e4a3"
-    },
-    {
-      "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
-      "url": "https://aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T06:23:44+00:00",
-      "retrieved_at": "2026-10-20T06:39:03.227724+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump calls for Zelenskyy to be replaced as negotiator, while Ukraine's president says arms shipments delayed.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6e25c7096671999a613f0c04"
     }
   ],
   "unverified_history": [
