@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T12:35:32.020686+00:00",
+  "updated": "2026-10-24T12:40:44.705230+00:00",
   "items": [
     {
       "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
@@ -17,6 +17,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f040b07929d9a9eecaac5594"
+    },
+    {
+      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature",
+      "source": "Ars Technica",
+      "published": "2026-10-24T11:50:28+00:00",
+      "retrieved_at": "2026-10-24T12:40:36.364602+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "288654ec72cea0c3ad624210"
     },
     {
       "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "78d4d3b06c77af361b1812cf"
-    },
-    {
-      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
-      "url": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine",
-      "source": "TechCrunch",
-      "published": "2026-10-14T20:00:00+00:00",
-      "retrieved_at": "2026-10-14T20:03:39.508605+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "94aa5bc4433e81c86a0bf62a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-24T12:35:25.221936+00:00",
+    "checked_at": "2026-10-24T12:40:25.731578+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
