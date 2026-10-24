@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-24T10:00:31.140716+00:00",
+  "updated": "2026-10-24T10:05:31.450419+00:00",
   "items": [
+    {
+      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
+      "url": "https://wired.com/story/best-laptops",
+      "source": "Wired",
+      "published": "2026-10-24T10:00:00+00:00",
+      "retrieved_at": "2026-10-24T10:05:26.878720+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "07f0ebc48f52717ea0237265"
+    },
     {
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
       "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ed5fc430164b80d420ef2e76"
-    },
-    {
-      "title": "Software development and rules stability: Prototype racing in 2030",
-      "url": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030",
-      "source": "Ars Technica",
-      "published": "2026-10-14T19:44:26+00:00",
-      "retrieved_at": "2026-10-14T21:03:34.235908+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fa490fd55c68b97577fda058"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-24T10:00:24.143547+00:00",
+    "checked_at": "2026-10-24T10:05:25.413871+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
