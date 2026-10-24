@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-24T00:23:56.216294+00:00",
+  "updated": "2026-10-24T01:18:59.174029+00:00",
   "items": [
+    {
+      "title": "Syrians protest Israel’s incursions near occupied Golan Heights",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/24/10-24-reported-heidi-pett-syria",
+      "source": "Al Jazeera",
+      "published": "2026-10-24T00:50:05+00:00",
+      "retrieved_at": "2026-10-24T01:18:55.125080+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Syrians are protesting Israel’s occupation of parts of the country’s south, near the occupied Golan Heights.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "561910f491cc59b20565eb8a"
+    },
     {
       "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
       "url": "https://aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack",
@@ -274,6 +290,22 @@
       "story_fingerprint": "e54f4e339add79718da34c7a"
     },
     {
+      "title": "Xi Jinping May Have His Own Reasons to Avert a China-Russia-US Summit",
+      "url": "https://thediplomat.com/2026/10/xi-jinping-may-have-his-own-reasons-to-avert-a-china-russia-us-summit",
+      "source": "The Diplomat",
+      "published": "2026-10-23T17:09:00+00:00",
+      "retrieved_at": "2026-10-24T01:18:55.101356+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "A formal trilateral could raise strategic questions that are awkward for the EU, Ukraine – and China itself.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c1d27a268c21b62c447c5aad"
+    },
+    {
       "title": "European, Middle East ministers urge US-Iran diplomacy, not new attacks",
       "url": "https://aljazeera.com/news/2026/10/23/european-middle-east-ministers-urge-us-iran-diplomacy-not-new-attacks",
       "source": "Al Jazeera",
@@ -320,6 +352,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7e8d9ecc2df36786eae0dab8"
+    },
+    {
+      "title": "The China-Taiwan Diplomatic War Is More About Politics Than Economics",
+      "url": "https://thediplomat.com/2026/10/the-china-taiwan-diplomatic-war-is-more-about-politics-than-economics",
+      "source": "The Diplomat",
+      "published": "2026-10-23T15:46:00+00:00",
+      "retrieved_at": "2026-10-24T01:18:55.101369+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "Taiwan’s formal relationships in Africa and Latin America point to the real factors driving recognition decisions – and it’s not “dollar diplomacy.”",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "24fb687fb5b6293b25ee9aa2"
     },
     {
       "title": "South China Sea Code of Conduct: A Deal Is Not Enough",
@@ -3952,54 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2c831b90b18eff373a38294f"
-    },
-    {
-      "title": "How is the US economy really doing under President Trump?",
-      "url": "https://bbc.co.uk/news/articles/cv98ze40jz18o",
-      "source": "BBC World",
-      "published": "2026-10-20T05:00:45+00:00",
-      "retrieved_at": "2026-10-20T05:19:01.221456+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ae61d0713dced9695fe43ab8"
-    },
-    {
-      "title": "Philippine Senator Files Resolution Seeking Chinese Ambassador’s Expulsion",
-      "url": "https://thediplomat.com/2026/10/philippine-senator-files-resolution-seeking-chinese-ambassadors-expulsion",
-      "source": "The Diplomat",
-      "published": "2026-10-20T03:23:00+00:00",
-      "retrieved_at": "2026-10-20T09:20:01.002741+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Jing Quan prompted controversy last week when he told reporters that China could \"easily win\" a war against the Philippines.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7409ed8b12a6ec7795e7f098"
-    },
-    {
-      "title": "The human cost of surging US air strikes in Somalia",
-      "url": "https://aljazeera.com/news/2026/10/20/us-air-strikes-surge-in-somalia-as-families-seek-answers",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T01:52:32+00:00",
-      "retrieved_at": "2026-10-20T02:03:00.678592+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Families recount deaths, injuries and displacement as Trump accelerates US strikes against armed groups in Somalia.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b43a27f59dc07e7cafbbd9fc"
     }
   ],
   "unverified_history": [
