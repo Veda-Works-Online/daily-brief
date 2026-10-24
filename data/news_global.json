@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T04:34:52.929488+00:00",
+  "updated": "2026-10-24T04:59:50.822888+00:00",
   "items": [
     {
       "title": "France prepares for day of protest a week after nationwide riots",
@@ -96,6 +96,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e418d9cc0985232526b13c67"
+    },
+    {
+      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "url": "https://bbc.co.uk/news/articles/cm1dwz311476o",
+      "source": "BBC World",
+      "published": "2026-10-23T23:08:23+00:00",
+      "retrieved_at": "2026-10-24T04:59:45.263575+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "631cf6df8d7c834119d12c98"
     },
     {
       "title": "Why is Israel increasing its presence in the Balkans?",
@@ -240,6 +256,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f0542e2f7a7399f94bc3536d"
+    },
+    {
+      "title": "Trump administration sues to block certification of upcoming Alaska election",
+      "url": "https://bbc.co.uk/news/articles/c678pv4krx37o",
+      "source": "BBC World",
+      "published": "2026-10-23T18:49:14+00:00",
+      "retrieved_at": "2026-10-24T04:59:45.263591+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8dfae0b40402f3e1439d2bec"
     },
     {
       "title": "Israel locks down occupied West Bank after Hebron shooting",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5a8bd05cc19f47a66f9f6b01"
-    },
-    {
-      "title": "South Korea to pull more embassy staff from Ukraine after POW row",
-      "url": "https://aljazeera.com/news/2026/10/20/south-korea-to-pull-more-embassy-staff-from-ukraine-after-pow-row",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T09:26:02+00:00",
-      "retrieved_at": "2026-10-20T09:44:58.497098+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Earlier this month, South Korea recalled its ambassador from Kyiv after Zelenskyy disclosed the prisoner transfer.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "eda79d13b95c916c1e260c03"
-    },
-    {
-      "title": "Why Israeli Gen Z voters are drawn to the far right",
-      "url": "https://bbc.co.uk/news/articles/cmvg632xgndeo",
-      "source": "BBC World",
-      "published": "2026-10-20T08:53:06+00:00",
-      "retrieved_at": "2026-10-20T10:44:51.266400+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5321d1bc2bd1b2ff4f83e4a3"
     }
   ],
   "unverified_history": [
