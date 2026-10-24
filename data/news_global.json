@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-24T05:39:51.053432+00:00",
+  "updated": "2026-10-24T06:24:50.880175+00:00",
   "items": [
+    {
+      "title": "France prepares for day of protest a week after nationwide riots",
+      "url": "https://bbc.co.uk/news/articles/cj62yv5k0w4yo",
+      "source": "BBC World",
+      "published": "2026-10-24T06:19:46+00:00",
+      "retrieved_at": "2026-10-24T06:24:45.376044+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5f22eba3f00630379551b9fa"
+    },
     {
       "title": "How Benjamin Netanyahu reshaped Israel’s institutions",
       "url": "https://aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions",
@@ -32,22 +48,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2df3a7f0e1f204bf8705b4ce"
-    },
-    {
-      "title": "France prepares for day of protest a week after nationwide riots",
-      "url": "https://bbc.co.uk/news/articles/cj62yv5k0w4yo",
-      "source": "BBC World",
-      "published": "2026-10-24T04:03:46+00:00",
-      "retrieved_at": "2026-10-24T04:34:47.343674+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5f22eba3f00630379551b9fa"
     },
     {
       "title": "Argentina identifies dozens of victims killed in its ‘Dirty War’",
