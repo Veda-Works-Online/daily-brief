@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-24T05:04:52.921762+00:00",
+  "updated": "2026-10-24T05:14:50.526408+00:00",
   "items": [
+    {
+      "title": "The rise of AI election ads in US midterms campaign",
+      "url": "https://bbc.co.uk/news/videos/cm62y59zw8zko",
+      "source": "BBC World",
+      "published": "2026-10-24T05:03:44+00:00",
+      "retrieved_at": "2026-10-24T05:14:44.932002+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2df3a7f0e1f204bf8705b4ce"
+    },
     {
       "title": "France prepares for day of protest a week after nationwide riots",
       "url": "https://bbc.co.uk/news/articles/cj62yv5k0w4yo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c2a026f7cc6bead60a63ac60"
-    },
-    {
-      "title": "Trump’s approval ratings plummet: what that means for the US midterms",
-      "url": "https://aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T10:13:19+00:00",
-      "retrieved_at": "2026-10-20T10:19:51.789281+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Sitting presidents usually see a dip in approval ratings before midterms, but Trump's ratings are at a historic low.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5a8bd05cc19f47a66f9f6b01"
     }
   ],
   "unverified_history": [
