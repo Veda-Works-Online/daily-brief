@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-24T14:31:29.222683+00:00",
+  "updated": "2026-10-24T14:56:25.668555+00:00",
   "items": [
+    {
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "url": "https://bbc.co.uk/news/articles/cm1dwzvn6227o",
+      "source": "BBC World",
+      "published": "2026-10-24T14:45:30+00:00",
+      "retrieved_at": "2026-10-24T14:56:21.568177+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3d0f688488ab09a4901e6a06"
+    },
     {
       "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
       "url": "https://aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ce7e20a5ac8d0d76feacc92e"
-    },
-    {
-      "title": "US envoy Barrack defends decision to join Israel in war on Iran",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T13:20:33+00:00",
-      "retrieved_at": "2026-10-20T13:45:14.923687+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US envoy Tom Barrack says President Trump did not follow Israel in going to war against Iran.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e037d4636df8f945110e8712"
     }
   ],
   "unverified_history": [
