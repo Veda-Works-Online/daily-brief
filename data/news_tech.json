@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-24T14:56:19.298105+00:00",
+  "updated": "2026-10-24T15:01:24.145246+00:00",
   "items": [
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
+      "source": "TechCrunch AI",
+      "published": "2026-10-24T15:00:00+00:00",
+      "retrieved_at": "2026-10-24T15:01:18.863569+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "38e79efb6338bf3da8256c91"
+    },
     {
       "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
       "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone",
@@ -665,23 +682,6 @@
       "story_fingerprint": "bd985c69b341ebcbc809228b"
     },
     {
-      "title": "Canva releases its first image generation model",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
-      "source": "TechCrunch AI",
-      "published": "2026-10-22T19:00:00+00:00",
-      "retrieved_at": "2026-10-22T19:09:06.722060+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "aaf0d605d614804f20e6bf54"
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
       "source": "TechCrunch AI",
@@ -697,6 +697,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "693ef25f016597e8a5bf6a35"
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T19:00:00+00:00",
+      "retrieved_at": "2026-10-22T19:09:06.722060+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "aaf0d605d614804f20e6bf54"
     },
     {
       "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fd855a5f6d7625bca0ff7e18"
-    },
-    {
-      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different",
-      "source": "TechCrunch AI",
-      "published": "2026-10-14T21:30:33+00:00",
-      "retrieved_at": "2026-10-14T21:38:28.756204+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1b7ac78ec2b6752b9ef19196"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-24T14:56:14.568617+00:00",
+    "checked_at": "2026-10-24T15:01:18.232205+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
