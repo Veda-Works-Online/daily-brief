@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T06:24:50.880175+00:00",
+  "updated": "2026-10-24T06:34:53.170555+00:00",
   "items": [
     {
       "title": "France prepares for day of protest a week after nationwide riots",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5f22eba3f00630379551b9fa"
+    },
+    {
+      "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
+      "url": "https://bbc.co.uk/news/articles/ck20rery78lro",
+      "source": "BBC World",
+      "published": "2026-10-24T05:31:01+00:00",
+      "retrieved_at": "2026-10-24T06:34:47.595751+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "95b4b9babdaf31028587f09c"
     },
     {
       "title": "How Benjamin Netanyahu reshaped Israel’s institutions",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8e47ca1bdd2f0c6dc600d021"
-    },
-    {
-      "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
-      "url": "https://aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T10:36:57+00:00",
-      "retrieved_at": "2026-10-20T11:04:53.576897+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Barrack highlights limits of US interventions, admitting past regime changes in the Middle East were often mistakes.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cd7c9ffc054703fb82d56d0c"
     }
   ],
   "unverified_history": [
