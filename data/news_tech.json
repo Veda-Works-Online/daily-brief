@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-24T12:00:32.837628+00:00",
+  "updated": "2026-10-24T12:05:34.545193+00:00",
   "items": [
+    {
+      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+      "url": "https://wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable",
+      "source": "Wired",
+      "published": "2026-10-24T12:00:00+00:00",
+      "retrieved_at": "2026-10-24T12:05:27.715901+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f040b07929d9a9eecaac5594"
+    },
     {
       "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
       "url": "https://wired.com/story/best-laptops",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "94aa5bc4433e81c86a0bf62a"
-    },
-    {
-      "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
-      "url": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers",
-      "source": "TechCrunch",
-      "published": "2026-10-14T19:51:34+00:00",
-      "retrieved_at": "2026-10-14T19:53:44.143278+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ed5fc430164b80d420ef2e76"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-24T12:00:26.829155+00:00",
+    "checked_at": "2026-10-24T12:05:26.346020+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

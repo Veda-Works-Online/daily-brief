@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-24T11:20:42.273457+00:00",
+  "updated": "2026-10-24T12:05:43.299638+00:00",
   "items": [
+    {
+      "title": "Democracy by ZIP Code: Two Americas, one election",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/24/democracy-by-zip-code-two-americas-one-election",
+      "source": "Al Jazeera",
+      "published": "2026-10-24T11:44:16+00:00",
+      "retrieved_at": "2026-10-24T12:05:37.723251+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "How can Americans living just miles apart experience completely different versions of the American dream?",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "25427427f06a3a7237121661"
+    },
     {
       "title": "Ukraine says Starlink connection 'now stable' after network limits",
       "url": "https://bbc.co.uk/news/articles/cwkg5md14j8go",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4d5a80dd2a337f46c0196653"
-    },
-    {
-      "title": "Expanding the Military Footprint: China’s New Air Base in Laos",
-      "url": "https://thediplomat.com/2026/10/expanding-the-military-footprint-chinas-new-air-base-in-laos",
-      "source": "The Diplomat",
-      "published": "2026-10-20T12:17:00+00:00",
-      "retrieved_at": "2026-10-20T17:20:47.968350+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Establishment of the Laotian base follows a pattern in China’s growing external military presence and access.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7f8552ae6af895d0e45aac54"
     }
   ],
   "unverified_history": [
