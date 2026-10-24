@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-24T09:20:37.154933+00:00",
+  "updated": "2026-10-24T09:35:44.371681+00:00",
   "items": [
+    {
+      "title": "Ilhan Omar votes as Trump renews attacks amid federal probe",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/24/ilhan-omar-votes-us-midterms-federal-investigation",
+      "source": "Al Jazeera",
+      "published": "2026-10-24T09:16:19+00:00",
+      "retrieved_at": "2026-10-24T09:35:38.634628+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US Congresswoman Ilhan Omar has cast her ballot ahead of the US midterms.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3b9b41dc8df749cb42063181"
+    },
+    {
+      "title": "Why is Israel launching a new military operation in the occupied West Bank?",
+      "url": "https://aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank",
+      "source": "Al Jazeera",
+      "published": "2026-10-24T09:14:40+00:00",
+      "retrieved_at": "2026-10-24T09:35:38.634642+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Netanyahu says 'we will destroy this place' as Israeli forces begin days-long operation with raids and demolitions.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0e6f65f33c6c942ebd18d776"
+    },
     {
       "title": "Dan Sullivan vs Dan Sullivan: Why is Trump’s DOJ suing in Alaska?",
       "url": "https://aljazeera.com/news/2026/10/24/dan-sullivan-vs-dan-sullivan-why-is-trumps-doj-suing-in-alaska",
@@ -34,20 +66,20 @@
       "story_fingerprint": "294aefe10e2059e299c02368"
     },
     {
-      "title": "North Korea’s Kim Jong Un arrives in China, South Korean media say",
+      "title": "North Korea’s Kim Jong Un visits China via newly opened bridge",
       "url": "https://aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says",
       "source": "Al Jazeera",
       "published": "2026-10-24T07:07:20+00:00",
-      "retrieved_at": "2026-10-24T09:20:31.624803+00:00",
+      "retrieved_at": "2026-10-24T09:35:38.634788+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The visit comes about a week after a major new bridge linking the two countries was officially opened.",
+      "summary": "Kim arrived in the Chinese border city of Dandong using the New Yalu River Bridge, officially opened about a week ago.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "1aba1bf3fba340efdc851714"
+      "story_fingerprint": "e1d5befa1b1094aa0025c2b0"
     },
     {
       "title": "COP17 puts Armenia’s environmental record in the spotlight",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "181755e48b5163070adaff86"
-    },
-    {
-      "title": "Yemen: Maps show 10 years of changing control",
-      "url": "https://aljazeera.com/news/2026/10/20/yemen-maps-show-10-years-of-changing-control",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T12:05:21+00:00",
-      "retrieved_at": "2026-10-20T12:40:01.094332+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A decade of war has shifted Yemen’s front lines, but the Houthis still hold Sanaa, and no side controls the country.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ec2cbaeccdcb64716b351d35"
-    },
-    {
-      "title": "Japan Has Considered Nuclear-Powered Submarines Since 1958. Why Has It Never Built One?",
-      "url": "https://thediplomat.com/2026/10/japan-has-considered-nuclear-powered-submarines-since-1958-why-has-it-never-built-one",
-      "source": "The Diplomat",
-      "published": "2026-10-20T11:57:00+00:00",
-      "retrieved_at": "2026-10-20T17:20:47.968322+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "From a 1958 design study to reported approaches to the U.S. Navy, Japan has repeatedly examined nuclear-powered submarines without making an acquisition decision.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "36633e37183362da2953bb74"
     }
   ],
   "unverified_history": [
