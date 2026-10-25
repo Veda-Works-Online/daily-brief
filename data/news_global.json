@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-25T07:03:56.392809+00:00",
+  "updated": "2026-10-25T07:13:55.331235+00:00",
   "items": [
+    {
+      "title": "Elections cannot produce change in Israel",
+      "url": "https://aljazeera.com/opinions/2026/10/25/elections-cannot-produce-change-in-israel",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T06:54:37+00:00",
+      "retrieved_at": "2026-10-25T07:13:51.204409+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Political change cannot come from within Israeli society. It can only come from the outside.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "225b7e45c4931b957c60d833"
+    },
     {
       "title": "Who Israel elects matters, and not just for Israelis",
       "url": "https://aljazeera.com/opinions/2026/10/25/who-israel-elects-matters-and-not-just-for-israelis",
@@ -146,20 +162,20 @@
       "story_fingerprint": "b7181cda56b6091d261f439c"
     },
     {
-      "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+      "title": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
       "url": "https://aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached",
       "source": "Al Jazeera",
       "published": "2026-10-25T00:00:00+00:00",
-      "retrieved_at": "2026-10-25T00:18:05.508487+00:00",
+      "retrieved_at": "2026-10-25T07:13:51.204581+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
+      "summary": "Saudi coalition intercepts Houthi missile over Riyadh as rebels warn city airport is unsafe military target.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "ed66f5886d065a671debaf2f"
+      "story_fingerprint": "05073b5a216f388dac6c5455"
     },
     {
       "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cbc80eb26d2cede4574acbd5"
-    },
-    {
-      "title": "Trump and Zelensky at loggerheads despite new optimism",
-      "url": "https://bbc.co.uk/news/articles/ckrey51jrgnro",
-      "source": "BBC World",
-      "published": "2026-10-20T20:00:57+00:00",
-      "retrieved_at": "2026-10-21T13:04:02.591110+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b2e653eaa475ac3a30300d2d"
     }
   ],
   "unverified_history": [
