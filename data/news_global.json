@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-25T18:00:48.999268+00:00",
+  "updated": "2026-10-25T18:40:47.374973+00:00",
   "items": [
+    {
+      "title": "Israeli air strike on Gaza City university kills three people",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T18:12:13+00:00",
+      "retrieved_at": "2026-10-25T18:40:41.499863+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2fd2da3b5c141f6574d72bdd"
+    },
     {
       "title": "US and Israel elections: New leaders, same policies?",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ee4f57b080ae1fab32a201ee"
-    },
-    {
-      "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
-      "url": "https://aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks",
-      "source": "Al Jazeera",
-      "published": "2026-10-21T12:18:10+00:00",
-      "retrieved_at": "2026-10-21T12:28:45.716126+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran's nuclear enrichment has emerged as a major point of contention amid diplomatic push to end the war.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2daeb375f722f2833abf9eb8"
     }
   ],
   "unverified_history": [
