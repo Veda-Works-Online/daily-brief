@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-25T08:08:53.599151+00:00",
+  "updated": "2026-10-25T08:23:57.854925+00:00",
   "items": [
+    {
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "url": "https://bbc.co.uk/news/articles/cvx28ljp8n4xo",
+      "source": "BBC World",
+      "published": "2026-10-25T08:15:24+00:00",
+      "retrieved_at": "2026-10-25T08:23:53.488594+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4841787508fdd43a5538235e"
+    },
     {
       "title": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
       "url": "https://aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6269f94f521b24d1331be4dc"
-    },
-    {
-      "title": "Why do the US midterms matter for Trump and Congress?",
-      "url": "https://aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T21:00:42+00:00",
-      "retrieved_at": "2026-10-20T21:21:23.996401+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Republicans and Democrats jockey for control of Congress, which will set course for Trump's final two years in office.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "50544862f7ae38c16d7d30d9"
     }
   ],
   "unverified_history": [
