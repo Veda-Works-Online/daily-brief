@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-25T22:06:34.765193+00:00",
+  "updated": "2026-10-25T22:21:34.058529+00:00",
   "items": [
+    {
+      "title": "Deeply divided Israel braces for pivotal election",
+      "url": "https://bbc.co.uk/news/articles/ckpdgy6pl7xlo",
+      "source": "BBC World",
+      "published": "2026-10-25T22:11:13+00:00",
+      "retrieved_at": "2026-10-25T22:21:28.358320+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "debdd05f4bd4ebe2c0065de8"
+    },
     {
       "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
       "url": "https://aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit",
@@ -50,36 +66,36 @@
       "story_fingerprint": "bce0033cca1220b15a836d22"
     },
     {
-      "title": "Brazil election results 2026 live: Lula-Bolsonaro voting extended by 2 hours",
+      "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
       "url": "https://aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off",
       "source": "Al Jazeera",
       "published": "2026-10-25T20:00:04+00:00",
-      "retrieved_at": "2026-10-25T21:36:32.643209+00:00",
+      "retrieved_at": "2026-10-25T22:21:28.475277+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in closely watched election.",
+      "summary": "Legal challenges likely as voting hour extension adds tension to Brazil's polarized political landscape.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "fdcac89a670f2670f3722c7d"
+      "story_fingerprint": "95a675e573ca0ff9b00b1745"
     },
     {
-      "title": "Serbia voter turnout highest in decades as students oppose longtime leader",
+      "title": "Serbia’s Vucic concedes election defeat to student-led movement",
       "url": "https://aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader",
       "source": "Al Jazeera",
       "published": "2026-10-25T19:19:54+00:00",
-      "retrieved_at": "2026-10-25T19:31:29.427178+00:00",
+      "retrieved_at": "2026-10-25T22:21:28.475325+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.",
+      "summary": "Vucic says the opposition Student List is projected to win a parliamentary majority after nearly two years of protests.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "b6ac233cdd3e8e89497e092d"
+      "story_fingerprint": "8665ad909032e94eeb476255"
     },
     {
       "title": "Israeli air strike on Gaza City university kills three people",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c49e64eedbe6bc82f8c7fd02"
-    },
-    {
-      "title": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
-      "url": "https://aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict",
-      "source": "Al Jazeera",
-      "published": "2026-10-21T13:25:50+00:00",
-      "retrieved_at": "2026-10-21T13:58:52.843184+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The European states say their support for Riyadh is 'defensive', but analysts warn Houthi reaction may complicate that.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7e95ff6b9a364aef47eee8be"
     }
   ],
   "unverified_history": [
