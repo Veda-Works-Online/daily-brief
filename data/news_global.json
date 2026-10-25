@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T08:23:57.854925+00:00",
+  "updated": "2026-10-25T08:48:54.224889+00:00",
   "items": [
     {
       "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
@@ -272,6 +272,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "693ffea3c6d15517c1f162c1"
+    },
+    {
+      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+      "url": "https://bbc.co.uk/news/articles/cx62y9j1zyjvo",
+      "source": "BBC World",
+      "published": "2026-10-24T23:02:51+00:00",
+      "retrieved_at": "2026-10-25T08:48:50.002404+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cb8429d5888f8086ceb46e72"
     },
     {
       "title": "How have Democrats’ policies shifted since the last major US election?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7359a1209c61f98e9ee43af6"
-    },
-    {
-      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
-      "url": "https://aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods",
-      "source": "Al Jazeera",
-      "published": "2026-10-20T21:19:12+00:00",
-      "retrieved_at": "2026-10-20T21:26:19.914487+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6269f94f521b24d1331be4dc"
     }
   ],
   "unverified_history": [
