@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-25T22:51:36.235579+00:00",
+  "updated": "2026-10-25T23:16:32.971433+00:00",
   "items": [
+    {
+      "title": "Bulgaria election heads to a run-off amid low voter turnout",
+      "url": "https://aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T22:57:17+00:00",
+      "retrieved_at": "2026-10-25T23:16:27.425553+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Bulgarians will now choose between President Iliana Yotova and former caretaker Prime Minister Andrey Gyurov next week.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ad9a67dcf87259040e8469db"
+    },
     {
       "title": "Deeply divided Israel braces for pivotal election",
       "url": "https://bbc.co.uk/news/articles/ckpdgy6pl7xlo",
@@ -70,9 +86,9 @@
       "url": "https://aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off",
       "source": "Al Jazeera",
       "published": "2026-10-25T20:00:04+00:00",
-      "retrieved_at": "2026-10-25T22:51:30.536034+00:00",
+      "retrieved_at": "2026-10-25T23:16:27.425682+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Legal challenges likely as voting hour extension adds tension to Brazil's polarized political landscape.",
+      "summary": "Legal challenges are likely, as the voting extension adds tension to Brazil's polarised political landscape.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9e1af0e481d38092d74ba5f1"
-    },
-    {
-      "title": "How war in Lebanon has cost young people with autism and ADHD",
-      "url": "https://aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd",
-      "source": "Al Jazeera",
-      "published": "2026-10-21T13:32:57+00:00",
-      "retrieved_at": "2026-10-21T15:19:54.748161+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Experts warn that war takes a heavy toll on neurodivergent people, who often rely on routine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c49e64eedbe6bc82f8c7fd02"
     }
   ],
   "unverified_history": [
