@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T19:10:45.182024+00:00",
+  "updated": "2026-10-25T19:15:50.401775+00:00",
   "items": [
     {
       "title": "Israeli air strike on Gaza City university kills three people",
@@ -464,6 +464,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ca29806b615cceaa9e8100ad"
+    },
+    {
+      "title": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
+      "url": "https://dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496",
+      "source": "DW",
+      "published": "2026-10-25T07:19:00+00:00",
+      "retrieved_at": "2026-10-25T19:15:44.572082+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Low voter turnout has triggered a run-off for the Bulgarian presidency. The vote was colored by strong divisions over Russia's war in Ukraine, and Sofia's relations with the Kremlin.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cc9b2163e7bdee1d189fd1e2"
     },
     {
       "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9df3548510ceb06b6ff3b93e"
-    },
-    {
-      "title": "Macron says Trump spread rumours about protests",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/21/macron-says-trump-spread-rumours-about-protests",
-      "source": "Al Jazeera",
-      "published": "2026-10-21T12:18:37+00:00",
-      "retrieved_at": "2026-10-21T12:28:45.716100+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Macron says Trump spread rumours about protests",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ee4f57b080ae1fab32a201ee"
     }
   ],
   "unverified_history": [
