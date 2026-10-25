@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-25T14:09:42.498226+00:00",
+  "updated": "2026-10-25T14:14:43.246931+00:00",
   "items": [
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about",
+      "source": "TechCrunch AI",
+      "published": "2026-10-25T14:10:00+00:00",
+      "retrieved_at": "2026-10-25T14:14:36.503759+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "901eebac5198fc2ab7356a56"
+    },
     {
       "title": "Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool",
       "url": "https://wired.com/story/apple-carplay-and-android-auto-make-your-phone-hot-heres-how-to-keep-it-cool",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "67a01011e9c14bc137e15ede"
-    },
-    {
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "source": "Hugging Face",
-      "published": "2026-10-15T00:00:00+00:00",
-      "retrieved_at": "2026-10-25T14:09:37.414746+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "4c34c0fca0df0c9c46d4a203"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-25T14:09:36.612174+00:00",
+    "checked_at": "2026-10-25T14:14:36.107585+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
