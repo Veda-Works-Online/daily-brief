@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-25T16:55:45.942397+00:00",
+  "updated": "2026-10-25T17:00:43.369398+00:00",
   "items": [
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, according to Apollo economist",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+      "source": "TechCrunch AI",
+      "published": "2026-10-25T16:57:32+00:00",
+      "retrieved_at": "2026-10-25T17:00:36.770733+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "83a94d3b1def601cd4fa8120"
+    },
     {
       "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
       "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4e4c1e5f9d10f2b750be09e8"
-    },
-    {
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis",
-      "source": "TechCrunch AI",
-      "published": "2026-10-15T01:01:32+00:00",
-      "retrieved_at": "2026-10-15T01:04:08.754928+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ced7b09b1853f16fb1f8ae0e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-25T16:55:38.616287+00:00",
+    "checked_at": "2026-10-25T17:00:36.138104+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
