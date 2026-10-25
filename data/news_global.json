@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-25T23:16:32.971433+00:00",
+  "updated": "2026-10-25T23:46:32.486686+00:00",
   "items": [
+    {
+      "title": "Thousands protest in Prague against public media funding reforms",
+      "url": "https://aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T23:29:13+00:00",
+      "retrieved_at": "2026-10-25T23:46:26.776439+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Demonstrators allege Prime Minister Andrej Babis and his coalition's proposed reforms pose a threat to press freedom.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "15549fcafb9528489a4fb4e7"
+    },
     {
       "title": "Bulgaria election heads to a run-off amid low voter turnout",
       "url": "https://aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "88f37278d72734a65de2d9a0"
-    },
-    {
-      "title": "Macron accuses foreign leaders of exploiting French riots",
-      "url": "https://bbc.co.uk/news/articles/ckjrw044ggxgo",
-      "source": "BBC World",
-      "published": "2026-10-21T14:04:28+00:00",
-      "retrieved_at": "2026-10-21T14:38:57.334885+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9e1af0e481d38092d74ba5f1"
     }
   ],
   "unverified_history": [
