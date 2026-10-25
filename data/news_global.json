@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-25T00:53:06.357327+00:00",
+  "updated": "2026-10-25T02:38:13.909018+00:00",
   "items": [
+    {
+      "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T02:07:29+00:00",
+      "retrieved_at": "2026-10-25T02:38:10.554601+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Thousands of Israelis rallied against PM Benjamin Netanyahu ahead of elections on Tuesday.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3a622762572373694f36192c"
+    },
     {
       "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
       "url": "https://aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b21be44ccaf59b1466688783"
-    },
-    {
-      "title": "Sudan drone strike kills around 150 in Abyei market",
-      "url": "https://dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587",
-      "source": "DW",
-      "published": "2026-10-20T18:09:00+00:00",
-      "retrieved_at": "2026-10-20T19:11:30.387312+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "A drone strike hit a market in the Abyei border region disputed by Sudan and South Sudan and killed dozens. The drone caused a large fire when it hit a fuel depot. South Sudanese officials blamed Sudan's military.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7f033598780fbb1f2382afba"
     }
   ],
   "unverified_history": [
