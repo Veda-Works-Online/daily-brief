@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-25T14:25:57.596212+00:00",
+  "updated": "2026-10-25T14:45:58.648306+00:00",
   "items": [
+    {
+      "title": "Gabon says access to social media restored after eight-month ban",
+      "url": "https://bbc.co.uk/news/articles/c6x2w0ngejneo",
+      "source": "BBC World",
+      "published": "2026-10-25T14:39:47+00:00",
+      "retrieved_at": "2026-10-25T14:45:52.794899+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "47623a55e6981828e6a1dd5b"
+    },
     {
       "title": "The search for gold is a dangerous and laborious gamble for Sudan’s miners",
       "url": "https://aljazeera.com/features/2026/10/25/the-search-for-gold-is-a-dangerous-and-laborious-gamble-for-sudans-miners",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f1d13bae249ae37ffe0af386"
-    },
-    {
-      "title": "The right to enforce civil rights is under attack in the US",
-      "url": "https://aljazeera.com/opinions/2026/10/21/the-right-to-enforce-civil-rights-is-under-attack-in-the-us",
-      "source": "Al Jazeera",
-      "published": "2026-10-21T07:06:41+00:00",
-      "retrieved_at": "2026-10-21T07:17:56.537623+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The Trump administration and conservative courts are making it harder to challenge civil rights violations.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "41e5fe53bf74a8eeeb8c5018"
     }
   ],
   "unverified_history": [
