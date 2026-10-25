@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-25T20:21:28.649505+00:00",
+  "updated": "2026-10-25T20:26:31.005018+00:00",
   "items": [
+    {
+      "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
+      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead",
+      "source": "TechCrunch",
+      "published": "2026-10-25T20:20:08+00:00",
+      "retrieved_at": "2026-10-25T20:26:22.497580+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "\"That's a 12-year-old view of the world.\"",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e3bf675c0370c2f5315a7d83"
+    },
     {
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
       "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "6c7bad5f6139bc7c398aa880"
-    },
-    {
-      "title": "Figma announces new features to define how agents work on its platform",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform",
-      "source": "TechCrunch AI",
-      "published": "2026-10-15T04:30:00+00:00",
-      "retrieved_at": "2026-10-15T04:33:57.546799+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Figma is also releasing its code layers feature in open beta.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4e4c1e5f9d10f2b750be09e8"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-25T20:21:19.119418+00:00",
+    "checked_at": "2026-10-25T20:26:21.234149+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
