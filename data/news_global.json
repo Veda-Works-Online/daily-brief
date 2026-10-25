@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-25T02:38:13.909018+00:00",
+  "updated": "2026-10-25T03:18:10.741381+00:00",
   "items": [
+    {
+      "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+      "url": "https://aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T02:45:43+00:00",
+      "retrieved_at": "2026-10-25T03:18:07.423668+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fe137885aeff38e34063fdec"
+    },
     {
       "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e010d0c94fa317ec5b75d040"
-    },
-    {
-      "title": "Lebanon faces uncertainty as UNIFIL mandate nears end",
-      "url": "https://dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491",
-      "source": "DW",
-      "published": "2026-10-20T18:19:00+00:00",
-      "retrieved_at": "2026-10-20T19:11:30.387286+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "As UN peacekeeping forces prepare to withdraw from Lebanon, Israel remains present and Hezbollah is still armed. A new EU support mission aims to strengthen Lebanon's army, but will not replace UN peacekeepers.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b21be44ccaf59b1466688783"
     }
   ],
   "unverified_history": [
