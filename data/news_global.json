@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T06:13:51.159185+00:00",
+  "updated": "2026-10-25T06:28:52.234489+00:00",
   "items": [
     {
       "title": "Election posters, mass tourism and property: Israel’s footprint in Cyprus",
@@ -34,6 +34,22 @@
       "story_fingerprint": "8814bf4e911189b517445a10"
     },
     {
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "url": "https://bbc.co.uk/news/articles/c6y93ylpl5p2o",
+      "source": "BBC World",
+      "published": "2026-10-25T05:15:52+00:00",
+      "retrieved_at": "2026-10-25T06:28:48.051163+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7d0d655a2f8fcd8925127981"
+    },
+    {
       "title": "Serbia votes in election pitting longtime leader against student movement",
       "url": "https://aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement",
       "source": "Al Jazeera",
@@ -50,11 +66,11 @@
       "story_fingerprint": "1383575bdbdd459f733872ba"
     },
     {
-      "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+      "title": "Bulgarians vote for president in shadow of Russia’s war on Ukraine",
       "url": "https://aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine",
       "source": "Al Jazeera",
       "published": "2026-10-25T02:45:43+00:00",
-      "retrieved_at": "2026-10-25T06:13:46.563397+00:00",
+      "retrieved_at": "2026-10-25T06:28:48.132936+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly.",
       "category": "global",
@@ -63,7 +79,23 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "fe137885aeff38e34063fdec"
+      "story_fingerprint": "1e060b95f4004b0b209abdee"
+    },
+    {
+      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+      "url": "https://bbc.co.uk/news/articles/cmj6jwe1j1gjo",
+      "source": "BBC World",
+      "published": "2026-10-25T02:27:15+00:00",
+      "retrieved_at": "2026-10-25T06:28:48.051281+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Obama said the election was \"the last best chance to at least rein in some of the foolishness of this administration\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "80ae47fff6432e297e037d27"
     },
     {
       "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f4f7b449535eadbd8e0554b4"
-    },
-    {
-      "title": "Reading Pyongyang Through the Cracks of the International System",
-      "url": "https://warontherocks.com/reading-pyongyang-through-the-cracks-of-the-international-system",
-      "source": "War on the Rocks",
-      "published": "2026-10-20T19:30:05+00:00",
-      "retrieved_at": "2026-10-20T19:31:31.633220+00:00",
-      "feed_url": "https://warontherocks.com/feed/",
-      "summary": "In 2023, three North Korea analysts identified what they believe most people studying the country get wrong, and how analysts can avoid those traps. Three years later, we asked them to revisit their arguments and offer fresh insights into what North Korean propaganda reveals about Pyongyang’s priorities.Image: The KremlinIn your 2023 article, you said the key to analyzing North Korean propaganda…",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://warontherocks.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f5ac4a93e011059b675acff7"
-    },
-    {
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "url": "https://bbc.co.uk/news/articles/cqrkyj13m588o",
-      "source": "BBC World",
-      "published": "2026-10-20T19:30:05+00:00",
-      "retrieved_at": "2026-10-20T19:41:31.912190+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ee2e4c7873f1437040c45acf"
     }
   ],
   "unverified_history": [
