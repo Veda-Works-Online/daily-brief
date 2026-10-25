@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T12:19:46.329381+00:00",
+  "updated": "2026-10-25T12:24:44.108013+00:00",
   "items": [
     {
       "title": "Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool",
@@ -4235,11 +4235,11 @@
       "story_fingerprint": "67a01011e9c14bc137e15ede"
     },
     {
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
       "source": "Hugging Face",
       "published": "2026-10-15T00:00:00+00:00",
-      "retrieved_at": "2026-10-25T12:19:38.238762+00:00",
+      "retrieved_at": "2026-10-25T12:24:38.868254+00:00",
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "summary": "",
       "isAI": true,
@@ -4249,7 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "4c34c0fca0df0c9c46d4a203"
+      "story_fingerprint": "585c27c6b89336a46a3c68d1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-25T12:19:37.462969+00:00",
+    "checked_at": "2026-10-25T12:24:38.229421+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
