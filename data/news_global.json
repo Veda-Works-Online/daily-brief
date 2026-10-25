@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-25T19:26:37.770033+00:00",
+  "updated": "2026-10-25T19:31:35.210699+00:00",
   "items": [
+    {
+      "title": "Serbia voter turnout highest in decades as students oppose longtime leader",
+      "url": "https://aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader",
+      "source": "Al Jazeera",
+      "published": "2026-10-25T19:19:54+00:00",
+      "retrieved_at": "2026-10-25T19:31:29.427178+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b6ac233cdd3e8e89497e092d"
+    },
     {
       "title": "Israeli air strike on Gaza City university kills three people",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people",
@@ -466,22 +482,6 @@
       "story_fingerprint": "ca29806b615cceaa9e8100ad"
     },
     {
-      "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
-      "url": "https://dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496",
-      "source": "DW",
-      "published": "2026-10-25T07:19:00+00:00",
-      "retrieved_at": "2026-10-25T07:28:51.180443+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Bulgarians are voting in presidential elections amid security concerns over attacks on ships in the Black Sea. The vote for the largely ceremonial post is seen as a test of the popularity of Prime Minister Rumen Radev.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2197a471588cec10ff9feb73"
-    },
-    {
       "title": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
       "url": "https://dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496",
       "source": "DW",
@@ -496,6 +496,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cc9b2163e7bdee1d189fd1e2"
+    },
+    {
+      "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
+      "url": "https://dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496",
+      "source": "DW",
+      "published": "2026-10-25T07:19:00+00:00",
+      "retrieved_at": "2026-10-25T07:28:51.180443+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Bulgarians are voting in presidential elections amid security concerns over attacks on ships in the Black Sea. The vote for the largely ceremonial post is seen as a test of the popularity of Prime Minister Rumen Radev.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2197a471588cec10ff9feb73"
     },
     {
       "title": "Israeli elections: What are the possible outcomes?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9c6adff40aba02a768deb101"
-    },
-    {
-      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-      "url": "https://bbc.co.uk/news/articles/c6m24l9v3745o",
-      "source": "BBC World",
-      "published": "2026-10-21T12:32:01+00:00",
-      "retrieved_at": "2026-10-21T13:39:00.318942+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9df3548510ceb06b6ff3b93e"
     }
   ],
   "unverified_history": [
