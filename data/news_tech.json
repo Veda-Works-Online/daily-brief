@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-26T12:54:16.186546+00:00",
+  "updated": "2026-10-26T12:59:15.031319+00:00",
   "items": [
+    {
+      "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+      "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised",
+      "source": "TechCrunch",
+      "published": "2026-10-26T12:58:40+00:00",
+      "retrieved_at": "2026-10-26T12:59:11.049005+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9df008b79b1dff1a85d95a99"
+    },
     {
       "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
       "url": "https://wired.com/story/ai-agents-are-trying-to-be-journalists-now",
@@ -886,23 +903,6 @@
       "story_fingerprint": "bd985c69b341ebcbc809228b"
     },
     {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
-      "source": "TechCrunch AI",
-      "published": "2026-10-22T19:00:00+00:00",
-      "retrieved_at": "2026-10-22T19:28:58.257503+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "693ef25f016597e8a5bf6a35"
-    },
-    {
       "title": "Canva releases its first image generation model",
       "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
       "source": "TechCrunch AI",
@@ -918,6 +918,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "aaf0d605d614804f20e6bf54"
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
+      "source": "TechCrunch AI",
+      "published": "2026-10-22T19:00:00+00:00",
+      "retrieved_at": "2026-10-22T19:28:58.257503+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "693ef25f016597e8a5bf6a35"
     },
     {
       "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "69e216192371427319b9a784"
-    },
-    {
-      "title": "Teaching students to think and learn through questions",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "source": "OpenAI",
-      "published": "2026-10-15T13:00:00+00:00",
-      "retrieved_at": "2026-10-15T14:01:29.677393+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "18693d3c776ffb87c53a89c8"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-26T12:54:10.776027+00:00",
+    "checked_at": "2026-10-26T12:59:09.657194+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
