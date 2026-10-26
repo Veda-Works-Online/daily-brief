@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-26T21:45:56.840638+00:00",
+  "updated": "2026-10-26T21:51:02.805030+00:00",
   "items": [
     {
-      "title": "Watch out, YouTube; Instagram goes from short-form to 90-minute videos",
+      "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
       "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos",
       "source": "TechCrunch",
       "published": "2026-10-26T21:05:11+00:00",
-      "retrieved_at": "2026-10-26T21:05:56.211425+00:00",
+      "retrieved_at": "2026-10-26T21:50:58.149042+00:00",
       "feed_url": "https://techcrunch.com/feed/",
       "summary": "As Instagram rolls out long form videos of up to 90 minutes, the platform has an opportunity to challenge YouTube if it plays its cards right.",
       "isAI": false,
@@ -223,6 +223,23 @@
       "story_fingerprint": "63851064b228ead145c84958"
     },
     {
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "source": "OpenAI",
+      "published": "2026-10-26T13:45:00+00:00",
+      "retrieved_at": "2026-10-26T21:50:57.703163+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "2327728331d150f1dd78a342"
+    },
+    {
       "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
       "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised",
       "source": "TechCrunch",
@@ -323,6 +340,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "8dcd8b2c2245115f43bc12eb"
+    },
+    {
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source": "OpenAI",
+      "published": "2026-10-26T00:00:00+00:00",
+      "retrieved_at": "2026-10-26T21:50:57.703222+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "52415cbf1f479e4891e3fe5a"
     },
     {
       "title": "Introducing GPT-6.1 Terra",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4494b121d57e2c460f9312af"
-    },
-    {
-      "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
-      "url": "https://wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview",
-      "source": "Wired",
-      "published": "2026-10-15T21:18:15+00:00",
-      "retrieved_at": "2026-10-15T21:47:31.703199+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2dd77ca305f11cf676ddb927"
-    },
-    {
-      "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
-      "url": "https://wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up",
-      "source": "Wired",
-      "published": "2026-10-15T21:00:28+00:00",
-      "retrieved_at": "2026-10-15T21:07:34.402505+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e9bdf985a41726b8c47da614"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-26T21:45:52.379497+00:00",
+    "checked_at": "2026-10-26T21:50:56.766232+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
