@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-26T15:09:24.400242+00:00",
+  "updated": "2026-10-26T15:19:31.561156+00:00",
   "items": [
+    {
+      "title": "Why Ukraine may be involved in Mali's conflict",
+      "url": "https://dw.com/en/why-ukraine-may-be-involved-in-mali-s-conflict/a-79743423",
+      "source": "DW",
+      "published": "2026-10-26T14:58:00+00:00",
+      "retrieved_at": "2026-10-26T15:19:28.187881+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Allegations that Ukrainian specialists are supporting Tuareg rebels in Mali highlight Kyiv's effort to challenge Russian influence far beyond the battlefield in Europe.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "07808635aeb49884332e91ef"
+    },
     {
       "title": "Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tensions",
       "url": "https://aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9b63e3c6a0f786e92aed9378"
-    },
-    {
-      "title": "How do Israel's elections work and who are the main contenders?",
-      "url": "https://bbc.co.uk/news/articles/cx8dz75633vjo",
-      "source": "BBC World",
-      "published": "2026-10-22T09:27:10+00:00",
-      "retrieved_at": "2026-10-22T09:31:53.754505+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3c53dc1c0f43c77c2d918edc"
     }
   ],
   "unverified_history": [
