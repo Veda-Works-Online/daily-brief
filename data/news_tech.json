@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-26T14:54:18.458832+00:00",
+  "updated": "2026-10-26T14:59:14.141346+00:00",
   "items": [
+    {
+      "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
+      "url": "https://wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy",
+      "source": "Wired",
+      "published": "2026-10-26T14:50:47+00:00",
+      "retrieved_at": "2026-10-26T14:59:07.433235+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "704d1bf0b81788900021018f"
+    },
     {
       "title": "Anthropic officially files for its public debut",
       "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "cf2c6c882be8803044d51e76"
-    },
-    {
-      "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-      "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says",
-      "source": "Ars Technica AI",
-      "published": "2026-10-15T15:43:24+00:00",
-      "retrieved_at": "2026-10-15T15:56:55.611859+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9ceb4a0e18776e7715f4967c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-26T14:54:10.284316+00:00",
+    "checked_at": "2026-10-26T14:59:06.078968+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
