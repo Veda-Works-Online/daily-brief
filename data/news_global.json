@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-26T16:20:27.999247+00:00",
+  "updated": "2026-10-26T16:55:29.081910+00:00",
   "items": [
+    {
+      "title": "Israel and the US are both going to the polls - the consequences will be global",
+      "url": "https://bbc.co.uk/news/articles/crlykey9jywqo",
+      "source": "BBC World",
+      "published": "2026-10-26T16:30:34+00:00",
+      "retrieved_at": "2026-10-26T16:55:23.561715+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d3e28c7117c5bcf1c960f723"
+    },
     {
       "title": "Jerusalem Daily: Last minute efforts by Israeli politicians before election",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/26/jerusalem-daily-last-minute-efforts-by-israeli-politicians-before-election",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f8332328de24eddede8d171d"
-    },
-    {
-      "title": "Trump praises man who punched protester at rally in South Carolina",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/22/trump-praises-man-who-punched-protester-at-rally-in-south-carolina",
-      "source": "Al Jazeera",
-      "published": "2026-10-22T10:58:20+00:00",
-      "retrieved_at": "2026-10-22T11:12:53.966878+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US President Donald Trump praised a man who punched a protester at a midterm election rally held in South Carolina.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8d263691a288c459e6aea98e"
     }
   ],
   "unverified_history": [
