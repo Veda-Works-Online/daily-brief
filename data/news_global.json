@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-26T09:28:24.131012+00:00",
+  "updated": "2026-10-26T09:58:09.817821+00:00",
   "items": [
+    {
+      "title": "Palestinians are opening their doors to the displaced of besieged Hebron",
+      "url": "https://aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T09:45:25+00:00",
+      "retrieved_at": "2026-10-26T09:58:05.624154+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israel's assault on the West Bank city has forced thousands of people to flee their homes.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4685448f0038ad853cb5d25f"
+    },
     {
       "title": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0d68fd99c3bb027438ba79ca"
-    },
-    {
-      "title": "Iran war live: Trump denies Iran talks, says situation will resolve soon",
-      "url": "https://aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive",
-      "source": "Al Jazeera",
-      "published": "2026-10-22T00:00:00+00:00",
-      "retrieved_at": "2026-10-22T05:10:59.452363+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US President Donald Trump denies Iran negotiations, says situation will resolve ‘fairly soon’.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9630255a84f3bafad91a0fe1"
     }
   ],
   "unverified_history": [
