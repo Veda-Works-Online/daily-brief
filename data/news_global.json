@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T05:33:22.438075+00:00",
+  "updated": "2026-10-26T05:38:22.846072+00:00",
   "items": [
     {
       "title": "Aleksandar Vucic, the Serbian leader brought down by students",
@@ -256,6 +256,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "22633934b1853f2a826aa168"
+    },
+    {
+      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+      "url": "https://bbc.co.uk/news/articles/cqrmyl1mljppo",
+      "source": "BBC World",
+      "published": "2026-10-25T23:33:19+00:00",
+      "retrieved_at": "2026-10-26T05:38:18.607250+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "72908dd1fa41255a3cc5a880"
     },
     {
       "title": "Thousands protest in Prague against public media funding reforms",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d6e4f81bff689e3c33965b68"
-    },
-    {
-      "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit",
-      "source": "Al Jazeera",
-      "published": "2026-10-21T19:01:05+00:00",
-      "retrieved_at": "2026-10-21T19:19:58.699620+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Russian President Vladimir Putin has signalled Moscow is willing in principle to resume talks with Ukraine and the US.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3e31da255682a78c5a2cb130"
     }
   ],
   "unverified_history": [
