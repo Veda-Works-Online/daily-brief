@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-26T22:41:01.288637+00:00",
+  "updated": "2026-10-26T22:46:01.023278+00:00",
   "items": [
+    {
+      "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+      "url": "https://wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate",
+      "source": "Wired",
+      "published": "2026-10-26T22:40:37+00:00",
+      "retrieved_at": "2026-10-26T22:45:54.136205+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d0df518fc7810773a2702993"
+    },
     {
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
       "url": "https://openai.com/index/greptile-code-review-codex-astra",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "91099d2a023607ef71adc7e5"
-    },
-    {
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "source": "OpenAI",
-      "published": "2026-10-16T00:00:00+00:00",
-      "retrieved_at": "2026-10-17T05:27:26.937045+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "81b19b863eb63ff9ca4e0dca"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-26T22:40:53.076504+00:00",
+    "checked_at": "2026-10-26T22:45:52.632087+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
