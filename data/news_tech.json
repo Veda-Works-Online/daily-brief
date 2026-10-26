@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T14:39:16.585938+00:00",
+  "updated": "2026-10-26T14:44:10.851291+00:00",
   "items": [
     {
       "title": "Anthropic officially files for its public debut",
@@ -19,11 +19,11 @@
       "story_fingerprint": "94702af8fe0c949df1ad1039"
     },
     {
-      "title": "Tesla wants AI and software to be its next profit engine",
+      "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
       "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine",
       "source": "Ars Technica AI",
       "published": "2026-10-26T14:30:27+00:00",
-      "retrieved_at": "2026-10-26T14:34:12.499590+00:00",
+      "retrieved_at": "2026-10-26T14:44:05.710982+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
       "isAI": true,
@@ -33,7 +33,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "768ef9d011dd7ffeede96c3f"
+      "story_fingerprint": "bd64fa5f51232f19b3821145"
     },
     {
       "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-26T14:39:08.556980+00:00",
+    "checked_at": "2026-10-26T14:44:04.451916+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
