@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-26T21:55:57.005768+00:00",
+  "updated": "2026-10-26T22:00:59.586657+00:00",
   "items": [
+    {
+      "title": "Databricks co-founder shares his secrets for winning big enterprises customers",
+      "url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers",
+      "source": "TechCrunch",
+      "published": "2026-10-26T22:00:00+00:00",
+      "retrieved_at": "2026-10-26T22:00:55.292119+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b7ee32b1515111607cc620ee"
+    },
     {
       "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
       "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "98f26dfa76d388820c21b30a"
-    },
-    {
-      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems",
-      "source": "TechCrunch",
-      "published": "2026-10-15T23:33:45+00:00",
-      "retrieved_at": "2026-10-15T23:37:34.143405+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4494b121d57e2c460f9312af"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-26T21:55:51.435026+00:00",
+    "checked_at": "2026-10-26T22:00:53.813701+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
