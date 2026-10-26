@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-26T14:04:43.634166+00:00",
+  "updated": "2026-10-26T14:09:13.354659+00:00",
   "items": [
+    {
+      "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
+      "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform",
+      "source": "TechCrunch",
+      "published": "2026-10-26T14:08:04+00:00",
+      "retrieved_at": "2026-10-26T14:09:10.379200+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Matiks has introduced a new platform for users to create games using AI.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "63851064b228ead145c84958"
+    },
     {
       "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
       "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "87e94a43e88c4f913da93181"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day",
-      "source": "TechCrunch AI",
-      "published": "2026-10-15T14:00:00+00:00",
-      "retrieved_at": "2026-10-15T16:41:51.210860+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "69e216192371427319b9a784"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-26T14:04:39.354746+00:00",
+    "checked_at": "2026-10-26T14:09:09.096548+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
