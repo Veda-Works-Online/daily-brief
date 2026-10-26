@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-26T18:50:19.987553+00:00",
+  "updated": "2026-10-26T18:55:24.584147+00:00",
   "items": [
+    {
+      "title": "Boston Dynamics employees want to block sale of robot dogs to ICE",
+      "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice",
+      "source": "Ars Technica AI",
+      "published": "2026-10-26T18:50:41+00:00",
+      "retrieved_at": "2026-10-26T18:55:16.303422+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ba2fef16f62226c84b8c603b"
+    },
     {
       "title": "This startup’s self-driving excavators help dig up $600M in new funding",
       "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "959cd23241cc963a28111ee8"
-    },
-    {
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access",
-      "source": "TechCrunch AI",
-      "published": "2026-10-15T19:14:26+00:00",
-      "retrieved_at": "2026-10-15T19:17:05.560386+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2f511b592bb149d815ba84b4"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-26T18:50:12.056688+00:00",
+    "checked_at": "2026-10-26T18:55:14.566640+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
