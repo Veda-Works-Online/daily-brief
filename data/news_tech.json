@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T17:55:21.281472+00:00",
+  "updated": "2026-10-26T18:00:25.398160+00:00",
   "items": [
     {
       "title": "This startup’s self-driving excavators help dig up $600M in new funding",
@@ -187,6 +187,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9df008b79b1dff1a85d95a99"
+    },
+    {
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source": "OpenAI",
+      "published": "2026-10-26T10:00:00+00:00",
+      "retrieved_at": "2026-10-26T18:00:16.938087+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "3293e1e8daa94108e22cc6bf"
     },
     {
       "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2f511b592bb149d815ba84b4"
-    },
-    {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "source": "OpenAI",
-      "published": "2026-10-15T19:00:00+00:00",
-      "retrieved_at": "2026-10-15T21:57:32.154428+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "ed4421efa21e1009c372e56b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-26T17:55:14.962273+00:00",
+    "checked_at": "2026-10-26T18:00:15.446199+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
