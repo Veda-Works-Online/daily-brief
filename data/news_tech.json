@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-26T14:34:15.640017+00:00",
+  "updated": "2026-10-26T14:39:16.585938+00:00",
   "items": [
+    {
+      "title": "Anthropic officially files for its public debut",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut",
+      "source": "TechCrunch AI",
+      "published": "2026-10-26T14:35:22+00:00",
+      "retrieved_at": "2026-10-26T14:39:09.181450+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "94702af8fe0c949df1ad1039"
+    },
     {
       "title": "Tesla wants AI and software to be its next profit engine",
       "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9ceb4a0e18776e7715f4967c"
-    },
-    {
-      "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
-      "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs",
-      "source": "Ars Technica AI",
-      "published": "2026-10-15T15:12:58+00:00",
-      "retrieved_at": "2026-10-15T16:06:56.370818+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "07754b193ef46e35cc8f5463"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-26T14:34:11.295670+00:00",
+    "checked_at": "2026-10-26T14:39:08.556980+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
