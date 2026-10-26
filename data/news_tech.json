@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-26T14:24:20.834979+00:00",
+  "updated": "2026-10-26T14:29:11.348609+00:00",
   "items": [
+    {
+      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+      "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip",
+      "source": "TechCrunch",
+      "published": "2026-10-26T14:25:43+00:00",
+      "retrieved_at": "2026-10-26T14:29:06.373071+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The new iPad mini features a thinner and lighter design than its predecessor.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f708cfc7aa6f47debf54d5f9"
+    },
     {
       "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
       "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "df2cdb69684ee86029bfc5a8"
-    },
-    {
-      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-      "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai",
-      "source": "TechCrunch",
-      "published": "2026-10-15T14:47:09+00:00",
-      "retrieved_at": "2026-10-15T14:51:23.817760+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6f81e2e63ef44624aef52e96"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-26T14:24:12.774042+00:00",
+    "checked_at": "2026-10-26T14:29:05.031110+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
