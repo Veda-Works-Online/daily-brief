@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-26T16:00:22.692306+00:00",
+  "updated": "2026-10-26T16:05:24.318807+00:00",
   "items": [
+    {
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+      "source": "Google AI",
+      "published": "2026-10-26T16:00:00+00:00",
+      "retrieved_at": "2026-10-26T16:05:15.293369+00:00",
+      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "596849dfcee072d16f85576f"
+    },
     {
       "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
       "url": "https://wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy",
@@ -36,11 +53,11 @@
       "story_fingerprint": "94702af8fe0c949df1ad1039"
     },
     {
-      "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
+      "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
       "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine",
       "source": "Ars Technica AI",
       "published": "2026-10-26T14:30:27+00:00",
-      "retrieved_at": "2026-10-26T14:44:05.710982+00:00",
+      "retrieved_at": "2026-10-26T16:05:15.793400+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
       "isAI": true,
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ae1b4c860a009cd43f556f51"
-    },
-    {
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
-      "source": "Google DeepMind",
-      "published": "2026-10-15T16:08:03+00:00",
-      "retrieved_at": "2026-10-15T16:12:00.280295+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "cf2c6c882be8803044d51e76"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-26T16:00:11.559760+00:00",
+    "checked_at": "2026-10-26T16:05:14.232241+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
