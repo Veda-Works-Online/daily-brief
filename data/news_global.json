@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T20:31:05.995346+00:00",
+  "updated": "2026-10-26T20:46:08.941304+00:00",
   "items": [
     {
       "title": "How a WhatsApp channel helped Lula win Brazil’s election",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "327989c4a043ca139c8dea17"
+    },
+    {
+      "title": "A bad omen? Syria bans women from university courses",
+      "url": "https://dw.com/en/a-bad-omen-syria-bans-women-from-university-courses/a-79769348",
+      "source": "DW",
+      "published": "2026-10-26T20:07:00+00:00",
+      "retrieved_at": "2026-10-26T20:46:05.185843+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The recent announcement that Syrian tertiary institutes will not allow women into some courses has triggered debate. Critics worry it may be a sign that the new Syrian government is restricting women's rights.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "664e941e693587286d4936a7"
     },
     {
       "title": "Tensions Rise",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f5ecf35f88cd7d672584527f"
-    },
-    {
-      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
-      "url": "https://bbc.co.uk/news/articles/cmx28y5e04ggo",
-      "source": "BBC World",
-      "published": "2026-10-22T17:07:03+00:00",
-      "retrieved_at": "2026-10-22T17:19:16.527937+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0e8d130f00b6b08a60e35420"
     }
   ],
   "unverified_history": [
