@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-26T11:39:08.823501+00:00",
+  "updated": "2026-10-26T11:59:09.647736+00:00",
   "items": [
+    {
+      "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+      "url": "https://bbc.co.uk/news/articles/c35yn2ye1x85o",
+      "source": "BBC World",
+      "published": "2026-10-26T11:39:16+00:00",
+      "retrieved_at": "2026-10-26T11:59:05.874933+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The firebrand left-winger, whose has at times been at odds with Trump, has won his fourth term as Brazil's president.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e632da6f6407b797989b0e1b"
+    },
+    {
+      "title": "Five ways Trump has changed immigration in the US",
+      "url": "https://bbc.co.uk/news/articles/c9203k1jrmpvo",
+      "source": "BBC World",
+      "published": "2026-10-26T11:29:02+00:00",
+      "retrieved_at": "2026-10-26T11:59:05.874943+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a97d8a4473c3199139d955af"
+    },
     {
       "title": "Key European defence ministers meet in Paris to discuss Ukraine support",
       "url": "https://aljazeera.com/news/2026/10/26/key-european-defence-ministers-meet-in-paris-to-discuss-ukraine-support",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d5a19b8a16e18a821979c89c"
-    },
-    {
-      "title": "Trump administration seeks Supreme Court approval to build Big Bend wall",
-      "url": "https://aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall",
-      "source": "Al Jazeera",
-      "published": "2026-10-22T03:19:38+00:00",
-      "retrieved_at": "2026-10-22T03:56:15.262001+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US federal judge blocked wall's construction on Texas-Mexico border amid an ongoing legal battle.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cc087a66a2905ca1276e4743"
-    },
-    {
-      "title": "US embassy accuses Canada of election meddling ahead of midterms",
-      "url": "https://bbc.co.uk/news/articles/cmn06g29522lo",
-      "source": "BBC World",
-      "published": "2026-10-22T03:05:28+00:00",
-      "retrieved_at": "2026-10-22T09:46:47.653101+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "84e0091bf60c3797cc1f8a94"
     }
   ],
   "unverified_history": [
