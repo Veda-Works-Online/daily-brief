@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-26T17:25:19.098042+00:00",
+  "updated": "2026-10-26T17:30:20.729205+00:00",
   "items": [
+    {
+      "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+      "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo",
+      "source": "Ars Technica AI",
+      "published": "2026-10-26T17:26:36+00:00",
+      "retrieved_at": "2026-10-26T17:30:12.432941+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "95ba167e3839ef22b0916c6d"
+    },
     {
       "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
       "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "886a19fbde443d3fd1583a5a"
-    },
-    {
-      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16",
-      "source": "TechCrunch AI",
-      "published": "2026-10-15T18:00:00+00:00",
-      "retrieved_at": "2026-10-15T18:16:53.775082+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c2f1e72e55e0b1c7b6c78111"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-26T17:25:09.753597+00:00",
+    "checked_at": "2026-10-26T17:30:10.728383+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
