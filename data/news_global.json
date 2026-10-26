@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-26T12:04:19.354708+00:00",
+  "updated": "2026-10-26T12:54:22.332685+00:00",
   "items": [
+    {
+      "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
+      "url": "https://aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T12:17:02+00:00",
+      "retrieved_at": "2026-10-26T12:54:18.517586+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The death toll in Israel's genocidal war on Gaza climbs to 74,555, including 1,559 killed since 'ceasefire' last year.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a84d298f686bcd59a33b59b3"
+    },
     {
       "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
       "url": "https://bbc.co.uk/news/articles/c35yn2ye1x85o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0c85e7f0c54c32d93c1f57e8"
-    },
-    {
-      "title": "No order, no seat: Starbucks China rolls out new store policy",
-      "url": "https://bbc.co.uk/news/articles/ckzd6rjmlzvmo",
-      "source": "BBC World",
-      "published": "2026-10-22T04:02:29+00:00",
-      "retrieved_at": "2026-10-22T05:20:55.586116+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d5a19b8a16e18a821979c89c"
     }
   ],
   "unverified_history": [
