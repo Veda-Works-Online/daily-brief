@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-25T23:46:32.486686+00:00",
+  "updated": "2026-10-26T00:21:31.780029+00:00",
   "items": [
+    {
+      "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T00:02:55+00:00",
+      "retrieved_at": "2026-10-26T00:21:25.689955+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Trump has launched another fierce anti-Muslim attack on Democratic Senate candidate Abdul El-Sayed.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5e63faa7f062967688c76a7c"
+    },
+    {
+      "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
+      "url": "https://aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T00:00:00+00:00",
+      "retrieved_at": "2026-10-26T00:21:25.689983+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Trump's statement comes as Iran says renewed US-Israeli attacks 'will achieve no different outcome'.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e274c6f4e73a1b546b2ed9c5"
+    },
     {
       "title": "Thousands protest in Prague against public media funding reforms",
       "url": "https://aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms",
@@ -98,11 +130,11 @@
       "story_fingerprint": "bce0033cca1220b15a836d22"
     },
     {
-      "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
+      "title": "Brazil election results 2026 live: Lula, Bolsonaro voters await final tally",
       "url": "https://aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off",
       "source": "Al Jazeera",
       "published": "2026-10-25T20:00:04+00:00",
-      "retrieved_at": "2026-10-25T23:16:27.425682+00:00",
+      "retrieved_at": "2026-10-26T00:21:25.690177+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "Legal challenges are likely, as the voting extension adds tension to Brazil's polarised political landscape.",
       "category": "global",
@@ -111,7 +143,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "95a675e573ca0ff9b00b1745"
+      "story_fingerprint": "a0988b8ba1dacd3f318e5fd2"
     },
     {
       "title": "Serbia’s Vucic concedes election defeat to student-led movement",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "98004951c315bc83faeeee0f"
-    },
-    {
-      "title": "Russia releases American Stephen Hubbard after four years in prison",
-      "url": "https://aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison",
-      "source": "Al Jazeera",
-      "published": "2026-10-21T14:31:53+00:00",
-      "retrieved_at": "2026-10-21T14:59:55.227517+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Hubbard was jailed after being accused of fighting alongside Ukrainian forces against Russia.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "079281bb99a46969b953e17f"
-    },
-    {
-      "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
-      "url": "https://dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871",
-      "source": "DW",
-      "published": "2026-10-21T14:17:00+00:00",
-      "retrieved_at": "2026-10-22T07:56:58.524251+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Russian FSB agents have arrested a German national and accused him of fighting as a mercenary for Ukraine's military. They claim he deserted over unpaid wages and say he was a sniper who once served in the Bundeswehr.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "88f37278d72734a65de2d9a0"
     }
   ],
   "unverified_history": [
