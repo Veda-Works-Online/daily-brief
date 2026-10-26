@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T01:12:30.793899+00:00",
+  "updated": "2026-10-26T01:37:28.117178+00:00",
   "items": [
     {
       "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
@@ -16,6 +16,38 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7de9c4de84ad0d411061e0ec"
+    },
+    {
+      "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T01:02:57+00:00",
+      "retrieved_at": "2026-10-26T01:37:22.198561+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5b8a38aa984cd1c57f10bad1"
+    },
+    {
+      "title": "Serbia celebrates historic election win for student-backed movement",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T00:58:21+00:00",
+      "retrieved_at": "2026-10-26T01:37:22.198591+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Celebrations erupted across Belgrade as Serbia's student-backed movement claimed a major election victory",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c0bd48a86a246feab5825ce5"
     },
     {
       "title": "Lula holds off far right with victory in Brazil presidential election",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c390b58b6614b81f0dd5cd79"
-    },
-    {
-      "title": "Musk pledges $10bn in SpaceX shares for US children: Who really gains?",
-      "url": "https://aljazeera.com/news/2026/10/21/musk-pledges-10bn-in-spacex-shares-for-us-children-who-really-gains",
-      "source": "Al Jazeera",
-      "published": "2026-10-21T14:41:03+00:00",
-      "retrieved_at": "2026-10-21T15:19:54.748071+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The pledge, which Trump says will go through tax-friendly 'Trump accounts', comes two weeks before the US midterms.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c8020ea75180cb3388e817dc"
-    },
-    {
-      "title": "The China-US Quantum Computing Contest",
-      "url": "https://thediplomat.com/2026/10/the-china-us-quantum-computing-contest",
-      "source": "The Diplomat",
-      "published": "2026-10-21T14:40:00+00:00",
-      "retrieved_at": "2026-10-21T17:19:44.402461+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Insights from Matt Kinsella.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6bf475be2cc1eec35b5cbe6a"
     }
   ],
   "unverified_history": [
