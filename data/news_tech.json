@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-26T17:40:24.164622+00:00",
+  "updated": "2026-10-26T17:45:18.720621+00:00",
   "items": [
+    {
+      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding",
+      "source": "TechCrunch",
+      "published": "2026-10-26T17:45:00+00:00",
+      "retrieved_at": "2026-10-26T17:45:12.088439+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7aeed447a1702acb9b5675be"
+    },
     {
       "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
       "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "ed4421efa21e1009c372e56b"
-    },
-    {
-      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more",
-      "source": "TechCrunch AI",
-      "published": "2026-10-15T18:56:46+00:00",
-      "retrieved_at": "2026-10-15T18:56:57.651287+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "886a19fbde443d3fd1583a5a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-26T17:40:17.360643+00:00",
+    "checked_at": "2026-10-26T17:45:10.447387+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
