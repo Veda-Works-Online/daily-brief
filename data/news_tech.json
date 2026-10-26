@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-26T09:28:17.651664+00:00",
+  "updated": "2026-10-26T09:33:16.353811+00:00",
   "items": [
+    {
+      "title": "Meet the AI Agents Trying to Be Real-Life Journalists",
+      "url": "https://wired.com/story/ai-agents-are-trying-to-be-journalists-now",
+      "source": "Wired",
+      "published": "2026-10-26T09:30:00+00:00",
+      "retrieved_at": "2026-10-26T09:33:09.203575+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3c5972d2aaf438781c104c3a"
+    },
     {
       "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
       "url": "https://wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "18693d3c776ffb87c53a89c8"
-    },
-    {
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
-      "source": "TechCrunch",
-      "published": "2026-10-15T12:00:00+00:00",
-      "retrieved_at": "2026-10-15T12:01:06.937591+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3d12cc5e8d3af769a4f4247f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-26T09:28:13.087725+00:00",
+    "checked_at": "2026-10-26T09:33:07.914717+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
