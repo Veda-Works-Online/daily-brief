@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T19:15:25.994235+00:00",
+  "updated": "2026-10-26T19:20:22.910450+00:00",
   "items": [
     {
       "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
@@ -257,23 +257,6 @@
       "story_fingerprint": "551cb820d6d7e0c5f16bc40f"
     },
     {
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "url": "https://openai.com/index/openai-cut-incident-investigation",
-      "source": "OpenAI",
-      "published": "2026-10-26T07:00:00+00:00",
-      "retrieved_at": "2026-10-26T19:15:17.273144+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "8dcd8b2c2245115f43bc12eb"
-    },
-    {
       "title": "How Fanatics and OpenAI streamline the fan experience",
       "url": "https://openai.com/index/fanatics-streamline-fan-experience",
       "source": "OpenAI",
@@ -289,6 +272,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "9eafdedb8ff0963222aba777"
+    },
+    {
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "source": "OpenAI",
+      "published": "2026-10-26T07:00:00+00:00",
+      "retrieved_at": "2026-10-26T19:15:17.273144+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "8dcd8b2c2245115f43bc12eb"
     },
     {
       "title": "Introducing GPT-6.1 Terra",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-26T19:15:15.777410+00:00",
+    "checked_at": "2026-10-26T19:20:15.571566+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
