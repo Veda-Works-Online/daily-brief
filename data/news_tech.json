@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-26T21:01:03.729631+00:00",
+  "updated": "2026-10-26T21:06:03.409810+00:00",
   "items": [
+    {
+      "title": "Watch out, YouTube; Instagram goes from short-form to 90-minute videos",
+      "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos",
+      "source": "TechCrunch",
+      "published": "2026-10-26T21:05:11+00:00",
+      "retrieved_at": "2026-10-26T21:05:56.211425+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "As Instagram rolls out long form videos of up to 90 minutes, the platform has an opportunity to challenge YouTube if it plays its cards right.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1274a8f3f53934103c0b6594"
+    },
     {
       "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
       "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e9bdf985a41726b8c47da614"
-    },
-    {
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "source": "Hugging Face",
-      "published": "2026-10-15T20:34:01+00:00",
-      "retrieved_at": "2026-10-15T20:37:36.750748+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "6eb094f9af4277b1c318857f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-26T21:00:55.379300+00:00",
+    "checked_at": "2026-10-26T21:05:54.895828+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
