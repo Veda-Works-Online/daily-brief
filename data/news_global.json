@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-26T21:51:09.484224+00:00",
+  "updated": "2026-10-26T22:21:12.453609+00:00",
   "items": [
+    {
+      "title": "Former FBI director James Comey hit with third set of charges under Trump",
+      "url": "https://aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump",
+      "source": "Al Jazeera",
+      "published": "2026-10-26T22:03:26+00:00",
+      "retrieved_at": "2026-10-26T22:21:08.479281+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Comey, who was fired during Trump's first term, has been accused of unlawfully divulging national security information",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "03bfdbc8638ffb2988977042"
+    },
     {
       "title": "Africa food security under threat due to Iran war, trade officials warn",
       "url": "https://aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "26b537329f993f8835993004"
-    },
-    {
-      "title": "Thousands gather at final student-led rally ahead of Serbia election",
-      "url": "https://aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election",
-      "source": "Al Jazeera",
-      "published": "2026-10-22T20:21:12+00:00",
-      "retrieved_at": "2026-10-22T20:38:54.221271+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The student movement aims to end Vucic's 14 years of rule at Sunday's vote, as he holds a rival rally across town.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a1e61c8e969dbd7310692033"
     }
   ],
   "unverified_history": [
