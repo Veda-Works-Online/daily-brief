@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-26T19:30:36.661775+00:00",
+  "updated": "2026-10-26T19:50:30.396414+00:00",
   "items": [
+    {
+      "title": "Tensions Rise",
+      "url": "https://warontherocks.com/tensions-rise",
+      "source": "War on the Rocks",
+      "published": "2026-10-26T19:45:41+00:00",
+      "retrieved_at": "2026-10-26T19:50:25.447538+00:00",
+      "feed_url": "https://warontherocks.com/feed/",
+      "summary": "Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranIndications of a return to direct hostilities are increasing. The United States is evacuating more troops and diplomatic staff and their families from the region, moving a third aircraft carrier strike group…",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://warontherocks.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "73a1834e3c1400cc68e0c780"
+    },
     {
       "title": "Trump administration illegally fired James Comey's daughter, judge rules",
       "url": "https://bbc.co.uk/news/articles/ck78px6glw3lo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ffcea3ecc6f231b02c60f7b3"
-    },
-    {
-      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-      "url": "https://bbc.co.uk/news/articles/cr5ynl63v0pyo",
-      "source": "BBC World",
-      "published": "2026-10-22T15:56:36+00:00",
-      "retrieved_at": "2026-10-22T16:02:57.148421+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f761a62bc320c8fb3354178d"
     }
   ],
   "unverified_history": [
