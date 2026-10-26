@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T14:09:19.574282+00:00",
+  "updated": "2026-10-26T14:19:15.690378+00:00",
   "items": [
     {
       "title": "Lula wins fourth term in dramatic Brazil election comeback",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d35eaeb19e13c1d21bf3867f"
+    },
+    {
+      "title": "Germany's Merz heads to Asia as security issues loom large",
+      "url": "https://dw.com/en/germany-s-merz-heads-to-asia-as-security-issues-loom-large/a-79764065",
+      "source": "DW",
+      "published": "2026-10-26T13:32:00+00:00",
+      "retrieved_at": "2026-10-26T14:19:12.064575+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Chancellor Friedrich Merz will be meeting the leaders of Singapore, Japan and South Korea as Germany seeks to adjust its foreign policy to rising uncertainty and threats to global supply chains.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c5255330f7bc3062e53c1218"
     },
     {
       "title": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "72aa8d18d41c0fac26a1f8d0"
-    },
-    {
-      "title": "The Endless Chip War",
-      "url": "https://warontherocks.com/cogs-of-war/the-endless-chip-war",
-      "source": "War on the Rocks",
-      "published": "2026-10-22T08:00:46+00:00",
-      "retrieved_at": "2026-10-22T08:01:50.137616+00:00",
-      "feed_url": "https://warontherocks.com/feed/",
-      "summary": "This exclusive Cogs of War interview is with Rakesh Kumar, the author of Chip Age: How Semiconductors Became the World’s Most Powerful Resource. Rakesh has worked as a co-founder, professor, researcher, and advisor in the chip industry for more than two decades. Chipmaking is an evergreen technology with ever-increasing geopolitical implications, and so we asked him to share his thoughts on his…",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://warontherocks.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f934b9c3709e87b4a0c9b8c9"
     }
   ],
   "unverified_history": [
