@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T08:48:21.277429+00:00",
+  "updated": "2026-10-26T08:58:13.842046+00:00",
   "items": [
     {
       "title": "Do Palestinians in Gaza expect anything to change after Israel’s election?",
@@ -80,6 +80,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "54f0cb55d0be9a98ec984851"
+    },
+    {
+      "title": "China's big political meeting could see Xi 'tighten discipline' in Party",
+      "url": "https://bbc.co.uk/news/articles/c6n8djd1078ro",
+      "source": "BBC World",
+      "published": "2026-10-26T07:40:57+00:00",
+      "retrieved_at": "2026-10-26T08:58:09.587163+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The highly secretive four-day Plenum starts Monday in Beijing.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "340303d881bf07e4f62038b0"
     },
     {
       "title": "Officials from Mecca pact states to hold talks in Iran amid regional tensions",
@@ -464,6 +480,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "debdd05f4bd4ebe2c0065de8"
+    },
+    {
+      "title": "Why Israel's election is one of the most important in its history",
+      "url": "https://bbc.co.uk/news/videos/c64g1wje3jjwo",
+      "source": "BBC World",
+      "published": "2026-10-25T22:05:30+00:00",
+      "retrieved_at": "2026-10-26T08:58:09.587123+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "56bee9d8e94d580fb148c5ac"
     },
     {
       "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "792d1e28af30dd4d51593fd7"
-    },
-    {
-      "title": "What happened during Witkoff and Kushner’s latest meeting with Putin",
-      "url": "https://aljazeera.com/news/2026/10/21/what-happened-during-witkoff-and-kushners-latest-meeting-with-putin",
-      "source": "Al Jazeera",
-      "published": "2026-10-21T23:52:00+00:00",
-      "retrieved_at": "2026-10-22T00:05:51.572962+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The latest round of negotiations comes amid growing concerns in Kyiv the US is backing away from its support of Ukraine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f5df253096464414f6863102"
-    },
-    {
-      "title": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
-      "url": "https://aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat",
-      "source": "Al Jazeera",
-      "published": "2026-10-21T23:13:35+00:00",
-      "retrieved_at": "2026-10-21T23:25:36.382677+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US State Department says Iran-aligned Houthis have 'increasingly ⁠⁠engaged in hostilities' against Saudi Arabia.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b8fdc8acfd64b0d6fa88c856"
     }
   ],
   "unverified_history": [
