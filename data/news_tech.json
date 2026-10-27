@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T19:39:36.580781+00:00",
+  "updated": "2026-10-27T19:44:32.178715+00:00",
   "items": [
+    {
+      "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
+      "url": "https://wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day",
+      "source": "Wired",
+      "published": "2026-10-27T19:39:04+00:00",
+      "retrieved_at": "2026-10-27T19:44:27.661723+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0702bfc7a204db7d93bc1cb2"
+    },
     {
       "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
       "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "452977fc22229558c607dc29"
-    },
-    {
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
-      "source": "TechCrunch AI",
-      "published": "2026-10-17T20:21:19+00:00",
-      "retrieved_at": "2026-10-17T20:25:03.365159+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2a47fb814bce02330ec1de48"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T19:39:29.947583+00:00",
+    "checked_at": "2026-10-27T19:44:26.419612+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
