@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T16:08:54.633143+00:00",
+  "updated": "2026-10-27T16:13:47.001182+00:00",
   "items": [
+    {
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "source": "Hugging Face",
+      "published": "2026-10-27T16:12:42+00:00",
+      "retrieved_at": "2026-10-27T16:13:42.024121+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "99f23e89c5d30c9cb7532c0c"
+    },
     {
       "title": "Genie 4: A new generation of world simulation",
       "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "15580ef0c50a062c2665790b"
-    },
-    {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "source": "OpenAI",
-      "published": "2026-10-16T19:00:00+00:00",
-      "retrieved_at": "2026-10-16T23:26:55.839002+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "5bca9ee4bc43f935eff4a2cf"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T16:08:45.863424+00:00",
+    "checked_at": "2026-10-27T16:13:41.212386+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
