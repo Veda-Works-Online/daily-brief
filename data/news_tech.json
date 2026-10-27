@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T09:32:36.570387+00:00",
+  "updated": "2026-10-27T09:37:36.273787+00:00",
   "items": [
+    {
+      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+      "url": "https://wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one",
+      "source": "Wired",
+      "published": "2026-10-27T09:30:00+00:00",
+      "retrieved_at": "2026-10-27T09:37:32.399749+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c94477fd0529ca86e1a5491a"
+    },
     {
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
       "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "00d424a4b8b40a10850c0c96"
-    },
-    {
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "source": "Hugging Face",
-      "published": "2026-10-16T01:44:47+00:00",
-      "retrieved_at": "2026-10-16T01:48:33.037287+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "3e62c61213959cb5432b362a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T09:32:28.957880+00:00",
+    "checked_at": "2026-10-27T09:37:30.719561+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
