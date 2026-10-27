@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T19:24:35.335026+00:00",
+  "updated": "2026-10-27T19:29:41.941558+00:00",
   "items": [
     {
       "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
@@ -442,6 +442,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9e3470db13a9a37c6e22cf28"
+    },
+    {
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "source": "OpenAI",
+      "published": "2026-10-27T00:00:00+00:00",
+      "retrieved_at": "2026-10-27T19:29:36.303939+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "c10c54ee5b10c08523a7b2b3"
     },
     {
       "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2a47fb814bce02330ec1de48"
-    },
-    {
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "source": "TechCrunch AI",
-      "published": "2026-10-17T18:48:08+00:00",
-      "retrieved_at": "2026-10-19T18:17:11.496283+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c764d17eb2a75ad105e49b8d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T19:24:29.596895+00:00",
+    "checked_at": "2026-10-27T19:29:35.166084+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
