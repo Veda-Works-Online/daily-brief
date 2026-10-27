@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T11:02:37.892542+00:00",
+  "updated": "2026-10-27T11:07:38.280918+00:00",
   "items": [
+    {
+      "title": "AI Agents Are Media’s New Favorite Audience",
+      "url": "https://wired.com/story/ai-agents-are-medias-new-favorite-audience",
+      "source": "Wired",
+      "published": "2026-10-27T11:00:00+00:00",
+      "retrieved_at": "2026-10-27T11:07:34.903094+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8bf386601bd10f8d5a30c5d1"
+    },
     {
       "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
       "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6aa733b7087fc5c4b5801384"
-    },
-    {
-      "title": "Googlebook review: Android on a laptop is still Android",
-      "url": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android",
-      "source": "Ars Technica",
-      "published": "2026-10-16T10:00:32+00:00",
-      "retrieved_at": "2026-10-16T10:24:06.744685+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Android laptops are here, but Google has a lot of work ahead to make them good.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dfbf07924e4d01607a5221fd"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T11:02:32.777416+00:00",
+    "checked_at": "2026-10-27T11:07:33.389590+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
