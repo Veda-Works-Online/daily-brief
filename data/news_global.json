@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-27T19:04:42.993583+00:00",
+  "updated": "2026-10-27T19:34:43.347688+00:00",
   "items": [
+    {
+      "title": "Israel election results live: Exit polls soon as Netanyahu faces tight race",
+      "url": "https://aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T19:28:12+00:00",
+      "retrieved_at": "2026-10-27T19:34:37.645782+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "High turnout in vote widely described as the most consequential in Israel's history.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1a58af9c5cd83d8884f5903a"
+    },
+    {
+      "title": "Trump says he’ll respect US midterm results if elections are ‘honest’",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/27/trump-says-hell-respect-us-midterm-results-if-elections-are",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T19:11:27+00:00",
+      "retrieved_at": "2026-10-27T19:34:37.645828+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US President Donald Trump says he will respect the results of the November 3 midterm elections if they are ‘honest’.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "474543e6dde5fa05de127dfd"
+    },
     {
       "title": "Russia jails IT worker for 13 years for donating money to Ukraine",
       "url": "https://aljazeera.com/news/2026/10/27/russia-jails-it-worker-for-13-years-for-donating-money-to-ukraine",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3adc8bb676ac5d24b18664fb"
-    },
-    {
-      "title": "Trump’s broken promises: economy, war and ICE",
-      "url": "https://aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice",
-      "source": "Al Jazeera",
-      "published": "2026-10-23T20:01:21+00:00",
-      "retrieved_at": "2026-10-23T20:33:10.123217+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Mehdi Hasan debates ex-Trump adviser Steve Cortes on the economy, Trump’s immigration policies and Islamophobia.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7769cb2fb3694e960adf36f0"
-    },
-    {
-      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-      "url": "https://bbc.co.uk/news/articles/c6vgxkvl4w5eo",
-      "source": "BBC World",
-      "published": "2026-10-23T19:30:19+00:00",
-      "retrieved_at": "2026-10-23T20:28:06.551702+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c4db0c34468ff4d5f8719e57"
     }
   ],
   "unverified_history": [
