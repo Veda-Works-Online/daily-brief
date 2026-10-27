@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-27T00:36:06.406997+00:00",
+  "updated": "2026-10-27T01:06:10.798072+00:00",
   "items": [
+    {
+      "title": "Romania says Russia-run sabotage network set fire near weapons factory",
+      "url": "https://aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T00:33:06+00:00",
+      "retrieved_at": "2026-10-27T01:06:06.843630+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Authorities say the fire in September is part of a broader campaign against European countries that support Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f89858315523623b3b593dca"
+    },
     {
       "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
       "url": "https://aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq",
@@ -34,20 +50,20 @@
       "story_fingerprint": "f8eb41c505b433eb2c452277"
     },
     {
-      "title": "Jordan launches air strikes in Syria in response to a fatal church shooting",
+      "title": "Jordan strikes Syria after church attack, killing at least seven people",
       "url": "https://aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting",
       "source": "Al Jazeera",
       "published": "2026-10-26T23:50:11+00:00",
-      "retrieved_at": "2026-10-27T00:01:04.325335+00:00",
+      "retrieved_at": "2026-10-27T01:06:06.843704+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Syria denies prior coordination with Jordan after deadly air strikes hit two provinces, killing at least seven people.",
+      "summary": "Syria closes border crossings with Jordan after air strikes kill seven people in Deraa and Suweyda, including children.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "9ed6fa8e387010208512f97a"
+      "story_fingerprint": "0f94c4257b83a22f1d950e40"
     },
     {
       "title": "Jordan attacks Syria in response to Karak church attack",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f46c5ef62897984b72835768"
-    },
-    {
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-      "url": "https://bbc.co.uk/news/articles/c54g1kxw4nvvo",
-      "source": "BBC World",
-      "published": "2026-10-22T23:16:16+00:00",
-      "retrieved_at": "2026-10-23T06:15:37.709131+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a27f9a78a2dfd6169f3b59f2"
     }
   ],
   "unverified_history": [
