@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T23:15:39.500998+00:00",
+  "updated": "2026-10-27T23:20:44.120671+00:00",
   "items": [
     {
       "title": "Arab towns in Israel celebrate historic Knesset gains with fireworks",
@@ -112,6 +112,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "20db2b0c58aa52bc6c43f12c"
+    },
+    {
+      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "url": "https://bbc.co.uk/news/videos/c687z5ne1w4ro",
+      "source": "BBC World",
+      "published": "2026-10-27T20:42:38+00:00",
+      "retrieved_at": "2026-10-27T23:20:37.932764+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f53c8c2f14cafc474d9ed59e"
     },
     {
       "title": "Lebanese and Syrians expect no change in Israeli policy after election",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "649c274befc06429f7ffdc3c"
-    },
-    {
-      "title": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
-      "url": "https://dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995",
-      "source": "DW",
-      "published": "2026-10-24T05:29:00+00:00",
-      "retrieved_at": "2026-10-24T18:11:18.809942+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Japan is demanding access to a journalist who was arrested by Russian security services. The Kremlin claims that Japan is using journalists as spies.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c54a9b40f7bc3a96af89f9f7"
     }
   ],
   "unverified_history": [
