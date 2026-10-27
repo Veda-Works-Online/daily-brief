@@ -1,23 +1,6 @@
 {
-  "updated": "2026-10-27T11:07:38.280918+00:00",
+  "updated": "2026-10-27T11:12:45.832804+00:00",
   "items": [
-    {
-      "title": "AI Agents Are Media’s New Favorite Audience",
-      "url": "https://wired.com/story/ai-agents-are-medias-new-favorite-audience",
-      "source": "Wired",
-      "published": "2026-10-27T11:00:00+00:00",
-      "retrieved_at": "2026-10-27T11:07:34.903094+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8bf386601bd10f8d5a30c5d1"
-    },
     {
       "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
       "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
@@ -34,6 +17,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e846c1d13ff3f0b15ea3afda"
+    },
+    {
+      "title": "AI Agents Are Media’s New Favorite Audience",
+      "url": "https://wired.com/story/ai-agents-are-medias-new-favorite-audience",
+      "source": "Wired",
+      "published": "2026-10-27T11:00:00+00:00",
+      "retrieved_at": "2026-10-27T11:07:34.903094+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8bf386601bd10f8d5a30c5d1"
     },
     {
       "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T11:07:33.389590+00:00",
+    "checked_at": "2026-10-27T11:12:40.626177+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
