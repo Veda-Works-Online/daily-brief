@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-27T02:47:02.075399+00:00",
+  "updated": "2026-10-27T03:06:59.870368+00:00",
   "items": [
+    {
+      "title": "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
+      "url": "https://bbc.co.uk/news/articles/cq8ezg6dy6xlo",
+      "source": "BBC World",
+      "published": "2026-10-27T02:40:17+00:00",
+      "retrieved_at": "2026-10-27T03:06:55.929117+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "83629db4fa6a1a97e8b07008"
+    },
     {
       "title": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
       "url": "https://aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3774e763dad215756c1f43bf"
-    },
-    {
-      "title": "Will ICE agents play a role in the 2026 US midterm elections?",
-      "url": "https://aljazeera.com/news/2026/10/23/will-ice-agents-play-a-role-in-the-2026-us-midterm-elections",
-      "source": "Al Jazeera",
-      "published": "2026-10-23T01:47:39+00:00",
-      "retrieved_at": "2026-10-23T02:15:51.739290+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Rights groups are worried the agency at the heart of Trump's immigration crackdown could sway the vote on election day.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "81b0d424d5b77136fdb77efc"
     }
   ],
   "unverified_history": [
