@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T08:07:35.970519+00:00",
+  "updated": "2026-10-27T08:37:39.418008+00:00",
   "items": [
     {
       "title": "Truce begins in Ukraine city where residents ate weeds to survive",
@@ -96,6 +96,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e0f2b098912a96e19f1b5bc9"
+    },
+    {
+      "title": "Israel heads to polls for pivotal election defined by security and democracy",
+      "url": "https://bbc.co.uk/news/articles/c3j47l4kdez4o",
+      "source": "BBC World",
+      "published": "2026-10-27T05:45:08+00:00",
+      "retrieved_at": "2026-10-27T08:37:34.851718+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "440d54d26a909c52b6c5a7af"
     },
     {
       "title": "Saudi-led coalition says it downed Houthi missiles, drones aimed at kingdom",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a19811097281926262fb674e"
-    },
-    {
-      "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
-      "url": "https://aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground",
-      "source": "Al Jazeera",
-      "published": "2026-10-23T09:03:39+00:00",
-      "retrieved_at": "2026-10-23T09:11:37.335184+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel's election heats up over ultra-Orthodox conscription debate, reflecting deep societal and political divides.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2898b0944331ff187fa6628a"
     }
   ],
   "unverified_history": [
