@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-27T22:25:38.708498+00:00",
+  "updated": "2026-10-27T23:00:43.644011+00:00",
   "items": [
+    {
+      "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T22:31:31+00:00",
+      "retrieved_at": "2026-10-27T23:00:37.758887+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israel’s Joint Arab List party celebrated as exit polls projected as many as 18 parliamentary seats for the Arab-bloc.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1ead111b95418717cb8bf491"
+    },
+    {
+      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
+      "url": "https://aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T22:29:31+00:00",
+      "retrieved_at": "2026-10-27T23:00:37.758917+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Iranian president's words came at summit for gas exporting countries in Russia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "59417039cb7da70dbd3aef32"
+    },
     {
       "title": "Flavio Bolsonaro flees Brazil after election loss, US says will grant visa",
       "url": "https://aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa",
@@ -98,11 +130,11 @@
       "story_fingerprint": "0479d700d0a4cbbd3433ef13"
     },
     {
-      "title": "Exit polls from Israel’s election show no clear winner",
+      "title": "Exit polls signal blow for Netanyahu but no clear winner in Israel election",
       "url": "https://aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner",
       "source": "Al Jazeera",
       "published": "2026-10-27T20:18:18+00:00",
-      "retrieved_at": "2026-10-27T22:25:32.812021+00:00",
+      "retrieved_at": "2026-10-27T23:00:37.759067+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "Israel's first election since October 7 appears deadlocked, with neither Netanyahu nor Eisenkot on track for a majority.",
       "category": "global",
@@ -111,7 +143,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "5161129f96d0722de5f735b9"
+      "story_fingerprint": "efbb392be905de2252584e0e"
     },
     {
       "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0d5a6d8cda539615f86dc7f1"
-    },
-    {
-      "title": "The rise of AI election ads in US midterms campaign",
-      "url": "https://bbc.co.uk/news/videos/cm62y59zw8zko",
-      "source": "BBC World",
-      "published": "2026-10-24T05:03:44+00:00",
-      "retrieved_at": "2026-10-24T05:14:44.932002+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2df3a7f0e1f204bf8705b4ce"
-    },
-    {
-      "title": "Argentina identifies dozens of victims killed in its ‘Dirty War’",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty",
-      "source": "Al Jazeera",
-      "published": "2026-10-24T03:51:58+00:00",
-      "retrieved_at": "2026-10-24T03:59:48.809286+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Forensic anthropologists have identified the remains of at least 38 victims of Argentina’s last military dictatorship.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4bb7559755fda9e004b0773a"
     }
   ],
   "unverified_history": [
