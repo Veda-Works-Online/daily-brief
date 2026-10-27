@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T22:45:32.075664+00:00",
+  "updated": "2026-10-27T22:50:28.417837+00:00",
   "items": [
     {
       "title": "Guidewire buys Hyperexponential for $1.7B in cash",
@@ -323,6 +323,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "161423f3d281475205f5f032"
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "source": "OpenAI",
+      "published": "2026-10-27T15:00:00+00:00",
+      "retrieved_at": "2026-10-27T22:50:23.901787+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "b8ca5c17cc8b71a757a9082f"
     },
     {
       "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7189cdf7053bd228ac96f21b"
-    },
-    {
-      "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
-      "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics",
-      "source": "TechCrunch",
-      "published": "2026-10-19T07:30:00+00:00",
-      "retrieved_at": "2026-10-19T07:34:46.042080+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b9fd9975a148e828837efb0f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T22:45:22.319568+00:00",
+    "checked_at": "2026-10-27T22:50:22.607678+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
