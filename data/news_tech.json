@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T14:24:16.349944+00:00",
+  "updated": "2026-10-27T14:28:50.838737+00:00",
   "items": [
+    {
+      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+      "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip",
+      "source": "TechCrunch",
+      "published": "2026-10-27T14:25:11+00:00",
+      "retrieved_at": "2026-10-27T14:28:46.535704+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "440ee39a26e1e95c31c090da"
+    },
     {
       "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
       "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d1852b1ce6b6f2a1e519c474"
-    },
-    {
-      "title": "Super Scam Me documentary shows what it takes to catch a romance scammer",
-      "url": "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain",
-      "source": "Ars Technica AI",
-      "published": "2026-10-16T14:00:59+00:00",
-      "retrieved_at": "2026-10-16T14:15:32.259105+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Watch an exclusive clip from Super Scam Me where a victim tracks down her scammer.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "544d2170018a5a9742b22376"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T14:24:10.664838+00:00",
+    "checked_at": "2026-10-27T14:28:45.102952+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
