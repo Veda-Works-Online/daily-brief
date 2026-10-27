@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-27T11:33:55.097445+00:00",
+  "updated": "2026-10-27T11:43:47.680803+00:00",
   "items": [
+    {
+      "title": "Netherlands makes U-turn over Eurovision 2027 participation",
+      "url": "https://bbc.co.uk/news/articles/cmr4y5dvlzneo",
+      "source": "BBC World",
+      "published": "2026-10-27T11:23:19+00:00",
+      "retrieved_at": "2026-10-27T11:43:42.347517+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "59ee5fd5f70025a45fdaad3d"
+    },
     {
       "title": "Former PLO official says Netanyahu-Eisenkot coalition could be possible",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/27/former-plo-official-says-netanyahu-eisenkot-coalition-could-be-possible",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "67a5df37de5d18e41f2cb00b"
-    },
-    {
-      "title": "US-Iran war, then and now: How the landscape has changed since February",
-      "url": "https://aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february",
-      "source": "Al Jazeera",
-      "published": "2026-10-23T11:43:53+00:00",
-      "retrieved_at": "2026-10-23T12:01:52.977415+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The positions of Washington and Tehran have changed dramatically since US-Israeli strikes began the war, analysts say.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c31378933c76b25e49a5e63d"
     }
   ],
   "unverified_history": [
