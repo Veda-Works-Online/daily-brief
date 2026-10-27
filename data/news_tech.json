@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T16:03:52.536842+00:00",
+  "updated": "2026-10-27T16:08:54.633143+00:00",
   "items": [
     {
       "title": "Genie 4: A new generation of world simulation",
@@ -17,6 +17,23 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "2480ae6bdcb1fc2d9c0d777e"
+    },
+    {
+      "title": "DeepMind's Genie 4 world model adds audio and more realistic people to simulations",
+      "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations",
+      "source": "Ars Technica AI",
+      "published": "2026-10-27T16:00:22+00:00",
+      "retrieved_at": "2026-10-27T16:08:47.039051+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "27dbbeb109736b541c7d1e72"
     },
     {
       "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "5bca9ee4bc43f935eff4a2cf"
-    },
-    {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
-      "source": "TechCrunch AI",
-      "published": "2026-10-16T17:52:24+00:00",
-      "retrieved_at": "2026-10-16T17:56:15.986209+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3b19a861c2524ec505ea975d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T16:03:46.828596+00:00",
+    "checked_at": "2026-10-27T16:08:45.863424+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
