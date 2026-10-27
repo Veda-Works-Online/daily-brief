@@ -1,12 +1,44 @@
 {
-  "updated": "2026-10-27T14:03:57.250794+00:00",
+  "updated": "2026-10-27T14:18:56.566550+00:00",
   "items": [
     {
-      "title": "Melania or the Pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
+      "title": "Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin",
+      "url": "https://aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T13:59:37+00:00",
+      "retrieved_at": "2026-10-27T14:18:50.884368+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Strikes hit a major bridge in the Ukrainian capital as leaders push for 'direct discussions' to end the war.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "558cd2e179fca53205973e0b"
+    },
+    {
+      "title": "Lebanon’s lost olive season: harvesting olives under drones and warplanes",
+      "url": "https://aljazeera.com/features/2026/10/27/lebanons-lost-olive-season-harvesting-olives-under-drones-and-warplanes",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T13:54:43+00:00",
+      "retrieved_at": "2026-10-27T14:18:50.884390+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Lebanon's olive harvesters are facing dangerous conditions, with potential attacks and fear of cluster munitions.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "638b7c5ab7776da944494af1"
+    },
+    {
+      "title": "Melania or the pope: Who brokered Russia-Ukraine ceasefire in Oleshky?",
       "url": "https://aljazeera.com/news/2026/10/27/melania-or-the-pope-who-brokered-russia-ukraine-ceasefire-in-oleshky",
       "source": "Al Jazeera",
       "published": "2026-10-27T13:45:01+00:00",
-      "retrieved_at": "2026-10-27T14:03:51.693807+00:00",
+      "retrieved_at": "2026-10-27T14:18:50.884408+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "Competing claims over the ceasefire mark the latest tensions between the White House and the Vatican.",
       "category": "global",
@@ -242,11 +274,11 @@
       "story_fingerprint": "8324cbb0cb34364487e1378a"
     },
     {
-      "title": "Turnout so far at record levels as Israelis vote in pivotal election",
+      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
       "url": "https://bbc.co.uk/news/articles/c3j47l4kdez4o",
       "source": "BBC World",
       "published": "2026-10-27T11:11:33+00:00",
-      "retrieved_at": "2026-10-27T13:58:53.711435+00:00",
+      "retrieved_at": "2026-10-27T14:18:50.871819+00:00",
       "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
       "category": "global",
@@ -255,7 +287,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "ea5b25e3ddf5c4a61400824c"
+      "story_fingerprint": "fe4424b8de00bb63fcb5d0b2"
     },
     {
       "title": "Families of victims killed in Jordanian strike deny links to church attack",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7352ee631d5a64dc21d16323"
-    },
-    {
-      "title": "US justice department investigating Corey Lewandowski over DHS role",
-      "url": "https://bbc.co.uk/news/articles/c6ly0dg453v8o",
-      "source": "BBC World",
-      "published": "2026-10-23T14:58:19+00:00",
-      "retrieved_at": "2026-10-23T15:27:41.616319+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f1373ab35fe81633220496b8"
-    },
-    {
-      "title": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
-      "url": "https://dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469",
-      "source": "DW",
-      "published": "2026-10-23T14:23:00+00:00",
-      "retrieved_at": "2026-10-23T15:22:35.099252+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Repeated Ukrainian drone attacks are increasingly disrupting operations at Moscow's airports. The pounding is part of Ukraine's plan to shut down Russia's airpace.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "97e0e4b91e8f9fa1a79230f8"
     }
   ],
   "unverified_history": [
