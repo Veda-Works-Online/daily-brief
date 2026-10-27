@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-27T12:13:49.583932+00:00",
+  "updated": "2026-10-27T12:43:57.181674+00:00",
   "items": [
+    {
+      "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
+      "url": "https://bbc.co.uk/news/articles/cr3wvl9qz3v2o",
+      "source": "BBC World",
+      "published": "2026-10-27T12:25:14+00:00",
+      "retrieved_at": "2026-10-27T12:43:51.739078+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The cycle of revenge attacks continue as the country heads towards its first election since independence.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "04091c56e0e69e58390b53f0"
+    },
     {
       "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
       "url": "https://bbc.co.uk/news/articles/cv62yg0erp8zo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b7dfc75fa2e4ce0d36077649"
-    },
-    {
-      "title": "Typhoon Champi unleashes huge waves along Taiwan’s coast",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/23/typhoon-champi-unleashes-huge-waves-along-taiwans-coast",
-      "source": "Al Jazeera",
-      "published": "2026-10-23T12:17:20+00:00",
-      "retrieved_at": "2026-10-23T12:42:44.578368+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Huge waves were seen crashing into Taiwan’s northeastern coast as Typhoon Champi approached with winds reaching 191 km/h",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ff2a4544362413ea04a9bbaa"
     }
   ],
   "unverified_history": [
