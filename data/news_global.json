@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-27T09:02:46.581556+00:00",
+  "updated": "2026-10-27T09:22:39.407493+00:00",
   "items": [
+    {
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "url": "https://bbc.co.uk/news/articles/ck20wjnv3w0jo",
+      "source": "BBC World",
+      "published": "2026-10-27T09:18:44+00:00",
+      "retrieved_at": "2026-10-27T09:22:35.095975+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The ceasefire in Oleshky, secured by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8324cbb0cb34364487e1378a"
+    },
     {
       "title": "Israelis begin voting as Netanyahu fights for political survival",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival",
@@ -48,22 +64,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0e029ac8fc95067f8d5fcb45"
-    },
-    {
-      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-      "url": "https://bbc.co.uk/news/articles/ck20wjnv3w0jo",
-      "source": "BBC World",
-      "published": "2026-10-27T08:01:22+00:00",
-      "retrieved_at": "2026-10-27T08:07:31.703082+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The ceasefire in Oleshky, announced by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8324cbb0cb34364487e1378a"
     },
     {
       "title": "The Anti-Taliban Resistance Has Survived. Can It Win?",
