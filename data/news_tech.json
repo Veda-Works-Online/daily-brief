@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T16:49:41.829003+00:00",
+  "updated": "2026-10-27T16:54:40.596793+00:00",
   "items": [
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -272,6 +272,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c94477fd0529ca86e1a5491a"
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-10-27T07:00:00+00:00",
+      "retrieved_at": "2026-10-27T16:54:32.250723+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "a72ccaf2145fa9c584512df5"
     },
     {
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "22753483bff088e1ed52ce06"
-    },
-    {
-      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-      "url": "https://wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds",
-      "source": "Wired",
-      "published": "2026-10-16T20:05:08+00:00",
-      "retrieved_at": "2026-10-16T20:41:12.794181+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ab365a8927bb54ea61d0da5c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T16:49:32.193521+00:00",
+    "checked_at": "2026-10-27T16:54:31.067044+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
