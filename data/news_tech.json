@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T15:58:49.948629+00:00",
+  "updated": "2026-10-27T16:03:52.536842+00:00",
   "items": [
+    {
+      "title": "Genie 4: A new generation of world simulation",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+      "source": "Google DeepMind",
+      "published": "2026-10-27T16:01:38+00:00",
+      "retrieved_at": "2026-10-27T16:03:48.146492+00:00",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://deepmind.google/blog/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "2480ae6bdcb1fc2d9c0d777e"
+    },
     {
       "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
       "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3b19a861c2524ec505ea975d"
-    },
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet",
-      "source": "TechCrunch AI",
-      "published": "2026-10-16T16:30:00+00:00",
-      "retrieved_at": "2026-10-16T17:11:23.828316+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0efdca899415a67bda35da30"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T15:58:44.276022+00:00",
+    "checked_at": "2026-10-27T16:03:46.828596+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
