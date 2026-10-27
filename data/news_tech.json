@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T13:53:51.775488+00:00",
+  "updated": "2026-10-27T13:58:50.620831+00:00",
   "items": [
+    {
+      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+      "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes",
+      "source": "TechCrunch",
+      "published": "2026-10-27T13:54:51+00:00",
+      "retrieved_at": "2026-10-27T13:58:44.378064+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "eb2ba6544ebc9bd30c94834e"
+    },
     {
       "title": "Japan internet giant GMO says hackers posted stolen customer data",
       "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "544d2170018a5a9742b22376"
-    },
-    {
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods",
-      "source": "TechCrunch AI",
-      "published": "2026-10-16T14:00:00+00:00",
-      "retrieved_at": "2026-10-16T14:20:29.784265+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c1e2c6094b67beb12d424664"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T13:53:46.146627+00:00",
+    "checked_at": "2026-10-27T13:58:42.907138+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
