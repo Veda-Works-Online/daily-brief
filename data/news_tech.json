@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T22:50:28.417837+00:00",
+  "updated": "2026-10-27T22:55:29.616279+00:00",
   "items": [
+    {
+      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+      "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip",
+      "source": "Ars Technica",
+      "published": "2026-10-27T22:37:30+00:00",
+      "retrieved_at": "2026-10-27T22:55:25.133963+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4a662d5abd93fc9ccb825c1b"
+    },
     {
       "title": "Guidewire buys Hyperexponential for $1.7B in cash",
       "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "06c81e1d2d0821f9d8b9ab2e"
-    },
-    {
-      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
-      "url": "https://wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card",
-      "source": "Wired",
-      "published": "2026-10-19T09:00:00+00:00",
-      "retrieved_at": "2026-10-19T09:05:29.161365+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7189cdf7053bd228ac96f21b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T22:50:22.607678+00:00",
+    "checked_at": "2026-10-27T22:55:23.655854+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
