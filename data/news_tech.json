@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T17:04:36.482780+00:00",
+  "updated": "2026-10-27T17:09:32.970416+00:00",
   "items": [
+    {
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
+      "source": "TechCrunch AI",
+      "published": "2026-10-27T17:08:08+00:00",
+      "retrieved_at": "2026-10-27T17:09:26.826994+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "484266676a4ed8f10a1add63"
+    },
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
       "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "57ade5a5045951c49471525d"
-    },
-    {
-      "title": "OpenAI models hacked a crypto wallet and breached more websites",
-      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites",
-      "source": "Ars Technica AI",
-      "published": "2026-10-16T20:59:01+00:00",
-      "retrieved_at": "2026-10-16T21:16:57.087432+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "39881979fb65c4f306637ae4"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T17:04:30.910206+00:00",
+    "checked_at": "2026-10-27T17:09:26.331372+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
