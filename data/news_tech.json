@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T21:50:31.989979+00:00",
+  "updated": "2026-10-27T21:55:28.801438+00:00",
   "items": [
+    {
+      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses",
+      "source": "Ars Technica AI",
+      "published": "2026-10-27T21:50:04+00:00",
+      "retrieved_at": "2026-10-27T21:55:24.043866+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ddea6190b0c7ab8a360f5c8a"
+    },
     {
       "title": "GM is embracing hybrids now",
       "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "e9c313d58af5fca2435bf008"
-    },
-    {
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund",
-      "source": "TechCrunch AI",
-      "published": "2026-10-18T20:37:40+00:00",
-      "retrieved_at": "2026-10-19T17:11:44.451596+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5cc2d221e0e49cf6e060ce9e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T21:50:22.373516+00:00",
+    "checked_at": "2026-10-27T21:55:23.066635+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
