@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T22:25:29.775587+00:00",
+  "updated": "2026-10-27T22:30:30.631317+00:00",
   "items": [
+    {
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash",
+      "source": "TechCrunch",
+      "published": "2026-10-27T22:26:03+00:00",
+      "retrieved_at": "2026-10-27T22:30:22.258824+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Software company Guidewire announced Tuesday that it was buying UK agentic underwriting startup Hyperexponential for $1.7 billion in cash.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "91cb3aef346f07f516cba514"
+    },
     {
       "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
       "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b9fd9975a148e828837efb0f"
-    },
-    {
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "source": "Hugging Face",
-      "published": "2026-10-19T00:00:00+00:00",
-      "retrieved_at": "2026-10-19T19:07:16.070714+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "e9c313d58af5fca2435bf008"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T22:25:24.147871+00:00",
+    "checked_at": "2026-10-27T22:30:20.941056+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
