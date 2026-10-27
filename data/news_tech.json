@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T21:45:31.200574+00:00",
+  "updated": "2026-10-27T21:50:31.989979+00:00",
   "items": [
+    {
+      "title": "GM is embracing hybrids now",
+      "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now",
+      "source": "TechCrunch",
+      "published": "2026-10-27T21:47:02+00:00",
+      "retrieved_at": "2026-10-27T21:50:23.703530+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "GM eschewed hybrids in favor of battery-electric vehicles. Now, it's gearing up to offer hybrid versions of its SUVs.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6508d41a4998c724e301aaef"
+    },
     {
       "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
       "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5cc2d221e0e49cf6e060ce9e"
-    },
-    {
-      "title": "Disney agrees to hire the majority of Character AI’s workforce",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce",
-      "source": "TechCrunch AI",
-      "published": "2026-10-18T16:30:00+00:00",
-      "retrieved_at": "2026-10-19T17:26:37.135009+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9a16f4b3785f3d873e592b6a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T21:45:23.334214+00:00",
+    "checked_at": "2026-10-27T21:50:22.373516+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
