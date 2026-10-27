@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T01:56:50.944322+00:00",
+  "updated": "2026-10-27T02:01:53.988694+00:00",
   "items": [
+    {
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant",
+      "source": "TechCrunch",
+      "published": "2026-10-27T02:00:00+00:00",
+      "retrieved_at": "2026-10-27T02:01:48.300052+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "effe6d9c14df139a8c6b8380"
+    },
     {
       "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
       "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "3e62c61213959cb5432b362a"
-    },
-    {
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "source": "Hugging Face",
-      "published": "2026-10-16T00:00:00+00:00",
-      "retrieved_at": "2026-10-16T13:05:30.954030+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "897c354eac1c27119d85d0b0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T01:56:45.960325+00:00",
+    "checked_at": "2026-10-27T02:01:46.931600+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
