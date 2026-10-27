@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T14:38:48.617082+00:00",
+  "updated": "2026-10-27T14:43:49.541415+00:00",
   "items": [
+    {
+      "title": "US government says hackers are now exploiting critical PHP web bugs",
+      "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs",
+      "source": "TechCrunch",
+      "published": "2026-10-27T14:40:39+00:00",
+      "retrieved_at": "2026-10-27T14:43:45.170786+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2e2ef069f389e316f17efc24"
+    },
     {
       "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
       "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "977c19b53aad1347f3a21b92"
-    },
-    {
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever",
-      "source": "TechCrunch AI",
-      "published": "2026-10-16T15:33:49+00:00",
-      "retrieved_at": "2026-10-16T16:01:19.862521+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d1852b1ce6b6f2a1e519c474"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T14:38:42.940574+00:00",
+    "checked_at": "2026-10-27T14:43:43.666492+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
