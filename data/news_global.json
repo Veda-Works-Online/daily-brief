@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-27T08:37:39.418008+00:00",
+  "updated": "2026-10-27T08:42:34.470862+00:00",
   "items": [
+    {
+      "title": "Why it could take time for a new Israeli government to form",
+      "url": "https://bbc.co.uk/news/videos/c574p31l1l2no",
+      "source": "BBC World",
+      "published": "2026-10-27T08:37:30+00:00",
+      "retrieved_at": "2026-10-27T08:42:29.726218+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Israel faces what many view as one of the most pivotal elections in the country's history.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a1a6f2f06ff5754375f50c03"
+    },
     {
       "title": "Truce begins in Ukraine city where residents ate weeds to survive",
       "url": "https://bbc.co.uk/news/articles/ck20wjnv3w0jo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c7185420b6f922c1bf276a35"
-    },
-    {
-      "title": "Israeli military kills two in gun battle in occupied West Bank",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank",
-      "source": "Al Jazeera",
-      "published": "2026-10-23T09:12:38+00:00",
-      "retrieved_at": "2026-10-23T09:51:29.788475+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel’s PM is preparing to order a shutdown in the occupied West Bank lockdown after a shooting near Hebron.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a19811097281926262fb674e"
     }
   ],
   "unverified_history": [
