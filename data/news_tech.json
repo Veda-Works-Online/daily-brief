@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T17:49:32.831418+00:00",
+  "updated": "2026-10-27T17:54:34.038234+00:00",
   "items": [
     {
       "title": "Build specialized multimodal models with LFM3",
@@ -223,23 +223,6 @@
       "story_fingerprint": "9c7d53a79f540210c7df8280"
     },
     {
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser",
-      "source": "TechCrunch AI",
-      "published": "2026-10-27T13:00:00+00:00",
-      "retrieved_at": "2026-10-27T13:03:44.313836+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "88c08b5459b2c96d8ccf8a0d"
-    },
-    {
       "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
       "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
       "source": "TechCrunch AI",
@@ -255,6 +238,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6d2a01f0f7d21c414c3f74fc"
+    },
+    {
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser",
+      "source": "TechCrunch AI",
+      "published": "2026-10-27T13:00:00+00:00",
+      "retrieved_at": "2026-10-27T13:03:44.313836+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "88c08b5459b2c96d8ccf8a0d"
     },
     {
       "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T17:49:26.243479+00:00",
+    "checked_at": "2026-10-27T17:54:28.414824+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
