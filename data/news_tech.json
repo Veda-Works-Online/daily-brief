@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T21:35:32.848818+00:00",
+  "updated": "2026-10-27T21:40:27.716367+00:00",
   "items": [
+    {
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo",
+      "source": "TechCrunch AI",
+      "published": "2026-10-27T21:38:28+00:00",
+      "retrieved_at": "2026-10-27T21:40:22.537867+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bb7ad17aa8ec36de5a7be55a"
+    },
     {
       "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
       "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3edde1b589137f5e529df689"
-    },
-    {
-      "title": "TechCrunch Mobility: Rivian’s next act",
-      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act",
-      "source": "TechCrunch",
-      "published": "2026-10-18T16:05:00+00:00",
-      "retrieved_at": "2026-10-18T16:08:23.045631+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "688a5fd546e7ccd6323596a7"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T21:35:23.104973+00:00",
+    "checked_at": "2026-10-27T21:40:21.988632+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
