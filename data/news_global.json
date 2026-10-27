@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T02:02:01.252829+00:00",
+  "updated": "2026-10-27T02:17:02.746639+00:00",
   "items": [
     {
       "title": "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
@@ -64,6 +64,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f89858315523623b3b593dca"
+    },
+    {
+      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "url": "https://bbc.co.uk/news/articles/c8vgx3pvdeq1o",
+      "source": "BBC World",
+      "published": "2026-10-27T00:31:11+00:00",
+      "retrieved_at": "2026-10-27T02:16:58.707786+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cbc725a0131dbcc24d3e7a40"
     },
     {
       "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dcc68b23908d96946e350e31"
-    },
-    {
-      "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-      "url": "https://bbc.co.uk/news/articles/ck5ynd1z6e83o",
-      "source": "BBC World",
-      "published": "2026-10-23T00:25:30+00:00",
-      "retrieved_at": "2026-10-23T00:29:47.500737+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4704cf2f314cb3418c7c9fb7"
     }
   ],
   "unverified_history": [
