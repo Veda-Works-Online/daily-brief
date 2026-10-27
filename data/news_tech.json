@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T18:44:31.281034+00:00",
+  "updated": "2026-10-27T18:49:30.670048+00:00",
   "items": [
+    {
+      "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+      "url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software",
+      "source": "Ars Technica AI",
+      "published": "2026-10-27T18:49:08+00:00",
+      "retrieved_at": "2026-10-27T18:49:25.927320+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "You can apparently now tell AI tools what sort of protein you want them to make.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7c1db7f19ac10b6705a0961e"
+    },
     {
       "title": "Build specialized multimodal models with LFM3",
       "url": "https://huggingface.co/blog/LiquidAI/lfm3",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "886ef7aab6f41d5ce9c640d6"
-    },
-    {
-      "title": "HTC Made Smart Glasses That Are Way More Private",
-      "url": "https://wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta",
-      "source": "Wired",
-      "published": "2026-10-17T10:30:00+00:00",
-      "retrieved_at": "2026-10-17T10:38:27.783281+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f45972b8a060a32564c8d424"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T18:44:25.646777+00:00",
+    "checked_at": "2026-10-27T18:49:24.881509+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
