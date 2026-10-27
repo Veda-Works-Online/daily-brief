@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T14:48:47.579358+00:00",
+  "updated": "2026-10-27T14:53:48.757430+00:00",
   "items": [
+    {
+      "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+      "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house",
+      "source": "TechCrunch",
+      "published": "2026-10-27T14:51:33+00:00",
+      "retrieved_at": "2026-10-27T14:53:43.526218+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2x capability.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5f810ea18b3da97d8ce53f76"
+    },
     {
       "title": "US government says hackers are now exploiting critical PHP web bugs",
       "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8c793223d0392cd5d27a6a5e"
-    },
-    {
-      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees",
-      "source": "Ars Technica AI",
-      "published": "2026-10-16T15:41:00+00:00",
-      "retrieved_at": "2026-10-16T15:45:23.586746+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "977c19b53aad1347f3a21b92"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T14:48:41.718130+00:00",
+    "checked_at": "2026-10-27T14:53:41.975097+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
