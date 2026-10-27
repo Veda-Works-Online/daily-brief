@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T16:13:47.001182+00:00",
+  "updated": "2026-10-27T16:18:52.377861+00:00",
   "items": [
     {
       "title": "Can we trust LLMs to judge whether a research idea is novel?",
@@ -36,11 +36,11 @@
       "story_fingerprint": "2480ae6bdcb1fc2d9c0d777e"
     },
     {
-      "title": "DeepMind's Genie 4 world model adds audio and more realistic people to simulations",
+      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
       "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations",
       "source": "Ars Technica AI",
       "published": "2026-10-27T16:00:22+00:00",
-      "retrieved_at": "2026-10-27T16:08:47.039051+00:00",
+      "retrieved_at": "2026-10-27T16:18:47.871078+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "Genie 4 will roll out to developers and Google AI Ultra subscribers soon.",
       "isAI": true,
@@ -50,7 +50,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "27dbbeb109736b541c7d1e72"
+      "story_fingerprint": "a8d20aea61949cb628f1da5b"
     },
     {
       "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T16:13:41.212386+00:00",
+    "checked_at": "2026-10-27T16:18:46.597422+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
