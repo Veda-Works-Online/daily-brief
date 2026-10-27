@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-27T07:32:32.553716+00:00",
+  "updated": "2026-10-27T08:02:36.984437+00:00",
   "items": [
+    {
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "url": "https://bbc.co.uk/news/articles/ck20wjnv3w0jo",
+      "source": "BBC World",
+      "published": "2026-10-27T08:01:22+00:00",
+      "retrieved_at": "2026-10-27T08:02:32.541273+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The ceasefire, announced by US First Lady Melania Trump, is meant to allow aid deliveries and the evacuation of civilians.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8324cbb0cb34364487e1378a"
+    },
     {
       "title": "The Anti-Taliban Resistance Has Survived. Can It Win?",
       "url": "https://warontherocks.com/the-anti-taliban-resistance-has-survived-can-it-win",
@@ -144,22 +160,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8b08ae5bf4553b0eb9e27d83"
-    },
-    {
-      "title": "Truce begins in wartorn Ukraine city after it was announced by Melania Trump",
-      "url": "https://bbc.co.uk/news/articles/ck20wjnv3w0jo",
-      "source": "BBC World",
-      "published": "2026-10-27T02:58:48+00:00",
-      "retrieved_at": "2026-10-27T07:27:26.828054+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The ceasefire is meant to allow aid deliveries and the evacuation of civilians.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8c3101ea8bb0af127a2c9cb2"
     },
     {
       "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
