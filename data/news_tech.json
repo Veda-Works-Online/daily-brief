@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T19:44:32.178715+00:00",
+  "updated": "2026-10-27T19:49:31.985250+00:00",
   "items": [
     {
       "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
@@ -17,6 +17,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0702bfc7a204db7d93bc1cb2"
+    },
+    {
+      "title": "Google's Android Registered App Stores program launches Dec. 1, applications now open",
+      "url": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open",
+      "source": "Ars Technica",
+      "published": "2026-10-27T19:32:07+00:00",
+      "retrieved_at": "2026-10-27T19:49:27.733533+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0796b6e2f9544d298241a4cd"
     },
     {
       "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4011de95f739e61c6d218679"
-    },
-    {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
-      "source": "TechCrunch AI",
-      "published": "2026-10-17T21:31:32+00:00",
-      "retrieved_at": "2026-10-17T21:35:04.639034+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "452977fc22229558c607dc29"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T19:44:26.419612+00:00",
+    "checked_at": "2026-10-27T19:49:26.027548+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
