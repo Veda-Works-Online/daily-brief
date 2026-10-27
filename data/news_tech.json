@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T16:54:40.596793+00:00",
+  "updated": "2026-10-27T16:59:40.044364+00:00",
   "items": [
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
@@ -68,6 +68,23 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a8d20aea61949cb628f1da5b"
+    },
+    {
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+      "url": "https://wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools",
+      "source": "Wired",
+      "published": "2026-10-27T15:10:26+00:00",
+      "retrieved_at": "2026-10-27T16:59:34.855241+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "161423f3d281475205f5f032"
     },
     {
       "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
@@ -172,6 +189,23 @@
       "story_fingerprint": "9c7d53a79f540210c7df8280"
     },
     {
+      "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
+      "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop",
+      "source": "TechCrunch",
+      "published": "2026-10-27T13:00:00+00:00",
+      "retrieved_at": "2026-10-27T16:59:34.772935+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ca85e71a456dfc8c4cb1746d"
+    },
+    {
       "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
       "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser",
       "source": "TechCrunch AI",
@@ -204,23 +238,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6d2a01f0f7d21c414c3f74fc"
-    },
-    {
-      "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-      "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop",
-      "source": "TechCrunch",
-      "published": "2026-10-27T13:00:00+00:00",
-      "retrieved_at": "2026-10-27T13:03:45.208184+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S. and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ca85e71a456dfc8c4cb1746d"
     },
     {
       "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "39881979fb65c4f306637ae4"
-    },
-    {
-      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
-      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops",
-      "source": "Ars Technica AI",
-      "published": "2026-10-16T20:20:07+00:00",
-      "retrieved_at": "2026-10-16T20:26:09.274580+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "22753483bff088e1ed52ce06"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T16:54:31.067044+00:00",
+    "checked_at": "2026-10-27T16:59:33.501595+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
