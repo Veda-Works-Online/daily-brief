@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T15:48:46.582228+00:00",
+  "updated": "2026-10-27T15:53:49.056531+00:00",
   "items": [
     {
       "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
@@ -1258,6 +1258,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "da0c92e2ff4b6a7a436d9c79"
+    },
+    {
+      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "url": "https://openai.com/index/anima",
+      "source": "OpenAI",
+      "published": "2026-10-23T00:00:00+00:00",
+      "retrieved_at": "2026-10-27T15:53:44.635857+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "771d7fa28d7c561c7f8facf1"
     },
     {
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0efdca899415a67bda35da30"
-    },
-    {
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it",
-      "source": "TechCrunch AI",
-      "published": "2026-10-16T16:30:00+00:00",
-      "retrieved_at": "2026-10-16T16:31:23.839666+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c7b771e8135fea2839ea0ee9"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T15:48:40.795557+00:00",
+    "checked_at": "2026-10-27T15:53:43.279615+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
