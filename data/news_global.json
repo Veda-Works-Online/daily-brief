@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-27T23:30:37.752460+00:00",
+  "updated": "2026-10-27T23:35:37.661378+00:00",
   "items": [
+    {
+      "title": "Watch: 'No clear winner' in Israel election - what happens now?",
+      "url": "https://bbc.co.uk/news/videos/cm79p5pxqey2o",
+      "source": "BBC World",
+      "published": "2026-10-27T23:27:13+00:00",
+      "retrieved_at": "2026-10-27T23:35:31.515703+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0abc73c0cd68f4ce47aa6c4a"
+    },
     {
       "title": "A bad day for Ben-Gvir as he addresses his supporters",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e1d5befa1b1094aa0025c2b0"
-    },
-    {
-      "title": "COP17 puts Armenia’s environmental record in the spotlight",
-      "url": "https://aljazeera.com/opinions/2026/10/24/cop17-puts-armenias-environmental-record-in-the-spotlight",
-      "source": "Al Jazeera",
-      "published": "2026-10-24T06:52:41+00:00",
-      "retrieved_at": "2026-10-24T06:54:49.666345+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "As Yerevan hosts the global biodiversity summit, concerns over mining and environmental protection deserve scrutiny.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bc870cac2e435df462843d18"
     }
   ],
   "unverified_history": [

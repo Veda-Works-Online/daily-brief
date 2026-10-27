@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T23:30:28.868164+00:00",
+  "updated": "2026-10-27T23:35:28.537937+00:00",
   "items": [
+    {
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+      "source": "TechCrunch AI",
+      "published": "2026-10-27T23:34:27+00:00",
+      "retrieved_at": "2026-10-27T23:35:23.337560+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "25a72154545e7c0ae986af78"
+    },
     {
       "title": "The data center boom has an upside: innovation for the US grid",
       "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f9cae5c1bd8d5460c048f171"
-    },
-    {
-      "title": "Advancing coding in low‑resource programming languages",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "source": "OpenAI",
-      "published": "2026-10-19T12:00:00+00:00",
-      "retrieved_at": "2026-10-19T23:37:55.591684+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "ad677a1ef894cdaea65f0fe8"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T23:30:23.205262+00:00",
+    "checked_at": "2026-10-27T23:35:22.572964+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
