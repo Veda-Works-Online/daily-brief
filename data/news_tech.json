@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-27T13:28:58.154564+00:00",
+  "updated": "2026-10-27T13:33:39.387845+00:00",
   "items": [
     {
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data",
       "source": "TechCrunch AI",
-      "published": "2026-10-27T13:00:00+00:00",
-      "retrieved_at": "2026-10-27T13:03:44.313809+00:00",
+      "published": "2026-10-27T13:32:57+00:00",
+      "retrieved_at": "2026-10-27T13:33:34.244771+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -16,7 +16,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "6d2a01f0f7d21c414c3f74fc"
+      "story_fingerprint": "9c7d53a79f540210c7df8280"
     },
     {
       "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
@@ -34,6 +34,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "88c08b5459b2c96d8ccf8a0d"
+    },
+    {
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
+      "source": "TechCrunch AI",
+      "published": "2026-10-27T13:00:00+00:00",
+      "retrieved_at": "2026-10-27T13:03:44.313809+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6d2a01f0f7d21c414c3f74fc"
     },
     {
       "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c1e2c6094b67beb12d424664"
-    },
-    {
-      "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
-      "url": "https://wired.com/review/microsoft-surface-laptop-ultra",
-      "source": "Wired",
-      "published": "2026-10-16T13:00:00+00:00",
-      "retrieved_at": "2026-10-16T13:05:31.644831+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The Surface Laptop Ultra is a true MacBook Pro competitor for Windows, and Microsoft has never been so close to dethroning Apple—if only it weren't for the lack of battery life.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "456caccc0c0772616fb79566"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T13:28:48.577308+00:00",
+    "checked_at": "2026-10-27T13:33:33.638563+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
