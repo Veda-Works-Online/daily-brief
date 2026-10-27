@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-27T12:43:57.181674+00:00",
+  "updated": "2026-10-27T13:18:59.982233+00:00",
   "items": [
+    {
+      "title": "Al Jazeera meets iconic pro-Palestine Japanese activist",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist",
+      "source": "Al Jazeera",
+      "published": "2026-10-27T13:06:28+00:00",
+      "retrieved_at": "2026-10-27T13:18:54.532859+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Japanese activist Yusuke Furusawa speaks to Al Jazeera about why he keeps protesting Israel’s genocidal war on Gaza.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "feac4be7fdf39c95607bd285"
+    },
     {
       "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
       "url": "https://bbc.co.uk/news/articles/cr3wvl9qz3v2o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8235714a122924ae6f971ed4"
-    },
-    {
-      "title": "The Next Chapter of Africa-China Climate Cooperation",
-      "url": "https://thediplomat.com/2026/10/the-next-chapter-of-africa-china-climate-cooperation",
-      "source": "The Diplomat",
-      "published": "2026-10-23T12:38:00+00:00",
-      "retrieved_at": "2026-10-23T17:18:22.412337+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "China’s climate cooperation with Africa is becoming more investment-led, with a focus on industrialization.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b7dfc75fa2e4ce0d36077649"
     }
   ],
   "unverified_history": [
