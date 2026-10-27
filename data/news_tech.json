@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T21:40:27.716367+00:00",
+  "updated": "2026-10-27T21:45:31.200574+00:00",
   "items": [
+    {
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant",
+      "source": "TechCrunch AI",
+      "published": "2026-10-27T21:44:34+00:00",
+      "retrieved_at": "2026-10-27T21:45:23.810446+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a48d4821619e49e8331f9d48"
+    },
     {
       "title": "Who’s really in charge at Anthropic after the IPO?",
       "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9a16f4b3785f3d873e592b6a"
-    },
-    {
-      "title": "Anthropic gives outside AI watchdog “employee-like” access",
-      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
-      "source": "Ars Technica AI",
-      "published": "2026-10-18T16:25:19+00:00",
-      "retrieved_at": "2026-10-18T16:33:25.874627+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3edde1b589137f5e529df689"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T21:40:21.988632+00:00",
+    "checked_at": "2026-10-27T21:45:23.334214+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
