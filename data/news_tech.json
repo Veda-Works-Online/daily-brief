@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T21:29:24.015219+00:00",
+  "updated": "2026-10-27T21:35:32.848818+00:00",
   "items": [
+    {
+      "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity",
+      "source": "Ars Technica AI",
+      "published": "2026-10-27T21:31:14+00:00",
+      "retrieved_at": "2026-10-27T21:35:24.132345+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f54346c01909813be5c92894"
+    },
     {
       "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
       "url": "https://wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "688a5fd546e7ccd6323596a7"
-    },
-    {
-      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-      "url": "https://wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty",
-      "source": "Wired",
-      "published": "2026-10-18T10:30:00+00:00",
-      "retrieved_at": "2026-10-18T10:32:34.543557+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4011de95f739e61c6d218679"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T21:29:15.228299+00:00",
+    "checked_at": "2026-10-27T21:35:23.104973+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
