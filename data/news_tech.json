@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-27T16:28:48.001394+00:00",
+  "updated": "2026-10-27T16:35:10.344616+00:00",
   "items": [
+    {
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering",
+      "source": "TechCrunch AI",
+      "published": "2026-10-27T16:30:57+00:00",
+      "retrieved_at": "2026-10-27T16:35:01.132521+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "dd523c907549ed31ece3fcec"
+    },
     {
       "title": "Can we trust LLMs to judge whether a research idea is novel?",
       "url": "https://huggingface.co/blog/allenai/novelty-bench",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ab365a8927bb54ea61d0da5c"
-    },
-    {
-      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-      "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis",
-      "source": "TechCrunch",
-      "published": "2026-10-16T19:40:00+00:00",
-      "retrieved_at": "2026-10-16T20:36:12.704359+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "15580ef0c50a062c2665790b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-27T16:28:42.218594+00:00",
+    "checked_at": "2026-10-27T16:35:00.648578+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
