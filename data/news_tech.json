@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-28T11:22:12.694092+00:00",
+  "updated": "2026-10-28T11:27:10.119260+00:00",
   "items": [
+    {
+      "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific",
+      "source": "Ars Technica",
+      "published": "2026-10-28T11:00:49+00:00",
+      "retrieved_at": "2026-10-28T11:27:07.031913+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "86e5ad27ac5b208a9ecdecde"
+    },
     {
       "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
       "url": "https://wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d0fab076bf32198b09e21f99"
-    },
-    {
-      "title": "AI game clones are making indie developers afraid to show their work",
-      "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work",
-      "source": "Ars Technica AI",
-      "published": "2026-10-19T16:59:22+00:00",
-      "retrieved_at": "2026-10-19T17:01:42.766224+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6b2056c4acf362ad72838c28"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T11:22:04.334875+00:00",
+    "checked_at": "2026-10-28T11:27:05.802432+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
