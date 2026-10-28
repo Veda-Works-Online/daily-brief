@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-28T08:52:14.858296+00:00",
+  "updated": "2026-10-28T08:57:09.873938+00:00",
   "items": [
+    {
+      "title": "Serbian police shoot dead assailant at Israeli Embassy",
+      "url": "https://dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905",
+      "source": "DW",
+      "published": "2026-10-28T08:48:00+00:00",
+      "retrieved_at": "2026-10-28T08:57:05.790046+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "A \"minor\" has been killed by police after attacking a guard at Israel's embassy in Belgrade with knives, the interior minister says. Ivica Dacic said police had declared the highest terror alert after the incident.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7e4f5706449e16886adaf259"
+    },
     {
       "title": "Khouri: Strong Israel-Arab bloc result does not mean Israel has changed",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/28/khouri-strong-israel-arab-bloc-result-does-not-mean-israel-has-changed",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "14d5fec68124ddd2676b40f5"
-    },
-    {
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-      "url": "https://bbc.co.uk/news/articles/cqd09k1k7532o",
-      "source": "BBC World",
-      "published": "2026-10-24T17:21:42+00:00",
-      "retrieved_at": "2026-10-24T19:41:59.935652+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ff0cc2285dc98253573f0241"
     }
   ],
   "unverified_history": [
