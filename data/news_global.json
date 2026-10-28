@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-28T18:29:31.425307+00:00",
+  "updated": "2026-10-28T18:49:37.543392+00:00",
   "items": [
+    {
+      "title": "Jerusalem Daily: What’s next after Israel’s elections?",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections",
+      "source": "Al Jazeera",
+      "published": "2026-10-28T18:31:33+00:00",
+      "retrieved_at": "2026-10-28T18:49:31.733297+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Prime Minister Benjamin Netanyahu and former military chief Gadi Eisenkot are both claiming victory in Israel’s election",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "08bf26ce4127fa625d821533"
+    },
     {
       "title": "Balad leader blasts ‘racist’ exclusion of Arab parties in Israel",
       "url": "https://aljazeera.com/news/2026/10/28/balad-leader-blasts-racist-exclusion-of-arab-parties-in-israel",
@@ -16,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4a79c629922654fa02ae393f"
+    },
+    {
+      "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
+      "url": "https://bbc.co.uk/news/videos/cqz0ve10jxn2o",
+      "source": "BBC World",
+      "published": "2026-10-28T17:34:41+00:00",
+      "retrieved_at": "2026-10-28T18:49:31.628147+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1d420da153403d1e6afcbbe2"
     },
     {
       "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "837cf8511f58f0bbadbad4b8"
-    },
-    {
-      "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
-      "url": "https://aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T14:46:38+00:00",
-      "retrieved_at": "2026-10-25T14:55:43.011074+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Prime Minister Netanyahu mulls cryptocurrency as answer to economic sanctions on Israel, but there are few buyers.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ffbf0184e452e2b38e67e4d4"
-    },
-    {
-      "title": "Gabon says access to social media restored after eight-month ban",
-      "url": "https://bbc.co.uk/news/articles/c6x2w0ngejneo",
-      "source": "BBC World",
-      "published": "2026-10-25T14:39:47+00:00",
-      "retrieved_at": "2026-10-25T14:45:52.794899+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "47623a55e6981828e6a1dd5b"
     }
   ],
   "unverified_history": [
