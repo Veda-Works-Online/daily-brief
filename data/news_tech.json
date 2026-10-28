@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-28T12:02:12.654621+00:00",
+  "updated": "2026-10-28T12:07:13.119044+00:00",
   "items": [
+    {
+      "title": "Amazon Adds an Alexa Photo Frame and a Bedside Clock to Its Echo Family",
+      "url": "https://wired.com/story/amazon-adds-an-alexa-photo-frame-and-a-bedside-clock-to-its-echo-family",
+      "source": "Wired",
+      "published": "2026-10-28T12:01:00+00:00",
+      "retrieved_at": "2026-10-28T12:07:06.908747+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The new Echo Studio also gets a camera, and the Echo Show 16 debuts an AI-generated Alexa interface.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0d2ab3b9df9cdb2492ab376d"
+    },
     {
       "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
       "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "792f49d4b780bc397f68cfa9"
-    },
-    {
-      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch",
-      "source": "TechCrunch",
-      "published": "2026-10-19T18:00:39+00:00",
-      "retrieved_at": "2026-10-19T20:22:02.740162+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d0fab076bf32198b09e21f99"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T12:02:04.285025+00:00",
+    "checked_at": "2026-10-28T12:07:05.663603+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
