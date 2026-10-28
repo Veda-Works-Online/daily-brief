@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-28T10:02:01.146783+00:00",
+  "updated": "2026-10-28T10:07:00.778487+00:00",
   "items": [
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "source": "OpenAI",
+      "published": "2026-10-28T09:30:00+00:00",
+      "retrieved_at": "2026-10-28T10:06:57.411918+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "b80d7207ecc5e1ff875d039f"
+    },
     {
       "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
       "url": "https://wired.com/story/ai-emergency-alerts-coming-humans-not-ready",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e6bf9b8b599282e8ea3bb431"
-    },
-    {
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
-      "source": "TechCrunch AI",
-      "published": "2026-10-19T15:37:09+00:00",
-      "retrieved_at": "2026-10-19T15:41:37.646610+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "323675be6dd8eda0cfb13689"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T10:01:56.724935+00:00",
+    "checked_at": "2026-10-28T10:06:56.471407+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
