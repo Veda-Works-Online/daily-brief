@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-28T17:49:23.133121+00:00",
+  "updated": "2026-10-28T17:54:24.511638+00:00",
   "items": [
+    {
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "url": "https://arstechnica.com/google/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections",
+      "source": "Ars Technica AI",
+      "published": "2026-10-28T17:46:32+00:00",
+      "retrieved_at": "2026-10-28T17:54:16.601460+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "But the AI responses get more forthright when asked outside the US.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6060707c4a04bacc870181fc"
+    },
     {
       "title": "Gemini 4 Carbon: Our next frontier model",
       "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
@@ -275,10 +292,10 @@
     },
     {
       "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
       "source": "OpenAI",
       "published": "2026-10-28T09:30:00+00:00",
-      "retrieved_at": "2026-10-28T17:49:18.151428+00:00",
+      "retrieved_at": "2026-10-28T17:54:16.554372+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
       "isAI": true,
@@ -4218,11 +4235,11 @@
       "story_fingerprint": "94d6919ebdff340c36ed9cc1"
     },
     {
-      "title": "MPS in PyTorch 2.15",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
       "source": "Hugging Face",
       "published": "2026-10-20T00:00:00+00:00",
-      "retrieved_at": "2026-10-28T17:49:17.737422+00:00",
+      "retrieved_at": "2026-10-28T17:54:16.153597+00:00",
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "summary": "",
       "isAI": true,
@@ -4232,24 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "b1757ac195a678f277deb226"
-    },
-    {
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "url": "https://huggingface.co/blog/hf-torchtpu",
-      "source": "Hugging Face",
-      "published": "2026-10-20T00:00:00+00:00",
-      "retrieved_at": "2026-10-20T15:41:04.221715+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "f57b3aa9a3163613a27738f2"
+      "story_fingerprint": "1828bb43ad2c0e13fe868bdf"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T17:49:16.831063+00:00",
+    "checked_at": "2026-10-28T17:54:15.236689+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
