@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-28T01:15:36.899381+00:00",
+  "updated": "2026-10-28T01:50:41.914833+00:00",
   "items": [
     {
-      "title": "Arab parties could win 18 Israeli parliament seats",
+      "title": "Arab parties projected to win 18 seats in Israeli parliamentary election",
       "url": "https://aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest",
       "source": "Al Jazeera",
       "published": "2026-10-28T00:43:56+00:00",
-      "retrieved_at": "2026-10-28T01:15:30.957653+00:00",
+      "retrieved_at": "2026-10-28T01:50:35.934288+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show.",
       "category": "global",
@@ -15,7 +15,23 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "17a028a429eb7e8b69bad2ff"
+      "story_fingerprint": "a8548cd6526d7fc1c5d469d9"
+    },
+    {
+      "title": "Netanyahu, Eisenkot camps clash over Israeli election projections",
+      "url": "https://aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide",
+      "source": "Al Jazeera",
+      "published": "2026-10-28T00:43:02+00:00",
+      "retrieved_at": "2026-10-28T01:50:35.934312+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Despite narrower exit poll figures, opposition leaders insisted the result was a defeat for the government.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fcdeac109887a64fe2955ece"
     },
     {
       "title": "Israel’s Eisenkot says country voted for change",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3b9b41dc8df749cb42063181"
-    },
-    {
-      "title": "Why is Israel launching a new military operation in the occupied West Bank?",
-      "url": "https://aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank",
-      "source": "Al Jazeera",
-      "published": "2026-10-24T09:14:40+00:00",
-      "retrieved_at": "2026-10-24T09:35:38.634642+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Netanyahu says 'we will destroy this place' as Israeli forces begin days-long operation with raids and demolitions.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0e6f65f33c6c942ebd18d776"
     }
   ],
   "unverified_history": [
