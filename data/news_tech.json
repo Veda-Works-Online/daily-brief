@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T07:06:22.839977+00:00",
+  "updated": "2026-10-28T07:11:17.090840+00:00",
   "items": [
     {
       "title": "Should AI Decide Your Court Case? This Judge Says Yes",
@@ -6299,7 +6299,7 @@
         "licence": "apache-2.0",
         "published": "2026-09-10T23:36:30+00:00",
         "url": "https://huggingface.co/allenai/AstaBrief_8B_SFT",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "nvidia/DeepSeek-V4-Pro-0813-nvfp4-DSpark",
@@ -6335,7 +6335,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-26T13:21:04+00:00",
         "url": "https://huggingface.co/allenai/Bwen-8B",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "allenai/Bwen-8B-Stage1",
@@ -6344,7 +6344,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-26T13:18:26+00:00",
         "url": "https://huggingface.co/allenai/Bwen-8B-Stage1",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "allenai/Bolmo-1B-Stage1",
@@ -6353,7 +6353,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-26T13:16:56+00:00",
         "url": "https://huggingface.co/allenai/Bolmo-1B-Stage1",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "allenai/Bolmo-7B-Stage1",
@@ -6362,7 +6362,7 @@
         "licence": "apache-2.0",
         "published": "2026-08-26T13:12:59+00:00",
         "url": "https://huggingface.co/allenai/Bolmo-7B-Stage1",
-        "source_status": "STALE"
+        "source_status": "CURRENT"
       },
       {
         "id": "nvidia/DeepSeek-V4-Flash-0731-NVFP4",
@@ -6437,26 +6437,9 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T07:06:13.266637+00:00",
-    "status": "PARTIAL",
-    "errors": [
-      {
-        "publisher": "deepseek-ai",
-        "reason": "HTTPError"
-      },
-      {
-        "publisher": "mistralai",
-        "reason": "HTTPError"
-      },
-      {
-        "publisher": "allenai",
-        "reason": "HTTPError"
-      },
-      {
-        "publisher": "HuggingFaceH4",
-        "reason": "HTTPError"
-      }
-    ],
+    "checked_at": "2026-10-28T07:11:11.458350+00:00",
+    "status": "CURRENT",
+    "errors": [],
     "publishers": [
       "Qwen",
       "deepseek-ai",
