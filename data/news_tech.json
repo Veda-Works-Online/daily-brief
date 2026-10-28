@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T18:14:17.234109+00:00",
+  "updated": "2026-10-28T18:19:29.404631+00:00",
   "items": [
     {
       "title": "Google AI gets cagey when asked who won the 2020 elections",
@@ -36,23 +36,6 @@
       "story_fingerprint": "6b6b40691ed7892fc8a2e32c"
     },
     {
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
-      "source": "TechCrunch",
-      "published": "2026-10-28T17:00:00+00:00",
-      "retrieved_at": "2026-10-28T17:03:13.395208+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "263a7ef78bf0a1f716fdf00d"
-    },
-    {
       "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
       "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
       "source": "TechCrunch AI",
@@ -68,6 +51,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c777785ce90576de983f6d34"
+    },
+    {
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+      "source": "TechCrunch",
+      "published": "2026-10-28T17:00:00+00:00",
+      "retrieved_at": "2026-10-28T17:03:13.395208+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "263a7ef78bf0a1f716fdf00d"
     },
     {
       "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
@@ -292,10 +292,10 @@
     },
     {
       "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "url": "https://openai.com/index/legora",
       "source": "OpenAI",
       "published": "2026-10-28T09:30:00+00:00",
-      "retrieved_at": "2026-10-28T18:14:11.851362+00:00",
+      "retrieved_at": "2026-10-28T18:19:24.384329+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
       "isAI": true,
@@ -4235,11 +4235,11 @@
       "story_fingerprint": "94d6919ebdff340c36ed9cc1"
     },
     {
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
       "source": "Hugging Face",
       "published": "2026-10-20T00:00:00+00:00",
-      "retrieved_at": "2026-10-28T18:14:11.436607+00:00",
+      "retrieved_at": "2026-10-28T18:19:23.996790+00:00",
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "summary": "",
       "isAI": true,
@@ -4249,7 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "1828bb43ad2c0e13fe868bdf"
+      "story_fingerprint": "f57b3aa9a3163613a27738f2"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T18:14:10.490989+00:00",
+    "checked_at": "2026-10-28T18:19:23.022431+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
