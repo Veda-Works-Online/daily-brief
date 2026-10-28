@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-28T21:54:15.125605+00:00",
+  "updated": "2026-10-28T21:59:16.424675+00:00",
   "items": [
+    {
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion",
+      "source": "TechCrunch AI",
+      "published": "2026-10-28T21:58:32+00:00",
+      "retrieved_at": "2026-10-28T21:59:09.839764+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0bdd0ba60496fd8baec599b3"
+    },
     {
       "title": "Google expands AI Search ads globally as core ad growth slows",
       "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9fc5cf7b7e3191a363a6df4a"
-    },
-    {
-      "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
-      "url": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull",
-      "source": "TechCrunch",
-      "published": "2026-10-20T13:00:00+00:00",
-      "retrieved_at": "2026-10-20T13:00:08.284272+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The raise comes as venture dollars pile up on the West Coast.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "152142c14784e13dc2b9f249"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T21:54:09.006816+00:00",
+    "checked_at": "2026-10-28T21:59:09.062317+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
