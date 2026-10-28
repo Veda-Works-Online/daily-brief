@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T19:49:34.334851+00:00",
+  "updated": "2026-10-28T19:59:29.415358+00:00",
   "items": [
     {
       "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
@@ -64,6 +64,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f2eb5a83ce279cff1f0dae59"
+    },
+    {
+      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+      "url": "https://bbc.co.uk/news/articles/c6kglwe4lxwzo",
+      "source": "BBC World",
+      "published": "2026-10-28T18:42:45+00:00",
+      "retrieved_at": "2026-10-28T19:59:23.597878+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "His arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d759ebd3ef2341268840f236"
     },
     {
       "title": "Jerusalem Daily: What’s next after Israel’s elections?",
@@ -320,22 +336,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d0fad7cb37f455ee44946962"
-    },
-    {
-      "title": "Flavio Bolsonaro lands in Miami after losing Brazil’s presidential election",
-      "url": "https://aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T14:32:16+00:00",
-      "retrieved_at": "2026-10-28T17:18:18.487630+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Bolsonaro and his family have fled to the US amid a Brazilian Supreme Court order to surrender his passports.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "39bcf5285c9e9312775f7362"
     },
     {
       "title": "How could Israel break election deadlock? Here are four scenarios",
