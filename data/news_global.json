@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-28T20:04:29.363224+00:00",
+  "updated": "2026-10-28T20:24:21.829692+00:00",
   "items": [
+    {
+      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+      "url": "https://bbc.co.uk/news/articles/c6kglwe4lxwzo",
+      "source": "BBC World",
+      "published": "2026-10-28T20:22:49+00:00",
+      "retrieved_at": "2026-10-28T20:24:16.025086+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d759ebd3ef2341268840f236"
+    },
     {
       "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west",
@@ -80,22 +96,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f2eb5a83ce279cff1f0dae59"
-    },
-    {
-      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-      "url": "https://bbc.co.uk/news/articles/c6kglwe4lxwzo",
-      "source": "BBC World",
-      "published": "2026-10-28T18:42:45+00:00",
-      "retrieved_at": "2026-10-28T19:59:23.597878+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "His arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d759ebd3ef2341268840f236"
     },
     {
       "title": "Jerusalem Daily: What’s next after Israel’s elections?",
