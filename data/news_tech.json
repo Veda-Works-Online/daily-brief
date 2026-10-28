@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-28T21:34:28.049741+00:00",
+  "updated": "2026-10-28T21:39:19.933580+00:00",
   "items": [
+    {
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai",
+      "source": "TechCrunch AI",
+      "published": "2026-10-28T21:34:30+00:00",
+      "retrieved_at": "2026-10-28T21:39:13.281585+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "16cc16a4c263adc62015421b"
+    },
     {
       "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
       "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "17e3dd517dc6985c0454aace"
-    },
-    {
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
-      "source": "TechCrunch",
-      "published": "2026-10-20T11:00:00+00:00",
-      "retrieved_at": "2026-10-20T11:04:45.981565+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d60f3ccf9d14bd63ef765767"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T21:34:21.855152+00:00",
+    "checked_at": "2026-10-28T21:39:12.514102+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
