@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-28T21:49:24.447002+00:00",
+  "updated": "2026-10-28T22:14:25.388719+00:00",
   "items": [
+    {
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "url": "https://bbc.co.uk/news/articles/c6kglwe4lxwzo",
+      "source": "BBC World",
+      "published": "2026-10-28T22:13:35+00:00",
+      "retrieved_at": "2026-10-28T22:14:19.421530+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "67e23918751c419e026ac889"
+    },
     {
       "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
       "url": "https://aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat",
@@ -16,22 +32,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7449c6b7daef26ad6449895b"
-    },
-    {
-      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-      "url": "https://bbc.co.uk/news/articles/c6kglwe4lxwzo",
-      "source": "BBC World",
-      "published": "2026-10-28T20:22:49+00:00",
-      "retrieved_at": "2026-10-28T20:24:16.025086+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d759ebd3ef2341268840f236"
     },
     {
       "title": "UN votes to condemn embargo of Cuba despite US lobbying push",
@@ -416,6 +416,22 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "051ff476d7234183ab3c4c03"
+    },
+    {
+      "title": "Flavio Bolsonaro lands in US, declares himself 'leader' of Brazil",
+      "url": "https://dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659",
+      "source": "DW",
+      "published": "2026-10-28T15:10:00+00:00",
+      "retrieved_at": "2026-10-28T22:14:19.877365+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Flavio Bolsonaro declared himself the rightful leader of his country despite losing the presidential election runoff on Sunday. He and his family have fled to the US.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "30212f8f6355fa7dc13fa189"
     },
     {
       "title": "Are GCC countries looking for a regional security pact with Iran?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "56bee9d8e94d580fb148c5ac"
-    },
-    {
-      "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
-      "url": "https://aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T21:41:10+00:00",
-      "retrieved_at": "2026-10-25T22:06:29.159819+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "756e2f6316cc8b90dc83b238"
     }
   ],
   "unverified_history": [
