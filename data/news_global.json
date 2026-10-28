@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T18:19:38.945722+00:00",
+  "updated": "2026-10-28T18:29:31.425307+00:00",
   "items": [
     {
       "title": "Balad leader blasts ‘racist’ exclusion of Arab parties in Israel",
@@ -96,6 +96,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9f4c1edf8746660817127c07"
+    },
+    {
+      "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
+      "url": "https://bbc.co.uk/news/videos/c6x29djyx7g9o",
+      "source": "BBC World",
+      "published": "2026-10-28T16:30:29+00:00",
+      "retrieved_at": "2026-10-28T18:29:25.526756+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8b2f955e01b3b129817c92ed"
     },
     {
       "title": "One year on, families seek justice after election violence",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "47623a55e6981828e6a1dd5b"
-    },
-    {
-      "title": "Gaza content creator tells Al Jazeera how much her award win means",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T14:16:06+00:00",
-      "retrieved_at": "2026-10-25T14:50:45.943844+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Palestinian girl Nisreen Skaik tells Al Jazeera how much winning a Junior Digital Creator Award means",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6420cd4b30e89b2ea7f1d98e"
     }
   ],
   "unverified_history": [
