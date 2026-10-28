@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-28T19:04:23.323765+00:00",
+  "updated": "2026-10-28T19:09:17.144686+00:00",
   "items": [
+    {
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse",
+      "source": "TechCrunch AI",
+      "published": "2026-10-28T19:05:46+00:00",
+      "retrieved_at": "2026-10-28T19:09:10.654745+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "325382b0317f29e08726941f"
+    },
     {
       "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
       "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9b677cad6c216c2ce489315d"
-    },
-    {
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "url": "https://openai.com/index/terminal-x",
-      "source": "OpenAI",
-      "published": "2026-10-20T07:00:00+00:00",
-      "retrieved_at": "2026-10-21T01:07:14.254630+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "faea6a48786794bbd2ef20da"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T19:04:15.090324+00:00",
+    "checked_at": "2026-10-28T19:09:09.806137+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
