@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T14:58:29.315851+00:00",
+  "updated": "2026-10-28T15:08:28.727636+00:00",
   "items": [
     {
       "title": "Are GCC countries looking for a regional security pact with Iran?",
@@ -64,6 +64,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2d87c5721b4fa335deb6da05"
+    },
+    {
+      "title": "Is Iran headed to war or peace after Mecca alliance meeting?",
+      "url": "https://dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256",
+      "source": "DW",
+      "published": "2026-10-28T14:20:00+00:00",
+      "retrieved_at": "2026-10-28T15:08:24.490994+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Saudi Arabia, Pakistan and Turkey have taken their latest peace push directly to Tehran. Officially, it was to avert a new military escalation, but their diplomatic outreach can also be seen as a warning to Iran.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c1c1d3cae62592e43f1cb704"
     },
     {
       "title": "Espionage threats blur lines between security and dissent in Iran",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "270d67e1f218ed14da582611"
-    },
-    {
-      "title": "Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
-      "url": "https://aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T08:44:17+00:00",
-      "retrieved_at": "2026-10-25T09:08:49.367315+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The former US president warns of rising costs, corruption and threats to democratic values ahead of the November 3 vote.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "262312b9ffa23da08f4c00a5"
     }
   ],
   "unverified_history": [
