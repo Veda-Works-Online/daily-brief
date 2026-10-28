@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-28T14:53:24.191741+00:00",
+  "updated": "2026-10-28T14:58:21.913738+00:00",
   "items": [
+    {
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "source": "Hugging Face",
+      "published": "2026-10-28T14:58:17+00:00",
+      "retrieved_at": "2026-10-28T14:58:18.040611+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "d3f4da4fe2861a5beb88ee81"
+    },
     {
       "title": "Meta has a new AI pet app called Waddle World",
       "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2488bf9178ad45411347b3c7"
-    },
-    {
-      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
-      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test",
-      "source": "Ars Technica",
-      "published": "2026-10-19T19:27:24+00:00",
-      "retrieved_at": "2026-10-19T19:37:16.524100+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b65776e10b32b89b0bbec047"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T14:53:19.509822+00:00",
+    "checked_at": "2026-10-28T14:58:17.235042+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
