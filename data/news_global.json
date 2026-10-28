@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T20:24:21.829692+00:00",
+  "updated": "2026-10-28T20:34:36.949470+00:00",
   "items": [
     {
       "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
@@ -16,6 +16,38 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d759ebd3ef2341268840f236"
+    },
+    {
+      "title": "UN votes to condemn embargo of Cuba despite US lobbying push",
+      "url": "https://aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push",
+      "source": "Al Jazeera",
+      "published": "2026-10-28T20:22:16+00:00",
+      "retrieved_at": "2026-10-28T20:34:30.933210+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US points to increase in abstentions in General Assembly as evidence that push to isolate Cuba is slowly succeeding.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "092361876ba6b4a5ac61cf3d"
+    },
+    {
+      "title": "US envoy reads anti-Castro book during Cuban FM’s UN address",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/28/us-envoy-reads-anti-castro-book-during-cuban-fms-un-address",
+      "source": "Al Jazeera",
+      "published": "2026-10-28T20:02:42+00:00",
+      "retrieved_at": "2026-10-28T20:34:30.933272+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US envoy reads anti-Castro book during Cuban FM’s UN address",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1c47d54352c978072b6c4513"
     },
     {
       "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dd8b24d45d790802bcd77cf5"
-    },
-    {
-      "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
-      "url": "https://aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T17:26:22+00:00",
-      "retrieved_at": "2026-10-25T17:55:39.738480+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The deputy secretary-general of UN's ICT agency says unequal access to AI means poorer nations may be left behind.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "eea59fa84e847053335f32b4"
-    },
-    {
-      "title": "Jerusalem Daily: Israel expels thousands from Hebron",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T17:12:59+00:00",
-      "retrieved_at": "2026-10-25T17:35:41.846848+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Jerusalem Daily: Israel expels thousands from Hebron",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "48dd0adbba0c430577bbba95"
     }
   ],
   "unverified_history": [

@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-28T20:29:07.173852+00:00",
+  "updated": "2026-10-28T20:34:28.014426+00:00",
   "items": [
+    {
+      "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
+      "url": "https://wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware",
+      "source": "Wired",
+      "published": "2026-10-28T20:30:00+00:00",
+      "retrieved_at": "2026-10-28T20:34:20.286435+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The critical flaw in UEFI firmware—used by most server vendors and data centers—allows attackers to execute code early in the boot process.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "520c2042c6a29ac3927dc274"
+    },
     {
       "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
       "url": "https://wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "22d8b4128919bbbf0783dd4e"
-    },
-    {
-      "title": "This New Food Delivery App Could Be the Antidote to Menu Markups",
-      "url": "https://wired.com/story/olo-new-food-delivery-app-could-be-the-antidote-to-menu-markups",
-      "source": "Wired",
-      "published": "2026-10-20T10:15:00+00:00",
-      "retrieved_at": "2026-10-20T10:19:45.384534+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "By sticking to in-store menu prices and a flat 5 percent fee, Olo wants to take the sting out of ordering dinner.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3fa0be3bb3f1da3ef2cf6671"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T20:29:00.823647+00:00",
+    "checked_at": "2026-10-28T20:34:18.734131+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
