@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T11:12:21.472127+00:00",
+  "updated": "2026-10-28T11:52:19.311793+00:00",
   "items": [
     {
       "title": "Israeli forces continue West Bank raids as Hebron lockdown enters sixth day",
@@ -64,6 +64,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bf99fa815910ca2530ed1739"
+    },
+    {
+      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "url": "https://bbc.co.uk/news/articles/ck5ynj4eeyj2o",
+      "source": "BBC World",
+      "published": "2026-10-28T10:17:54+00:00",
+      "retrieved_at": "2026-10-28T11:52:14.962935+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3e1eced98c011b5f9f1245a3"
     },
     {
       "title": "Netanyahu or Eisenkot? Can you form Israel’s next coalition government?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b7181cda56b6091d261f439c"
-    },
-    {
-      "title": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
-      "url": "https://aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T00:00:00+00:00",
-      "retrieved_at": "2026-10-25T07:13:51.204581+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Saudi coalition intercepts Houthi missile over Riyadh as rebels warn city airport is unsafe military target.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "05073b5a216f388dac6c5455"
     }
   ],
   "unverified_history": [
