@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-28T18:49:28.761698+00:00",
+  "updated": "2026-10-28T18:54:13.905086+00:00",
   "items": [
+    {
+      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto",
+      "source": "TechCrunch AI",
+      "published": "2026-10-28T18:50:39+00:00",
+      "retrieved_at": "2026-10-28T18:54:08.504050+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9382bd290ff964685d565b93"
+    },
+    {
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use",
+      "source": "Ars Technica AI",
+      "published": "2026-10-28T18:47:27+00:00",
+      "retrieved_at": "2026-10-28T18:54:09.118952+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4d4d5c01f31967796cd6bb9b"
+    },
     {
       "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
       "url": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels",
@@ -53,23 +87,6 @@
       "story_fingerprint": "6b6b40691ed7892fc8a2e32c"
     },
     {
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
-      "source": "TechCrunch AI",
-      "published": "2026-10-28T17:00:00+00:00",
-      "retrieved_at": "2026-10-28T17:03:12.549399+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c777785ce90576de983f6d34"
-    },
-    {
       "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
       "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
       "source": "TechCrunch",
@@ -85,6 +102,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "263a7ef78bf0a1f716fdf00d"
+    },
+    {
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
+      "source": "TechCrunch AI",
+      "published": "2026-10-28T17:00:00+00:00",
+      "retrieved_at": "2026-10-28T17:03:12.549399+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c777785ce90576de983f6d34"
     },
     {
       "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "faea6a48786794bbd2ef20da"
-    },
-    {
-      "title": "Mint Mobile Discounts for October 2026",
-      "url": "https://wired.com/story/mint-mobile-promo-code",
-      "source": "Wired",
-      "published": "2026-10-20T05:00:00+00:00",
-      "retrieved_at": "2026-10-20T05:08:55.631215+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9b2418edb544e37c1481ebd2"
-    },
-    {
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T01:27:03+00:00",
-      "retrieved_at": "2026-10-20T01:27:56.388783+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "94d6919ebdff340c36ed9cc1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T18:49:19.141596+00:00",
+    "checked_at": "2026-10-28T18:54:07.738031+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
