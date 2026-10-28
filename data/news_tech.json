@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-28T19:59:20.675307+00:00",
+  "updated": "2026-10-28T20:04:19.919892+00:00",
   "items": [
+    {
+      "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
+      "url": "https://wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents",
+      "source": "Wired",
+      "published": "2026-10-28T20:00:00+00:00",
+      "retrieved_at": "2026-10-28T20:04:12.210427+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The leaked records include the locations of ICE and CBP facilities, workers' cellphone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "22ece9f220616822cc655287"
+    },
     {
       "title": "Anthropic just launched tools to show companies what their AI spending is buying",
       "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "b5db443988b053ff82677e7c"
-    },
-    {
-      "title": "5 Best AI Notetakers (2026), Tested and Reviewed",
-      "url": "https://wired.com/gallery/best-ai-notetakers",
-      "source": "Wired",
-      "published": "2026-10-20T10:00:00+00:00",
-      "retrieved_at": "2026-10-20T10:04:55.979906+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "A growing collection of pocket-size gadgets lets you easily make recordings and extract info from them. Here are our favorites.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b933520bcb178f628fcf1e9e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T19:59:14.292934+00:00",
+    "checked_at": "2026-10-28T20:04:10.509472+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

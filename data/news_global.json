@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T19:59:29.415358+00:00",
+  "updated": "2026-10-28T20:04:29.363224+00:00",
   "items": [
     {
       "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dca064d8b4e6106920870f7d"
+    },
+    {
+      "title": "How do the US midterms work, and why are they so important for Trump's presidency?",
+      "url": "https://dw.com/en/how-do-the-us-midterms-work-and-why-are-they-so-important-for-trump-s-presidency/a-79789932",
+      "source": "DW",
+      "published": "2026-10-28T19:02:00+00:00",
+      "retrieved_at": "2026-10-28T20:04:23.670336+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "US voters are electing a new Congress. The results will be decisive for the future of the United States, and a judgment on Donald Trump's second term as president.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7f7d1f7c9b643816d50659e2"
     },
     {
       "title": "Putin tells African leaders Moscow will not pursue ‘neo-colonialism’",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "48dd0adbba0c430577bbba95"
-    },
-    {
-      "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
-      "url": "https://aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T16:42:33+00:00",
-      "retrieved_at": "2026-10-25T17:10:45.948387+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Just as American cattle went to market, Trump's action added unease to an industry already facing uncertainty.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "58f97763b0b12e7f0fdd32ae"
     }
   ],
   "unverified_history": [
