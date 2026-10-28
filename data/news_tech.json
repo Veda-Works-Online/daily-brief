@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-28T19:19:16.887050+00:00",
+  "updated": "2026-10-28T19:24:18.353554+00:00",
   "items": [
+    {
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
+      "source": "TechCrunch AI",
+      "published": "2026-10-28T19:19:58+00:00",
+      "retrieved_at": "2026-10-28T19:24:12.682862+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2e31dc63b7bae0036df7f9cb"
+    },
     {
       "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
       "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b933520bcb178f628fcf1e9e"
-    },
-    {
-      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-      "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet",
-      "source": "TechCrunch",
-      "published": "2026-10-20T07:01:00+00:00",
-      "retrieved_at": "2026-10-20T07:03:53.909021+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9b677cad6c216c2ce489315d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T19:19:10.587996+00:00",
+    "checked_at": "2026-10-28T19:24:11.923511+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
