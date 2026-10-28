@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T20:24:13.120925+00:00",
+  "updated": "2026-10-28T20:29:07.173852+00:00",
   "items": [
     {
       "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
@@ -289,6 +289,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "87a0a6a71562be04be968ed5"
+    },
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI",
+      "published": "2026-10-28T13:15:00+00:00",
+      "retrieved_at": "2026-10-28T20:29:02.172988+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "56b230b1097ee393fc383b4e"
     },
     {
       "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3fa0be3bb3f1da3ef2cf6671"
-    },
-    {
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "source": "OpenAI",
-      "published": "2026-10-20T10:00:00+00:00",
-      "retrieved_at": "2026-10-20T17:20:37.703889+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "b5db443988b053ff82677e7c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T20:24:06.677449+00:00",
+    "checked_at": "2026-10-28T20:29:00.823647+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
