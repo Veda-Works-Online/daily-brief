@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-28T06:01:14.680277+00:00",
+  "updated": "2026-10-28T06:06:18.836739+00:00",
   "items": [
+    {
+      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
+      "url": "https://wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges",
+      "source": "Wired",
+      "published": "2026-10-28T06:00:00+00:00",
+      "retrieved_at": "2026-10-28T06:06:10.708841+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "de290f697bc6db96ca82fc59"
+    },
     {
       "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
       "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8ce5ab2534d7e3dd9d4e50c1"
-    },
-    {
-      "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-      "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review",
-      "source": "TechCrunch",
-      "published": "2026-10-19T12:56:14+00:00",
-      "retrieved_at": "2026-10-19T16:41:39.044315+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a5c62dda2a09ace6fa836b36"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T06:01:05.040559+00:00",
+    "checked_at": "2026-10-28T06:06:09.306296+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
