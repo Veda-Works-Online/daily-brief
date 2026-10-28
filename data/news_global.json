@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-28T03:16:34.497748+00:00",
+  "updated": "2026-10-28T03:51:18.230532+00:00",
   "items": [
+    {
+      "title": "Syria-Jordan border reopens amid probe into deadly air strikes",
+      "url": "https://aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes",
+      "source": "Al Jazeera",
+      "published": "2026-10-28T03:10:17+00:00",
+      "retrieved_at": "2026-10-28T03:51:12.500595+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Foreign ministers form security committee to share intelligence and follow up on impact of Jordan's strikes on Syria.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8c5aa86a7375bc014917f338"
+    },
     {
       "title": "Five key takeaways from Israel’s parliamentary elections",
       "url": "https://aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "25427427f06a3a7237121661"
-    },
-    {
-      "title": "Ukraine says Starlink connection 'now stable' after network limits",
-      "url": "https://bbc.co.uk/news/articles/cwkg5md14j8go",
-      "source": "BBC World",
-      "published": "2026-10-24T11:17:35+00:00",
-      "retrieved_at": "2026-10-24T11:20:36.724955+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "45b1fc2e527c169eeb7464d5"
     }
   ],
   "unverified_history": [
