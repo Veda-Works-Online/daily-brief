@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T17:44:23.382702+00:00",
+  "updated": "2026-10-28T17:49:23.133121+00:00",
   "items": [
     {
       "title": "Gemini 4 Carbon: Our next frontier model",
@@ -19,23 +19,6 @@
       "story_fingerprint": "6b6b40691ed7892fc8a2e32c"
     },
     {
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
-      "source": "TechCrunch",
-      "published": "2026-10-28T17:00:00+00:00",
-      "retrieved_at": "2026-10-28T17:03:13.395208+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "263a7ef78bf0a1f716fdf00d"
-    },
-    {
       "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
       "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
       "source": "TechCrunch AI",
@@ -51,6 +34,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c777785ce90576de983f6d34"
+    },
+    {
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+      "source": "TechCrunch",
+      "published": "2026-10-28T17:00:00+00:00",
+      "retrieved_at": "2026-10-28T17:03:13.395208+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "263a7ef78bf0a1f716fdf00d"
     },
     {
       "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
@@ -275,10 +275,10 @@
     },
     {
       "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "url": "https://openai.com/index/legora",
       "source": "OpenAI",
       "published": "2026-10-28T09:30:00+00:00",
-      "retrieved_at": "2026-10-28T17:44:17.460641+00:00",
+      "retrieved_at": "2026-10-28T17:49:18.151428+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
       "isAI": true,
@@ -4218,6 +4218,23 @@
       "story_fingerprint": "94d6919ebdff340c36ed9cc1"
     },
     {
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "source": "Hugging Face",
+      "published": "2026-10-20T00:00:00+00:00",
+      "retrieved_at": "2026-10-28T17:49:17.737422+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "b1757ac195a678f277deb226"
+    },
+    {
       "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
       "url": "https://huggingface.co/blog/hf-torchtpu",
       "source": "Hugging Face",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "f57b3aa9a3163613a27738f2"
-    },
-    {
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "source": "Hugging Face",
-      "published": "2026-10-20T00:00:00+00:00",
-      "retrieved_at": "2026-10-20T12:44:54.379294+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "1828bb43ad2c0e13fe868bdf"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T17:44:16.027599+00:00",
+    "checked_at": "2026-10-28T17:49:16.831063+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
