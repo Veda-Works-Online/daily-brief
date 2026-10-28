@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T17:18:23.206900+00:00",
+  "updated": "2026-10-28T17:23:26.822545+00:00",
   "items": [
     {
       "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a3efb5da46e8d7953ac9b541"
+    },
+    {
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "url": "https://bbc.co.uk/news/articles/cmdx3knq1xexo",
+      "source": "BBC World",
+      "published": "2026-10-28T16:59:47+00:00",
+      "retrieved_at": "2026-10-28T17:23:21.826695+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "709b207547eb738defdc1e85"
     },
     {
       "title": "Canada-EU summit: What do both sides want, and what’s at stake?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ff6a9debdb11b20e5d798151"
-    },
-    {
-      "title": "Serbia votes as student-led bloc challenges longtime leader Vucic",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T13:40:10+00:00",
-      "retrieved_at": "2026-10-25T14:04:46.814678+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Serbians turn out in huge numbers for a parliamentary election that could end Aleksandar Vucic’s longstanding reign.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fddfd944480b4e4bdbbc14f4"
     }
   ],
   "unverified_history": [
