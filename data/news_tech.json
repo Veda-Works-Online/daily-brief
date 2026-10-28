@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T19:44:25.769362+00:00",
+  "updated": "2026-10-28T19:49:24.221636+00:00",
   "items": [
     {
       "title": "Anthropic just launched tools to show companies what their AI spending is buying",
@@ -121,23 +121,6 @@
       "story_fingerprint": "6b6b40691ed7892fc8a2e32c"
     },
     {
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
-      "source": "TechCrunch AI",
-      "published": "2026-10-28T17:00:00+00:00",
-      "retrieved_at": "2026-10-28T17:03:12.549399+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c777785ce90576de983f6d34"
-    },
-    {
       "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
       "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
       "source": "TechCrunch",
@@ -153,6 +136,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "263a7ef78bf0a1f716fdf00d"
+    },
+    {
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
+      "source": "TechCrunch AI",
+      "published": "2026-10-28T17:00:00+00:00",
+      "retrieved_at": "2026-10-28T17:03:12.549399+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c777785ce90576de983f6d34"
     },
     {
       "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T19:44:16.479607+00:00",
+    "checked_at": "2026-10-28T19:49:17.672187+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
