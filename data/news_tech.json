@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T18:04:21.085501+00:00",
+  "updated": "2026-10-28T18:09:24.914382+00:00",
   "items": [
     {
       "title": "Google AI gets cagey when asked who won the 2020 elections",
@@ -292,10 +292,10 @@
     },
     {
       "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "url": "https://openai.com/index/legora",
       "source": "OpenAI",
       "published": "2026-10-28T09:30:00+00:00",
-      "retrieved_at": "2026-10-28T18:04:15.212206+00:00",
+      "retrieved_at": "2026-10-28T18:09:16.795788+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
       "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
       "isAI": true,
@@ -4235,11 +4235,11 @@
       "story_fingerprint": "94d6919ebdff340c36ed9cc1"
     },
     {
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
       "source": "Hugging Face",
       "published": "2026-10-20T00:00:00+00:00",
-      "retrieved_at": "2026-10-28T18:04:14.792920+00:00",
+      "retrieved_at": "2026-10-28T18:09:16.410095+00:00",
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "summary": "",
       "isAI": true,
@@ -4249,7 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "1828bb43ad2c0e13fe868bdf"
+      "story_fingerprint": "f57b3aa9a3163613a27738f2"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T18:04:13.840090+00:00",
+    "checked_at": "2026-10-28T18:09:15.494529+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
