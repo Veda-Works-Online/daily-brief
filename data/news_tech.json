@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-28T15:53:19.388808+00:00",
+  "updated": "2026-10-28T15:58:22.914668+00:00",
   "items": [
+    {
+      "title": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
+      "source": "TechCrunch AI",
+      "published": "2026-10-28T15:53:52+00:00",
+      "retrieved_at": "2026-10-28T15:58:18.883821+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a21b1ceb6f0ae584904bacb6"
+    },
     {
       "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
       "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fd76d565bf0935408d00a147"
-    },
-    {
-      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
-      "source": "Ars Technica AI",
-      "published": "2026-10-19T20:21:53+00:00",
-      "retrieved_at": "2026-10-19T20:27:04.149491+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9b44bc14c2678821e2a3085d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T15:53:12.063229+00:00",
+    "checked_at": "2026-10-28T15:58:18.214594+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
