@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-28T21:24:31.017724+00:00",
+  "updated": "2026-10-28T21:29:19.430488+00:00",
   "items": [
+    {
+      "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row",
+      "source": "TechCrunch AI",
+      "published": "2026-10-28T21:25:30+00:00",
+      "retrieved_at": "2026-10-28T21:29:13.847900+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9dd77ba3c350213ed1d533bb"
+    },
     {
       "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
       "url": "https://wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d60f3ccf9d14bd63ef765767"
-    },
-    {
-      "title": "Otter AI raises $320M from General Catalyst’s growth fund for its meeting tool",
-      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T11:00:00+00:00",
-      "retrieved_at": "2026-10-21T01:22:08.827507+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "22d8b4128919bbbf0783dd4e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T21:24:23.445878+00:00",
+    "checked_at": "2026-10-28T21:29:13.108289+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
