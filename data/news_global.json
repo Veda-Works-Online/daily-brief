@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-28T12:32:17.682058+00:00",
+  "updated": "2026-10-28T12:48:37.391861+00:00",
   "items": [
+    {
+      "title": "Victims of Jordan’s air strikes in Syria",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria",
+      "source": "Al Jazeera",
+      "published": "2026-10-28T12:35:19+00:00",
+      "retrieved_at": "2026-10-28T12:48:32.746069+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Jordan’s air strikes in southern Syria killed at least seven people, including three children. Here are their stories.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "989878e56047c3da9e671634"
+    },
     {
       "title": "Israel’s election: The battle between change and anti-Palestinian sentiment",
       "url": "https://aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0b663c1ed9a962250f346844"
-    },
-    {
-      "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
-      "url": "https://aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online",
-      "source": "Al Jazeera",
-      "published": "2026-10-25T05:27:54+00:00",
-      "retrieved_at": "2026-10-25T05:33:54.297863+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Netanyahu and his rivals are tied days from the vote, and both camps are fighting with bots, deepfakes and data.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8814bf4e911189b517445a10"
     }
   ],
   "unverified_history": [
