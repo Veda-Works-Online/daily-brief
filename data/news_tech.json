@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-28T08:31:52.869243+00:00",
+  "updated": "2026-10-28T08:36:55.530398+00:00",
   "items": [
+    {
+      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+      "url": "https://wired.com/story/ai-emergency-alerts-coming-humans-not-ready",
+      "source": "Wired",
+      "published": "2026-10-28T08:30:00+00:00",
+      "retrieved_at": "2026-10-28T08:36:52.282883+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "19f313f3afd79c23f35cf78a"
+    },
     {
       "title": "Should AI Decide Your Court Case? This Judge Says Yes",
       "url": "https://wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "323675be6dd8eda0cfb13689"
-    },
-    {
-      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
-      "source": "Ars Technica AI",
-      "published": "2026-10-19T14:45:43+00:00",
-      "retrieved_at": "2026-10-19T14:51:40.210420+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Character.AI faces claims its bots encouraged minors to self-harm and kill their parents.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8ce5ab2534d7e3dd9d4e50c1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-28T08:31:48.311431+00:00",
+    "checked_at": "2026-10-28T08:36:51.193365+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
