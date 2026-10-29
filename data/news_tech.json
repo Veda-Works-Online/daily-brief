@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-29T21:19:25.587236+00:00",
+  "updated": "2026-10-29T21:24:28.808896+00:00",
   "items": [
+    {
+      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations",
+      "source": "TechCrunch",
+      "published": "2026-10-29T21:20:47+00:00",
+      "retrieved_at": "2026-10-29T21:24:24.493210+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d97bf64b9345b7b15978c55f"
+    },
     {
       "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
       "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "901270c7a581f8060c7ceea9"
-    },
-    {
-      "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
-      "url": "https://wired.com/story/openai-startup-brain-implants-detect-cancer",
-      "source": "Wired",
-      "published": "2026-10-21T10:30:00+00:00",
-      "retrieved_at": "2026-10-21T10:38:36.330927+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6f29845942b917543a5822ee"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T21:19:19.998927+00:00",
+    "checked_at": "2026-10-29T21:24:23.248792+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
