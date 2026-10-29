@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-29T17:53:56.834652+00:00",
+  "updated": "2026-10-29T17:59:07.785860+00:00",
   "items": [
+    {
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
+      "source": "TechCrunch AI",
+      "published": "2026-10-29T17:54:38+00:00",
+      "retrieved_at": "2026-10-29T17:59:02.162589+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "733ee00828e278d0a389e129"
+    },
     {
       "title": "An updated Model Spec for more capable and beneficial AI",
       "url": "https://openai.com/index/updated-model-spec",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b657407c250683f975bfdd90"
-    },
-    {
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T21:25:22+00:00",
-      "retrieved_at": "2026-10-20T21:26:14.473610+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "90bd459310081866f0a5c849"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T17:53:50.758647+00:00",
+    "checked_at": "2026-10-29T17:59:01.552054+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
