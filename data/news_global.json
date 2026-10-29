@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-29T20:24:34.804553+00:00",
+  "updated": "2026-10-29T20:54:34.927620+00:00",
   "items": [
+    {
+      "title": "Palestinians injured, arrested in Israeli raids across West Bank",
+      "url": "https://aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T20:40:03+00:00",
+      "retrieved_at": "2026-10-29T20:54:29.035942+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "This comes as more than 3,300 Palestinians are forced from homes in Hebron as Israel's military offensive continues.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ffb60301a8286503cc011452"
+    },
+    {
+      "title": "Does Russia offer African countries an equal partnership?",
+      "url": "https://aljazeera.com/video/inside-story/2026/10/29/does-russia-offer-african-countries-an-equal-partnership",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T20:34:28+00:00",
+      "retrieved_at": "2026-10-29T20:54:29.035966+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "President Vladimir Putin hosts African leaders at a summit in Moscow.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0c6385cc99217a96ff067264"
+    },
     {
       "title": "Israel election result shows no overall majority as vote count complete",
       "url": "https://aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "80e10e2b997d030127fdc639"
-    },
-    {
-      "title": "How 'Lula's Army' WhatsApp chat helped turn Brazil election around",
-      "url": "https://bbc.co.uk/news/articles/cwz0vg4v3ndeo",
-      "source": "BBC World",
-      "published": "2026-10-26T15:37:33+00:00",
-      "retrieved_at": "2026-10-26T15:40:23.428867+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "As polls pointed to defeat, millions joined a 'Lula's Army' channel that is credited with helping transform online enthusiasm into real-world mobilisation.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6bf9372526f7eafa2734ff64"
-    },
-    {
-      "title": "Why Ukraine may be involved in Mali's conflict",
-      "url": "https://dw.com/en/why-ukraine-may-be-involved-in-mali-s-conflict/a-79743423",
-      "source": "DW",
-      "published": "2026-10-26T14:58:00+00:00",
-      "retrieved_at": "2026-10-26T15:19:28.187881+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Allegations that Ukrainian specialists are supporting Tuareg rebels in Mali highlight Kyiv's effort to challenge Russian influence far beyond the battlefield in Europe.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "07808635aeb49884332e91ef"
     }
   ],
   "unverified_history": [
