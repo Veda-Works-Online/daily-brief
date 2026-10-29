@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-29T19:59:32.549475+00:00",
+  "updated": "2026-10-29T20:04:29.948024+00:00",
   "items": [
+    {
+      "title": "The R2 SUV is already Rivian’s best-selling vehicle",
+      "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle",
+      "source": "TechCrunch",
+      "published": "2026-10-29T20:02:03+00:00",
+      "retrieved_at": "2026-10-29T20:04:25.720111+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "295488c719dec45f0fc12b08"
+    },
     {
       "title": "OpenAI-backed Thrive Holdings acquires ADT",
       "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "fc116d48803bb96a8000c32e"
-    },
-    {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "source": "OpenAI",
-      "published": "2026-10-21T04:50:00+00:00",
-      "retrieved_at": "2026-10-21T14:03:50.080013+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "e9c733da9eeb26d2a44435ed"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T19:59:26.963008+00:00",
+    "checked_at": "2026-10-29T20:04:24.343040+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
