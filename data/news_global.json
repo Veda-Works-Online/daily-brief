@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-29T11:17:57.769323+00:00",
+  "updated": "2026-10-29T11:22:59.613078+00:00",
   "items": [
+    {
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "url": "https://bbc.co.uk/news/articles/cmdx3knq1xexo",
+      "source": "BBC World",
+      "published": "2026-10-29T11:22:18+00:00",
+      "retrieved_at": "2026-10-29T11:22:54.059319+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "709b207547eb738defdc1e85"
+    },
     {
       "title": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
       "url": "https://aljazeera.com/news/2026/10/29/pentagon-says-iran-war-has-cost-us-taxpayers-47bn-what-that-means",
@@ -688,22 +704,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d31dc77a1f394e2a87a27329"
-    },
-    {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "url": "https://bbc.co.uk/news/articles/cmdx3knq1xexo",
-      "source": "BBC World",
-      "published": "2026-10-28T16:59:47+00:00",
-      "retrieved_at": "2026-10-28T17:23:21.826695+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "709b207547eb738defdc1e85"
     },
     {
       "title": "Canada-EU summit: What do both sides want, and what’s at stake?",
