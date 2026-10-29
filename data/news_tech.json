@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-29T18:29:01.290734+00:00",
+  "updated": "2026-10-29T18:33:55.835266+00:00",
   "items": [
+    {
+      "title": "Report: Trump did nothing with intel that China planted spy close to Nvidia CEO",
+      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo",
+      "source": "Ars Technica AI",
+      "published": "2026-10-29T18:29:12+00:00",
+      "retrieved_at": "2026-10-29T18:33:51.329205+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f1de8714a972fe1b0324e51f"
+    },
     {
       "title": "Granola crunches up a dictation feature to compete with Wispr",
       "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "7bb213f0d370459060650275"
-    },
-    {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T23:01:23+00:00",
-      "retrieved_at": "2026-10-21T05:07:41.030198+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b657407c250683f975bfdd90"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T18:28:55.316882+00:00",
+    "checked_at": "2026-10-29T18:33:49.735952+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
