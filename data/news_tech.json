@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T12:07:50.514682+00:00",
+  "updated": "2026-10-29T12:12:48.897997+00:00",
   "items": [
     {
       "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
@@ -68,6 +68,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dc9c12fea3eb5e365c2e6168"
+    },
+    {
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "source": "Hugging Face",
+      "published": "2026-10-29T00:00:00+00:00",
+      "retrieved_at": "2026-10-29T12:12:44.048564+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "0356da6ce2f886abbe8c08e0"
     },
     {
       "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "67aff9b8896bb713ca75891b"
-    },
-    {
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T16:00:00+00:00",
-      "retrieved_at": "2026-10-20T16:00:45.156903+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "118e7764eb64ec546fe2a348"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T12:07:45.081195+00:00",
+    "checked_at": "2026-10-29T12:12:43.279450+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
