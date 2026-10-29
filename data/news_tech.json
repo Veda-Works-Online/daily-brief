@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-29T17:44:01.662500+00:00",
+  "updated": "2026-10-29T17:48:55.908048+00:00",
   "items": [
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI",
+      "published": "2026-10-29T17:00:00+00:00",
+      "retrieved_at": "2026-10-29T17:48:50.994582+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "fde8d2ef62f66ff1d7c116b1"
+    },
     {
       "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
       "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
@@ -306,6 +323,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "f9c5e4d0fc2624c1c5b642cd"
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "source": "OpenAI",
+      "published": "2026-10-29T07:00:00+00:00",
+      "retrieved_at": "2026-10-29T17:48:50.994628+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "a055653655e24f8d5033851f"
     },
     {
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "90bd459310081866f0a5c849"
-    },
-    {
-      "title": "SpaceX’s AI business is beating expectations",
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T20:40:41+00:00",
-      "retrieved_at": "2026-10-21T04:22:12.075013+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d774153cbcad1625acbcdfa1"
-    },
-    {
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T20:35:10+00:00",
-      "retrieved_at": "2026-10-20T20:36:12.384995+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ef78ab622fedc353982a7dcc"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T17:43:55.556017+00:00",
+    "checked_at": "2026-10-29T17:48:49.604810+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
