@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T16:14:01.273648+00:00",
+  "updated": "2026-10-29T16:18:53.946784+00:00",
   "items": [
     {
       "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
@@ -104,6 +104,23 @@
       "story_fingerprint": "55ba057a291a4914bcc3113c"
     },
     {
+      "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions",
+      "source": "TechCrunch AI",
+      "published": "2026-10-29T13:00:00+00:00",
+      "retrieved_at": "2026-10-29T16:18:48.583235+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "40391e5511c5581cde2195db"
+    },
+    {
       "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
       "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure",
       "source": "TechCrunch AI",
@@ -119,23 +136,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6db16f4bab01278f1106668b"
-    },
-    {
-      "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions",
-      "source": "TechCrunch AI",
-      "published": "2026-10-29T13:00:00+00:00",
-      "retrieved_at": "2026-10-29T16:13:55.891342+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "40391e5511c5581cde2195db"
     },
     {
       "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T16:13:55.261589+00:00",
+    "checked_at": "2026-10-29T16:18:47.947622+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
