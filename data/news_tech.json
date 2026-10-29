@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-29T10:32:59.718135+00:00",
+  "updated": "2026-10-29T10:37:55.410816+00:00",
   "items": [
+    {
+      "title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
+      "url": "https://wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards",
+      "source": "Wired",
+      "published": "2026-10-29T10:30:00+00:00",
+      "retrieved_at": "2026-10-29T10:37:51.054117+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Illicit software on the computers of some of the world’s best online poker players allowed the accused cheater to see what cards were in the victims’ hands—and trounce them at the tables.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6f981ff3f068f32498148ddd"
+    },
     {
       "title": "I Did Push-Ups With Snap’s Chunky AR Glasses",
       "url": "https://wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "98c90566b0a964bdbbd59bc8"
-    },
-    {
-      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
-      "url": "https://wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding",
-      "source": "Wired",
-      "published": "2026-10-20T15:07:43+00:00",
-      "retrieved_at": "2026-10-20T15:15:48.369079+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Hysteria over the agent's appearance in a 7,500-person group reveals that internet experts have outdated notions of privacy.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dcd64cc1aea2fe4c87414f20"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T10:32:50.737809+00:00",
+    "checked_at": "2026-10-29T10:37:49.702215+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
