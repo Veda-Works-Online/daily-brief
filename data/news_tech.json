@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-29T13:42:58.440669+00:00",
+  "updated": "2026-10-29T13:47:54.653159+00:00",
   "items": [
+    {
+      "title": "Petkit Automatic Cat Litter Box Sale (2026)",
+      "url": "https://wired.com/story/petkit-sale-october-2026",
+      "source": "Wired",
+      "published": "2026-10-29T13:41:26+00:00",
+      "retrieved_at": "2026-10-29T13:47:50.121384+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "As WIRED’s resident pet tech tester, I have lots of opinions on what’s worth your money. Petkit’s automatic litter boxes are my top picks—and my favorite models are $100 off right now.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e615bb3b7a04222db1036409"
+    },
     {
       "title": "Granite Switch 4.1.1 — Update models like you update software",
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "271b84644d2dc55e6d66f93f"
-    },
-    {
-      "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training",
-      "source": "Ars Technica AI",
-      "published": "2026-10-20T17:40:20+00:00",
-      "retrieved_at": "2026-10-20T17:55:48.439780+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Meta argues nobody “decided” to pirate books to train AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "68ebbaed8145d25ca7457c55"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T13:42:52.566514+00:00",
+    "checked_at": "2026-10-29T13:47:48.800616+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
