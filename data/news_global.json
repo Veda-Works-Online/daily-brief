@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-29T02:29:59.217528+00:00",
+  "updated": "2026-10-29T03:00:01.921152+00:00",
   "items": [
+    {
+      "title": "Israeli settlers savagely attack journalists in occupied West Bank",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T02:43:29+00:00",
+      "retrieved_at": "2026-10-29T02:59:58.425561+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Videos circulating on social media show Israeli settlers assaulting three foreign journalists in the West Bank",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b70ad68dfbf44e9680f0ae4e"
+    },
     {
       "title": "Serbians storm TV studio as pro-Vucic media faces reckoning",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "22633934b1853f2a826aa168"
-    },
-    {
-      "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-      "url": "https://bbc.co.uk/news/articles/cqrmyl1mljppo",
-      "source": "BBC World",
-      "published": "2026-10-25T23:33:19+00:00",
-      "retrieved_at": "2026-10-26T05:38:18.607250+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "72908dd1fa41255a3cc5a880"
     }
   ],
   "unverified_history": [
