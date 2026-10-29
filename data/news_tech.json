@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-29T10:17:41.620741+00:00",
+  "updated": "2026-10-29T10:22:54.104788+00:00",
   "items": [
+    {
+      "title": "I Did Push-Ups With Snap’s Chunky AR Glasses",
+      "url": "https://wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses",
+      "source": "Wired",
+      "published": "2026-10-29T10:15:00+00:00",
+      "retrieved_at": "2026-10-29T10:22:46.450006+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "They fit better than they look and stay put when you move, but Snap’s $2,195 Specs still feel like a developer prototype in search of a purpose.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e899a50aa20403f46c1a74a4"
+    },
     {
       "title": "I Gave My Blood to the AI Death Clock",
       "url": "https://wired.com/story/i-gave-an-ai-death-clock-my-blood",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dcd64cc1aea2fe4c87414f20"
-    },
-    {
-      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T14:13:32+00:00",
-      "retrieved_at": "2026-10-20T17:15:37.212174+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Figma said it plans to support as many standards as possible without exposing all of its data.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "90898da6677ac34139b592cd"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T10:17:35.997084+00:00",
+    "checked_at": "2026-10-29T10:22:45.066658+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
