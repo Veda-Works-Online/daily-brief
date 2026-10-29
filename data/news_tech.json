@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-29T13:58:02.405422+00:00",
+  "updated": "2026-10-29T14:03:05.586129+00:00",
   "items": [
+    {
+      "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "url": "https://wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity",
+      "source": "Wired",
+      "published": "2026-10-29T14:00:00+00:00",
+      "retrieved_at": "2026-10-29T14:02:58.021444+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "88d3f68e43bd258a6b90dcf0"
+    },
     {
       "title": "Petkit Automatic Cat Litter Box Sale (2026)",
       "url": "https://wired.com/story/petkit-sale-october-2026",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ae57137dec0b9f2ca2524338"
-    },
-    {
-      "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
-      "url": "https://wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests",
-      "source": "Wired",
-      "published": "2026-10-20T17:41:58+00:00",
-      "retrieved_at": "2026-10-20T17:50:40.362677+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "271b84644d2dc55e6d66f93f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T13:57:54.568398+00:00",
+    "checked_at": "2026-10-29T14:02:56.591350+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
