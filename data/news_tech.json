@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-29T10:47:56.826551+00:00",
+  "updated": "2026-10-29T10:52:50.518643+00:00",
   "items": [
+    {
+      "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+      "url": "https://wired.com/story/ai-made-decades-of-computer-science-research-irrelevant",
+      "source": "Wired",
+      "published": "2026-10-29T10:45:00+00:00",
+      "retrieved_at": "2026-10-29T10:52:45.135537+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "81e6600ae5fbe9ffa09af405"
+    },
     {
       "title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
       "url": "https://wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "118e7764eb64ec546fe2a348"
-    },
-    {
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "source": "Hugging Face",
-      "published": "2026-10-20T15:19:48+00:00",
-      "retrieved_at": "2026-10-20T15:20:37.824340+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "98c90566b0a964bdbbd59bc8"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T10:47:51.354280+00:00",
+    "checked_at": "2026-10-29T10:52:43.718189+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
