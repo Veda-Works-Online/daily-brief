@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T18:19:11.656564+00:00",
+  "updated": "2026-10-29T18:29:10.656854+00:00",
   "items": [
     {
       "title": "What Israel’s Election Results Mean for the Middle East and Beyond",
@@ -16,6 +16,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d462e3f8fb7842838ed51107"
+    },
+    {
+      "title": "At least 14 people killed in attack on Ukraine train station",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T18:03:21+00:00",
+      "retrieved_at": "2026-10-29T18:29:04.248503+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A Russian drone strike killed at least 14 people at Dnipro’s main railway station in central Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b71c55fa5435f252ecc03b00"
     },
     {
       "title": "UAE sentences eight people to life over arms supplies to Sudan’s army",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2f2a14c3f6b2c4f572f5ef4f"
-    },
-    {
-      "title": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed",
-      "source": "Al Jazeera",
-      "published": "2026-10-26T13:20:23+00:00",
-      "retrieved_at": "2026-10-26T13:59:19.525529+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A new political campaign ad in support of US Senate candidate Abdul El-Sayed is generating conversation online.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8d8395df4db56847e836ccc0"
     }
   ],
   "unverified_history": [
