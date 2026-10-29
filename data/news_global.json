@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-29T15:39:07.063055+00:00",
+  "updated": "2026-10-29T15:49:12.493833+00:00",
   "items": [
+    {
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "url": "https://bbc.co.uk/news/articles/cmdx3knq1xexo",
+      "source": "BBC World",
+      "published": "2026-10-29T15:47:20+00:00",
+      "retrieved_at": "2026-10-29T15:49:05.816135+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "709b207547eb738defdc1e85"
+    },
+    {
+      "title": "Israel’s anti-Qatar campaign bleeds into elections",
+      "url": "https://aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T15:35:53+00:00",
+      "retrieved_at": "2026-10-29T15:49:05.792469+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Qatar's Foreign Ministry spokesman rejects 'disinformation' amid allegations by some Israelis of voting interference.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fde1974e29018491f3e5ab5d"
+    },
     {
       "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
       "url": "https://bbc.co.uk/news/articles/cq8ezj7jylrzo",
@@ -16,6 +48,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5670ee999815fc5b83e3924f"
+    },
+    {
+      "title": "Israeli strikes hit Gaza as Health Ministry urges Rafah opening",
+      "url": "https://aljazeera.com/news/2026/10/29/israeli-strikes-hit-gaza-as-health-ministry-urges-rafah-opening",
+      "source": "Al Jazeera",
+      "published": "2026-10-29T15:12:36+00:00",
+      "retrieved_at": "2026-10-29T15:49:05.792515+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Gaza's Health Ministry says dozens died awaiting treatment abroad as Israeli attacks continue despite a 'ceasefire'.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e31a3c2c46df098dc4e20ebc"
     },
     {
       "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
@@ -224,22 +272,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f383f3812742a8d26f560e5e"
-    },
-    {
-      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "url": "https://bbc.co.uk/news/articles/cmdx3knq1xexo",
-      "source": "BBC World",
-      "published": "2026-10-29T11:22:18+00:00",
-      "retrieved_at": "2026-10-29T11:22:54.059319+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "709b207547eb738defdc1e85"
     },
     {
       "title": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cdb23c9f8c0e96e5eb8d3067"
-    },
-    {
-      "title": "Beyond the Pukpuk Treaty, Australia’s Strategic Footprint in PNG Grows",
-      "url": "https://thediplomat.com/2026/10/beyond-the-pukpuk-treaty-australias-strategic-footprint-in-png-grows",
-      "source": "The Diplomat",
-      "published": "2026-10-26T12:46:00+00:00",
-      "retrieved_at": "2026-10-26T21:45:59.292986+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "In the wake of the Pukpuk Treaty, Australia and PNG continued to deepen relations with a new rotation planned, defense infrastructure investment, and expanded ADF recruitment.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f6a2e87d45be817e1ac47461"
-    },
-    {
-      "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
-      "url": "https://aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl",
-      "source": "Al Jazeera",
-      "published": "2026-10-26T12:17:02+00:00",
-      "retrieved_at": "2026-10-26T12:54:18.517586+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The death toll in Israel's genocidal war on Gaza climbs to 74,555, including 1,559 killed since 'ceasefire' last year.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a84d298f686bcd59a33b59b3"
     }
   ],
   "unverified_history": [
