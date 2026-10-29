@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-29T20:19:25.488789+00:00",
+  "updated": "2026-10-29T20:24:25.573604+00:00",
   "items": [
+    {
+      "title": "Windows 11 gets right-click menu improvements as PC revenue slides",
+      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides",
+      "source": "Ars Technica",
+      "published": "2026-10-29T20:18:49+00:00",
+      "retrieved_at": "2026-10-29T20:24:21.416889+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fe4db0fddca120bf96cd67ae"
+    },
     {
       "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
       "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6f29845942b917543a5822ee"
-    },
-    {
-      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
-      "url": "https://wired.com/story/europe-data-centers-climate-change",
-      "source": "Wired",
-      "published": "2026-10-21T08:30:00+00:00",
-      "retrieved_at": "2026-10-21T11:48:43.991457+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "751ae2a70b991dfdfe292d5f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T20:19:20.032371+00:00",
+    "checked_at": "2026-10-29T20:24:20.031112+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
