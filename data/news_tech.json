@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-29T19:54:39.957562+00:00",
+  "updated": "2026-10-29T19:59:32.549475+00:00",
   "items": [
+    {
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
+      "source": "TechCrunch AI",
+      "published": "2026-10-29T19:56:19+00:00",
+      "retrieved_at": "2026-10-29T19:59:27.393167+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ac3629a114cb1da818981f43"
+    },
     {
       "title": "Trump declares robot imports a national security threat",
       "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "e9c733da9eeb26d2a44435ed"
-    },
-    {
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-      "source": "Google AI",
-      "published": "2026-10-21T04:00:00+00:00",
-      "retrieved_at": "2026-10-21T04:02:14.388839+00:00",
-      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-      "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "86f8d46d45c150efc482562b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T19:54:34.395622+00:00",
+    "checked_at": "2026-10-29T19:59:26.963008+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
