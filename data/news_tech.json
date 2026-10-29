@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T16:59:02.602712+00:00",
+  "updated": "2026-10-29T17:03:56.551733+00:00",
   "items": [
     {
       "title": "U.S. investigated Chinese spy plot aimed at Nvidia CEO",
@@ -272,6 +272,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dc9c12fea3eb5e365c2e6168"
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI",
+      "published": "2026-10-29T09:00:00+00:00",
+      "retrieved_at": "2026-10-29T17:03:51.922519+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "f9c5e4d0fc2624c1c5b642cd"
     },
     {
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d6cb90f59b1b6719ec921e35"
-    },
-    {
-      "title": "Gemini's Personal Intelligence is coming to cars",
-      "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars",
-      "source": "Ars Technica AI",
-      "published": "2026-10-20T20:00:33+00:00",
-      "retrieved_at": "2026-10-20T20:06:25.216364+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "It's probably time to audit your Gemini settings.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7b6d7014835740aee520e9b1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T16:58:56.740361+00:00",
+    "checked_at": "2026-10-29T17:03:50.544174+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
