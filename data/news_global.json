@@ -1,6 +1,38 @@
 {
-  "updated": "2026-10-29T15:49:12.493833+00:00",
+  "updated": "2026-10-29T17:09:01.645719+00:00",
   "items": [
+    {
+      "title": "India increases growth forecast for fiscal year",
+      "url": "https://dw.com/en/india-increases-growth-forecast-for-fiscal-year/a-79798971",
+      "source": "DW",
+      "published": "2026-10-29T16:30:00+00:00",
+      "retrieved_at": "2026-10-29T17:08:55.954569+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "India's Ministry of Finance has increased its growth forecasts for the current fiscal year. But it also warned about inflation, particularly for fuel and energy, amid continued instability in the Middle East.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "dcd970dccd03390e84c205fd"
+    },
+    {
+      "title": "China leaders demand more loyalty and more initiative",
+      "url": "https://dw.com/en/china-leaders-demand-more-loyalty-and-more-initiative/a-79799138",
+      "source": "DW",
+      "published": "2026-10-29T16:16:00+00:00",
+      "retrieved_at": "2026-10-29T17:08:55.954597+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The CCP session emphasized internal discipline — as expected, but left the question of Xi Jinping's successor unanswered. The party seems anxious of any instability as geopolitics heats up and China's economy cools down.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fa85149b6db0c74e9f8e7afe"
+    },
     {
       "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
       "url": "https://bbc.co.uk/news/articles/cmdx3knq1xexo",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "95d672a6f5895c1c7e4ad603"
-    },
-    {
-      "title": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
-      "url": "https://aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election",
-      "source": "Al Jazeera",
-      "published": "2026-10-26T13:02:22+00:00",
-      "retrieved_at": "2026-10-26T13:24:20.073719+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Brazil's president secured a historic fourth term after overturning a first-round defeat.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1ae86c46eabd4b9b4b6eb819"
-    },
-    {
-      "title": "Has Pakistan reopened its border with Iran for trade?",
-      "url": "https://aljazeera.com/news/2026/10/26/has-pakistan-reopened-its-border-with-iran-for-trade",
-      "source": "Al Jazeera",
-      "published": "2026-10-26T13:01:16+00:00",
-      "retrieved_at": "2026-10-26T13:24:20.073729+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Traders say some exports are crossing border after a weeklong halt, but Tehran says its cargo is not getting through.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cdb23c9f8c0e96e5eb8d3067"
     }
   ],
   "unverified_history": [
