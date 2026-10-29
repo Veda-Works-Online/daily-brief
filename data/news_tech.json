@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-29T14:59:00.320504+00:00",
+  "updated": "2026-10-29T15:03:57.728495+00:00",
   "items": [
+    {
+      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+      "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy",
+      "source": "TechCrunch",
+      "published": "2026-10-29T15:00:00+00:00",
+      "retrieved_at": "2026-10-29T15:03:53.166736+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain, Coursera. It's platform promises to help IT easily control enterprise agents",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ad6030375278e948d6efae0a"
+    },
+    {
+      "title": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+      "url": "https://wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis",
+      "source": "Wired",
+      "published": "2026-10-29T15:00:00+00:00",
+      "retrieved_at": "2026-10-29T15:03:53.206596+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f69a39f4670480fd39a8e0e6"
+    },
     {
       "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
       "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f62cd9d5aab0aeb00062151e"
-    },
-    {
-      "title": "ChatGPT now lets you lock your chats",
-      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T18:36:53+00:00",
-      "retrieved_at": "2026-10-20T18:40:39.788636+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "026f21d9bb1e944c49e7c5f4"
-    },
-    {
-      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice",
-      "source": "Ars Technica AI",
-      "published": "2026-10-20T18:22:54+00:00",
-      "retrieved_at": "2026-10-20T18:25:37.242109+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c8e452e29325efd75fa21fac"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T14:58:52.582390+00:00",
+    "checked_at": "2026-10-29T15:03:51.715020+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
