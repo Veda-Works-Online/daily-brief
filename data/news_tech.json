@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-29T18:43:58.467706+00:00",
+  "updated": "2026-10-29T18:48:59.771668+00:00",
   "items": [
+    {
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "url": "https://wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system",
+      "source": "Wired",
+      "published": "2026-10-29T18:39:43+00:00",
+      "retrieved_at": "2026-10-29T18:48:55.266342+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b73841f49102d152db69acdf"
+    },
     {
       "title": "Report: Trump did nothing with intel that China planted spy close to Nvidia CEO",
       "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "2423bbd9f31fb2ec169b7a91"
-    },
-    {
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "url": "https://openai.com/index/empowering-cyber-defenders",
-      "source": "OpenAI",
-      "published": "2026-10-21T00:00:00+00:00",
-      "retrieved_at": "2026-10-21T19:19:50.471203+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "7bb213f0d370459060650275"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T18:43:52.396953+00:00",
+    "checked_at": "2026-10-29T18:48:53.533594+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
