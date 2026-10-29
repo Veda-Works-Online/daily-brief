@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T21:34:36.214198+00:00",
+  "updated": "2026-10-29T21:44:37.836669+00:00",
   "items": [
     {
       "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
@@ -80,6 +80,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5c1227f6f715e0ee4885bc7c"
+    },
+    {
+      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+      "url": "https://bbc.co.uk/news/articles/ckdd8qdl9e0eo",
+      "source": "BBC World",
+      "published": "2026-10-29T20:21:54+00:00",
+      "retrieved_at": "2026-10-29T21:44:31.620446+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "60bffafafac17d60f42e6074"
     },
     {
       "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fbcdfd8bb571bf607de9a683"
-    },
-    {
-      "title": "Israel committing crimes against humanity in occupied West Bank: UN",
-      "url": "https://aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un",
-      "source": "Al Jazeera",
-      "published": "2026-10-26T15:44:59+00:00",
-      "retrieved_at": "2026-10-26T16:10:24.364516+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "UN report highlights crimes including extermination, torture, rape and other forms of sexual violence.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "052b9a274fdafa229ee36b47"
     }
   ],
   "unverified_history": [
