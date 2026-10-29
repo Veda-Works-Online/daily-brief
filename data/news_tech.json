@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T14:44:03.502379+00:00",
+  "updated": "2026-10-29T14:49:01.141676+00:00",
   "items": [
     {
       "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
@@ -170,6 +170,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dc9c12fea3eb5e365c2e6168"
+    },
+    {
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "Hugging Face",
+      "published": "2026-10-29T00:00:00+00:00",
+      "retrieved_at": "2026-10-29T14:48:55.527598+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "a31bb0cd174edc8e79c5b2d3"
     },
     {
       "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c8e452e29325efd75fa21fac"
-    },
-    {
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "source": "Hugging Face",
-      "published": "2026-10-20T18:17:47+00:00",
-      "retrieved_at": "2026-10-20T18:20:42.643645+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "d83b78aff6bf96f590771b40"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T14:43:53.638760+00:00",
+    "checked_at": "2026-10-29T14:48:54.323451+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
