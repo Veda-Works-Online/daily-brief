@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-29T10:02:46.211309+00:00",
+  "updated": "2026-10-29T10:07:54.317069+00:00",
   "items": [
+    {
+      "title": "I Gave My Blood to the AI Death Clock",
+      "url": "https://wired.com/story/i-gave-an-ai-death-clock-my-blood",
+      "source": "Wired",
+      "published": "2026-10-29T10:00:00+00:00",
+      "retrieved_at": "2026-10-29T10:07:48.137872+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "dc9c12fea3eb5e365c2e6168"
+    },
     {
       "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
       "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "90898da6677ac34139b592cd"
-    },
-    {
-      "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-      "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation",
-      "source": "TechCrunch",
-      "published": "2026-10-20T13:17:36+00:00",
-      "retrieved_at": "2026-10-20T13:20:02.698784+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ef0595c7723fddd24c73d101"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T10:02:37.338582+00:00",
+    "checked_at": "2026-10-29T10:07:46.778760+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
