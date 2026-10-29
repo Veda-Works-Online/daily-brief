@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-29T16:23:57.626550+00:00",
+  "updated": "2026-10-29T16:28:59.377010+00:00",
   "items": [
+    {
+      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads",
+      "source": "Ars Technica AI",
+      "published": "2026-10-29T16:24:55+00:00",
+      "retrieved_at": "2026-10-29T16:28:54.900073+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3982d2b0dd9d2ff3580cee2f"
+    },
     {
       "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
       "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "01944ffe1081077c589d19a1"
-    },
-    {
-      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
-      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs",
-      "source": "Ars Technica",
-      "published": "2026-10-20T19:47:35+00:00",
-      "retrieved_at": "2026-10-20T20:31:15.997612+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e612380bafb3f11709a5722e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T16:23:50.376834+00:00",
+    "checked_at": "2026-10-29T16:28:53.213742+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
