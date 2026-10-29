@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-29T19:44:47.838125+00:00",
+  "updated": "2026-10-29T20:09:37.591147+00:00",
   "items": [
+    {
+      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "url": "https://bbc.co.uk/news/articles/ck1l393pyrylo",
+      "source": "BBC World",
+      "published": "2026-10-29T20:05:57+00:00",
+      "retrieved_at": "2026-10-29T20:09:31.219898+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b643617f66f6ebe3447be871"
+    },
     {
       "title": "Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’",
       "url": "https://aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4c00c20e54e0520458ce3a3e"
-    },
-    {
-      "title": "Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tensions",
-      "url": "https://aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions",
-      "source": "Al Jazeera",
-      "published": "2026-10-26T14:38:50+00:00",
-      "retrieved_at": "2026-10-26T15:09:20.713290+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Countering Houthi advances in Yemen will be a major focus for Saudi Arabia and its allies in Tehran.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "71ab8070e6d705e40e7b5d29"
     }
   ],
   "unverified_history": [
