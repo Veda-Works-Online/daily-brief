@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T14:12:58.459225+00:00",
+  "updated": "2026-10-29T14:17:54.309648+00:00",
   "items": [
     {
       "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
@@ -153,6 +153,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dc9c12fea3eb5e365c2e6168"
+    },
+    {
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "source": "Hugging Face",
+      "published": "2026-10-29T00:00:00+00:00",
+      "retrieved_at": "2026-10-29T14:17:49.327664+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "7661025cf48d5be73cedcd76"
     },
     {
       "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c8d972f0119ff01854b0d533"
-    },
-    {
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T17:55:12+00:00",
-      "retrieved_at": "2026-10-21T02:47:10.638809+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Eric Schmidt’s fortune is about to get even bigger.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ae57137dec0b9f2ca2524338"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T14:12:52.538009+00:00",
+    "checked_at": "2026-10-29T14:17:48.595007+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
