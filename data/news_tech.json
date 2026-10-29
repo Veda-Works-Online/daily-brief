@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-29T13:32:45.572922+00:00",
+  "updated": "2026-10-29T13:37:58.914133+00:00",
   "items": [
+    {
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "Hugging Face",
+      "published": "2026-10-29T13:37:07+00:00",
+      "retrieved_at": "2026-10-29T13:37:53.758440+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "55ba057a291a4914bcc3113c"
+    },
     {
       "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
       "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "68ebbaed8145d25ca7457c55"
-    },
-    {
-      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps",
-      "source": "TechCrunch AI",
-      "published": "2026-10-20T17:12:48+00:00",
-      "retrieved_at": "2026-10-21T02:42:16.555817+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "468332898c1f8ee9afcb1055"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-29T13:32:39.851525+00:00",
+    "checked_at": "2026-10-29T13:37:52.976814+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
