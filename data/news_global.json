@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T13:08:15.980514+00:00",
+  "updated": "2026-10-29T13:13:16.555022+00:00",
   "items": [
     {
       "title": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
@@ -112,6 +112,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f92da3e378da5084b9e5d352"
+    },
+    {
+      "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
+      "url": "https://bbc.co.uk/news/articles/cm87zw51qw0jo",
+      "source": "BBC World",
+      "published": "2026-10-29T11:25:16+00:00",
+      "retrieved_at": "2026-10-29T13:13:10.885121+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Congo accuses Rwanda of backing M23 rebels and plundering minerals in its conflict hit East",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "05a16b30d79a39d11d191062"
     },
     {
       "title": "‘Survival of the fittest’: The struggle to get to university in The Gambia",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "97d3240a606eb1c77a384525"
-    },
-    {
-      "title": "If Netanyahu loses, what changes for Palestinians?",
-      "url": "https://aljazeera.com/video/by-the-numbers-3/2026/10/26/if-netanyahu-loses-what-changes-for-palestinians",
-      "source": "Al Jazeera",
-      "published": "2026-10-26T10:16:39+00:00",
-      "retrieved_at": "2026-10-26T10:34:05.389147+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "AJLabs tracks how Israeli parties voted against eight Knesset bills that disfavoured Palestinians ahead of the election.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3d8c924bcf9350c98b70a370"
     }
   ],
   "unverified_history": [
