@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-30T12:27:34.613836+00:00",
+  "updated": "2026-10-30T12:32:26.435766+00:00",
   "items": [
+    {
+      "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
+      "url": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved",
+      "source": "Ars Technica",
+      "published": "2026-10-30T12:00:18+00:00",
+      "retrieved_at": "2026-10-30T12:32:22.059969+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Nissan’s series hybrid e-Power system has been retuned for American roads.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7402a087ef122992667926af"
+    },
     {
       "title": "This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling",
       "url": "https://wired.com/story/oh-my-hours-ios-app",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "47b44768885178bd77bf44e4"
-    },
-    {
-      "title": "Protein Design with RFD4-Proteina and Hugging Face Spaces",
-      "url": "https://huggingface.co/blog/nvidia/rfd4-proteina-protein-design",
-      "source": "Hugging Face",
-      "published": "2026-10-21T12:39:49+00:00",
-      "retrieved_at": "2026-10-21T12:43:54.416550+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "6e40d70dde8273501d4ebd19"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T12:27:28.629989+00:00",
+    "checked_at": "2026-10-30T12:32:20.347804+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
