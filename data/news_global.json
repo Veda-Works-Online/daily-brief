@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-30T20:41:30.240951+00:00",
+  "updated": "2026-10-30T20:46:26.587740+00:00",
   "items": [
+    {
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+      "url": "https://bbc.co.uk/news/articles/cmewepdr109do",
+      "source": "BBC World",
+      "published": "2026-10-30T20:41:51+00:00",
+      "retrieved_at": "2026-10-30T20:46:21.354624+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2d563a885b4bb1d0e2279790"
+    },
     {
       "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026",
@@ -496,22 +512,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b7f1cfd4ef5e0d013ad8fee8"
-    },
-    {
-      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
-      "url": "https://bbc.co.uk/news/articles/cmewepdr109do",
-      "source": "BBC World",
-      "published": "2026-10-30T11:23:06+00:00",
-      "retrieved_at": "2026-10-30T14:12:30.517819+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "189bc8c8f09f952049634acc"
     },
     {
       "title": "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta",

@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-30T20:41:22.043446+00:00",
+  "updated": "2026-10-30T20:46:18.724477+00:00",
   "items": [
+    {
+      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job",
+      "source": "Ars Technica AI",
+      "published": "2026-10-30T20:40:13+00:00",
+      "retrieved_at": "2026-10-30T20:46:14.706387+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "People who love AI don't always love telling others they used it.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4957b7b5626411ef7a863f98"
+    },
+    {
+      "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+      "url": "https://wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems",
+      "source": "Wired",
+      "published": "2026-10-30T20:38:46+00:00",
+      "retrieved_at": "2026-10-30T20:46:15.082719+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9cb352aadfa2a4312cc242ab"
+    },
     {
       "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
       "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bbee17d1a9467b51014226ef"
-    },
-    {
-      "title": "GM is giving OnStar an AI makeover",
-      "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover",
-      "source": "TechCrunch",
-      "published": "2026-10-21T18:00:00+00:00",
-      "retrieved_at": "2026-10-21T18:04:40.636665+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "77c5fc72e06bcd00222972ef"
-    },
-    {
-      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-      "source": "TechCrunch AI",
-      "published": "2026-10-21T17:59:12+00:00",
-      "retrieved_at": "2026-10-21T23:00:33.009581+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d15b04fa8c59ea7589527606"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T20:41:13.771680+00:00",
+    "checked_at": "2026-10-30T20:46:13.543564+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
