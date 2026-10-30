@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-30T11:02:30.929139+00:00",
+  "updated": "2026-10-30T11:07:31.000993+00:00",
   "items": [
+    {
+      "title": "This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling",
+      "url": "https://wired.com/story/oh-my-hours-ios-app",
+      "source": "Wired",
+      "published": "2026-10-30T11:00:00+00:00",
+      "retrieved_at": "2026-10-30T11:07:26.647960+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The iOS app Oh My Hours takes a new approach to curbing screen time. It splits up your day into hour-long blocks, then shows which ones you wasted on Instagram and TikTok.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c67eb4404b3b3b4024126685"
+    },
     {
       "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
       "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "6e40d70dde8273501d4ebd19"
-    },
-    {
-      "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
-      "url": "https://wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse",
-      "source": "Wired",
-      "published": "2026-10-21T12:35:00+00:00",
-      "retrieved_at": "2026-10-21T12:38:53.435286+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1a0eda0370906e07dd7424ec"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T11:02:21.755636+00:00",
+    "checked_at": "2026-10-30T11:07:24.966985+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
