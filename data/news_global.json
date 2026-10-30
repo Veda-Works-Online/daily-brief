@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-30T12:22:35.776285+00:00",
+  "updated": "2026-10-30T12:42:51.680573+00:00",
   "items": [
+    {
+      "title": "Spain’s deadly train crash redraws electoral battle lines",
+      "url": "https://aljazeera.com/news/2026/10/30/spains-train-crash-redraws-the-electoral-battle-ahead-of-the-elections",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T12:20:22+00:00",
+      "retrieved_at": "2026-10-30T12:42:45.591483+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The tragedy has upended the November 29 election campaign, shifting attention from housing to security.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "27b38b637c8f9f1f6148327d"
+    },
     {
       "title": "Georgia midterm elections: Why this is a key US battleground",
       "url": "https://aljazeera.com/news/2026/10/30/georgia-midterm-elections-why-this-is-a-key-us-battleground",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7d9af8828e9551c844df71b0"
-    },
-    {
-      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "url": "https://bbc.co.uk/news/articles/cq62yg6rggj0o",
-      "source": "BBC World",
-      "published": "2026-10-27T01:46:38+00:00",
-      "retrieved_at": "2026-10-27T07:27:26.828031+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "538e8fadf048708177670821"
     }
   ],
   "unverified_history": [
