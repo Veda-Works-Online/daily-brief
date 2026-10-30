@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-30T15:05:25.709136+00:00",
+  "updated": "2026-10-30T15:25:24.421296+00:00",
   "items": [
+    {
+      "title": "Democratic senator blames Egypt press crackdown on Trump military aid decision",
+      "url": "https://bbc.co.uk/news/articles/c63r529wn2vzo",
+      "source": "BBC World",
+      "published": "2026-10-30T15:17:11+00:00",
+      "retrieved_at": "2026-10-30T15:25:18.502453+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0285c88304702c5a43100db8"
+    },
     {
       "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
       "url": "https://bbc.co.uk/news/articles/ckwyq2509p7xo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b28be3d07d911312c6b75840"
-    },
-    {
-      "title": "Laos Expected to Scuttle ASEAN’s South China Sea Code of Conduct",
-      "url": "https://thediplomat.com/2026/10/laos-expected-to-scuttle-aseans-south-china-sea-code-of-conduct",
-      "source": "The Diplomat",
-      "published": "2026-10-27T06:34:00+00:00",
-      "retrieved_at": "2026-10-27T13:48:50.271826+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Sources say Vientiane is poised to replace Phnom Penh as China’s spoiler in ASEAN.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b94383895da11cb09d11ddb3"
     }
   ],
   "unverified_history": [
