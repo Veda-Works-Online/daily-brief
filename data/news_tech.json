@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-30T16:50:25.196852+00:00",
+  "updated": "2026-10-30T16:55:16.417142+00:00",
   "items": [
+    {
+      "title": "DOJ exposes “ghost students” using AI to complete courses, steal student loans",
+      "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans",
+      "source": "Ars Technica AI",
+      "published": "2026-10-30T16:53:49+00:00",
+      "retrieved_at": "2026-10-30T16:55:12.086983+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "683ff2e90fb698d69dfd7664"
+    },
     {
       "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
       "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f09a23595bf85334b16a5c8e"
-    },
-    {
-      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-      "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using",
-      "source": "Ars Technica AI",
-      "published": "2026-10-21T15:14:07+00:00",
-      "retrieved_at": "2026-10-21T15:19:47.783077+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0e69e18799baacc447cee747"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T16:50:19.880854+00:00",
+    "checked_at": "2026-10-30T16:55:10.985732+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
