@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T20:31:23.934451+00:00",
+  "updated": "2026-10-30T20:36:23.639967+00:00",
   "items": [
     {
       "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
@@ -6293,6 +6293,15 @@
         "source_status": "CURRENT"
       },
       {
+        "id": "microsoft/UserLM-2.0",
+        "name": "UserLM-2.0",
+        "publisher": "microsoft",
+        "licence": "mit",
+        "published": "2026-10-01T17:14:05+00:00",
+        "url": "https://huggingface.co/microsoft/UserLM-2.0",
+        "source_status": "CURRENT"
+      },
+      {
         "id": "allenai/AstaBrief_8B_SFT",
         "name": "AstaBrief_8B_SFT",
         "publisher": "allenai",
@@ -6426,18 +6435,9 @@
         "published": "2026-08-13T21:03:50+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-3b-fp8",
         "source_status": "CURRENT"
-      },
-      {
-        "id": "ibm-granite/granite-4.2-30b-nvfp4",
-        "name": "granite-4.2-30b-nvfp4",
-        "publisher": "ibm-granite",
-        "licence": "apache-2.0",
-        "published": "2026-08-13T21:03:19+00:00",
-        "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-nvfp4",
-        "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T20:31:14.706975+00:00",
+    "checked_at": "2026-10-30T20:36:18.417658+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
