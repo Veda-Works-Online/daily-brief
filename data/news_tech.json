@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-30T13:07:38.696428+00:00",
+  "updated": "2026-10-30T13:12:34.556355+00:00",
   "items": [
+    {
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026",
+      "source": "TechCrunch AI",
+      "published": "2026-10-30T13:00:00+00:00",
+      "retrieved_at": "2026-10-30T13:12:29.725255+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a334b84114b8cb2d0432b50e"
+    },
     {
       "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
       "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "81f1319301255b26906a5756"
-    },
-    {
-      "title": "Mach9 raises $34M after pivoting to AI CAD software",
-      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software",
-      "source": "TechCrunch",
-      "published": "2026-10-21T13:00:00+00:00",
-      "retrieved_at": "2026-10-21T13:03:55.346669+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f3049a13bf4884ae2f53e198"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T13:07:32.767211+00:00",
+    "checked_at": "2026-10-30T13:12:28.247335+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
