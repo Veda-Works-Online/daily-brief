@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-30T01:20:14.876453+00:00",
+  "updated": "2026-10-30T01:25:08.385683+00:00",
   "items": [
+    {
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
+      "source": "TechCrunch AI",
+      "published": "2026-10-30T01:20:48+00:00",
+      "retrieved_at": "2026-10-30T01:25:04.341861+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4656a0ec2e316ae660d530fc"
+    },
     {
       "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
       "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1a0eda0370906e07dd7424ec"
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI",
-      "published": "2026-10-21T12:00:00+00:00",
-      "retrieved_at": "2026-10-21T13:03:53.412780+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "c99c0341fc46b581fa5faf60"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T01:20:10.315929+00:00",
+    "checked_at": "2026-10-30T01:25:03.776115+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
