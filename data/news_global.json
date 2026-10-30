@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-30T17:15:24.225157+00:00",
+  "updated": "2026-10-30T17:45:26.738995+00:00",
   "items": [
+    {
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "url": "https://bbc.co.uk/news/articles/cmd6dp2y576do",
+      "source": "BBC World",
+      "published": "2026-10-30T17:25:20+00:00",
+      "retrieved_at": "2026-10-30T17:45:20.824027+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "97b06c70396b1476de1c4eec"
+    },
     {
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
       "url": "https://bbc.co.uk/news/articles/cwe8lp7zy07zo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "05c5970f52d94246b6822563"
-    },
-    {
-      "title": "Iran says US ‘not serious’ about talks amid Tehran meeting",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T10:36:54+00:00",
-      "retrieved_at": "2026-10-27T10:57:38.113406+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Officials from Iran, Pakistan, Turkiye and Saudi Arabia held talks in Tehran in an effort to stop further escalation.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d93a93befd24855cf54af09d"
     }
   ],
   "unverified_history": [
