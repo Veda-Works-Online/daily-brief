@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-30T21:41:09.618453+00:00",
+  "updated": "2026-10-30T21:46:06.216544+00:00",
   "items": [
+    {
+      "title": "United Airlines CEO doubts supersonic airliner from Boom will be ready by 2029",
+      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029",
+      "source": "Ars Technica AI",
+      "published": "2026-10-30T21:41:54+00:00",
+      "retrieved_at": "2026-10-30T21:46:02.370194+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "839a7bbef541d2dc3d1f00f8"
+    },
     {
       "title": "Last-minute Halloween costumes for tech nerds",
       "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "047d31d879c9abae26274ef5"
-    },
-    {
-      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation",
-      "source": "TechCrunch",
-      "published": "2026-10-21T18:51:56+00:00",
-      "retrieved_at": "2026-10-21T18:54:43.488572+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8bc967225da18fc61c6493f1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T21:41:04.407363+00:00",
+    "checked_at": "2026-10-30T21:46:01.071689+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
