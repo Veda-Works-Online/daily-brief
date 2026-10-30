@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-30T21:16:14.947219+00:00",
+  "updated": "2026-10-30T21:21:16.145331+00:00",
   "items": [
+    {
+      "title": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
+      "source": "TechCrunch AI",
+      "published": "2026-10-30T21:17:40+00:00",
+      "retrieved_at": "2026-10-30T21:21:11.655823+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "144b53cca70088f7db0d6b09"
+    },
     {
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
       "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "d3eb659a0fc61c984ad5d9e7"
-    },
-    {
-      "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
-      "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits",
-      "source": "Ars Technica AI",
-      "published": "2026-10-21T18:20:40+00:00",
-      "retrieved_at": "2026-10-21T18:24:49.097781+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bc0f67a4abd7e6b7e5922bbf"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T21:16:09.595161+00:00",
+    "checked_at": "2026-10-30T21:21:10.854689+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
