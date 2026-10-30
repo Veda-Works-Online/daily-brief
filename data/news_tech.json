@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-30T21:51:09.104332+00:00",
+  "updated": "2026-10-30T21:56:05.967632+00:00",
   "items": [
+    {
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake",
+      "source": "TechCrunch AI",
+      "published": "2026-10-30T21:54:34+00:00",
+      "retrieved_at": "2026-10-30T21:56:01.345513+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b341d589c7cd13ca0479a01f"
+    },
+    {
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+      "source": "TechCrunch AI",
+      "published": "2026-10-30T21:52:03+00:00",
+      "retrieved_at": "2026-10-30T21:56:01.345547+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The new report says the AI lab will likely qualify for a high junk rating.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "29cbf79869c806065c508fb4"
+    },
     {
       "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
       "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app",
@@ -19,11 +53,11 @@
       "story_fingerprint": "eb4ea60bf145001029d4003a"
     },
     {
-      "title": "United Airlines CEO doubts supersonic airliner from Boom will be ready by 2029",
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
       "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029",
       "source": "Ars Technica AI",
       "published": "2026-10-30T21:41:54+00:00",
-      "retrieved_at": "2026-10-30T21:46:02.370194+00:00",
+      "retrieved_at": "2026-10-30T21:56:01.924691+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
       "isAI": true,
@@ -33,7 +67,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "839a7bbef541d2dc3d1f00f8"
+      "story_fingerprint": "d8de5e87c5321b6774881a13"
     },
     {
       "title": "Last-minute Halloween costumes for tech nerds",
@@ -442,6 +476,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4656a0ec2e316ae660d530fc"
+    },
+    {
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "source": "OpenAI",
+      "published": "2026-10-30T00:00:00+00:00",
+      "retrieved_at": "2026-10-30T21:56:02.040657+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "d97e57ceef11d8edf6ddfb51"
     },
     {
       "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
@@ -4199,57 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4cc3364b9b545dda8c17d53f"
-    },
-    {
-      "title": "GM is betting compute and AI will help it compete with Chinese automakers",
-      "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers",
-      "source": "TechCrunch",
-      "published": "2026-10-21T19:52:20+00:00",
-      "retrieved_at": "2026-10-21T19:54:48.836056+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1443a58b1e8a24ea01bb978c"
-    },
-    {
-      "title": "The new human-crafted Apple Music brand matters in an AI world",
-      "url": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world",
-      "source": "Ars Technica AI",
-      "published": "2026-10-21T19:44:40+00:00",
-      "retrieved_at": "2026-10-21T20:25:32.410085+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "58e2b3d2adb8eaa9b66142be"
-    },
-    {
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
-      "source": "TechCrunch AI",
-      "published": "2026-10-21T19:30:00+00:00",
-      "retrieved_at": "2026-10-21T19:34:47.032053+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a4d20a661bc5ebc393613a34"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T21:51:03.989795+00:00",
+    "checked_at": "2026-10-30T21:56:00.703894+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
