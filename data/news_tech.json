@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-30T13:52:33.166437+00:00",
+  "updated": "2026-10-30T13:57:26.282948+00:00",
   "items": [
+    {
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
+      "source": "TechCrunch AI",
+      "published": "2026-10-30T13:54:25+00:00",
+      "retrieved_at": "2026-10-30T13:57:20.761286+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "DoorDash said that it is open to working with third-party agent makers",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7dc612e49e4d129b4ffe25af"
+    },
     {
       "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
       "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8272218e03d2af021b94bd1e"
-    },
-    {
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "source": "OpenAI",
-      "published": "2026-10-21T13:00:00+00:00",
-      "retrieved_at": "2026-10-21T14:03:50.080001+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "81f1319301255b26906a5756"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T13:52:26.858027+00:00",
+    "checked_at": "2026-10-30T13:57:20.123873+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
