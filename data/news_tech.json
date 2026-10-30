@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-30T17:55:11.630649+00:00",
+  "updated": "2026-10-30T18:00:05.638368+00:00",
   "items": [
+    {
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "source": "Hugging Face",
+      "published": "2026-10-30T17:57:24+00:00",
+      "retrieved_at": "2026-10-30T17:59:59.890784+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "67309aeeae864f160a8e54b2"
+    },
     {
       "title": "Zest’s new AI agent finds restaurants and books reservations over text",
       "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f8a014a79cde6386fe3e820c"
-    },
-    {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "url": "https://openai.com/index/att-legal",
-      "source": "OpenAI",
-      "published": "2026-10-21T17:00:00+00:00",
-      "retrieved_at": "2026-10-21T18:19:50.461400+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "ec33a738710c6fe219b71fa0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T17:55:05.940013+00:00",
+    "checked_at": "2026-10-30T17:59:59.265076+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
