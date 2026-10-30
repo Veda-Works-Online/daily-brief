@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T06:51:05.314298+00:00",
+  "updated": "2026-10-30T07:01:14.901740+00:00",
   "items": [
     {
       "title": "US midterms: 4 days to go – What the polls say as Trump cancels two rallies",
@@ -176,6 +176,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2795f298165a89a5129c2257"
+    },
+    {
+      "title": "Student-backed election winners demand sweeping resignations in Serbia",
+      "url": "https://bbc.co.uk/news/articles/cmx2dwzp0z0vo",
+      "source": "BBC World",
+      "published": "2026-10-30T00:17:28+00:00",
+      "retrieved_at": "2026-10-30T07:01:08.550816+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "96bfa8acb2f6462ab1c4d7f5"
     },
     {
       "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7521f46a54e5f70e26fa77a6"
-    },
-    {
-      "title": "Huge explosion at a weapons depot in Syria",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/26/huge-explosion-at-a-weapons-depot-in-syria",
-      "source": "Al Jazeera",
-      "published": "2026-10-26T20:41:33+00:00",
-      "retrieved_at": "2026-10-26T21:01:06.795715+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Huge explosion at a weapons depot in Syria",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dd916b6378276532fc81c6e5"
     }
   ],
   "unverified_history": [
