@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-30T02:50:23.753988+00:00",
+  "updated": "2026-10-30T03:20:35.066894+00:00",
   "items": [
+    {
+      "title": "Flash floods kill five in Syria",
+      "url": "https://aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T03:11:55+00:00",
+      "retrieved_at": "2026-10-30T03:20:31.595050+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Four children drowned while a man died after his car was caught in floodwaters.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "287e915a51fb34dc2657c0b1"
+    },
     {
       "title": "Husband of one of Modi’s closest advisors questions election integrity",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/30/husband-of-one-of-modis-closest-advisors-questions-election-integrity",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "49bbaaddcc1e0afdb2c1799d"
-    },
-    {
-      "title": "Trump faces private citizens lawsuit over limiting White House media access",
-      "url": "https://aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access",
-      "source": "Al Jazeera",
-      "published": "2026-10-26T18:29:26+00:00",
-      "retrieved_at": "2026-10-26T19:00:25.244728+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The plaintiffs argue they are losing access to vital information media outlets covering Trump used to provide.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4b7dba304dfd251f8814e80b"
     }
   ],
   "unverified_history": [
