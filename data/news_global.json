@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T20:46:26.587740+00:00",
+  "updated": "2026-10-30T21:11:19.650722+00:00",
   "items": [
     {
       "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
@@ -16,6 +16,38 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2d563a885b4bb1d0e2279790"
+    },
+    {
+      "title": "US appeals court again rejects Trump bid to set aside California ballots",
+      "url": "https://aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T20:39:50+00:00",
+      "retrieved_at": "2026-10-30T21:11:14.081862+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The 9th Circuit Court called the petition to remove 20,000 ballots from California's vote count unconstitutional.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "73a26a9b74614ba3aa76cb98"
+    },
+    {
+      "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+      "url": "https://aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T20:37:20+00:00",
+      "retrieved_at": "2026-10-30T21:11:14.081882+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a097062cc2935a44612c7440"
     },
     {
       "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8203eea2f1a05f1bb0eed6c4"
-    },
-    {
-      "title": "India-China border face-offs test Modi six years after deadly clash",
-      "url": "https://aljazeera.com/news/2026/10/27/india-china-border-face-offs-test-modi-six-years-after-deadly-clash",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T13:15:32+00:00",
-      "retrieved_at": "2026-10-27T14:53:51.859349+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Despite thaw in India-China ties, border tensions again challenge Modi's strongman image at home.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3fde83184387d56fe812f253"
-    },
-    {
-      "title": "Al Jazeera meets iconic pro-Palestine Japanese activist",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T13:06:28+00:00",
-      "retrieved_at": "2026-10-27T13:18:54.532859+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Japanese activist Yusuke Furusawa speaks to Al Jazeera about why he keeps protesting Israel’s genocidal war on Gaza.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "feac4be7fdf39c95607bd285"
     }
   ],
   "unverified_history": [
