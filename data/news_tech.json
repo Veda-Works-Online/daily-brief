@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-30T21:26:18.237136+00:00",
+  "updated": "2026-10-30T21:31:18.496081+00:00",
   "items": [
+    {
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds",
+      "source": "TechCrunch AI",
+      "published": "2026-10-30T21:26:59+00:00",
+      "retrieved_at": "2026-10-30T21:31:10.170847+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5530a8da0bab924c817b82cf"
+    },
     {
       "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
       "url": "https://wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8bc967225da18fc61c6493f1"
-    },
-    {
-      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity",
-      "source": "Ars Technica AI",
-      "published": "2026-10-21T18:51:42+00:00",
-      "retrieved_at": "2026-10-21T18:54:43.224690+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8ea3d15ac445491ca261392c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T21:26:09.885239+00:00",
+    "checked_at": "2026-10-30T21:31:09.437696+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
