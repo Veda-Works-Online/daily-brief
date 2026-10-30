@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-30T16:00:19.268868+00:00",
+  "updated": "2026-10-30T16:05:17.537638+00:00",
   "items": [
+    {
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people",
+      "source": "TechCrunch AI",
+      "published": "2026-10-30T16:03:45+00:00",
+      "retrieved_at": "2026-10-30T16:05:11.708409+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d4324900233ed498d91cdbe4"
+    },
     {
       "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
       "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach",
@@ -40,9 +57,9 @@
       "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
       "source": "TechCrunch AI",
       "published": "2026-10-30T13:54:25+00:00",
-      "retrieved_at": "2026-10-30T13:57:20.761286+00:00",
+      "retrieved_at": "2026-10-30T16:05:11.708508+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "DoorDash said that it is open to working with third-party agent makers",
+      "summary": "DoorDash said that it is open to working with third-party agent makers.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "38ae8f285503f04207ebe722"
-    },
-    {
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "source": "Hugging Face",
-      "published": "2026-10-21T14:58:18+00:00",
-      "retrieved_at": "2026-10-21T14:59:45.209844+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "9765c5ea411dc1048aa0398c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T16:00:10.086444+00:00",
+    "checked_at": "2026-10-30T16:05:11.251072+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

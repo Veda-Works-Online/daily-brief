@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-30T15:50:22.666614+00:00",
+  "updated": "2026-10-30T16:05:26.588055+00:00",
   "items": [
+    {
+      "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T15:50:23+00:00",
+      "retrieved_at": "2026-10-30T16:05:20.730551+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israel has announced its final election results, tightened its siege on Hebron, and arrested people returning to Gaza.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f32e7c45b60a0fc75f01f8ba"
+    },
     {
       "title": "Swiss foreign minister talks political ties on rare visit to North Korea",
       "url": "https://aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "abd96f61187f4ee6ede4f1cc"
-    },
-    {
-      "title": "Israelis begin voting as Netanyahu fights for political survival",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/27/israelis-begin-voting-as-netanyahu-fights-for-political-survival",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T08:38:44+00:00",
-      "retrieved_at": "2026-10-27T09:02:41.728360+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israelis vote as Netanyahu faces Gadi Eisenkot amid divisions over the wars in Gaza and Iran and growing isolation.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b68363068365f7d453f2aaf2"
     }
   ],
   "unverified_history": [
