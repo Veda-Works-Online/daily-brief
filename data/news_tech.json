@@ -1,6 +1,40 @@
 {
-  "updated": "2026-10-30T13:57:26.282948+00:00",
+  "updated": "2026-10-30T14:02:31.695005+00:00",
   "items": [
+    {
+      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+      "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach",
+      "source": "TechCrunch",
+      "published": "2026-10-30T14:00:25+00:00",
+      "retrieved_at": "2026-10-30T14:02:26.273041+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "47785afbb04d4b6a598a0c44"
+    },
+    {
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate",
+      "source": "TechCrunch AI",
+      "published": "2026-10-30T14:00:00+00:00",
+      "retrieved_at": "2026-10-30T14:02:25.200835+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7cbb81f59a8064a5fb35e2f1"
+    },
     {
       "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
       "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cad6ad67d7a4d51a7ebc73d6"
-    },
-    {
-      "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
-      "url": "https://wired.com/story/ai-guardrails-arent-stopping-criminal-hackers",
-      "source": "Wired",
-      "published": "2026-10-21T14:00:00+00:00",
-      "retrieved_at": "2026-10-21T14:03:50.409152+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bb058e98443bc98d01ab79fb"
-    },
-    {
-      "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
-      "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update",
-      "source": "TechCrunch",
-      "published": "2026-10-21T13:30:00+00:00",
-      "retrieved_at": "2026-10-21T16:29:45.606741+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8272218e03d2af021b94bd1e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T13:57:20.123873+00:00",
+    "checked_at": "2026-10-30T14:02:24.547681+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
