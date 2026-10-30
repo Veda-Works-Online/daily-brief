@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T13:57:35.649582+00:00",
+  "updated": "2026-10-30T14:12:36.841081+00:00",
   "items": [
     {
       "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
@@ -160,6 +160,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b7f1cfd4ef5e0d013ad8fee8"
+    },
+    {
+      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
+      "url": "https://bbc.co.uk/news/articles/cmewepdr109do",
+      "source": "BBC World",
+      "published": "2026-10-30T11:23:06+00:00",
+      "retrieved_at": "2026-10-30T14:12:30.517819+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "189bc8c8f09f952049634acc"
     },
     {
       "title": "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d66318d66dabce3b2b77ad70"
-    },
-    {
-      "title": "Could US midterms reshape Pakistan’s relationship with Washington?",
-      "url": "https://aljazeera.com/news/2026/10/27/could-us-midterms-reshape-pakistans-relationship-with-washington",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T05:47:36+00:00",
-      "retrieved_at": "2026-10-27T06:26:45.005158+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Pakistan has gained diplomatic visibility under Trump, but analysts question how much the relationship has delivered.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e0f2b098912a96e19f1b5bc9"
     }
   ],
   "unverified_history": [
