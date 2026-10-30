@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T15:00:37.487018+00:00",
+  "updated": "2026-10-30T15:05:25.709136+00:00",
   "items": [
     {
       "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
@@ -48,6 +48,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "37c98184fc6f01462be2f22f"
+    },
+    {
+      "title": "Seoul fears being sidelined as US reaches out to North Korea",
+      "url": "https://dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098",
+      "source": "DW",
+      "published": "2026-10-30T14:08:00+00:00",
+      "retrieved_at": "2026-10-30T15:05:20.045040+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "With ties between South Korea and the Trump administration strained, the South Korean government worries that Donald Trump's pursuit of a diplomatic breakthrough with Kim Jong Un may come at Seoul's expense.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f202957e9da84725223621c1"
     },
     {
       "title": "Seoul fears being left out as US reaches out to North Korea",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b94383895da11cb09d11ddb3"
-    },
-    {
-      "title": "Palestine weekly: West Bank under siege as Israelis go to the polls",
-      "url": "https://aljazeera.com/news/2026/10/27/palestine-weekly-west-bank-under-siege-as-israelis-go-to-the-polls",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T06:28:13+00:00",
-      "retrieved_at": "2026-10-27T06:47:27.820004+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel sealed the West Bank, emptied parts of Hebron and tightened the squeeze on Gaza as its election campaign closed.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "048803783a81385006815e71"
     }
   ],
   "unverified_history": [
