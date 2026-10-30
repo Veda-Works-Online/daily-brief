@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-30T03:50:17.879573+00:00",
+  "updated": "2026-10-30T04:40:06.475441+00:00",
   "items": [
+    {
+      "title": "‘You look like hell’, Trump lashes out at reporter in tarmac tirade",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/30/you-look-like-hell-trump-lashes-out-at-reporter-in-tarmac-tirade",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T04:31:16+00:00",
+      "retrieved_at": "2026-10-30T04:40:02.868484+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US President Donald Trump has lashed out at a reporter’s appearance.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a682c9d9a68fd9d0f38a3577"
+    },
     {
       "title": "Why are Detroit gas stations selling discounted fuel in Trump’s name?",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/30/why-are-detroit-gas-stations-selling-discounted-fuel-in-trumps-name",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "73a1834e3c1400cc68e0c780"
-    },
-    {
-      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-      "url": "https://bbc.co.uk/news/articles/ck78px6glw3lo",
-      "source": "BBC World",
-      "published": "2026-10-26T19:27:21+00:00",
-      "retrieved_at": "2026-10-26T19:30:31.074373+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "05fd6bb8b400efaf0fd43f9b"
     }
   ],
   "unverified_history": [
