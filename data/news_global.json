@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T13:42:36.888356+00:00",
+  "updated": "2026-10-30T13:47:39.135361+00:00",
   "items": [
     {
       "title": "Ukraine invests in firepower as it inflicts a new Russian casualty record",
@@ -240,6 +240,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9400dea3f4edbfa985bc0bfc"
+    },
+    {
+      "title": "Can the US Defense Industry Keep Pace with China’s Military Machine?",
+      "url": "https://thediplomat.com/2026/10/can-the-u-s-defense-industry-keep-pace-with-chinas-military-machine",
+      "source": "The Diplomat",
+      "published": "2026-10-30T08:39:00+00:00",
+      "retrieved_at": "2026-10-30T13:47:32.711555+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "A quarterly index offers a way to find out.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c417dd03f1b9682aa779a664"
     },
     {
       "title": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3a757d5818beff15c99d0875"
-    },
-    {
-      "title": "Saudi-led coalition says it downed Houthi missiles, drones aimed at kingdom",
-      "url": "https://aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T04:54:26+00:00",
-      "retrieved_at": "2026-10-27T07:32:28.110603+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The attacks come as top officials from Saudi Arabia, Turkiye, Pakistan and Iran meet in Tehran to de-escalate conflict.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b7b73320e8d3962cc80191d7"
     }
   ],
   "unverified_history": [
