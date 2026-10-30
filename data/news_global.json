@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-30T22:16:17.653676+00:00",
+  "updated": "2026-10-30T22:26:26.407672+00:00",
   "items": [
+    {
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "url": "https://bbc.co.uk/news/articles/c3vgxznlx7jzo",
+      "source": "BBC World",
+      "published": "2026-10-30T22:20:52+00:00",
+      "retrieved_at": "2026-10-30T22:26:21.099276+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e2256ea5f1af4e236a77e30a"
+    },
     {
       "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
       "url": "https://bbc.co.uk/news/articles/cmd6dp2y576do",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6f9b4428ad870352c5c52a0c"
-    },
-    {
-      "title": "Will a new Israeli leader change the country's Iran strategy? Experts aren't so sure",
-      "url": "https://dw.com/en/will-a-new-israeli-leader-change-the-country-s-iran-strategy-experts-aren-t-so-sure/a-79776122",
-      "source": "DW",
-      "published": "2026-10-27T13:31:00+00:00",
-      "retrieved_at": "2026-10-27T16:44:38.371113+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "As Israelis head to the polls, the country's conflict with Iran casts a long shadow over the ballot box. But any leadership changes in Israel may not be enough to shake up its grand strategy on Tehran.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1d709d05dd0044ab31961aae"
     }
   ],
   "unverified_history": [
