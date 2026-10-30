@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-30T12:57:38.864716+00:00",
+  "updated": "2026-10-30T13:02:34.816876+00:00",
   "items": [
+    {
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
+      "source": "TechCrunch AI",
+      "published": "2026-10-30T13:00:00+00:00",
+      "retrieved_at": "2026-10-30T13:02:29.335556+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a2d699866faa53226ecd6cdb"
+    },
     {
       "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
       "url": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f3049a13bf4884ae2f53e198"
-    },
-    {
-      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "source": "Hugging Face",
-      "published": "2026-10-21T12:51:24+00:00",
-      "retrieved_at": "2026-10-21T12:53:46.734217+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "47b44768885178bd77bf44e4"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T12:57:32.839647+00:00",
+    "checked_at": "2026-10-30T13:02:28.738629+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

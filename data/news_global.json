@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T12:52:52.818065+00:00",
+  "updated": "2026-10-30T13:02:43.997783+00:00",
   "items": [
     {
       "title": "Qatari officials in Iran in bid to revive ceasefire deal with US",
@@ -64,6 +64,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cc48efc649a676ce3164c448"
+    },
+    {
+      "title": "Germany takes cautious approach on Israeli election results",
+      "url": "https://dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184",
+      "source": "DW",
+      "published": "2026-10-30T11:26:00+00:00",
+      "retrieved_at": "2026-10-30T13:02:38.209302+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "German politicians have been slow to respond as they wait to see who is likely to comprise the next coalition. Many are also hoping for a government without religious hardliners.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b7f1cfd4ef5e0d013ad8fee8"
     },
     {
       "title": "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "339de76d38702e94456ed54c"
-    },
-    {
-      "title": "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
-      "url": "https://aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T02:29:00+00:00",
-      "retrieved_at": "2026-10-27T02:46:57.710372+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The localised ceasefire, secured by US First Lady Melania Trump, will allow evacuations and aid deliveries to Oleshky.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d0b12ba480d557c21873b1d4"
     }
   ],
   "unverified_history": [
