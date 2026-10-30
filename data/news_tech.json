@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T18:15:15.347239+00:00",
+  "updated": "2026-10-30T18:20:18.383842+00:00",
   "items": [
     {
       "title": "nemotron-halloween",
@@ -221,6 +221,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c67eb4404b3b3b4024126685"
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI",
+      "published": "2026-10-30T09:30:00+00:00",
+      "retrieved_at": "2026-10-30T18:20:13.904992+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "619fe30e8ba3f1862c7b291c"
     },
     {
       "title": "Community safety report and new protections for teens",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "269a23f83b9a46fffc9260a9"
-    },
-    {
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c",
-      "source": "TechCrunch",
-      "published": "2026-10-21T17:18:27+00:00",
-      "retrieved_at": "2026-10-21T17:19:37.259876+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f8a014a79cde6386fe3e820c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T18:15:06.600622+00:00",
+    "checked_at": "2026-10-30T18:20:12.823462+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
