@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-30T07:26:27.569767+00:00",
+  "updated": "2026-10-30T07:46:14.040462+00:00",
   "items": [
+    {
+      "title": "Philippines raises alert as Mayon Volcano erupts",
+      "url": "https://aljazeera.com/video/newsfeed/2026/10/30/philippines-raises-alert-as-mayon-volcano-erupts",
+      "source": "Al Jazeera",
+      "published": "2026-10-30T07:37:38+00:00",
+      "retrieved_at": "2026-10-30T07:46:07.686221+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The Philippines’ Mayon Volcano has erupted, sending ash plumes 3,000 metres above its summit.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "26d6fe2b388e15e73c548836"
+    },
     {
       "title": "AI’s real bottleneck is electricity. Who will pay for it?",
       "url": "https://aljazeera.com/opinions/2026/10/30/ais-real-bottleneck-is-electricity-who-will-pay-for-it",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "99565d33939faa43f972c8bc"
-    },
-    {
-      "title": "Myanmar Using Fake Paperwork to Conceal Shipments of Iranian Jet Fuel, Reports Claim",
-      "url": "https://thediplomat.com/2026/10/myanmar-using-fake-paperwork-to-conceal-shipments-of-iranian-jet-fuel-reports-claim",
-      "source": "The Diplomat",
-      "published": "2026-10-26T22:27:00+00:00",
-      "retrieved_at": "2026-10-27T13:48:50.271840+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Over the past few years, the country’s military has received hundreds of thousands of barrels of aviation fuel from Iran’s large tanker “shadow fleet.”",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "607df01f3ae845d4103a77c7"
     }
   ],
   "unverified_history": [
