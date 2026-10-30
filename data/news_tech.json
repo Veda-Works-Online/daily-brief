@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-30T21:21:16.145331+00:00",
+  "updated": "2026-10-30T21:26:18.237136+00:00",
   "items": [
+    {
+      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+      "url": "https://wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon",
+      "source": "Wired",
+      "published": "2026-10-30T21:19:26+00:00",
+      "retrieved_at": "2026-10-30T21:26:11.504765+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "This week on “Uncanny Valley,” we discuss the contractor who plugged their AI agent into a Pentagon system, Anthropic’s IPO filing, and the volunteers gearing up to counter ICE at the midterms.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b74d3c8dd28e65fdc216a46d"
+    },
     {
       "title": "Cracks are emerging in the AI spending boom",
       "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8ea3d15ac445491ca261392c"
-    },
-    {
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "source": "Hugging Face",
-      "published": "2026-10-21T18:26:30+00:00",
-      "retrieved_at": "2026-10-21T18:29:48.787739+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "d3eb659a0fc61c984ad5d9e7"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T21:21:10.854689+00:00",
+    "checked_at": "2026-10-30T21:26:09.885239+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
