@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-30T16:05:26.588055+00:00",
+  "updated": "2026-10-30T16:30:25.733099+00:00",
   "items": [
+    {
+      "title": "Ceasefire allows evacuation from devastated Russian-occupied Oleshky",
+      "url": "https://bbc.co.uk/news/articles/c60me298k1yeo",
+      "source": "BBC World",
+      "published": "2026-10-30T16:26:11+00:00",
+      "retrieved_at": "2026-10-30T16:30:19.686322+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "But several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bdd4b68eb9f7b93e420e299c"
+    },
     {
       "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8921584460b8a08f382e7632"
-    },
-    {
-      "title": "Israel election results 2026: When will we know who won and what’s next?",
-      "url": "https://aljazeera.com/news/2026/10/27/israel-election-results-2026-when-will-we-know-who-won-and-whats-next",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T09:22:45+00:00",
-      "retrieved_at": "2026-10-27T09:37:38.723631+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Exit polls are expected soon after voting closes late on Tuesday, but a final verdict might take days.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "abd96f61187f4ee6ede4f1cc"
     }
   ],
   "unverified_history": [
