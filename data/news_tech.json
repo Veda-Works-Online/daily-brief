@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T16:45:16.414673+00:00",
+  "updated": "2026-10-30T16:50:25.196852+00:00",
   "items": [
     {
       "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
@@ -136,6 +136,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c67eb4404b3b3b4024126685"
+    },
+    {
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "source": "OpenAI",
+      "published": "2026-10-30T09:00:00+00:00",
+      "retrieved_at": "2026-10-30T16:50:20.945731+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "89287d13774ea04f8ccf7385"
     },
     {
       "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
@@ -3045,23 +3062,6 @@
       "story_fingerprint": "da0c92e2ff4b6a7a436d9c79"
     },
     {
-      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-      "url": "https://openai.com/index/anima",
-      "source": "OpenAI",
-      "published": "2026-10-23T00:00:00+00:00",
-      "retrieved_at": "2026-10-27T15:53:44.635857+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "771d7fa28d7c561c7f8facf1"
-    },
-    {
       "title": "Does Your Model Run on AWS Trainium? Look It Up",
       "url": "https://huggingface.co/blog/torch-neuronx-model-support",
       "source": "Hugging Face",
@@ -3077,6 +3077,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "e36d0b8501bf1b8dd3fb4ebf"
+    },
+    {
+      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "url": "https://openai.com/index/anima",
+      "source": "OpenAI",
+      "published": "2026-10-23T00:00:00+00:00",
+      "retrieved_at": "2026-10-27T15:53:44.635857+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "771d7fa28d7c561c7f8facf1"
     },
     {
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0e69e18799baacc447cee747"
-    },
-    {
-      "title": "Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers",
-      "url": "https://wired.com/story/jensen-huangs-vision-for-europe-runs-on-plug-in-data-centers",
-      "source": "Wired",
-      "published": "2026-10-21T15:02:15+00:00",
-      "retrieved_at": "2026-10-21T16:59:48.329600+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "At Nvidia’s GTC in Berlin, Huang unveiled the company’s new plug-in data center—the DSX Pod—as the key to unlocking Europe’s AI infrastructure lag. Oh, and autonomous humanoid robotics.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "38ae8f285503f04207ebe722"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-30T16:45:09.285696+00:00",
+    "checked_at": "2026-10-30T16:50:19.880854+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
