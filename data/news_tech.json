@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-31T21:34:31.747466+00:00",
+  "updated": "2026-10-31T21:39:30.891303+00:00",
   "items": [
+    {
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
+      "source": "TechCrunch AI",
+      "published": "2026-10-31T21:36:07+00:00",
+      "retrieved_at": "2026-10-31T21:39:26.345833+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f4a32b1355bc5942fcbb8dfa"
+    },
     {
       "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
       "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "c6383f132f74a1f605ca862c"
-    },
-    {
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
-      "source": "TechCrunch AI",
-      "published": "2026-10-21T22:51:22+00:00",
-      "retrieved_at": "2026-10-21T22:55:33.232904+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e9f4e5b08002d0c24f1c385c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-31T21:34:23.898719+00:00",
+    "checked_at": "2026-10-31T21:39:25.939318+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
