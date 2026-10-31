@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-31T11:53:51.066858+00:00",
+  "updated": "2026-10-31T12:08:49.610103+00:00",
   "items": [
+    {
+      "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+      "url": "https://bbc.co.uk/news/articles/cqx2818elrnzo",
+      "source": "BBC World",
+      "published": "2026-10-31T12:05:04+00:00",
+      "retrieved_at": "2026-10-31T12:08:43.585297+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9ac66617473c8a5e3adaeb11"
+    },
     {
       "title": "UN closes Somalia mission, ending three decades of political engagement",
       "url": "https://aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement",
@@ -16,22 +32,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0c52ff901be8f0ef5aa8ff1c"
-    },
-    {
-      "title": "Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus",
-      "url": "https://bbc.co.uk/news/articles/cqx2818elrnzo",
-      "source": "BBC World",
-      "published": "2026-10-31T11:18:14+00:00",
-      "retrieved_at": "2026-10-31T11:33:44.703276+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Residents were taken out from the devastated city on Friday during a local ceasefire.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e3950ae07543940c0b6d5a56"
     },
     {
       "title": "Thousands protest across Italy over living costs and military spending",
