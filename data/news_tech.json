@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-31T11:58:46.960266+00:00",
+  "updated": "2026-10-31T12:03:41.241897+00:00",
   "items": [
+    {
+      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "url": "https://wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware",
+      "source": "Wired",
+      "published": "2026-10-31T12:00:00+00:00",
+      "retrieved_at": "2026-10-31T12:03:36.987476+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "26108e328083a594facb6377"
+    },
     {
       "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
       "url": "https://wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "759720332fc7af5bcbe5f3de"
-    },
-    {
-      "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
-      "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades",
-      "source": "Ars Technica",
-      "published": "2026-10-21T21:48:52+00:00",
-      "retrieved_at": "2026-10-21T22:20:34.721005+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4d3beb3c3e95bfca59227871"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-31T11:58:38.219635+00:00",
+    "checked_at": "2026-10-31T12:03:35.131045+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
