@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-31T11:48:50.463654+00:00",
+  "updated": "2026-10-31T11:53:51.066858+00:00",
   "items": [
+    {
+      "title": "UN closes Somalia mission, ending three decades of political engagement",
+      "url": "https://aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T11:37:21+00:00",
+      "retrieved_at": "2026-10-31T11:53:44.986876+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Somalia hails the UN mission's closure as a milestone amid political tensions and cuts to international support.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0c52ff901be8f0ef5aa8ff1c"
+    },
     {
       "title": "Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus",
       "url": "https://bbc.co.uk/news/articles/cqx2818elrnzo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c0426aa4cbc40cd012b0ef66"
-    },
-    {
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "url": "https://bbc.co.uk/news/articles/c6lye1w9p2l8o",
-      "source": "BBC World",
-      "published": "2026-10-27T20:19:53+00:00",
-      "retrieved_at": "2026-10-27T20:29:24.797493+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0479d700d0a4cbbd3433ef13"
     }
   ],
   "unverified_history": [
