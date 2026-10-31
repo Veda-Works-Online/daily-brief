@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T13:13:48.456117+00:00",
+  "updated": "2026-10-31T13:28:53.831736+00:00",
   "items": [
     {
       "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cd6686e4d898d0554437458c"
+    },
+    {
+      "title": "On the Norway-Russia border, the Sámi people face a growing divide",
+      "url": "https://aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T12:58:28+00:00",
+      "retrieved_at": "2026-10-31T13:28:47.303565+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "As Russia’s war in Ukraine reshapes this Arctic frontier, Sámi communities struggle to sustain cross-border traditions.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "79ecea2a0f07dee62fc7daaa"
     },
     {
       "title": "Studios destroyed, traditions saved: Artists fight to save Sudan’s culture",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "221493ecf6deda65452c24ee"
-    },
-    {
-      "title": "Forever Wars: Why can’t America stop?",
-      "url": "https://aljazeera.com/video/lets-focus/2026/10/27/forever-wars-why-cant-america-stop",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T21:21:08+00:00",
-      "retrieved_at": "2026-10-27T21:29:27.007712+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran, Iraq, Afghanistan. Why does the US keep going to war, and can voters stop it?",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d2089f79d28f96f711718b19"
     }
   ],
   "unverified_history": [
