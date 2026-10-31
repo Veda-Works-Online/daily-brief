@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-31T17:54:12.591880+00:00",
+  "updated": "2026-10-31T18:04:12.831754+00:00",
   "items": [
+    {
+      "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+      "url": "https://aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T17:49:23+00:00",
+      "retrieved_at": "2026-10-31T18:04:06.900619+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7755ba1a09c8fcd24e0b75a4"
+    },
     {
       "title": "Michigan Muslims helped elect Trump. Now their faith is under fire",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/31/michigan-muslims-helped-elect-trump-now-their-faith-is-under-fire",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "048662d0119e6ef3ee287db6"
-    },
-    {
-      "title": "China's families are now supporting more old people than kids",
-      "url": "https://bbc.co.uk/news/articles/cr20wzwyzl1qo",
-      "source": "BBC World",
-      "published": "2026-10-27T23:16:08+00:00",
-      "retrieved_at": "2026-10-28T08:46:58.986276+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "825547429e2d1a791dedb692"
     }
   ],
   "unverified_history": [
