@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-31T05:37:37.781499+00:00",
+  "updated": "2026-10-31T05:47:38.539176+00:00",
   "items": [
+    {
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "url": "https://bbc.co.uk/news/articles/cmeweppr990qo",
+      "source": "BBC World",
+      "published": "2026-10-31T05:44:21+00:00",
+      "retrieved_at": "2026-10-31T05:47:32.778051+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "294c4e58651c4387edde83db"
+    },
     {
       "title": "Mohammed Deif, rare footage and October 7 documents",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/31/mohammed-deif-rare-footage-and-october-7-documents",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "99080189e56fb2865b8087cc"
-    },
-    {
-      "title": "West warns of famine risk in Sudan as civil war grinds on",
-      "url": "https://bbc.co.uk/news/articles/cj5ynkk6v3pzo",
-      "source": "BBC World",
-      "published": "2026-10-27T15:41:46+00:00",
-      "retrieved_at": "2026-10-27T16:24:04.219507+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "eb072a4d446372b05037ca7c"
     }
   ],
   "unverified_history": [
