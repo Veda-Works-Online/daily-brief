@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-31T11:23:52.165180+00:00",
+  "updated": "2026-10-31T11:33:50.808673+00:00",
   "items": [
+    {
+      "title": "Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus",
+      "url": "https://bbc.co.uk/news/articles/cqx2818elrnzo",
+      "source": "BBC World",
+      "published": "2026-10-31T11:18:14+00:00",
+      "retrieved_at": "2026-10-31T11:33:44.703276+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Residents were taken out from the devastated city on Friday during a local ceasefire.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e3950ae07543940c0b6d5a56"
+    },
     {
       "title": "Thousands protest across Italy over living costs and military spending",
       "url": "https://aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0479d700d0a4cbbd3433ef13"
-    },
-    {
-      "title": "Exit polls signal blow for Netanyahu but no clear winner in Israel election",
-      "url": "https://aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T20:18:18+00:00",
-      "retrieved_at": "2026-10-27T23:00:37.759067+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel's first election since October 7 appears deadlocked, with neither Netanyahu nor Eisenkot on track for a majority.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "efbb392be905de2252584e0e"
     }
   ],
   "unverified_history": [
