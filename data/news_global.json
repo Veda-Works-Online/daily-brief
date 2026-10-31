@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-31T18:04:12.831754+00:00",
+  "updated": "2026-10-31T18:39:13.055750+00:00",
   "items": [
+    {
+      "title": "Tension and clashes as hundreds of thousands protest again in France",
+      "url": "https://aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T18:28:14+00:00",
+      "retrieved_at": "2026-10-31T18:39:07.319302+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Authorities say 320,000 march on third consecutive weekend of demonstrations over cost of living and state of schools.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "92079c6cbe741b0ba7d3fe23"
+    },
     {
       "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
       "url": "https://aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6305b7ee5788857397fb857b"
-    },
-    {
-      "title": "A bad day for Ben-Gvir as he addresses his supporters",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T23:16:38+00:00",
-      "retrieved_at": "2026-10-27T23:30:31.751441+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "048662d0119e6ef3ee287db6"
     }
   ],
   "unverified_history": [
