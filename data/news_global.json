@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T14:38:51.862932+00:00",
+  "updated": "2026-10-31T14:43:47.144611+00:00",
   "items": [
     {
       "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
@@ -256,6 +256,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7acc5c2626670bccb3de5e89"
+    },
+    {
+      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
+      "url": "https://bbc.co.uk/news/videos/cw4g1vlj4v2jo",
+      "source": "BBC World",
+      "published": "2026-10-31T09:16:14+00:00",
+      "retrieved_at": "2026-10-31T14:43:41.254284+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "542d3cd6594b1c097b2b4f30"
     },
     {
       "title": "A UN protection force must be urgently deployed to Palestine",
@@ -576,6 +592,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5841a7890b2642039736fa17"
+    },
+    {
+      "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+      "url": "https://bbc.co.uk/news/videos/cmp3gp2vg078o",
+      "source": "BBC World",
+      "published": "2026-10-30T23:19:17+00:00",
+      "retrieved_at": "2026-10-31T14:43:41.254298+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "740f65129fc188f1768c2a42"
     },
     {
       "title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "106e8a9ac53101e159682056"
-    },
-    {
-      "title": "‘Go home, Ben-Gvir’; Arab Bloc celebrates record turnout in Israel election",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T22:31:31+00:00",
-      "retrieved_at": "2026-10-27T23:00:37.758887+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel’s Joint Arab List party celebrated as exit polls projected as many as 18 parliamentary seats for the Arab-bloc.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1ead111b95418717cb8bf491"
-    },
-    {
-      "title": "Iran war live: Pezeshkian says Middle East can solve own issues without US",
-      "url": "https://aljazeera.com/news/liveblog/2026/10/27/iran-war-live-pezeshkian-says-middle-east-can-solve-own-issues-without-us",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T22:29:31+00:00",
-      "retrieved_at": "2026-10-27T23:00:37.758917+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iranian president's words came at summit for gas exporting countries in Russia.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "59417039cb7da70dbd3aef32"
     }
   ],
   "unverified_history": [
