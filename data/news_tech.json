@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-31T15:39:05.653064+00:00",
+  "updated": "2026-10-31T15:44:05.928708+00:00",
   "items": [
+    {
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app",
+      "source": "TechCrunch",
+      "published": "2026-10-31T15:41:57+00:00",
+      "retrieved_at": "2026-10-31T15:44:01.768724+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ab3b7e0a160b7721d3d1cdf0"
+    },
     {
       "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
       "url": "https://wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "114d97fbb0fe93226deaee03"
-    },
-    {
-      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
-      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts",
-      "source": "TechCrunch",
-      "published": "2026-10-21T22:16:05+00:00",
-      "retrieved_at": "2026-10-21T22:20:34.605443+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "759720332fc7af5bcbe5f3de"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-31T15:39:00.242618+00:00",
+    "checked_at": "2026-10-31T15:44:00.534500+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
