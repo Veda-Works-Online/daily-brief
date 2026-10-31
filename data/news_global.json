@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T04:11:49.750215+00:00",
+  "updated": "2026-10-31T04:36:48.595335+00:00",
   "items": [
     {
       "title": "Iran says four tankers on fire after striking mines in Hormuz",
@@ -48,6 +48,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "62992c00b7b3f08fb3eb966b"
+    },
+    {
+      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "url": "https://bbc.co.uk/news/articles/cmly016ep243o",
+      "source": "BBC World",
+      "published": "2026-10-31T02:39:25+00:00",
+      "retrieved_at": "2026-10-31T04:36:42.621534+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b71de6e0cc9ad69d6b7c6f98"
     },
     {
       "title": "Poland’s president joins protest amid constitutional crisis at top court",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "48a0bb62a8fb8a175b75f3b7"
-    },
-    {
-      "title": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
-      "url": "https://aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T15:08:59+00:00",
-      "retrieved_at": "2026-10-27T15:38:54.557154+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The Iran war and Trump's criticisms of allies have led Asia-Pacific countries to recalibrate their calculations.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "70e803eb55e8111bc12cb7a0"
     }
   ],
   "unverified_history": [
