@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-31T12:58:57.783674+00:00",
+  "updated": "2026-10-31T13:13:48.456117+00:00",
   "items": [
+    {
+      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+      "url": "https://bbc.co.uk/news/articles/cqx2818elrnzo",
+      "source": "BBC World",
+      "published": "2026-10-31T13:12:46+00:00",
+      "retrieved_at": "2026-10-31T13:13:42.300479+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cd6686e4d898d0554437458c"
+    },
     {
       "title": "Studios destroyed, traditions saved: Artists fight to save Sudan’s culture",
       "url": "https://aljazeera.com/features/2026/10/31/studios-destroyed-traditions-saved-artists-fight-to-save-sudans-culture",
@@ -48,22 +64,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b05e882f672da833f65bbc2c"
-    },
-    {
-      "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
-      "url": "https://bbc.co.uk/news/articles/cqx2818elrnzo",
-      "source": "BBC World",
-      "published": "2026-10-31T12:05:04+00:00",
-      "retrieved_at": "2026-10-31T12:08:43.585297+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9ac66617473c8a5e3adaeb11"
     },
     {
       "title": "UN closes Somalia mission, ending three decades of political engagement",
