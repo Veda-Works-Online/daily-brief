@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-31T14:43:47.144611+00:00",
+  "updated": "2026-10-31T15:54:20.849280+00:00",
   "items": [
+    {
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "url": "https://bbc.co.uk/news/articles/cqx2818elrnzo",
+      "source": "BBC World",
+      "published": "2026-10-31T15:50:41+00:00",
+      "retrieved_at": "2026-10-31T15:54:14.782611+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Many residents left Oleshky on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f2c3201d1110c246ce538039"
+    },
     {
       "title": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
       "url": "https://aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks",
@@ -48,22 +64,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f613da0b62ec8b0dc6b076d7"
-    },
-    {
-      "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
-      "url": "https://bbc.co.uk/news/articles/cqx2818elrnzo",
-      "source": "BBC World",
-      "published": "2026-10-31T13:12:46+00:00",
-      "retrieved_at": "2026-10-31T13:13:42.300479+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cd6686e4d898d0554437458c"
     },
     {
       "title": "On the Norway-Russia border, the Sámi people face a growing divide",
