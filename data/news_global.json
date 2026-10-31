@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T19:39:13.275597+00:00",
+  "updated": "2026-10-31T19:49:12.327772+00:00",
   "items": [
     {
       "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
@@ -1424,6 +1424,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8ac56f3f8c2e4a44ee48c1b9"
+    },
+    {
+      "title": "What's at stake for Trump in the US midterms?",
+      "url": "https://bbc.co.uk/news/videos/cq77pm2jmmd5o",
+      "source": "BBC World",
+      "published": "2026-10-30T10:19:48+00:00",
+      "retrieved_at": "2026-10-31T19:49:06.583488+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Anthony Zurcher explains how the results of the midterm elections could reshape the rest of Trump's presidency.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "33216b8cc4601d2e3cf5c79a"
     },
     {
       "title": "What can a global strike of dockworkers achieve for Gaza?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7e0cdcf2ebf88f4aac399a2d"
-    },
-    {
-      "title": "Israel’s Eisenkot says country voted for change",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T00:30:22+00:00",
-      "retrieved_at": "2026-10-28T00:45:34.156376+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israeli opposition leader Gadi Eisenkot says millions of Israelis voted for change, tired of Netanyahu’s ‘lies’.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f3c5d3ec8fc58db5c547f399"
     }
   ],
   "unverified_history": [
