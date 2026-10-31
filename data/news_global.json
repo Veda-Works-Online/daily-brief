@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-31T00:36:57.465600+00:00",
+  "updated": "2026-10-31T01:51:53.512417+00:00",
   "items": [
+    {
+      "title": "Pope Leo becomes first pontiff to vote in US general election",
+      "url": "https://aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T01:31:44+00:00",
+      "retrieved_at": "2026-10-31T01:51:47.669115+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Vatican confirms the pope submitted a mail-in ballot in his native Chicago ahead of November 3 midterm elections",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a098d1a2ebe1b1f96639d550"
+    },
     {
       "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
       "url": "https://bbc.co.uk/news/articles/cmwyq2gg1yzzo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b3e0a40293ae33737509630c"
-    },
-    {
-      "title": "Lebanon’s lost olive season: harvesting olives under drones and warplanes",
-      "url": "https://aljazeera.com/features/2026/10/27/lebanons-lost-olive-season-harvesting-olives-under-drones-and-warplanes",
-      "source": "Al Jazeera",
-      "published": "2026-10-27T13:54:43+00:00",
-      "retrieved_at": "2026-10-27T14:18:50.884390+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Lebanon's olive harvesters are facing dangerous conditions, with potential attacks and fear of cluster munitions.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "638b7c5ab7776da944494af1"
     }
   ],
   "unverified_history": [
