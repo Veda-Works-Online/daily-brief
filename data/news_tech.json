@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-31T09:32:28.202242+00:00",
+  "updated": "2026-10-31T09:37:29.755050+00:00",
   "items": [
+    {
+      "title": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
+      "url": "https://wired.com/review/keurig-alta-brewer",
+      "source": "Wired",
+      "published": "2026-10-31T09:35:00+00:00",
+      "retrieved_at": "2026-10-31T09:37:25.553244+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "This multifaceted home coffee brewer and its new AltaRounds will make you rethink everything you know about Keurig machines.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ef33f100dae523a3aa3caab1"
+    },
     {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "30c8b13b5f82f96a057f0700"
-    },
-    {
-      "title": "Broad access through consistent standards",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "source": "OpenAI",
-      "published": "2026-10-21T21:00:00+00:00",
-      "retrieved_at": "2026-10-21T22:05:36.295477+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "831fe1672e46b5b227e239fa"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-31T09:32:22.789894+00:00",
+    "checked_at": "2026-10-31T09:37:24.290882+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
