@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-31T01:16:43.599269+00:00",
+  "updated": "2026-10-31T01:21:48.084433+00:00",
   "items": [
+    {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+      "source": "TechCrunch AI",
+      "published": "2026-10-31T01:20:05+00:00",
+      "retrieved_at": "2026-10-31T01:21:43.100002+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fbe42c6e09b11849f3448301"
+    },
     {
       "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
       "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "831fe1672e46b5b227e239fa"
-    },
-    {
-      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation",
-      "source": "TechCrunch",
-      "published": "2026-10-21T20:57:40+00:00",
-      "retrieved_at": "2026-10-22T01:21:05.596965+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "42aa89dd8942f7b90134b002"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-31T01:16:38.157301+00:00",
+    "checked_at": "2026-10-31T01:21:42.573681+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
