@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-31T16:09:08.535651+00:00",
+  "updated": "2026-10-31T16:14:05.339722+00:00",
   "items": [
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
+      "source": "TechCrunch AI",
+      "published": "2026-10-31T16:12:55+00:00",
+      "retrieved_at": "2026-10-31T16:14:00.352278+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5414cb0d20ff791f53784f75"
+    },
     {
       "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
       "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a0a6628a1d4708eb75cf5894"
-    },
-    {
-      "title": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
-      "url": "https://wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure",
-      "source": "Wired",
-      "published": "2026-10-21T22:39:50+00:00",
-      "retrieved_at": "2026-10-21T22:45:38.050977+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "114d97fbb0fe93226deaee03"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-10-31T16:09:00.015318+00:00",
+    "checked_at": "2026-10-31T16:13:59.942543+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
