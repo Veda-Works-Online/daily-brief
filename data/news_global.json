@@ -1,6 +1,22 @@
 {
-  "updated": "2026-10-31T18:39:13.055750+00:00",
+  "updated": "2026-10-31T18:59:13.327564+00:00",
   "items": [
+    {
+      "title": "London police arrest 48 as hundreds protest Palestine Action ban",
+      "url": "https://aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban",
+      "source": "Al Jazeera",
+      "published": "2026-10-31T18:48:29+00:00",
+      "retrieved_at": "2026-10-31T18:59:07.441401+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Demonstrations in London and Edinburgh come days before a UK Supreme Court appeal challenging the group's proscription.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5947d8a4bee7b486858997d7"
+    },
     {
       "title": "Tension and clashes as hundreds of thousands protest again in France",
       "url": "https://aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0ad68231ac8d7d060c50877a"
-    },
-    {
-      "title": "Watch: What happens now after close vote in Israeli election?",
-      "url": "https://bbc.co.uk/news/videos/cm79p5pxqey2o",
-      "source": "BBC World",
-      "published": "2026-10-28T00:04:29+00:00",
-      "retrieved_at": "2026-10-28T00:15:30.959598+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Polls have closed in the Israeli election, but there is no clear winner.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6305b7ee5788857397fb857b"
     }
   ],
   "unverified_history": [
