@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-01T13:47:38.592371+00:00",
+  "updated": "2026-11-01T14:22:37.542346+00:00",
   "items": [
+    {
+      "title": "Israeli attacks on Gaza kill at least nine people",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T14:10:59+00:00",
+      "retrieved_at": "2026-11-01T14:22:31.458034+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e41e58ad6ee27580c74b1db2"
+    },
     {
       "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
       "url": "https://aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8b5d4c0c49e6a3e8498900b7"
-    },
-    {
-      "title": "Israel's election result is messy - here's why",
-      "url": "https://bbc.co.uk/news/videos/c893zeknlvnno",
-      "source": "BBC World",
-      "published": "2026-10-28T14:26:24+00:00",
-      "retrieved_at": "2026-10-28T14:28:22.939103+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2d87c5721b4fa335deb6da05"
     }
   ],
   "unverified_history": [
