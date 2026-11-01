@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-01T21:54:01.577354+00:00",
+  "updated": "2026-11-01T21:59:03.908854+00:00",
   "items": [
+    {
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
+      "source": "TechCrunch AI",
+      "published": "2026-11-01T21:55:23+00:00",
+      "retrieved_at": "2026-11-01T21:58:59.043844+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6a6f7109c82fa9b7233303d4"
+    },
     {
       "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
       "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d814cab186b2faf6dc5afde2"
-    },
-    {
-      "title": "Claude Duet app is Anthropic’s bet on agents",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents",
-      "source": "TechCrunch AI",
-      "published": "2026-10-22T13:53:26+00:00",
-      "retrieved_at": "2026-10-22T16:13:56.377778+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e07b6686ea8ffe3e3b8362a7"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-01T21:53:55.843132+00:00",
+    "checked_at": "2026-11-01T21:58:58.201977+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
