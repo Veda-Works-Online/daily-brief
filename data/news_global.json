@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-01T13:37:39.409374+00:00",
+  "updated": "2026-11-01T13:47:38.592371+00:00",
   "items": [
+    {
+      "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
+      "url": "https://aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T13:36:16+00:00",
+      "retrieved_at": "2026-11-01T13:47:32.467749+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Four-year-old among eight Palestinians killed in Israeli drone attacks across the Gaza Strip.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9629b972cee7908d5e32900c"
+    },
     {
       "title": "Palestinians in Lebanon suffering worsened by high energy prices, inflation",
       "url": "https://aljazeera.com/features/2026/11/1/palestinians-in-lebanon-suffering-worsened-by-high-energy-prices-inflation",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2d87c5721b4fa335deb6da05"
-    },
-    {
-      "title": "Is Iran headed to war or peace after Mecca alliance meeting?",
-      "url": "https://dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256",
-      "source": "DW",
-      "published": "2026-10-28T14:20:00+00:00",
-      "retrieved_at": "2026-10-28T15:08:24.490994+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Saudi Arabia, Pakistan and Turkey have taken their latest peace push directly to Tehran. Officially, it was to avert a new military escalation, but their diplomatic outreach can also be seen as a warning to Iran.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c1c1d3cae62592e43f1cb704"
     }
   ],
   "unverified_history": [
