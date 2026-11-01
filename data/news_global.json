@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T23:39:07.040769+00:00",
+  "updated": "2026-11-01T23:49:10.173914+00:00",
   "items": [
     {
       "title": "Why governors’ races are important in the 2026 US midterms",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a560c2b07ad93a01840d6f5c"
+    },
+    {
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "url": "https://bbc.co.uk/news/articles/c51kdy1ew7zvo",
+      "source": "BBC World",
+      "published": "2026-11-01T22:38:24+00:00",
+      "retrieved_at": "2026-11-01T23:49:04.547407+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bfdbd97c38741416828ca991"
     },
     {
       "title": "High-ranking US Democratic senator suffers stroke",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "25dcf0bb3496b5a230911297"
-    },
-    {
-      "title": "How do the US midterms work, and why are they so important for Trump's presidency?",
-      "url": "https://dw.com/en/how-do-the-us-midterms-work-and-why-are-they-so-important-for-trump-s-presidency/a-79789932",
-      "source": "DW",
-      "published": "2026-10-28T19:02:00+00:00",
-      "retrieved_at": "2026-10-28T20:04:23.670336+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "US voters are electing a new Congress. The results will be decisive for the future of the United States, and a judgment on Donald Trump's second term as president.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7f7d1f7c9b643816d50659e2"
     }
   ],
   "unverified_history": [
