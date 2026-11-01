@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-01T13:57:29.685950+00:00",
+  "updated": "2026-11-01T14:02:25.891946+00:00",
   "items": [
+    {
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like",
+      "source": "TechCrunch",
+      "published": "2026-11-01T14:00:00+00:00",
+      "retrieved_at": "2026-11-01T14:02:20.637659+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "487e6c325fdc2059bd55f11c"
+    },
     {
       "title": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
       "url": "https://wired.com/story/google-vids-free-video-editor-inside-google-drive",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1f4cb04d48e19ab5126f8d35"
-    },
-    {
-      "title": "Best Microsoft Surface Laptop (2026): Which Models to Buy and Avoid",
-      "url": "https://wired.com/story/microsoft-surface-buying-guide",
-      "source": "Wired",
-      "published": "2026-10-22T11:00:00+00:00",
-      "retrieved_at": "2026-10-22T11:01:50.911107+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "With pricing in flux and new models available, here’s which Surface Laptop and Surface Pro to buy.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3576c9d6a5ec2dc375e06949"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-01T13:57:23.903400+00:00",
+    "checked_at": "2026-11-01T14:02:19.187793+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
