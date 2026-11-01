@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-01T05:26:02.759262+00:00",
+  "updated": "2026-11-01T07:01:54.349464+00:00",
   "items": [
+    {
+      "title": "Rubio says Trump administration did not help Bolsonaro flee Brazil to US",
+      "url": "https://aljazeera.com/news/2026/11/1/flavio",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T06:34:20+00:00",
+      "retrieved_at": "2026-11-01T07:01:48.190524+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Trump says defeated presidential candidate, who faces investigation in Brazil, can stay in the US 'as long as he wants'.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "87f35720472c863813f17319"
+    },
     {
       "title": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
       "url": "https://aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3e1eced98c011b5f9f1245a3"
-    },
-    {
-      "title": "Netanyahu or Eisenkot? Can you form Israel’s next coalition government?",
-      "url": "https://aljazeera.com/news/2026/10/28/netanyahu-or-eisenkot-can-you-form-israels-next-coalition-government",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T10:00:11+00:00",
-      "retrieved_at": "2026-10-28T10:12:06.341295+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel has only ever been governed by coalitions. Can you put one together that reaches 61 of the Knesset's 120 seats?",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "003e660f469ea064f2ba1832"
     }
   ],
   "unverified_history": [
