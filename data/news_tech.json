@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-01T17:03:16.188814+00:00",
+  "updated": "2026-11-01T17:08:17.975808+00:00",
   "items": [
+    {
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here",
+      "source": "TechCrunch",
+      "published": "2026-11-01T17:04:00+00:00",
+      "retrieved_at": "2026-11-01T17:08:10.550117+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7c781dec55d13cd22f7ab3c3"
+    },
     {
       "title": "Binance resumes withdrawals following $6.3 billion breach",
       "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7b813ff79c53f697be2c6e7f"
-    },
-    {
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions",
-      "source": "TechCrunch AI",
-      "published": "2026-10-22T13:11:13+00:00",
-      "retrieved_at": "2026-10-22T16:43:51.696484+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "32d9fd03b9a90104235ea5f8"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-01T17:03:10.113871+00:00",
+    "checked_at": "2026-11-01T17:08:09.038557+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
