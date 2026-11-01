@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-01T15:12:36.298027+00:00",
+  "updated": "2026-11-01T15:57:34.156136+00:00",
   "items": [
+    {
+      "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T15:38:12+00:00",
+      "retrieved_at": "2026-11-01T15:57:27.999353+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0d2498fbb0a12bfd09289c43"
+    },
     {
       "title": "Photos: Thousands join India’s opposition rally against election chief",
       "url": "https://aljazeera.com/gallery/2026/11/1/photos-indian-opposition-rallies-against-elections-chief",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fc93b99058b11befc1cf6b5b"
-    },
-    {
-      "title": "The Evolution of Taiwan’s Military",
-      "url": "https://thediplomat.com/2026/10/the-evolution-of-taiwans-military",
-      "source": "The Diplomat",
-      "published": "2026-10-28T15:25:00+00:00",
-      "retrieved_at": "2026-10-28T21:49:18.584256+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Insights from Eric Setzekorn.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "051ff476d7234183ab3c4c03"
     }
   ],
   "unverified_history": [
