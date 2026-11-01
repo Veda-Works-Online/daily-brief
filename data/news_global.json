@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-01T16:53:22.800724+00:00",
+  "updated": "2026-11-01T17:23:19.110438+00:00",
   "items": [
+    {
+      "title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
+      "url": "https://aljazeera.com/news/2026/11/1/al-jazeera-celebrates-30-years-of-transforming-news-in-region-and-beyond",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T16:59:41+00:00",
+      "retrieved_at": "2026-11-01T17:23:13.106111+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The anniversary coincides with a significant restructuring of Al Jazeera Media Network’s Arabic-language news services.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e586d6cfebdc6489c0f8ad2c"
+    },
     {
       "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
       "url": "https://bbc.co.uk/news/articles/cmqln14rrzxvo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "97767c7054d75a98f2d06bcd"
-    },
-    {
-      "title": "Israeli soldier visiting UK faces war crimes complaint",
-      "url": "https://aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T16:06:17+00:00",
-      "retrieved_at": "2026-10-28T16:43:19.110901+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "New UK war crimes complaint against an Israeli soldier highlights a global legal campaign to end systemic impunity.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4486b9ff440223794393b197"
     }
   ],
   "unverified_history": [
