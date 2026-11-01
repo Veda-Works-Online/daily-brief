@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-01T21:18:15.209655+00:00",
+  "updated": "2026-11-01T21:49:06.663140+00:00",
   "items": [
+    {
+      "title": "Thousands displaced from Hebron as Israel carries on siege",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T21:28:47+00:00",
+      "retrieved_at": "2026-11-01T21:49:00.896660+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "394fdfe6a529e11faf8d4830"
+    },
     {
       "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
       "url": "https://bbc.co.uk/news/articles/c64g1y90p71eo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1d420da153403d1e6afcbbe2"
-    },
-    {
-      "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
-      "url": "https://aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T17:09:05+00:00",
-      "retrieved_at": "2026-10-28T17:18:18.487465+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Soaring food prices and shrinking incomes force families in Sudan's capital to borrow money and skip meals.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a3efb5da46e8d7953ac9b541"
     }
   ],
   "unverified_history": [
