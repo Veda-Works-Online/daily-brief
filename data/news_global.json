@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-01T07:01:54.349464+00:00",
+  "updated": "2026-11-01T07:31:49.027749+00:00",
   "items": [
+    {
+      "title": "Police storm Portugal housing protest camps",
+      "url": "https://aljazeera.com/news/2026/11/1/police-storm-portugal-housing-protest-camps",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T07:06:21+00:00",
+      "retrieved_at": "2026-11-01T07:31:42.843548+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Dozens of officers, some accompanied by police dogs, moved into Rossio Square in Lisbon early on Sunday.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "93b9ab496110f0364c0ad567"
+    },
     {
       "title": "Rubio says Trump administration did not help Bolsonaro flee Brazil to US",
       "url": "https://aljazeera.com/news/2026/11/1/flavio",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bf99fa815910ca2530ed1739"
-    },
-    {
-      "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-      "url": "https://bbc.co.uk/news/articles/ck5ynj4eeyj2o",
-      "source": "BBC World",
-      "published": "2026-10-28T10:17:54+00:00",
-      "retrieved_at": "2026-10-28T11:52:14.962935+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3e1eced98c011b5f9f1245a3"
     }
   ],
   "unverified_history": [
