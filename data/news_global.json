@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-01T17:23:19.110438+00:00",
+  "updated": "2026-11-01T17:58:24.036791+00:00",
   "items": [
+    {
+      "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
+      "url": "https://aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T17:30:45+00:00",
+      "retrieved_at": "2026-11-01T17:58:18.038886+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Hebron's economic losses surpass $3.8m as Israeli forces demolish West Bank homes and close hundreds of businesses.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f1a4d4e83e1c8e83f1c542d2"
+    },
     {
       "title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
       "url": "https://aljazeera.com/news/2026/11/1/al-jazeera-celebrates-30-years-of-transforming-news-in-region-and-beyond",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f47200c9c0527612ef2c2145"
-    },
-    {
-      "title": "Kremlin says European countries not included in next Ukraine talks",
-      "url": "https://aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T16:12:02+00:00",
-      "retrieved_at": "2026-10-28T16:43:19.110878+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The comment comes as UK and Netherlands pledge extra military support for Kyiv.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "97767c7054d75a98f2d06bcd"
     }
   ],
   "unverified_history": [
