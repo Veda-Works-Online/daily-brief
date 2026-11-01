@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T07:31:49.027749+00:00",
+  "updated": "2026-11-01T07:36:50.955140+00:00",
   "items": [
     {
       "title": "Police storm Portugal housing protest camps",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "93b9ab496110f0364c0ad567"
+    },
+    {
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "url": "https://bbc.co.uk/news/articles/c60qk92dvlwgo",
+      "source": "BBC World",
+      "published": "2026-11-01T07:00:55+00:00",
+      "retrieved_at": "2026-11-01T07:36:44.828836+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "239b0078620e4a98178b69ad"
     },
     {
       "title": "Rubio says Trump administration did not help Bolsonaro flee Brazil to US",
@@ -144,22 +160,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "156178785f3481f1e9a9eb86"
-    },
-    {
-      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-      "url": "https://bbc.co.uk/news/articles/c60qk92dvlwgo",
-      "source": "BBC World",
-      "published": "2026-11-01T00:12:07+00:00",
-      "retrieved_at": "2026-11-01T00:19:32.797986+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0052546ba90ea2d61432eaa8"
     },
     {
       "title": "Iran war live: Tehran eyes 2-day Hormuz plan; Trump says talks ‘going fine’",
