@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-01T16:17:33.824224+00:00",
+  "updated": "2026-11-01T16:33:26.108986+00:00",
   "items": [
+    {
+      "title": "Trump rallies in Iowa, Kansas to maintain Republican control of US Senate",
+      "url": "https://aljazeera.com/news/2026/11/1/trump-rallies-in-iowa-kansas-to-maintain-republican-control-of-us-senate",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T16:19:57+00:00",
+      "retrieved_at": "2026-11-01T16:33:19.995480+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US President Trump returns to the campaign trail after taking a break at his ⁠⁠Mar-a-Lago club in Florida on Saturday.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2204c1e201c94461ec20cf08"
+    },
     {
       "title": "Trump slams ex-lawyer’s $50m deal with pardoned banker’s family",
       "url": "https://aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cb163531f9da28b8332aba5d"
-    },
-    {
-      "title": "US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/28/us-congresswoman-rashida-tlaib-condemns-anti-muslim-election-rhetoric",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T15:40:04+00:00",
-      "retrieved_at": "2026-10-28T16:03:18.347778+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US Congresswoman Rashida Tlaib condemns anti-Muslim election rhetoric",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f08fe9a176bebf1434308cca"
     }
   ],
   "unverified_history": [
