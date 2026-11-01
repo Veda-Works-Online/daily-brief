@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T21:13:13.964018+00:00",
+  "updated": "2026-11-01T21:18:15.209655+00:00",
   "items": [
     {
       "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "895713218cacc3b3547603e1"
+    },
+    {
+      "title": "Russia's giant new radar in Kaliningrad raises alarm in NATO",
+      "url": "https://dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815",
+      "source": "DW",
+      "published": "2026-11-01T20:34:00+00:00",
+      "retrieved_at": "2026-11-01T21:18:09.337867+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Russia is nearing completion of what experts think is a giant radar complex in Kaliningrad, capable of monitoring much of Europe. Experts warn the project could intensify the military standoff between Moscow and NATO.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0d6f401cc9aa014b56a4628a"
     },
     {
       "title": "How will the Iran war shape the outcome of the US midterm vote?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a3efb5da46e8d7953ac9b541"
-    },
-    {
-      "title": "Evacuation from Oleshky: How are preparations going?",
-      "url": "https://dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001",
-      "source": "DW",
-      "published": "2026-10-28T17:04:00+00:00",
-      "retrieved_at": "2026-10-28T18:09:29.380043+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "A lawyer with the Save Ukraine Foundation, Myroslava Kharchenko, told DW about what has been happening in Russian-occupied Oleshky since a temporary ceasefire brokered by Melania Trump took effect.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d31dc77a1f394e2a87a27329"
     }
   ],
   "unverified_history": [
