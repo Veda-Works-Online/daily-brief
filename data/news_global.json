@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-01T02:35:58.612755+00:00",
+  "updated": "2026-11-01T03:15:59.688037+00:00",
   "items": [
     {
-      "title": "FBI blames North Korea for record $6.3bn crypto heist",
+      "title": "FBI blames North Korea for record $6.3bn crypto heist from Binance",
       "url": "https://aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist",
       "source": "Al Jazeera",
       "published": "2026-11-01T02:28:38+00:00",
-      "retrieved_at": "2026-11-01T02:35:52.467869+00:00",
+      "retrieved_at": "2026-11-01T03:15:53.612096+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "Crypto firm Binance says it has covered 90 percent of losses from the multibillion-dollar hack.",
       "category": "global",
@@ -15,14 +15,14 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "13aa5f75e31dfb4886ebe7a6"
+      "story_fingerprint": "c4739ebebbda8306b67c5dc9"
     },
     {
-      "title": "Thousands rally in Israel urging Eisenkot-Arab deal to remove Netanyahu",
+      "title": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu",
       "url": "https://aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu",
       "source": "Al Jazeera",
       "published": "2026-11-01T02:05:40+00:00",
-      "retrieved_at": "2026-11-01T02:35:52.467890+00:00",
+      "retrieved_at": "2026-11-01T03:15:53.612122+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "In a counterprotest, Netanyahu supporters demand that Israel should not have a government with 'terrorists'.",
       "category": "global",
@@ -31,7 +31,23 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "6249ef005faef052f5a2989a"
+      "story_fingerprint": "561791b96388fced3f63ae5c"
+    },
+    {
+      "title": "FBI says North Korea behind $6 billion Binance crypto theft",
+      "url": "https://dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998",
+      "source": "DW",
+      "published": "2026-11-01T01:53:00+00:00",
+      "retrieved_at": "2026-11-01T03:15:53.945160+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "156178785f3481f1e9a9eb86"
     },
     {
       "title": "India's opposition set to hold mega rally seeking election chief's resignation",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "70e797ea08e331034c384693"
-    },
-    {
-      "title": "Serbian police shoot dead assailant at Israeli Embassy",
-      "url": "https://dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905",
-      "source": "DW",
-      "published": "2026-10-28T08:48:00+00:00",
-      "retrieved_at": "2026-10-28T08:57:05.790046+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "A \"minor\" has been killed by police after attacking a guard at Israel's embassy in Belgrade with knives, the interior minister says. Ivica Dacic said police had declared the highest terror alert after the incident.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7e4f5706449e16886adaf259"
     }
   ],
   "unverified_history": [
