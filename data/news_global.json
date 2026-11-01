@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-01T19:23:14.804794+00:00",
+  "updated": "2026-11-01T19:58:13.163313+00:00",
   "items": [
+    {
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
+      "url": "https://bbc.co.uk/news/articles/c64g1y90p71eo",
+      "source": "BBC World",
+      "published": "2026-11-01T19:48:17+00:00",
+      "retrieved_at": "2026-11-01T19:58:07.083087+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "A humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3f3ba50b1ed3bafec410d083"
+    },
     {
       "title": "How will the Iran war shape the outcome of the US midterm vote?",
       "url": "https://aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d31dc77a1f394e2a87a27329"
-    },
-    {
-      "title": "Canada-EU summit: What do both sides want, and what’s at stake?",
-      "url": "https://aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T16:54:51+00:00",
-      "retrieved_at": "2026-10-28T17:18:18.487491+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The EU has proposed to make Canada its first associate member amid tensions over US tariffs.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6e26985dfd729ce8f241be00"
     }
   ],
   "unverified_history": [
