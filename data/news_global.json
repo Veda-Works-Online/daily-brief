@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-01T16:33:26.108986+00:00",
+  "updated": "2026-11-01T16:53:22.800724+00:00",
   "items": [
+    {
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "url": "https://bbc.co.uk/news/articles/cmqln14rrzxvo",
+      "source": "BBC World",
+      "published": "2026-11-01T16:25:33+00:00",
+      "retrieved_at": "2026-11-01T16:53:16.687719+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "793771604facf69b4a1f1101"
+    },
+    {
+      "title": "Russia detains minor over alleged Moscow attack plot after US warning",
+      "url": "https://aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning",
+      "source": "Al Jazeera",
+      "published": "2026-11-01T16:24:16+00:00",
+      "retrieved_at": "2026-11-01T16:53:16.702315+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Russian authorities say a US tip-off helped them identify teenager suspected of planning attack at a Moscow park.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3839d2d7295c92519932f3d9"
+    },
     {
       "title": "Trump rallies in Iowa, Kansas to maintain Republican control of US Senate",
       "url": "https://aljazeera.com/news/2026/11/1/trump-rallies-in-iowa-kansas-to-maintain-republican-control-of-us-senate",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4486b9ff440223794393b197"
-    },
-    {
-      "title": "What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some small positives predicted.",
-      "url": "https://dw.com/en/what-would-a-new-israeli-government-mean-for-arab-neighbors-more-of-the-same-is-expected-with-some-small-positives-predicted/a-79788174",
-      "source": "DW",
-      "published": "2026-10-28T16:03:00+00:00",
-      "retrieved_at": "2026-10-29T12:12:51.996789+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "A new Israeli government is unlikely to bring big changes on Palestinian statehood and troops in Lebanon and Syria, experts say. Some small positives may be possible though.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7cca191adc30684d220b1fe9"
-    },
-    {
-      "title": "Lula’s Election Win in Brazil Is a Relief for China",
-      "url": "https://thediplomat.com/2026/10/lulas-election-win-in-brazil-is-a-relief-for-china",
-      "source": "The Diplomat",
-      "published": "2026-10-28T15:52:00+00:00",
-      "retrieved_at": "2026-10-28T21:49:18.584193+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Lula’s victory secures the most important destination for Chinese foreign direct investment in the Western Hemisphere and ends a winning streak for Trump-supported candidates.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cb163531f9da28b8332aba5d"
     }
   ],
   "unverified_history": [
