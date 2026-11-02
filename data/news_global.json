@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-02T08:15:25.283770+00:00",
+  "updated": "2026-11-02T08:40:29.646732+00:00",
   "items": [
     {
-      "title": "Ryanair may freeze workers' pay as fuel prices spike",
+      "title": "Ryanair may freeze workers' pay and raise fares on higher fuel prices",
       "url": "https://bbc.co.uk/news/articles/cr0qkve1x224o",
       "source": "BBC World",
-      "published": "2026-11-02T08:06:10+00:00",
-      "retrieved_at": "2026-11-02T08:15:21.498683+00:00",
+      "published": "2026-11-02T08:33:57+00:00",
+      "retrieved_at": "2026-11-02T08:40:25.455371+00:00",
       "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
       "category": "global",
@@ -15,7 +15,23 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "06bde4e71861a34f8258af53"
+      "story_fingerprint": "785810ee5fd330fc6a1eb356"
+    },
+    {
+      "title": "How the president’s party has fared in every US midterm election since 1946",
+      "url": "https://aljazeera.com/news/2026/11/2/how-the-presidents-party-has-fared-in-every-us-midterm-election-since-1946",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T08:05:03+00:00",
+      "retrieved_at": "2026-11-02T08:40:25.575493+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Only twice in the past 20 midterms has the president’s party gained House seats. Polls suggest 2026 won’t be the third.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cbfe9cc691238dfd056c06ff"
     },
     {
       "title": "UN staffer’s death in custody exposes Houthi ‘political extortion’ in Yemen",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2ee9300cabba604136a7b001"
-    },
-    {
-      "title": "Hegseth Seeks to Reassure Southeast Asia of US Security Commitment to the Region",
-      "url": "https://thediplomat.com/2026/10/hegseth-seeks-to-reassure-southeast-asia-of-us-security-commitment-to-the-region",
-      "source": "The Diplomat",
-      "published": "2026-10-29T01:04:00+00:00",
-      "retrieved_at": "2026-10-29T09:22:37.976553+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Speaking at the ASEAN Defense Ministers' Meeting in Cebu, the U.S. secretary of war pledged to \"defend our interests and the interests of our allies and partners.”",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a974901f1c039cb2cb638a96"
     }
   ],
   "unverified_history": [
