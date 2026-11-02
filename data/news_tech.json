@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-02T23:11:49.494108+00:00",
+  "updated": "2026-11-02T23:16:50.177593+00:00",
   "items": [
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
+      "source": "TechCrunch AI",
+      "published": "2026-11-02T23:13:53+00:00",
+      "retrieved_at": "2026-11-02T23:16:45.623498+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b87af60f7f87cc4298ed836c"
+    },
     {
       "title": "Apple’s inventory surges 154% as memory chip costs climb",
       "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "4300026b396af82738acbfe2"
-    },
-    {
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
-      "source": "TechCrunch AI",
-      "published": "2026-10-22T22:08:24+00:00",
-      "retrieved_at": "2026-10-22T22:24:37.473184+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5dfa51f2cd93a93199ccfa96"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-02T23:11:42.571251+00:00",
+    "checked_at": "2026-11-02T23:16:45.263333+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
