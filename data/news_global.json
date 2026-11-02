@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-02T17:11:22.961524+00:00",
+  "updated": "2026-11-02T17:16:18.428094+00:00",
   "items": [
+    {
+      "title": "Jerusalem Daily: Israel’s lockdown of Hebron comes to an end",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T16:56:41+00:00",
+      "retrieved_at": "2026-11-02T17:16:14.359510+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israeli forces ended their lockdown of Hebron in the occupied West Bank, but its forces continued to attack a school.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "05ca2a7816981173efbc371c"
+    },
     {
       "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
       "url": "https://aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings",
@@ -16,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cceeae61f6ef40bb1e7f8d00"
+    },
+    {
+      "title": "What might Trump have planned for Iran following the midterm election?",
+      "url": "https://dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816",
+      "source": "DW",
+      "published": "2026-11-02T15:41:00+00:00",
+      "retrieved_at": "2026-11-02T17:16:14.380478+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "While the US midterms could open a window for diplomacy with Iran, they could also unleash a new military escalation. DW spoke with analysts to identify eight factors that could tip the balance toward war or peace.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "96187094a27bf172e9b5c633"
     },
     {
       "title": "How the US midterms factor into Donald Trump's plans for the Iran war",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "daf9afa351be112bcd586955"
-    },
-    {
-      "title": "Israel’s election rhetoric: What candidates said, and how they performed",
-      "url": "https://aljazeera.com/news/2026/10/29/israels-election-what-the-candidates-said-and-how-they-did",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T11:27:22+00:00",
-      "retrieved_at": "2026-10-29T12:02:57.317299+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "From Netanyahu to Ben-Gvir, campaign boasts and attacks on Arab parties have been met with a deadlocked result.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f92da3e378da5084b9e5d352"
-    },
-    {
-      "title": "US sanctions Rwanda's defence ministry over DR Congo conflict",
-      "url": "https://bbc.co.uk/news/articles/cm87zw51qw0jo",
-      "source": "BBC World",
-      "published": "2026-10-29T11:25:16+00:00",
-      "retrieved_at": "2026-10-29T13:13:10.885121+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Congo accuses Rwanda of backing M23 rebels and plundering minerals in its conflict hit East",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "05a16b30d79a39d11d191062"
     }
   ],
   "unverified_history": [
