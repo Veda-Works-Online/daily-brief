@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-02T07:55:22.929508+00:00",
+  "updated": "2026-11-02T08:15:25.283770+00:00",
   "items": [
+    {
+      "title": "Ryanair may freeze workers' pay as fuel prices spike",
+      "url": "https://bbc.co.uk/news/articles/cr0qkve1x224o",
+      "source": "BBC World",
+      "published": "2026-11-02T08:06:10+00:00",
+      "retrieved_at": "2026-11-02T08:15:21.498683+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "06bde4e71861a34f8258af53"
+    },
     {
       "title": "UN staffer’s death in custody exposes Houthi ‘political extortion’ in Yemen",
       "url": "https://aljazeera.com/news/2026/11/2/un-staffers-death-in-custody-exposes-houthi-political-extortion-in-yemen",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a974901f1c039cb2cb638a96"
-    },
-    {
-      "title": "Israelis rally for Jewish-Arab government after election gains",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T00:34:24+00:00",
-      "retrieved_at": "2026-10-29T00:54:56.733749+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "eda2d8e952aa18365cae7fb7"
     }
   ],
   "unverified_history": [
