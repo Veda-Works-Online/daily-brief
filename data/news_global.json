@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-02T00:39:07.645870+00:00",
+  "updated": "2026-11-02T01:19:09.397095+00:00",
   "items": [
+    {
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "url": "https://bbc.co.uk/news/articles/c51kdy1ew7zvo",
+      "source": "BBC World",
+      "published": "2026-11-02T01:18:27+00:00",
+      "retrieved_at": "2026-11-02T01:19:03.649628+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bfdbd97c38741416828ca991"
+    },
     {
       "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
       "url": "https://aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen",
@@ -64,22 +80,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a560c2b07ad93a01840d6f5c"
-    },
-    {
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "url": "https://bbc.co.uk/news/articles/c51kdy1ew7zvo",
-      "source": "BBC World",
-      "published": "2026-11-01T22:38:24+00:00",
-      "retrieved_at": "2026-11-01T23:49:04.547407+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bfdbd97c38741416828ca991"
     },
     {
       "title": "High-ranking US Democratic senator suffers stroke",
