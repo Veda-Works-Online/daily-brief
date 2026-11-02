@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-02T23:06:51.861627+00:00",
+  "updated": "2026-11-02T23:11:55.576244+00:00",
   "items": [
+    {
+      "title": "Supreme Court rejects Trump bid to block 20,000 California ballots",
+      "url": "https://dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739",
+      "source": "DW",
+      "published": "2026-11-02T23:09:00+00:00",
+      "retrieved_at": "2026-11-02T23:11:51.918216+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The Trump administration had appealed to the Supreme Court over claims that a list of more than 20,000 ballots in California include non-US citizens.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c58933d9ba1df984568b5ef0"
+    },
     {
       "title": "Trump approval rating near record low on eve of US midterm elections: Poll",
       "url": "https://aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "51096346ac2b0d8c52c48e51"
-    },
-    {
-      "title": "Pentagon fires general it says leaked classified information to media",
-      "url": "https://aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T19:02:19+00:00",
-      "retrieved_at": "2026-10-29T19:18:58.602350+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Army Lieutenant General Brett Sylvia was subject of investigation into leaking information about Iran and Ukraine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0e60bd0704db30d9f5a5e862"
     }
   ],
   "unverified_history": [
