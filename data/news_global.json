@@ -1,14 +1,30 @@
 {
-  "updated": "2026-11-02T00:09:14.370440+00:00",
+  "updated": "2026-11-02T00:39:07.645870+00:00",
   "items": [
+    {
+      "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+      "url": "https://aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T00:29:16+00:00",
+      "retrieved_at": "2026-11-02T00:39:02.081261+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Election body says deadlocked result won't be undermined even if foreign interference claims are found to be true.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3f2876311fa653936897c6fa"
+    },
     {
       "title": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
       "url": "https://aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon",
       "source": "Al Jazeera",
       "published": "2026-11-02T00:00:00+00:00",
-      "retrieved_at": "2026-11-02T00:09:08.594925+00:00",
+      "retrieved_at": "2026-11-02T00:39:02.081308+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US president warns Iran to make a deal as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz.",
+      "summary": "US president warns Iran to make a deal, as IRGC says two tankers have hit mines and caught fire in the Strait of Hormuz.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "704c47d3df60620b0b616722"
-    },
-    {
-      "title": "What are the implications of Israel’s elections?",
-      "url": "https://aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T19:03:03+00:00",
-      "retrieved_at": "2026-10-28T19:49:27.125356+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "No clear winner in Israel's first election since the October 7 attacks and genocidal war in Gaza.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dca064d8b4e6106920870f7d"
     }
   ],
   "unverified_history": [
