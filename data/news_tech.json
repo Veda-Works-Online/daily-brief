@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T23:51:46.195813+00:00",
+  "updated": "2026-11-02T23:56:46.880614+00:00",
   "items": [
     {
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
@@ -238,6 +238,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f54583f85e9857db12d49e75"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "source": "OpenAI",
+      "published": "2026-11-02T15:30:00+00:00",
+      "retrieved_at": "2026-11-02T23:56:43.652837+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "dd28200583be51d4eff9c576"
     },
     {
       "title": "Introducing the Grid Protectors Program",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e87bcd24abb554d152ef5e89"
-    },
-    {
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "source": "Hugging Face",
-      "published": "2026-10-22T22:24:34+00:00",
-      "retrieved_at": "2026-10-22T22:24:37.668472+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "4300026b396af82738acbfe2"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-02T23:51:42.383083+00:00",
+    "checked_at": "2026-11-02T23:56:42.879097+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
