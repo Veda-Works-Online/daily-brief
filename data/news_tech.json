@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-02T12:00:23.842965+00:00",
+  "updated": "2026-11-02T12:05:15.072505+00:00",
   "items": [
+    {
+      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
+      "url": "https://wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web",
+      "source": "Wired",
+      "published": "2026-11-02T12:00:00+00:00",
+      "retrieved_at": "2026-11-02T12:05:07.610241+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cde7ee5409dcec29966ca044"
+    },
     {
       "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
       "url": "https://wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "18161c1be4e8300e1d3433d1"
-    },
-    {
-      "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
-      "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants",
-      "source": "TechCrunch",
-      "published": "2026-10-22T14:59:28+00:00",
-      "retrieved_at": "2026-10-22T15:02:52.521820+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7b6d5d66fd071d7b25854142"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-02T12:00:11.255369+00:00",
+    "checked_at": "2026-11-02T12:05:05.978993+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
