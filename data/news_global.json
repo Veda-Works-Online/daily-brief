@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-02T13:35:25.310969+00:00",
+  "updated": "2026-11-02T13:55:36.922618+00:00",
   "items": [
+    {
+      "title": "Police arrive at German university pro-Palestine protest",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/2/police-arrive-at-german-university-pro-palestine-protest",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T13:37:26+00:00",
+      "retrieved_at": "2026-11-02T13:55:31.035500+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Dozens of Pro-Palestine students protested at the University of Hamburg in Germany. Riot police arrested students.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8b9e7e01cba0d4b4920764c5"
+    },
     {
       "title": "Iran says US talks could resume ‘within a short period’ if demands are met",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/2/iran-says-us-talks-could-resume-within-a-short-period-if-demands-are-met",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "db198d99c4c8494351f07178"
-    },
-    {
-      "title": "Obama and Trump spar at rallies in Georgia and Ohio: Key takeaways",
-      "url": "https://aljazeera.com/news/2026/10/29/obama-and-trump-rally-in-georgia-and-ohio-key-takeaways",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T08:51:30+00:00",
-      "retrieved_at": "2026-10-29T09:22:37.920570+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Obama and Trump traded barbs over the Iran war, tariffs and the White House ballroom ahead of the US midterm elections.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ba662404dd74bfde471e7f9e"
     }
   ],
   "unverified_history": [
