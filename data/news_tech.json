@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-02T16:41:16.703445+00:00",
+  "updated": "2026-11-02T16:46:11.151096+00:00",
   "items": [
+    {
+      "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+      "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon",
+      "source": "TechCrunch",
+      "published": "2026-11-02T16:44:48+00:00",
+      "retrieved_at": "2026-11-02T16:46:06.876900+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "05b4ab6a1940603379ac22de"
+    },
     {
       "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
       "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "86a375e1478908391bd35992"
-    },
-    {
-      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-      "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots",
-      "source": "TechCrunch",
-      "published": "2026-10-22T18:38:47+00:00",
-      "retrieved_at": "2026-10-22T19:03:54.219276+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2a676c5ac86e9b8f56dc9387"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-02T16:41:08.536433+00:00",
+    "checked_at": "2026-11-02T16:46:01.891286+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
