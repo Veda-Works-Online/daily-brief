@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-02T22:11:50.917798+00:00",
+  "updated": "2026-11-02T22:16:53.094437+00:00",
   "items": [
+    {
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+      "source": "TechCrunch AI",
+      "published": "2026-11-02T22:14:50+00:00",
+      "retrieved_at": "2026-11-02T22:16:46.859918+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "52a3c831182da76df59bdb06"
+    },
     {
       "title": "Web host Squarespace lays off 19% of its employees",
       "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8a8f6dcf101501b90f8bc171"
-    },
-    {
-      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
-      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions",
-      "source": "TechCrunch",
-      "published": "2026-10-22T21:05:05+00:00",
-      "retrieved_at": "2026-10-22T21:34:38.247879+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ffc317bb62bcfa09e68ad22b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-02T22:11:46.239225+00:00",
+    "checked_at": "2026-11-02T22:16:46.443832+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
