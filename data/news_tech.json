@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-02T23:01:44.308133+00:00",
+  "updated": "2026-11-02T23:06:45.999337+00:00",
   "items": [
+    {
+      "title": "Apple’s inventory surges 154% as memory chip costs climb",
+      "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb",
+      "source": "TechCrunch",
+      "published": "2026-11-02T23:04:57+00:00",
+      "retrieved_at": "2026-11-02T23:06:42.048438+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d1d1ac20b61bef0c9928b04b"
+    },
     {
       "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
       "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5dfa51f2cd93a93199ccfa96"
-    },
-    {
-      "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-      "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational",
-      "source": "Ars Technica",
-      "published": "2026-10-22T21:07:09+00:00",
-      "retrieved_at": "2026-10-23T00:19:36.466120+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8a8f6dcf101501b90f8bc171"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-02T23:01:40.603173+00:00",
+    "checked_at": "2026-11-02T23:06:41.206715+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
