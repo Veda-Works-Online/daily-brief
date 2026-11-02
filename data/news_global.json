@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T13:25:22.584929+00:00",
+  "updated": "2026-11-02T13:35:25.310969+00:00",
   "items": [
     {
       "title": "Iran says US talks could resume ‘within a short period’ if demands are met",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cde29c4ab2bfe488e4b9f147"
+    },
+    {
+      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
+      "url": "https://bbc.co.uk/news/articles/c51kdy1ew7zvo",
+      "source": "BBC World",
+      "published": "2026-11-02T12:44:48+00:00",
+      "retrieved_at": "2026-11-02T13:35:19.407459+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c73d4bb387da5bf3c0190267"
     },
     {
       "title": "Oman and China sign deals to boost trade and investment",
@@ -384,22 +400,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0902cd21c802eba879811b6f"
-    },
-    {
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "url": "https://bbc.co.uk/news/articles/c51kdy1ew7zvo",
-      "source": "BBC World",
-      "published": "2026-11-02T01:18:27+00:00",
-      "retrieved_at": "2026-11-02T01:19:03.649628+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bfdbd97c38741416828ca991"
     },
     {
       "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
