@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T10:15:13.828393+00:00",
+  "updated": "2026-11-02T10:25:14.837964+00:00",
   "items": [
     {
       "title": "Ryanair says it may freeze workers' pay and raise airfares",
@@ -352,6 +352,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b5be040e66aa9aeba151bc71"
+    },
+    {
+      "title": "North Carolina voters weigh up Trump's track record on cost of living",
+      "url": "https://bbc.co.uk/news/videos/cwly0eev3m44o",
+      "source": "BBC World",
+      "published": "2026-11-01T22:25:51+00:00",
+      "retrieved_at": "2026-11-02T10:25:08.820917+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The BBC's Clive Myrie found voters in the state were asking themselves whether they were better off than two years ago.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "43d4dc76c33eb2a72b10d9c4"
     },
     {
       "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "80492209bb20e2533963ec81"
-    },
-    {
-      "title": "Russia’s alleged sabotage campaign in Europe raises fears of escalation",
-      "url": "https://aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T06:01:29+00:00",
-      "retrieved_at": "2026-10-29T09:22:37.920976+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "From drone incursions to an alleged campaign of assassinations, Russia is feared to be pressing a shadow war.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0a0f955ddc583b256a6be593"
     }
   ],
   "unverified_history": [
