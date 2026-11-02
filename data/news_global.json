@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-02T17:41:13.541770+00:00",
+  "updated": "2026-11-02T17:46:18.899220+00:00",
   "items": [
+    {
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "url": "https://bbc.co.uk/news/articles/ckg5jlyp66jzo",
+      "source": "BBC World",
+      "published": "2026-11-02T17:33:19+00:00",
+      "retrieved_at": "2026-11-02T17:46:14.813158+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2e1f022638d60ca70a6c94fb"
+    },
     {
       "title": "Real Madrid matches still banned in China despite Mbappe apology",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "88d46e7e07ca4d52a9276e53"
-    },
-    {
-      "title": "King Charles on Caribbean tour as calls grow for slavery reparations",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/29/king-charles-on-caribbean-tour-as-calls-grow-for-slavery-reparations",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T12:10:22+00:00",
-      "retrieved_at": "2026-10-29T12:37:55.705740+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "UK’s King Charles joined a Junkanoo street parade during a visit to the Bahamas ahead of the Commonwealth summit.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "80868abfae523295b21c50a9"
     }
   ],
   "unverified_history": [
