@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T04:59:45.099609+00:00",
+  "updated": "2026-11-02T06:39:50.663272+00:00",
   "items": [
     {
       "title": "Write-In Ralph: South Carolina Republicans challenge Trump’s Senate pick",
@@ -32,6 +32,38 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "541c0cf4e496a2ac524c0a31"
+    },
+    {
+      "title": "Trump makes fevered campaign push in final weekend before election",
+      "url": "https://bbc.co.uk/news/articles/c3j47gjx29vro",
+      "source": "BBC World",
+      "published": "2026-11-02T04:04:28+00:00",
+      "retrieved_at": "2026-11-02T06:39:44.916910+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2ef718dd24963d8cd3b65aa0"
+    },
+    {
+      "title": "Nine killed as small jet crashes on Florida street",
+      "url": "https://bbc.co.uk/news/articles/cm369yy7lw73o",
+      "source": "BBC World",
+      "published": "2026-11-02T02:59:02+00:00",
+      "retrieved_at": "2026-11-02T06:39:44.916928+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "31b399100bddcbc0b973146e"
     },
     {
       "title": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d28a99d192e2caae7d62fd76"
-    },
-    {
-      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-      "url": "https://bbc.co.uk/news/articles/c6kglwe4lxwzo",
-      "source": "BBC World",
-      "published": "2026-10-28T22:13:35+00:00",
-      "retrieved_at": "2026-10-28T22:14:19.421530+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "67e23918751c419e026ac889"
-    },
-    {
-      "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
-      "url": "https://aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T20:38:01+00:00",
-      "retrieved_at": "2026-10-28T20:59:30.798205+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The far-right ally of US President Donald Trump has fled to Miami with his wife and children.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7449c6b7daef26ad6449895b"
     }
   ],
   "unverified_history": [
