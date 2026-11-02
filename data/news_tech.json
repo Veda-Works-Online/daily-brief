@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-02T17:51:14.482210+00:00",
+  "updated": "2026-11-02T17:56:14.351415+00:00",
   "items": [
+    {
+      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+      "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b",
+      "source": "TechCrunch",
+      "published": "2026-11-02T17:54:11+00:00",
+      "retrieved_at": "2026-11-02T17:56:11.418231+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "84e1e2b6b68658bfc9771d60"
+    },
     {
       "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
       "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers",
@@ -17,6 +34,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "19ce712b783f6991d3ec1162"
+    },
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "source": "Google AI",
+      "published": "2026-11-02T17:45:00+00:00",
+      "retrieved_at": "2026-11-02T17:56:10.801520+00:00",
+      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "summary": "Animated carousel of images from AI posts in October",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "1911872ce0c712381ee42aa3"
     },
     {
       "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "75dcbe177159e06f5e670ccf"
-    },
-    {
-      "title": "Build more responsive apps with the Decisions API",
-      "url": "https://openai.com/index/decisions-api",
-      "source": "OpenAI",
-      "published": "2026-10-22T19:00:00+00:00",
-      "retrieved_at": "2026-10-22T19:43:55.176995+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Fast, focused, low-cost decisions for any application.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "bd985c69b341ebcbc809228b"
-    },
-    {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
-      "source": "TechCrunch AI",
-      "published": "2026-10-22T19:00:00+00:00",
-      "retrieved_at": "2026-10-22T19:28:58.257503+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "693ef25f016597e8a5bf6a35"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-02T17:51:10.155422+00:00",
+    "checked_at": "2026-11-02T17:56:10.083938+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
