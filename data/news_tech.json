@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-02T09:25:23.894524+00:00",
+  "updated": "2026-11-02T10:15:03.454290+00:00",
   "items": [
+    {
+      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
+      "url": "https://wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features",
+      "source": "Wired",
+      "published": "2026-11-02T10:00:00+00:00",
+      "retrieved_at": "2026-11-02T10:14:58.929910+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2ece718e28ac746bcda990db"
+    },
     {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
       "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
@@ -663,6 +680,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d4324900233ed498d91cdbe4"
+    },
+    {
+      "title": "Speeding up planning decisions with AI",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai",
+      "source": "Google DeepMind",
+      "published": "2026-10-30T14:18:30+00:00",
+      "retrieved_at": "2026-11-02T10:14:57.998665+00:00",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://deepmind.google/blog/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "12d923849d298188469bfb00"
     },
     {
       "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7b6d5d66fd071d7b25854142"
-    },
-    {
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-      "source": "Google DeepMind",
-      "published": "2026-10-22T14:30:24+00:00",
-      "retrieved_at": "2026-10-22T14:32:50.103487+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "1853a6e2c29f728d83c5fcfd"
-    },
-    {
-      "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
-      "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack",
-      "source": "TechCrunch",
-      "published": "2026-10-22T14:03:00+00:00",
-      "retrieved_at": "2026-10-22T14:07:56.372683+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d814cab186b2faf6dc5afde2"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-02T09:25:18.745963+00:00",
+    "checked_at": "2026-11-02T10:14:57.124516+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

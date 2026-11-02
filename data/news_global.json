@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-02T09:05:22.464489+00:00",
+  "updated": "2026-11-02T10:15:13.828393+00:00",
   "items": [
+    {
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "url": "https://bbc.co.uk/news/articles/cr0qkve1x224o",
+      "source": "BBC World",
+      "published": "2026-11-02T10:04:39+00:00",
+      "retrieved_at": "2026-11-02T10:15:07.551938+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "227ce0ed84e46edae1f66713"
+    },
+    {
+      "title": "Saudi-led coalition intercepts a missile as fighting rages in Yemen’s al-Jawf",
+      "url": "https://aljazeera.com/news/2026/11/2/saudi-led-coalition-intercepts-a-missile-as-fighting-rages-in-yemens-al-jawf",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T09:43:59+00:00",
+      "retrieved_at": "2026-11-02T10:15:07.599123+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Houthi-affiliated media report that seven people were wounded in strikes on the city of Hodeidah.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "dde6266053a05139aa8ebbbe"
+    },
+    {
+      "title": "Nuclear radiation in Russia, Ukraine? No, just hacked warning alerts",
+      "url": "https://aljazeera.com/news/2026/11/2/nuclear-radiation-in-russia-ukraine-no-just-hacked-warning-alerts",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T09:35:46+00:00",
+      "retrieved_at": "2026-11-02T10:15:07.599140+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Warnings startle people in Ukraine, but authorities say they cleared up the confusion in under an hour.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "55fcf2f5a68f728f0c357dda"
+    },
     {
       "title": "The Pentagon-Silicon Complex and the Rise of the Neo-Primes",
       "url": "https://warontherocks.com/cogs-of-war/the-pentagon-silicon-complex-and-the-rise-of-the-neo-primes",
@@ -48,22 +96,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fc8793a61f45291b3ca827f4"
-    },
-    {
-      "title": "Ryanair may freeze workers' pay and raise fares on higher fuel prices",
-      "url": "https://bbc.co.uk/news/articles/cr0qkve1x224o",
-      "source": "BBC World",
-      "published": "2026-11-02T08:33:57+00:00",
-      "retrieved_at": "2026-11-02T08:40:25.455371+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "785810ee5fd330fc6a1eb356"
     },
     {
       "title": "How the president’s party has fared in every US midterm election since 1946",
@@ -162,11 +194,11 @@
       "story_fingerprint": "541c0cf4e496a2ac524c0a31"
     },
     {
-      "title": "Trump makes fevered campaign push in final weekend before election",
+      "title": "Trump makes final campaign push in final weekend before election",
       "url": "https://bbc.co.uk/news/articles/c3j47gjx29vro",
       "source": "BBC World",
       "published": "2026-11-02T04:04:28+00:00",
-      "retrieved_at": "2026-11-02T06:39:44.916910+00:00",
+      "retrieved_at": "2026-11-02T10:15:07.551893+00:00",
       "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress.",
       "category": "global",
@@ -175,7 +207,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "2ef718dd24963d8cd3b65aa0"
+      "story_fingerprint": "db9b1e3542119826754f266d"
     },
     {
       "title": "Nine killed as small jet crashes on Florida street",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0a0f955ddc583b256a6be593"
-    },
-    {
-      "title": "Why a Democratic win in US midterms could adversely affect Europe",
-      "url": "https://aljazeera.com/features/2026/10/29/why-a-democratic-win-in-us-midterms-could-adversely-affect-europe",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T05:36:08+00:00",
-      "retrieved_at": "2026-10-29T09:22:37.921496+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Complacency about rising far-right movements and renewed pressure on Ukraine could be the result.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "52d5eb3fcbc4f429a7bc39f1"
-    },
-    {
-      "title": "Evolving Scope of the China-Pakistan Economic Corridor",
-      "url": "https://thediplomat.com/2026/10/evolving-scope-of-the-china-pakistan-economic-corridor",
-      "source": "The Diplomat",
-      "published": "2026-10-29T04:21:00+00:00",
-      "retrieved_at": "2026-10-29T13:47:57.391345+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "The two countries have launched the China-Pakistan Information Corridor to counter ‘misleading narratives,’ expand cultural exchanges, and strengthen think tank cooperation.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "67db57b2e189fcd4e78888f9"
     }
   ],
   "unverified_history": [
