@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-02T15:05:21.838212+00:00",
+  "updated": "2026-11-02T15:10:30.478044+00:00",
   "items": [
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "source": "OpenAI",
+      "published": "2026-11-02T15:00:00+00:00",
+      "retrieved_at": "2026-11-02T15:10:22.018055+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "ec4e8dbe19bb4105f7b447fa"
+    },
     {
       "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
       "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "4c200665dbd818de9ddbbabf"
-    },
-    {
-      "title": "Uber puts all 30,000 employees on ChatGPT Work",
-      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work",
-      "source": "TechCrunch AI",
-      "published": "2026-10-22T16:00:00+00:00",
-      "retrieved_at": "2026-10-22T17:08:56.753374+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e46736a63507ea43d294aaa7"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-02T15:05:14.727738+00:00",
+    "checked_at": "2026-11-02T15:10:20.650250+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
