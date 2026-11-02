@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-02T01:44:10.629586+00:00",
+  "updated": "2026-11-02T02:09:05.158541+00:00",
   "items": [
+    {
+      "title": "Ukraine blames Russia after air alert app sends out false warnings",
+      "url": "https://aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T01:40:50+00:00",
+      "retrieved_at": "2026-11-02T02:08:59.412129+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Russian Emergencies Ministry also says its mobile app suffered a 'massive cyberattack', leading to 'false information'.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8a7185ad0fbfe739a1a88810"
+    },
     {
       "title": "Trump invites Michigan Democrat Stevens to join the Republican Party",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/2/trump-invites-michigan-democrat-stevens-to-join-the-republican-party",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1c47d54352c978072b6c4513"
-    },
-    {
-      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-      "url": "https://bbc.co.uk/news/articles/c63djl148n3eo",
-      "source": "BBC World",
-      "published": "2026-10-28T19:15:58+00:00",
-      "retrieved_at": "2026-10-29T09:22:38.081203+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a22766c53243c35770a85829"
     }
   ],
   "unverified_history": [
