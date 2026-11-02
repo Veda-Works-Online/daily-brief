@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-02T20:22:27.348247+00:00",
+  "updated": "2026-11-02T20:27:15.510447+00:00",
   "items": [
+    {
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "url": "https://bbc.co.uk/news/articles/cjy56dndlyz0o",
+      "source": "BBC World",
+      "published": "2026-11-02T20:23:12+00:00",
+      "retrieved_at": "2026-11-02T20:27:11.728808+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Local officials say more had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "74dce251e20c4f5a7a8b70e3"
+    },
     {
       "title": "HRW calls on Zambia to halt post-election crackdown",
       "url": "https://aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown",
@@ -128,22 +144,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dc14566a19ebccaf073f32e5"
-    },
-    {
-      "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
-      "url": "https://bbc.co.uk/news/articles/cjy56dndlyz0o",
-      "source": "BBC World",
-      "published": "2026-11-02T18:28:50+00:00",
-      "retrieved_at": "2026-11-02T18:31:38.538083+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1c1bfddeb873b00192060f6c"
     },
     {
       "title": "Russian bombing of Ukrainian aid centre kills 24 people",
