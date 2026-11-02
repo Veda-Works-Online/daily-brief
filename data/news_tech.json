@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-02T14:00:32.603761+00:00",
+  "updated": "2026-11-02T14:05:34.159084+00:00",
   "items": [
+    {
+      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big",
+      "source": "TechCrunch",
+      "published": "2026-11-02T14:00:00+00:00",
+      "retrieved_at": "2026-11-02T14:05:27.181066+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b578f2ca2d362888dbbaa39d"
+    },
     {
       "title": "OpenAI is finally merging ChatGPT’s chat and Work tabs",
       "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ff8debb521a1e98b9f1e6ce1"
-    },
-    {
-      "title": "This emulator reimagines Nintendo’s Virtual Boy with a full color display",
-      "url": "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display",
-      "source": "Ars Technica",
-      "published": "2026-10-22T15:59:40+00:00",
-      "retrieved_at": "2026-10-22T17:23:55.960346+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Tile-based color palettes go way beyond the four shades of red on original hardware.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e55f3f87884cb6791e0ee148"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-02T14:00:23.994406+00:00",
+    "checked_at": "2026-11-02T14:05:25.620835+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
