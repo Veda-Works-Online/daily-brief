@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-02T20:52:01.682931+00:00",
+  "updated": "2026-11-02T21:11:57.239339+00:00",
   "items": [
+    {
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "url": "https://bbc.co.uk/news/articles/cjy56dndlyz0o",
+      "source": "BBC World",
+      "published": "2026-11-02T21:10:04+00:00",
+      "retrieved_at": "2026-11-02T21:11:53.244365+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "74dce251e20c4f5a7a8b70e3"
+    },
+    {
+      "title": "Mamdani’s progressive allies vie for seats in Congress",
+      "url": "https://aljazeera.com/news/2026/11/2/mamdanis-progressive-allies-vie-for-seats-in-congress",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T20:48:56+00:00",
+      "retrieved_at": "2026-11-02T21:11:53.352588+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Three New York City progressive Democrats are expected to win their midterm congressional races in Tuesday's election.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c1c1d1c49f220b9fe257c446"
+    },
     {
       "title": "What’s the future of the Western Sahara conflict?",
       "url": "https://aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict",
@@ -16,22 +48,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "77f18f80ab8c7dbe170d8a83"
-    },
-    {
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "url": "https://bbc.co.uk/news/articles/cjy56dndlyz0o",
-      "source": "BBC World",
-      "published": "2026-11-02T20:23:12+00:00",
-      "retrieved_at": "2026-11-02T20:27:11.728808+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Local officials say more had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "74dce251e20c4f5a7a8b70e3"
     },
     {
       "title": "HRW calls on Zambia to halt post-election crackdown",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "64aed3f51fc9acf8188ce57b"
-    },
-    {
-      "title": "Israel’s anti-Qatar campaign bleeds into elections",
-      "url": "https://aljazeera.com/news/2026/10/29/israels-anti-qatar-campaign-bleeds-into-elections",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T15:35:53+00:00",
-      "retrieved_at": "2026-10-29T15:49:05.792469+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Qatar's Foreign Ministry spokesman rejects 'disinformation' amid allegations by some Israelis of voting interference.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fde1974e29018491f3e5ab5d"
     }
   ],
   "unverified_history": [
