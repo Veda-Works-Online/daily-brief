@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-02T18:31:42.850572+00:00",
+  "updated": "2026-11-02T18:42:16.852134+00:00",
   "items": [
+    {
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "url": "https://bbc.co.uk/news/articles/cwx28mngxz8do",
+      "source": "BBC World",
+      "published": "2026-11-02T18:34:24+00:00",
+      "retrieved_at": "2026-11-02T18:42:12.656127+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0b2bbab4e2c51e92643e705a"
+    },
     {
       "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
       "url": "https://bbc.co.uk/news/articles/cjy56dndlyz0o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "866296770fecf300e5859d9b"
-    },
-    {
-      "title": "Fighting rages near Yemen’s Taiz as UN urges humanitarian access",
-      "url": "https://aljazeera.com/news/2026/10/29/fighting-rages-near-yemens-taiz-as-un-urges-humanitarian-access",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T12:46:29+00:00",
-      "retrieved_at": "2026-10-29T13:08:10.345101+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Fighting has forced more than 281,000 people from their homes in Yemen since the beginning of August, the UN said.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "63ae9a3424ae2104d7811213"
     }
   ],
   "unverified_history": [

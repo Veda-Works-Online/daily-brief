@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-02T18:36:12.086162+00:00",
+  "updated": "2026-11-02T18:42:10.303088+00:00",
   "items": [
+    {
+      "title": "Apple’s roaming home robot may do FaceTime, switch lights on, and yell at your cat",
+      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat",
+      "source": "Ars Technica AI",
+      "published": "2026-11-02T18:32:21+00:00",
+      "retrieved_at": "2026-11-02T18:42:03.435173+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "40920b1a7ad4ae353b2d7a51"
+    },
     {
       "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
       "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b8f113be2a113810fee4fb05"
-    },
-    {
-      "title": "Inside the Exclusive Nathan Fielder Interview",
-      "url": "https://wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview",
-      "source": "Wired",
-      "published": "2026-10-22T19:06:37+00:00",
-      "retrieved_at": "2026-10-22T19:13:53.974038+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "This week on “Uncanny Valley,” we go behind the scenes of our Nathan Fielder cover story, unpack tech billionaires’ generous promises, and discuss the suspicious letters sent to US election offices.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b7b5b79733d9651d27a8c071"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-02T18:36:07.545145+00:00",
+    "checked_at": "2026-11-02T18:42:02.220772+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
