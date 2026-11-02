@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T18:42:16.852134+00:00",
+  "updated": "2026-11-02T18:51:20.891523+00:00",
   "items": [
     {
       "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
@@ -18,6 +18,22 @@
       "story_fingerprint": "0b2bbab4e2c51e92643e705a"
     },
     {
+      "title": "After Israel’s election: What’s next?",
+      "url": "https://aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T18:32:59+00:00",
+      "retrieved_at": "2026-11-02T18:51:16.731944+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Knesset member Ofer Cassif argues that the ‘politics of exclusion’ keep Israel in political deadlock.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "dc14566a19ebccaf073f32e5"
+    },
+    {
       "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
       "url": "https://bbc.co.uk/news/articles/cjy56dndlyz0o",
       "source": "BBC World",
@@ -32,6 +48,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1c1bfddeb873b00192060f6c"
+    },
+    {
+      "title": "Russian bombing of Ukrainian aid centre kills 24 people",
+      "url": "https://aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T18:23:02+00:00",
+      "retrieved_at": "2026-11-02T18:51:16.731974+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "President calls attack further proof that Russia does not want any ‌kind of de-escalation or real justice.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "efe8c7f394e18679c590fc2e"
     },
     {
       "title": "Judge dismisses charges against FBI agents involved in Hunter Biden case",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d1aad5f9126be19aae78c044"
-    },
-    {
-      "title": "Men pulled from vehicle stranded by floods in Syria",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/29/men-pulled-from-vehicle-stranded-by-floods-in-syria",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T13:15:14+00:00",
-      "retrieved_at": "2026-10-29T13:53:08.910092+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "This is the moment several men were rescued from their vehicle in Syria after becoming stranded by flash floods.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bbbb280ef7c8ee140124e321"
-    },
-    {
-      "title": "Russian Help Would Make North Korea’s Missile-test Flurry Worse News",
-      "url": "https://thediplomat.com/2026/10/russian-help-would-make-north-koreas-missile-test-flurry-worse-news",
-      "source": "The Diplomat",
-      "published": "2026-10-29T13:09:00+00:00",
-      "retrieved_at": "2026-10-29T21:49:47.456134+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Many security analysts have attributed North Korean missile progress to the closer relationship between North Korea and Russia.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "866296770fecf300e5859d9b"
     }
   ],
   "unverified_history": [
