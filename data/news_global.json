@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T20:01:21.326670+00:00",
+  "updated": "2026-11-02T20:17:05.879102+00:00",
   "items": [
     {
       "title": "HRW calls on Zambia to halt post-election crackdown",
@@ -32,6 +32,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d3498d79b0efa99bfa75a616"
+    },
+    {
+      "title": "Trump asks Supreme Court to block 20,000 California midterm ballots",
+      "url": "https://dw.com/en/trump-asks-supreme-court-to-block-20-000-california-midterm-ballots/a-79833739",
+      "source": "DW",
+      "published": "2026-11-02T19:13:00+00:00",
+      "retrieved_at": "2026-11-02T20:17:01.892401+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The Trump administration has appealed to the Supreme Court over claims that a list of more than 20,000 ballots in California include non-US citizens. Multiple courts and independent analysis have rejected the claims.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "88460fd6a00aabc40efb19e3"
     },
     {
       "title": "Trump asks Supreme Court to block 20,000 California ballots before midterms",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e31a3c2c46df098dc4e20ebc"
-    },
-    {
-      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-      "url": "https://bbc.co.uk/news/articles/c3x2w4109pj8o",
-      "source": "BBC World",
-      "published": "2026-10-29T14:58:28+00:00",
-      "retrieved_at": "2026-10-29T15:39:00.779329+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The defeated presidential candidate says he will lead the opposition from the US.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "837d23b387de890e1c7eb748"
     }
   ],
   "unverified_history": [
