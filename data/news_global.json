@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-02T18:16:20.534265+00:00",
+  "updated": "2026-11-02T18:31:42.850572+00:00",
   "items": [
+    {
+      "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+      "url": "https://bbc.co.uk/news/articles/cjy56dndlyz0o",
+      "source": "BBC World",
+      "published": "2026-11-02T18:28:50+00:00",
+      "retrieved_at": "2026-11-02T18:31:38.538083+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Local officials say 27 people had been missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1c1bfddeb873b00192060f6c"
+    },
     {
       "title": "Judge dismisses charges against FBI agents involved in Hunter Biden case",
       "url": "https://aljazeera.com/news/2026/11/2/judge-dismisses-charges-against-fbi-agents-involved-in-hunter-biden-case",
@@ -16,22 +32,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c189148a104724027795a5a6"
-    },
-    {
-      "title": "Russian bombing kills 18 people at Ukraine aid centre, Kyiv says",
-      "url": "https://bbc.co.uk/news/articles/cjy56dndlyz0o",
-      "source": "BBC World",
-      "published": "2026-11-02T18:01:13+00:00",
-      "retrieved_at": "2026-11-02T18:11:17.776142+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Local officials say 27 people are missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7637f5fe02d7281ccbcb5b46"
     },
     {
       "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
