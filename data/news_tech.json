@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-02T19:16:13.619376+00:00",
+  "updated": "2026-11-02T19:21:12.613558+00:00",
   "items": [
+    {
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
+      "source": "TechCrunch AI",
+      "published": "2026-11-02T19:19:17+00:00",
+      "retrieved_at": "2026-11-02T19:21:05.342578+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "02a269022396401b0987dcf8"
+    },
     {
       "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
       "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6a5085db20e6ec61b649ce8e"
-    },
-    {
-      "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
-      "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say",
-      "source": "TechCrunch",
-      "published": "2026-10-22T20:00:00+00:00",
-      "retrieved_at": "2026-10-22T20:53:40.671812+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c8774d6314019629f97a0bf7"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-02T19:16:08.285793+00:00",
+    "checked_at": "2026-11-02T19:21:04.646916+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
