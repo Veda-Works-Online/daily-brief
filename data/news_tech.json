@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-02T13:00:23.039164+00:00",
+  "updated": "2026-11-02T13:05:18.856438+00:00",
   "items": [
+    {
+      "title": "This $48 e-paper display can be whatever you want it to be",
+      "url": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be",
+      "source": "Ars Technica",
+      "published": "2026-11-02T12:00:07+00:00",
+      "retrieved_at": "2026-11-02T13:05:14.564800+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "This DIY e-paper display works in two official ecosystems or on your own server.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7d9e8c0ea6bc043e076c6b61"
+    },
     {
       "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
       "url": "https://wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "da0a68a15ace74370b853e2c"
-    },
-    {
-      "title": "Spotify’s current AI bet is about being the music service that agents choose",
-      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose",
-      "source": "TechCrunch AI",
-      "published": "2026-10-22T15:03:58+00:00",
-      "retrieved_at": "2026-10-22T15:07:57.267390+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "18161c1be4e8300e1d3433d1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-02T13:00:09.132876+00:00",
+    "checked_at": "2026-11-02T13:05:12.765179+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
