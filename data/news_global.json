@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-02T18:06:16.717217+00:00",
+  "updated": "2026-11-02T18:11:21.928446+00:00",
   "items": [
+    {
+      "title": "Russian bombing kills 18 people at Ukraine aid centre, Kyiv says",
+      "url": "https://bbc.co.uk/news/articles/cjy56dndlyz0o",
+      "source": "BBC World",
+      "published": "2026-11-02T18:01:13+00:00",
+      "retrieved_at": "2026-11-02T18:11:17.776142+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Local officials say 27 people are missing after at least nine 3,000kg aerial bombs hit a village in southern Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7637f5fe02d7281ccbcb5b46"
+    },
     {
       "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
       "url": "https://bbc.co.uk/news/articles/ckg5jlyp66jzo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e00a691844dabcccf8eb9cb3"
-    },
-    {
-      "title": "A week of Israel’s lockdown in Hebron: What’s happened, when will it end?",
-      "url": "https://aljazeera.com/news/2026/10/29/a-week-of-israels-lockdown-in-hebron-whats-happened-when-will-it-end",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T12:29:05+00:00",
-      "retrieved_at": "2026-10-29T12:48:12.125861+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel is imposing a tight siege of Hebron amid raids, home demolitions and displacement.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "88d46e7e07ca4d52a9276e53"
     }
   ],
   "unverified_history": [

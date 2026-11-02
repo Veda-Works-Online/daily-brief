@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-02T18:06:10.391583+00:00",
+  "updated": "2026-11-02T18:11:15.529859+00:00",
   "items": [
+    {
+      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
+      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom",
+      "source": "Ars Technica AI",
+      "published": "2026-11-02T18:05:31+00:00",
+      "retrieved_at": "2026-11-02T18:11:12.281057+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c5e70aac387c43e8f26bc0c7"
+    },
     {
       "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
       "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b7b5b79733d9651d27a8c071"
-    },
-    {
-      "title": "Electric or gas? BMW goes both ways with new 2027 X5 and iX5.",
-      "url": "https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5",
-      "source": "Ars Technica",
-      "published": "2026-10-22T19:01:23+00:00",
-      "retrieved_at": "2026-10-22T19:43:55.475629+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "460 kW charging and 450 miles of range are among the reasons the EV is the one to get.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "75dcbe177159e06f5e670ccf"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-02T18:06:04.851004+00:00",
+    "checked_at": "2026-11-02T18:11:10.957435+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
