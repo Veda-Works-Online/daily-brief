@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T10:40:28.146877+00:00",
+  "updated": "2026-11-02T11:35:27.125538+00:00",
   "items": [
     {
       "title": "Sudan files complaints against Ethiopia with UN over deadly drone spree",
@@ -192,6 +192,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "16c4d4168a9d808c9f7a8f78"
+    },
+    {
+      "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+      "url": "https://bbc.co.uk/news/articles/c3qjn8117kwjo",
+      "source": "BBC World",
+      "published": "2026-11-02T06:00:54+00:00",
+      "retrieved_at": "2026-11-02T11:35:21.315687+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "44b8f32740845b9b9794b23b"
     },
     {
       "title": "Write-In Ralph: South Carolina Republicans challenge Trump’s Senate pick",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7986c126961705b4d84d7b6a"
-    },
-    {
-      "title": "Sitting Ducks or Strategic Shields: What Does the Small Reactor Promise Mean for Future Conflicts?",
-      "url": "https://warontherocks.com/sitting-ducks-or-strategic-shields-what-does-the-small-reactor-promise-mean-for-future-conflicts",
-      "source": "War on the Rocks",
-      "published": "2026-10-29T07:30:00+00:00",
-      "retrieved_at": "2026-10-29T09:22:38.184160+00:00",
-      "feed_url": "https://warontherocks.com/feed/",
-      "summary": "Amid the rapid expansion of AI and data centers alongside growing climate commitments as the demand for clean energy rises, nuclear power is increasingly viewed as a reliable source to fill the gaps and complement the stochastic output of solar and hydropower. This renewed interest is also driven in part by countries’ pursuit of greater energy self-reliance, even as energy and nuclear…",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://warontherocks.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b5ef7dfac31c15815ac6ae17"
     }
   ],
   "unverified_history": [
