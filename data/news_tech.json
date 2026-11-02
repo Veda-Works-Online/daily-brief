@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-02T19:11:16.983430+00:00",
+  "updated": "2026-11-02T19:16:13.619376+00:00",
   "items": [
+    {
+      "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+      "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders",
+      "source": "TechCrunch",
+      "published": "2026-11-02T19:11:49+00:00",
+      "retrieved_at": "2026-11-02T19:16:09.649067+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8f175882cf8a2200144fff67"
+    },
     {
       "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
       "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat",
@@ -272,6 +289,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "e8f2f093edfdf5324a8d3fe5"
+    },
+    {
+      "title": "Qodo builds context into AI code review with Codex",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "source": "OpenAI",
+      "published": "2026-11-02T00:00:00+00:00",
+      "retrieved_at": "2026-11-02T19:16:09.270971+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "7655c93a05754de042ffed24"
     },
     {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c8774d6314019629f97a0bf7"
-    },
-    {
-      "title": "The Social Society Helping Women Join the AI Boom",
-      "url": "https://wired.com/story/aged-intelligence-society-interview",
-      "source": "Wired",
-      "published": "2026-10-22T19:56:32+00:00",
-      "retrieved_at": "2026-10-22T20:03:48.499296+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7d8a2f821ca9955418ef9bb7"
-    },
-    {
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password",
-      "source": "TechCrunch AI",
-      "published": "2026-10-22T19:07:09+00:00",
-      "retrieved_at": "2026-10-22T19:09:06.722023+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b8f113be2a113810fee4fb05"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-02T19:11:12.690019+00:00",
+    "checked_at": "2026-11-02T19:16:08.285793+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
