@@ -1,21 +1,37 @@
 {
-  "updated": "2026-11-02T02:09:05.158541+00:00",
+  "updated": "2026-11-02T04:29:46.175315+00:00",
   "items": [
     {
-      "title": "Ukraine blames Russia after air alert app sends out false warnings",
-      "url": "https://aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings",
+      "title": "Trump leans into Islamophobia and conspiracy in last-ditch campaign rallies",
+      "url": "https://aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies",
       "source": "Al Jazeera",
-      "published": "2026-11-02T01:40:50+00:00",
-      "retrieved_at": "2026-11-02T02:08:59.412129+00:00",
+      "published": "2026-11-02T04:08:54+00:00",
+      "retrieved_at": "2026-11-02T04:29:40.404981+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Russian Emergencies Ministry also says its mobile app suffered a 'massive cyberattack', leading to 'false information'.",
+      "summary": "Trump attacks Muslim politicians Abdul El-Sayed and Ilhan Omar in his two last rallies on the campaign trail.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "8a7185ad0fbfe739a1a88810"
+      "story_fingerprint": "541c0cf4e496a2ac524c0a31"
+    },
+    {
+      "title": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
+      "url": "https://aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings",
+      "source": "Al Jazeera",
+      "published": "2026-11-02T01:40:50+00:00",
+      "retrieved_at": "2026-11-02T04:29:40.405067+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Ukrainian users receive fake warnings of nuclear threats, while Moscow reports 'false information' on its app.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "32e5a35ec47038e636db35f7"
     },
     {
       "title": "Trump invites Michigan Democrat Stevens to join the Republican Party",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "092361876ba6b4a5ac61cf3d"
-    },
-    {
-      "title": "US envoy reads anti-Castro book during Cuban FM’s UN address",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/28/us-envoy-reads-anti-castro-book-during-cuban-fms-un-address",
-      "source": "Al Jazeera",
-      "published": "2026-10-28T20:02:42+00:00",
-      "retrieved_at": "2026-10-28T20:34:30.933272+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US envoy reads anti-Castro book during Cuban FM’s UN address",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1c47d54352c978072b6c4513"
     }
   ],
   "unverified_history": [
