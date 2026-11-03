@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-03T01:48:19.739763+00:00",
+  "updated": "2026-11-03T01:53:14.216993+00:00",
   "items": [
+    {
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps",
+      "source": "TechCrunch AI",
+      "published": "2026-11-03T01:49:52+00:00",
+      "retrieved_at": "2026-11-03T01:53:09.153580+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0f5a8aab0b912ae022aecaa6"
+    },
     {
       "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
       "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "e36d0b8501bf1b8dd3fb4ebf"
-    },
-    {
-      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-      "url": "https://openai.com/index/anima",
-      "source": "OpenAI",
-      "published": "2026-10-23T00:00:00+00:00",
-      "retrieved_at": "2026-10-27T15:53:44.635857+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "771d7fa28d7c561c7f8facf1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T01:48:11.023921+00:00",
+    "checked_at": "2026-11-03T01:53:08.493653+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
