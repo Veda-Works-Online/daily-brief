@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T10:08:57.375975+00:00",
+  "updated": "2026-11-03T10:13:52.860577+00:00",
   "items": [
     {
       "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
@@ -17,6 +17,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "18521012daf85904b91df3ea"
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "source": "OpenAI",
+      "published": "2026-11-03T08:00:00+00:00",
+      "retrieved_at": "2026-11-03T10:13:49.416333+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "16e748e1b8b29071ff0c4ca8"
     },
     {
       "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
@@ -257,23 +274,6 @@
       "story_fingerprint": "c5e70aac387c43e8f26bc0c7"
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "source": "OpenAI",
-      "published": "2026-11-02T18:00:00+00:00",
-      "retrieved_at": "2026-11-03T03:03:11.063498+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "ba452cd46e2bfe0e88210bd3"
-    },
-    {
       "title": "Rewarding defenders with bigger bug bounties",
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI",
@@ -289,6 +289,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "6656883eb79b37cadb8ab609"
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI",
+      "published": "2026-11-02T18:00:00+00:00",
+      "retrieved_at": "2026-11-03T03:03:11.063498+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "ba452cd46e2bfe0e88210bd3"
     },
     {
       "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6b7a95b05227a98f0946ca21"
-    },
-    {
-      "title": "Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could",
-      "url": "https://wired.com/review/samsung-galazy-z-flip8",
-      "source": "Wired",
-      "published": "2026-10-23T11:30:00+00:00",
-      "retrieved_at": "2026-10-23T11:36:38.222240+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Samsung’s cute compact is for those who want the smallest possible phone. Performance and camera are solid, but it’s pricier than its predecessor.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f4b396dbb9e3443cd8ecbd42"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T10:08:52.065326+00:00",
+    "checked_at": "2026-11-03T10:13:48.412469+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
