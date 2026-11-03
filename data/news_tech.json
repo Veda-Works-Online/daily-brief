@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-03T18:51:06.181505+00:00",
+  "updated": "2026-11-03T18:56:08.505179+00:00",
   "items": [
+    {
+      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
+      "url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027",
+      "source": "TechCrunch",
+      "published": "2026-11-03T18:51:33+00:00",
+      "retrieved_at": "2026-11-03T18:56:04.633261+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "15995e8a26ae52fe548be2f1"
+    },
     {
       "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
       "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off",
@@ -238,6 +255,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "09288f41115efa1c2083db9c"
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "source": "OpenAI",
+      "published": "2026-11-03T12:00:00+00:00",
+      "retrieved_at": "2026-11-03T18:56:04.488101+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "0772a3fc67c537a03cd71750"
     },
     {
       "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
@@ -546,23 +580,6 @@
       "story_fingerprint": "c5e70aac387c43e8f26bc0c7"
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "source": "OpenAI",
-      "published": "2026-11-02T18:00:00+00:00",
-      "retrieved_at": "2026-11-03T03:03:11.063498+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "ba452cd46e2bfe0e88210bd3"
-    },
-    {
       "title": "Rewarding defenders with bigger bug bounties",
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI",
@@ -578,6 +595,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "6656883eb79b37cadb8ab609"
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI",
+      "published": "2026-11-02T18:00:00+00:00",
+      "retrieved_at": "2026-11-03T03:03:11.063498+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "ba452cd46e2bfe0e88210bd3"
     },
     {
       "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "38e79efb6338bf3da8256c91"
-    },
-    {
-      "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
-      "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone",
-      "source": "TechCrunch",
-      "published": "2026-10-24T14:15:00+00:00",
-      "retrieved_at": "2026-10-24T14:16:18.082962+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f4f8dbe8fe775a22e9867823"
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
-      "source": "TechCrunch",
-      "published": "2026-10-24T14:00:00+00:00",
-      "retrieved_at": "2026-10-24T14:01:14.750370+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d09820ef9e18411bc0d1000d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T18:51:01.067992+00:00",
+    "checked_at": "2026-11-03T18:56:03.471430+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
