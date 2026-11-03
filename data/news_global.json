@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T18:16:17.074760+00:00",
+  "updated": "2026-11-03T18:21:16.474799+00:00",
   "items": [
     {
       "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
@@ -512,6 +512,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "242cef437dddb5fb802fdd0c"
+    },
+    {
+      "title": "US midterm election: Why it's important and races to watch",
+      "url": "https://dw.com/en/us-midterm-election-why-it-s-important-and-races-to-watch/a-79789932",
+      "source": "DW",
+      "published": "2026-11-03T08:05:00+00:00",
+      "retrieved_at": "2026-11-03T18:21:11.629523+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "US voters are electing a new Congress. The results will be decisive for the future of the United States, and a judgment on Donald Trump's second term as president.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1a6cdbda4844aface18fc142"
     },
     {
       "title": "US midterm election: How it works, why it's important and races to watch",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "762b011df70746ed6fc66658"
-    },
-    {
-      "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T15:50:23+00:00",
-      "retrieved_at": "2026-10-30T16:05:20.730551+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel has announced its final election results, tightened its siege on Hebron, and arrested people returning to Gaza.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f32e7c45b60a0fc75f01f8ba"
     }
   ],
   "unverified_history": [
