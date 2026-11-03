@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T21:00:54.967065+00:00",
+  "updated": "2026-11-03T21:27:06.212386+00:00",
   "items": [
     {
       "title": "Kyiv protest raises suspicions of possible Russian orchestration",
@@ -80,6 +80,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "db655064fd4381d33773f806"
+    },
+    {
+      "title": "The Danger of Being a Female Livestreamer in China",
+      "url": "https://thediplomat.com/2026/11/the-danger-of-being-a-female-livestreamer-in-china",
+      "source": "The Diplomat",
+      "published": "2026-11-03T18:39:00+00:00",
+      "retrieved_at": "2026-11-03T21:27:02.398490+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "When a fan thinks he owns you, online entitlement can morph into real-world violence.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "80fd6cc9a76b6eec1c18c176"
     },
     {
       "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
@@ -192,6 +208,38 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ee1bd648e447b06b22912e40"
+    },
+    {
+      "title": "The China-Pakistan Information Corridor Is Made to Silence Journalists",
+      "url": "https://thediplomat.com/2026/11/the-china-pakistan-information-corridor-is-made-to-silence-journalists",
+      "source": "The Diplomat",
+      "published": "2026-11-03T15:28:00+00:00",
+      "retrieved_at": "2026-11-03T21:27:02.398517+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "CPIC arrives in a country where the words \"fake news\" can already put a reporter in prison.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c964576b31df6facce6b615a"
+    },
+    {
+      "title": "How China Is Building Influence in Central Asia, One Laboratory at a Time",
+      "url": "https://thediplomat.com/2026/11/how-china-is-building-influence-in-central-asia-one-laboratory-at-a-time",
+      "source": "The Diplomat",
+      "published": "2026-11-03T15:07:00+00:00",
+      "retrieved_at": "2026-11-03T21:27:02.398532+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "Scientific and educational cooperation may be less visible than a railway, but it may also have longer lasting and broader results.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "aa7c875505598be87948c755"
     },
     {
       "title": "Israel’s opposition leaders back Eisenkot to oust Netanyahu",
@@ -370,6 +418,22 @@
       "story_fingerprint": "1f9d6dd29cd7af60562e9017"
     },
     {
+      "title": "Decouple Taiwan From China-Vatican Negotiations",
+      "url": "https://thediplomat.com/2026/11/decouple-taiwan-from-china-vatican-negotiations",
+      "source": "The Diplomat",
+      "published": "2026-11-03T13:33:00+00:00",
+      "retrieved_at": "2026-11-03T21:27:02.398571+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "Archbishop Gallagher’s remarks about the “price” of setting up an office in Beijing have struck a nerve in Taiwan. But the two aren’t actually related.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ecebbac22c7d90104672e148"
+    },
+    {
       "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
       "url": "https://bbc.co.uk/news/articles/cjy56dndlyz0o",
       "source": "BBC World",
@@ -432,6 +496,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ea36fca2440725fb4cafe9c4"
+    },
+    {
+      "title": "Does Reliance on China Undermine Iran’s Grand Strategy?",
+      "url": "https://thediplomat.com/2026/11/does-reliance-on-china-undermine-irans-grand-strategy",
+      "source": "The Diplomat",
+      "published": "2026-11-03T12:44:00+00:00",
+      "retrieved_at": "2026-11-03T21:27:02.398589+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "China’s interests in the Middle East increasingly conflict with Iran’s cooperation with regional proxies and use of coercive threats.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "71fd0636e6b8ef7b6bd1904e"
     },
     {
       "title": "Alaska Senate candidates trade accusations ahead of election",
@@ -3920,86 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "76f5c55d36c4cffe1e7a93f2"
-    },
-    {
-      "title": "EU and Canada seek deeper ties amid worsening global uncertainty",
-      "url": "https://aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T20:00:10+00:00",
-      "retrieved_at": "2026-10-30T20:06:20.000546+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Both sides signed a digital trade deal, as Trump's trade threats push Washington's allies to seek closer ties elsewhere.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "01adf4b6d9b46319c2bdfc22"
-    },
-    {
-      "title": "Why is Netanyahu accusing Palestinian Israeli parties of fraud?",
-      "url": "https://aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T19:34:36+00:00",
-      "retrieved_at": "2026-10-30T20:01:00.837325+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Prime Minister claims the parties accepted foreign funding.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b2d4d0a34141248ac71accdb"
-    },
-    {
-      "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
-      "url": "https://aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T18:55:36+00:00",
-      "retrieved_at": "2026-10-30T19:31:21.145788+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Pakistan's military spokesman warns of 'powerful spoilers and detractors' who still believe the conflict serves them.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5ee8f7cea15e1a09d0e50d51"
-    },
-    {
-      "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
-      "url": "https://aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T18:35:44+00:00",
-      "retrieved_at": "2026-10-30T18:55:13.558280+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Troops hold at least 12 Palestinians near demolished homes as nearly 5,000 remain displaced from Hebron neighbourhoods",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c1b47d594e1c5b85fc08c4c4"
-    },
-    {
-      "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
-      "url": "https://aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T18:33:29+00:00",
-      "retrieved_at": "2026-10-30T18:55:13.558309+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Incident comes as Iran says three oil tankers were halted while attempting to use 'unauthorised routes' to cross Hormuz.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "60a254dc7daa53a7b6b88afe"
     }
   ],
   "unverified_history": [
