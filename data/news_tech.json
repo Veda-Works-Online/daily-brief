@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T09:08:51.750610+00:00",
+  "updated": "2026-11-03T09:13:55.287160+00:00",
   "items": [
     {
       "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
@@ -257,23 +257,6 @@
       "story_fingerprint": "c5e70aac387c43e8f26bc0c7"
     },
     {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "source": "OpenAI",
-      "published": "2026-11-02T18:00:00+00:00",
-      "retrieved_at": "2026-11-03T03:03:11.063481+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "6656883eb79b37cadb8ab609"
-    },
-    {
       "title": "Preparing our next security sprint to harden OpenAI",
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI",
@@ -289,6 +272,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "ba452cd46e2bfe0e88210bd3"
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "source": "OpenAI",
+      "published": "2026-11-02T18:00:00+00:00",
+      "retrieved_at": "2026-11-03T03:03:11.063481+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "6656883eb79b37cadb8ab609"
     },
     {
       "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T09:08:46.338180+00:00",
+    "checked_at": "2026-11-03T09:13:47.085622+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
