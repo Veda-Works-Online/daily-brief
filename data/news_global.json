@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T15:00:16.502209+00:00",
+  "updated": "2026-11-03T15:05:18.719185+00:00",
   "items": [
     {
       "title": "US midterm voting begins in high-stakes test of Trump’s presidency",
@@ -1024,6 +1024,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cceeae61f6ef40bb1e7f8d00"
+    },
+    {
+      "title": "8 ways the midterm election could affect the US-Israel war with Iran",
+      "url": "https://dw.com/en/8-ways-the-midterm-election-could-affect-the-us-israel-war-with-iran/a-79831816",
+      "source": "DW",
+      "published": "2026-11-02T15:41:00+00:00",
+      "retrieved_at": "2026-11-03T15:05:13.511409+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "While the US midterms could open a window for diplomacy with Iran, they could also unleash a new military escalation. DW spoke with analysts to identify eight factors that could tip the balance toward war or peace.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c692a324c38c68522fb24b77"
     },
     {
       "title": "What might Trump have planned for Iran following the midterm election?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3fa4100281d4120eebd46f50"
-    },
-    {
-      "title": "Georgia midterm elections: Why this is a key US battleground",
-      "url": "https://aljazeera.com/news/2026/10/30/georgia-midterm-elections-why-this-is-a-key-us-battleground",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T12:09:03+00:00",
-      "retrieved_at": "2026-10-30T12:22:29.573303+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Obama and Trump campaign in key battleground state ahead of next week's midterm elections.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6ea71cf0e77c1246779894a6"
     }
   ],
   "unverified_history": [
