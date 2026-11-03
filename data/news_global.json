@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-03T01:11:50.739155+00:00",
+  "updated": "2026-11-03T01:28:22.829488+00:00",
   "items": [
+    {
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "url": "https://bbc.co.uk/news/articles/c6rey4v53exgo",
+      "source": "BBC World",
+      "published": "2026-11-03T01:23:03+00:00",
+      "retrieved_at": "2026-11-03T01:28:17.214846+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7c9e33588aac8a4b6edb986b"
+    },
     {
       "title": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0c6385cc99217a96ff067264"
-    },
-    {
-      "title": "Israel election result shows no overall majority as vote count complete",
-      "url": "https://aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T20:22:04+00:00",
-      "retrieved_at": "2026-10-29T20:24:28.732497+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Opposition explores options to form coalition as no party secures the 61 seats required for parliamentary majority.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5c1227f6f715e0ee4885bc7c"
     }
   ],
   "unverified_history": [
