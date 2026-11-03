@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-03T07:58:54.361764+00:00",
+  "updated": "2026-11-03T08:03:40.929659+00:00",
   "items": [
+    {
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene",
+      "source": "TechCrunch",
+      "published": "2026-11-03T08:01:00+00:00",
+      "retrieved_at": "2026-11-03T08:03:35.460276+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "18521012daf85904b91df3ea"
+    },
     {
       "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
       "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f4b396dbb9e3443cd8ecbd42"
-    },
-    {
-      "title": "A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married",
-      "url": "https://wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married",
-      "source": "Wired",
-      "published": "2026-10-23T10:15:00+00:00",
-      "retrieved_at": "2026-10-23T10:21:30.567675+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Upward, a newly relaunched Christian app, is pitching trad values to a generation that barely even dates.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3aabd48ec37b69040db34ad7"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T07:58:48.928924+00:00",
+    "checked_at": "2026-11-03T08:03:34.181861+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
