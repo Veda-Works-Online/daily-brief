@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-03T16:45:54.268768+00:00",
+  "updated": "2026-11-03T16:50:58.177241+00:00",
   "items": [
+    {
+      "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+      "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch",
+      "source": "TechCrunch",
+      "published": "2026-11-03T16:49:09+00:00",
+      "retrieved_at": "2026-11-03T16:50:53.218084+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "db01c04e00e63a8ad73b8cd5"
+    },
     {
       "title": "Palette: teaching a small model to build decks in your design language",
       "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3757eab750d8860d1fa5302b"
-    },
-    {
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026",
-      "source": "TechCrunch AI",
-      "published": "2026-10-23T19:06:23+00:00",
-      "retrieved_at": "2026-10-23T19:08:14.989740+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "06814f9e9022731d9a463a42"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T16:45:48.325228+00:00",
+    "checked_at": "2026-11-03T16:50:51.998096+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
