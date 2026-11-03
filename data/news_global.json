@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T13:30:09.692339+00:00",
+  "updated": "2026-11-03T13:45:24.101495+00:00",
   "items": [
     {
       "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3b8fb5126c471c3bb26e1c4c"
+    },
+    {
+      "title": "Iran commander sets out five conditions for regional security",
+      "url": "https://aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T13:21:57+00:00",
+      "retrieved_at": "2026-11-03T13:45:18.624073+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Mediator Qatar says US and Iran are studying proposals to resume negotiations and that it was 'hopeful' of an agreement.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ba42b61280ff3d6a151cc9c5"
     },
     {
       "title": "Qatar remains hopeful the US and Iran can reach a deal",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0b46987944e33d19b0eb34dc"
-    },
-    {
-      "title": "US weighs new Iran strikes as Vance reaches out: Is war or a deal closer?",
-      "url": "https://aljazeera.com/news/2026/10/30/us-weighs-new-iran-strikes-as-vance-reaches-out-is-war-or-a-deal-closer",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T10:40:52+00:00",
-      "retrieved_at": "2026-10-30T11:17:32.478559+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "As Washington and Tehran send mixed signals, analysts say trust remains a key obstacle to any deal.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b73f2e4dc2f8f541ef9c450a"
     }
   ],
   "unverified_history": [
