@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-03T10:59:10.076120+00:00",
+  "updated": "2026-11-03T11:04:00.404127+00:00",
   "items": [
+    {
+      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
+      "url": "https://wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani",
+      "source": "Wired",
+      "published": "2026-11-03T11:00:00+00:00",
+      "retrieved_at": "2026-11-03T11:03:56.223972+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3ac3fac9cfbbee55aa32d80b"
+    },
     {
       "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
       "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9fa15e2da19af49e7549c31c"
-    },
-    {
-      "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites",
-      "source": "Ars Technica",
-      "published": "2026-10-23T11:30:22+00:00",
-      "retrieved_at": "2026-10-23T14:07:34.555736+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6b7a95b05227a98f0946ca21"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T10:59:02.073907+00:00",
+    "checked_at": "2026-11-03T11:03:54.803230+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
