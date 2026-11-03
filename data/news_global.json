@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-03T03:18:22.845168+00:00",
+  "updated": "2026-11-03T03:38:17.668632+00:00",
   "items": [
+    {
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "url": "https://bbc.co.uk/news/articles/cm5ynekkn5qko",
+      "source": "BBC World",
+      "published": "2026-11-03T03:32:36+00:00",
+      "retrieved_at": "2026-11-03T03:38:12.120183+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ad461c32e162f4243d03c0c8"
+    },
     {
       "title": "US urges Venezuela to follow phased plan for democratic transition",
       "url": "https://aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0f21b9307541a560385bdcb6"
-    },
-    {
-      "title": "Trump administration attempts to take down leak of ICE personnel data",
-      "url": "https://aljazeera.com/news/2026/10/29/trump-administration-attempts-to-take-down-leak-of-ice-personnel-data",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T22:16:51+00:00",
-      "retrieved_at": "2026-10-29T22:34:31.432079+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "An Icelandic web company, FlokiNET, has defended the data's publication as satisfying a 'legitimate' public interest.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9b2146ef1d55fbbff359b846"
     }
   ],
   "unverified_history": [
