@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-03T17:11:04.170175+00:00",
+  "updated": "2026-11-03T17:36:04.764273+00:00",
   "items": [
+    {
+      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "url": "https://bbc.co.uk/news/articles/c65ynez5y599o",
+      "source": "BBC World",
+      "published": "2026-11-03T16:57:41+00:00",
+      "retrieved_at": "2026-11-03T17:35:59.811383+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "54cedefcd6286328abc9f3f7"
+    },
     {
       "title": "Israel political deadlock leaves Netanyahu’s future hanging in the balance",
       "url": "https://aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance",
@@ -96,6 +112,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b2680b2a081754fae80bc6fb"
+    },
+    {
+      "title": "China and India achieved diplomatic thaw. Now the border is flaring up",
+      "url": "https://dw.com/en/china-and-india-achieved-diplomatic-thaw-now-the-border-is-flaring-up/a-79843273",
+      "source": "DW",
+      "published": "2026-11-03T14:48:00+00:00",
+      "retrieved_at": "2026-11-03T17:36:00.051062+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Indian authorities have confirmed a new border \"face-off\" between Indian and Chinese troops in Arunachal Pradesh, raising questions about the still fragile thaw in relations between New Delhi and Beijing.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c199238f7df5c5c5fd481437"
     },
     {
       "title": "What's behind new India-China border tensions?",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "091c6315d8cf128bafa76c57"
-    },
-    {
-      "title": "Democratic senator blames Egypt press crackdown on Trump military aid decision",
-      "url": "https://bbc.co.uk/news/articles/c63r529wn2vzo",
-      "source": "BBC World",
-      "published": "2026-10-30T15:17:11+00:00",
-      "retrieved_at": "2026-10-30T15:25:18.502453+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0285c88304702c5a43100db8"
-    },
-    {
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "url": "https://bbc.co.uk/news/articles/ckwyq2509p7xo",
-      "source": "BBC World",
-      "published": "2026-10-30T14:48:22+00:00",
-      "retrieved_at": "2026-10-30T15:00:31.920893+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a42601b673003ab0cb641383"
     }
   ],
   "unverified_history": [
