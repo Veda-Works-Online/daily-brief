@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-03T02:18:31.704589+00:00",
+  "updated": "2026-11-03T02:53:22.908110+00:00",
   "items": [
+    {
+      "title": "US urges Venezuela to follow phased plan for democratic transition",
+      "url": "https://aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T02:27:51+00:00",
+      "retrieved_at": "2026-11-03T02:53:17.404930+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "This comes as leading opposition leader returns to Venezuela and hints at criticism of Trump administration.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e6e503a1ebd4b13cc835573b"
+    },
+    {
+      "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+      "url": "https://aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T02:25:02+00:00",
+      "retrieved_at": "2026-11-03T02:53:17.404953+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Several explosions heard in Qeshm Island and Bandar Lengeh as US media say the US military had carried out the strikes.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "653787cf3470b0f145875c02"
+    },
     {
       "title": "US lawmakers ask Trump administration to stop deportation of Afghans",
       "url": "https://aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans",
@@ -82,20 +114,20 @@
       "story_fingerprint": "7b0d31097fecdc3c700ecedc"
     },
     {
-      "title": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
+      "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
       "url": "https://aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court",
       "source": "Al Jazeera",
       "published": "2026-11-03T00:00:00+00:00",
-      "retrieved_at": "2026-11-03T00:06:51.754268+00:00",
+      "retrieved_at": "2026-11-03T02:53:17.405038+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached.",
+      "summary": "US forces target Iranian positions in the Strait of Hormuz in \"defensive\" strikes following missile threats.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "7ae26e6c70955d37ee9c2998"
+      "story_fingerprint": "cd44d066d86d057089169040"
     },
     {
       "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9b2146ef1d55fbbff359b846"
-    },
-    {
-      "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
-      "url": "https://aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T21:16:26+00:00",
-      "retrieved_at": "2026-10-29T21:34:29.670715+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4e71f0c55257e9a08268560d"
-    },
-    {
-      "title": "Israel bans travel for Brad Lander after detention in occupied West Bank",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T21:10:13+00:00",
-      "retrieved_at": "2026-10-29T21:34:29.670745+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel has revoked travel authorisation for US Democratic congressional candidate Brad Lander after he was detained.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0151e8bceb47fe673154d194"
     }
   ],
   "unverified_history": [
