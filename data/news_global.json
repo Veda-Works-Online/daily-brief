@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-03T11:40:09.426917+00:00",
+  "updated": "2026-11-03T13:10:11.250328+00:00",
   "items": [
+    {
+      "title": "Can US midterm election really change Trump's Iran policy?",
+      "url": "https://dw.com/en/can-us-midterm-election-really-change-trump-s-iran-policy/a-79840683",
+      "source": "DW",
+      "published": "2026-11-03T12:55:00+00:00",
+      "retrieved_at": "2026-11-03T13:10:06.313711+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The US midterms are at hand, but their impact on the Iran war remains far from clear. Analysts say the Washington political elite may not be as divided on Iran as it appears.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ea36fca2440725fb4cafe9c4"
+    },
     {
       "title": "Alaska Senate candidates trade accusations ahead of election",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/3/alaska-senate-candidates-trade-accusations-ahead-of-election",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e98e2374d75ae638b3c433cd"
-    },
-    {
-      "title": "Russian oil refinery struck as Ukraine renews drone attacks",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T09:14:16+00:00",
-      "retrieved_at": "2026-10-30T09:26:12.347038+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Russian authorities say they intercepted more than 1,000 Ukrainian drones over multiple regions overnight.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9400dea3f4edbfa985bc0bfc"
     }
   ],
   "unverified_history": [
