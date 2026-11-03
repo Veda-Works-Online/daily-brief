@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-03T00:16:54.053422+00:00",
+  "updated": "2026-11-03T01:11:50.739155+00:00",
   "items": [
+    {
+      "title": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T01:01:16+00:00",
+      "retrieved_at": "2026-11-03T01:11:46.959814+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US President Donald Trump urged supporters to turn out ahead of Election Day",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cfd8d8fb9b301c2ec3a14131"
+    },
     {
       "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
       "url": "https://bbc.co.uk/news/articles/cm3wv085ne6po",
@@ -210,20 +226,20 @@
       "story_fingerprint": "88460fd6a00aabc40efb19e3"
     },
     {
-      "title": "Trump asks Supreme Court to block 20,000 California ballots before midterms",
+      "title": "Supreme Court rejects Trump request to set aside California ballots",
       "url": "https://aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms",
       "source": "Al Jazeera",
       "published": "2026-11-02T19:06:52+00:00",
-      "retrieved_at": "2026-11-02T21:16:54.408687+00:00",
+      "retrieved_at": "2026-11-03T01:11:46.960029+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "California says any move to block ballots from suspected noncitizens could disenfranchise eligible US voters.",
+      "summary": "Top court declines to block California from counting ballots of voters Trump administration claims are not US citizens.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "847fa14959062ccf8360615a"
+      "story_fingerprint": "4f585bfb1febb80ce7491e79"
     },
     {
       "title": "The 5th Plenum and the CCP’S Dark Warning to the Unfaithful",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5c1227f6f715e0ee4885bc7c"
-    },
-    {
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "url": "https://bbc.co.uk/news/articles/ckdd8qdl9e0eo",
-      "source": "BBC World",
-      "published": "2026-10-29T20:21:54+00:00",
-      "retrieved_at": "2026-10-29T21:44:31.620446+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "60bffafafac17d60f42e6074"
     }
   ],
   "unverified_history": [
