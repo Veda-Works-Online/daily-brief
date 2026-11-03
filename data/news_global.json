@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T01:28:22.829488+00:00",
+  "updated": "2026-11-03T01:48:28.242559+00:00",
   "items": [
     {
       "title": "North Korea denies being behind record $6.3bn Binance hack",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7c9e33588aac8a4b6edb986b"
+    },
+    {
+      "title": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T01:17:57+00:00",
+      "retrieved_at": "2026-11-03T01:48:22.559929+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "At least 26 people were killed in Russian strikes on a school being used as a humanitarian aid centre.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e460a2e632de85a7765cd57c"
     },
     {
       "title": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ffb60301a8286503cc011452"
-    },
-    {
-      "title": "Does Russia offer African countries an equal partnership?",
-      "url": "https://aljazeera.com/video/inside-story/2026/10/29/does-russia-offer-african-countries-an-equal-partnership",
-      "source": "Al Jazeera",
-      "published": "2026-10-29T20:34:28+00:00",
-      "retrieved_at": "2026-10-29T20:54:29.035966+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "President Vladimir Putin hosts African leaders at a summit in Moscow.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0c6385cc99217a96ff067264"
     }
   ],
   "unverified_history": [
