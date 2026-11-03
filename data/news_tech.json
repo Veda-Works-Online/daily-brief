@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-03T16:00:11.436851+00:00",
+  "updated": "2026-11-03T16:05:06.085538+00:00",
   "items": [
+    {
+      "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
+      "url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech",
+      "source": "TechCrunch",
+      "published": "2026-11-03T16:04:55+00:00",
+      "retrieved_at": "2026-11-03T16:05:02.180373+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9f4f49af9bdaa331a9ae932f"
+    },
     {
       "title": "Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?",
       "url": "https://huggingface.co/blog/ibm-research/cuga-harness",
@@ -36,11 +53,11 @@
       "story_fingerprint": "0181afdb6be95440cb411b5a"
     },
     {
-      "title": "Here's Why You Shouldn't Use AI to Vote",
+      "title": "Here’s Why You Shouldn’t Use AI to Vote",
       "url": "https://wired.com/story/heres-why-you-shouldnt-use-ai-to-vote",
       "source": "Wired",
       "published": "2026-11-03T14:45:08+00:00",
-      "retrieved_at": "2026-11-03T14:50:07.994998+00:00",
+      "retrieved_at": "2026-11-03T16:05:01.713108+00:00",
       "feed_url": "https://www.wired.com/feed/rss",
       "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
       "isAI": true,
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "2265c8a1bc84d92bfd490011"
-    },
-    {
-      "title": "What’s the Best iPhone to Buy or Avoid Right Now? (2026)",
-      "url": "https://wired.com/gallery/iphone-buying-guide",
-      "source": "Wired",
-      "published": "2026-10-23T17:00:00+00:00",
-      "retrieved_at": "2026-10-23T17:07:30.450782+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they’re not your only options. We have all the details on Apple’s smartphone lineup to help you find the right model.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "16b7de78205899881b541f92"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T16:00:00.769081+00:00",
+    "checked_at": "2026-11-03T16:04:59.984446+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
