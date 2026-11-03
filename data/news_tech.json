@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T00:46:40.506879+00:00",
+  "updated": "2026-11-03T00:51:42.706448+00:00",
   "items": [
     {
       "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
@@ -408,6 +408,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "e8f2f093edfdf5324a8d3fe5"
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "source": "OpenAI",
+      "published": "2026-11-02T00:00:00+00:00",
+      "retrieved_at": "2026-11-03T00:51:37.778013+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "de17d7d5012d7d6b6ae91e9a"
     },
     {
       "title": "Qodo builds context into AI code review with Codex",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "6fe7481317bcd54d64792d6f"
-    },
-    {
-      "title": "Palmer Luckey and Ben Lamm Made a Genetically Modified Military Dog Startup",
-      "url": "https://wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup",
-      "source": "Wired",
-      "published": "2026-10-22T23:15:00+00:00",
-      "retrieved_at": "2026-10-23T12:22:24.725151+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with \"advanced body armor.\"",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "02de3d183daa5a11de3e4e86"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T00:46:36.719347+00:00",
+    "checked_at": "2026-11-03T00:51:37.045994+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
