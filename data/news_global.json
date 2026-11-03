@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-03T13:45:24.101495+00:00",
+  "updated": "2026-11-03T13:55:25.413430+00:00",
   "items": [
+    {
+      "title": "Trump says that US will stop paying Israel after year-end",
+      "url": "https://aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T13:42:05+00:00",
+      "retrieved_at": "2026-11-03T13:55:19.899375+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "This is a breaking news story.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ab402403dd0483ae6779da80"
+    },
     {
       "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
       "url": "https://bbc.co.uk/news/articles/cjy56dndlyz0o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9df3471ed3d486d3e9489b92"
-    },
-    {
-      "title": "How can Israel break its election deadlock?",
-      "url": "https://aljazeera.com/news/2026/10/30/how-can-israel-break-its-election-deadlock",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T10:50:21+00:00",
-      "retrieved_at": "2026-10-30T11:17:32.478511+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "No political party has achieved the 61-seat majority required in the Knesset to form a government in Israel.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0b46987944e33d19b0eb34dc"
     }
   ],
   "unverified_history": [
