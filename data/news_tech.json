@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-03T15:55:07.522927+00:00",
+  "updated": "2026-11-03T16:00:11.436851+00:00",
   "items": [
+    {
+      "title": "Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-harness",
+      "source": "Hugging Face",
+      "published": "2026-11-03T15:57:39+00:00",
+      "retrieved_at": "2026-11-03T16:00:02.143539+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "b7bf80d36be3783b7f26ccbc"
+    },
     {
       "title": "Apple restricts dating apps and AI companions to users 18 and up",
       "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "16b7de78205899881b541f92"
-    },
-    {
-      "title": "Everybody panic: A Valve developer said \"HLX\" in public",
-      "url": "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public",
-      "source": "Ars Technica",
-      "published": "2026-10-23T16:35:00+00:00",
-      "retrieved_at": "2026-10-23T17:38:17.615038+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Sound designer lets Half Life-related codename slip at a conference.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "77bf667a367384be87885b6f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T15:55:01.485432+00:00",
+    "checked_at": "2026-11-03T16:00:00.769081+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
