@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-03T07:28:55.227870+00:00",
+  "updated": "2026-11-03T07:53:51.602126+00:00",
   "items": [
+    {
+      "title": "When will we know the US midterm election results?",
+      "url": "https://aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T07:27:21+00:00",
+      "retrieved_at": "2026-11-03T07:53:47.475583+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The first results are expected on Tuesday as polls begin to close at 23:00 GMT. But final results might take days.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3ae2a3223e81686d923efa96"
+    },
     {
       "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
       "url": "https://bbc.co.uk/news/articles/cjy56dndlyz0o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9b10c0d038700b1b26a9b7db"
-    },
-    {
-      "title": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T02:40:26+00:00",
-      "retrieved_at": "2026-10-30T02:50:20.032957+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel’s Prime Minister accused Palestinian-Israeli parties of election fraud.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7fbeff696b65cf1858cdae94"
     }
   ],
   "unverified_history": [
