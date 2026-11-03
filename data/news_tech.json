@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-03T21:42:03.874270+00:00",
+  "updated": "2026-11-03T21:47:08.221727+00:00",
   "items": [
+    {
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+      "source": "TechCrunch AI",
+      "published": "2026-11-03T21:43:08+00:00",
+      "retrieved_at": "2026-11-03T21:47:01.571031+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f78522ccf6d1f74a6fad041e"
+    },
     {
       "title": "$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work",
       "url": "https://wired.com/story/iphone-duo-carrier-deal-november-2026",
@@ -1005,23 +1022,6 @@
       "story_fingerprint": "e8f2f093edfdf5324a8d3fe5"
     },
     {
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "source": "OpenAI",
-      "published": "2026-11-02T00:00:00+00:00",
-      "retrieved_at": "2026-11-03T00:51:37.778013+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "de17d7d5012d7d6b6ae91e9a"
-    },
-    {
       "title": "Qodo builds context into AI code review with Codex",
       "url": "https://openai.com/index/qodo-codex-plugin",
       "source": "OpenAI",
@@ -1037,6 +1037,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "7655c93a05754de042ffed24"
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "source": "OpenAI",
+      "published": "2026-11-02T00:00:00+00:00",
+      "retrieved_at": "2026-11-03T00:51:37.778013+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "de17d7d5012d7d6b6ae91e9a"
     },
     {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -2654,6 +2671,23 @@
       "story_fingerprint": "22ece9f220616822cc655287"
     },
     {
+      "title": "Evernote turns AI-driven discovery into paid subscriptions",
+      "url": "https://openai.com/ads/customers/evernote",
+      "source": "OpenAI",
+      "published": "2026-10-28T19:40:49+00:00",
+      "retrieved_at": "2026-11-03T21:47:01.986663+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "89d262ebd586e80555e13198"
+    },
+    {
       "title": "Anthropic just launched tools to show companies what their AI spending is buying",
       "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
       "source": "TechCrunch AI",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9ad7a8d1fd4d33b010dcc844"
-    },
-    {
-      "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
-      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead",
-      "source": "TechCrunch",
-      "published": "2026-10-25T20:20:08+00:00",
-      "retrieved_at": "2026-10-25T20:26:22.497580+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "\"That's a 12-year-old view of the world.\"",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e3bf675c0370c2f5315a7d83"
-    },
-    {
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-      "source": "TechCrunch AI",
-      "published": "2026-10-25T16:57:32+00:00",
-      "retrieved_at": "2026-10-25T17:05:36.196646+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8253190a7ed8c6aef3bdee0f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T21:41:59.711513+00:00",
+    "checked_at": "2026-11-03T21:47:00.966746+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
