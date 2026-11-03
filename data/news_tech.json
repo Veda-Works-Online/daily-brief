@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-03T21:27:00.105727+00:00",
+  "updated": "2026-11-03T21:32:08.403979+00:00",
   "items": [
+    {
+      "title": "$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work",
+      "url": "https://wired.com/story/iphone-duo-carrier-deal-november-2026",
+      "source": "Wired",
+      "published": "2026-11-03T21:25:25+00:00",
+      "retrieved_at": "2026-11-03T21:32:04.454663+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "T-Mobile, AT&T, and Verizon are offering incentives of up to $1,200 off the iPhone Duo, but you will need to commit to a 36-month plan, which can be expensive.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7072dc5bdcd3d74c2091dadb"
+    },
     {
       "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
       "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8253190a7ed8c6aef3bdee0f"
-    },
-    {
-      "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
-      "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy",
-      "source": "TechCrunch",
-      "published": "2026-10-25T16:05:00+00:00",
-      "retrieved_at": "2026-10-25T16:05:44.625492+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6652c28e35cb6dc749195741"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T21:26:55.810580+00:00",
+    "checked_at": "2026-11-03T21:32:03.062348+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
