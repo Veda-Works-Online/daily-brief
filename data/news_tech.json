@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T07:08:48.241983+00:00",
+  "updated": "2026-11-03T07:13:49.324121+00:00",
   "items": [
     {
       "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
@@ -68,6 +68,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "749e5f466fba96f42039d4d9"
+    },
+    {
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "source": "Hugging Face",
+      "published": "2026-11-03T00:00:00+00:00",
+      "retrieved_at": "2026-11-03T07:13:41.943137+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "a09becdea08de5db001d2fc4"
     },
     {
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "041d6888ea9a862aa6ad9d54"
-    },
-    {
-      "title": "The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars",
-      "url": "https://wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars",
-      "source": "Wired",
-      "published": "2026-10-23T09:00:00+00:00",
-      "retrieved_at": "2026-10-23T09:01:17.774850+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The cloud has baffled astronomers since its discovery in 2018. Now, a new study offers a possible cause for its appearance.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9cf7235517604151ad8a473d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T07:08:43.965493+00:00",
+    "checked_at": "2026-11-03T07:13:41.263855+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
