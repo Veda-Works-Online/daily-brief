@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-03T20:31:13.068239+00:00",
+  "updated": "2026-11-03T21:00:54.967065+00:00",
   "items": [
+    {
+      "title": "Kyiv protest raises suspicions of possible Russian orchestration",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T20:54:44+00:00",
+      "retrieved_at": "2026-11-03T21:00:49.947953+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Ukraine is investigating clashes between protesters and authorities at a military dormitory near Kyiv.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "29beacc73447b956e9f4c31b"
+    },
     {
       "title": "The Cost of Waiting: Why the Houthis Are Getting More Dangerous and Where to Hit Them",
       "url": "https://warontherocks.com/the-cost-of-waiting-why-the-houthis-are-getting-more-dangerous-and-where-to-hit-them",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "60a254dc7daa53a7b6b88afe"
-    },
-    {
-      "title": "Kim Jong Un calls for North Korea’s drone technology superiority",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T18:03:45+00:00",
-      "retrieved_at": "2026-10-30T18:15:18.315682+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "North Korean leader Kim Jong Un calls for “absolute superiority” in drone capabilities.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e5b66ca1410cde8817264dc4"
     }
   ],
   "unverified_history": [
