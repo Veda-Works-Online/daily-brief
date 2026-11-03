@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-03T17:56:03.691473+00:00",
+  "updated": "2026-11-03T18:01:21.264576+00:00",
   "items": [
+    {
+      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off",
+      "source": "TechCrunch",
+      "published": "2026-11-03T17:56:52+00:00",
+      "retrieved_at": "2026-11-03T18:01:13.672018+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "650aefcfdc22cf4c5e7ecb7e"
+    },
+    {
+      "title": "Google will let schools skip AI tools, but they have to give up search, too",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too",
+      "source": "Ars Technica AI",
+      "published": "2026-11-03T17:54:43+00:00",
+      "retrieved_at": "2026-11-03T18:01:13.596614+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Google will offer schools AI tools that allegedly don't give away the answers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3dd21f530f7052124d253806"
+    },
     {
       "title": "StateBench: Testing how language models track state changes over long documents",
       "url": "https://huggingface.co/blog/allenai/statebench",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d09820ef9e18411bc0d1000d"
-    },
-    {
-      "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-      "url": "https://wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable",
-      "source": "Wired",
-      "published": "2026-10-24T12:00:00+00:00",
-      "retrieved_at": "2026-10-24T12:05:27.715901+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f040b07929d9a9eecaac5594"
-    },
-    {
-      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature",
-      "source": "Ars Technica",
-      "published": "2026-10-24T11:50:28+00:00",
-      "retrieved_at": "2026-10-24T12:40:36.364602+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "288654ec72cea0c3ad624210"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T17:55:58.669328+00:00",
+    "checked_at": "2026-11-03T18:01:12.409039+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
