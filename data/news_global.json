@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-03T14:35:07.632991+00:00",
+  "updated": "2026-11-03T15:00:16.502209+00:00",
   "items": [
+    {
+      "title": "US midterm voting begins in high-stakes test of Trump’s presidency",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/3/us-midterm-voting-begins-in-high-stakes-test-of-trumps-presidency",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T14:42:41+00:00",
+      "retrieved_at": "2026-11-03T15:00:11.046106+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Voting is under way across the US in midterm elections that could strip Trump’s Republicans of control of Congress.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bb32d5e4b9b4d69cc4f35ae4"
+    },
+    {
+      "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
+      "url": "https://aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T14:30:24+00:00",
+      "retrieved_at": "2026-11-03T15:00:11.046130+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The banned UK group, which targets Israel's war machine, has inspired activists in Europe and beyond.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "271fab70ae1e12435f69f35f"
+    },
     {
       "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
       "url": "https://aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers",
@@ -18,11 +50,11 @@
       "story_fingerprint": "510ae661ff89c399e271edba"
     },
     {
-      "title": "Trump says that US will stop paying Israel aid after year-end",
+      "title": "Trump says US will stop giving Israel aid after year-end",
       "url": "https://aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end",
       "source": "Al Jazeera",
       "published": "2026-11-03T13:42:05+00:00",
-      "retrieved_at": "2026-11-03T14:35:02.119039+00:00",
+      "retrieved_at": "2026-11-03T15:00:11.046186+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "Military aid to Israel and campaign contributions from Israel's backers to US candidates has animated political debate.",
       "category": "global",
@@ -31,7 +63,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "1103d9c2367577901c00bc77"
+      "story_fingerprint": "1f9d6dd29cd7af60562e9017"
     },
     {
       "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6ea71cf0e77c1246779894a6"
-    },
-    {
-      "title": "Palestinian voter turnout exposes Israel’s attitude towards Arab citizens",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/30/palestinian-turnout-exposes-israels-treatment-of-arab-citizens",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T11:43:17+00:00",
-      "retrieved_at": "2026-10-30T11:57:31.855075+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The strong Palestinian turnout has exposed how Arab citizens are treated within Israel's democracy, says Xavier Abu Eid.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cc48efc649a676ce3164c448"
-    },
-    {
-      "title": "Germany takes cautious approach on Israeli election results",
-      "url": "https://dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184",
-      "source": "DW",
-      "published": "2026-10-30T11:26:00+00:00",
-      "retrieved_at": "2026-10-30T13:02:38.209302+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "German politicians have been slow to respond as they wait to see who is likely to comprise the next coalition. Many are also hoping for a government without religious hardliners.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b7f1cfd4ef5e0d013ad8fee8"
     }
   ],
   "unverified_history": [
