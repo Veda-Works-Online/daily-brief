@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-03T17:10:53.396475+00:00",
+  "updated": "2026-11-03T17:15:54.289151+00:00",
   "items": [
+    {
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "source": "Hugging Face",
+      "published": "2026-11-03T17:15:21+00:00",
+      "retrieved_at": "2026-11-03T17:15:49.031778+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "bdddf99784840f01031037de"
+    },
     {
       "title": "Anthropic is still grappling with the economics of compute",
       "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "07f0ebc48f52717ea0237265"
-    },
-    {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
-      "source": "TechCrunch AI",
-      "published": "2026-10-23T23:05:49+00:00",
-      "retrieved_at": "2026-10-26T16:20:13.308185+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b7e2204d2234823769c1eb60"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T17:10:48.290893+00:00",
+    "checked_at": "2026-11-03T17:15:48.403196+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
