@@ -1,21 +1,37 @@
 {
-  "updated": "2026-11-03T14:00:28.346391+00:00",
+  "updated": "2026-11-03T14:35:07.632991+00:00",
   "items": [
     {
-      "title": "Trump says that US will stop paying Israel military aid after year-end",
-      "url": "https://aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end",
+      "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
+      "url": "https://aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers",
       "source": "Al Jazeera",
-      "published": "2026-11-03T13:42:05+00:00",
-      "retrieved_at": "2026-11-03T14:00:22.623867+00:00",
+      "published": "2026-11-03T14:17:29+00:00",
+      "retrieved_at": "2026-11-03T14:35:02.118959+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "This is a breaking news story.",
+      "summary": "Cold stores in supermarkets across Europe have been targeted in a cyberattack with no clear culprit.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "998336c2f6fdbf7882839939"
+      "story_fingerprint": "510ae661ff89c399e271edba"
+    },
+    {
+      "title": "Trump says that US will stop paying Israel aid after year-end",
+      "url": "https://aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T13:42:05+00:00",
+      "retrieved_at": "2026-11-03T14:35:02.119039+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Military aid to Israel and campaign contributions from Israel's backers to US candidates has animated political debate.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1103d9c2367577901c00bc77"
     },
     {
       "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b7f1cfd4ef5e0d013ad8fee8"
-    },
-    {
-      "title": "Russia ‘forces’ closure of investigative newspaper Novaya Gazeta",
-      "url": "https://aljazeera.com/news/2026/10/30/russia-forces-closure-of-investigative-newspaper-novaya-gazeta",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T11:08:00+00:00",
-      "retrieved_at": "2026-10-30T11:17:32.478440+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A symbol of independent journalism, Novaya Gazeta has been classed as a 'foreign agent' by Moscow.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9df3471ed3d486d3e9489b92"
     }
   ],
   "unverified_history": [
