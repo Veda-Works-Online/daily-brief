@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T17:20:59.725396+00:00",
+  "updated": "2026-11-03T17:25:59.690195+00:00",
   "items": [
     {
       "title": "StateBench: Testing how language models track state changes over long documents",
@@ -340,6 +340,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "749e5f466fba96f42039d4d9"
+    },
+    {
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "source": "Hugging Face",
+      "published": "2026-11-03T00:00:00+00:00",
+      "retrieved_at": "2026-11-03T17:25:54.443688+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "01cbb97549c46836b1f99b0c"
     },
     {
       "title": "Transformers Model Integration Contracts",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "288654ec72cea0c3ad624210"
-    },
-    {
-      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
-      "url": "https://wired.com/story/best-laptops",
-      "source": "Wired",
-      "published": "2026-10-24T10:00:00+00:00",
-      "retrieved_at": "2026-10-24T10:05:26.878720+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "07f0ebc48f52717ea0237265"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T17:20:54.674967+00:00",
+    "checked_at": "2026-11-03T17:25:53.826115+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
