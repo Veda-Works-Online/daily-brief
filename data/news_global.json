@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-03T13:10:11.250328+00:00",
+  "updated": "2026-11-03T13:20:14.029288+00:00",
   "items": [
+    {
+      "title": "Qatar remains hopeful the US and Iran can reach a deal",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/3/qatar-remains-hopeful-the-us-and-iran-can-reach-a-deal",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T13:05:39+00:00",
+      "retrieved_at": "2026-11-03T13:20:08.656542+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Qatar’s foreign ministry spokesperson Majed al-Ansari says regional neighbours and international partners are working to",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2b2b7a9d5a9fc82b556f6df1"
+    },
     {
       "title": "Can US midterm election really change Trump's Iran policy?",
       "url": "https://dw.com/en/can-us-midterm-election-really-change-trump-s-iran-policy/a-79840683",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "33216b8cc4601d2e3cf5c79a"
-    },
-    {
-      "title": "What can a global strike of dockworkers achieve for Gaza?",
-      "url": "https://aljazeera.com/features/2026/10/30/what-can-a-global-strike-of-dockworkers-achieve-for-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T10:04:35+00:00",
-      "retrieved_at": "2026-10-30T11:47:28.351335+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "More than 25 dockworkers' trade unions in 110 ports of 22 countries are going on strike on October 30.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e98e2374d75ae638b3c433cd"
     }
   ],
   "unverified_history": [
