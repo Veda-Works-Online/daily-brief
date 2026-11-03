@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-03T21:32:14.715199+00:00",
+  "updated": "2026-11-03T22:07:01.772221+00:00",
   "items": [
+    {
+      "title": "President Zelenskyy says US elections will impact war in Ukraine",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T21:43:19+00:00",
+      "retrieved_at": "2026-11-03T22:06:58.187306+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Ukrainian President Volodmyr Zelenskyy has said that the US midterm elections will impact the ongoing war in his country",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "12fff7c2800dfda93b1fb3e0"
+    },
     {
       "title": "Netanyahu’s eight-seat problem",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a097062cc2935a44612c7440"
-    },
-    {
-      "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T20:13:36+00:00",
-      "retrieved_at": "2026-10-30T20:41:24.678838+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "89c1b8e78dfd151573be27c6"
     }
   ],
   "unverified_history": [
