@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-03T07:08:54.751327+00:00",
+  "updated": "2026-11-03T07:28:55.227870+00:00",
   "items": [
+    {
+      "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says",
+      "url": "https://bbc.co.uk/news/articles/cjy56dndlyz0o",
+      "source": "BBC World",
+      "published": "2026-11-03T07:24:12+00:00",
+      "retrieved_at": "2026-11-03T07:28:51.466980+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2fc1c6754e0e5a4b1ca54f51"
+    },
     {
       "title": "AFC reschedules Asian Cup 2027 in Saudi Arabia amid regional conflict",
       "url": "https://aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict",
@@ -288,22 +304,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "298e5935f9173a3f8afd1dca"
-    },
-    {
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "url": "https://bbc.co.uk/news/articles/cjy56dndlyz0o",
-      "source": "BBC World",
-      "published": "2026-11-02T21:10:04+00:00",
-      "retrieved_at": "2026-11-02T21:11:53.244365+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "74dce251e20c4f5a7a8b70e3"
     },
     {
       "title": "Mamdani’s progressive allies vie for seats in Congress",
