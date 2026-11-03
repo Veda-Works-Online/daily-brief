@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T20:01:03.008429+00:00",
+  "updated": "2026-11-03T20:06:02.078171+00:00",
   "items": [
     {
       "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
@@ -359,6 +359,23 @@
       "story_fingerprint": "18521012daf85904b91df3ea"
     },
     {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "source": "OpenAI",
+      "published": "2026-11-03T08:00:00+00:00",
+      "retrieved_at": "2026-11-03T20:05:57.909432+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "93be83bf047746af08c47ad2"
+    },
+    {
       "title": "Heimstaden is changing residential real estate management with AI",
       "url": "https://openai.com/index/heimstaden",
       "source": "OpenAI",
@@ -459,6 +476,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "749e5f466fba96f42039d4d9"
+    },
+    {
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "source": "OpenAI",
+      "published": "2026-11-03T00:00:00+00:00",
+      "retrieved_at": "2026-11-03T20:05:57.909469+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "02f34d9ee75bcf4fd376ef32"
     },
     {
       "title": "CWE-bench v2: More coverage, quality, and transparency",
@@ -631,23 +665,6 @@
       "story_fingerprint": "c5e70aac387c43e8f26bc0c7"
     },
     {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "source": "OpenAI",
-      "published": "2026-11-02T18:00:00+00:00",
-      "retrieved_at": "2026-11-03T03:03:11.063481+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "6656883eb79b37cadb8ab609"
-    },
-    {
       "title": "Preparing our next security sprint to harden OpenAI",
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI",
@@ -663,6 +680,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "ba452cd46e2bfe0e88210bd3"
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "source": "OpenAI",
+      "published": "2026-11-02T18:00:00+00:00",
+      "retrieved_at": "2026-11-03T03:03:11.063481+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "6656883eb79b37cadb8ab609"
     },
     {
       "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "75d4e644dcf6f729c05b2714"
-    },
-    {
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet",
-      "source": "TechCrunch",
-      "published": "2026-10-24T20:15:33+00:00",
-      "retrieved_at": "2026-10-24T20:16:47.703864+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6d6c214d6c45e9cea16e3470"
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
-      "source": "TechCrunch",
-      "published": "2026-10-24T19:00:00+00:00",
-      "retrieved_at": "2026-10-24T19:01:56.559058+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8316e142267b1aef5e8a32ea"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T20:00:54.211256+00:00",
+    "checked_at": "2026-11-03T20:05:56.870284+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
