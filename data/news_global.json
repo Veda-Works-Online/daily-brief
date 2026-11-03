@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-03T17:36:04.764273+00:00",
+  "updated": "2026-11-03T17:41:10.789242+00:00",
   "items": [
+    {
+      "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T17:26:02+00:00",
+      "retrieved_at": "2026-11-03T17:41:05.749370+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Al Jazeera journalist Montaser Nassar was detained in raids near Hebron.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "734080c949194fdce4d91522"
+    },
+    {
+      "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
+      "url": "https://aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms",
+      "source": "Al Jazeera",
+      "published": "2026-11-03T17:22:45+00:00",
+      "retrieved_at": "2026-11-03T17:41:05.749414+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Shrimpers worry about fuel costs, tariffs and Trump's proposed cuts to the agency that provides vital weather data.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9274c604cf58081734d824b9"
+    },
     {
       "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
       "url": "https://bbc.co.uk/news/articles/c65ynez5y599o",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3bf42feedb98f3625523470a"
-    },
-    {
-      "title": "Trump reverses course, reinstates cancelled campaign rallies",
-      "url": "https://aljazeera.com/news/2026/10/30/trump-reverses-course-reinstates-cancelled-campaign-rallies",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T15:35:39+00:00",
-      "retrieved_at": "2026-10-30T15:50:16.948111+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The decision marks a sharp reversal after the US president said he didn't feel like he had to hold the events.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "96ba853cdce4db724a3786d2"
-    },
-    {
-      "title": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
-      "url": "https://aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall",
-      "source": "Al Jazeera",
-      "published": "2026-10-30T15:26:00+00:00",
-      "retrieved_at": "2026-10-30T15:35:19.439006+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "As Houthi missiles strike Aden, residents stockpile food and prepare escape plans, fearing a return to all-out war.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "091c6315d8cf128bafa76c57"
     }
   ],
   "unverified_history": [
