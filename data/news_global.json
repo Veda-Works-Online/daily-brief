@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-03T03:38:17.668632+00:00",
+  "updated": "2026-11-03T03:46:34.153274+00:00",
   "items": [
+    {
+      "title": "US strikes Iran ahead of midterm elections",
+      "url": "https://bbc.co.uk/news/articles/cx240mrm3g8vo",
+      "source": "BBC World",
+      "published": "2026-11-03T03:39:08+00:00",
+      "retrieved_at": "2026-11-03T03:46:28.639497+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "76f4a518fd14dbe4217890a9"
+    },
     {
       "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
       "url": "https://bbc.co.uk/news/articles/cm5ynekkn5qko",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "879f1bbba5dc987263303af3"
-    },
-    {
-      "title": "ASEAN Special Envoy Concludes Humanitarian Mission to Myanmar",
-      "url": "https://thediplomat.com/2026/10/asean-special-envoy-concludes-humanitarian-mission-to-myanmar",
-      "source": "The Diplomat",
-      "published": "2026-10-29T23:17:00+00:00",
-      "retrieved_at": "2026-10-30T05:46:14.838056+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "During the two-day visit, Philippine Foreign Secretary Ma. Theresa Lazaro oversaw the distribution of humanitarian aid and met with Naypyidaw's foreign minister.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0f21b9307541a560385bdcb6"
     }
   ],
   "unverified_history": [
