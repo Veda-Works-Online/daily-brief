@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-03T16:31:00.291427+00:00",
+  "updated": "2026-11-03T16:35:57.258631+00:00",
   "items": [
+    {
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "source": "Hugging Face",
+      "published": "2026-11-03T16:35:36+00:00",
+      "retrieved_at": "2026-11-03T16:35:53.267968+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "16865b7fb375e135ac3b583c"
+    },
     {
       "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
       "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "06814f9e9022731d9a463a42"
-    },
-    {
-      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs",
-      "source": "Ars Technica AI",
-      "published": "2026-10-23T17:18:31+00:00",
-      "retrieved_at": "2026-10-23T17:23:20.047053+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e766f9b401678663f776637f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-03T16:30:54.401438+00:00",
+    "checked_at": "2026-11-03T16:35:51.197923+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
