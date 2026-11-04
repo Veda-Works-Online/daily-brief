@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-04T18:44:08.325635+00:00",
+  "updated": "2026-11-04T18:49:15.823702+00:00",
   "items": [
+    {
+      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs",
+      "source": "TechCrunch AI",
+      "published": "2026-11-04T18:44:57+00:00",
+      "retrieved_at": "2026-11-04T18:49:11.681938+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "50649aa58d36276c9acfe63c"
+    },
     {
       "title": "The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court",
       "url": "https://wired.com/story/wired-world-fair-2026-mark-lanier",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "704d1bf0b81788900021018f"
-    },
-    {
-      "title": "Anthropic officially files for its public debut",
-      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut",
-      "source": "TechCrunch AI",
-      "published": "2026-10-26T14:35:22+00:00",
-      "retrieved_at": "2026-10-26T14:39:09.181450+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "94702af8fe0c949df1ad1039"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-04T18:44:03.488384+00:00",
+    "checked_at": "2026-11-04T18:49:10.968408+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
