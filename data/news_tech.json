@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T23:45:07.613534+00:00",
+  "updated": "2026-11-04T23:50:09.473343+00:00",
   "items": [
     {
       "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
@@ -17,6 +17,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8d16fd75f024c35ed05864ca"
+    },
+    {
+      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+      "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain",
+      "source": "Ars Technica",
+      "published": "2026-11-04T22:47:51+00:00",
+      "retrieved_at": "2026-11-04T23:50:04.061813+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "And what that could mean for physical Switch game costs.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "38f57a0bc4a1f5a2f1117891"
     },
     {
       "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c94477fd0529ca86e1a5491a"
-    },
-    {
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "source": "OpenAI",
-      "published": "2026-10-27T07:00:00+00:00",
-      "retrieved_at": "2026-10-27T16:54:32.250723+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "a72ccaf2145fa9c584512df5"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-04T23:44:59.121570+00:00",
+    "checked_at": "2026-11-04T23:50:02.089973+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
