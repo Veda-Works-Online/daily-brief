@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T20:14:15.187962+00:00",
+  "updated": "2026-11-04T20:19:08.876454+00:00",
   "items": [
     {
       "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
@@ -102,6 +102,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ba2ec424d2246b715c8bda88"
+    },
+    {
+      "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
+      "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028",
+      "source": "TechCrunch",
+      "published": "2026-11-04T18:12:30+00:00",
+      "retrieved_at": "2026-11-04T20:19:05.404931+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f6a641a911ef3aa2bbd82002"
     },
     {
       "title": "Waymo confirms it will start splitting with Uber in January 2028",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7aeed447a1702acb9b5675be"
-    },
-    {
-      "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
-      "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo",
-      "source": "Ars Technica AI",
-      "published": "2026-10-26T17:26:36+00:00",
-      "retrieved_at": "2026-10-26T17:30:12.432941+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Investigators explain how highway thieves stole $100M in data center equipment.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "95ba167e3839ef22b0916c6d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-04T20:14:10.067066+00:00",
+    "checked_at": "2026-11-04T20:19:03.774700+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
