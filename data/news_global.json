@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-04T00:22:04.691905+00:00",
+  "updated": "2026-11-04T00:57:05.626055+00:00",
   "items": [
+    {
+      "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
+      "url": "https://aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T00:35:44+00:00",
+      "retrieved_at": "2026-11-04T00:57:01.942298+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "At least seven flights and an Israel-bound cruise ship received threats, but officials say searches found no explosives.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0a72cac293211730cf8baff0"
+    },
+    {
+      "title": "US Department of Justice expands its probe into Alaska’s US Senate election",
+      "url": "https://aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T00:33:57+00:00",
+      "retrieved_at": "2026-11-04T00:57:01.942318+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The Trump administration is doubling down on allegations Democrats stood up a 'spoiler' candidate against Republicans.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ff7b1282150395408614d056"
+    },
     {
       "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
       "url": "https://aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack",
@@ -18,20 +50,20 @@
       "story_fingerprint": "d749888f0fa2517b2717a65b"
     },
     {
-      "title": "US midterm election results live: Polls start closing in some states",
+      "title": "US midterm election results live: First results roll in as polls close",
       "url": "https://aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states",
       "source": "Al Jazeera",
       "published": "2026-11-03T22:30:00+00:00",
-      "retrieved_at": "2026-11-03T23:12:01.969598+00:00",
+      "retrieved_at": "2026-11-04T00:57:01.942383+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky.",
+      "summary": "Early results are coming in from across the US as polls close in the midterm elections and control of Congress at stake.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "f8a95652376d8b76204246f6"
+      "story_fingerprint": "a5fc97cdf356658f5d5e8774"
     },
     {
       "title": "President Zelenskyy says US elections will impact war in Ukraine",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "97b06c70396b1476de1c4eec"
-    },
-    {
-      "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
-      "url": "https://dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469",
-      "source": "DW",
-      "published": "2026-10-30T20:55:00+00:00",
-      "retrieved_at": "2026-10-30T22:16:12.670884+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Prime Minister Mark Carney tells DW that Canada is seeking closer EU ties to \"diversify and deepen\" partnerships beyond the Americas. Despite German pushback, he said he favors the all-new term \"associate membership.\"",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b7fea34e02756d53d9b30bd5"
-    },
-    {
-      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-      "url": "https://bbc.co.uk/news/articles/cmewepdr109do",
-      "source": "BBC World",
-      "published": "2026-10-30T20:41:51+00:00",
-      "retrieved_at": "2026-10-30T20:46:21.354624+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2d563a885b4bb1d0e2279790"
     }
   ],
   "unverified_history": [
