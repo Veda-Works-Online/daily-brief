@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T22:14:03.350273+00:00",
+  "updated": "2026-11-04T22:19:05.530807+00:00",
   "items": [
     {
       "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
@@ -391,6 +391,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "d68dca6b5b6836d29aace2b5"
+    },
+    {
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "source": "OpenAI",
+      "published": "2026-11-04T00:00:00+00:00",
+      "retrieved_at": "2026-11-04T22:19:02.154540+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "0184f3a75ed4b4377b572f5d"
     },
     {
       "title": "Anthropic is working on a system to prove AI models’ identity",
@@ -1447,23 +1464,6 @@
       "story_fingerprint": "e8f2f093edfdf5324a8d3fe5"
     },
     {
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "source": "OpenAI",
-      "published": "2026-11-02T00:00:00+00:00",
-      "retrieved_at": "2026-11-03T00:51:37.778013+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "de17d7d5012d7d6b6ae91e9a"
-    },
-    {
       "title": "Qodo builds context into AI code review with Codex",
       "url": "https://openai.com/index/qodo-codex-plugin",
       "source": "OpenAI",
@@ -1479,6 +1479,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "7655c93a05754de042ffed24"
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "source": "OpenAI",
+      "published": "2026-11-02T00:00:00+00:00",
+      "retrieved_at": "2026-11-03T00:51:37.778013+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "de17d7d5012d7d6b6ae91e9a"
     },
     {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -2892,23 +2909,6 @@
       "story_fingerprint": "a055653655e24f8d5033851f"
     },
     {
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "url": "https://openai.com/index/credit-saison",
-      "source": "OpenAI",
-      "published": "2026-10-29T00:00:00+00:00",
-      "retrieved_at": "2026-10-30T15:50:07.913724+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "5ee0b328016ccb60a3902c09"
-    },
-    {
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "url": "https://huggingface.co/blog/announcing-project-protostar",
       "source": "Hugging Face",
@@ -2958,6 +2958,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "0356da6ce2f886abbe8c08e0"
+    },
+    {
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison",
+      "source": "OpenAI",
+      "published": "2026-10-29T00:00:00+00:00",
+      "retrieved_at": "2026-10-30T15:50:07.913724+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "5ee0b328016ccb60a3902c09"
     },
     {
       "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "c10c54ee5b10c08523a7b2b3"
-    },
-    {
-      "title": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
-      "url": "https://wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate",
-      "source": "Wired",
-      "published": "2026-10-26T22:40:37+00:00",
-      "retrieved_at": "2026-10-26T22:45:54.136205+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d0df518fc7810773a2702993"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-04T22:13:58.576622+00:00",
+    "checked_at": "2026-11-04T22:19:00.892933+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
