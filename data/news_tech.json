@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-04T23:15:11.687830+00:00",
+  "updated": "2026-11-04T23:20:08.839466+00:00",
   "items": [
+    {
+      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
+      "url": "https://wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space",
+      "source": "Wired",
+      "published": "2026-11-04T23:13:14+00:00",
+      "retrieved_at": "2026-11-04T23:20:02.330090+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low-Earth orbit.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8d16fd75f024c35ed05864ca"
+    },
     {
       "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
       "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "a72ccaf2145fa9c584512df5"
-    },
-    {
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant",
-      "source": "TechCrunch",
-      "published": "2026-10-27T02:00:00+00:00",
-      "retrieved_at": "2026-10-27T02:01:48.300052+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "effe6d9c14df139a8c6b8380"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-04T23:15:02.918295+00:00",
+    "checked_at": "2026-11-04T23:20:00.179470+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
