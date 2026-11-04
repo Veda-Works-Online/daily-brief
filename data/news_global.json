@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-04T06:33:13.833932+00:00",
+  "updated": "2026-11-04T06:38:14.528906+00:00",
   "items": [
+    {
+      "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
+      "url": "https://bbc.co.uk/news/articles/cmr4y92rgd9po",
+      "source": "BBC World",
+      "published": "2026-11-04T06:13:09+00:00",
+      "retrieved_at": "2026-11-04T06:38:08.980532+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3f6ffea6c5bdde1046e04c4f"
+    },
     {
       "title": "Lula’s victory is a stress test for the Global South",
       "url": "https://aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south",
@@ -16,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ce4a860436aa7ae1c7bbbe0c"
+    },
+    {
+      "title": "Florida Republicans fend off Democrats as state elects first black governor",
+      "url": "https://bbc.co.uk/news/articles/c9146d88pl32o",
+      "source": "BBC World",
+      "published": "2026-11-04T05:04:46+00:00",
+      "retrieved_at": "2026-11-04T06:38:08.980275+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "15d98491b55f809d6dfaaaa9"
     },
     {
       "title": "Trump and Republicans trampled in the midterms",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b1824700b28c280baabe8d4a"
-    },
-    {
-      "title": "Iran says four tankers on fire after striking mines in Hormuz",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T03:55:48+00:00",
-      "retrieved_at": "2026-10-31T04:11:44.002806+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran's Revolutionary Guard says four tankers have caught fire in the Strait of Hormuz.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "731b226c4849660fcac20856"
-    },
-    {
-      "title": "Russia’s Novaya Gazeta ‘killed off’ after murders, arrests and pressure",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/31/russias-novaya-gazeta-killed-off-after-murders-arrests-and-pressure",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T03:27:21+00:00",
-      "retrieved_at": "2026-10-31T03:36:43.418352+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Russia’s most prominent investigative newspaper is closing, with staff accusing the government of killing it off.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6443089bf0e0f703c92b9750"
     }
   ],
   "unverified_history": [
