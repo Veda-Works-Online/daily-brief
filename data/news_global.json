@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-04T08:28:59.859511+00:00",
+  "updated": "2026-11-04T08:34:03.704309+00:00",
   "items": [
+    {
+      "title": "The G.I. and the Paperback: A World War II Love Story",
+      "url": "https://warontherocks.com/the-g-i-and-the-paperback-a-world-war-ii-love-story",
+      "source": "War on the Rocks",
+      "published": "2026-11-04T08:30:26+00:00",
+      "retrieved_at": "2026-11-04T08:33:57.870868+00:00",
+      "feed_url": "https://warontherocks.com/feed/",
+      "summary": "On June 5, 1944, as soldiers lined British shores, preparing for their perilous journey to the beaches of Normandy, Special Services units handed out comfort items, from packs of cigarettes to candy. But one item was more sought after than any other: books. Crouched on the crowded decks awaiting Eisenhower’s call to launch, the men clasped their standard-issue rifles and clutched their…",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://warontherocks.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0a33c8b144bcf4c0fbcc4ed4"
+    },
     {
       "title": "Key moments from a night of midterm election firsts",
       "url": "https://bbc.co.uk/news/articles/cmr4y92rgd9po",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b89ad709a78ff50433197f82"
-    },
-    {
-      "title": "Spain train disaster clouds Sánchez chances of re-election",
-      "url": "https://bbc.co.uk/news/articles/cmeweppr990qo",
-      "source": "BBC World",
-      "published": "2026-10-31T05:44:21+00:00",
-      "retrieved_at": "2026-10-31T05:47:32.778051+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "294c4e58651c4387edde83db"
     }
   ],
   "unverified_history": [
