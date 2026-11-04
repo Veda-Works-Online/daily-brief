@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-04T18:24:23.328405+00:00",
+  "updated": "2026-11-04T18:29:10.797344+00:00",
   "items": [
+    {
+      "title": "The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court",
+      "url": "https://wired.com/story/wired-world-fair-2026-mark-lanier",
+      "source": "Wired",
+      "published": "2026-11-04T18:21:26+00:00",
+      "retrieved_at": "2026-11-04T18:29:07.638116+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Mark Lanier led the first social media addiction case to go to trial, winning a verdict against Meta and Google in March. It’s just the beginning.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ba2ec424d2246b715c8bda88"
+    },
     {
       "title": "Waymo confirms it will split with Uber in January 2028",
       "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "94702af8fe0c949df1ad1039"
-    },
-    {
-      "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
-      "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine",
-      "source": "Ars Technica AI",
-      "published": "2026-10-26T14:30:27+00:00",
-      "retrieved_at": "2026-10-26T16:05:15.793400+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bd64fa5f51232f19b3821145"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-04T18:24:18.560931+00:00",
+    "checked_at": "2026-11-04T18:29:06.055250+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
