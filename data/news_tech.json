@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-04T21:24:09.445457+00:00",
+  "updated": "2026-11-04T21:29:07.351419+00:00",
   "items": [
+    {
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election",
+      "source": "TechCrunch AI",
+      "published": "2026-11-04T21:25:44+00:00",
+      "retrieved_at": "2026-11-04T21:28:59.146175+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "88ea368959ca5731de89603f"
+    },
     {
       "title": "Meta acquires AI coding startup Conductor",
       "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9d660dda36a879eca30f7eae"
-    },
-    {
-      "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-      "url": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos",
-      "source": "TechCrunch",
-      "published": "2026-10-26T21:05:11+00:00",
-      "retrieved_at": "2026-10-26T22:10:54.173662+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1274a8f3f53934103c0b6594"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-04T21:24:00.758800+00:00",
+    "checked_at": "2026-11-04T21:28:58.362297+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
