@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T08:34:03.704309+00:00",
+  "updated": "2026-11-04T08:44:17.566299+00:00",
   "items": [
     {
       "title": "The G.I. and the Paperback: A World War II Love Story",
@@ -16,6 +16,38 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0a33c8b144bcf4c0fbcc4ed4"
+    },
+    {
+      "title": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
+      "url": "https://aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T08:22:15+00:00",
+      "retrieved_at": "2026-11-04T08:44:12.004719+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Returning Hebron residents face significant economic and structural devastation after Israeli military operation.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "96314a09de14a9dcaa3ecb9b"
+    },
+    {
+      "title": "Democrat Abdul El-Sayed wins election to US Senate from Michigan",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/4/democrat-abdul-el-sayed-wins-election-to-us-senate-from-michigan-2",
+      "source": "Al Jazeera",
+      "published": "2026-11-04T08:18:40+00:00",
+      "retrieved_at": "2026-11-04T08:44:12.004749+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Democrat Abdul El-Sayed gave an impassioned victory speech as he beat Republican Mike Rogers in the Michigan senate race",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d2a7c2d6d2761f3360c21113"
     },
     {
       "title": "Key moments from a night of midterm election firsts",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "425ce4aef3492e12ac9b8e96"
-    },
-    {
-      "title": "US midterms: 3 days to go – What latest polls say as early voting surges",
-      "url": "https://aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T06:59:55+00:00",
-      "retrieved_at": "2026-10-31T07:17:37.626913+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "More than 43 million Americans have voted early as Democrats lead opinion polls and Trump prepares for final rallies.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "89d38ac17faf9fb18e046a98"
-    },
-    {
-      "title": "After the ‘martyr’s’ funeral: The families left behind by Yemen’s war",
-      "url": "https://aljazeera.com/features/2026/10/31/after-the-martyrs-funeral-the-families-left-behind-by-yemens-war",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T05:48:25+00:00",
-      "retrieved_at": "2026-10-31T06:12:32.138169+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Rising fatalities in Yemen’s conflict deepen the burden on families of fighters, both emotionally and financially.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b89ad709a78ff50433197f82"
     }
   ],
   "unverified_history": [
