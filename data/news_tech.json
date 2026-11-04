@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T19:44:15.016912+00:00",
+  "updated": "2026-11-04T19:49:15.275312+00:00",
   "items": [
     {
       "title": "Open source AI is booming. Hugging Face explains who profits.",
@@ -87,11 +87,11 @@
       "story_fingerprint": "ba2ec424d2246b715c8bda88"
     },
     {
-      "title": "Waymo confirms it will split with Uber in January 2028",
-      "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028",
+      "title": "Waymo confirms it will start splitting with Uber in January 2028",
+      "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-start-splitting-with-uber-in-january-2028",
       "source": "TechCrunch",
       "published": "2026-11-04T18:12:30+00:00",
-      "retrieved_at": "2026-11-04T18:14:14.076806+00:00",
+      "retrieved_at": "2026-11-04T19:49:10.949556+00:00",
       "feed_url": "https://techcrunch.com/feed/",
       "summary": "The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
       "isAI": false,
@@ -101,7 +101,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "80bbe0ca66d2f194a176d8cc"
+      "story_fingerprint": "7003e32f1e9da06733843e6c"
     },
     {
       "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-04T19:44:10.327464+00:00",
+    "checked_at": "2026-11-04T19:49:09.370719+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
