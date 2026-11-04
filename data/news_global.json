@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T05:28:19.042043+00:00",
+  "updated": "2026-11-04T06:18:12.621386+00:00",
   "items": [
     {
       "title": "Trump and Republicans trampled in the midterms",
@@ -624,6 +624,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bd220ed418095583929b66dc"
+    },
+    {
+      "title": "Multiple flights to European airports targeted by bomb threats",
+      "url": "https://dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434",
+      "source": "DW",
+      "published": "2026-11-03T14:18:00+00:00",
+      "retrieved_at": "2026-11-04T06:18:07.258605+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The bomb threats involved two passenger planes bound for Warsaw, a Ryanair flight from London to Spain, two flights to Rome and a flight traveling from Israel to the Bulgarian capital, Sofia. No explosives were found.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5389ff0ea8059bb864a47ee4"
     },
     {
       "title": "Yemen: Houthi clashes near Taiz leave residents in a 'state of panic'",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "62992c00b7b3f08fb3eb966b"
-    },
-    {
-      "title": "The fight to save Canadian town threatened by Trump's tariffs",
-      "url": "https://bbc.co.uk/news/articles/cmly016ep243o",
-      "source": "BBC World",
-      "published": "2026-10-31T02:39:25+00:00",
-      "retrieved_at": "2026-10-31T11:48:44.511450+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "272fc1a76b92c43e44ac7001"
     }
   ],
   "unverified_history": [
