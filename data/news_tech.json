@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-04T21:09:24.270311+00:00",
+  "updated": "2026-11-04T21:14:14.930171+00:00",
   "items": [
+    {
+      "title": "Meta acquires AI coding startup Conductor",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+      "source": "TechCrunch AI",
+      "published": "2026-11-04T21:10:56+00:00",
+      "retrieved_at": "2026-11-04T21:14:08.569580+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "57299300f3a3ce3eae4799c2"
+    },
     {
       "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
       "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1274a8f3f53934103c0b6594"
-    },
-    {
-      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo",
-      "source": "Ars Technica AI",
-      "published": "2026-10-26T20:04:16+00:00",
-      "retrieved_at": "2026-10-26T20:10:07.650407+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Included is the ability to limit which applications Siri can directly access.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "980a81a4e346344090c29d27"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-04T21:09:19.512386+00:00",
+    "checked_at": "2026-11-04T21:14:07.855688+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
