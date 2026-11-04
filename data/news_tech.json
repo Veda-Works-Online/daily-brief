@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-04T20:09:13.756025+00:00",
+  "updated": "2026-11-04T20:14:15.187962+00:00",
   "items": [
+    {
+      "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
+      "url": "https://wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out",
+      "source": "Wired",
+      "published": "2026-11-04T20:06:21+00:00",
+      "retrieved_at": "2026-11-04T20:14:11.680448+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "55e8f4b1cec6658933eeb1db"
+    },
     {
       "title": "Open source AI is booming. Hugging Face explains who profits.",
       "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "95ba167e3839ef22b0916c6d"
-    },
-    {
-      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked",
-      "source": "TechCrunch AI",
-      "published": "2026-10-26T16:49:42+00:00",
-      "retrieved_at": "2026-10-26T16:50:14.490809+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2e2252f70607c9d44e935253"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-04T20:09:08.819645+00:00",
+    "checked_at": "2026-11-04T20:14:10.067066+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
