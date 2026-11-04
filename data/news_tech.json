@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-04T18:09:22.054083+00:00",
+  "updated": "2026-11-04T18:14:17.363333+00:00",
   "items": [
+    {
+      "title": "Waymo confirms it will split with Uber in January 2028",
+      "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028",
+      "source": "TechCrunch",
+      "published": "2026-11-04T18:12:30+00:00",
+      "retrieved_at": "2026-11-04T18:14:14.076806+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "80bbe0ca66d2f194a176d8cc"
+    },
     {
       "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bd64fa5f51232f19b3821145"
-    },
-    {
-      "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-      "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip",
-      "source": "TechCrunch",
-      "published": "2026-10-26T14:25:43+00:00",
-      "retrieved_at": "2026-10-26T14:29:06.373071+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The new iPad mini features a thinner and lighter design than its predecessor.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f708cfc7aa6f47debf54d5f9"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-04T18:09:17.050892+00:00",
+    "checked_at": "2026-11-04T18:14:12.523442+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
