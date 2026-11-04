@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-04T06:38:14.528906+00:00",
+  "updated": "2026-11-04T07:13:15.490211+00:00",
   "items": [
+    {
+      "title": "Ex-UK political aide Steve Hilton loses bid for California governor to Democrat",
+      "url": "https://bbc.co.uk/news/articles/c6vg7y9eyn07o",
+      "source": "BBC World",
+      "published": "2026-11-04T07:03:45+00:00",
+      "retrieved_at": "2026-11-04T07:13:09.870355+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Hilton, who was endorsed by President Trump, faced an uphill battle as a Republican in the widely liberal state.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "34ec6ca9d37893f1adb468af"
+    },
     {
       "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
       "url": "https://bbc.co.uk/news/articles/cmr4y92rgd9po",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5b55de06fae1867fb8e983f4"
-    },
-    {
-      "title": "US greenlights $2.1bn Patriot missile sale to Ukraine",
-      "url": "https://aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T04:51:25+00:00",
-      "retrieved_at": "2026-10-31T05:11:44.854445+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Deal would be one of the most significant steps to supply defensive weapons to Kyiv since ​Trump took office in 2025.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b1824700b28c280baabe8d4a"
     }
   ],
   "unverified_history": [
