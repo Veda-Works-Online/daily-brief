@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-04T20:54:15.132703+00:00",
+  "updated": "2026-11-04T20:59:18.960283+00:00",
   "items": [
+    {
+      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
+      "source": "Ars Technica AI",
+      "published": "2026-11-04T20:55:50+00:00",
+      "retrieved_at": "2026-11-04T20:59:15.574726+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9b4c20b0c58445b556fd4541"
+    },
     {
       "title": "The Biggest Pro-AI Super Pac Network Didn't Really Impact the Midterms",
       "url": "https://wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "980a81a4e346344090c29d27"
-    },
-    {
-      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
-      "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice",
-      "source": "Ars Technica AI",
-      "published": "2026-10-26T18:50:41+00:00",
-      "retrieved_at": "2026-10-26T19:05:15.583261+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f047eede5955af09038f68b2"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-04T20:54:10.122348+00:00",
+    "checked_at": "2026-11-04T20:59:14.073955+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
