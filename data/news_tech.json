@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-04T20:44:11.884239+00:00",
+  "updated": "2026-11-04T20:49:16.781055+00:00",
   "items": [
+    {
+      "title": "The Biggest Pro-AI Super Pac Network Didn't Really Impact the Midterms",
+      "url": "https://wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms",
+      "source": "Wired",
+      "published": "2026-11-04T20:41:29+00:00",
+      "retrieved_at": "2026-11-04T20:49:13.587223+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Leading the Future, backed by Silicon Valley’s biggest billionaires, had a war chest of $100 million and an aggressive stance against AI regulation. All of it didn’t add up to much on Tuesday night.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "188f9942ad0f1196f9f2654f"
+    },
     {
       "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
       "url": "https://wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f047eede5955af09038f68b2"
-    },
-    {
-      "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-      "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding",
-      "source": "TechCrunch",
-      "published": "2026-10-26T17:45:00+00:00",
-      "retrieved_at": "2026-10-26T17:45:12.088439+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7aeed447a1702acb9b5675be"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-04T20:44:07.228597+00:00",
+    "checked_at": "2026-11-04T20:49:11.870405+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
