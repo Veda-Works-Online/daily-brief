@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T05:18:19.099111+00:00",
+  "updated": "2026-11-04T05:28:19.042043+00:00",
   "items": [
     {
       "title": "Trump and Republicans trampled in the midterms",
@@ -416,6 +416,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e621ed16112fd994fd16524d"
+    },
+    {
+      "title": "With Copyright Complaints, Even Imposters Can Silence Karakalpak Activists",
+      "url": "https://thediplomat.com/2026/11/with-copyright-complaints-even-imposters-can-silence-karakalpak-activists",
+      "source": "The Diplomat",
+      "published": "2026-11-03T16:20:00+00:00",
+      "retrieved_at": "2026-11-04T05:28:13.436616+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "An individual claiming to be a Diplomat editor filed a copyright complaint with Meta against a Karakalpak activist. They were an imposter. The post was taken down anyway.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "330f4a080010922d803ec9b4"
     },
     {
       "title": "Syria says it foiled Hezbollah plot to target Homs oil refinery",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "272fc1a76b92c43e44ac7001"
-    },
-    {
-      "title": "Poland’s president joins protest amid constitutional crisis at top court",
-      "url": "https://aljazeera.com/video/newsfeed/2026/10/31/polands-president-joins-protest-amid-constitutional-crisis-at-top-court",
-      "source": "Al Jazeera",
-      "published": "2026-10-31T02:24:00+00:00",
-      "retrieved_at": "2026-10-31T02:46:44.717858+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Poland’s president has cut short a trip to Senegal, joining protesters facing off with police.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7dd17aeaa2aa56d635437abf"
     }
   ],
   "unverified_history": [
