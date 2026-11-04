@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T22:24:04.268930+00:00",
+  "updated": "2026-11-04T22:29:06.026236+00:00",
   "items": [
     {
       "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
@@ -374,6 +374,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a5eab921b21f3214e2dce6c1"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI",
+      "published": "2026-11-04T08:00:00+00:00",
+      "retrieved_at": "2026-11-04T22:29:01.227542+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "2ff27a2f1fdc7e4f9af0eca2"
     },
     {
       "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
@@ -1175,23 +1192,6 @@
       "story_fingerprint": "c5e70aac387c43e8f26bc0c7"
     },
     {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "source": "OpenAI",
-      "published": "2026-11-02T18:00:00+00:00",
-      "retrieved_at": "2026-11-03T03:03:11.063481+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "6656883eb79b37cadb8ab609"
-    },
-    {
       "title": "Preparing our next security sprint to harden OpenAI",
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "source": "OpenAI",
@@ -1207,6 +1207,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "ba452cd46e2bfe0e88210bd3"
+    },
+    {
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "source": "OpenAI",
+      "published": "2026-11-02T18:00:00+00:00",
+      "retrieved_at": "2026-11-03T03:03:11.063481+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "6656883eb79b37cadb8ab609"
     },
     {
       "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9e3470db13a9a37c6e22cf28"
-    },
-    {
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "source": "OpenAI",
-      "published": "2026-10-27T00:00:00+00:00",
-      "retrieved_at": "2026-10-27T19:29:36.303939+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "c10c54ee5b10c08523a7b2b3"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-04T22:23:57.489426+00:00",
+    "checked_at": "2026-11-04T22:29:00.097399+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
