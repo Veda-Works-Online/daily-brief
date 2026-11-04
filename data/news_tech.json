@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-04T19:19:13.812470+00:00",
+  "updated": "2026-11-04T19:24:15.906496+00:00",
   "items": [
+    {
+      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
+      "url": "https://wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face",
+      "source": "Wired",
+      "published": "2026-11-04T19:16:25+00:00",
+      "retrieved_at": "2026-11-04T19:24:11.746071+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c8cf28c168707b76034093be"
+    },
     {
       "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
       "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
       "source_type": "PRIMARY",
       "story_fingerprint": "596849dfcee072d16f85576f"
-    },
-    {
-      "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
-      "url": "https://wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy",
-      "source": "Wired",
-      "published": "2026-10-26T14:50:47+00:00",
-      "retrieved_at": "2026-10-26T14:59:07.433235+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "704d1bf0b81788900021018f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-04T19:19:05.179580+00:00",
+    "checked_at": "2026-11-04T19:24:10.171235+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
