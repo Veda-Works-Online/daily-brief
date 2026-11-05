@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T22:11:38.931818+00:00",
+  "updated": "2026-11-05T23:55:05.854581+00:00",
   "items": [
     {
       "title": "Generation Z and diversity redefine US politics in groundbreaking election",
@@ -160,6 +160,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "11b602015cf1fa7e34110e1f"
+    },
+    {
+      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
+      "url": "https://bbc.co.uk/news/videos/cr86zxe1q5j3o",
+      "source": "BBC World",
+      "published": "2026-11-05T19:08:48+00:00",
+      "retrieved_at": "2026-11-05T23:55:02.797511+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "71597d42382382e546ee95c3"
     },
     {
       "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2b8c5da162f37b660e541fbb"
-    },
-    {
-      "title": "Sudan files complaints against Ethiopia with UN over deadly drone spree",
-      "url": "https://aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree",
-      "source": "Al Jazeera",
-      "published": "2026-11-02T10:25:22+00:00",
-      "retrieved_at": "2026-11-02T10:40:22.289144+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "One-way drone attacks have killed or wounded 484 civilians since February, Khartoum says.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7e0cdc75a8dafe0ad18eed81"
     }
   ],
   "unverified_history": [
