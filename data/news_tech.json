@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T00:10:14.540227+00:00",
+  "updated": "2026-11-05T00:15:13.237843+00:00",
   "items": [
     {
       "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
@@ -459,6 +459,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "d68dca6b5b6836d29aace2b5"
+    },
+    {
+      "title": "Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "source": "OpenAI",
+      "published": "2026-11-04T00:00:00+00:00",
+      "retrieved_at": "2026-11-05T00:15:02.816043+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "740b5bb445d734be35459cce"
     },
     {
       "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
@@ -1532,23 +1549,6 @@
       "story_fingerprint": "e8f2f093edfdf5324a8d3fe5"
     },
     {
-      "title": "Qodo builds context into AI code review with Codex",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "source": "OpenAI",
-      "published": "2026-11-02T00:00:00+00:00",
-      "retrieved_at": "2026-11-02T19:16:09.270971+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "7655c93a05754de042ffed24"
-    },
-    {
       "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
       "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "source": "OpenAI",
@@ -1564,6 +1564,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "de17d7d5012d7d6b6ae91e9a"
+    },
+    {
+      "title": "Qodo builds context into AI code review with Codex",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "source": "OpenAI",
+      "published": "2026-11-02T00:00:00+00:00",
+      "retrieved_at": "2026-11-02T19:16:09.270971+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "7655c93a05754de042ffed24"
     },
     {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8bf386601bd10f8d5a30c5d1"
-    },
-    {
-      "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
-      "url": "https://wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one",
-      "source": "Wired",
-      "published": "2026-10-27T09:30:00+00:00",
-      "retrieved_at": "2026-10-27T09:37:32.399749+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c94477fd0529ca86e1a5491a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T00:10:05.584894+00:00",
+    "checked_at": "2026-11-05T00:15:01.311526+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
