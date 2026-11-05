@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-05T20:36:38.835039+00:00",
+  "updated": "2026-11-05T20:41:42.185116+00:00",
   "items": [
+    {
+      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+      "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets",
+      "source": "Ars Technica",
+      "published": "2026-11-05T19:59:22+00:00",
+      "retrieved_at": "2026-11-05T20:41:36.771344+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Software optimizes a physical model of the telescope to reduce noise.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "88c53b660238ae1f86f91f11"
+    },
     {
       "title": "Meta says US users can now video chat with their Muse AI avatar",
       "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "25a72154545e7c0ae986af78"
-    },
-    {
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
-      "source": "TechCrunch AI",
-      "published": "2026-10-27T22:55:41+00:00",
-      "retrieved_at": "2026-10-27T23:15:24.549908+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c3f5ba89c746ee3a2ed4e811"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T20:36:30.723938+00:00",
+    "checked_at": "2026-11-05T20:41:34.684718+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
