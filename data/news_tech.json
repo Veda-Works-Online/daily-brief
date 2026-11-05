@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-05T19:11:37.556548+00:00",
+  "updated": "2026-11-05T19:16:36.221969+00:00",
   "items": [
+    {
+      "title": "Meta’s warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+      "source": "TechCrunch AI",
+      "published": "2026-11-05T19:12:39+00:00",
+      "retrieved_at": "2026-11-05T19:16:30.814155+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c88ed832554377ba85ed7b51"
+    },
     {
       "title": "OpenAI released a new cybersecurity model. Is that enough?",
       "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "91cb3aef346f07f516cba514"
-    },
-    {
-      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses",
-      "source": "Ars Technica AI",
-      "published": "2026-10-27T21:50:04+00:00",
-      "retrieved_at": "2026-10-27T21:55:24.043866+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ddea6190b0c7ab8a360f5c8a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T19:11:31.245005+00:00",
+    "checked_at": "2026-11-05T19:16:30.041987+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
