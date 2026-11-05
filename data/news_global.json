@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-05T02:40:23.604859+00:00",
+  "updated": "2026-11-05T03:25:11.307470+00:00",
   "items": [
+    {
+      "title": "What’s delaying US midterm election calls in Mississippi and Alaska?",
+      "url": "https://aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska",
+      "source": "Al Jazeera",
+      "published": "2026-11-05T03:13:08+00:00",
+      "retrieved_at": "2026-11-05T03:25:05.307428+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Ranked-choice voting may decide Alaska's Senate outcome, while Mississippi's race hangs on a knife's edge.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3c754ffb4ccfa2065457c0f5"
+    },
     {
       "title": "Election deniers lose races for governor in key US swing states",
       "url": "https://aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "abc69f300e4f4fe40224af77"
-    },
-    {
-      "title": "Donald Trump loses allies after elections in Serbia and Brazil",
-      "url": "https://dw.com/en/donald-trump-loses-allies-after-elections-in-serbia-and-brazil/a-79812075",
-      "source": "DW",
-      "published": "2026-11-01T08:11:00+00:00",
-      "retrieved_at": "2026-11-01T08:36:47.052270+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Flavio Bolsonaro failed to gain power, Aleksandar Vucic was voted out of office, and even Benjamin Netanyahu's position has weakened. An unhappy US President Trump is crying electoral fraud.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5c71468e1a98ee894c62c58d"
     }
   ],
   "unverified_history": [
