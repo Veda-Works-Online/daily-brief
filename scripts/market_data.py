@@ -1379,10 +1379,11 @@ def refresh_markets(payload):
         if isinstance(value, dict):
             return {k: stable(v) for k,v in value.items() if k not in {'retrieved_at', 'retrievedAt', 'updated'}}
         return [stable(v) for v in value] if isinstance(value, list) else value
-    if stable(output) == stable(payload):
-        output = payload
-    else:
+    if stable(output) != stable(payload):
         output['updated'] = now_iso()
+    # The published refresh heartbeat changes every cycle anyway. Keep actual
+    # successful retrieval times even when prices and statuses are unchanged;
+    # otherwise company sync labels incorrectly stay at the first observation.
     return output, attempts
 
 
