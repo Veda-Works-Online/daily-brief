@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-05T22:36:28.684377+00:00",
+  "updated": "2026-11-05T22:41:26.982113+00:00",
   "items": [
+    {
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027",
+      "source": "TechCrunch AI",
+      "published": "2026-11-05T22:40:55+00:00",
+      "retrieved_at": "2026-11-05T22:41:18.598913+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8f30e86e208590dc1051ba72"
+    },
     {
       "title": "How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost",
       "url": "https://wired.com/story/uncanny-valley-podcast-how-elon-musk-and-big-tech-poured-millions-into-the-midterms-and-lost",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "86e5ad27ac5b208a9ecdecde"
-    },
-    {
-      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-      "url": "https://wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed",
-      "source": "Wired",
-      "published": "2026-10-28T10:15:00+00:00",
-      "retrieved_at": "2026-10-28T10:21:59.090592+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0829f2dde5dfe8f6693d4e52"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T22:36:22.450485+00:00",
+    "checked_at": "2026-11-05T22:41:17.827427+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
