@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-05T14:57:44.538022+00:00",
+  "updated": "2026-11-05T15:02:46.136854+00:00",
   "items": [
+    {
+      "title": "Instagram brings Edits to desktop to take on CapCut",
+      "url": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut",
+      "source": "TechCrunch",
+      "published": "2026-11-05T15:00:00+00:00",
+      "retrieved_at": "2026-11-05T15:02:39.327451+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e0ebee1c58c422f583d3a43a"
+    },
+    {
+      "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+      "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud",
+      "source": "TechCrunch",
+      "published": "2026-11-05T15:00:00+00:00",
+      "retrieved_at": "2026-11-05T15:02:39.327470+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "ElevenLabs said more than 25 million tracks have been generated using its music models.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "90633108fd8d85d57feb9d6f"
+    },
     {
       "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
       "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "086ef8c58c90b5e1ca2a903e"
-    },
-    {
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "source": "Hugging Face",
-      "published": "2026-10-27T16:12:42+00:00",
-      "retrieved_at": "2026-10-27T16:13:42.024121+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "99f23e89c5d30c9cb7532c0c"
-    },
-    {
-      "title": "Genie 4: A new generation of world simulation",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
-      "source": "Google DeepMind",
-      "published": "2026-10-27T16:01:38+00:00",
-      "retrieved_at": "2026-10-27T16:03:48.146492+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "2480ae6bdcb1fc2d9c0d777e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T14:57:36.633460+00:00",
+    "checked_at": "2026-11-05T15:02:37.715827+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
