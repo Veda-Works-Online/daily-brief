@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-05T13:01:11.200329+00:00",
+  "updated": "2026-11-05T13:06:04.644009+00:00",
   "items": [
+    {
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "url": "https://wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work",
+      "source": "Wired",
+      "published": "2026-11-05T13:00:00+00:00",
+      "retrieved_at": "2026-11-05T13:06:02.406937+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3ffe8d1cb8eb93fc5ed5f1af"
+    },
     {
       "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
       "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "161423f3d281475205f5f032"
-    },
-    {
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "url": "https://openai.com/index/retell-ai",
-      "source": "OpenAI",
-      "published": "2026-10-27T15:00:00+00:00",
-      "retrieved_at": "2026-10-27T22:50:23.901787+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "b8ca5c17cc8b71a757a9082f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T13:01:06.772575+00:00",
+    "checked_at": "2026-11-05T13:06:01.184166+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
