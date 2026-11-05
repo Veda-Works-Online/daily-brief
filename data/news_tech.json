@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-05T19:46:37.809809+00:00",
+  "updated": "2026-11-05T19:51:37.678138+00:00",
   "items": [
+    {
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar",
+      "source": "TechCrunch AI",
+      "published": "2026-11-05T19:48:28+00:00",
+      "retrieved_at": "2026-11-05T19:51:32.383398+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "dca58878203e4f321b8a531c"
+    },
     {
       "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
       "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c3f5ba89c746ee3a2ed4e811"
-    },
-    {
-      "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-      "url": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip",
-      "source": "Ars Technica",
-      "published": "2026-10-27T22:37:30+00:00",
-      "retrieved_at": "2026-10-27T22:55:25.133963+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4a662d5abd93fc9ccb825c1b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T19:46:28.101512+00:00",
+    "checked_at": "2026-11-05T19:51:31.572713+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
