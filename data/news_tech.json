@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T23:01:30.739648+00:00",
+  "updated": "2026-11-05T23:06:23.948373+00:00",
   "items": [
     {
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
@@ -1753,6 +1753,23 @@
       "story_fingerprint": "749e5f466fba96f42039d4d9"
     },
     {
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "source": "OpenAI",
+      "published": "2026-11-03T00:00:00+00:00",
+      "retrieved_at": "2026-11-03T20:05:57.909469+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "02f34d9ee75bcf4fd376ef32"
+    },
+    {
       "title": "CWE-bench v2: More coverage, quality, and transparency",
       "url": "https://huggingface.co/blog/cwe-bench",
       "source": "Hugging Face",
@@ -1785,23 +1802,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "a09becdea08de5db001d2fc4"
-    },
-    {
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "source": "OpenAI",
-      "published": "2026-11-03T00:00:00+00:00",
-      "retrieved_at": "2026-11-03T20:05:57.909469+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "02f34d9ee75bcf4fd376ef32"
     },
     {
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T23:01:19.174797+00:00",
+    "checked_at": "2026-11-05T23:06:18.077673+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
