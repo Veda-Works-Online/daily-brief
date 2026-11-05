@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-05T07:55:08.447246+00:00",
+  "updated": "2026-11-05T08:00:05.619929+00:00",
   "items": [
+    {
+      "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+      "url": "https://aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail",
+      "source": "Al Jazeera",
+      "published": "2026-11-05T07:50:44+00:00",
+      "retrieved_at": "2026-11-05T07:59:59.781958+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Wong, in prison since 2020, was found guilty of colluding with foreign entities in violation of national security law.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "39b7eca7b22f05bf0a5b0235"
+    },
     {
       "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
       "url": "https://aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0155b747fb9988d543dc6db5"
-    },
-    {
-      "title": "Binance restarts withdrawals after $6.3bn heist",
-      "url": "https://aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist",
-      "source": "Al Jazeera",
-      "published": "2026-11-01T12:50:55+00:00",
-      "retrieved_at": "2026-11-01T13:12:28.997487+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The FBI says hackers from North Korea are responsible for the theft.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "01dc824040756c1efe35fb75"
     }
   ],
   "unverified_history": [
