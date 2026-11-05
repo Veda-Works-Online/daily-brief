@@ -318,7 +318,7 @@ class IntegrityTests(unittest.TestCase):
             self.assertEqual(len(first), 1)
             self.assertEqual(first, merge_news([item], first, parse_date, 'tech'))
 
-    def test_noop_refresh_ignores_retrieval_clock(self):
+    def test_noop_refresh_updates_sync_without_changing_quote_or_value_time(self):
         original = self.accept()
         payload = {'updated': self.now.isoformat(), 'regions': {'us': [original]}}
         m.apply_region_timezones(payload)  # A snapshot already migrated to regional time metadata.
@@ -335,7 +335,13 @@ class IntegrityTests(unittest.TestCase):
             self.google['retrieved_at'] = now.isoformat()
             self.yahoo['_retrieved_at'] = now.isoformat()
             output, attempts = m.refresh_markets(migrated)
-        self.assertEqual(output, migrated)
+        self.assertEqual(output['updated'], migrated['updated'])
+        before, after = migrated['regions']['us'][0], output['regions']['us'][0]
+        self.assertEqual(after['retrieved_at'], now.isoformat())
+        self.assertNotEqual(after['retrieved_at'], before['retrieved_at'])
+        self.assertEqual(after['source_timestamp'], before['source_timestamp'])
+        for field in m.FIELDS:
+            self.assertEqual(after.get(field), before.get(field))
         self.assertEqual(len(attempts), 3)  # existing row + two internal FX dependencies
 
     def test_failed_fetch_preserves_universe(self):
