@@ -41,13 +41,48 @@ class IndexFxReferenceTests(unittest.TestCase):
             m.google_observation({'currency': 'INR'}, '^BSESN', quote, {}, self.now)
 
     def test_index_and_fx_always_compare_both_routes_and_keep_newer_time(self):
-        for identifier in ['SENSEX:INDEXBOM', 'USD-INR']:
+        for identifier in ['SENSEX:INDEXBOM', 'USD-INR', 'ALIW00:COMEX', 'CLW00:NYMEX']:
             for times in [(0, 30), (30, 0)]:
                 quotes = [dict(timestamp=(self.now+timedelta(seconds=s)).isoformat()) for s in times]
                 with patch.object(m.requests, 'get', return_value=Mock(text='page')) as get, \
                      patch.object(m, 'parse_google', side_effect=quotes):
                     self.assertEqual(m.fetch_google(identifier), quotes[times.index(30)])
                     self.assertEqual(get.call_count, 2)
+
+    def test_future_alternate_failure_preserves_the_valid_actual_quote(self):
+        quote = dict(id='ALIW00:COMEX', timestamp=self.now.isoformat(), price=Decimal('3245'))
+        with patch.object(m.requests, 'get', return_value=Mock(text='page')) as get, \
+             patch.object(m, 'parse_google', side_effect=[quote, ValueError('GOOGLE_IDENTITY_MISMATCH')]):
+            self.assertEqual(m.fetch_google('ALIW00:COMEX'), quote)
+            self.assertEqual(get.call_count, 2)
+
+    def test_google_fx_regression_checks_yahoo_before_retaining_stale_data(self):
+        google = dict(id='GBP-USD', currency='USD', price=Decimal('1.3491'),
+                      previousClose=Decimal('1.347685'),
+                      timestamp=(self.now-timedelta(minutes=3)).isoformat(),
+                      retrieved_at=self.now.isoformat())
+        previous = m.google_fx({'ticker':'GBPUSD=X'}, 'GBPUSD=X',
+                              dict(google, timestamp=(self.now-timedelta(minutes=2)).isoformat()), self.now)
+        yahoo = dict(symbol='GBPUSD=X', quoteType='CURRENCY', currency='USD',
+                     regularMarketPrice=Decimal('1.3492364'), regularMarketPreviousClose=Decimal('1.3471643'),
+                     regularMarketTime=int(self.now.timestamp()), _retrieved_at=self.now.isoformat())
+        selected = m.freshest_fx(previous, 'GBPUSD=X', google, yahoo, self.now)
+        out = m.prevent_quote_regression(previous, selected)
+        self.assertEqual(out['source'], 'Yahoo Finance')
+        self.assertEqual(out['validation_status'], 'INDICATIVE')
+        self.assertEqual(out['indexValue'], yahoo['regularMarketPrice'])
+        self.assertEqual(out['previousClose'], yahoo['regularMarketPreviousClose'])
+        self.assertEqual(out['source_timestamp'], self.now.isoformat())
+        self.assertIn('predates the saved observation', out['reference_fallback'])
+        self.assertEqual(out['quote_policy']['max_quote_age_seconds'], 480)
+        # When Google catches up, restore the primary reference.
+        caught_up = dict(google, timestamp=previous['source_timestamp'])
+        self.assertEqual(m.freshest_fx(previous, 'GBPUSD=X', caught_up, yahoo, self.now)['source'], 'Google Finance')
+        # No usable newer source: preserve the guard and actual saved time.
+        candidate = m.freshest_fx(previous, 'GBPUSD=X', google, {}, self.now)
+        retained = m.prevent_quote_regression(previous, candidate)
+        self.assertEqual(retained['validation_status'], 'STALE')
+        self.assertEqual(retained['source_timestamp'], previous['source_timestamp'])
 
     def test_fx_prefers_fresh_google_even_when_yahoo_is_later(self):
         google = dict(id='USD-INR', currency='INR', price=Decimal('94.9258'),
