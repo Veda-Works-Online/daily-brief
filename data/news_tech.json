@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-05T21:11:27.007322+00:00",
+  "updated": "2026-11-05T21:16:33.535220+00:00",
   "items": [
+    {
+      "title": "Serve Robotics launches new business to become the AWS for robots",
+      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots",
+      "source": "TechCrunch",
+      "published": "2026-11-05T21:15:00+00:00",
+      "retrieved_at": "2026-11-05T21:16:29.265640+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "236f23749fd678edf07b9f86"
+    },
     {
       "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
       "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "432f5ffbcf1c46a875ad5121"
-    },
-    {
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
-      "source": "TechCrunch AI",
-      "published": "2026-10-27T23:34:27+00:00",
-      "retrieved_at": "2026-10-27T23:35:23.337560+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "25a72154545e7c0ae986af78"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T21:11:20.799844+00:00",
+    "checked_at": "2026-11-05T21:16:27.451794+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
