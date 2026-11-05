@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-05T02:10:17.471916+00:00",
+  "updated": "2026-11-05T02:40:23.604859+00:00",
   "items": [
+    {
+      "title": "Election deniers lose races for governor in key US swing states",
+      "url": "https://aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states",
+      "source": "Al Jazeera",
+      "published": "2026-11-05T02:06:07+00:00",
+      "retrieved_at": "2026-11-05T02:40:17.761800+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "State leaders can hold significant sway over election administration, with implications for the 2028 presidential race.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9dab27a5e2522d5f474fd1ec"
+    },
     {
       "title": "Israel’s Herzog accepts vote results, opens talks on forming a government",
       "url": "https://aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government",
@@ -34,20 +50,20 @@
       "story_fingerprint": "5fbb0f3a50b0aabd34b0d5da"
     },
     {
-      "title": "Iran war live: Trump says war caused election wipeout but he ‘had to do it’",
+      "title": "Iran war live: Khamenei says US hostility will persist after midterms",
       "url": "https://aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it",
       "source": "Al Jazeera",
       "published": "2026-11-05T00:00:00+00:00",
-      "retrieved_at": "2026-11-05T00:15:16.354930+00:00",
+      "retrieved_at": "2026-11-05T02:40:17.761964+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "President Trump admits Iran war 'largely' caused Republicans' US election wipeout, but says he 'had to do it'.",
+      "summary": "Iran's supreme leader says US hostility will persist regardless of the midterm election results.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "20a9baa5a553cc5fd62139ec"
+      "story_fingerprint": "4f4c4463e88c3a3f5787444f"
     },
     {
       "title": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5c71468e1a98ee894c62c58d"
-    },
-    {
-      "title": "Israel’s war on homes: From Hebron to Gaza and southern Lebanon",
-      "url": "https://aljazeera.com/features/longform/2026/11/1/israels-war-on-homes-from-hebron-to-gaza-and-southern-lebanon",
-      "source": "Al Jazeera",
-      "published": "2026-11-01T07:34:55+00:00",
-      "retrieved_at": "2026-11-01T08:06:44.232532+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "From Hebron to Gaza to southern Lebanon, Israel is tearing down homes, and, with them, families' hopes of return.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fcd30c9419f2e9d9763bb84a"
     }
   ],
   "unverified_history": [
