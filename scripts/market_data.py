@@ -345,7 +345,8 @@ def fetch_google(identifier):
             fx = identifier in {'-'.join(pair) for pair in PAIRS.values()}
             retry_age = 480 if fx else 1800 if identifier.endswith(':NSE') else None
             equity = identifier.rsplit(':', 1)[-1] in {'NASDAQ','NYSE','NYSEAMERICAN','NSE','BOM','HKG','KRX'}
-            if not equity and not fx and identifier not in INDEX_CURRENCIES and (retry_age is None or (datetime.now(timezone.utc)-timestamp(best['timestamp'])).total_seconds() <= retry_age):
+            future = identifier in GOOGLE_FUTURES.values()
+            if not equity and not fx and not future and identifier not in INDEX_CURRENCIES and (retry_age is None or (datetime.now(timezone.utc)-timestamp(best['timestamp'])).total_seconds() <= retry_age):
                 return best
         except (requests.RequestException, ValueError, KeyError, TypeError) as exc:
             error = exc
@@ -464,14 +465,20 @@ def google_fx(row, symbol, quote, now, source='Google Finance'):
 def freshest_fx(row, symbol, google, yahoo, now):
     """Prefer fresh Google FX; disclose Yahoo fallback without mixing closes."""
     candidates, errors = [], []
+    fallback_reason = 'Google Finance unavailable or older than 8 minutes'
     try:
         if 'error' in google:
             raise ValueError(google['error'])
         candidate = google_fx(row, symbol, google, now)
         candidate['reference_policy'] = 'GOOGLE_FINANCE_FX_V1'
         candidates.append(candidate)
-        if candidate['validation_status'] != 'STALE':
+        previous_time = (timestamp(row['source_timestamp'])
+                         if row.get('verification_version') == 1 and row.get('source_timestamp') else None)
+        older_than_saved = previous_time is not None and timestamp(candidate['source_timestamp']) < previous_time
+        if candidate['validation_status'] != 'STALE' and not older_than_saved:
             return candidate
+        if older_than_saved:
+            fallback_reason = 'Google Finance quote predates the saved observation'
     except (ValueError, KeyError, TypeError) as exc:
         errors.append(str(exc))
     try:
@@ -487,7 +494,7 @@ def freshest_fx(row, symbol, google, yahoo, now):
             quote['previousClose'] = yahoo['regularMarketPreviousClose']
         candidate = google_fx(row, symbol, quote, now, source='Yahoo Finance')
         candidate.update(reference_policy='GOOGLE_FINANCE_FX_V1',
-                         reference_fallback='Google Finance unavailable or older than 8 minutes; Yahoo Finance observation')
+                         reference_fallback=fallback_reason + '; Yahoo Finance observation')
         candidates.append(candidate)
     except (ValueError, KeyError, TypeError, OverflowError) as exc:
         errors.append(str(exc))
