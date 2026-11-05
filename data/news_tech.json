@@ -1,23 +1,6 @@
 {
-  "updated": "2026-11-05T13:06:04.644009+00:00",
+  "updated": "2026-11-05T13:11:06.667649+00:00",
   "items": [
-    {
-      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
-      "url": "https://wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work",
-      "source": "Wired",
-      "published": "2026-11-05T13:00:00+00:00",
-      "retrieved_at": "2026-11-05T13:06:02.406937+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3ffe8d1cb8eb93fc5ed5f1af"
-    },
     {
       "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
       "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai",
@@ -34,6 +17,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "600d802e11d9d48f1ed89cf2"
+    },
+    {
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "url": "https://wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work",
+      "source": "Wired",
+      "published": "2026-11-05T13:00:00+00:00",
+      "retrieved_at": "2026-11-05T13:06:02.406937+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3ffe8d1cb8eb93fc5ed5f1af"
     },
     {
       "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T13:06:01.184166+00:00",
+    "checked_at": "2026-11-05T13:11:02.027517+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
