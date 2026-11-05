@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T08:00:05.619929+00:00",
+  "updated": "2026-11-05T08:05:03.539983+00:00",
   "items": [
     {
       "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
@@ -1120,6 +1120,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "34ec6ca9d37893f1adb468af"
+    },
+    {
+      "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+      "url": "https://bbc.co.uk/news/articles/cwz0v5lv30lyo",
+      "source": "BBC World",
+      "published": "2026-11-04T06:53:56+00:00",
+      "retrieved_at": "2026-11-05T08:04:57.727850+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4c7b60838b424f94e9808228"
     },
     {
       "title": "Lula’s victory is a stress test for the Global South",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e8100285060c0aeeb2c99a21"
-    },
-    {
-      "title": "Iran and US explore diplomacy amid rising threats of war",
-      "url": "https://aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war",
-      "source": "Al Jazeera",
-      "published": "2026-11-01T13:02:10+00:00",
-      "retrieved_at": "2026-11-01T13:22:31.296727+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran says could reopen Hormuz in shorter period if conditions met, as Trump says US still has targets to 'take care of'.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0155b747fb9988d543dc6db5"
     }
   ],
   "unverified_history": [
