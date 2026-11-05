@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T13:16:19.235942+00:00",
+  "updated": "2026-11-05T13:26:17.182673+00:00",
   "items": [
     {
       "title": "Four people, including a child, killed in Israeli attacks on Gaza",
@@ -608,6 +608,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5d483d0f8cb42744f2ee60ec"
+    },
+    {
+      "title": "North Korea’s State of Play in the Russia-Ukraine War",
+      "url": "https://thediplomat.com/2026/11/north-koreas-state-of-play-in-the-russia-ukraine-war",
+      "source": "The Diplomat",
+      "published": "2026-11-04T19:43:00+00:00",
+      "retrieved_at": "2026-11-05T13:26:13.884290+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "Where does North Korea’s involvement in the war stand today – and where might it be headed?",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6623c1b2a9cad4a6ca3b01ab"
     },
     {
       "title": "How US midterm results could reshape Trump’s foreign policy",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "64baafea1d16d7e5fb4102b3"
-    },
-    {
-      "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
-      "url": "https://aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive",
-      "source": "Al Jazeera",
-      "published": "2026-11-01T17:30:45+00:00",
-      "retrieved_at": "2026-11-01T17:58:18.038886+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Hebron's economic losses surpass $3.8m as Israeli forces demolish West Bank homes and close hundreds of businesses.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f1a4d4e83e1c8e83f1c542d2"
     }
   ],
   "unverified_history": [
