@@ -18,6 +18,18 @@ STALE validation and age limit remain unchanged. The evidence expires after ten
 minutes without another matching source check; disagreement, a failed check or
 a prior-session quote keeps the ordinary stale label.
 
+## Refresh and company status safeguards
+
+Company sync times retain each successful source retrieval even when the quote
+value is unchanged. Quote timestamps remain the provider's actual observation
+time. If the last retrieval is more than ten minutes old, the company line marks
+market status stale and labels the last reported state; invalid, missing or
+future retrieval timestamps cannot assert a current open/closed state.
+
+Frontend tests use a fixed clock so refresh checks cannot fail just because they
+run during India's pre-open window. The explicit opening-session and daylight
+saving conversion fixtures still exercise their own dates.
+
 ## Index and currency reference
 
 Index and FX fetches compare both Google page formats and keep the newest actual

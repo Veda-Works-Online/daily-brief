@@ -203,7 +203,11 @@ function companyStatus(row) {
     HOLIDAY: 'MARKET CLOSED · HOLIDAY', PRE_MARKET: 'MARKET CLOSED · PRE-MARKET',
     AFTER_HOURS: 'MARKET CLOSED · AFTER HOURS', BREAK: 'MARKET BREAK'
   };
-  const status = states[row.market_status] || 'MARKET STATUS UNAVAILABLE';
+  const age = Date.now() - Date.parse(row.retrieved_at);
+  const reported = states[row.market_status];
+  const validTime = Number.isFinite(age) && age >= -120000;
+  const status = !validTime || !reported ? 'MARKET STATUS UNAVAILABLE' : age > 600000
+    ? 'MARKET STATUS STALE · Last reported: ' + reported : reported;
   const sync = quoteTime(row.retrieved_at, row.display_timezone || row.market_timezone);
   return status + ' · ' + (sync === 'Unknown quote time' ? 'Sync time unavailable' : 'Synced ' + sync);
 }
