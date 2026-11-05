@@ -1,6 +1,13 @@
 const fs = require('fs');
 const vm = require('vm');
 const assert = require('assert/strict');
+// Keep source-time fixtures independent of the runner clock and pre-open window.
+const NativeDate = globalThis.Date;
+const fixtureNow = NativeDate.parse('2026-10-23T11:45:00Z');
+const Date = class extends NativeDate {
+  constructor(...args) { super(...(args.length ? args : [fixtureNow])); }
+  static now() { return fixtureNow; }
+};
 // Exercise real rendering functions without starting the DOM initialization.
 let src = fs.readFileSync('script.js', 'utf8').split('// ── Sidebar / hamburger / routing')[0];
 const ctx = vm.createContext({ Intl, Date, Number, URL, Set });
@@ -296,3 +303,8 @@ assert(!companySyncHtml.includes('market-field-status'));
 assert(ctx.companyStatus({...companySyncRow,market_status:'OPEN'}).startsWith('MARKET OPEN'));
 assert(ctx.companyStatus({...companySyncRow,market_status:'PRE_MARKET'}).startsWith('MARKET CLOSED · PRE-MARKET'));
 assert(ctx.companyStatus({...companySyncRow,market_status:'UNKNOWN',retrieved_at:null}).includes('MARKET STATUS UNAVAILABLE · Sync time unavailable'));
+assert(ctx.companyStatus({...companySyncRow,market_status:'OPEN',retrieved_at:'2026-10-23T11:34:59Z'}).startsWith('MARKET STATUS STALE · Last reported: MARKET OPEN'));
+assert(ctx.companyStatus({...companySyncRow,market_status:'OPEN',retrieved_at:'2026-10-23T11:35:00Z'}).startsWith('MARKET OPEN'));
+for (const retrieved_at of [null, 'invalid', '2026-10-23T11:48:00Z']) {
+  assert(ctx.companyStatus({...companySyncRow,market_status:'OPEN',retrieved_at}).startsWith('MARKET STATUS UNAVAILABLE'));
+}
