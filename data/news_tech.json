@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T01:40:08.181278+00:00",
+  "updated": "2026-11-05T01:45:13.621725+00:00",
   "items": [
     {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
@@ -17,6 +17,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "27af587d318d74f954e3012d"
+    },
+    {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming",
+      "source": "TechCrunch AI",
+      "published": "2026-11-05T01:02:14+00:00",
+      "retrieved_at": "2026-11-05T01:45:05.351119+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8b06d2e66ca1c04ece44f850"
     },
     {
       "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ca85e71a456dfc8c4cb1746d"
-    },
-    {
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
-      "source": "TechCrunch AI",
-      "published": "2026-10-27T11:00:00+00:00",
-      "retrieved_at": "2026-10-27T21:29:15.677268+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e846c1d13ff3f0b15ea3afda"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T01:39:59.926456+00:00",
+    "checked_at": "2026-11-05T01:45:04.586703+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
