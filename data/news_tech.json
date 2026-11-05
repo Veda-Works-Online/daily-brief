@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-05T01:25:12.035378+00:00",
+  "updated": "2026-11-05T01:30:09.834508+00:00",
   "items": [
+    {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
+      "source": "TechCrunch AI",
+      "published": "2026-11-05T01:26:22+00:00",
+      "retrieved_at": "2026-11-05T01:30:00.904655+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "27af587d318d74f954e3012d"
+    },
     {
       "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
       "url": "https://wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e846c1d13ff3f0b15ea3afda"
-    },
-    {
-      "title": "AI Agents Are Media’s New Favorite Audience",
-      "url": "https://wired.com/story/ai-agents-are-medias-new-favorite-audience",
-      "source": "Wired",
-      "published": "2026-10-27T11:00:00+00:00",
-      "retrieved_at": "2026-10-27T11:07:34.903094+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8bf386601bd10f8d5a30c5d1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T01:25:03.403940+00:00",
+    "checked_at": "2026-11-05T01:30:00.123702+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
