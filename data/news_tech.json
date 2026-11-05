@@ -1,14 +1,31 @@
 {
-  "updated": "2026-11-05T19:01:38.294807+00:00",
+  "updated": "2026-11-05T19:06:34.518589+00:00",
   "items": [
+    {
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough",
+      "source": "TechCrunch AI",
+      "published": "2026-11-05T19:06:12+00:00",
+      "retrieved_at": "2026-11-05T19:06:28.056752+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "82194fc31d0f76e8baf9c0b6"
+    },
     {
       "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
       "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers",
       "source": "TechCrunch",
       "published": "2026-11-05T18:48:34+00:00",
-      "retrieved_at": "2026-11-05T19:01:30.478207+00:00",
+      "retrieved_at": "2026-11-05T19:06:29.168379+00:00",
       "feed_url": "https://techcrunch.com/feed/",
-      "summary": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass-hacks.",
+      "summary": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
       "isAI": false,
       "category": "tech",
       "relevance": "tech",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ddea6190b0c7ab8a360f5c8a"
-    },
-    {
-      "title": "GM is embracing hybrids now",
-      "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now",
-      "source": "TechCrunch",
-      "published": "2026-10-27T21:47:02+00:00",
-      "retrieved_at": "2026-10-27T22:20:22.391108+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6508d41a4998c724e301aaef"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T19:01:28.543606+00:00",
+    "checked_at": "2026-11-05T19:06:27.274723+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
