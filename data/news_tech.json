@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-05T12:01:12.715985+00:00",
+  "updated": "2026-11-05T12:06:06.222828+00:00",
   "items": [
+    {
+      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market",
+      "source": "Ars Technica AI",
+      "published": "2026-11-05T12:00:41+00:00",
+      "retrieved_at": "2026-11-05T12:06:03.791997+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "US leader in deploying humanoid robots goes public on the Nadaq stock exchange.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d38bbaeba4cc71660441baee"
+    },
+    {
+      "title": "AI’s Next Trick? Speaking Dolphin",
+      "url": "https://wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin",
+      "source": "Wired",
+      "published": "2026-11-05T12:00:00+00:00",
+      "retrieved_at": "2026-11-05T12:06:03.876886+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0436d7f6934d9a01a788bf0d"
+    },
     {
       "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
       "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6295a04bd8132bd180da6502"
-    },
-    {
-      "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
-      "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house",
-      "source": "TechCrunch",
-      "published": "2026-10-27T14:51:33+00:00",
-      "retrieved_at": "2026-10-27T15:43:45.574626+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5f810ea18b3da97d8ce53f76"
-    },
-    {
-      "title": "US government says hackers are now exploiting critical PHP web bugs",
-      "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs",
-      "source": "TechCrunch",
-      "published": "2026-10-27T14:40:39+00:00",
-      "retrieved_at": "2026-10-27T14:43:45.170786+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2e2ef069f389e316f17efc24"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T12:01:08.870809+00:00",
+    "checked_at": "2026-11-05T12:06:02.639523+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
