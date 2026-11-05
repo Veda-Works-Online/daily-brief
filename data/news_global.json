@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-05T12:06:11.067428+00:00",
+  "updated": "2026-11-05T12:31:14.933794+00:00",
   "items": [
+    {
+      "title": "Workers strike across France, hundreds of thousands expected to protest",
+      "url": "https://aljazeera.com/news/2026/11/5/workers-strike-across-france-hundreds-of-thousands-expected-to-protest",
+      "source": "Al Jazeera",
+      "published": "2026-11-05T12:21:13+00:00",
+      "retrieved_at": "2026-11-05T12:31:11.762818+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Demonstrators are demanding an increase in the minimum wage and higher salaries for all workers, among other reforms.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0e05934d9e5d88e29f826959"
+    },
     {
       "title": "Palantir harvests battlefield data that Ukraine pays for ‘with blood’",
       "url": "https://aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e586d6cfebdc6489c0f8ad2c"
-    },
-    {
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "url": "https://bbc.co.uk/news/articles/cmqln14rrzxvo",
-      "source": "BBC World",
-      "published": "2026-11-01T16:25:33+00:00",
-      "retrieved_at": "2026-11-01T16:53:16.687719+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "793771604facf69b4a1f1101"
     }
   ],
   "unverified_history": [
