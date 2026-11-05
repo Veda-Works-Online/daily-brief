@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-05T22:21:25.797552+00:00",
+  "updated": "2026-11-05T22:26:23.173917+00:00",
   "items": [
+    {
+      "title": "How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost",
+      "url": "https://wired.com/story/uncanny-valley-podcast-how-elon-musk-and-big-tech-poured-millions-into-the-midterms-and-lost",
+      "source": "Wired",
+      "published": "2026-11-05T22:18:42+00:00",
+      "retrieved_at": "2026-11-05T22:26:17.967118+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "This week on “Uncanny Valley,” we discuss the historic blue wave that swept the midterms and delivered a rebuke to the Trump administration, Big Tech, and data centers.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "909725fb23241c22104cc5ee"
+    },
     {
       "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
       "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable",
@@ -68,6 +85,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "236f23749fd678edf07b9f86"
+    },
+    {
+      "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
+      "url": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven",
+      "source": "Ars Technica",
+      "published": "2026-11-05T20:45:50+00:00",
+      "retrieved_at": "2026-11-05T22:26:18.010181+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "BMW has updated its flagship sedan with the newest EV and infotainment tech.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b11bac65cc60b9408ca7e916"
     },
     {
       "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0829f2dde5dfe8f6693d4e52"
-    },
-    {
-      "title": "The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "source": "OpenAI",
-      "published": "2026-10-28T10:00:00+00:00",
-      "retrieved_at": "2026-10-28T17:44:17.460605+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "69674d88a6644c72cdc29706"
-    },
-    {
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora",
-      "source": "OpenAI",
-      "published": "2026-10-28T09:30:00+00:00",
-      "retrieved_at": "2026-10-28T18:39:15.400348+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "b80d7207ecc5e1ff875d039f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T22:21:19.687429+00:00",
+    "checked_at": "2026-11-05T22:26:16.304186+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
