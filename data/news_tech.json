@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-05T21:41:26.980835+00:00",
+  "updated": "2026-11-05T21:46:22.037307+00:00",
   "items": [
+    {
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable",
+      "source": "Ars Technica AI",
+      "published": "2026-11-05T21:40:36+00:00",
+      "retrieved_at": "2026-11-05T21:46:17.711854+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d3d5fd2430a6eefd5fd74cbf"
+    },
+    {
+      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder",
+      "source": "Ars Technica AI",
+      "published": "2026-11-05T21:39:40+00:00",
+      "retrieved_at": "2026-11-05T21:46:17.711876+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ba938de6356cc56b7fa44801"
+    },
     {
       "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
       "url": "https://wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "b80d7207ecc5e1ff875d039f"
-    },
-    {
-      "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-      "url": "https://wired.com/story/ai-emergency-alerts-coming-humans-not-ready",
-      "source": "Wired",
-      "published": "2026-10-28T08:30:00+00:00",
-      "retrieved_at": "2026-10-28T08:36:52.282883+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "19f313f3afd79c23f35cf78a"
-    },
-    {
-      "title": "Should AI Decide Your Court Case? This Judge Says Yes",
-      "url": "https://wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges",
-      "source": "Wired",
-      "published": "2026-10-28T06:00:00+00:00",
-      "retrieved_at": "2026-10-28T06:06:10.708841+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "de290f697bc6db96ca82fc59"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T21:41:18.914612+00:00",
+    "checked_at": "2026-11-05T21:46:16.137109+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
