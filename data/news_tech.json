@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-05T11:56:08.213491+00:00",
+  "updated": "2026-11-05T12:01:12.715985+00:00",
   "items": [
+    {
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
+      "source": "TechCrunch AI",
+      "published": "2026-11-05T12:00:00+00:00",
+      "retrieved_at": "2026-11-05T12:01:09.502927+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4667a991f2cfe9bb64c57f42"
+    },
     {
       "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
       "url": "https://wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2e2ef069f389e316f17efc24"
-    },
-    {
-      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
-      "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip",
-      "source": "TechCrunch",
-      "published": "2026-10-27T14:25:11+00:00",
-      "retrieved_at": "2026-10-27T14:28:46.535704+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "440ee39a26e1e95c31c090da"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T11:56:04.557789+00:00",
+    "checked_at": "2026-11-05T12:01:08.870809+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
