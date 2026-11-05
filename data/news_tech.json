@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T10:36:11.129227+00:00",
+  "updated": "2026-11-05T10:41:12.860855+00:00",
   "items": [
     {
       "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
@@ -68,6 +68,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8b06d2e66ca1c04ece44f850"
+    },
+    {
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "source": "Hugging Face",
+      "published": "2026-11-05T00:00:00+00:00",
+      "retrieved_at": "2026-11-05T10:41:06.751632+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "f65214e06a6494864f4de27f"
     },
     {
       "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9c7d53a79f540210c7df8280"
-    },
-    {
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser",
-      "source": "TechCrunch AI",
-      "published": "2026-10-27T13:00:00+00:00",
-      "retrieved_at": "2026-10-27T13:03:44.313836+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "88c08b5459b2c96d8ccf8a0d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T10:36:07.527624+00:00",
+    "checked_at": "2026-11-05T10:41:06.055210+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
