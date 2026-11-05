@@ -32,7 +32,7 @@ saving conversion fixtures still exercise their own dates.
 
 ## Index and currency reference
 
-Index and FX fetches compare both Google page formats and keep the newest actual
+Index, FX and commodity futures fetches compare both Google page formats and keep the newest actual
 quote timestamp. Google beta index headers may omit currency because the value
 is in index points; missing denominations are resolved only for the five exact
 canonical index identifiers configured in the parser. Explicit conflicting
@@ -43,7 +43,12 @@ minutes, including its own previous close for daily change. If Google is missing
 or older, a Yahoo fallback is labelled on the dashboard with its actual source
 time and same-source daily-change baseline. Never mix one provider's rate with
 another provider's previous close. The existing anti-regression guard preserves
-a saved newer observation during the transition until Google catches up.
+a saved newer observation during the transition until Google catches up. A Google
+FX quote older than the saved observation cannot skip a newer Yahoo candidate,
+even if Google is within the eight-minute age limit. Such a Yahoo fallback is
+explicitly labelled as a quote-time regression fallback. Commodity futures keep
+their exact Google continuous-series identity; no different Yahoo contract is
+substituted. A genuinely old source quote remains stale.
 
 ## Current stock reference: Google Finance
 
