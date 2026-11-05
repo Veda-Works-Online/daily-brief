@@ -1,12 +1,44 @@
 {
-  "updated": "2026-11-05T18:51:45.281191+00:00",
+  "updated": "2026-11-05T18:56:44.583673+00:00",
   "items": [
     {
-      "title": "AI stocks plunge after election, driving down US markets",
+      "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
+      "url": "https://aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack",
+      "source": "Al Jazeera",
+      "published": "2026-11-05T18:47:10+00:00",
+      "retrieved_at": "2026-11-05T18:56:38.795932+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "283d883efe6b2a66488f380c"
+    },
+    {
+      "title": "Arab party backs Eisenkot in bid to form Israel’s next government",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government",
+      "source": "Al Jazeera",
+      "published": "2026-11-05T18:30:09+00:00",
+      "retrieved_at": "2026-11-05T18:56:38.795957+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Arab-majority party Ra’am and the Democrats have backed Gadi Eisenkot in a bid to form Israel’s next government.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "afab324945d3a9d4f0f0587f"
+    },
+    {
+      "title": "AI stocks plunge after US election, driving down markets",
       "url": "https://aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets",
       "source": "Al Jazeera",
       "published": "2026-11-05T17:56:17+00:00",
-      "retrieved_at": "2026-11-05T18:51:39.280218+00:00",
+      "retrieved_at": "2026-11-05T18:56:38.795987+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
       "category": "global",
@@ -15,7 +47,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "13b986961e9dc029ffcedb92"
+      "story_fingerprint": "bf33c47828b8abf226aa345f"
     },
     {
       "title": "Jordanian officer killed in stabbing attack in Amman",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "db9b1e3542119826754f266d"
-    },
-    {
-      "title": "Thai Activist Sentenced to Additional Prison Term For Defaming Monarchy During 2020 Protest",
-      "url": "https://thediplomat.com/2026/11/thai-activist-sentenced-to-additional-prison-term-for-defaming-monarchy-during-2020-protest",
-      "source": "The Diplomat",
-      "published": "2026-11-02T03:29:00+00:00",
-      "retrieved_at": "2026-11-02T13:25:16.881682+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Arnon Nampa, 42, now faces more than 34 years in prison for multiple breaches of Thailand's strict lese-majeste law.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6d9941ae7cfcb144cfb19831"
-    },
-    {
-      "title": "Nine killed as small jet crashes on Florida street",
-      "url": "https://bbc.co.uk/news/articles/cm369yy7lw73o",
-      "source": "BBC World",
-      "published": "2026-11-02T02:59:02+00:00",
-      "retrieved_at": "2026-11-02T06:39:44.916928+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "31b399100bddcbc0b973146e"
     }
   ],
   "unverified_history": [

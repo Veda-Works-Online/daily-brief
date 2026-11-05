@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T18:51:35.485709+00:00",
+  "updated": "2026-11-05T18:56:35.554029+00:00",
   "items": [
     {
       "title": "U.S. government warns of ‘ongoing cyber threat’ amid mass-hacks of industrial retail and military freezers",
@@ -23,9 +23,9 @@
       "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027",
       "source": "TechCrunch AI",
       "published": "2026-11-05T18:02:27+00:00",
-      "retrieved_at": "2026-11-05T18:51:29.737213+00:00",
+      "retrieved_at": "2026-11-05T18:56:30.269307+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI President Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+      "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -68,6 +68,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c70da4afee0b97445ecb24e2"
+    },
+    {
+      "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+      "url": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5",
+      "source": "Ars Technica",
+      "published": "2026-11-05T17:40:27+00:00",
+      "retrieved_at": "2026-11-05T18:56:31.207141+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Using a capture card and open source software to run PS5 video through a PC GPU.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "10ef8bb4d879e07df284a261"
     },
     {
       "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6508d41a4998c724e301aaef"
-    },
-    {
-      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
-      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant",
-      "source": "TechCrunch AI",
-      "published": "2026-10-27T21:44:34+00:00",
-      "retrieved_at": "2026-10-27T21:45:23.810446+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a48d4821619e49e8331f9d48"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T18:51:28.988138+00:00",
+    "checked_at": "2026-11-05T18:56:29.458943+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
