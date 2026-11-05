@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-05T11:51:05.950936+00:00",
+  "updated": "2026-11-05T11:56:08.213491+00:00",
   "items": [
+    {
+      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
+      "url": "https://wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk",
+      "source": "Wired",
+      "published": "2026-11-05T11:45:00+00:00",
+      "retrieved_at": "2026-11-05T11:56:06.011334+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "813ea15f6c189ddbf5572b5b"
+    },
     {
       "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
       "url": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "440ee39a26e1e95c31c090da"
-    },
-    {
-      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-      "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes",
-      "source": "TechCrunch",
-      "published": "2026-10-27T13:54:51+00:00",
-      "retrieved_at": "2026-10-27T13:58:44.378064+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "eb2ba6544ebc9bd30c94834e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T11:51:02.409508+00:00",
+    "checked_at": "2026-11-05T11:56:04.557789+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
