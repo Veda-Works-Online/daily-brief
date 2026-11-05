@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-05T21:36:28.188859+00:00",
+  "updated": "2026-11-05T21:41:26.980835+00:00",
   "items": [
+    {
+      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
+      "url": "https://wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not",
+      "source": "Wired",
+      "published": "2026-11-05T21:37:18+00:00",
+      "retrieved_at": "2026-11-05T21:41:20.775579+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8899686e286481894c4d5184"
+    },
     {
       "title": "Serve Robotics launches new business to become the AWS for robots",
       "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "de290f697bc6db96ca82fc59"
-    },
-    {
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
-      "source": "TechCrunch AI",
-      "published": "2026-10-28T01:15:28+00:00",
-      "retrieved_at": "2026-10-28T01:20:21.943288+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "432f5ffbcf1c46a875ad5121"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T21:36:19.229616+00:00",
+    "checked_at": "2026-11-05T21:41:18.914612+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
