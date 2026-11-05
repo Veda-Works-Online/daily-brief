@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T19:21:44.903975+00:00",
+  "updated": "2026-11-05T19:26:40.078861+00:00",
   "items": [
     {
       "title": "Will US midterm election results spare Gulf states from further war?",
@@ -16,6 +16,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "11b602015cf1fa7e34110e1f"
+    },
+    {
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "url": "https://bbc.co.uk/news/articles/c9p8g085mz07o",
+      "source": "BBC World",
+      "published": "2026-11-05T19:08:08+00:00",
+      "retrieved_at": "2026-11-05T19:26:34.360617+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c4674c5ab284fadc0e6b52dc"
     },
     {
       "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "44b8f32740845b9b9794b23b"
-    },
-    {
-      "title": "Write-In Ralph: South Carolina Republicans challenge Trump’s Senate pick",
-      "url": "https://aljazeera.com/news/2026/11/2/write-in-ralph-south-carolina-republicans-challenge-trumps-senate-pick",
-      "source": "Al Jazeera",
-      "published": "2026-11-02T04:31:02+00:00",
-      "retrieved_at": "2026-11-02T04:59:39.333614+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "As Trump supports Senator Darline Graham, one conservative group is rallying around someone else.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2cdbe8b47b31609d4ae0563f"
     }
   ],
   "unverified_history": [
