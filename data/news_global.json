@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-06T07:15:58.891638+00:00",
+  "updated": "2026-11-06T07:41:03.265278+00:00",
   "items": [
+    {
+      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "url": "https://bbc.co.uk/news/articles/ckjrwx1r2d5ro",
+      "source": "BBC World",
+      "published": "2026-11-06T07:33:41+00:00",
+      "retrieved_at": "2026-11-06T07:40:57.325888+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9e8fab3161c691e96f06eb0e"
+    },
     {
       "title": "Israel’s President Herzog to name candidate to form government on Sunday",
       "url": "https://aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c793660b34afe0a4e3615a47"
-    },
-    {
-      "title": "China’s AI Data Centers Move West, But Their Tax Revenue Stays East",
-      "url": "https://thediplomat.com/2026/11/chinas-ai-data-centers-move-west-but-their-tax-revenue-stays-east",
-      "source": "The Diplomat",
-      "published": "2026-11-02T15:37:00+00:00",
-      "retrieved_at": "2026-11-02T21:26:51.292440+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "If nothing changes, cities like Ulanqab will struggle to turn their computing boom into a real development advantage.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e86fe5414a294a54afe91fd1"
     }
   ],
   "unverified_history": [
