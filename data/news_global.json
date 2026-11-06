@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T02:20:15.897697+00:00",
+  "updated": "2026-11-06T02:30:05.931040+00:00",
   "items": [
     {
       "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "45db4f5218fabd9bdbce7c57"
+    },
+    {
+      "title": "Gaza turns discarded cooking pots into seawalls",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls",
+      "source": "Al Jazeera",
+      "published": "2026-11-06T02:03:47+00:00",
+      "retrieved_at": "2026-11-06T02:30:02.827260+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "As winter approaches, Palestinians in Gaza are turning damaged cooking pots into makeshift seawalls to avoid flooding.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "da2daacd2c8cb0814b31ec10"
     },
     {
       "title": "Trump signs order preventing future presidents from changing Oval Office",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cde29c4ab2bfe488e4b9f147"
-    },
-    {
-      "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-      "url": "https://bbc.co.uk/news/articles/c51kdy1ew7zvo",
-      "source": "BBC World",
-      "published": "2026-11-02T12:44:48+00:00",
-      "retrieved_at": "2026-11-02T13:35:19.407459+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c73d4bb387da5bf3c0190267"
     }
   ],
   "unverified_history": [
