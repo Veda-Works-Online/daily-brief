@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-06T22:53:03.710037+00:00",
+  "updated": "2026-11-06T22:58:01.261753+00:00",
   "items": [
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+      "source": "TechCrunch AI",
+      "published": "2026-11-06T22:53:46+00:00",
+      "retrieved_at": "2026-11-06T22:57:55.714110+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "45d746c4df5b2a7db6b846c6"
+    },
     {
       "title": "The Cybertruck’s Death Is Actually Great News for EVs",
       "url": "https://wired.com/story/cybertrucks-death-great-news-for-evs",
@@ -4218,11 +4235,11 @@
       "story_fingerprint": "a055653655e24f8d5033851f"
     },
     {
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "url": "https://huggingface.co/blog/mistral-large4",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
       "source": "Hugging Face",
       "published": "2026-10-29T00:00:00+00:00",
-      "retrieved_at": "2026-11-06T22:52:59.309168+00:00",
+      "retrieved_at": "2026-11-06T22:57:55.814247+00:00",
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "summary": "",
       "isAI": true,
@@ -4232,24 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "7661025cf48d5be73cedcd76"
-    },
-    {
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "url": "https://huggingface.co/blog/announcing-project-protostar",
-      "source": "Hugging Face",
-      "published": "2026-10-29T00:00:00+00:00",
-      "retrieved_at": "2026-10-29T14:48:55.527598+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "a31bb0cd174edc8e79c5b2d3"
+      "story_fingerprint": "0356da6ce2f886abbe8c08e0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-06T22:52:58.617777+00:00",
+    "checked_at": "2026-11-06T22:57:55.104431+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
