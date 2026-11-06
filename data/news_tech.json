@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-06T22:27:59.850165+00:00",
+  "updated": "2026-11-06T22:33:04.844862+00:00",
   "items": [
+    {
+      "title": "The Cybertruck’s Death Is Actually Great News for EVs",
+      "url": "https://wired.com/story/cybertrucks-death-great-news-for-evs",
+      "source": "Wired",
+      "published": "2026-11-06T22:31:15+00:00",
+      "retrieved_at": "2026-11-06T22:33:01.001290+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Tesla’s massive EV is the second within the last year to get the ax, while smaller vehicles are proliferating. It could be a huge benefit for the US battery supply chain.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e99cb159ec00e7a1b152d6dd"
+    },
     {
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
       "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "7661025cf48d5be73cedcd76"
-    },
-    {
-      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "url": "https://huggingface.co/blog/anydecisionmodel",
-      "source": "Hugging Face",
-      "published": "2026-10-29T00:00:00+00:00",
-      "retrieved_at": "2026-10-29T12:12:44.048564+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "0356da6ce2f886abbe8c08e0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-06T22:27:54.669976+00:00",
+    "checked_at": "2026-11-06T22:32:58.388834+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
