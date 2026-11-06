@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-06T16:17:40.912059+00:00",
+  "updated": "2026-11-06T16:22:34.720303+00:00",
   "items": [
+    {
+      "title": "Could potential AI clones of GTA VI force a quicker official port?",
+      "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port",
+      "source": "Ars Technica AI",
+      "published": "2026-11-06T16:19:12+00:00",
+      "retrieved_at": "2026-11-06T16:22:30.346416+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b722842096d8523c862b007a"
+    },
     {
       "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
       "url": "https://wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4d4d5c01f31967796cd6bb9b"
-    },
-    {
-      "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
-      "url": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels",
-      "source": "Ars Technica",
-      "published": "2026-10-28T17:55:45+00:00",
-      "retrieved_at": "2026-10-28T18:29:16.301939+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "With more than 200 kWh, this luxury three-row can go 460 miles on a charge.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e3bdf1a7815247079001a43c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-06T16:17:32.612863+00:00",
+    "checked_at": "2026-11-06T16:22:29.463370+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
