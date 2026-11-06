@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T23:07:57.787584+00:00",
+  "updated": "2026-11-06T23:13:01.130468+00:00",
   "items": [
     {
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
@@ -4235,11 +4235,11 @@
       "story_fingerprint": "a055653655e24f8d5033851f"
     },
     {
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "url": "https://huggingface.co/blog/mistral-large4",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
       "source": "Hugging Face",
       "published": "2026-10-29T00:00:00+00:00",
-      "retrieved_at": "2026-11-06T23:07:53.419468+00:00",
+      "retrieved_at": "2026-11-06T23:12:56.622435+00:00",
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "summary": "",
       "isAI": true,
@@ -4249,7 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "7661025cf48d5be73cedcd76"
+      "story_fingerprint": "a31bb0cd174edc8e79c5b2d3"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-06T23:07:52.628715+00:00",
+    "checked_at": "2026-11-06T23:12:55.990809+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
