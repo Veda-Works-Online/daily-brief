@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-06T05:01:02.114900+00:00",
+  "updated": "2026-11-06T05:25:57.642920+00:00",
   "items": [
+    {
+      "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+      "url": "https://aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran",
+      "source": "Al Jazeera",
+      "published": "2026-11-06T05:00:47+00:00",
+      "retrieved_at": "2026-11-06T05:25:51.832358+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Call comes as Iraq's top diplomat urges armed groups not to join any Iranian retaliation to US attacks.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a995848e57c60a023eb84e7c"
+    },
     {
       "title": "Trump issues proclamation declaring Oval Office national monument",
       "url": "https://aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3a72d92be34fb1f9c1ab1c9b"
-    },
-    {
-      "title": "What we know about the alert app hack in Ukraine and Russia",
-      "url": "https://bbc.co.uk/news/videos/crq5n6204g20o",
-      "source": "BBC World",
-      "published": "2026-11-02T14:24:25+00:00",
-      "retrieved_at": "2026-11-03T07:58:56.587861+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Both Ukraine and Russia say their air raid alert apps were cyber-attacked - Joe Tidy explains what we know so far.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "03de11e2efa7e516328d7920"
     }
   ],
   "unverified_history": [
