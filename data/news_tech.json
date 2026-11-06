@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-06T17:57:40.538038+00:00",
+  "updated": "2026-11-06T18:02:37.241957+00:00",
   "items": [
+    {
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry",
+      "source": "TechCrunch AI",
+      "published": "2026-11-06T18:00:00+00:00",
+      "retrieved_at": "2026-11-06T18:02:32.409218+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "dab061bc3ed8c4b031725ed6"
+    },
     {
       "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
       "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "22ece9f220616822cc655287"
-    },
-    {
-      "title": "Evernote turns AI-driven discovery into paid subscriptions",
-      "url": "https://openai.com/ads/customers/evernote",
-      "source": "OpenAI",
-      "published": "2026-10-28T19:40:49+00:00",
-      "retrieved_at": "2026-11-03T21:47:01.986663+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "89d262ebd586e80555e13198"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-06T17:57:35.136104+00:00",
+    "checked_at": "2026-11-06T18:02:31.944181+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
