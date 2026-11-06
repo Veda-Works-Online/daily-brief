@@ -1,14 +1,30 @@
 {
-  "updated": "2026-11-06T14:52:17.408208+00:00",
+  "updated": "2026-11-06T15:52:49.303865+00:00",
   "items": [
+    {
+      "title": "AI stocks climb after trillions wiped from market values",
+      "url": "https://bbc.co.uk/news/articles/c35ynnpzdq51o",
+      "source": "BBC World",
+      "published": "2026-11-06T15:04:46+00:00",
+      "retrieved_at": "2026-11-06T15:52:43.610744+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4644cfb1d29cb06c813c487d"
+    },
     {
       "title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
       "url": "https://dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035",
       "source": "DW",
       "published": "2026-11-06T14:00:00+00:00",
-      "retrieved_at": "2026-11-06T14:12:17.314255+00:00",
+      "retrieved_at": "2026-11-06T15:52:43.781629+00:00",
       "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Czech arms makers have thrived on demand linked to the war in Ukraine. But to sustain their growth, they need to look beyond ammunition and toward new technologies — and even space.",
+      "summary": "Czech arms makers have thrived on demand linked to the war in Ukraine. To sustain their growth, they need to look beyond ammunition and toward new technologies — and even space.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0b2bbab4e2c51e92643e705a"
-    },
-    {
-      "title": "After Israel’s election: What’s next?",
-      "url": "https://aljazeera.com/video/the-bottom-line/2026/11/2/after-israels-election-whats-next",
-      "source": "Al Jazeera",
-      "published": "2026-11-02T18:32:59+00:00",
-      "retrieved_at": "2026-11-02T18:51:16.731944+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Knesset member Ofer Cassif argues that the ‘politics of exclusion’ keep Israel in political deadlock.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dc14566a19ebccaf073f32e5"
     }
   ],
   "unverified_history": [
