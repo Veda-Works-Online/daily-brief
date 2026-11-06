@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-06T00:40:06.413916+00:00",
+  "updated": "2026-11-06T02:20:15.897697+00:00",
   "items": [
+    {
+      "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+      "url": "https://bbc.co.uk/news/articles/cqg7xxg4jdv5o",
+      "source": "BBC World",
+      "published": "2026-11-06T02:08:57+00:00",
+      "retrieved_at": "2026-11-06T02:20:12.952776+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "45db4f5218fabd9bdbce7c57"
+    },
+    {
+      "title": "Trump signs order preventing future presidents from changing Oval Office",
+      "url": "https://bbc.co.uk/news/articles/cmy0eeg101djo",
+      "source": "BBC World",
+      "published": "2026-11-06T01:20:01+00:00",
+      "retrieved_at": "2026-11-06T02:20:12.952766+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The order comes after Trump made a series of big changes the Oval Office decor and launched landmark construction projects across Washington.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6b429dbb421468d8423e9a3c"
+    },
     {
       "title": "Turkiye’s parliament ratifies Mecca defence agreement",
       "url": "https://aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c73d4bb387da5bf3c0190267"
-    },
-    {
-      "title": "Global pedestrian Karl Bushby returns home to UK after 28-year trek",
-      "url": "https://dw.com/en/global-pedestrian-karl-bushby-returns-home-to-uk-after-28-year-trek/a-79829564",
-      "source": "DW",
-      "published": "2026-11-02T12:31:00+00:00",
-      "retrieved_at": "2026-11-02T16:01:17.086198+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Karl Bushby, a British man who traveled 50,000 km without transport over the past 28 years, has come home. Starting in Chile, he crossed the Americas, Russia and parts of Central Asia and Europe — almost all on foot.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9d768e14965db514b4dd9155"
-    },
-    {
-      "title": "Oman and China sign deals to boost trade and investment",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/2/oman-and-china-sign-deals-to-boost-trade-and-investment",
-      "source": "Al Jazeera",
-      "published": "2026-11-02T12:18:07+00:00",
-      "retrieved_at": "2026-11-02T12:50:16.504272+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Oman and China sign deals to boost trade and investment",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "24a433d9f237a15e51e3bbb3"
     }
   ],
   "unverified_history": [
