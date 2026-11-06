@@ -84,6 +84,19 @@ class IndexFxReferenceTests(unittest.TestCase):
         self.assertEqual(retained['validation_status'], 'STALE')
         self.assertEqual(retained['source_timestamp'], previous['source_timestamp'])
 
+    def test_google_fx_keeps_reported_change_instead_of_using_rounded_rate(self):
+        quote = dict(id='GBP-USD', currency='USD', price=Decimal('1.3436'),
+                     previousClose=Decimal('1.345575'), reportedChangePercent=Decimal('-0.1448822'),
+                     timestamp=self.now.isoformat(), retrieved_at=self.now.isoformat())
+        out = m.google_fx({'ticker': 'GBPUSD=X'}, 'GBPUSD=X', quote, self.now)
+        self.assertEqual(out['changePercent'], Decimal('-0.1448822'))
+        self.assertEqual(out['indexValue'], Decimal('1.3436'))
+        self.assertEqual(out['field_metadata']['changePercent']['source_timestamp'], out['source_timestamp'])
+        self.assertEqual(out['field_metadata']['changePercent']['decimal'], '-0.1448822')
+        without_header = dict(quote, reportedChangePercent=None)
+        self.assertEqual(m.google_fx({}, 'GBPUSD=X', without_header, self.now)['changePercent'],
+                         Decimal('-0.146777'))
+
     def test_fx_prefers_fresh_google_even_when_yahoo_is_later(self):
         google = dict(id='USD-INR', currency='INR', price=Decimal('94.9258'),
                       previousClose=Decimal('94.71155'), timestamp=(self.now-timedelta(minutes=3)).isoformat(),

@@ -459,7 +459,17 @@ def google_fx(row, symbol, quote, now, source='Google Finance'):
         'decimal':format(price,'f'), 'currency':PAIRS[symbol][1], 'verification_sources':[]}
     out.update(sourceTimestamp=out['source_timestamp'], retrievedAt=out['retrieved_at'],
                marketStatus=out['market_status'], marketTimezone=out['market_timezone'])
-    return fill_google_fields(out, quote, now, source=source)
+    out = fill_google_fields(out, quote, now, source=source)
+    if source == 'Google Finance' and quote.get('reportedChangePercent') is not None:
+        # Google's header uses the unrounded rate, which may round differently
+        # from a percentage recomputed with the displayed rate.
+        reported = decimal(quote['reportedChangePercent'])
+        out['changePercent'] = reported
+        out['field_metadata']['changePercent'] = {
+            **out['field_metadata']['indexValue'], 'decimal': format(reported, 'f'),
+            'currency': None, 'basis': 'Google Finance reported daily change',
+        }
+    return out
 
 
 def freshest_fx(row, symbol, google, yahoo, now):
