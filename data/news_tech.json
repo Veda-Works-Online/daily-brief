@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T19:07:36.590720+00:00",
+  "updated": "2026-11-06T19:12:36.273329+00:00",
   "items": [
     {
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
@@ -323,6 +323,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2b73277b6c6e2d23d7c29b9a"
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "OpenAI",
+      "published": "2026-11-06T00:00:00+00:00",
+      "retrieved_at": "2026-11-06T19:12:32.159052+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "84a9db0d829d8ce3c8ba4a72"
     },
     {
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0bdd0ba60496fd8baec599b3"
-    },
-    {
-      "title": "Google expands AI Search ads globally as core ad growth slows",
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
-      "source": "TechCrunch AI",
-      "published": "2026-10-28T21:48:37+00:00",
-      "retrieved_at": "2026-10-28T21:49:09.992521+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e67970c47f63fe1d4d0d34b8"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-06T19:07:31.255248+00:00",
+    "checked_at": "2026-11-06T19:12:31.025302+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
