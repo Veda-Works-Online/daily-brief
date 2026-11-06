@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T13:06:59.058979+00:00",
+  "updated": "2026-11-06T13:12:18.642064+00:00",
   "items": [
     {
       "title": "Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3745fc7e068e6850e0dd39f5"
+    },
+    {
+      "title": "Iranians face looming war threat with no reliable info",
+      "url": "https://dw.com/en/iranians-face-looming-war-threat-with-no-reliable-info/a-79875438",
+      "source": "DW",
+      "published": "2026-11-06T12:56:00+00:00",
+      "retrieved_at": "2026-11-06T13:12:13.893350+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Ordinary people living in Iran have little idea of the course of the war and peace talks on the global stage. With few sources of information, they are forced to navigate conflicting rumors and fears of a nuclear attack.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4e208a9de382f6ce2602d342"
     },
     {
       "title": "Rocket launcher deal illustrates deepening Russia-Iran relations",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a2cbf05f0d1d9d3410646d21"
-    },
-    {
-      "title": "Real Madrid matches still banned in China despite Mbappe apology",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology",
-      "source": "Al Jazeera",
-      "published": "2026-11-02T17:08:25+00:00",
-      "retrieved_at": "2026-11-02T17:36:12.189040+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Real Madrid matches still banned in China despite Mbappe apology",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "032de73403dc1751d6905756"
     }
   ],
   "unverified_history": [
