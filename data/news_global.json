@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-06T02:55:02.382137+00:00",
+  "updated": "2026-11-06T03:20:02.977580+00:00",
   "items": [
+    {
+      "title": "Trump signs order preventing future presidents from changing Oval Office",
+      "url": "https://bbc.co.uk/news/articles/cmy0eeg101djo",
+      "source": "BBC World",
+      "published": "2026-11-06T03:17:39+00:00",
+      "retrieved_at": "2026-11-06T03:19:59.946297+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6b429dbb421468d8423e9a3c"
+    },
     {
       "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
       "url": "https://aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei",
@@ -48,22 +64,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "da2daacd2c8cb0814b31ec10"
-    },
-    {
-      "title": "Trump signs order preventing future presidents from changing Oval Office",
-      "url": "https://bbc.co.uk/news/articles/cmy0eeg101djo",
-      "source": "BBC World",
-      "published": "2026-11-06T01:20:01+00:00",
-      "retrieved_at": "2026-11-06T02:20:12.952766+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The order comes after Trump made a series of big changes the Oval Office decor and launched landmark construction projects across Washington.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6b429dbb421468d8423e9a3c"
     },
     {
       "title": "Turkiye’s parliament ratifies Mecca defence agreement",
