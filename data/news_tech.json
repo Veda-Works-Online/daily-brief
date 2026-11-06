@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-06T17:42:37.089896+00:00",
+  "updated": "2026-11-06T17:47:40.114408+00:00",
   "items": [
+    {
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update",
+      "source": "Ars Technica AI",
+      "published": "2026-11-06T17:43:02+00:00",
+      "retrieved_at": "2026-11-06T17:47:32.748663+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "dea0f92beb36967ad5359d48"
+    },
     {
       "title": "After the midterms, is the AI industry in for a rough two years?",
       "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "89d262ebd586e80555e13198"
-    },
-    {
-      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
-      "source": "TechCrunch AI",
-      "published": "2026-10-28T19:19:58+00:00",
-      "retrieved_at": "2026-10-28T19:24:12.682862+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2e31dc63b7bae0036df7f9cb"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-06T17:42:29.841346+00:00",
+    "checked_at": "2026-11-06T17:47:31.857788+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
