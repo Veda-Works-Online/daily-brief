@@ -308,3 +308,12 @@ assert(ctx.companyStatus({...companySyncRow,market_status:'OPEN',retrieved_at:'2
 for (const retrieved_at of [null, 'invalid', '2026-10-23T11:48:00Z']) {
   assert(ctx.companyStatus({...companySyncRow,market_status:'OPEN',retrieved_at}).startsWith('MARKET STATUS UNAVAILABLE'));
 }
+const datedSoy = {ticker:'ZS=F', google_instrument:'ZSW00:CBOT',
+  source_timestamp:new Date(Date.now()-35*60*1000).toISOString(),
+  quote_policy:{max_quote_age_seconds:1800}, dated_contract_reference:{
+    contract:'Jan 2027', decimal:'1190.00', source:'Yahoo Finance',
+    source_timestamp:new Date(Date.now()-10*60*1000).toISOString()}};
+assert(ctx.soybeanDatedReference(datedSoy).includes('Separate CBOT contract: Jan 2027 · 1,190.00 US¢/bushel · Yahoo Finance'));
+assert.equal(ctx.soybeanDatedReference({...datedSoy,source_timestamp:new Date().toISOString()}),'');
+assert.equal(ctx.soybeanDatedReference({...datedSoy,dated_contract_reference:{
+  ...datedSoy.dated_contract_reference,source_timestamp:datedSoy.source_timestamp}}),'');
