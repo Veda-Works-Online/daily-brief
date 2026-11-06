@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-06T17:02:49.133738+00:00",
+  "updated": "2026-11-06T17:17:45.233563+00:00",
   "items": [
+    {
+      "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
+      "url": "https://aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department",
+      "source": "Al Jazeera",
+      "published": "2026-11-06T17:02:19+00:00",
+      "retrieved_at": "2026-11-06T17:17:39.573480+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Jason Reding Quinones' resignation comes as administration braces for Democrat-led investigations.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b60522b95f108e13d1861e97"
+    },
     {
       "title": "Talks, Attacks, and a Heist",
       "url": "https://warontherocks.com/talks-attacks-and-a-heist",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "eeeee79521c19f95cb0aafc7"
-    },
-    {
-      "title": "Trump to remove Rwanda and South Africa from US trade deal",
-      "url": "https://bbc.co.uk/news/articles/c9j346xg0mkvo",
-      "source": "BBC World",
-      "published": "2026-11-02T19:33:10+00:00",
-      "retrieved_at": "2026-11-02T20:22:23.392194+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7b1f2481cadf167296b5b8ef"
     }
   ],
   "unverified_history": [
