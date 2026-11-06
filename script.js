@@ -212,6 +212,18 @@ function companyStatus(row) {
   return status + ' · ' + (sync === 'Unknown quote time' ? 'Sync time unavailable' : 'Synced ' + sync);
 }
 
+function soybeanDatedReference(row) {
+  const q = row.dated_contract_reference;
+  if (row.ticker !== 'ZS=F' || row.google_instrument !== 'ZSW00:CBOT' || !q ||
+      !staleQuote(row, 'indexValue') || q.source !== 'Yahoo Finance') return '';
+  const age = Date.now() - Date.parse(q.source_timestamp);
+  const rate = formatDecimal(q.decimal);
+  if (!Number.isFinite(age) || age < -120000 || age > 1800000 || rate === 'DATA UNAVAILABLE') return '';
+  return '<br><small>' + escapeHtml('Separate CBOT contract: ' + q.contract + ' · ' +
+    rate + ' US¢/bushel · ' + q.source + ' · Quote ' +
+    quoteTime(q.source_timestamp, row.display_timezone)) + '</small>';
+}
+
 function fieldStatus(row, field) {
   const meta = row.field_metadata?.[field];
   if (!meta || field !== 'marketCap' && !['STALE','INDICATIVE'].includes(meta.validation_status) && meta.quality !== 'INDICATIVE') return '';
@@ -380,7 +392,7 @@ function renderStocksTable(stocks, region, usdInr = null) {
         ? fmtIndexValue(s.indexValue, exactValue(s, 'indexValue'))
         : fmtMarketCap(s.marketCap, s.currency);
     return `<tr>
-      <td><strong>${escapeHtml(isCommodities && s.ticker === 'ZS=F' ? 'Soyabeans' : s.name)}</strong>${listing}${'<br><small>' + escapeHtml(isEquity ? companyStatus(s) : quoteStatus(s)) + '</small>'}</td>
+      <td><strong>${escapeHtml(isCommodities && s.ticker === 'ZS=F' ? 'Soyabeans' : s.name)}</strong>${listing}${'<br><small>' + escapeHtml(isEquity ? companyStatus(s) : quoteStatus(s)) + '</small>'}${isCommodities ? soybeanDatedReference(s) : ''}</td>
       <td class="muted" title="${escapeHtml(isEquity ? 'Sources for the independently dated fields' : quoteStatus(s))}">${s.ticker === 'GOLD_24K_HYDERABAD' ? '<a href="' + escapeHtml(s.source === 'Economic Times' ? 'https://economictimes.indiatimes.com/goldrate/city-hyderabad,msid-88971989.cms' : 'https://groww.in/gold-rates/gold-rate-today-in-hyderabad') + '" target="_blank" rel="noopener noreferrer">' + escapeHtml(s.source || 'Groww') + '</a>' : escapeHtml(marketReference(s, field, isCommodities ? usdInr : null))}</td>
       <td class="muted">${escapeHtml(s.sector || '')}</td>
       ${isCommodities ? '<td title="' + escapeHtml(commodity.quantityTitle) + '">' + escapeHtml(commodity.quantity) + '</td>' : ''}

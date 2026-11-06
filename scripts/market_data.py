@@ -604,6 +604,31 @@ def google_observation(row, symbol, quote, identity, now):
     return fill_google_fields(out, quote, now)
 
 
+def soybean_dated_reference(row, yahoo, now):
+    """A separate dated quote; never replace the continuous soybean series."""
+    if (row.get('ticker') != 'ZS=F' or row.get('google_instrument') != 'ZSW00:CBOT'
+            or yahoo.get('symbol') != 'ZS=F' or yahoo.get('quoteType') != 'FUTURE'
+            or yahoo.get('exchange') != 'CBT' or yahoo.get('currency') != 'USX'):
+        return None
+    name = re.fullmatch(r'Soybean Futures,\s*(Jan|Mar|May|Jul|Aug|Sep|Nov)-(20\d{2})',
+                        yahoo.get('shortName') or '')
+    if not name:
+        return None
+    try:
+        ts = timestamp(yahoo['regularMarketTime'])
+        retrieved = timestamp(yahoo['_retrieved_at'])
+        price = decimal(yahoo['regularMarketPrice'])
+        if (price <= 0 or not -120 <= (now-ts).total_seconds() <= 1800
+                or not -120 <= (now-retrieved).total_seconds() <= 300
+                or ts <= timestamp(row['source_timestamp'])):
+            return None
+    except (ValueError, KeyError, TypeError, OverflowError):
+        return None
+    return dict(contract=name[1] + ' ' + name[2], decimal=format(price, 'f'),
+                source='Yahoo Finance', source_timestamp=ts.isoformat(),
+                retrieved_at=retrieved.isoformat(), max_quote_age_seconds=1800)
+
+
 def unavailable(row, reason):
     result = deepcopy(row)
     symbol = row.get('source_symbol') or row.get('ticker')
@@ -1358,6 +1383,11 @@ def refresh_markets(payload):
         if symbol in equity_symbols:
             result = google_equity_reference(result, row, symbol, secondary.get(symbol, {}),
                                              identity(symbol), datetime.now(timezone.utc))
+        if symbol == 'ZS=F':
+            result.pop('dated_contract_reference', None)
+            reference = soybean_dated_reference(result, quotes.get(symbol, {}), datetime.now(timezone.utc))
+            if reference is not None:
+                result['dated_contract_reference'] = reference
         attempts.append({'ticker': row['ticker'], 'retrieved_at': now_iso(),
                          'validation_status': result['validation_status'], 'reason': result.get('error', {}).get('reason'),
                          'free_source_error':extra_errors.get(symbol),

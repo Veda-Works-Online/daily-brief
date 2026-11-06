@@ -97,6 +97,25 @@ class IndexFxReferenceTests(unittest.TestCase):
         self.assertEqual(m.google_fx({}, 'GBPUSD=X', without_header, self.now)['changePercent'],
                          Decimal('-0.146777'))
 
+    def test_soybean_dated_reference_requires_a_newer_matching_dated_quote(self):
+        row = dict(ticker='ZS=F', google_instrument='ZSW00:CBOT', indexValue=Decimal('1180.25'),
+                   source_timestamp=(self.now-timedelta(minutes=35)).isoformat())
+        q = dict(symbol='ZS=F', quoteType='FUTURE', exchange='CBT', currency='USX',
+                 shortName='Soybean Futures,Jan-2027', regularMarketPrice=Decimal('1190.00'),
+                 regularMarketTime=int((self.now-timedelta(minutes=10)).timestamp()),
+                 _retrieved_at=self.now.isoformat())
+        ref = m.soybean_dated_reference(row, q, self.now)
+        self.assertEqual((ref['contract'], ref['decimal'], ref['source']),
+                         ('Jan 2027', '1190.00', 'Yahoo Finance'))
+        self.assertEqual(row['indexValue'], Decimal('1180.25'))
+        self.assertEqual(ref['source_timestamp'], (self.now-timedelta(minutes=10)).isoformat())
+        for changes in [dict(symbol='ZC=F'), dict(currency='USD'), dict(exchange='CMX'),
+                        dict(shortName='Soybean Futures'), dict(regularMarketPrice=0),
+                        dict(regularMarketTime=int((self.now-timedelta(minutes=31)).timestamp()))]:
+            self.assertIsNone(m.soybean_dated_reference(row, dict(q, **changes), self.now))
+        newer = dict(row, source_timestamp=self.now.isoformat())
+        self.assertIsNone(m.soybean_dated_reference(newer, q, self.now))
+
     def test_fx_prefers_fresh_google_even_when_yahoo_is_later(self):
         google = dict(id='USD-INR', currency='INR', price=Decimal('94.9258'),
                       previousClose=Decimal('94.71155'), timestamp=(self.now-timedelta(minutes=3)).isoformat(),
