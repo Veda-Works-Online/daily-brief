@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-06T04:55:57.837555+00:00",
+  "updated": "2026-11-06T05:01:02.114900+00:00",
   "items": [
+    {
+      "title": "Trump issues proclamation declaring Oval Office national monument",
+      "url": "https://aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument",
+      "source": "Al Jazeera",
+      "published": "2026-11-06T04:48:00+00:00",
+      "retrieved_at": "2026-11-06T05:00:56.392309+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Following election losses, the signing marks Trump's third event of the week focused on signature renovation projects.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f59d0d4c500b8711f2c33fb7"
+    },
     {
       "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
       "url": "https://aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "03de11e2efa7e516328d7920"
-    },
-    {
-      "title": "How would Tehran respond if the US and Israel bomb Iran again?",
-      "url": "https://aljazeera.com/news/2026/11/2/how-would-tehran-respond-if-the-us-and-israel-bomb-iran",
-      "source": "Al Jazeera",
-      "published": "2026-11-02T14:17:31+00:00",
-      "retrieved_at": "2026-11-02T14:40:23.599443+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran has retained significant offensive capability, but civilians and critical infrastructure remain largely exposed.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "776b969aff78f026e60696a2"
     }
   ],
   "unverified_history": [
