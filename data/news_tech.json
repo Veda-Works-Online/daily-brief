@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T17:27:36.621142+00:00",
+  "updated": "2026-11-06T17:32:36.129512+00:00",
   "items": [
     {
       "title": "After the midterms, is the AI industry in for a rough two years?",
@@ -85,6 +85,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "835b89d5201fd6fb75b2c9e0"
+    },
+    {
+      "title": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
+      "url": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality",
+      "source": "Ars Technica",
+      "published": "2026-11-06T15:28:07+00:00",
+      "retrieved_at": "2026-11-06T17:32:31.248963+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "It has the best laptop screen we've used, but there may be reasons to wait.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bf115804a79055c1eded8db4"
     },
     {
       "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2e31dc63b7bae0036df7f9cb"
-    },
-    {
-      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse",
-      "source": "TechCrunch AI",
-      "published": "2026-10-28T19:05:46+00:00",
-      "retrieved_at": "2026-10-28T19:09:10.654745+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "325382b0317f29e08726941f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-06T17:27:31.347849+00:00",
+    "checked_at": "2026-11-06T17:32:29.959108+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
