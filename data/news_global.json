@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T17:17:45.233563+00:00",
+  "updated": "2026-11-06T17:42:45.498519+00:00",
   "items": [
     {
       "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
@@ -66,6 +66,22 @@
       "story_fingerprint": "f48f9c8d029a9f499b82c561"
     },
     {
+      "title": "Four midterms takeaways for 2028 White House race",
+      "url": "https://bbc.co.uk/news/articles/cq1m41n3v7mmo",
+      "source": "BBC World",
+      "published": "2026-11-06T16:12:22+00:00",
+      "retrieved_at": "2026-11-06T17:42:39.964497+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d4f79f76247c0503855fbe87"
+    },
+    {
       "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
       "url": "https://aljazeera.com/news/2026/11/6/millions-fleeing-sudans-war-risk-losing-shelter-as-funds-run-low-un-warns",
       "source": "Al Jazeera",
@@ -96,6 +112,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "94619474a24480471a790de6"
+    },
+    {
+      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "url": "https://bbc.co.uk/news/articles/cq99zd93ryvko",
+      "source": "BBC World",
+      "published": "2026-11-06T15:30:42+00:00",
+      "retrieved_at": "2026-11-06T17:42:39.964553+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "74ef2b86a267081234948495"
     },
     {
       "title": "AI stocks climb after trillions wiped from market values",
@@ -384,22 +416,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "56aafb876d1091d70e6c31a9"
-    },
-    {
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "url": "https://bbc.co.uk/news/articles/cq99zd93ryvko",
-      "source": "BBC World",
-      "published": "2026-11-06T05:31:59+00:00",
-      "retrieved_at": "2026-11-06T06:25:55.839078+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Trump administration had hoped the building of the 250-foot arch could begin as early as this week.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "74ef2b86a267081234948495"
     },
     {
       "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0e2d8ee3adc7009906582d81"
-    },
-    {
-      "title": "HRW calls on Zambia to halt post-election crackdown",
-      "url": "https://aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown",
-      "source": "Al Jazeera",
-      "published": "2026-11-02T19:40:10+00:00",
-      "retrieved_at": "2026-11-02T20:01:17.287135+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Opposition figures arrested and disappeared since President Hakainde Hichilema claimed August victory.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "eeeee79521c19f95cb0aafc7"
     }
   ],
   "unverified_history": [
