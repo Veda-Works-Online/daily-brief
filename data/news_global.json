@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T15:52:49.303865+00:00",
+  "updated": "2026-11-06T15:57:46.516164+00:00",
   "items": [
     {
       "title": "AI stocks climb after trillions wiped from market values",
@@ -96,6 +96,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3745fc7e068e6850e0dd39f5"
+    },
+    {
+      "title": "For people in Iran, a constant threat of war and dearth of information",
+      "url": "https://dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438",
+      "source": "DW",
+      "published": "2026-11-06T12:56:00+00:00",
+      "retrieved_at": "2026-11-06T15:57:41.271689+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Most people in Iran have little idea of the course of the US-led war and peace talks on the global stage. With few sources of information, the population must navigate conflicting rumors and fears of a nuclear attack.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4fbde44ceff3bb8a34c2fb26"
     },
     {
       "title": "Iranians face looming war threat with no reliable info",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6c6ebb1b83ecd51a4319e2dd"
-    },
-    {
-      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-      "url": "https://bbc.co.uk/news/articles/cwx28mngxz8do",
-      "source": "BBC World",
-      "published": "2026-11-02T18:34:24+00:00",
-      "retrieved_at": "2026-11-02T18:42:12.656127+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0b2bbab4e2c51e92643e705a"
     }
   ],
   "unverified_history": [
