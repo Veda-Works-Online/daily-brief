@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-06T12:06:58.366983+00:00",
+  "updated": "2026-11-06T12:12:01.515575+00:00",
   "items": [
+    {
+      "title": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
+      "url": "https://wired.com/gallery/best-automatic-cat-litter-boxes",
+      "source": "Wired",
+      "published": "2026-11-06T12:05:00+00:00",
+      "retrieved_at": "2026-11-06T12:11:54.721689+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "With these high-tech automatic litter boxes, gone are the days of scooping and smells. Welcome to the future.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "44cf7007c1f08be3258a87b1"
+    },
     {
       "title": "10 Best Subscription Boxes for Kids (2026): STEM, Books, Clothes, Snacks, and More",
       "url": "https://wired.com/gallery/best-subscription-boxes-for-kids",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a21b1ceb6f0ae584904bacb6"
-    },
-    {
-      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks",
-      "source": "TechCrunch AI",
-      "published": "2026-10-28T15:41:18+00:00",
-      "retrieved_at": "2026-10-28T15:43:12.225123+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e9c833ffa5530568632c2936"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-06T12:06:53.023136+00:00",
+    "checked_at": "2026-11-06T12:11:53.127935+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
