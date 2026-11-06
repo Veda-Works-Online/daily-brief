@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T09:56:31.844379+00:00",
+  "updated": "2026-11-06T10:02:00.527391+00:00",
   "items": [
     {
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
@@ -17,6 +17,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2b73277b6c6e2d23d7c29b9a"
+    },
+    {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "source": "Hugging Face",
+      "published": "2026-11-06T00:00:00+00:00",
+      "retrieved_at": "2026-11-06T10:01:55.356114+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "dfd4f4b1a6c34171bf4be40c"
     },
     {
       "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ef1aa717ed62dc0779e7c7a7"
-    },
-    {
-      "title": "Sony Wants You to Forget About Discs With Its Gorgeous Transparent Controllers",
-      "url": "https://wired.com/story/sony-wants-you-to-forget-about-discs-with-its-gorgeous-transparent-controller",
-      "source": "Wired",
-      "published": "2026-10-28T15:00:00+00:00",
-      "retrieved_at": "2026-10-28T15:08:15.095480+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Sony has new, spiffy see-through controllers and covers for its PlayStation 5 that let you see the hardware guts inside.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9285bfce226dd299a92815b8"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-06T09:56:25.393784+00:00",
+    "checked_at": "2026-11-06T10:01:54.394399+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
