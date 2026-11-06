@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-05T23:55:00.819194+00:00",
+  "updated": "2026-11-06T00:00:00.605546+00:00",
   "items": [
+    {
+      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+      "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark",
+      "source": "Ars Technica",
+      "published": "2026-11-05T22:49:03+00:00",
+      "retrieved_at": "2026-11-05T23:59:58.510350+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a5ed21d8860aa4da7ab36a7b"
+    },
     {
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
       "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c8d1d180f5e0923143d4106b"
-    },
-    {
-      "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
-      "url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways",
-      "source": "TechCrunch",
-      "published": "2026-10-28T13:00:00+00:00",
-      "retrieved_at": "2026-10-28T13:03:23.767302+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The deal with DTL Transport puts it on a path to become an an asset-light tech supplier, rather than owner and operator.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0487ba9c59c91cd3a1f5751e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-05T23:54:56.470172+00:00",
+    "checked_at": "2026-11-05T23:59:57.267983+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
