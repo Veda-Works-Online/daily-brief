@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T02:05:04.071877+00:00",
+  "updated": "2026-11-06T02:10:02.957560+00:00",
   "items": [
     {
       "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
@@ -357,6 +357,23 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "e0f9f3a497adf69d32489fd1"
+    },
+    {
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "source": "OpenAI",
+      "published": "2026-11-05T17:00:00+00:00",
+      "retrieved_at": "2026-11-06T02:09:59.455430+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "b01175ba7cde084faded07b5"
     },
     {
       "title": "Axiom Math wants to keep AI slop out of mathematics",
@@ -2025,23 +2042,6 @@
       "story_fingerprint": "c5e70aac387c43e8f26bc0c7"
     },
     {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "source": "OpenAI",
-      "published": "2026-11-02T18:00:00+00:00",
-      "retrieved_at": "2026-11-03T03:03:11.063498+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "ba452cd46e2bfe0e88210bd3"
-    },
-    {
       "title": "Rewarding defenders with bigger bug bounties",
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI",
@@ -2057,6 +2057,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "6656883eb79b37cadb8ab609"
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "source": "OpenAI",
+      "published": "2026-11-02T18:00:00+00:00",
+      "retrieved_at": "2026-11-03T03:03:11.063498+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "ba452cd46e2bfe0e88210bd3"
     },
     {
       "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "d3f4da4fe2861a5beb88ee81"
-    },
-    {
-      "title": "Meta has a new AI pet app called Waddle World",
-      "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world",
-      "source": "TechCrunch",
-      "published": "2026-10-28T13:53:31+00:00",
-      "retrieved_at": "2026-10-28T17:03:13.395330+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "87a0a6a71562be04be968ed5"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-06T02:04:58.208736+00:00",
+    "checked_at": "2026-11-06T02:09:58.457513+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
