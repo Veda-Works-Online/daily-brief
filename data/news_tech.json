@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-06T13:02:00.811435+00:00",
+  "updated": "2026-11-06T13:06:50.815608+00:00",
   "items": [
+    {
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo",
+      "source": "TechCrunch AI",
+      "published": "2026-11-06T13:02:16+00:00",
+      "retrieved_at": "2026-11-06T13:06:46.304346+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "89f410137b217345fa8ba4ae"
+    },
+    {
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots",
+      "source": "TechCrunch AI",
+      "published": "2026-11-06T13:00:00+00:00",
+      "retrieved_at": "2026-11-06T13:06:46.304367+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3c5ec75efc811cc344c7a781"
+    },
     {
       "title": "The Best Automatic Litter Box of 2026: Petkit and Litter-Robot",
       "url": "https://wired.com/gallery/best-automatic-cat-litter-boxes",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "263a7ef78bf0a1f716fdf00d"
-    },
-    {
-      "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
-      "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed",
-      "source": "TechCrunch",
-      "published": "2026-10-28T16:00:00+00:00",
-      "retrieved_at": "2026-10-28T16:03:12.642865+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The For You feed combines posts from communities users have joined with recommendations tailored to their interests.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0addbf8205b3898437cbaac1"
-    },
-    {
-      "title": "AI execs may be too out of touch to build for the general public",
-      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
-      "source": "TechCrunch AI",
-      "published": "2026-10-28T15:53:52+00:00",
-      "retrieved_at": "2026-10-28T15:58:18.883821+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a21b1ceb6f0ae584904bacb6"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-06T13:01:49.604371+00:00",
+    "checked_at": "2026-11-06T13:06:45.528298+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
