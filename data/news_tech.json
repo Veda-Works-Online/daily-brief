@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-06T14:42:04.451666+00:00",
+  "updated": "2026-11-06T14:47:06.229605+00:00",
   "items": [
+    {
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop",
+      "source": "TechCrunch AI",
+      "published": "2026-11-06T14:10:00+00:00",
+      "retrieved_at": "2026-11-06T14:46:59.571147+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "01686f1940266c7741e495bd"
+    },
     {
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
       "url": "https://huggingface.co/blog/allenai/toyblocks",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "6b6b40691ed7892fc8a2e32c"
-    },
-    {
-      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
-      "source": "TechCrunch AI",
-      "published": "2026-10-28T17:00:00+00:00",
-      "retrieved_at": "2026-10-28T17:03:12.549399+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c777785ce90576de983f6d34"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-06T14:41:58.768247+00:00",
+    "checked_at": "2026-11-06T14:46:58.779074+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
