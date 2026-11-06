@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T16:47:43.324100+00:00",
+  "updated": "2026-11-06T17:02:49.133738+00:00",
   "items": [
     {
       "title": "Talks, Attacks, and a Heist",
@@ -16,6 +16,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "316056bdca81c9fc41e61af8"
+    },
+    {
+      "title": "Taiwan to close representative office in Papua New Guinea, blames China",
+      "url": "https://aljazeera.com/news/2026/11/6/taiwan-to-close-representative-office-in-papua-new-guinea-blames-china",
+      "source": "Al Jazeera",
+      "published": "2026-11-06T16:40:39+00:00",
+      "retrieved_at": "2026-11-06T17:02:43.487292+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Amid the fallout, Taiwan says it will stop purchases of liquefied natural gas from Port Moresby.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3b2930de1bc86b155b56b28e"
     },
     {
       "title": "Jerusalem Daily: Arab parties back Eisenkot against Netanyahu",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7b1f2481cadf167296b5b8ef"
-    },
-    {
-      "title": "Corruption in the Crosshairs: The Debate Over Transparency and Saving Face",
-      "url": "https://warontherocks.com/corruption-in-the-crosshairs-the-debate-over-transparency-and-saving-face",
-      "source": "War on the Rocks",
-      "published": "2026-11-02T19:15:33+00:00",
-      "retrieved_at": "2026-11-02T19:16:15.972478+00:00",
-      "feed_url": "https://warontherocks.com/feed/",
-      "summary": "Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues shaping their country.Western coverage often narrows the view to the battlefield — these pieces…",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://warontherocks.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d3498d79b0efa99bfa75a616"
     }
   ],
   "unverified_history": [
