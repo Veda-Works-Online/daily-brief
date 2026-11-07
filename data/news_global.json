@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-07T17:31:36.156241+00:00",
+  "updated": "2026-11-07T18:21:09.165670+00:00",
   "items": [
+    {
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "url": "https://bbc.co.uk/news/articles/c6d091ev3p0jo",
+      "source": "BBC World",
+      "published": "2026-11-07T18:14:38+00:00",
+      "retrieved_at": "2026-11-07T18:21:03.720428+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8ced37e98f53f837dfec18fc"
+    },
     {
       "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e621ed16112fd994fd16524d"
-    },
-    {
-      "title": "With Copyright Complaints, Even Imposters Can Silence Karakalpak Activists",
-      "url": "https://thediplomat.com/2026/11/with-copyright-complaints-even-imposters-can-silence-karakalpak-activists",
-      "source": "The Diplomat",
-      "published": "2026-11-03T16:20:00+00:00",
-      "retrieved_at": "2026-11-04T05:28:13.436616+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "An individual claiming to be a Diplomat editor filed a copyright complaint with Meta against a Karakalpak activist. They were an imposter. The post was taken down anyway.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "330f4a080010922d803ec9b4"
     }
   ],
   "unverified_history": [
