@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T10:10:09.589998+00:00",
+  "updated": "2026-11-07T10:19:59.865447+00:00",
   "items": [
     {
       "title": "Palestinian citizens of Israel put to ‘loyalty test’ after election wins",
@@ -288,6 +288,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "63d47b8de877bdfa064681c5"
+    },
+    {
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "url": "https://bbc.co.uk/news/articles/crp3gg2z171go",
+      "source": "BBC World",
+      "published": "2026-11-06T23:24:15+00:00",
+      "retrieved_at": "2026-11-07T10:19:56.312770+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "578ea120647db0c464ce2c2f"
     },
     {
       "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5486bede71bd3dd0870e606e"
-    },
-    {
-      "title": "US conducts series of ‘defensive strikes’ against Iran",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/3/us-conducts-series-of-defensive-strikes-against-iran",
-      "source": "Al Jazeera",
-      "published": "2026-11-03T10:39:36+00:00",
-      "retrieved_at": "2026-11-03T10:59:12.547156+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The US has carried out a series of ‘defensive strikes’ on Iranian locations near Hormuz, with explosions heard on Qeshm.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "553779bba1e081d8d5c0dfb7"
     }
   ],
   "unverified_history": [
