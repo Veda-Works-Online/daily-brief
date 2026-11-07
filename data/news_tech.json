@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-07T11:04:42.114070+00:00",
+  "updated": "2026-11-07T11:09:55.975978+00:00",
   "items": [
+    {
+      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "url": "https://wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough",
+      "source": "Wired",
+      "published": "2026-11-07T11:00:00+00:00",
+      "retrieved_at": "2026-11-07T11:09:52.294220+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "defb96860e127829942f4225"
+    },
     {
       "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
       "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e899a50aa20403f46c1a74a4"
-    },
-    {
-      "title": "I Gave My Blood to the AI Death Clock",
-      "url": "https://wired.com/story/i-gave-an-ai-death-clock-my-blood",
-      "source": "Wired",
-      "published": "2026-10-29T10:00:00+00:00",
-      "retrieved_at": "2026-10-29T10:07:48.137872+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dc9c12fea3eb5e365c2e6168"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-07T11:04:38.065813+00:00",
+    "checked_at": "2026-11-07T11:09:50.926361+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
