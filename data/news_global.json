@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-07T19:21:12.642678+00:00",
+  "updated": "2026-11-07T19:46:09.537718+00:00",
   "items": [
+    {
+      "title": "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
+      "url": "https://aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T19:42:46+00:00",
+      "retrieved_at": "2026-11-07T19:46:03.986389+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Trump lashed out at Democrats on Truth Social days after the party won control of Congress.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "21159dc1b17ea5e62ef5d93e"
+    },
+    {
+      "title": "How did AIPAC-backed candidates fare in the US midterm elections?",
+      "url": "https://aljazeera.com/news/2026/11/7/how-did-aipac-backed-candidates-fare-in-the-us-midterm-elections",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T19:29:06+00:00",
+      "retrieved_at": "2026-11-07T19:46:03.986431+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Many candidates the pro-Israel group backed still won, but most of the money it spent went to candidates who lost.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2ecbb520b7afe96bb7befd94"
+    },
     {
       "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "734080c949194fdce4d91522"
-    },
-    {
-      "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
-      "url": "https://aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms",
-      "source": "Al Jazeera",
-      "published": "2026-11-03T17:22:45+00:00",
-      "retrieved_at": "2026-11-03T17:41:05.749414+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Shrimpers worry about fuel costs, tariffs and Trump's proposed cuts to the agency that provides vital weather data.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9274c604cf58081734d824b9"
-    },
-    {
-      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-      "url": "https://bbc.co.uk/news/articles/c65ynez5y599o",
-      "source": "BBC World",
-      "published": "2026-11-03T16:57:41+00:00",
-      "retrieved_at": "2026-11-03T17:35:59.811383+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "54cedefcd6286328abc9f3f7"
     }
   ],
   "unverified_history": [
