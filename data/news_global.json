@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-07T16:51:07.421683+00:00",
+  "updated": "2026-11-07T16:56:10.721728+00:00",
   "items": [
+    {
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "url": "https://bbc.co.uk/news/articles/cr20wvge32j3o",
+      "source": "BBC World",
+      "published": "2026-11-07T16:50:06+00:00",
+      "retrieved_at": "2026-11-07T16:56:05.165121+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fce3704a5cbdfb7f79f39667"
+    },
     {
       "title": "Israel builds 90km network of military roads across southern Lebanon",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ee1bd648e447b06b22912e40"
-    },
-    {
-      "title": "The China-Pakistan Information Corridor Is Made to Silence Journalists",
-      "url": "https://thediplomat.com/2026/11/the-china-pakistan-information-corridor-is-made-to-silence-journalists",
-      "source": "The Diplomat",
-      "published": "2026-11-03T15:28:00+00:00",
-      "retrieved_at": "2026-11-03T21:27:02.398517+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "CPIC arrives in a country where the words \"fake news\" can already put a reporter in prison.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c964576b31df6facce6b615a"
     }
   ],
   "unverified_history": [
