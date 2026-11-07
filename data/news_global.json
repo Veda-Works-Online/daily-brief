@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-07T09:30:07.553025+00:00",
+  "updated": "2026-11-07T09:45:03.466862+00:00",
   "items": [
+    {
+      "title": "China’s e-bikes boom as fuel prices rise",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T09:30:07+00:00",
+      "retrieved_at": "2026-11-07T09:44:59.829374+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a837a38e44212406d9286690"
+    },
     {
       "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
       "url": "https://dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1bcc7f3d245fb024457a6e3a"
-    },
-    {
-      "title": "Could the AI boom make borrowing more expensive in Europe?",
-      "url": "https://dw.com/en/could-the-ai-boom-make-borrowing-more-expensive-in-europe/a-79511985",
-      "source": "DW",
-      "published": "2026-11-03T10:27:00+00:00",
-      "retrieved_at": "2026-11-03T16:00:14.515515+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "France, Germany and Italy face a volatile bond market as war inflation bites. With US tech giants now issuing billions in AI bonds, they are competing with cash-strapped European governments.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "55c4fccec22cd23329a3510f"
     }
   ],
   "unverified_history": [
