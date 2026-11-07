@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T05:39:07.196038+00:00",
+  "updated": "2026-11-07T06:03:56.002533+00:00",
   "items": [
     {
       "title": "President Herzog faces key choice as Israel struggles to form government",
@@ -82,11 +82,11 @@
       "story_fingerprint": "8f00ad4c6157dabbbc833404"
     },
     {
-      "title": "Trump confirms new US strikes on Iran’s Qeshm Island",
+      "title": "Trump confirms new US strikes on Iran’s Qeshm island",
       "url": "https://aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island",
       "source": "Al Jazeera",
       "published": "2026-11-07T03:53:01+00:00",
-      "retrieved_at": "2026-11-07T04:08:50.653251+00:00",
+      "retrieved_at": "2026-11-07T06:03:52.658899+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "The US president also claims 'a lot of progress' in Washington's negotiations with Tehran.",
       "category": "global",
@@ -128,6 +128,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5b609be2dacaf41bf59b8bed"
+    },
+    {
+      "title": "New Zealanders vote in tightly contested general election",
+      "url": "https://aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting",
+      "source": "Al Jazeera",
+      "published": "2026-11-06T23:48:01+00:00",
+      "retrieved_at": "2026-11-07T06:03:52.658975+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "More than half of New Zealand’s voters cast early ballots in the tightly contested race.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "63d47b8de877bdfa064681c5"
     },
     {
       "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a9eb417b89215868dffb1aaf"
-    },
-    {
-      "title": "The US is holding its midterm elections — DW looks at how that works and which races to watch",
-      "url": "https://dw.com/en/the-us-is-holding-its-midterm-elections-dw-looks-at-how-that-works-and-which-races-to-watch/a-79789932",
-      "source": "DW",
-      "published": "2026-11-03T08:05:00+00:00",
-      "retrieved_at": "2026-11-03T18:01:24.147360+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "US voters are electing a new Congress. The results will be decisive for the future of the United States, and a judgment on Donald Trump's second term as president.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9b4f9c2e8b2289249abbfa55"
     }
   ],
   "unverified_history": [
