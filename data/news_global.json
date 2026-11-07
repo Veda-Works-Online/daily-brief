@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-07T14:50:18.041070+00:00",
+  "updated": "2026-11-07T15:05:18.493755+00:00",
   "items": [
+    {
+      "title": "No clear winner after tight New Zealand general election",
+      "url": "https://bbc.co.uk/news/articles/c3ewev11g1e0o",
+      "source": "BBC World",
+      "published": "2026-11-07T15:00:10+00:00",
+      "retrieved_at": "2026-11-07T15:05:14.779371+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9b109dadc91a86c310473b2d"
+    },
     {
       "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
       "url": "https://dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b2680b2a081754fae80bc6fb"
-    },
-    {
-      "title": "China and India achieved diplomatic thaw. Now the border is flaring up",
-      "url": "https://dw.com/en/china-and-india-achieved-diplomatic-thaw-now-the-border-is-flaring-up/a-79843273",
-      "source": "DW",
-      "published": "2026-11-03T14:48:00+00:00",
-      "retrieved_at": "2026-11-03T17:36:00.051062+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Indian authorities have confirmed a new border \"face-off\" between Indian and Chinese troops in Arunachal Pradesh, raising questions about the still fragile thaw in relations between New Delhi and Beijing.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c199238f7df5c5c5fd481437"
     }
   ],
   "unverified_history": [
