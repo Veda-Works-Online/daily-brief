@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-07T17:21:02.816043+00:00",
+  "updated": "2026-11-07T17:26:02.386067+00:00",
   "items": [
+    {
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack",
+      "source": "TechCrunch",
+      "published": "2026-11-07T17:24:07+00:00",
+      "retrieved_at": "2026-11-07T17:25:57.299849+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f592c517f821e043bfafcbda"
+    },
     {
       "title": "This Totally Free App Can Free Up Space on Your Mac",
       "url": "https://wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "81e6600ae5fbe9ffa09af405"
-    },
-    {
-      "title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
-      "url": "https://wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards",
-      "source": "Wired",
-      "published": "2026-10-29T10:30:00+00:00",
-      "retrieved_at": "2026-10-29T10:37:51.054117+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Illicit software on the computers of some of the world’s best online poker players allowed the accused cheater to see what cards were in the victims’ hands—and trounce them at the tables.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6f981ff3f068f32498148ddd"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-07T17:20:56.467565+00:00",
+    "checked_at": "2026-11-07T17:25:56.109291+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
