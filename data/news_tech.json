@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-07T01:38:50.551063+00:00",
+  "updated": "2026-11-07T01:43:53.175376+00:00",
   "items": [
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google",
+      "source": "TechCrunch AI",
+      "published": "2026-11-07T01:40:28+00:00",
+      "retrieved_at": "2026-11-07T01:43:47.284919+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bae754a30dc73b0a7d2abb46"
+    },
     {
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "f9c5e4d0fc2624c1c5b642cd"
-    },
-    {
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "source": "OpenAI",
-      "published": "2026-10-29T07:00:00+00:00",
-      "retrieved_at": "2026-10-29T17:48:50.994628+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "a055653655e24f8d5033851f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-07T01:38:47.173992+00:00",
+    "checked_at": "2026-11-07T01:43:46.706599+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
