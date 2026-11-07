@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-07T12:50:28.984921+00:00",
+  "updated": "2026-11-07T12:55:21.667347+00:00",
   "items": [
+    {
+      "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+      "url": "https://bbc.co.uk/news/articles/cm4g1nq8158po",
+      "source": "BBC World",
+      "published": "2026-11-07T12:49:36+00:00",
+      "retrieved_at": "2026-11-07T12:55:17.907300+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "30abf7516353598d316767a0"
+    },
     {
       "title": "Pro-Russian hackers leak Italian foreign minister’s data on dark web",
       "url": "https://aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1f9d6dd29cd7af60562e9017"
-    },
-    {
-      "title": "Decouple Taiwan From China-Vatican Negotiations",
-      "url": "https://thediplomat.com/2026/11/decouple-taiwan-from-china-vatican-negotiations",
-      "source": "The Diplomat",
-      "published": "2026-11-03T13:33:00+00:00",
-      "retrieved_at": "2026-11-03T21:27:02.398571+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Archbishop Gallagher’s remarks about the “price” of setting up an office in Beijing have struck a nerve in Taiwan. But the two aren’t actually related.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ecebbac22c7d90104672e148"
     }
   ],
   "unverified_history": [
