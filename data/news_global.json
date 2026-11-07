@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-07T00:48:27.498348+00:00",
+  "updated": "2026-11-07T04:08:54.174229+00:00",
   "items": [
+    {
+      "title": "Trump confirms new US strikes on Iran’s Qeshm Island",
+      "url": "https://aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T03:53:01+00:00",
+      "retrieved_at": "2026-11-07T04:08:50.653251+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The US president also claims 'a lot of progress' in Washington's negotiations with Tehran.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a0105559d460c5878364614c"
+    },
     {
       "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7e8e33f0f102050d783a6620"
-    },
-    {
-      "title": "Texas Senate candidates Paxton and Talarico make final appeals",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/3/texas-senate-candidates-paxton-and-talarico-make-final-appeals",
-      "source": "Al Jazeera",
-      "published": "2026-11-03T05:12:40+00:00",
-      "retrieved_at": "2026-11-03T05:23:16.022983+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Texas Senate candidates Ken Paxton (R) and James Talarico (D) made their last appearances before Tuesday’s election.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fc00501f72d98f2373a42e7a"
     }
   ],
   "unverified_history": [
