@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-07T19:46:09.537718+00:00",
+  "updated": "2026-11-07T20:36:11.454510+00:00",
   "items": [
+    {
+      "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T20:10:38+00:00",
+      "retrieved_at": "2026-11-07T20:36:05.906125+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2134d4730c83adc17376cc04"
+    },
     {
       "title": "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
       "url": "https://aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "80fd6cc9a76b6eec1c18c176"
-    },
-    {
-      "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids",
-      "source": "Al Jazeera",
-      "published": "2026-11-03T17:26:02+00:00",
-      "retrieved_at": "2026-11-03T17:41:05.749370+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Al Jazeera journalist Montaser Nassar was detained in raids near Hebron.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "734080c949194fdce4d91522"
     }
   ],
   "unverified_history": [
