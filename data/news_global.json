@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-07T07:24:59.056853+00:00",
+  "updated": "2026-11-07T07:34:51.503292+00:00",
   "items": [
+    {
+      "title": "US: Giant pandas from China make public debut at Atlanta zoo",
+      "url": "https://dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388",
+      "source": "DW",
+      "published": "2026-11-07T07:33:00+00:00",
+      "retrieved_at": "2026-11-07T07:34:48.062625+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Ping Ping and Fu Shuang are the first giant pandas to be housed in Zoo Atlanta after a gap of two years.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ead96e9632a2d13141d95396"
+    },
     {
       "title": "Qatari PM says US willing to seek solution to war with Iran",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "aae9622641f75c2ec8d76ea0"
-    },
-    {
-      "title": "Lebanon cuts power to public bodies as electricity crisis deepens",
-      "url": "https://aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens",
-      "source": "Al Jazeera",
-      "published": "2026-11-03T10:17:27+00:00",
-      "retrieved_at": "2026-11-03T10:34:05.840155+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Political disputes and war worsen Lebanon's electricity crisis, as experts say deeper reforms are necessary.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "71bc3d72d7bbdbe36e8ac205"
     }
   ],
   "unverified_history": [
