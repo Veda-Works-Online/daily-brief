@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-07T11:19:57.903441+00:00",
+  "updated": "2026-11-07T11:24:44.685399+00:00",
   "items": [
+    {
+      "title": "This Totally Free App Can Free Up Space on Your Mac",
+      "url": "https://wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge",
+      "source": "Wired",
+      "published": "2026-11-07T11:15:00+00:00",
+      "retrieved_at": "2026-11-07T11:24:40.870898+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Stop paying for disk cleaners. This open source utility safely clears hidden caches, leftover app junk, and even gigabytes of offline Apple Intelligence models.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "86071fbfddfc50c8cab27c7a"
+    },
     {
       "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
       "url": "https://wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6f981ff3f068f32498148ddd"
-    },
-    {
-      "title": "I Did Push-Ups With Snap’s Chunky AR Glasses",
-      "url": "https://wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses",
-      "source": "Wired",
-      "published": "2026-10-29T10:15:00+00:00",
-      "retrieved_at": "2026-10-29T10:22:46.450006+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "They fit better than they look and stay put when you move, but Snap’s $2,195 Specs still feel like a developer prototype in search of a purpose.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e899a50aa20403f46c1a74a4"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-07T11:19:53.630869+00:00",
+    "checked_at": "2026-11-07T11:24:39.579002+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
