@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-07T22:01:59.858325+00:00",
+  "updated": "2026-11-07T22:42:00.143912+00:00",
   "items": [
+    {
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "url": "https://bbc.co.uk/news/articles/cmy8367lj5xlo",
+      "source": "BBC World",
+      "published": "2026-11-07T22:19:59+00:00",
+      "retrieved_at": "2026-11-07T22:41:57.148108+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e13211172d081c20f9daaaad"
+    },
     {
       "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "37a4d6423d115576d464cf10"
-    },
-    {
-      "title": "Severe weather disrupts election day across several US states",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126",
-      "source": "Al Jazeera",
-      "published": "2026-11-03T19:13:19+00:00",
-      "retrieved_at": "2026-11-03T19:26:13.540149+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Flash floods, torrential rain and tornadoes have disrupted midterm election day in several US states.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "695a084040945c51974931f0"
     }
   ],
   "unverified_history": [
