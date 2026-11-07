@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-07T12:10:23.040804+00:00",
+  "updated": "2026-11-07T12:25:20.803263+00:00",
   "items": [
+    {
+      "title": "Four things we learned this week about 2028 White House race",
+      "url": "https://bbc.co.uk/news/articles/cq1m41n3v7mmo",
+      "source": "BBC World",
+      "published": "2026-11-07T12:23:28+00:00",
+      "retrieved_at": "2026-11-07T12:25:17.245347+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f1a6964ce01c4290ec88922e"
+    },
     {
       "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
       "url": "https://aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war",
@@ -688,22 +704,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e0e01383237e459f9369f7c6"
-    },
-    {
-      "title": "Four midterms takeaways for 2028 White House race",
-      "url": "https://bbc.co.uk/news/articles/cq1m41n3v7mmo",
-      "source": "BBC World",
-      "published": "2026-11-06T16:12:22+00:00",
-      "retrieved_at": "2026-11-06T17:42:39.964497+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d4f79f76247c0503855fbe87"
     },
     {
       "title": "Millions fleeing Sudan’s war risk losing shelter as funds run low, UN warns",
