@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-07T13:20:21.628054+00:00",
+  "updated": "2026-11-07T13:50:19.731548+00:00",
   "items": [
+    {
+      "title": "Gaza displacement camps collapse under rainwater",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T13:14:53+00:00",
+      "retrieved_at": "2026-11-07T13:50:16.096405+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Rainwater is inundating displacement camps across Gaza as makeshift shelters collapse. Al Jazeera’s Nour Khaled reports.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8fccb62ddd8fd132571c7b85"
+    },
     {
       "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
       "url": "https://aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "81783401e0b8cdd39510f742"
-    },
-    {
-      "title": "Multiple flights to European airports targeted by bomb threats",
-      "url": "https://dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434",
-      "source": "DW",
-      "published": "2026-11-03T14:18:00+00:00",
-      "retrieved_at": "2026-11-04T06:18:07.258605+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The bomb threats involved two passenger planes bound for Warsaw, a Ryanair flight from London to Spain, two flights to Rome and a flight traveling from Israel to the Bulgarian capital, Sofia. No explosives were found.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5389ff0ea8059bb864a47ee4"
     }
   ],
   "unverified_history": [
