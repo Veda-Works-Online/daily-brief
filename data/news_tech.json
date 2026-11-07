@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-07T04:13:50.333752+00:00",
+  "updated": "2026-11-07T04:18:58.812611+00:00",
   "items": [
+    {
+      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech",
+      "source": "TechCrunch",
+      "published": "2026-11-07T04:16:43+00:00",
+      "retrieved_at": "2026-11-07T04:18:55.524679+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "09f2b11c5f099ffb85bbe7e0"
+    },
     {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dc9c12fea3eb5e365c2e6168"
-    },
-    {
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "source": "OpenAI",
-      "published": "2026-10-29T09:00:00+00:00",
-      "retrieved_at": "2026-10-29T17:03:51.922519+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "f9c5e4d0fc2624c1c5b642cd"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-07T04:13:46.716540+00:00",
+    "checked_at": "2026-11-07T04:18:54.093703+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
