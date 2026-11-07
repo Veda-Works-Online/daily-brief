@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-07T13:10:20.055863+00:00",
+  "updated": "2026-11-07T13:20:21.628054+00:00",
   "items": [
+    {
+      "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+      "url": "https://aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T13:07:23+00:00",
+      "retrieved_at": "2026-11-07T13:20:17.794410+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "34c34d83246696af58e8ed2c"
+    },
+    {
+      "title": "Heavy rains flood displacement camps across Gaza",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/7/heavy-rains-flood-displacement-camps-across-gaza",
+      "source": "Al Jazeera",
+      "published": "2026-11-07T13:04:51+00:00",
+      "retrieved_at": "2026-11-07T13:20:17.794441+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Heavy rains and strong winds have flooded and damaged displacement tents across Gaza.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c68a231d837b4bf985e0faa5"
+    },
     {
       "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
       "url": "https://bbc.co.uk/news/articles/cm4g1nq8158po",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5389ff0ea8059bb864a47ee4"
-    },
-    {
-      "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
-      "url": "https://aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers",
-      "source": "Al Jazeera",
-      "published": "2026-11-03T14:17:29+00:00",
-      "retrieved_at": "2026-11-03T14:35:02.118959+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Cold stores in supermarkets across Europe have been targeted in a cyberattack with no clear culprit.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "510ae661ff89c399e271edba"
-    },
-    {
-      "title": "Trump says US will stop giving Israel aid after year-end",
-      "url": "https://aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end",
-      "source": "Al Jazeera",
-      "published": "2026-11-03T13:42:05+00:00",
-      "retrieved_at": "2026-11-03T16:36:00.410222+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Military aid to Israel and campaign contributions from Israel’s backers to US candidates have animated political debate.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1f9d6dd29cd7af60562e9017"
     }
   ],
   "unverified_history": [
