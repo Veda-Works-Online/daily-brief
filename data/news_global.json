@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-08T12:09:15.960477+00:00",
+  "updated": "2026-11-08T12:38:51.511574+00:00",
   "items": [
+    {
+      "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+      "url": "https://aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T12:20:17+00:00",
+      "retrieved_at": "2026-11-08T12:38:47.496984+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "About 850,000 people lose power after Russian attacks on energy infrastructure in Ukraine's Dnipropetrovsk and Kharkiv.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0b9c76161b653c9521561026"
+    },
     {
       "title": "Could UFC boss Dana White be next White House press secretary?",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/8/could-ufc-boss-dana-white-be-next-white-house-press-secretary",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ce4a860436aa7ae1c7bbbe0c"
-    },
-    {
-      "title": "Florida Republicans fend off Democrats as state elects first black governor",
-      "url": "https://bbc.co.uk/news/articles/c9146d88pl32o",
-      "source": "BBC World",
-      "published": "2026-11-04T05:04:46+00:00",
-      "retrieved_at": "2026-11-04T06:38:08.980275+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Republican Byron Donalds, who was backed by President Donald Trump, will be the first black governor of Florida.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "15d98491b55f809d6dfaaaa9"
     }
   ],
   "unverified_history": [
