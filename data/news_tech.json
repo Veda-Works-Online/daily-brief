@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-08T21:00:17.457018+00:00",
+  "updated": "2026-11-08T21:05:09.414071+00:00",
   "items": [
+    {
+      "title": "Nvidia says it’s investigating CEO Jensen Huang’s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
+      "source": "TechCrunch AI",
+      "published": "2026-11-08T21:00:11+00:00",
+      "retrieved_at": "2026-11-08T21:05:04.339085+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d7748799a8822823f045575c"
+    },
     {
       "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
       "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ad6030375278e948d6efae0a"
-    },
-    {
-      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round",
-      "source": "TechCrunch AI",
-      "published": "2026-10-29T14:35:26+00:00",
-      "retrieved_at": "2026-10-29T15:58:59.090700+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "48f94eaaaba1be7a9319534a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-08T21:00:08.338208+00:00",
+    "checked_at": "2026-11-08T21:05:03.795646+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
