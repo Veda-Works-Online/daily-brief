@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-08T09:58:48.752788+00:00",
+  "updated": "2026-11-08T10:03:42.944798+00:00",
   "items": [
+    {
+      "title": "6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More",
+      "url": "https://wired.com/gallery/best-touchscreen-gloves",
+      "source": "Wired",
+      "published": "2026-11-08T10:00:00+00:00",
+      "retrieved_at": "2026-11-08T10:03:40.065841+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6c8f90a96e5a78f8c6beffba"
+    },
+    {
+      "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+      "url": "https://wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know",
+      "source": "Wired",
+      "published": "2026-11-08T10:00:00+00:00",
+      "retrieved_at": "2026-11-08T10:03:40.065880+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b8169abf41b2d9e1b2bad90b"
+    },
     {
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
       "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "88d3f68e43bd258a6b90dcf0"
-    },
-    {
-      "title": "Petkit Automatic Cat Litter Box Sale (2026)",
-      "url": "https://wired.com/story/petkit-sale-october-2026",
-      "source": "Wired",
-      "published": "2026-10-29T13:41:26+00:00",
-      "retrieved_at": "2026-10-29T13:47:50.121384+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "As WIRED’s resident pet tech tester, I have lots of opinions on what’s worth your money. Petkit’s automatic litter boxes are my top picks—and my favorite models are $100 off right now.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e615bb3b7a04222db1036409"
-    },
-    {
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "source": "Hugging Face",
-      "published": "2026-10-29T13:37:07+00:00",
-      "retrieved_at": "2026-10-29T13:37:53.758440+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "55ba057a291a4914bcc3113c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-08T09:58:40.799492+00:00",
+    "checked_at": "2026-11-08T10:03:38.854745+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
