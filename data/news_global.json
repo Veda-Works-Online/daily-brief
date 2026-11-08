@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T09:58:55.035510+00:00",
+  "updated": "2026-11-08T11:03:57.215540+00:00",
   "items": [
     {
       "title": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
@@ -304,6 +304,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2134d4730c83adc17376cc04"
+    },
+    {
+      "title": "Israeli president tasks Gadi Eisenkot with forming government",
+      "url": "https://dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288",
+      "source": "DW",
+      "published": "2026-11-07T19:56:00+00:00",
+      "retrieved_at": "2026-11-08T11:03:53.534280+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "President Isaac Herzog has picked former Israeli military chief Gadi Eisenkot, leader of an anti-Netanyahu alliance, to take the first shot at trying to form a government. Tricky coalition talks are expected.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e65edd9bc96f8a3ae634cf98"
     },
     {
       "title": "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "84c6e7e93130367ac3bfcfd0"
-    },
-    {
-      "title": "Democratic Party wins US Senate in 2026 midterm elections",
-      "url": "https://aljazeera.com/news/2026/11/4/democratic-party-flips-us-senate-in-2026-midterm-elections",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T04:37:05+00:00",
-      "retrieved_at": "2026-11-04T06:33:08.452387+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The outcome is widely seen as a rebuke to Trump's Republican Party, which won control of the chamber in 2024.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "688abdb0f1e032cd4f6a2ec1"
     }
   ],
   "unverified_history": [
