@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-08T17:19:38.080563+00:00",
+  "updated": "2026-11-08T17:29:49.399541+00:00",
   "items": [
+    {
+      "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T17:11:52+00:00",
+      "retrieved_at": "2026-11-08T17:29:44.977122+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israel's president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5c5101e75bf8ad9e6e0a58a5"
+    },
     {
       "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
       "url": "https://aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh",
@@ -48,6 +64,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2d5e97705fbbd201b5c6f842"
+    },
+    {
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "url": "https://bbc.co.uk/news/articles/ckly0ex633ydo",
+      "source": "BBC World",
+      "published": "2026-11-08T13:37:50+00:00",
+      "retrieved_at": "2026-11-08T17:29:44.958330+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9b759a0cc0b8342bd0b6bdf4"
     },
     {
       "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8f9b3a48d3642fb7ee005717"
-    },
-    {
-      "title": "Democrat Abdul El-Sayed wins election to US Senate from Michigan",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/4/democrat-abdul-el-sayed-wins-election-to-us-senate-from-michigan-2",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T08:18:40+00:00",
-      "retrieved_at": "2026-11-04T08:44:12.004749+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Democrat Abdul El-Sayed gave an impassioned victory speech as he beat Republican Mike Rogers in the Michigan senate race",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d2a7c2d6d2761f3360c21113"
-    },
-    {
-      "title": "Taking Stock of India-China Relations: Structural Divergences and the Limits of Diplomacy",
-      "url": "https://thediplomat.com/2026/11/taking-stock-of-india-china-relations-structural-divergences-and-the-limits-of-diplomacy",
-      "source": "The Diplomat",
-      "published": "2026-11-04T07:51:00+00:00",
-      "retrieved_at": "2026-11-04T21:24:12.755192+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Post Galwan, the Sino-Indian military balance has become more skewed. India’s procurement and defense industrial ecosystem has also led to lags in enhancing its military power.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e7ad5b9212a30b45f25bb123"
     }
   ],
   "unverified_history": [
