@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T05:38:01.375055+00:00",
+  "updated": "2026-11-08T06:57:58.063910+00:00",
   "items": [
     {
       "title": "Haitians cheer El Salvador’s Bukele amid gang war",
@@ -112,6 +112,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e13211172d081c20f9daaaad"
+    },
+    {
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "url": "https://bbc.co.uk/news/articles/cxr5yyg2nj9eo",
+      "source": "BBC World",
+      "published": "2026-11-07T21:36:16+00:00",
+      "retrieved_at": "2026-11-08T06:57:52.581103+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c33f5d84db0e1bfd4fe75f9a"
     },
     {
       "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ff7b1282150395408614d056"
-    },
-    {
-      "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
-      "url": "https://aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T00:00:00+00:00",
-      "retrieved_at": "2026-11-04T00:22:01.029215+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran says a 'maximum deterrence' plan is ready against any new US attack, warning of an immediate response.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d749888f0fa2517b2717a65b"
     }
   ],
   "unverified_history": [
