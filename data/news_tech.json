@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-08T18:00:13.518860+00:00",
+  "updated": "2026-11-08T18:05:12.222438+00:00",
   "items": [
+    {
+      "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+      "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done",
+      "source": "TechCrunch",
+      "published": "2026-11-08T18:00:04+00:00",
+      "retrieved_at": "2026-11-08T18:05:05.399334+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "SNL seems to have its knives out for tech executives.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "46a6b2a62e03ecabefa8cd53"
+    },
     {
       "title": "TechCrunch Mobility: The Cybertruck experiment is over",
       "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "48f94eaaaba1be7a9319534a"
-    },
-    {
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
-      "source": "TechCrunch AI",
-      "published": "2026-10-29T14:00:00+00:00",
-      "retrieved_at": "2026-10-29T17:28:55.697349+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6d6d92ddc7ac7e8714234366"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-08T18:00:02.299099+00:00",
+    "checked_at": "2026-11-08T18:05:04.184214+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
