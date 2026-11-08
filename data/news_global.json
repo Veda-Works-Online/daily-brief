@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T16:24:38.659702+00:00",
+  "updated": "2026-11-08T17:19:38.080563+00:00",
   "items": [
     {
       "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
@@ -512,6 +512,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8ced37e98f53f837dfec18fc"
+    },
+    {
+      "title": "South Africa elections: ANC marks its worst-ever performance",
+      "url": "https://dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482",
+      "source": "DW",
+      "published": "2026-11-07T18:07:00+00:00",
+      "retrieved_at": "2026-11-08T17:19:34.173615+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The African National Congress, the party of late Nobel Prize winner Nelson Mandela, slumped to its worst-ever result in South Africa's municipal election. The voters blame the ANC for water and electricity shortages.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "50552c2ba08faa804d43c728"
     },
     {
       "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e7ad5b9212a30b45f25bb123"
-    },
-    {
-      "title": "FIFA’s Infantino ineligible for re-election, says former governance chief",
-      "url": "https://aljazeera.com/sports/2026/11/4/fifas-infantino-ineligible-for-re-election-says-former-governance-chief",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T07:39:35+00:00",
-      "retrieved_at": "2026-11-04T08:03:51.150241+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Miguel ⁠⁠Maduro insists Gianni Infantino cannot serve more than three terms, pointing to FIFA's statutes.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "357350510e039fdd15d9507f"
     }
   ],
   "unverified_history": [
