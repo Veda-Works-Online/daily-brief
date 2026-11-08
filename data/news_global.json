@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T07:08:02.887903+00:00",
+  "updated": "2026-11-08T08:43:32.743940+00:00",
   "items": [
     {
       "title": "Photos: Heavy rains leave tens of thousands without shelter in Gaza",
@@ -96,6 +96,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8f3e094cc90ce30db24fd1d0"
+    },
+    {
+      "title": "The Trump coalition is shattered - what will Republicans do now?",
+      "url": "https://bbc.co.uk/news/articles/cm3r5gnxqz3jo",
+      "source": "BBC World",
+      "published": "2026-11-08T00:52:39+00:00",
+      "retrieved_at": "2026-11-08T08:43:28.995497+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3dc88a82e54f90ef31833a7a"
     },
     {
       "title": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "782d07d7d7b110ac4f3ea257"
-    },
-    {
-      "title": "UN elects five judges to International Court of Justice amid record cases",
-      "url": "https://aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T01:03:12+00:00",
-      "retrieved_at": "2026-11-04T01:27:01.949946+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The election, held at UN headquarters, required several rounds of voting to fill the fifth and final seat.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "134a75befb26f4a1336f142a"
     }
   ],
   "unverified_history": [
