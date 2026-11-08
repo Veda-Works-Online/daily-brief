@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-08T16:14:42.780262+00:00",
+  "updated": "2026-11-08T16:24:38.659702+00:00",
   "items": [
+    {
+      "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
+      "url": "https://aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh",
+      "source": "Al Jazeera",
+      "published": "2026-11-08T16:18:09+00:00",
+      "retrieved_at": "2026-11-08T16:24:34.058032+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Abed Abou Shhadeh says his detention was part of Israel's political measures 'to intimidate Arab society as a whole'.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bdb3886289024d7c18163a4e"
+    },
     {
       "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "357350510e039fdd15d9507f"
-    },
-    {
-      "title": "Democrats win Congress: How they did it, and what it means",
-      "url": "https://aljazeera.com/news/2026/11/4/democrats-win-the-us-senate-what-does-this-mean",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T07:23:45+00:00",
-      "retrieved_at": "2026-11-04T07:33:57.800232+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "With control of Congress, Democrats can challenge Trump’s agenda through subpoenas, confirmation votes.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f5e828f156e83d38279b5034"
     }
   ],
   "unverified_history": [
