@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T16:28:43.770241+00:00",
+  "updated": "2026-11-09T16:38:57.607025+00:00",
   "items": [
     {
       "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2e5881ddd12a0eff799186b1"
+    },
+    {
+      "title": "Trump questions midterm election integrity after previously accepting results",
+      "url": "https://bbc.co.uk/news/articles/ck79p9350zp9o",
+      "source": "BBC World",
+      "published": "2026-11-09T15:37:43+00:00",
+      "retrieved_at": "2026-11-09T16:38:52.690066+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Trump made the claims - without evidence - on Truth Social on Monday",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "eb6b3beb4956325593ffe4f4"
     },
     {
       "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b74702f31dfd83bbb0905f2e"
-    },
-    {
-      "title": "Sudan factories struggle to restart after devastating wartime losses",
-      "url": "https://aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T22:31:09+00:00",
-      "retrieved_at": "2026-11-04T22:50:07.255073+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9ef6a619289c3515fda08783"
     }
   ],
   "unverified_history": [
