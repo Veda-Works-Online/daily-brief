@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T09:02:43.326259+00:00",
+  "updated": "2026-11-09T09:17:33.824465+00:00",
   "items": [
     {
       "title": "The Record Budgets and Missing Suppliers Shaping America’s Munitions Ramp",
@@ -1344,6 +1344,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8c78c4e60c0a7f13e94267ed"
+    },
+    {
+      "title": "New Zealand election too close to call with over 95% of votes counted",
+      "url": "https://dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056",
+      "source": "DW",
+      "published": "2026-11-07T11:54:00+00:00",
+      "retrieved_at": "2026-11-09T09:17:28.440847+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Initial results in New Zealand show the two main parties neck-and-neck with fewer than 4,000 votes separating them. Official results aren't expected until later this month once special votes have been counted.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "440f782e7b2dacd432108d11"
     },
     {
       "title": "Rains flood 70,000 displaced families’ tents in Gaza",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3b0867bcb1ed65d44201a025"
-    },
-    {
-      "title": "Photos: Iran marks US embassy takeover with rallies against US, Israel",
-      "url": "https://aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T16:37:49+00:00",
-      "retrieved_at": "2026-11-04T17:39:13.866674+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Tehran rallies see slogans, flag burnings and claims of US-Israeli defeats amid historic embassy takeover anniversary.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4ba19039391f91a7db197f03"
     }
   ],
   "unverified_history": [
