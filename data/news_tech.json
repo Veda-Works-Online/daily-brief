@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-09T15:28:32.981086+00:00",
+  "updated": "2026-11-09T15:33:31.644828+00:00",
   "items": [
+    {
+      "title": "Meta expands Instagram’s AI age-guessing tech globally",
+      "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally",
+      "source": "TechCrunch",
+      "published": "2026-11-09T15:32:27+00:00",
+      "retrieved_at": "2026-11-09T15:33:27.749454+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "869d51abb21f8bc9f81612f7"
+    },
     {
       "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
       "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4503c62ae08116878393e723"
-    },
-    {
-      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-      "url": "https://wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system",
-      "source": "Wired",
-      "published": "2026-10-29T18:39:43+00:00",
-      "retrieved_at": "2026-10-29T18:48:55.266342+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b73841f49102d152db69acdf"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-09T15:28:27.746359+00:00",
+    "checked_at": "2026-11-09T15:33:26.288477+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

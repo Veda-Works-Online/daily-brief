@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T15:23:41.675852+00:00",
+  "updated": "2026-11-09T15:33:39.379139+00:00",
   "items": [
     {
       "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c3a5a628c7e95ec3812a65b4"
+    },
+    {
+      "title": "Strait of Hormuz still a source of leverage for Iran",
+      "url": "https://dw.com/en/strait-of-hormuz-still-a-source-of-leverage-for-iran/a-79901647",
+      "source": "DW",
+      "published": "2026-11-09T14:49:00+00:00",
+      "retrieved_at": "2026-11-09T15:33:34.812820+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Attacks in the Strait of Hormuz put crews at risk and drive up energy shipping costs. Iran's ability to sustain them and the limits of US protection will shape how much trade can continue and at what price.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d66ddaceef134b76be1c75ee"
     },
     {
       "title": "Iran stands by demands to end the war as US ramps up military pressure",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d6c9066770fae832bcb15a93"
-    },
-    {
-      "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-      "url": "https://aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T20:31:56+00:00",
-      "retrieved_at": "2026-11-04T20:54:17.578810+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Dozens may still be under the rubble in Komyshuvakha. Rescue efforts ongoing despite interruptions by Russian drones.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4f14eee214cc3b8dd9dc0df1"
     }
   ],
   "unverified_history": [
