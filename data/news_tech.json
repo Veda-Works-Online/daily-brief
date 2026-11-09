@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-09T17:23:50.308772+00:00",
+  "updated": "2026-11-09T17:28:31.484591+00:00",
   "items": [
+    {
+      "title": "Claude Code settings files expose thousands of secrets on GitHub",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
+      "source": "Ars Technica AI",
+      "published": "2026-11-09T17:24:26+00:00",
+      "retrieved_at": "2026-11-09T17:28:26.696405+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "94df0607a2bcd3ed397618cb"
+    },
     {
       "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
       "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "91301db2dbf12a8cf8acc83f"
-    },
-    {
-      "title": "The R2 SUV is already Rivian’s best-selling vehicle",
-      "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle",
-      "source": "TechCrunch",
-      "published": "2026-10-29T20:02:03+00:00",
-      "retrieved_at": "2026-10-29T20:04:25.720111+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "295488c719dec45f0fc12b08"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-09T17:23:41.403115+00:00",
+    "checked_at": "2026-11-09T17:28:25.138556+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
