@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T21:44:10.939375+00:00",
+  "updated": "2026-11-09T21:49:07.954025+00:00",
   "items": [
     {
       "title": "Fervo now has $12B in orders for its geothermal power tech",
@@ -274,6 +274,23 @@
       "story_fingerprint": "7ded44537db980a38a5436ae"
     },
     {
+      "title": "Introducing Control Room: Human control over AI workloads",
+      "url": "https://openai.com/index/introducing-control-room",
+      "source": "OpenAI",
+      "published": "2026-11-09T13:00:00+00:00",
+      "retrieved_at": "2026-11-09T21:49:04.309629+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "6a5aa0d3a7ee3f24f336c095"
+    },
+    {
       "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
       "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
       "source": "Hugging Face",
@@ -323,6 +340,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "85f6ebb13c2d692ea3b9bdba"
+    },
+    {
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "source": "OpenAI",
+      "published": "2026-11-09T08:00:00+00:00",
+      "retrieved_at": "2026-11-09T21:49:04.309647+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "0f3ef6d34216d5f744e7422f"
     },
     {
       "title": "Kuken Industries searches 70 years of drawings in minutes",
@@ -2909,23 +2943,6 @@
       "story_fingerprint": "749e5f466fba96f42039d4d9"
     },
     {
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-      "source": "OpenAI",
-      "published": "2026-11-03T00:00:00+00:00",
-      "retrieved_at": "2026-11-03T20:05:57.909469+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "02f34d9ee75bcf4fd376ef32"
-    },
-    {
       "title": "CWE-bench v2: More coverage, quality, and transparency",
       "url": "https://huggingface.co/blog/cwe-bench",
       "source": "Hugging Face",
@@ -2958,6 +2975,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "a09becdea08de5db001d2fc4"
+    },
+    {
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "source": "OpenAI",
+      "published": "2026-11-03T00:00:00+00:00",
+      "retrieved_at": "2026-11-03T20:05:57.909469+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "02f34d9ee75bcf4fd376ef32"
     },
     {
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c67eb4404b3b3b4024126685"
-    },
-    {
-      "title": "Making it easier for websites to express AI training preferences",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "source": "OpenAI",
-      "published": "2026-10-30T09:30:00+00:00",
-      "retrieved_at": "2026-10-30T18:20:13.904992+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "619fe30e8ba3f1862c7b291c"
-    },
-    {
-      "title": "Community safety report and new protections for teens",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "source": "OpenAI",
-      "published": "2026-10-30T09:00:00+00:00",
-      "retrieved_at": "2026-10-30T16:50:20.945731+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "89287d13774ea04f8ccf7385"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-09T21:44:03.152750+00:00",
+    "checked_at": "2026-11-09T21:49:03.292683+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
