@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-09T03:26:04.229272+00:00",
+  "updated": "2026-11-09T03:31:05.205961+00:00",
   "items": [
+    {
+      "title": "Trump defends Nvidia CEO amid Chinese spying allegations",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T03:26:21+00:00",
+      "retrieved_at": "2026-11-09T03:31:01.349669+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Donald Trump has defended Nvidia CEO Jensen Huang, who admitted to an affair with a woman suspected of spying for China.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "dc59241e5dec4751837755b5"
+    },
     {
       "title": "Moldova launches new power line to Romania to cut reliance on Russia",
       "url": "https://aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ef39a428bec65ce58ef4958d"
-    },
-    {
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "url": "https://bbc.co.uk/news/articles/c6x29rr8djy3o",
-      "source": "BBC World",
-      "published": "2026-11-04T13:33:30+00:00",
-      "retrieved_at": "2026-11-04T17:39:13.874161+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ca35d0e55ca674e46021ff29"
     }
   ],
   "unverified_history": [
