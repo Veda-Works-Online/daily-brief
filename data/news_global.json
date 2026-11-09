@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-09T18:28:47.087955+00:00",
+  "updated": "2026-11-09T18:43:40.876493+00:00",
   "items": [
+    {
+      "title": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown",
+      "url": "https://aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T18:21:38+00:00",
+      "retrieved_at": "2026-11-09T18:43:36.035389+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The paper was one of the few remaining outlets in Russia that criticised Moscow's war on Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b9f2dff43ebf2d2f5617e165"
+    },
     {
       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
       "url": "https://bbc.co.uk/news/articles/cwr5y58jjp8ro",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "54edfdd9a9797c5f6e3dac3b"
-    },
-    {
-      "title": "Election deniers lose races for governor in key US swing states",
-      "url": "https://aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states",
-      "source": "Al Jazeera",
-      "published": "2026-11-05T02:06:07+00:00",
-      "retrieved_at": "2026-11-05T02:40:17.761800+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "State leaders can hold significant sway over election administration, with implications for the 2028 presidential race.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9dab27a5e2522d5f474fd1ec"
     }
   ],
   "unverified_history": [
