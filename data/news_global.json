@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-09T07:26:26.634437+00:00",
+  "updated": "2026-11-09T07:41:28.122951+00:00",
   "items": [
+    {
+      "title": "Which countries and industries emit the most greenhouse gases?",
+      "url": "https://aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T07:21:37+00:00",
+      "retrieved_at": "2026-11-09T07:41:23.955611+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The US has emitted the most CO2 in history; China is now the biggest emitter. Here’s who is driving global emissions.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "654ed99ebf678a403034d517"
+    },
     {
       "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
       "url": "https://aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b2af547606e30d6a1c38b685"
-    },
-    {
-      "title": "Trump says Iran war justified despite polls drubbing",
-      "url": "https://aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T15:28:00+00:00",
-      "retrieved_at": "2026-11-04T19:09:20.746961+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump acknowledges Iran war played role in defeats but says he would launch it again.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a040301c6cc40643c9ac03c6"
     }
   ],
   "unverified_history": [
