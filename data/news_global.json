@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-09T16:38:57.607025+00:00",
+  "updated": "2026-11-09T16:48:38.985247+00:00",
   "items": [
+    {
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "url": "https://bbc.co.uk/news/articles/cmg474vk6dyqo",
+      "source": "BBC World",
+      "published": "2026-11-09T16:42:39+00:00",
+      "retrieved_at": "2026-11-09T16:48:33.931835+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f70e632ef42ea106ee384ca1"
+    },
     {
       "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
       "url": "https://aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2f56c1851317c1d4160f6c62"
-    },
-    {
-      "title": "Democratic Socialists of America see record wins in US midterm elections",
-      "url": "https://aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T22:45:24+00:00",
-      "retrieved_at": "2026-11-04T23:20:11.793314+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The left-wing movement has won support for its views on issues like the war in Gaza and universal healthcare.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b74702f31dfd83bbb0905f2e"
     }
   ],
   "unverified_history": [
