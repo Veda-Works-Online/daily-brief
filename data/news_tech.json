@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T22:06:38.802546+00:00",
+  "updated": "2026-11-09T22:11:35.715919+00:00",
   "items": [
     {
       "title": "Fervo now has $12B in orders for its geothermal power tech",
@@ -272,6 +272,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7ded44537db980a38a5436ae"
+    },
+    {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "source": "OpenAI",
+      "published": "2026-11-09T13:00:00+00:00",
+      "retrieved_at": "2026-11-09T22:11:33.233894+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "416daab152882fc1c9e20259"
     },
     {
       "title": "Introducing Control Room: Human control over AI workloads",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7402a087ef122992667926af"
-    },
-    {
-      "title": "This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling",
-      "url": "https://wired.com/story/oh-my-hours-ios-app",
-      "source": "Wired",
-      "published": "2026-10-30T11:00:00+00:00",
-      "retrieved_at": "2026-10-30T11:07:26.647960+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The iOS app Oh My Hours takes a new approach to curbing screen time. It splits up your day into hour-long blocks, then shows which ones you wasted on Instagram and TikTok.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c67eb4404b3b3b4024126685"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-09T22:06:33.743593+00:00",
+    "checked_at": "2026-11-09T22:11:32.260822+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
