@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-09T12:38:26.995764+00:00",
+  "updated": "2026-11-09T13:38:02.359433+00:00",
   "items": [
+    {
+      "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
+      "url": "https://aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T13:15:27+00:00",
+      "retrieved_at": "2026-11-09T13:37:56.889273+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Syrian officials deny reports Damascus is sending troops to Yemen, but Syrian security integration appears under way",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "15ca2191adde4e8826a071f4"
+    },
+    {
+      "title": "China rejects ‘baseless’ claims it spied on Nvidia boss",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/9/china-rejects-baseless-claims-it-spied-on-nvidia-boss",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T13:02:46+00:00",
+      "retrieved_at": "2026-11-09T13:37:56.889327+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "China denies spying on Nvidia boss Jensen Huang as the company probes his affair with an alleged intelligence agent.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ae8a2972dd53c56702f90c08"
+    },
     {
       "title": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
       "url": "https://bbc.co.uk/news/articles/cm93z3lp5lnpo",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "eab94c4cbb0d35195e6d68f0"
-    },
-    {
-      "title": "Kazakhstan Eyes Ambitious 2035 Goal for 2 Nuclear Power Plants",
-      "url": "https://thediplomat.com/2026/11/kazakhstan-eyes-ambitious-2035-goal-for-2-nuclear-power-plants",
-      "source": "The Diplomat",
-      "published": "2026-11-04T18:53:00+00:00",
-      "retrieved_at": "2026-11-04T21:24:12.755016+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "A deal with China hasn’t been settled yet but still, Astana hopes to complete both its first and second nuclear power plants within a decade.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e343f901369953c67fdfa891"
-    },
-    {
-      "title": "What Democrats can and can't do with their new power after taking Congress",
-      "url": "https://bbc.co.uk/news/articles/cq1kdgnn2xdeo",
-      "source": "BBC World",
-      "published": "2026-11-04T18:01:27+00:00",
-      "retrieved_at": "2026-11-05T04:05:10.043248+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Democrats can vote legislation through. But Trump still has veto power.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1252e6586a1aa842ee2d7685"
     }
   ],
   "unverified_history": [
