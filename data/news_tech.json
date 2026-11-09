@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-09T19:04:25.997471+00:00",
+  "updated": "2026-11-09T19:09:29.472894+00:00",
   "items": [
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI",
+      "published": "2026-11-09T19:00:00+00:00",
+      "retrieved_at": "2026-11-09T19:09:22.612767+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "2e601c574d84ada41efe15c1"
+    },
     {
       "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
       "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d97bf64b9345b7b15978c55f"
-    },
-    {
-      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides",
-      "source": "Ars Technica",
-      "published": "2026-10-29T20:18:49+00:00",
-      "retrieved_at": "2026-10-29T22:54:21.364140+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "00f31aa7fa2a08b478d4a470"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-09T19:04:21.303940+00:00",
+    "checked_at": "2026-11-09T19:09:21.492262+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
