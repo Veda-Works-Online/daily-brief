@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-09T19:19:26.971401+00:00",
+  "updated": "2026-11-09T19:24:17.840789+00:00",
   "items": [
+    {
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months",
+      "source": "TechCrunch",
+      "published": "2026-11-09T19:21:46+00:00",
+      "retrieved_at": "2026-11-09T19:24:13.685312+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5533ddb8083d11e3ce339d39"
+    },
     {
       "title": "ChatGPT Enterprise now available in AWS Marketplace",
       "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c5e2a5396f93206162e10c30"
-    },
-    {
-      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto",
-      "source": "TechCrunch",
-      "published": "2026-10-29T22:27:23+00:00",
-      "retrieved_at": "2026-10-29T22:29:23.400278+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4e897f94f79b36317401c820"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-09T19:19:21.221952+00:00",
+    "checked_at": "2026-11-09T19:24:12.118939+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
