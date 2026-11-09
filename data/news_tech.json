@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T16:28:36.246084+00:00",
+  "updated": "2026-11-09T16:33:29.890049+00:00",
   "items": [
     {
       "title": "Medium’s new TK app brings AI assistance directly into the writing process",
@@ -87,6 +87,23 @@
       "story_fingerprint": "366ea06e670fbf5347f85e97"
     },
     {
+      "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
+      "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends",
+      "source": "TechCrunch",
+      "published": "2026-11-09T14:00:00+00:00",
+      "retrieved_at": "2026-11-09T16:33:26.116189+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The new music discovery app lets users scroll through 10- to 30-second snippets of songs, comment, and share with friends.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7ded44537db980a38a5436ae"
+    },
+    {
       "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
       "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet",
       "source": "TechCrunch AI",
@@ -102,23 +119,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3857c6d82235ac4d28db4bb9"
-    },
-    {
-      "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
-      "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends",
-      "source": "TechCrunch",
-      "published": "2026-11-09T14:00:00+00:00",
-      "retrieved_at": "2026-11-09T14:03:31.384532+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7ded44537db980a38a5436ae"
     },
     {
       "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-09T16:28:29.781439+00:00",
+    "checked_at": "2026-11-09T16:33:24.619156+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
