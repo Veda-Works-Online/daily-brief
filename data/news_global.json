@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-09T18:13:57.072770+00:00",
+  "updated": "2026-11-09T18:18:49.170615+00:00",
   "items": [
+    {
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "url": "https://bbc.co.uk/news/videos/cvrlylj9r11go",
+      "source": "BBC World",
+      "published": "2026-11-09T18:08:07+00:00",
+      "retrieved_at": "2026-11-09T18:18:44.278177+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cb896ce35146393b2648b2b3"
+    },
     {
       "title": "Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "05dca8d334aacd547bfefb73"
-    },
-    {
-      "title": "Democrats won Congress. But can they deliver on their promises?",
-      "url": "https://aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises",
-      "source": "Al Jazeera",
-      "published": "2026-11-05T00:25:43+00:00",
-      "retrieved_at": "2026-11-05T00:40:10.705882+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Despite their midterm election victories, Democrats face major obstacles to reining in Trump on Iran, tariffs and more.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5fbb0f3a50b0aabd34b0d5da"
     }
   ],
   "unverified_history": [
