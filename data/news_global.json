@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-09T10:47:48.861842+00:00",
+  "updated": "2026-11-09T11:12:44.488310+00:00",
   "items": [
+    {
+      "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
+      "url": "https://aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T10:50:49+00:00",
+      "retrieved_at": "2026-11-09T11:12:39.064780+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Four children and a woman were killed after heavy rain caused a sandbank to collapse on their tent.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f54c79828930e7f46c795a4f"
+    },
+    {
+      "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
+      "url": "https://aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T10:49:02+00:00",
+      "retrieved_at": "2026-11-09T11:12:39.064808+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Allegations linking CEO to Chinese intelligence shake markets with chipmaker's shares falling more than 4 percent.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "268c86501f3e9d1e82416bf3"
+    },
     {
       "title": "US deports Lebanese consul-general in Detroit over Hezbollah praise",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/9/us-deports-lebanese-consul-general-in-detroit-over-hezbollah-praise",
@@ -18,11 +50,11 @@
       "story_fingerprint": "2ab1d2ae36c4484eedf22f95"
     },
     {
-      "title": "At least one person killed as Russia and Ukraine trade strikes overnight",
+      "title": "At least four killed as Russia and Ukraine trade strikes overnight",
       "url": "https://aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight",
       "source": "Al Jazeera",
       "published": "2026-11-09T10:08:45+00:00",
-      "retrieved_at": "2026-11-09T10:28:25.388434+00:00",
+      "retrieved_at": "2026-11-09T11:12:39.064872+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "Russia's second-largest oil refinery was set on fire by drones, while Russian strikes targeted Ukrainian energy sites.",
       "category": "global",
@@ -31,7 +63,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "62fe9fa737fd138ea9a050f8"
+      "story_fingerprint": "4b520a3af41863fc8c1df6e5"
     },
     {
       "title": "Iran’s authorities harden domestic security controls amid US strike threats",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a078c03dd3f3af30be627b5c"
-    },
-    {
-      "title": "Netanyahu bet on Trump – but both lost",
-      "url": "https://aljazeera.com/news/2026/11/4/netanyahu-bet-on-trump-but-both-lost",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T17:41:48+00:00",
-      "retrieved_at": "2026-11-04T17:54:19.128756+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel's political establishment grapples with US voter rejection of White House ally and own contribution towards it.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c62c15c6ddf66846e6736fb9"
-    },
-    {
-      "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
-      "url": "https://aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T17:18:50+00:00",
-      "retrieved_at": "2026-11-04T21:19:22.835011+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US VP Vance cites trusted pollster saying Iran war, Israel ties were top of mind for Trump voters swinging to Democrats.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "16bf9bdc29c90b41b061124d"
     }
   ],
   "unverified_history": [
