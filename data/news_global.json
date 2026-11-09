@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-09T05:31:36.314064+00:00",
+  "updated": "2026-11-09T06:56:27.917635+00:00",
   "items": [
+    {
+      "title": "What is next for Israel?",
+      "url": "https://aljazeera.com/opinions/2026/11/9/what-is-next-for-israel",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T06:42:03+00:00",
+      "retrieved_at": "2026-11-09T06:56:23.827572+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The message of the vote is that the violent Israeli policies within occupied territory and the region will continue.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3040e0c8c1b169c38a571aef"
+    },
+    {
+      "title": "How Israel’s separation wall compares with the Berlin Wall",
+      "url": "https://aljazeera.com/news/2026/11/9/how-israels-separation-wall-compares-with-the-berlin-wall",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T06:32:18+00:00",
+      "retrieved_at": "2026-11-09T06:56:23.827589+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "How Israel's wall, checkpoints and permits divide Palestinians in the occupied West Bank and cut farmers off from land.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "18f6bd06375846381041352f"
+    },
     {
       "title": "‘Tents don’t protect us’: Rains flood displaced Palestinians in Gaza",
       "url": "https://aljazeera.com/features/2026/11/9/tents-dont-protect-us-rains-flood-displaced-palestinians-in-gaza",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1229aedb53a1d0341cc4a389"
-    },
-    {
-      "title": "Is Trump really a ‘lame duck’ after losing both houses of US Congress?",
-      "url": "https://aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T15:04:08+00:00",
-      "retrieved_at": "2026-11-04T17:39:13.866773+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Despite losing legislative control, the US president still has strong executive powers to push his agenda forward.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "321684d58164671e1e0f9ff7"
-    },
-    {
-      "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-      "url": "https://bbc.co.uk/news/articles/cm87zvpzwq0no",
-      "source": "BBC World",
-      "published": "2026-11-04T15:01:10+00:00",
-      "retrieved_at": "2026-11-04T17:39:13.874300+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a5e3ae17863495bc9b387b16"
     }
   ],
   "unverified_history": [
