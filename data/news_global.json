@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-09T17:33:38.540497+00:00",
+  "updated": "2026-11-09T18:13:57.072770+00:00",
   "items": [
+    {
+      "title": "Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T17:55:47+00:00",
+      "retrieved_at": "2026-11-09T18:13:52.170363+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Five Palestinians were killed in Gaza when heavy rain collapsed a sand embankment on a displacement camp.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "285f8b7d829d53a48bd0fbd7"
+    },
+    {
+      "title": "France accelerates minimum wage hike in bid to quell protest",
+      "url": "https://aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T17:46:28+00:00",
+      "retrieved_at": "2026-11-09T18:13:52.170384+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Unions slam the increase as insufficient, as the government seeks to defuse the unrest ahead of upcoming elections.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0624332095cc14c3a8d9466d"
+    },
     {
       "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
       "url": "https://bbc.co.uk/news/articles/cm93z3lp5lnpo",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5fbb0f3a50b0aabd34b0d5da"
-    },
-    {
-      "title": "Iran war live: IRGC says two oil tankers and tugboat caught fire in Hormuz",
-      "url": "https://aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it",
-      "source": "Al Jazeera",
-      "published": "2026-11-05T00:00:00+00:00",
-      "retrieved_at": "2026-11-05T05:49:59.981833+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran's IRGC says two tankers and a tugboat caught fire in the Strait of Hormuz after using an \"unauthorised route\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b599ee90eace3e5cee06836a"
-    },
-    {
-      "title": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/4/giant-banner-of-trump-vance-and-netanyahu-burnt-at-tehran-rally",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T23:34:47+00:00",
-      "retrieved_at": "2026-11-04T23:45:10.509241+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A giant banner depicting US President Donald Trump and Israel’s Prime Minister Benjamin Netanyahu was burnt in Tehran",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ffe165977cbcdd6f0772ae1f"
     }
   ],
   "unverified_history": [
