@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-09T15:03:36.842847+00:00",
+  "updated": "2026-11-09T15:08:35.415425+00:00",
   "items": [
+    {
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "source": "Hugging Face",
+      "published": "2026-11-09T15:05:57+00:00",
+      "retrieved_at": "2026-11-09T15:08:27.274698+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "366ea06e670fbf5347f85e97"
+    },
     {
       "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
       "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "733ee00828e278d0a389e129"
-    },
-    {
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "source": "OpenAI",
-      "published": "2026-10-29T17:00:00+00:00",
-      "retrieved_at": "2026-10-29T17:48:50.994582+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "fde8d2ef62f66ff1d7c116b1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-09T15:03:30.600876+00:00",
+    "checked_at": "2026-11-09T15:08:26.371233+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
