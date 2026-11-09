@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T23:01:38.376741+00:00",
+  "updated": "2026-11-09T23:06:39.137915+00:00",
   "items": [
     {
       "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
@@ -32,6 +32,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c528fb1f2191b77829be62b0"
+    },
+    {
+      "title": "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
+      "url": "https://aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T22:31:19+00:00",
+      "retrieved_at": "2026-11-09T23:06:36.211135+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Iranian officials dismissed Trump's latest remarks as 'fake news' after the US president suggested a close to the war.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "66d75d5bb531529b20389686"
     },
     {
       "title": "COP31 opens amid energy crisis as activists demand climate action",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a01232f99b8bab8e639ea617"
-    },
-    {
-      "title": "A month after Yemen government offensive began, war of attrition takes hold",
-      "url": "https://aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold",
-      "source": "Al Jazeera",
-      "published": "2026-11-05T09:58:18+00:00",
-      "retrieved_at": "2026-11-05T10:11:02.835970+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The Houthis suffer losses but also inflict pain on government forces and Saudi Arabia.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3338a9b0c52a762c94e393d3"
     }
   ],
   "unverified_history": [

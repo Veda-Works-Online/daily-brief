@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-09T23:01:33.684232+00:00",
+  "updated": "2026-11-09T23:06:34.199918+00:00",
   "items": [
+    {
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse",
+      "source": "TechCrunch",
+      "published": "2026-11-09T23:03:46+00:00",
+      "retrieved_at": "2026-11-09T23:06:32.004170+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "52f75ba6bf50939524216365"
+    },
     {
       "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
       "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7cbb81f59a8064a5fb35e2f1"
-    },
-    {
-      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
-      "source": "TechCrunch AI",
-      "published": "2026-10-30T13:54:25+00:00",
-      "retrieved_at": "2026-10-30T16:05:11.708508+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "DoorDash said that it is open to working with third-party agent makers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7dc612e49e4d129b4ffe25af"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-09T23:01:30.287878+00:00",
+    "checked_at": "2026-11-09T23:06:30.896143+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
