@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-09T21:39:15.050281+00:00",
+  "updated": "2026-11-09T23:01:38.376741+00:00",
   "items": [
+    {
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "url": "https://bbc.co.uk/news/articles/cqg7x7dpvym8o",
+      "source": "BBC World",
+      "published": "2026-11-09T23:01:08+00:00",
+      "retrieved_at": "2026-11-09T23:01:35.454239+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US president said the FBI is now investigating the affair. He said he spoke with Jensen Huang and asked him about the affair.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "92677ec091437ce5ee8fb1fd"
+    },
+    {
+      "title": "Dana White declines Trump’s offer to be White House press secretary",
+      "url": "https://bbc.co.uk/news/videos/cwm2328pyy1jo",
+      "source": "BBC World",
+      "published": "2026-11-09T22:46:27+00:00",
+      "retrieved_at": "2026-11-09T23:01:35.454353+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c528fb1f2191b77829be62b0"
+    },
     {
       "title": "COP31 opens amid energy crisis as activists demand climate action",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3338a9b0c52a762c94e393d3"
-    },
-    {
-      "title": "US sanctions Indian and Turkish firms accused of helping Iran",
-      "url": "https://aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran",
-      "source": "Al Jazeera",
-      "published": "2026-11-05T09:57:04+00:00",
-      "retrieved_at": "2026-11-05T10:11:02.835980+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US Treasury says Indian couple faked ship registries for countries including Guyana and Laos to help Iranian tankers.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c8034369dc89133ec86944b8"
-    },
-    {
-      "title": "Israel extends detention of Palestinian journalist Abed Abou Shhadeh",
-      "url": "https://aljazeera.com/news/2026/11/5/israel-extends-detention-of-palestinian-journalist-abed-abou-shhadeh",
-      "source": "Al Jazeera",
-      "published": "2026-11-05T09:52:02+00:00",
-      "retrieved_at": "2026-11-05T10:11:02.835989+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Rights group says the journalist's arrest over an interview with Azmi Bishara is an attempt to silence Palestinians.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e2bde08aeafceecabaa2f3d4"
     }
   ],
   "unverified_history": [
