@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-09T22:21:36.227281+00:00",
+  "updated": "2026-11-09T22:26:35.959027+00:00",
   "items": [
+    {
+      "title": "The race is on to sue Nvidia",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia",
+      "source": "TechCrunch AI",
+      "published": "2026-11-09T22:23:42+00:00",
+      "retrieved_at": "2026-11-09T22:26:30.989798+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2fd99a76f8c8076a2849d905"
+    },
     {
       "title": "Fervo now has $12B in orders for its geothermal power tech",
       "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a2d699866faa53226ecd6cdb"
-    },
-    {
-      "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
-      "url": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved",
-      "source": "Ars Technica",
-      "published": "2026-10-30T12:00:18+00:00",
-      "retrieved_at": "2026-10-30T12:32:22.059969+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Nissan’s series hybrid e-Power system has been retuned for American roads.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7402a087ef122992667926af"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-09T22:21:32.710353+00:00",
+    "checked_at": "2026-11-09T22:26:30.432610+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
