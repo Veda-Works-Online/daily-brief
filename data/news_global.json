@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T19:44:37.186093+00:00",
+  "updated": "2026-11-09T19:54:28.256108+00:00",
   "items": [
     {
       "title": "Stained Glass and Sacred Spaces: Symbolism Abounds in Ukrainian Media",
@@ -208,6 +208,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "de9744b804921d998ecb3f90"
+    },
+    {
+      "title": "Russia: Independent Novaya Gazeta shuts its Moscow newsroom",
+      "url": "https://dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827",
+      "source": "DW",
+      "published": "2026-11-09T16:22:00+00:00",
+      "retrieved_at": "2026-11-09T19:54:24.941283+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The investigative newspaper is closing its doors after Russian authorities labeled it a \"foreign agent\" and ordered it vacate its Moscow premises.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c5e094d644213d970050d49a"
     },
     {
       "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d6c75dcd414517d3122b3f8b"
-    },
-    {
-      "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
-      "url": "https://aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine",
-      "source": "Al Jazeera",
-      "published": "2026-11-05T04:49:56+00:00",
-      "retrieved_at": "2026-11-05T05:00:01.772055+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0db2c5d1300ed1bed7b88ffc"
     }
   ],
   "unverified_history": [
