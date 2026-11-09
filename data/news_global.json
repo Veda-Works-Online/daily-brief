@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-09T20:09:37.115010+00:00",
+  "updated": "2026-11-09T20:24:28.439552+00:00",
   "items": [
+    {
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "url": "https://bbc.co.uk/news/articles/cmg474vk6dyqo",
+      "source": "BBC World",
+      "published": "2026-11-09T20:20:08+00:00",
+      "retrieved_at": "2026-11-09T20:24:24.706926+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f70e632ef42ea106ee384ca1"
+    },
     {
       "title": "South Africa detains foreigners suspected of heading to join Russian forces",
       "url": "https://aljazeera.com/news/2026/11/9/south-africa-detains-foreigners-suspected-of-heading-to-join-russian-forces",
@@ -208,22 +224,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a9d3f048c6f899630e76583c"
-    },
-    {
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "url": "https://bbc.co.uk/news/articles/cmg474vk6dyqo",
-      "source": "BBC World",
-      "published": "2026-11-09T16:42:39+00:00",
-      "retrieved_at": "2026-11-09T16:48:33.931835+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f70e632ef42ea106ee384ca1"
     },
     {
       "title": "France accuses Iran of cyberattack on supermarket fridges",
