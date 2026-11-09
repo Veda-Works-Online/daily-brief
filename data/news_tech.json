@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-09T11:02:38.421595+00:00",
+  "updated": "2026-11-09T11:07:43.365081+00:00",
   "items": [
+    {
+      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
+      "url": "https://wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools",
+      "source": "Wired",
+      "published": "2026-11-09T11:00:00+00:00",
+      "retrieved_at": "2026-11-09T11:07:35.531050+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fd08873608a63aea396fb054"
+    },
     {
       "title": "I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found",
       "url": "https://wired.com/story/i-let-pangram-loose-on-my-gmail-inbox-heres-how-much-ai-it-found",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bcfd2443dd126223c78f738a"
-    },
-    {
-      "title": "SuperMe raises $20M for its network of AI expert profiles",
-      "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles",
-      "source": "TechCrunch",
-      "published": "2026-10-29T16:19:43+00:00",
-      "retrieved_at": "2026-10-29T16:49:01.373930+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat with their AI profiles.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c852067845db8cbdb744b3d9"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-09T11:02:32.496856+00:00",
+    "checked_at": "2026-11-09T11:07:33.894597+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
