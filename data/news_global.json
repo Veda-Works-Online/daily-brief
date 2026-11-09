@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T11:57:45.746982+00:00",
+  "updated": "2026-11-09T12:33:18.409495+00:00",
   "items": [
     {
       "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "268c86501f3e9d1e82416bf3"
+    },
+    {
+      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+      "url": "https://bbc.co.uk/news/articles/cqd090ee8px5o",
+      "source": "BBC World",
+      "published": "2026-11-09T10:41:57+00:00",
+      "retrieved_at": "2026-11-09T12:33:12.951967+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f7d7b1614351ca778d16a9de"
     },
     {
       "title": "US deports Lebanese consul-general in Detroit over Hezbollah praise",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e61651070c5a6a779cd07c60"
-    },
-    {
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "url": "https://bbc.co.uk/news/articles/c98rz6penv86o",
-      "source": "BBC World",
-      "published": "2026-11-04T17:45:58+00:00",
-      "retrieved_at": "2026-11-04T17:54:19.096061+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a078c03dd3f3af30be627b5c"
     }
   ],
   "unverified_history": [
