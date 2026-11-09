@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-09T12:33:18.409495+00:00",
+  "updated": "2026-11-09T12:38:26.995764+00:00",
   "items": [
+    {
+      "title": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
+      "url": "https://bbc.co.uk/news/articles/cm93z3lp5lnpo",
+      "source": "BBC World",
+      "published": "2026-11-09T12:33:24+00:00",
+      "retrieved_at": "2026-11-09T12:38:20.880730+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Police declined to disclose their nationalities but said none of them lived in South Africa.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f73cdb181a17ec1282537e74"
+    },
     {
       "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
       "url": "https://aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1252e6586a1aa842ee2d7685"
-    },
-    {
-      "title": "Danish students join European protest wave against education funding cuts",
-      "url": "https://aljazeera.com/news/2026/11/4/danish-students-join-european-protest-wave-against-education-funding-cuts",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T17:54:48+00:00",
-      "retrieved_at": "2026-11-04T18:24:25.732501+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Danish government proposes scrapping allowance scheme for students from wealthier families.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e61651070c5a6a779cd07c60"
     }
   ],
   "unverified_history": [
