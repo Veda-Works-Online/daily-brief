@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-09T17:33:30.595187+00:00",
+  "updated": "2026-11-09T17:38:29.169440+00:00",
   "items": [
     {
-      "title": "Claude Code settings files expose thousands of secrets on GitHub",
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
       "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
       "source": "Ars Technica AI",
       "published": "2026-11-09T17:24:26+00:00",
-      "retrieved_at": "2026-11-09T17:28:26.696405+00:00",
+      "retrieved_at": "2026-11-09T17:38:22.258270+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
       "isAI": true,
@@ -16,7 +16,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "94df0607a2bcd3ed397618cb"
+      "story_fingerprint": "26a0ca4ef355038c12780641"
     },
     {
       "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-09T17:33:24.412409+00:00",
+    "checked_at": "2026-11-09T17:38:20.937335+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
