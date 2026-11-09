@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-09T16:53:44.231291+00:00",
+  "updated": "2026-11-09T16:58:56.450774+00:00",
   "items": [
+    {
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
+      "source": "TechCrunch AI",
+      "published": "2026-11-09T16:56:54+00:00",
+      "retrieved_at": "2026-11-09T16:58:51.858267+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e183b28b2466779c2fe3ff22"
+    },
     {
       "title": "Medium’s new TK app brings AI assistance directly into the writing process",
       "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "295488c719dec45f0fc12b08"
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
-      "source": "TechCrunch AI",
-      "published": "2026-10-29T19:56:19+00:00",
-      "retrieved_at": "2026-10-29T19:59:27.393167+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ac3629a114cb1da818981f43"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-09T16:53:37.933619+00:00",
+    "checked_at": "2026-11-09T16:58:51.105999+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

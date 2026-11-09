@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-09T16:48:38.985247+00:00",
+  "updated": "2026-11-09T16:59:04.518522+00:00",
   "items": [
+    {
+      "title": "Trump questions midterm elections integrity after previously accepting results",
+      "url": "https://bbc.co.uk/news/articles/ck79p9350zp9o",
+      "source": "BBC World",
+      "published": "2026-11-09T16:53:47+00:00",
+      "retrieved_at": "2026-11-09T16:58:59.538259+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a9d3f048c6f899630e76583c"
+    },
     {
       "title": "France accuses Iran of supermarket fridge hacking",
       "url": "https://bbc.co.uk/news/articles/cmg474vk6dyqo",
@@ -16,6 +32,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f70e632ef42ea106ee384ca1"
+    },
+    {
+      "title": "France accuses Iran of cyberattack on European fridges",
+      "url": "https://aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T16:33:33+00:00",
+      "retrieved_at": "2026-11-09T16:58:59.547379+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "This is a breaking news story.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0136708bf9db89021683b0f8"
     },
     {
       "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
@@ -48,22 +80,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2e5881ddd12a0eff799186b1"
-    },
-    {
-      "title": "Trump questions midterm election integrity after previously accepting results",
-      "url": "https://bbc.co.uk/news/articles/ck79p9350zp9o",
-      "source": "BBC World",
-      "published": "2026-11-09T15:37:43+00:00",
-      "retrieved_at": "2026-11-09T16:38:52.690066+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Trump made the claims - without evidence - on Truth Social on Monday",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "eb6b3beb4956325593ffe4f4"
     },
     {
       "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ffe165977cbcdd6f0772ae1f"
-    },
-    {
-      "title": "Trump blames Iran war for midterms losses",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses",
-      "source": "Al Jazeera",
-      "published": "2026-11-04T23:30:01+00:00",
-      "retrieved_at": "2026-11-04T23:45:10.509269+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "President Donald Trump said the war in Iran likely contributed to Republican setbacks in the midterm elections",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2f56c1851317c1d4160f6c62"
     }
   ],
   "unverified_history": [
