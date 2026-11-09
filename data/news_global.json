@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T19:19:33.639935+00:00",
+  "updated": "2026-11-09T19:44:37.186093+00:00",
   "items": [
     {
       "title": "Stained Glass and Sacred Spaces: Symbolism Abounds in Ukrainian Media",
@@ -16,6 +16,38 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6f1ff0a36d15a749bc728cf3"
+    },
+    {
+      "title": "US agencies unite to combat rogue drone threats nationwide",
+      "url": "https://aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T19:07:56+00:00",
+      "retrieved_at": "2026-11-09T19:44:33.317967+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "More than $40bn allocated by NATO for counter-drone technologies as US agencies ramp up measures against aerial threats.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d285055079cbf9886197901f"
+    },
+    {
+      "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
+      "url": "https://aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T19:07:42+00:00",
+      "retrieved_at": "2026-11-09T19:44:33.317985+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Democratic Senate leader Schumer criticises Trump's poll denialism, calling it an avoidable return to baseless claims.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8496259c72721a18106fc0cc"
     },
     {
       "title": "Qatar PM meets with Trump for talks on ending war on Iran",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0db2c5d1300ed1bed7b88ffc"
-    },
-    {
-      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "url": "https://bbc.co.uk/news/articles/crz98zqkz7z0o",
-      "source": "BBC World",
-      "published": "2026-11-05T03:47:56+00:00",
-      "retrieved_at": "2026-11-05T04:05:10.043221+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "84ee9db2f12aae084746835e"
-    },
-    {
-      "title": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
-      "url": "https://aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans",
-      "source": "Al Jazeera",
-      "published": "2026-11-05T03:46:13+00:00",
-      "retrieved_at": "2026-11-05T04:00:01.503389+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Defence cooperation deal signed as Syria's President al-Sharaa visits Riyadh for the second time in less than a month.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4ba24c0dcfb8e30b5cf1826a"
     }
   ],
   "unverified_history": [
