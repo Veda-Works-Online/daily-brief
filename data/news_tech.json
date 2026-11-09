@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-09T05:26:22.683914+00:00",
+  "updated": "2026-11-09T05:31:28.604334+00:00",
   "items": [
+    {
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50",
+      "source": "TechCrunch AI",
+      "published": "2026-11-09T05:26:29+00:00",
+      "retrieved_at": "2026-11-09T05:31:24.616560+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "72a7ecf68a626be5b031718e"
+    },
     {
       "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
       "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f69a39f4670480fd39a8e0e6"
-    },
-    {
-      "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
-      "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy",
-      "source": "TechCrunch",
-      "published": "2026-10-29T15:00:00+00:00",
-      "retrieved_at": "2026-10-29T15:48:56.734996+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ad6030375278e948d6efae0a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-09T05:26:17.293908+00:00",
+    "checked_at": "2026-11-09T05:31:24.017420+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
