@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-09T18:18:49.170615+00:00",
+  "updated": "2026-11-09T18:28:47.087955+00:00",
   "items": [
+    {
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "url": "https://bbc.co.uk/news/articles/cwr5y58jjp8ro",
+      "source": "BBC World",
+      "published": "2026-11-09T18:19:19+00:00",
+      "retrieved_at": "2026-11-09T18:28:42.521732+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0e42c26b8fe24a5cd4fd8d13"
+    },
     {
       "title": "Russia's leading independent newspaper closes after eviction",
       "url": "https://bbc.co.uk/news/videos/cvrlylj9r11go",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9dab27a5e2522d5f474fd1ec"
-    },
-    {
-      "title": "Israel’s Herzog accepts vote results, opens talks on forming a government",
-      "url": "https://aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government",
-      "source": "Al Jazeera",
-      "published": "2026-11-05T01:53:30+00:00",
-      "retrieved_at": "2026-11-05T02:10:11.533356+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Move deals blow to Netanyahu's efforts to discredit the elections, in which he and his allies lost their majority.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "05dca8d334aacd547bfefb73"
     }
   ],
   "unverified_history": [
