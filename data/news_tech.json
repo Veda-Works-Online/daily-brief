@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-10T14:59:13.658996+00:00",
+  "updated": "2026-11-10T15:04:16.145952+00:00",
   "items": [
+    {
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak",
+      "source": "Ars Technica AI",
+      "published": "2026-11-10T15:00:39+00:00",
+      "retrieved_at": "2026-11-10T15:04:11.690406+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "The new model is up to twice as successful at some tasks.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "110a46841086ddf18c205ee9"
+    },
+    {
+      "title": "Reddit is turning user conversations into AI-powered product reviews",
+      "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews",
+      "source": "TechCrunch",
+      "published": "2026-11-10T15:00:00+00:00",
+      "retrieved_at": "2026-11-10T15:04:11.958849+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0ab4a1091fdf1bef010a815e"
+    },
     {
       "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
       "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp",
@@ -53,23 +87,6 @@
       "story_fingerprint": "7180062542a63f6d3748d91a"
     },
     {
-      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era",
-      "source": "TechCrunch AI",
-      "published": "2026-11-10T14:00:00+00:00",
-      "retrieved_at": "2026-11-10T14:04:21.380289+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c0b94b15288af9cac1d30e8f"
-    },
-    {
       "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
       "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter",
       "source": "TechCrunch AI",
@@ -85,6 +102,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f76d2e339e99134529fdced1"
+    },
+    {
+      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era",
+      "source": "TechCrunch AI",
+      "published": "2026-11-10T14:00:00+00:00",
+      "retrieved_at": "2026-11-10T14:04:21.380289+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c0b94b15288af9cac1d30e8f"
     },
     {
       "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
@@ -374,6 +408,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b8829add19d7f7ecdb1bba8c"
+    },
+    {
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "source": "Hugging Face",
+      "published": "2026-11-10T00:00:00+00:00",
+      "retrieved_at": "2026-11-10T15:04:11.292037+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "5c9051bf5148f8431b0b003b"
     },
     {
       "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
@@ -4199,57 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "26108e328083a594facb6377"
-    },
-    {
-      "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
-      "url": "https://wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet",
-      "source": "Wired",
-      "published": "2026-10-31T10:30:00+00:00",
-      "retrieved_at": "2026-10-31T10:38:38.245659+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5babb37fee999d1beae297dd"
-    },
-    {
-      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
-      "url": "https://wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse",
-      "source": "Wired",
-      "published": "2026-10-31T10:00:00+00:00",
-      "retrieved_at": "2026-10-31T10:02:27.659291+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "956feafdaaaffb7ea7f50639"
-    },
-    {
-      "title": "Keurig Alta Brewer Review: Brand-New Tech, Classically Good Coffee",
-      "url": "https://wired.com/review/keurig-alta-brewer",
-      "source": "Wired",
-      "published": "2026-10-31T09:35:00+00:00",
-      "retrieved_at": "2026-10-31T09:37:25.553244+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "This multifaceted home coffee brewer and its new AltaRounds will make you rethink everything you know about Keurig machines.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ef33f100dae523a3aa3caab1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T14:59:08.987068+00:00",
+    "checked_at": "2026-11-10T15:04:10.580857+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
