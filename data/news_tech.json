@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-10T06:57:27.842701+00:00",
+  "updated": "2026-11-10T07:02:29.978707+00:00",
   "items": [
+    {
+      "title": "Otter AI can now follow conversations across 30+ languages",
+      "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages",
+      "source": "TechCrunch",
+      "published": "2026-11-10T07:00:00+00:00",
+      "retrieved_at": "2026-11-10T07:02:23.911492+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "21efdafe8af6423f30571c5a"
+    },
     {
       "title": "California’s proposed ‘billionaire tax’ fails to pass",
       "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ac730512e8cd81b4a616ed06"
-    },
-    {
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry",
-      "source": "TechCrunch AI",
-      "published": "2026-10-30T17:00:00+00:00",
-      "retrieved_at": "2026-10-30T18:30:01.960275+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0b61421476f44b79e2b6c9f7"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T06:57:22.182819+00:00",
+    "checked_at": "2026-11-10T07:02:22.795041+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
