@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T21:00:47.365495+00:00",
+  "updated": "2026-11-10T21:05:46.534236+00:00",
   "items": [
     {
       "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
@@ -36,11 +36,11 @@
       "story_fingerprint": "a70d8386de08435071eb2610"
     },
     {
-      "title": "What happens to mathematics when AI becames an oracle?",
+      "title": "What happens to mathematics when AI becomes an oracle?",
       "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle",
       "source": "Ars Technica AI",
       "published": "2026-11-10T20:30:01+00:00",
-      "retrieved_at": "2026-11-10T20:35:46.120221+00:00",
+      "retrieved_at": "2026-11-10T21:05:36.087804+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
       "isAI": true,
@@ -50,7 +50,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "b82afc19ebb40ae10a8f8b65"
+      "story_fingerprint": "77362a2e5c71d4edeabe2b15"
     },
     {
       "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T21:00:41.400481+00:00",
+    "checked_at": "2026-11-10T21:05:34.365515+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
