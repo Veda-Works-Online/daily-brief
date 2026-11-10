@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-10T12:58:10.548238+00:00",
+  "updated": "2026-11-10T13:03:09.451990+00:00",
   "items": [
+    {
+      "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns",
+      "source": "TechCrunch AI",
+      "published": "2026-11-10T13:00:00+00:00",
+      "retrieved_at": "2026-11-10T13:03:05.333403+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "db63d2ba98412bb533346a47"
+    },
     {
       "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
       "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "144b53cca70088f7db0d6b09"
-    },
-    {
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours",
-      "source": "Ars Technica AI",
-      "published": "2026-10-30T21:09:54+00:00",
-      "retrieved_at": "2026-10-30T21:11:07.412112+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5aadfc01533c653484fe1435"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T12:58:06.841622+00:00",
+    "checked_at": "2026-11-10T13:03:04.974629+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
