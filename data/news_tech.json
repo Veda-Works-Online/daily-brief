@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T12:28:03.516260+00:00",
+  "updated": "2026-11-10T12:33:05.788171+00:00",
   "items": [
     {
       "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
@@ -34,6 +34,23 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "3ba798a4e26dd960ef5c1317"
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source": "OpenAI",
+      "published": "2026-11-10T12:00:00+00:00",
+      "retrieved_at": "2026-11-10T12:33:02.784728+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "cb70af3970037bb294029461"
     },
     {
       "title": "The Grindr 1 Percent Is Getting Its Own Gated Community",
@@ -91,9 +108,9 @@
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
       "source": "OpenAI",
       "published": "2026-11-10T09:00:00+00:00",
-      "retrieved_at": "2026-11-10T08:58:03.664171+00:00",
+      "retrieved_at": "2026-11-10T12:33:02.784752+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5aadfc01533c653484fe1435"
-    },
-    {
-      "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
-      "url": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job",
-      "source": "Ars Technica AI",
-      "published": "2026-10-30T20:40:13+00:00",
-      "retrieved_at": "2026-10-30T20:46:14.706387+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "People who love AI don't always love telling others they used it.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4957b7b5626411ef7a863f98"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T12:27:59.884812+00:00",
+    "checked_at": "2026-11-10T12:33:02.039782+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

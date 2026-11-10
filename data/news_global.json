@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-10T12:18:13.401983+00:00",
+  "updated": "2026-11-10T12:33:12.279165+00:00",
   "items": [
+    {
+      "title": "Israel's new parliament to be sworn in as leaders compete to form government",
+      "url": "https://bbc.co.uk/news/articles/crd939lpzjp9o",
+      "source": "BBC World",
+      "published": "2026-11-10T12:25:48+00:00",
+      "retrieved_at": "2026-11-10T12:33:08.543284+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d763ba6731cdbf4c535860bb"
+    },
     {
       "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
       "url": "https://aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c4674c5ab284fadc0e6b52dc"
-    },
-    {
-      "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
-      "url": "https://aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack",
-      "source": "Al Jazeera",
-      "published": "2026-11-05T18:47:10+00:00",
-      "retrieved_at": "2026-11-05T18:56:38.795932+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "283d883efe6b2a66488f380c"
     }
   ],
   "unverified_history": [
