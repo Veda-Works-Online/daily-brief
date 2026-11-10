@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T22:55:53.174006+00:00",
+  "updated": "2026-11-10T23:00:47.047453+00:00",
   "items": [
     {
       "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
@@ -18,13 +18,29 @@
       "story_fingerprint": "393b77ef5403bbdc4d75528e"
     },
     {
+      "title": "Russia expels Moldovan diplomat in tit-for-tat move",
+      "url": "https://aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T22:41:07+00:00",
+      "retrieved_at": "2026-11-10T23:00:41.969822+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Relations between Moscow and Chisinau have worsened since Russia's full-scale invasion of Ukraine in 2022.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "201566b105ae906a429126e9"
+    },
+    {
       "title": "US House begins vote on motion to advance impeachment of Pete Hegseth",
       "url": "https://aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth",
       "source": "Al Jazeera",
       "published": "2026-11-10T22:36:14+00:00",
-      "retrieved_at": "2026-11-10T22:45:38.049757+00:00",
+      "retrieved_at": "2026-11-10T23:00:41.969853+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Defence Secretary has been accused of spearheading war on Iran without required congressional approval.",
+      "summary": "Hegseth has been accused of spearheading war on Iran without required congressional approval.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "346ac16b9d429055d0a9bef4"
-    },
-    {
-      "title": "India’s Rediscovery of Poland: The Drivers and Limits of a Growing Partnership",
-      "url": "https://thediplomat.com/2026/11/indias-rediscovery-of-poland-the-drivers-and-limits-of-a-growing-partnership",
-      "source": "The Diplomat",
-      "published": "2026-11-06T14:29:00+00:00",
-      "retrieved_at": "2026-11-06T21:28:09.962301+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Despite the growing momentum in relations between Poland and India, policy differences exist over Russia.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "26024abecf83c4535f15bf5f"
     }
   ],
   "unverified_history": [
