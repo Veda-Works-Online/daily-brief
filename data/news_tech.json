@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-10T19:00:48.477422+00:00",
+  "updated": "2026-11-10T19:05:44.809614+00:00",
   "items": [
+    {
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery",
+      "source": "TechCrunch AI",
+      "published": "2026-11-10T19:03:52+00:00",
+      "retrieved_at": "2026-11-10T19:05:38.603265+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5f39f8be62a1aaa8ad69fe15"
+    },
     {
       "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
       "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7c781dec55d13cd22f7ab3c3"
-    },
-    {
-      "title": "Binance resumes withdrawals following $6.3 billion breach",
-      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach",
-      "source": "TechCrunch",
-      "published": "2026-11-01T16:20:10+00:00",
-      "retrieved_at": "2026-11-01T16:22:21.792312+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "19dc0cfc80d4c4b88d674c54"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T19:00:41.637759+00:00",
+    "checked_at": "2026-11-10T19:05:37.948412+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
