@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T03:01:47.471357+00:00",
+  "updated": "2026-11-10T03:52:29.968801+00:00",
   "items": [
     {
       "title": "Russia, Ukraine and US to meet as Zelenskyy claims battlefield successes",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a9f6637a8afb4c02f0fc1056"
+    },
+    {
+      "title": "Trump says Iran war is 'effectively over' militarily with further strikes unlikely",
+      "url": "https://bbc.co.uk/news/articles/cq5yny4nl2d3o",
+      "source": "BBC World",
+      "published": "2026-11-10T02:38:00+00:00",
+      "retrieved_at": "2026-11-10T03:52:26.961098+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "992c3b2416b0cb30dfd5cce3"
     },
     {
       "title": "Israel’s Shin Bet finds no evidence of foreign election interference",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1c47fb54a9dbffea3e173495"
-    },
-    {
-      "title": "What can Democrats do in Congress under President Trump?",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/5/what-can-democrats-do-in-congress-under-president-trump",
-      "source": "Al Jazeera",
-      "published": "2026-11-05T13:43:56+00:00",
-      "retrieved_at": "2026-11-05T14:22:43.995055+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "What can the Democratic party actually change when it comes to Donald Trump’s decisions, policies and presidency?",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "49dbb80795f3eb47e3d49ae0"
     }
   ],
   "unverified_history": [
