@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-10T17:29:14.315753+00:00",
+  "updated": "2026-11-10T17:34:22.697226+00:00",
   "items": [
+    {
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
+      "source": "TechCrunch AI",
+      "published": "2026-11-10T17:30:00+00:00",
+      "retrieved_at": "2026-11-10T17:34:19.425446+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4c32ec946d73f4c058b29809"
+    },
     {
       "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
       "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
@@ -104,23 +121,6 @@
       "story_fingerprint": "110a46841086ddf18c205ee9"
     },
     {
-      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
-      "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops",
-      "source": "TechCrunch",
-      "published": "2026-11-10T15:00:00+00:00",
-      "retrieved_at": "2026-11-10T17:29:11.622391+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Kunal Shah said the company wants to make voice notes, groups, stickers, and video \"simpler and more expressive.\"",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6fa98b22659fbf8eb4009b8c"
-    },
-    {
       "title": "Reddit is turning user conversations into AI-powered product reviews",
       "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews",
       "source": "TechCrunch",
@@ -136,6 +136,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0ab4a1091fdf1bef010a815e"
+    },
+    {
+      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+      "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops",
+      "source": "TechCrunch",
+      "published": "2026-11-10T15:00:00+00:00",
+      "retrieved_at": "2026-11-10T17:29:11.622391+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Kunal Shah said the company wants to make voice notes, groups, stickers, and video \"simpler and more expressive.\"",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6fa98b22659fbf8eb4009b8c"
     },
     {
       "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6d57b6a298ef92d3dc543133"
-    },
-    {
-      "title": "Lenovo LOQ 15: The Only Gaming Laptop Worth Buying Below $1,500",
-      "url": "https://wired.com/story/lenovo-loq-15-best-deal",
-      "source": "Wired",
-      "published": "2026-11-01T11:30:00+00:00",
-      "retrieved_at": "2026-11-01T11:37:29.085497+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "As prices escalate on gaming laptops, there’s really only one affordable option still around: the Lenovo LOQ 15, which offers a better performance and display than its competitors.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "114a99100d5415dbd254f73a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T17:29:10.290050+00:00",
+    "checked_at": "2026-11-10T17:34:18.794993+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
