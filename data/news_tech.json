@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T14:54:26.861049+00:00",
+  "updated": "2026-11-10T14:59:13.658996+00:00",
   "items": [
     {
       "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
@@ -493,6 +493,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "34a292d8c570ec40a6782c38"
+    },
+    {
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "source": "Google DeepMind",
+      "published": "2026-11-09T19:51:47+00:00",
+      "retrieved_at": "2026-11-10T14:59:10.103735+00:00",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://deepmind.google/blog/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "f64663cc412040f852f3494b"
     },
     {
       "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ef33f100dae523a3aa3caab1"
-    },
-    {
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
-      "source": "TechCrunch AI",
-      "published": "2026-10-31T01:20:05+00:00",
-      "retrieved_at": "2026-10-31T01:21:43.100002+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fbe42c6e09b11849f3448301"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T14:54:10.698334+00:00",
+    "checked_at": "2026-11-10T14:59:08.987068+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
