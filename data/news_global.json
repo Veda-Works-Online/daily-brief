@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T00:11:43.497746+00:00",
+  "updated": "2026-11-10T00:16:40.076163+00:00",
   "items": [
     {
       "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
@@ -16,6 +16,38 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b8db5a3a738dbefc7cb488bc"
+    },
+    {
+      "title": "Iran war live: Trump says war ‘effectively over’, Iran demands ‘surrender’",
+      "url": "https://aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T23:55:23+00:00",
+      "retrieved_at": "2026-11-10T00:16:37.267496+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US President made the remarks following a meeting with the Qatari PM in Washington, DC.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2aa780a37536098f34b7d44b"
+    },
+    {
+      "title": "Trump, Rubio defend Hegseth as impeachment bid nears",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/9/trump-rubio-defend-hegseth-as-impeachment-bid-nears",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T23:47:11+00:00",
+      "retrieved_at": "2026-11-10T00:16:37.267525+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "President Trump has lashed out at efforts to impeach Defense Secretary Pete Hegseth over the US war on Iran.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8f57c6f1de7b3dac4f827d7e"
     },
     {
       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "424f35af6bf3468dcf7e6e40"
-    },
-    {
-      "title": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
-      "url": "https://aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts",
-      "source": "Al Jazeera",
-      "published": "2026-11-05T11:32:40+00:00",
-      "retrieved_at": "2026-11-05T12:06:07.885747+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Despite wins, Democrats lack the two-thirds majority needed to overturn a presidential veto and push through a law.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6331919f095ea5e5eaea7fca"
-    },
-    {
-      "title": "North Korea tells EU to 'mind its own business' on human rights",
-      "url": "https://dw.com/en/north-korea-tells-eu-to-mind-its-own-business-on-human-rights/a-79862196",
-      "source": "DW",
-      "published": "2026-11-05T11:14:00+00:00",
-      "retrieved_at": "2026-11-05T11:21:15.333468+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "North Korea's UN mission has lashed out at the European Union over a draft UN resolution. Pyongyang has said the West does not have a monopoly on human rights.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8c72f91d70b9d6c180b2a5d9"
     }
   ],
   "unverified_history": [
