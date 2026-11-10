@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-10T23:36:25.812011+00:00",
+  "updated": "2026-11-10T23:41:29.972713+00:00",
   "items": [
+    {
+      "title": "Fire contained on platform in Iran’s South Pars gas field",
+      "url": "https://aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T23:38:02+00:00",
+      "retrieved_at": "2026-11-10T23:41:24.938486+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "65b8ebd22514738a5c8dd030"
+    },
     {
       "title": "French far-right author Zemmour launches second presidential bid",
       "url": "https://aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d9dc500c1d3c1166bb0a5fcc"
-    },
-    {
-      "title": "AI stocks climb after trillions wiped from market values",
-      "url": "https://bbc.co.uk/news/articles/c35ynnpzdq51o",
-      "source": "BBC World",
-      "published": "2026-11-06T15:04:46+00:00",
-      "retrieved_at": "2026-11-06T15:52:43.610744+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4644cfb1d29cb06c813c487d"
     }
   ],
   "unverified_history": [
