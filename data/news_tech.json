@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T19:05:44.809614+00:00",
+  "updated": "2026-11-10T19:10:51.471847+00:00",
   "items": [
     {
       "title": "PSI is trying to make a business out of AI-driven scientific discovery",
@@ -17,6 +17,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5f39f8be62a1aaa8ad69fe15"
+    },
+    {
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "source": "Google AI",
+      "published": "2026-11-10T19:00:00+00:00",
+      "retrieved_at": "2026-11-10T19:10:42.929141+00:00",
+      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "0a49bdc1e7505aa3a47a996d"
     },
     {
       "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dedba4bb73d217d6860a01df"
-    },
-    {
-      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here",
-      "source": "TechCrunch",
-      "published": "2026-11-01T17:04:00+00:00",
-      "retrieved_at": "2026-11-01T17:08:10.550117+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7c781dec55d13cd22f7ab3c3"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T19:05:37.948412+00:00",
+    "checked_at": "2026-11-10T19:10:41.756097+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
