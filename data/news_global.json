@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-10T23:00:47.047453+00:00",
+  "updated": "2026-11-10T23:36:25.812011+00:00",
   "items": [
+    {
+      "title": "French far-right author Zemmour launches second presidential bid",
+      "url": "https://aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T23:23:12+00:00",
+      "retrieved_at": "2026-11-10T23:36:20.835650+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Zemmour seeks to expel 'foreign unemployed people' after last month's violent protests.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f0a31204e9eb9f3336f6fe8d"
+    },
     {
       "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
       "url": "https://bbc.co.uk/news/articles/ck1wvwwl3x0go",
@@ -34,11 +50,11 @@
       "story_fingerprint": "201566b105ae906a429126e9"
     },
     {
-      "title": "US House begins vote on motion to advance impeachment of Pete Hegseth",
+      "title": "US House Republicans reject effort to impeach Pentagon chief Pete Hegseth",
       "url": "https://aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth",
       "source": "Al Jazeera",
       "published": "2026-11-10T22:36:14+00:00",
-      "retrieved_at": "2026-11-10T23:00:41.969853+00:00",
+      "retrieved_at": "2026-11-10T23:36:20.835689+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "Hegseth has been accused of spearheading war on Iran without required congressional approval.",
       "category": "global",
@@ -47,7 +63,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "2a32476931d2daa9c57f5668"
+      "story_fingerprint": "be53aa85a8bcc4971ae589d6"
     },
     {
       "title": "UNIFIL patrol comes under fire in southern Lebanon",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4644cfb1d29cb06c813c487d"
-    },
-    {
-      "title": "Why a Democrat-Held Congress in Washington Could Be Bad News for Modi’s India",
-      "url": "https://thediplomat.com/2026/11/why-a-democrat-held-congress-in-washington-could-be-bad-news-for-modis-india",
-      "source": "The Diplomat",
-      "published": "2026-11-06T14:38:00+00:00",
-      "retrieved_at": "2026-11-06T21:28:09.962330+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Unlike Trump, who has ignored the Modi government’s imperfect democratic record, many Democrats have been vocal in criticizing the erosion of democracy in India.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "346ac16b9d429055d0a9bef4"
     }
   ],
   "unverified_history": [
