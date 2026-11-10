@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-10T18:46:02.971617+00:00",
+  "updated": "2026-11-10T18:50:46.125401+00:00",
   "items": [
+    {
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google",
+      "source": "TechCrunch AI",
+      "published": "2026-11-10T18:49:52+00:00",
+      "retrieved_at": "2026-11-10T18:50:40.987161+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f89c791da851baba096fa136"
+    },
     {
       "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
       "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "19dc0cfc80d4c4b88d674c54"
-    },
-    {
-      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like",
-      "source": "TechCrunch",
-      "published": "2026-11-01T14:00:00+00:00",
-      "retrieved_at": "2026-11-01T14:02:20.637659+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "487e6c325fdc2059bd55f11c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T18:45:52.755385+00:00",
+    "checked_at": "2026-11-10T18:50:40.392467+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
