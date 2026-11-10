@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T15:14:14.065622+00:00",
+  "updated": "2026-11-10T15:19:09.884446+00:00",
   "items": [
     {
       "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
@@ -17,6 +17,23 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "110a46841086ddf18c205ee9"
+    },
+    {
+      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+      "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops",
+      "source": "TechCrunch",
+      "published": "2026-11-10T15:00:00+00:00",
+      "retrieved_at": "2026-11-10T15:19:07.689036+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Kunal Shah said that AI on WhatsApp will remind people of their appointment than booking",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6fa98b22659fbf8eb4009b8c"
     },
     {
       "title": "Reddit is turning user conversations into AI-powered product reviews",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5414cb0d20ff791f53784f75"
-    },
-    {
-      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app",
-      "source": "TechCrunch",
-      "published": "2026-10-31T15:41:57+00:00",
-      "retrieved_at": "2026-10-31T15:44:01.768724+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ab3b7e0a160b7721d3d1cdf0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T15:14:06.679551+00:00",
+    "checked_at": "2026-11-10T15:19:06.382656+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
