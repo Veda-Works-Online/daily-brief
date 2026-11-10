@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T17:34:27.553618+00:00",
+  "updated": "2026-11-10T17:39:23.104814+00:00",
   "items": [
     {
       "title": "First day of Ukraine peace talks constructive, Zelensky says",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9108323ccfb2bdaad14366c6"
+    },
+    {
+      "title": "Israeli president warns against repeat election in new Knesset session",
+      "url": "https://aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T17:16:15+00:00",
+      "retrieved_at": "2026-11-10T17:39:20.301236+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Herzog calls for an inquiry into the October 7 attacks during a Knesset session amid political gridlock following elections.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bf9e2313acb3ea2de3186d44"
     },
     {
       "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f0f31ee3fce4c609569e4345"
-    },
-    {
-      "title": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
-      "url": "https://aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T00:06:31+00:00",
-      "retrieved_at": "2026-11-06T02:54:59.109274+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Though the US president said deal was 'very close', he gave no specifics and did not meet visiting Ukrainian delegation.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a43cb62f9175759ff6027889"
     }
   ],
   "unverified_history": [
