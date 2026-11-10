@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T17:49:14.306395+00:00",
+  "updated": "2026-11-10T17:54:16.508285+00:00",
   "items": [
     {
       "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
@@ -291,23 +291,6 @@
       "story_fingerprint": "edfd54e2326e94454d6f447a"
     },
     {
-      "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
-      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns",
-      "source": "TechCrunch AI",
-      "published": "2026-11-10T13:00:00+00:00",
-      "retrieved_at": "2026-11-10T17:49:10.790516+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "db63d2ba98412bb533346a47"
-    },
-    {
       "title": "Google Cloud launches Gemini for healthcare.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
       "source": "Google AI",
@@ -323,6 +306,23 @@
       "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
       "source_type": "PRIMARY",
       "story_fingerprint": "ff0ba0eb666a5717c7ab855b"
+    },
+    {
+      "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
+      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns",
+      "source": "TechCrunch AI",
+      "published": "2026-11-10T13:00:00+00:00",
+      "retrieved_at": "2026-11-10T17:49:10.790516+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "db63d2ba98412bb533346a47"
     },
     {
       "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T17:49:10.186085+00:00",
+    "checked_at": "2026-11-10T17:54:12.519287+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
