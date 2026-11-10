@@ -1,12 +1,28 @@
 {
-  "updated": "2026-11-10T05:27:26.310921+00:00",
+  "updated": "2026-11-10T05:42:27.277486+00:00",
   "items": [
     {
-      "title": "‘Europe belongs at this table,’ Germany tells US before Ukraine talks",
+      "title": "Israeli forces kill 14-year-old Palestinian boy in occupied West Bank",
+      "url": "https://aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T05:23:57+00:00",
+      "retrieved_at": "2026-11-10T05:42:24.388050+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israel's military says its soldiers opened fire to prevent Palestinians from throwing stones at vehicles in Burqa.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d02bf065faa018c80a065b7f"
+    },
+    {
+      "title": "European diplomats press Rubio for a role in Russia-Ukraine talks",
       "url": "https://aljazeera.com/news/2026/11/10/europe-belongs-at-this-table-germany-tells-us-before-ukraine-talks",
       "source": "Al Jazeera",
       "published": "2026-11-10T05:02:33+00:00",
-      "retrieved_at": "2026-11-10T05:07:27.125184+00:00",
+      "retrieved_at": "2026-11-10T05:42:24.388096+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "G7 foreign ministers are meeting in Paris ahead of the US-mediated Russia-Ukraine talks in Abu Dhabi.",
       "category": "global",
@@ -15,7 +31,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "ae9c7da302b5fefc9b6373da"
+      "story_fingerprint": "c27ac92a8b6fc19aa02a8a9d"
     },
     {
       "title": "Trump says more US attacks on Iran 'highly unlikely'",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "047a55b30e86d598a49ca3fc"
-    },
-    {
-      "title": "Could the US midterms further isolate Israel in Washington?",
-      "url": "https://aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington",
-      "source": "Al Jazeera",
-      "published": "2026-11-05T14:19:25+00:00",
-      "retrieved_at": "2026-11-05T14:53:10.106432+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The midterms showed that challenging support for Israel can win votes. But changing US foreign policy may be harder.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "48c4f553e4c09bc3efc0eefa"
     }
   ],
   "unverified_history": [
