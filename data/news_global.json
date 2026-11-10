@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-10T15:44:16.874958+00:00",
+  "updated": "2026-11-10T15:54:13.807256+00:00",
   "items": [
+    {
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "url": "https://bbc.co.uk/news/articles/crd939lpzjp9o",
+      "source": "BBC World",
+      "published": "2026-11-10T15:51:09+00:00",
+      "retrieved_at": "2026-11-10T15:54:11.067917+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6b2cf403c483242e313f81c3"
+    },
     {
       "title": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts",
@@ -176,22 +192,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "00c2b20f46dc21e3ae84e299"
-    },
-    {
-      "title": "Israel's new parliament to be sworn in as leaders compete to form government",
-      "url": "https://bbc.co.uk/news/articles/crd939lpzjp9o",
-      "source": "BBC World",
-      "published": "2026-11-10T12:25:48+00:00",
-      "retrieved_at": "2026-11-10T12:33:08.543284+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d763ba6731cdbf4c535860bb"
     },
     {
       "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
