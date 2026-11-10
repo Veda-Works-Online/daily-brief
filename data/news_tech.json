@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T18:35:50.615582+00:00",
+  "updated": "2026-11-10T18:40:50.967840+00:00",
   "items": [
     {
       "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
@@ -425,6 +425,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "647855c52aae18bb4b0fa729"
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "source": "OpenAI",
+      "published": "2026-11-10T10:00:00+00:00",
+      "retrieved_at": "2026-11-10T18:40:44.557359+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "3e3b52b86100505e9597370a"
     },
     {
       "title": "Closing the AI guidance gap in education",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "487e6c325fdc2059bd55f11c"
-    },
-    {
-      "title": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
-      "url": "https://wired.com/story/google-vids-free-video-editor-inside-google-drive",
-      "source": "Wired",
-      "published": "2026-11-01T12:00:00+00:00",
-      "retrieved_at": "2026-11-01T12:07:20.225242+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "You may not have noticed everything Google’s free software suite offers—especially a web app called Google Vids.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6d57b6a298ef92d3dc543133"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T18:35:44.772132+00:00",
+    "checked_at": "2026-11-10T18:40:43.080771+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
