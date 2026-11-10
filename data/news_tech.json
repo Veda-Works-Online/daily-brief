@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T15:19:09.884446+00:00",
+  "updated": "2026-11-10T15:24:11.004940+00:00",
   "items": [
     {
       "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
@@ -19,23 +19,6 @@
       "story_fingerprint": "110a46841086ddf18c205ee9"
     },
     {
-      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
-      "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops",
-      "source": "TechCrunch",
-      "published": "2026-11-10T15:00:00+00:00",
-      "retrieved_at": "2026-11-10T15:19:07.689036+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Kunal Shah said that AI on WhatsApp will remind people of their appointment than booking",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6fa98b22659fbf8eb4009b8c"
-    },
-    {
       "title": "Reddit is turning user conversations into AI-powered product reviews",
       "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews",
       "source": "TechCrunch",
@@ -51,6 +34,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0ab4a1091fdf1bef010a815e"
+    },
+    {
+      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+      "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops",
+      "source": "TechCrunch",
+      "published": "2026-11-10T15:00:00+00:00",
+      "retrieved_at": "2026-11-10T15:19:07.689036+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Kunal Shah said that AI on WhatsApp will remind people of their appointment than booking",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6fa98b22659fbf8eb4009b8c"
     },
     {
       "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T15:19:06.382656+00:00",
+    "checked_at": "2026-11-10T15:24:07.318375+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
