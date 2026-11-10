@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-10T22:45:43.419550+00:00",
+  "updated": "2026-11-10T22:50:42.855617+00:00",
   "items": [
+    {
+      "title": "Nvidia hires major US law firm to investigate Jensen Huang affair",
+      "url": "https://bbc.co.uk/news/articles/ck1wvwwl3x0go",
+      "source": "BBC World",
+      "published": "2026-11-10T22:44:57+00:00",
+      "retrieved_at": "2026-11-10T22:50:37.887805+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "737f8cb26f64b7ad995b4e3d"
+    },
     {
       "title": "US House begins vote on motion to advance impeachment of Pete Hegseth",
       "url": "https://aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth",
@@ -144,22 +160,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "aef63f3523f4256bc7753a95"
-    },
-    {
-      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-      "url": "https://bbc.co.uk/news/articles/ck1wvwwl3x0go",
-      "source": "BBC World",
-      "published": "2026-11-10T20:03:41+00:00",
-      "retrieved_at": "2026-11-10T20:20:51.398446+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e48230e1fc9098e2f214699f"
     },
     {
       "title": "Trump administration seeks to cut food aid for more than six million people",
