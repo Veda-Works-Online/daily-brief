@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T13:34:16.212625+00:00",
+  "updated": "2026-11-10T13:39:22.252321+00:00",
   "items": [
     {
       "title": "Iran rejects French claims it was behind supermarket fridge hacking",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a947a3c9948fc576fc89f6db"
+    },
+    {
+      "title": "Japan watches for signs of change in Trump's foreign policy priorities",
+      "url": "https://dw.com/en/japan-watches-for-signs-of-change-in-trump-s-foreign-policy-priorities/a-79909398",
+      "source": "DW",
+      "published": "2026-11-10T13:31:00+00:00",
+      "retrieved_at": "2026-11-10T13:39:19.825196+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Tokyo fears the drubbing US President Donald Trump suffered in last week's midterm elections may push him to pursue a diplomatic quick win at the expense of Washington's allies in the Indo-Pacific.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a5c188361a3e6aa80545f1ae"
     },
     {
       "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "11b602015cf1fa7e34110e1f"
-    },
-    {
-      "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
-      "url": "https://bbc.co.uk/news/videos/cr86zxe1q5j3o",
-      "source": "BBC World",
-      "published": "2026-11-05T19:08:48+00:00",
-      "retrieved_at": "2026-11-05T23:55:02.797511+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "71597d42382382e546ee95c3"
     }
   ],
   "unverified_history": [
