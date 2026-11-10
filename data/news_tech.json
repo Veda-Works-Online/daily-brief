@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-10T21:15:38.239300+00:00",
+  "updated": "2026-11-10T21:20:34.784079+00:00",
   "items": [
+    {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi",
+      "source": "Ars Technica AI",
+      "published": "2026-11-10T21:12:59+00:00",
+      "retrieved_at": "2026-11-10T21:20:28.265934+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c04a2e2b812349ff5104b98c"
+    },
     {
       "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
       "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b578f2ca2d362888dbbaa39d"
-    },
-    {
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs",
-      "source": "TechCrunch AI",
-      "published": "2026-11-02T13:57:53+00:00",
-      "retrieved_at": "2026-11-02T16:41:09.259806+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1ee8514466a3f945f3a9566d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T21:15:32.293176+00:00",
+    "checked_at": "2026-11-10T21:20:26.641210+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
