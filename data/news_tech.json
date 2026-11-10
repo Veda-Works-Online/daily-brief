@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-10T20:30:49.715749+00:00",
+  "updated": "2026-11-10T20:35:50.566099+00:00",
   "items": [
+    {
+      "title": "What happens to mathematics when AI becames an oracle?",
+      "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle",
+      "source": "Ars Technica AI",
+      "published": "2026-11-10T20:30:01+00:00",
+      "retrieved_at": "2026-11-10T20:35:46.120221+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b82afc19ebb40ae10a8f8b65"
+    },
     {
       "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
       "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2ece718e28ac746bcda990db"
-    },
-    {
-      "title": "LifeVal",
-      "url": "https://openai.com/index/lifeval",
-      "source": "OpenAI",
-      "published": "2026-11-02T09:00:00+00:00",
-      "retrieved_at": "2026-11-02T17:46:06.864812+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "e8f2f093edfdf5324a8d3fe5"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T20:30:42.638143+00:00",
+    "checked_at": "2026-11-10T20:35:44.702013+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
