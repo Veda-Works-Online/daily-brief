@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T16:59:18.911462+00:00",
+  "updated": "2026-11-10T17:29:19.935070+00:00",
   "items": [
     {
       "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
@@ -64,6 +64,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "246593c1819e6829a6d12c3b"
+    },
+    {
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "url": "https://bbc.co.uk/news/articles/cw4g1g4ll5m1o",
+      "source": "BBC World",
+      "published": "2026-11-10T15:21:18+00:00",
+      "retrieved_at": "2026-11-10T17:29:16.946553+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "21f02474f40e6109d7df5a18"
     },
     {
       "title": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a43cb62f9175759ff6027889"
-    },
-    {
-      "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
-      "url": "https://aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T00:00:00+00:00",
-      "retrieved_at": "2026-11-06T00:10:07.428242+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump says the US may have to 'destroy' the rest of Iran, adding that people will 'know soon enough'.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "372e69cef71306826df6092b"
     }
   ],
   "unverified_history": [
