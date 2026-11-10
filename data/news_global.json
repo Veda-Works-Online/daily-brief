@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T00:16:40.076163+00:00",
+  "updated": "2026-11-10T00:46:40.403500+00:00",
   "items": [
     {
       "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
@@ -22,9 +22,9 @@
       "url": "https://aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender",
       "source": "Al Jazeera",
       "published": "2026-11-09T23:55:23+00:00",
-      "retrieved_at": "2026-11-10T00:16:37.267496+00:00",
+      "retrieved_at": "2026-11-10T00:46:37.491700+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US President made the remarks following a meeting with the Qatari PM in Washington, DC.",
+      "summary": "US President Donald Trump made the remarks after meeting Qatar's prime minister in Washington, DC.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -48,6 +48,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8f57c6f1de7b3dac4f827d7e"
+    },
+    {
+      "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+      "url": "https://dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734",
+      "source": "DW",
+      "published": "2026-11-09T23:46:00+00:00",
+      "retrieved_at": "2026-11-10T00:46:37.876340+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Ukrainian and Russian representatives last met in February for talks on ending the war, but the same sticking points remain. Ukraine continues to demand security guarantees, which is a non-starter for Russia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ffbe308874c514e4722872c8"
     },
     {
       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
@@ -114,20 +130,20 @@
       "story_fingerprint": "c528fb1f2191b77829be62b0"
     },
     {
-      "title": "Trump says war on Iran ‘effectively over’ after talks with Qatar’s PM",
+      "title": "After meeting Qatar PM, Trump declares Iran war ‘effectively over’",
       "url": "https://aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
       "source": "Al Jazeera",
       "published": "2026-11-09T22:31:19+00:00",
-      "retrieved_at": "2026-11-09T23:46:38.155250+00:00",
+      "retrieved_at": "2026-11-10T00:46:37.491774+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iranian officials dismissed Trump's latest remarks as 'fake news' after the US president suggested an end to the war.",
+      "summary": "Iranian officials dismissed Trump's remarks as 'fake news' after he suggested keeping the 'status quo'.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "ecb6e02b7eb374a12b28e6f1"
+      "story_fingerprint": "b583f690b66043e6e8c604b3"
     },
     {
       "title": "COP31 opens amid energy crisis as activists demand climate action",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7ba086a2f519e2fe68307562"
-    },
-    {
-      "title": "Palantir harvests battlefield data that Ukraine pays for ‘with blood’",
-      "url": "https://aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood",
-      "source": "Al Jazeera",
-      "published": "2026-11-05T11:34:29+00:00",
-      "retrieved_at": "2026-11-05T12:06:07.885729+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The US company is using Kyiv’s unique war data to train its controversial technologies.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "424f35af6bf3468dcf7e6e40"
     }
   ],
   "unverified_history": [
