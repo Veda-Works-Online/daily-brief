@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-10T09:08:09.274605+00:00",
+  "updated": "2026-11-10T09:53:10.997872+00:00",
   "items": [
+    {
+      "title": "Nvidia spy scandal fuels debate over chip exports to China",
+      "url": "https://aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T09:42:04+00:00",
+      "retrieved_at": "2026-11-10T09:53:07.423565+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO's relationship with alleged spy.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "933cf0f1cf7dd6f7677b9841"
+    },
     {
       "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
       "url": "https://bbc.co.uk/news/articles/cqpvgvrpjvv8o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "67915cb506fe2117216f8c58"
-    },
-    {
-      "title": "Arrests and investigations as Serbia begins postelection cleanup",
-      "url": "https://dw.com/en/arrests-and-investigations-as-serbia-begins-postelection-cleanup/a-79868652",
-      "source": "DW",
-      "published": "2026-11-05T17:00:00+00:00",
-      "retrieved_at": "2026-11-06T14:52:12.617780+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The landslide victory of the Student List in Serbia's general election seems to have removed a blockage in the justice system: Cases that were long stalled are now suddenly moving forward.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "20f1418e4a8e4f8bdfe09afe"
     }
   ],
   "unverified_history": [
