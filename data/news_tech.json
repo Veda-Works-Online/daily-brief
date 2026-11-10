@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-10T20:45:53.184872+00:00",
+  "updated": "2026-11-10T20:50:49.912313+00:00",
   "items": [
+    {
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development",
+      "source": "TechCrunch",
+      "published": "2026-11-10T20:47:05+00:00",
+      "retrieved_at": "2026-11-10T20:50:45.679546+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Former SignalFire investor Sahir Raoof raises $27.5M for new fund targeting AI in pharma",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a70d8386de08435071eb2610"
+    },
     {
       "title": "What happens to mathematics when AI becames an oracle?",
       "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cde7ee5409dcec29966ca044"
-    },
-    {
-      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-      "url": "https://wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features",
-      "source": "Wired",
-      "published": "2026-11-02T10:00:00+00:00",
-      "retrieved_at": "2026-11-02T10:14:58.929910+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2ece718e28ac746bcda990db"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T20:45:47.138585+00:00",
+    "checked_at": "2026-11-10T20:50:43.759997+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
