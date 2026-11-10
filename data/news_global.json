@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-10T02:01:50.423423+00:00",
+  "updated": "2026-11-10T02:21:36.334546+00:00",
   "items": [
+    {
+      "title": "Israel’s Shin Bet finds no evidence of foreign election interference",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/10/israels-shin-bet-finds-no-evidence-of-foreign-election-interference",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T01:59:59+00:00",
+      "retrieved_at": "2026-11-10T02:21:33.498206+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israel's internal security service has found no evidence of foreign interference in last month’s election.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2c5fa60745c35920d3eaefa1"
+    },
+    {
+      "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
+      "url": "https://aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T01:56:47+00:00",
+      "retrieved_at": "2026-11-10T02:21:33.498218+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Americans say the US should prioritise avoiding higher prices over achieving Trump's military goals in Iran.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5b7d10b283a60a710ca0a7a8"
+    },
     {
       "title": "France blames Iran for October supermarket cyberattack",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4eff6c7f35843739a7f24351"
-    },
-    {
-      "title": "Police bodycam captures moments before deadly Russian strike in Ukraine",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/5/police-bodycam-captures-moments-before-deadly-russian-strike-in-ukraine",
-      "source": "Al Jazeera",
-      "published": "2026-11-05T13:28:12+00:00",
-      "retrieved_at": "2026-11-05T13:51:24.191300+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Bodycam footage released by Ukraine’s National Police shows people rushing into an underground shelter.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6190e2758b42b66bc1edc57d"
-    },
-    {
-      "title": "Four people, including a child, killed in Israeli attacks on Gaza",
-      "url": "https://aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-11-05T13:04:52+00:00",
-      "retrieved_at": "2026-11-05T13:16:15.975094+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Gaza officials say more than 1,600 Palestinians have been killed since the so-called 'ceasefire' took effect.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6f4c0343262f17b07a46fd03"
     }
   ],
   "unverified_history": [
