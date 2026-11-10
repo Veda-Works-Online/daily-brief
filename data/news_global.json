@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-10T13:03:15.270521+00:00",
+  "updated": "2026-11-10T13:34:16.212625+00:00",
   "items": [
+    {
+      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
+      "url": "https://bbc.co.uk/news/articles/cmg474vk6dyqo",
+      "source": "BBC World",
+      "published": "2026-11-10T13:31:14+00:00",
+      "retrieved_at": "2026-11-10T13:34:12.726303+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a947a3c9948fc576fc89f6db"
+    },
     {
       "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
       "url": "https://aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means",
@@ -592,22 +608,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "363411157b3a1246f028fe96"
-    },
-    {
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "url": "https://bbc.co.uk/news/articles/cmg474vk6dyqo",
-      "source": "BBC World",
-      "published": "2026-11-09T20:20:08+00:00",
-      "retrieved_at": "2026-11-09T20:24:24.706926+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f70e632ef42ea106ee384ca1"
     },
     {
       "title": "South Africa detains foreigners suspected of heading to join Russian forces",

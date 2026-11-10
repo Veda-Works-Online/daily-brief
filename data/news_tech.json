@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-10T13:29:09.551967+00:00",
+  "updated": "2026-11-10T13:34:11.094208+00:00",
   "items": [
+    {
+      "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot",
+      "source": "TechCrunch",
+      "published": "2026-11-10T13:30:00+00:00",
+      "retrieved_at": "2026-11-10T13:34:05.036890+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "35718c13794b7baec15437aa"
+    },
     {
       "title": "Google Cloud launches Gemini for healthcare.",
       "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5530a8da0bab924c817b82cf"
-    },
-    {
-      "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
-      "url": "https://wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon",
-      "source": "Wired",
-      "published": "2026-10-30T21:19:26+00:00",
-      "retrieved_at": "2026-10-30T21:26:11.504765+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "This week on “Uncanny Valley,” we discuss the contractor who plugged their AI agent into a Pentagon system, Anthropic’s IPO filing, and the volunteers gearing up to counter ICE at the midterms.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b74d3c8dd28e65fdc216a46d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T13:29:03.937349+00:00",
+    "checked_at": "2026-11-10T13:34:03.680748+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
