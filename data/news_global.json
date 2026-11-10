@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-10T20:20:56.599332+00:00",
+  "updated": "2026-11-10T20:56:03.330834+00:00",
   "items": [
+    {
+      "title": "US soldier arrested in UK on suspicion of spying for Russia",
+      "url": "https://aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T20:41:53+00:00",
+      "retrieved_at": "2026-11-10T20:55:58.044281+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "London Metropolitan Police says its 'counterterror' forces worked closely with the FBI and US military to make arrest.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "649a442a0543f90168f0d434"
+    },
+    {
+      "title": "Netanyahu and Eisenkot push for new government after election deadlock",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T20:39:46+00:00",
+      "retrieved_at": "2026-11-10T20:55:58.044320+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Netanyahu and Eisenkot push for new government after election deadlock",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "374d74f5dbd9f06f30c1a4ef"
+    },
     {
       "title": "US Army soldier suspected of spying for Russia arrested in UK",
       "url": "https://bbc.co.uk/news/articles/c6d7q77xgw0vo",
@@ -34,11 +66,11 @@
       "story_fingerprint": "d70e5895673fe8470bfb6e2c"
     },
     {
-      "title": "Most Americans want Democrats focused on ending Iran war, lower costs: Poll",
+      "title": "US voters want Democrats focused on ending Iran war, lowering costs: Poll",
       "url": "https://aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs",
       "source": "Al Jazeera",
       "published": "2026-11-10T20:07:01+00:00",
-      "retrieved_at": "2026-11-10T20:20:51.420376+00:00",
+      "retrieved_at": "2026-11-10T20:55:58.044385+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.",
       "category": "global",
@@ -47,7 +79,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "d769d2b4936daff992239aaf"
+      "story_fingerprint": "aef63f3523f4256bc7753a95"
     },
     {
       "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cd4a5d6e9be173081e7e88f1"
-    },
-    {
-      "title": "Can America ever return to pre-Trump politics?",
-      "url": "https://aljazeera.com/opinions/2026/11/6/can-america-ever-return-to-pre-trump-politics",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T07:51:09+00:00",
-      "retrieved_at": "2026-11-06T08:05:56.114112+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The US midterms were a rejection of Trump's politics of division, but his legacy may be impossible to undo.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d683b5e84f2cf81f6594c2fb"
-    },
-    {
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "url": "https://bbc.co.uk/news/articles/ckjrwx1r2d5ro",
-      "source": "BBC World",
-      "published": "2026-11-06T07:33:41+00:00",
-      "retrieved_at": "2026-11-06T07:40:57.325888+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9e8fab3161c691e96f06eb0e"
     }
   ],
   "unverified_history": [

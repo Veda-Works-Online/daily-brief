@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-10T20:50:49.912313+00:00",
+  "updated": "2026-11-10T20:55:55.101980+00:00",
   "items": [
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+      "source": "TechCrunch AI",
+      "published": "2026-11-10T20:52:13+00:00",
+      "retrieved_at": "2026-11-10T20:55:45.899899+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b943527f68d5804571123d60"
+    },
     {
       "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
       "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7d9e8c0ea6bc043e076c6b61"
-    },
-    {
-      "title": "When You Should—and Shouldn’t—Use AI to Search the Web",
-      "url": "https://wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web",
-      "source": "Wired",
-      "published": "2026-11-02T12:00:00+00:00",
-      "retrieved_at": "2026-11-02T12:05:07.610241+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cde7ee5409dcec29966ca044"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T20:50:43.759997+00:00",
+    "checked_at": "2026-11-10T20:55:45.227003+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
