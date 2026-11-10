@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-10T15:59:11.113477+00:00",
+  "updated": "2026-11-10T16:04:19.765015+00:00",
   "items": [
+    {
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+      "source": "Google DeepMind",
+      "published": "2026-11-10T16:03:47+00:00",
+      "retrieved_at": "2026-11-10T16:04:15.177865+00:00",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://deepmind.google/blog/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "fbf4110d920112fb8c95f71d"
+    },
     {
       "title": "Google broadens its AI hardware portfolio with two new specialized chips",
       "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "05020d0e5bbffb20f583648b"
-    },
-    {
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
-      "source": "TechCrunch AI",
-      "published": "2026-10-31T21:36:07+00:00",
-      "retrieved_at": "2026-10-31T21:39:26.345833+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f4a32b1355bc5942fcbb8dfa"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-10T15:59:07.519588+00:00",
+    "checked_at": "2026-11-10T16:04:14.174688+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
