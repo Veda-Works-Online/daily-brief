@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-11T17:04:00.531239+00:00",
+  "updated": "2026-11-11T18:24:02.315136+00:00",
   "items": [
+    {
+      "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
+      "url": "https://aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T18:13:10+00:00",
+      "retrieved_at": "2026-11-11T18:23:58.188112+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Moscow announces the veteran diplomat's sudden passing without further details.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b05df0c1c6f611ed13017671"
+    },
     {
       "title": "Russia-Ukraine talks in UAE secure major prisoner exchange deal",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9b109dadc91a86c310473b2d"
-    },
-    {
-      "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
-      "url": "https://dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661",
-      "source": "DW",
-      "published": "2026-11-07T14:38:00+00:00",
-      "retrieved_at": "2026-11-07T14:50:14.357910+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "18,000 people gathered in Frankfurt to show support for Reza Pahlavi, the son of the Iranian monarch ousted in 1979. Factions in the opposition have accused him of not distancing himself from his father's rule.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "30db2fdcb2925670da988199"
     }
   ],
   "unverified_history": [
