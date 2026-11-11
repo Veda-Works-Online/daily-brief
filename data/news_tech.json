@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-11T11:03:11.034290+00:00",
+  "updated": "2026-11-11T11:08:15.838100+00:00",
   "items": [
+    {
+      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+      "url": "https://wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged",
+      "source": "Wired",
+      "published": "2026-11-11T11:00:00+00:00",
+      "retrieved_at": "2026-11-11T11:08:11.700000+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "43be92c4b55fdc591a368a15"
+    },
     {
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
       "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "19ce712b783f6991d3ec1162"
-    },
-    {
-      "title": "The latest AI news we announced in October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-      "source": "Google AI",
-      "published": "2026-11-02T17:45:00+00:00",
-      "retrieved_at": "2026-11-02T17:56:10.801520+00:00",
-      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-      "summary": "Animated carousel of images from AI posts in October",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "1911872ce0c712381ee42aa3"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T11:03:05.474256+00:00",
+    "checked_at": "2026-11-11T11:08:10.283646+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
