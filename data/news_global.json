@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-11T18:24:02.315136+00:00",
+  "updated": "2026-11-11T18:39:00.251463+00:00",
   "items": [
+    {
+      "title": "Ireland fears undersea cables face growing threat from ‘malign actors’",
+      "url": "https://aljazeera.com/news/2026/11/11/ireland-fears-undersea-cables-face-growing-threat-from-malign-actors",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T18:19:09+00:00",
+      "retrieved_at": "2026-11-11T18:38:56.157629+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Home to many US tech multinationals, Ireland raises alarm over Russia's so-called shadow fleet.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2bfd45d50c8ce016acd4cd54"
+    },
     {
       "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
       "url": "https://aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "735056127fbce222a2f75d3d"
-    },
-    {
-      "title": "No clear winner after tight New Zealand general election",
-      "url": "https://bbc.co.uk/news/articles/c3ewev11g1e0o",
-      "source": "BBC World",
-      "published": "2026-11-07T15:00:10+00:00",
-      "retrieved_at": "2026-11-07T15:05:14.779371+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9b109dadc91a86c310473b2d"
     }
   ],
   "unverified_history": [

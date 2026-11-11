@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T18:33:54.585819+00:00",
+  "updated": "2026-11-11T18:38:53.986526+00:00",
   "items": [
     {
       "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
@@ -159,12 +159,12 @@
       "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech",
       "source": "TechCrunch",
       "published": "2026-11-11T15:02:47+00:00",
-      "retrieved_at": "2026-11-11T15:03:56.428791+00:00",
+      "retrieved_at": "2026-11-11T18:38:50.821540+00:00",
       "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Helix said that its voice ID tech can run on an iPhone 13",
-      "isAI": false,
+      "summary": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
+      "isAI": true,
       "category": "tech",
-      "relevance": "tech",
+      "relevance": "AI",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://techcrunch.com/feed/",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T18:33:50.416328+00:00",
+    "checked_at": "2026-11-11T18:38:49.910566+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
