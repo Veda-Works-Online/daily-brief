@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-11T10:43:22.915565+00:00",
+  "updated": "2026-11-11T11:28:19.645298+00:00",
   "items": [
+    {
+      "title": "Eswatini gives illegal foreign businesses 12 months to leave",
+      "url": "https://bbc.co.uk/news/articles/cm4gnq2pw2kro",
+      "source": "BBC World",
+      "published": "2026-11-11T11:15:00+00:00",
+      "retrieved_at": "2026-11-11T11:28:14.067905+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The law follows the growth of foreign-owned businesses in retail sector in rural areas.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "21383dcfd63055a2794471b7"
+    },
+    {
+      "title": "Israel kills Gaza goalkeeper days after playing in cup for slain athletes",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/11/israel-kills-gaza-goalkeeper-days-after-playing-in-cup-for-slain-athletes",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T10:57:39+00:00",
+      "retrieved_at": "2026-11-11T11:28:14.183532+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Mahmoud Abdel-Malek, a 20-year-old goalkeeper for Gaza Sports Club, was killed in an Israeli airstrike on Gaza City.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "dd4af4b365cbac544bd01a4f"
+    },
     {
       "title": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
       "url": "https://aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fd4524bff3634f8f525d14db"
-    },
-    {
-      "title": "Trump confirms US strikes in Iran, insists ‘it’s not a war’",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T07:05:01+00:00",
-      "retrieved_at": "2026-11-07T07:24:55.244577+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US President Donald Trump said America has carried out ‘minor strikes’ on Iran’s Qeshm Island.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "01d6ea98da707b7abf5b54be"
-    },
-    {
-      "title": "Do not investigate Trump’s corporate allies until he leaves office",
-      "url": "https://aljazeera.com/opinions/2026/11/7/do-not-investigate-trumps-corporate-allies-until-he-leaves-office",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T06:38:27+00:00",
-      "retrieved_at": "2026-11-07T06:54:53.319281+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The US presidential pardon power has created a constitutional absurdity that can protect those accused of corruption.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "95f7246497309cf06e4849b5"
     }
   ],
   "unverified_history": [
