@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T18:38:53.986526+00:00",
+  "updated": "2026-11-11T18:43:53.928679+00:00",
   "items": [
     {
       "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
@@ -340,6 +340,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "f1e3cc50f0ca400b989b0c18"
+    },
+    {
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "source": "OpenAI",
+      "published": "2026-11-11T00:00:00+00:00",
+      "retrieved_at": "2026-11-11T18:43:50.647152+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "c68d3b68e6199fae02123bc8"
     },
     {
       "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0f5a8aab0b912ae022aecaa6"
-    },
-    {
-      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
-      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them",
-      "source": "TechCrunch",
-      "published": "2026-11-03T01:12:55+00:00",
-      "retrieved_at": "2026-11-03T01:18:12.666759+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fa5463ac690698b59736f7eb"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T18:38:49.910566+00:00",
+    "checked_at": "2026-11-11T18:43:49.843456+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
