@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-11T14:08:29.619120+00:00",
+  "updated": "2026-11-11T14:14:03.651111+00:00",
   "items": [
+    {
+      "title": "Signal’s encryption just passed an AI-powered mathematical checkup",
+      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup",
+      "source": "Ars Technica AI",
+      "published": "2026-11-11T14:08:57+00:00",
+      "retrieved_at": "2026-11-11T14:14:00.400441+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "The four-week project hints that AI could make formal verification far more practical.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3f66a9ea0d727bd0598d1130"
+    },
     {
       "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
       "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "6656883eb79b37cadb8ab609"
-    },
-    {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "source": "OpenAI",
-      "published": "2026-11-02T18:00:00+00:00",
-      "retrieved_at": "2026-11-03T03:03:11.063498+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "ba452cd46e2bfe0e88210bd3"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T14:08:23.677936+00:00",
+    "checked_at": "2026-11-11T14:13:59.471542+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
