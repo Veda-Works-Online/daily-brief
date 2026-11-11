@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-11T23:49:56.117759+00:00",
+  "updated": "2026-11-11T23:54:51.398073+00:00",
   "items": [
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "source": "TechCrunch AI",
+      "published": "2026-11-11T23:50:00+00:00",
+      "retrieved_at": "2026-11-11T23:54:46.615344+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "67d544d25d8b9e0e9ebbf179"
+    },
     {
       "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
       "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang",
@@ -19,11 +36,11 @@
       "story_fingerprint": "08c523061502dfac0e349416"
     },
     {
-      "title": "Jensen Huang accused of having another affair — with a Nvidia exec",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
       "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec",
       "source": "TechCrunch AI",
       "published": "2026-11-11T23:17:05+00:00",
-      "retrieved_at": "2026-11-11T23:49:51.572332+00:00",
+      "retrieved_at": "2026-11-11T23:54:46.615397+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
       "isAI": true,
@@ -33,7 +50,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "3abfdf1230ea76e04f58a47c"
+      "story_fingerprint": "80941a58d1ed4f6b6f237a19"
     },
     {
       "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "933ccb638f914653434ea562"
-    },
-    {
-      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
-      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4",
-      "source": "TechCrunch AI",
-      "published": "2026-11-03T14:30:00+00:00",
-      "retrieved_at": "2026-11-04T00:31:57.165351+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "805d9bb138b3026c64a63138"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T23:49:50.822888+00:00",
+    "checked_at": "2026-11-11T23:54:45.969539+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
