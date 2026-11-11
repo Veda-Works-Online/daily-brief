@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T05:36:51.702595+00:00",
+  "updated": "2026-11-11T05:41:55.596815+00:00",
   "items": [
     {
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
@@ -799,6 +799,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b8829add19d7f7ecdb1bba8c"
+    },
+    {
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "source": "OpenAI",
+      "published": "2026-11-10T00:00:00+00:00",
+      "retrieved_at": "2026-11-11T05:41:48.800380+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "41dd802431503c2e8063872d"
     },
     {
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "dd28200583be51d4eff9c576"
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "source": "OpenAI",
-      "published": "2026-11-02T15:00:00+00:00",
-      "retrieved_at": "2026-11-02T15:10:22.018055+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "ec4e8dbe19bb4105f7b447fa"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T05:36:47.745994+00:00",
+    "checked_at": "2026-11-11T05:41:47.482432+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
