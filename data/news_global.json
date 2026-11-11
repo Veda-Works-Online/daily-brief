@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-11T15:29:02.639115+00:00",
+  "updated": "2026-11-11T15:44:03.946162+00:00",
   "items": [
+    {
+      "title": "Bessent’s relocation: From US to EU, is Iran bringing war to Western soil?",
+      "url": "https://aljazeera.com/news-analysis/2026/11/11/bessents-relocation-from-us-to-eu-is-iran-bringing-war-to-western-soil",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T15:33:38+00:00",
+      "retrieved_at": "2026-11-11T15:43:59.855677+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A deliberate expansion of Iran’s campaign of retaliation beyond the Middle East could be taking place, said an expert.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f46e54fd715f90c9ed7c0307"
+    },
     {
       "title": "Brazil electoral court fines Meta, sees no deliberate election bias",
       "url": "https://dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780",
@@ -16,6 +32,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "91e2fb9caad2c710e4d4e531"
+    },
+    {
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+      "url": "https://bbc.co.uk/news/articles/ck792we7zrz4o",
+      "source": "BBC World",
+      "published": "2026-11-11T15:05:11+00:00",
+      "retrieved_at": "2026-11-11T15:43:59.870630+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d84ec4c59beae3e414d136af"
     },
     {
       "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3b66cf9a1d2dc3148f06997b"
-    },
-    {
-      "title": "Pro-Russian hackers leak Italian foreign minister’s data on dark web",
-      "url": "https://aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T12:29:48+00:00",
-      "retrieved_at": "2026-11-07T12:50:25.136446+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The prime minister blames pro-Russian hackers for the leak, as her top diplomat says the cyberthreat was ongoing.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5d7162adb049c16f88c4892f"
-    },
-    {
-      "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
-      "url": "https://aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T12:24:11+00:00",
-      "retrieved_at": "2026-11-07T12:40:18.277603+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Zero Russian diesel has reached the US as tankers divert and buyers fear legal action.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9908732007b4bb53d941ea43"
     }
   ],
   "unverified_history": [
