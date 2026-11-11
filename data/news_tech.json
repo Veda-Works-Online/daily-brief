@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-11T20:35:13.289487+00:00",
+  "updated": "2026-11-11T20:40:10.102140+00:00",
   "items": [
+    {
+      "title": "T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says",
+      "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says",
+      "source": "Ars Technica",
+      "published": "2026-11-11T20:32:21+00:00",
+      "retrieved_at": "2026-11-11T20:40:06.082000+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "31609f04a98752422cbd6ce9"
+    },
     {
       "title": "Why the data center you dread might never even be built",
       "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "0772a3fc67c537a03cd71750"
-    },
-    {
-      "title": "‘Our Risk, Their Reward’: Zohran Mamdani on AI and Data Centers",
-      "url": "https://wired.com/story/the-big-interview-podcast-nyc-mayor-zohran-mamdani",
-      "source": "Wired",
-      "published": "2026-11-03T11:00:00+00:00",
-      "retrieved_at": "2026-11-03T11:03:56.223972+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Ahead of the midterms, WIRED talked to New York City’s mayor about data centers, AI in schools, and the future of the Democratic party.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3ac3fac9cfbbee55aa32d80b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T20:35:05.503762+00:00",
+    "checked_at": "2026-11-11T20:40:04.525677+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
