@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T12:58:16.285449+00:00",
+  "updated": "2026-11-11T13:03:18.854470+00:00",
   "items": [
     {
       "title": "‘Climate crisis is outrunning us,’ UN chief Guterres says at COP31",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "84b2b286caa24f3fbb872c6a"
+    },
+    {
+      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
+      "url": "https://bbc.co.uk/news/articles/cmkg5jr59835o",
+      "source": "BBC World",
+      "published": "2026-11-11T12:32:06+00:00",
+      "retrieved_at": "2026-11-11T13:03:13.260800+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "580fb5869cf2980fa152cab5"
     },
     {
       "title": "US soldier arrested for Russia spying: What we know",
@@ -64,6 +80,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f9d091908b19e4f348329e64"
+    },
+    {
+      "title": "Transport workers in Chile block highways in protest over surging fuel prices",
+      "url": "https://bbc.co.uk/news/articles/c6e3d895zne7o",
+      "source": "BBC World",
+      "published": "2026-11-11T11:34:50+00:00",
+      "retrieved_at": "2026-11-11T13:03:13.260772+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0ab640860ba4a17b3a7b62b2"
     },
     {
       "title": "Iran classes Argentina navy, air force as 'terrorist organizations'",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4721946b2b42010c7e0f190d"
-    },
-    {
-      "title": "Sudan war and climate change see parents struggle to feed their children",
-      "url": "https://aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T10:36:32+00:00",
-      "retrieved_at": "2026-11-07T10:54:58.368914+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bb678a087d52588af2e1e93b"
-    },
-    {
-      "title": "Pakistani astronaut to join China’s next space station mission",
-      "url": "https://aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T10:17:53+00:00",
-      "retrieved_at": "2026-11-07T10:25:03.046851+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The unnamed individual will be the first foreign national to visit China's space station as part of Shenzhou-24 mission.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2fec084e78bf8b9f031b0dd0"
     }
   ],
   "unverified_history": [
