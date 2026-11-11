@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T17:58:56.261651+00:00",
+  "updated": "2026-11-11T18:03:57.670999+00:00",
   "items": [
     {
       "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
@@ -4235,11 +4235,11 @@
       "story_fingerprint": "749e5f466fba96f42039d4d9"
     },
     {
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "url": "https://huggingface.co/blog/cwe-bench",
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
       "source": "Hugging Face",
       "published": "2026-11-03T00:00:00+00:00",
-      "retrieved_at": "2026-11-11T17:58:51.561506+00:00",
+      "retrieved_at": "2026-11-11T18:03:53.999069+00:00",
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "summary": "",
       "isAI": true,
@@ -4249,7 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "01cbb97549c46836b1f99b0c"
+      "story_fingerprint": "a09becdea08de5db001d2fc4"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T17:58:51.062889+00:00",
+    "checked_at": "2026-11-11T18:03:53.417515+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
