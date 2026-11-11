@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T13:43:34.249845+00:00",
+  "updated": "2026-11-11T13:48:42.292240+00:00",
   "items": [
     {
       "title": "Trump ‘Foot Soldier’ statue mocks his Vietnam draft deferment",
@@ -112,6 +112,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f9d091908b19e4f348329e64"
+    },
+    {
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
+      "url": "https://bbc.co.uk/news/articles/cxly4y5jzl0qo",
+      "source": "BBC World",
+      "published": "2026-11-11T11:47:22+00:00",
+      "retrieved_at": "2026-11-11T13:48:36.875772+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e9aa38c6b1853393cb404caf"
     },
     {
       "title": "Transport workers in Chile block highways in protest over surging fuel prices",
@@ -608,22 +624,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1319f30f04b31a34d58ee595"
-    },
-    {
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "url": "https://bbc.co.uk/news/articles/cxly4y5jzl0qo",
-      "source": "BBC World",
-      "published": "2026-11-11T00:38:33+00:00",
-      "retrieved_at": "2026-11-11T00:46:25.984559+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "334c6741f7b35d87e7907943"
     },
     {
       "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
