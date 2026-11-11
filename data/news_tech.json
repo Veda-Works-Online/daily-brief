@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T17:43:58.399885+00:00",
+  "updated": "2026-11-11T17:48:56.397880+00:00",
   "items": [
     {
       "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
@@ -34,6 +34,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "219cb0672764e223e44893fa"
+    },
+    {
+      "title": "IBM to offer access to a dual-processor quantum system in 2027",
+      "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027",
+      "source": "Ars Technica",
+      "published": "2026-11-11T16:33:08+00:00",
+      "retrieved_at": "2026-11-11T17:48:50.121346+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "The company plans on linking two 520-qubit chips before next year is over.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f5ccf5935ce7a1e087bc25ae"
     },
     {
       "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "01cbb97549c46836b1f99b0c"
-    },
-    {
-      "title": "Transformers Model Integration Contracts",
-      "url": "https://huggingface.co/blog/transformers-mic",
-      "source": "Hugging Face",
-      "published": "2026-11-03T00:00:00+00:00",
-      "retrieved_at": "2026-11-03T07:13:41.943137+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "a09becdea08de5db001d2fc4"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T17:43:50.475632+00:00",
+    "checked_at": "2026-11-11T17:48:49.080521+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
