@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-11T07:57:03.676332+00:00",
+  "updated": "2026-11-11T08:01:56.259561+00:00",
   "items": [
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI",
+      "published": "2026-11-11T08:00:00+00:00",
+      "retrieved_at": "2026-11-11T08:01:50.538901+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "d8665e51fd5820b842be2559"
+    },
     {
       "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
       "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "05b4ab6a1940603379ac22de"
-    },
-    {
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior",
-      "source": "TechCrunch AI",
-      "published": "2026-11-02T16:30:00+00:00",
-      "retrieved_at": "2026-11-02T16:31:33.347760+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e70f87c8268a39fa42ef60ef"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T07:56:58.898086+00:00",
+    "checked_at": "2026-11-11T08:01:49.506393+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
