@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-11T23:00:02.965825+00:00",
+  "updated": "2026-11-11T23:10:04.763152+00:00",
   "items": [
+    {
+      "title": "Israeli strikes hit tent camp as five killed in Gaza",
+      "url": "https://aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T22:55:37+00:00",
+      "retrieved_at": "2026-11-11T23:09:59.189553+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Tent camp attacked as UN appeals for urgent aid to deal with heavy rains in the enclave.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "aedef037942cf507df9880a5"
+    },
     {
       "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
       "url": "https://aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b5207db5982e70d51fff6546"
-    },
-    {
-      "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T20:10:38+00:00",
-      "retrieved_at": "2026-11-07T20:36:05.906125+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2134d4730c83adc17376cc04"
     }
   ],
   "unverified_history": [
