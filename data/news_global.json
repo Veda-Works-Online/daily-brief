@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-11T00:36:25.475585+00:00",
+  "updated": "2026-11-11T00:41:22.907909+00:00",
   "items": [
+    {
+      "title": "US House blocks bid to impeach Defence Secretary Hegseth, for now",
+      "url": "https://bbc.co.uk/news/articles/cxly4y5jzl0qo",
+      "source": "BBC World",
+      "published": "2026-11-11T00:38:33+00:00",
+      "retrieved_at": "2026-11-11T00:41:17.990314+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "83a3cc2567ce77d5346268cb"
+    },
     {
       "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
       "url": "https://aljazeera.com/news/2026/11/11/everything-and-everyone-we-love-is-at-stake-thunberg-slams-cop31-talks",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7fabba465ae1ce78e4bea6c7"
-    },
-    {
-      "title": "European troops prepare for possible post-ceasefire deployment to Ukraine",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/6/france-ukraine-postwar-military-drills",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T16:04:19+00:00",
-      "retrieved_at": "2026-11-06T16:17:44.010125+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "French- and British-led military drills in Poland will testing post-ceasefire deployment in Ukraine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "94619474a24480471a790de6"
     }
   ],
   "unverified_history": [
