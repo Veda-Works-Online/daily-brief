@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-11T13:58:35.285390+00:00",
+  "updated": "2026-11-11T14:03:35.450366+00:00",
   "items": [
+    {
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads",
+      "source": "TechCrunch",
+      "published": "2026-11-11T14:00:00+00:00",
+      "retrieved_at": "2026-11-11T14:03:27.232702+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "460263fd3c5702fb41e6fefa"
+    },
     {
       "title": "Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech",
       "url": "https://wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "ba452cd46e2bfe0e88210bd3"
-    },
-    {
-      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-      "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b",
-      "source": "TechCrunch",
-      "published": "2026-11-02T17:54:11+00:00",
-      "retrieved_at": "2026-11-02T17:56:11.418231+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "84e1e2b6b68658bfc9771d60"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T13:58:28.742733+00:00",
+    "checked_at": "2026-11-11T14:03:25.892529+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
