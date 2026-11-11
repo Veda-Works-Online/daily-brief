@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T18:59:00.766056+00:00",
+  "updated": "2026-11-11T19:03:55.093879+00:00",
   "items": [
     {
       "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
@@ -191,17 +191,17 @@
     {
       "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
       "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth",
-      "source": "TechCrunch",
+      "source": "TechCrunch AI",
       "published": "2026-11-11T15:00:00+00:00",
-      "retrieved_at": "2026-11-11T15:03:56.428812+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+      "retrieved_at": "2026-11-11T19:03:51.329479+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ca51d643833cb1d8417ba38b"
     },
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T18:58:50.630651+00:00",
+    "checked_at": "2026-11-11T19:03:50.833260+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
