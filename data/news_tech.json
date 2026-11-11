@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-11T21:54:54.759436+00:00",
+  "updated": "2026-11-11T21:59:53.293025+00:00",
   "items": [
     {
-      "title": "T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says",
+      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
       "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says",
       "source": "Ars Technica",
       "published": "2026-11-11T20:32:21+00:00",
-      "retrieved_at": "2026-11-11T20:40:06.082000+00:00",
+      "retrieved_at": "2026-11-11T21:59:49.333733+00:00",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
       "isAI": false,
@@ -16,7 +16,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "31609f04a98752422cbd6ce9"
+      "story_fingerprint": "6957873b614229679b505914"
     },
     {
       "title": "Why the data center you dread might never even be built",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T21:54:48.285194+00:00",
+    "checked_at": "2026-11-11T21:59:47.937805+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
