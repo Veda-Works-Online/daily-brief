@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-11T14:19:02.495695+00:00",
+  "updated": "2026-11-11T14:24:01.298917+00:00",
   "items": [
     {
-      "title": "Signal’s encryption just passed an AI-powered mathematical checkup",
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
       "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup",
       "source": "Ars Technica AI",
       "published": "2026-11-11T14:08:57+00:00",
-      "retrieved_at": "2026-11-11T14:14:00.400441+00:00",
+      "retrieved_at": "2026-11-11T14:23:56.172559+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "The four-week project hints that AI could make formal verification far more practical.",
       "isAI": true,
@@ -16,7 +16,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "3f66a9ea0d727bd0598d1130"
+      "story_fingerprint": "c8cf8ca1b6b76891c0a8cf96"
     },
     {
       "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T14:18:55.459471+00:00",
+    "checked_at": "2026-11-11T14:23:55.353188+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
