@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-11T23:14:56.607624+00:00",
+  "updated": "2026-11-11T23:19:56.903424+00:00",
   "items": [
+    {
+      "title": "Jensen Huang accused of having another affair — with a Nvidia exec",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec",
+      "source": "TechCrunch AI",
+      "published": "2026-11-11T23:17:05+00:00",
+      "retrieved_at": "2026-11-11T23:19:52.179418+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3abfdf1230ea76e04f58a47c"
+    },
     {
       "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
       "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "09288f41115efa1c2083db9c"
-    },
-    {
-      "title": "Accelerating engineering for the physical world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "source": "OpenAI",
-      "published": "2026-11-03T12:00:00+00:00",
-      "retrieved_at": "2026-11-03T18:56:04.488101+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "0772a3fc67c537a03cd71750"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T23:14:47.370017+00:00",
+    "checked_at": "2026-11-11T23:19:51.496711+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
