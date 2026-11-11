@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-11T19:30:15.642332+00:00",
+  "updated": "2026-11-11T19:35:13.532724+00:00",
   "items": [
+    {
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips",
+      "source": "TechCrunch AI",
+      "published": "2026-11-11T19:34:55+00:00",
+      "retrieved_at": "2026-11-11T19:35:07.461560+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "738cdf7f3946730a79ec2dac"
+    },
     {
       "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
       "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "25e75051fb40d80c04c8db3f"
-    },
-    {
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses",
-      "source": "TechCrunch AI",
-      "published": "2026-11-03T03:30:00+00:00",
-      "retrieved_at": "2026-11-03T03:33:06.892955+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4385b3edc154516db197febf"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T19:30:06.226911+00:00",
+    "checked_at": "2026-11-11T19:35:06.849227+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
