@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T14:43:57.466493+00:00",
+  "updated": "2026-11-11T14:49:01.508035+00:00",
   "items": [
     {
       "title": "Google DeepMind just mathematically verified key parts of Signal",
@@ -136,6 +136,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "f1e3cc50f0ca400b989b0c18"
+    },
+    {
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "source": "Hugging Face",
+      "published": "2026-11-11T00:00:00+00:00",
+      "retrieved_at": "2026-11-11T14:48:54.074020+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "b302ba0c8bcdd5a870921eb1"
     },
     {
       "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c5e70aac387c43e8f26bc0c7"
-    },
-    {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "source": "OpenAI",
-      "published": "2026-11-02T18:00:00+00:00",
-      "retrieved_at": "2026-11-03T03:03:11.063481+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "6656883eb79b37cadb8ab609"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T14:43:53.430815+00:00",
+    "checked_at": "2026-11-11T14:48:53.526218+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
