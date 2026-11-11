@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T06:47:05.087805+00:00",
+  "updated": "2026-11-11T06:52:03.806390+00:00",
   "items": [
     {
       "title": "How AI worsens online violence against Middle East women",
@@ -16,6 +16,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3670a7e261cf0b4c26433829"
+    },
+    {
+      "title": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
+      "url": "https://aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T06:23:04+00:00",
+      "retrieved_at": "2026-11-11T06:52:00.795315+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A new Knesset shaped by October 7 prepares to convene as Netanyahu fights to prevent an opposition-led government",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c5c612840edb23690ce340a2"
     },
     {
       "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fdb010eadabe438907d24bc4"
-    },
-    {
-      "title": "Could Trump’s veto stop the Democratic majority?",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/6/us-congress-flipped-061126",
-      "source": "Al Jazeera",
-      "published": "2026-11-06T19:18:33+00:00",
-      "retrieved_at": "2026-11-06T19:22:40.658692+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Democrats have won the House and Senate. AJLabs looks at the numbers and what their majority means for Trump.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7c992e34cf2b96bc3b8111df"
     }
   ],
   "unverified_history": [
