@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T09:12:58.507759+00:00",
+  "updated": "2026-11-11T09:28:07.095454+00:00",
   "items": [
     {
       "title": "US embassy refutes Houthis’ Yemen blockade claims, highlights siege on Taiz",
@@ -96,6 +96,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3f2327ef680a514fcd7346a7"
+    },
+    {
+      "title": "US warns Madagascar over growing military ties with Russia",
+      "url": "https://bbc.co.uk/news/articles/crkgv58pknyeo",
+      "source": "BBC World",
+      "published": "2026-11-11T07:30:15+00:00",
+      "retrieved_at": "2026-11-11T09:28:01.830683+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "US general warns the Sahel model-like security deal with Russia could lead to greater instability in Africa.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "945b66a1742978dd554dc671"
     },
     {
       "title": "Is Washington rethinking its relationship with Israel?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8e866c5c47b56519b3a27dd1"
-    },
-    {
-      "title": "US asks China to uphold Busan trade deal commitments",
-      "url": "https://dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939",
-      "source": "DW",
-      "published": "2026-11-07T04:44:00+00:00",
-      "retrieved_at": "2026-11-07T04:59:02.243852+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The US urged Beijing to meet commitments from a 2025 accord — particularly on agricultural purchases and rare earths supply. China, meanwhile, expressed concern over the US' \"economic, trade restrictive\" measures.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dd2b8bdd6cda687f81b9fc06"
     }
   ],
   "unverified_history": [
