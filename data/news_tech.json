@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-11T20:15:13.160158+00:00",
+  "updated": "2026-11-11T20:20:12.749839+00:00",
   "items": [
+    {
+      "title": "Why the data center you dread might never even be built",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built",
+      "source": "TechCrunch AI",
+      "published": "2026-11-11T20:15:15+00:00",
+      "retrieved_at": "2026-11-11T20:20:04.190179+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "77c0fddbebb65d3806aa18f8"
+    },
     {
       "title": "Meta is losing its longtime head of infrastructure",
       "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3ac3fac9cfbbee55aa32d80b"
-    },
-    {
-      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
-      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene",
-      "source": "TechCrunch",
-      "published": "2026-11-03T08:01:00+00:00",
-      "retrieved_at": "2026-11-03T16:55:58.167914+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Evertrue Capital announces $17M debut fund to back early-stage AI and fintech.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "18521012daf85904b91df3ea"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T20:15:04.409617+00:00",
+    "checked_at": "2026-11-11T20:20:03.479901+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
