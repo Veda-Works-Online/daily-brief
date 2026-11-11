@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-11T13:03:18.854470+00:00",
+  "updated": "2026-11-11T13:23:18.324063+00:00",
   "items": [
+    {
+      "title": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
+      "url": "https://aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T13:16:30+00:00",
+      "retrieved_at": "2026-11-11T13:23:12.830039+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The talks in the UAE capital were the first ⁠between the two warring sides since February.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c24616945962f98ebd8ade6f"
+    },
     {
       "title": "‘Climate crisis is outrunning us,’ UN chief Guterres says at COP31",
       "url": "https://aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "440f782e7b2dacd432108d11"
-    },
-    {
-      "title": "Rains flood 70,000 displaced families’ tents in Gaza",
-      "url": "https://aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-11-07T11:10:02+00:00",
-      "retrieved_at": "2026-11-07T13:10:16.237942+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Initial losses are estimated at about $3m, according to Gaza's Government Media Office.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4721946b2b42010c7e0f190d"
     }
   ],
   "unverified_history": [
