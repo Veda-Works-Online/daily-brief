@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-11T22:40:03.142955+00:00",
+  "updated": "2026-11-11T23:00:02.965825+00:00",
   "items": [
+    {
+      "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
+      "url": "https://aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T22:34:43+00:00",
+      "retrieved_at": "2026-11-11T22:59:57.336559+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The move comes months after the government of Javier Milei designated Iran's IRGC as a 'terrorist organisation'.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c50a51959dd2b82083695f42"
+    },
     {
       "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
       "url": "https://aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2134d4730c83adc17376cc04"
-    },
-    {
-      "title": "Israeli president tasks Gadi Eisenkot with forming government",
-      "url": "https://dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288",
-      "source": "DW",
-      "published": "2026-11-07T19:56:00+00:00",
-      "retrieved_at": "2026-11-08T11:03:53.534280+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "President Isaac Herzog has picked former Israeli military chief Gadi Eisenkot, leader of an anti-Netanyahu alliance, to take the first shot at trying to form a government. Tricky coalition talks are expected.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e65edd9bc96f8a3ae634cf98"
     }
   ],
   "unverified_history": [
