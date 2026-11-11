@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-11T12:03:13.728752+00:00",
+  "updated": "2026-11-11T12:08:20.206395+00:00",
   "items": [
+    {
+      "title": "Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech",
+      "url": "https://wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech",
+      "source": "Wired",
+      "published": "2026-11-11T12:00:00+00:00",
+      "retrieved_at": "2026-11-11T12:08:15.977348+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Metalenz just acquired PxE to ditch the 50-year-old color filter that has held back smartphone night photography.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d94ec522527ab9dd14413684"
+    },
     {
       "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
       "url": "https://wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "84e1e2b6b68658bfc9771d60"
-    },
-    {
-      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
-      "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers",
-      "source": "TechCrunch",
-      "published": "2026-11-02T17:49:41+00:00",
-      "retrieved_at": "2026-11-02T20:22:17.458377+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Readwise Books combines an e-book store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "19ce712b783f6991d3ec1162"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T12:03:07.161073+00:00",
+    "checked_at": "2026-11-11T12:08:14.563102+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
