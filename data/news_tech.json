@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-11T20:00:09.054873+00:00",
+  "updated": "2026-11-11T20:05:12.404503+00:00",
   "items": [
+    {
+      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+      "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave",
+      "source": "TechCrunch AI",
+      "published": "2026-11-11T20:02:14+00:00",
+      "retrieved_at": "2026-11-11T20:05:03.916063+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3be24bcac03874ca62ef0796"
+    },
     {
       "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
       "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "93be83bf047746af08c47ad2"
-    },
-    {
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden",
-      "source": "OpenAI",
-      "published": "2026-11-03T08:00:00+00:00",
-      "retrieved_at": "2026-11-03T10:13:49.416333+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "16e748e1b8b29071ff0c4ca8"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T20:00:00.161150+00:00",
+    "checked_at": "2026-11-11T20:05:03.288675+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
