@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T14:22:22.264359+00:00",
+  "updated": "2026-11-12T14:27:18.308004+00:00",
   "items": [
     {
       "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
@@ -85,6 +85,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5fada236548ddb3f22c2f38f"
+    },
+    {
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "Hugging Face",
+      "published": "2026-11-12T00:00:00+00:00",
+      "retrieved_at": "2026-11-12T14:27:14.765822+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "200d707246ef2d530f84dfd0"
     },
     {
       "title": "Supporting research on AI and children’s safety",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bf701c35d46fd8517c6a6d64"
-    },
-    {
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
-      "source": "Google DeepMind",
-      "published": "2026-11-03T17:01:49+00:00",
-      "retrieved_at": "2026-11-03T17:05:55.645502+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "52b2a76c8b3b1d3b91a014d3"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T14:22:13.496403+00:00",
+    "checked_at": "2026-11-12T14:27:14.137927+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
