@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-12T22:29:02.594206+00:00",
+  "updated": "2026-11-12T22:34:15.826544+00:00",
   "items": [
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
+      "source": "Ars Technica AI",
+      "published": "2026-11-12T22:28:47+00:00",
+      "retrieved_at": "2026-11-12T22:34:10.094236+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "187f5e84ba8e9b8f4b0a78c7"
+    },
     {
       "title": "Muse can now place calls to U.S. businesses — if you pay",
       "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "66e42179bdc19441400b1d24"
-    },
-    {
-      "title": "Hugging Face’s CEO Says His P(Doom) Is ‘Close to Zero’",
-      "url": "https://wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face",
-      "source": "Wired",
-      "published": "2026-11-04T19:16:25+00:00",
-      "retrieved_at": "2026-11-04T19:24:11.746071+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c8cf28c168707b76034093be"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T22:28:56.764115+00:00",
+    "checked_at": "2026-11-12T22:34:08.909427+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
