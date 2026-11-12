@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T09:11:19.404634+00:00",
+  "updated": "2026-11-12T09:16:15.829778+00:00",
   "items": [
     {
       "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
@@ -66,6 +66,22 @@
       "story_fingerprint": "b264c7564995257ae4d37ab7"
     },
     {
+      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+      "url": "https://bbc.co.uk/news/articles/cr1ewpd95d21o",
+      "source": "BBC World",
+      "published": "2026-11-12T07:59:33+00:00",
+      "retrieved_at": "2026-11-12T09:16:09.771307+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f8806e182e43cad87e4644fa"
+    },
+    {
       "title": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/12/iran-open-to-deal-if-us-refrains-from-excessive-demands-says-ghalibaf",
       "source": "Al Jazeera",
@@ -80,22 +96,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4015f05331bf203f297ee9a8"
-    },
-    {
-      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-      "url": "https://bbc.co.uk/news/articles/cr1ewpd95d21o",
-      "source": "BBC World",
-      "published": "2026-11-12T05:59:18+00:00",
-      "retrieved_at": "2026-11-12T06:01:16.677971+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6ef848d7963c0162e437ef05"
     },
     {
       "title": "Bolivia arrests former judge on suspicion of drug trafficking",
