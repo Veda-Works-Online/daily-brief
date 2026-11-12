@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-12T05:10:30.722943+00:00",
+  "updated": "2026-11-12T06:01:22.617855+00:00",
   "items": [
+    {
+      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+      "url": "https://bbc.co.uk/news/articles/cr1ewpd95d21o",
+      "source": "BBC World",
+      "published": "2026-11-12T05:59:18+00:00",
+      "retrieved_at": "2026-11-12T06:01:16.677971+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6ef848d7963c0162e437ef05"
+    },
     {
       "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
       "url": "https://bbc.co.uk/news/articles/ckzd9p7e4eqeo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8440384111a18237875973d8"
-    },
-    {
-      "title": "US launches task force to disrupt Iran’s land-based supply routes",
-      "url": "https://aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T02:34:04+00:00",
-      "retrieved_at": "2026-11-08T02:48:04.578820+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The operation is to prevent Iran from using ground routes to transport weapons and other materials, US says.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ce930fc5aef0b2d615f6b90a"
     }
   ],
   "unverified_history": [
