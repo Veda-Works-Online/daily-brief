@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-12T20:39:22.095004+00:00",
+  "updated": "2026-11-12T20:44:19.930502+00:00",
   "items": [
+    {
+      "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
+      "url": "https://wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech",
+      "source": "Wired",
+      "published": "2026-11-12T20:35:11+00:00",
+      "retrieved_at": "2026-11-12T20:44:15.471016+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0ee4aba873b9a1d28013743f"
+    },
     {
       "title": "Jensen Huang was having a third affair, Reuters reports",
       "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports",
@@ -36,11 +53,11 @@
       "story_fingerprint": "973ec4c7f7b604524004791c"
     },
     {
-      "title": "Ars Live: Can the cloud survive drone strikes on data centers?",
+      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
       "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers",
       "source": "Ars Technica AI",
       "published": "2026-11-12T19:59:59+00:00",
-      "retrieved_at": "2026-11-12T20:08:12.190050+00:00",
+      "retrieved_at": "2026-11-12T20:44:15.216255+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
       "isAI": true,
@@ -50,7 +67,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "7cbd4ab7c614b0ce24a59390"
+      "story_fingerprint": "def241b9f7babbaa6d36946e"
     },
     {
       "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f6a641a911ef3aa2bbd82002"
-    },
-    {
-      "title": "Waymo confirms it will start splitting with Uber in January 2028",
-      "url": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-start-splitting-with-uber-in-january-2028",
-      "source": "TechCrunch",
-      "published": "2026-11-04T18:12:30+00:00",
-      "retrieved_at": "2026-11-04T19:49:10.949556+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7003e32f1e9da06733843e6c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T20:39:16.766349+00:00",
+    "checked_at": "2026-11-12T20:44:13.922526+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
