@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-12T22:39:22.840619+00:00",
+  "updated": "2026-11-12T22:44:07.785607+00:00",
   "items": [
+    {
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump",
+      "source": "TechCrunch AI",
+      "published": "2026-11-12T22:42:51+00:00",
+      "retrieved_at": "2026-11-12T22:44:01.759378+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bda2b11e9a524f49baa8f04b"
+    },
     {
       "title": "Silicon Valley Is Still Defending Jensen Huang",
       "url": "https://wired.com/story/silicon-valley-is-still-defending-jensen-huang",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "55e8f4b1cec6658933eeb1db"
-    },
-    {
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
-      "source": "TechCrunch AI",
-      "published": "2026-11-04T19:30:04+00:00",
-      "retrieved_at": "2026-11-04T19:34:12.747848+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "894e91c3c3fdccd2f5ca3134"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T22:39:16.817729+00:00",
+    "checked_at": "2026-11-12T22:44:01.101929+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
