@@ -1,14 +1,48 @@
 {
-  "updated": "2026-11-12T15:58:26.592678+00:00",
+  "updated": "2026-11-12T16:03:20.718188+00:00",
   "items": [
+    {
+      "title": "Whoop just launched a social network",
+      "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network",
+      "source": "TechCrunch",
+      "published": "2026-11-12T16:00:00+00:00",
+      "retrieved_at": "2026-11-12T16:03:13.721780+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Whoop is launching a social network that lets members share their sleep, recovery and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6187f0b7cf68153c8e0cb868"
+    },
+    {
+      "title": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
+      "url": "https://wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues",
+      "source": "Wired",
+      "published": "2026-11-12T15:58:21+00:00",
+      "retrieved_at": "2026-11-12T16:03:13.739666+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "After its latest device failed to perform, brain-computer interface startup Synchon halted clinical trials. The company says it will upgrade the implant’s hardware and is at work on a new device.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "52d0236589fc1798d651479c"
+    },
     {
       "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
       "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement",
       "source": "TechCrunch AI",
       "published": "2026-11-12T15:37:29+00:00",
-      "retrieved_at": "2026-11-12T15:38:19.156821+00:00",
+      "retrieved_at": "2026-11-12T16:03:12.815601+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Nvidia CFO Colette Kress is taking over for as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+      "summary": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "011f7de3cc70ef58e261f8a0"
-    },
-    {
-      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
-      "url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027",
-      "source": "TechCrunch",
-      "published": "2026-11-03T18:51:33+00:00",
-      "retrieved_at": "2026-11-03T18:56:04.633261+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "15995e8a26ae52fe548be2f1"
-    },
-    {
-      "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms",
-      "source": "Ars Technica",
-      "published": "2026-11-03T18:30:27+00:00",
-      "retrieved_at": "2026-11-03T19:36:05.029089+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e4dc5600014b652d9f7682b9"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T15:58:21.736975+00:00",
+    "checked_at": "2026-11-12T16:03:12.121117+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
