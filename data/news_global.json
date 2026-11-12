@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-12T13:27:06.787303+00:00",
+  "updated": "2026-11-12T13:37:15.619649+00:00",
   "items": [
+    {
+      "title": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
+      "url": "https://dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738",
+      "source": "DW",
+      "published": "2026-11-12T13:26:00+00:00",
+      "retrieved_at": "2026-11-12T13:37:11.266173+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Xi Jinping said that reunification was inevitable, but stopped short of mentioning military force. Taiwan though swiftly rejected Beijing's demands as tensions continue over the island's future.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3fa43a7cd29f65f397c583e1"
+    },
     {
       "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
       "url": "https://bbc.co.uk/news/videos/cm93rp3gxn6qo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bdb3886289024d7c18163a4e"
-    },
-    {
-      "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T15:47:11+00:00",
-      "retrieved_at": "2026-11-08T16:14:38.333562+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Egypt has reopened its embassy in Libya’s capital, Tripoli, after a 12-year closure.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c219367b2af1fee277055878"
     }
   ],
   "unverified_history": [

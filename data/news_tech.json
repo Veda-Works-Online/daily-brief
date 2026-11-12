@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-12T13:32:07.998668+00:00",
+  "updated": "2026-11-12T13:37:08.724801+00:00",
   "items": [
+    {
+      "title": "Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile",
+      "url": "https://wired.com/story/exclusive-fairphone-lands-its-first-us-carrier-partner-in-boost-mobile",
+      "source": "Wired",
+      "published": "2026-11-12T13:30:00+00:00",
+      "retrieved_at": "2026-11-12T13:37:05.725660+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The sustainable phone maker is teaming up with its first US carrier to sell wireless plans alongside its fully repairable smartphone.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ceb5c87494f70c3eff6d9826"
+    },
     {
       "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
       "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "db01c04e00e63a8ad73b8cd5"
-    },
-    {
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "source": "Hugging Face",
-      "published": "2026-11-03T16:35:36+00:00",
-      "retrieved_at": "2026-11-03T16:35:53.267968+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "16865b7fb375e135ac3b583c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T13:32:00.509249+00:00",
+    "checked_at": "2026-11-12T13:37:04.688804+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
