@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T22:09:18.681919+00:00",
+  "updated": "2026-11-12T22:14:13.254273+00:00",
   "items": [
     {
       "title": "EU leaders tussle over who to send to Ukraine, Russia peace talks",
@@ -16,6 +16,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8e2c3d9c93dfc81e59227aae"
+    },
+    {
+      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+      "url": "https://bbc.co.uk/news/articles/cwrkgmymk55zo",
+      "source": "BBC World",
+      "published": "2026-11-12T21:00:42+00:00",
+      "retrieved_at": "2026-11-12T22:14:07.793036+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "70142b9dabf8e0ab873b2916"
     },
     {
       "title": "US releases report on $12bn from Venezuelan oil, mineral resources",
@@ -112,22 +128,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5d800199e7a63acda6af9a46"
-    },
-    {
-      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
-      "url": "https://bbc.co.uk/news/articles/cwrkgmymk55zo",
-      "source": "BBC World",
-      "published": "2026-11-12T18:28:59+00:00",
-      "retrieved_at": "2026-11-12T18:33:29.855527+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3e891ac393b75477b7c1520d"
     },
     {
       "title": "Czechia braces for massive protest as anger over government's public media reform plans boils",
