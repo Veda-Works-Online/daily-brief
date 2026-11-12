@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-12T14:17:19.511255+00:00",
+  "updated": "2026-11-12T14:22:22.264359+00:00",
   "items": [
+    {
+      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
+      "url": "https://wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang",
+      "source": "Wired",
+      "published": "2026-11-12T14:14:33+00:00",
+      "retrieved_at": "2026-11-12T14:22:15.173793+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "facdfe1413700921b9bc14b0"
+    },
     {
       "title": "Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile",
       "url": "https://wired.com/story/exclusive-fairphone-lands-its-first-us-carrier-partner-in-boost-mobile",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "52b2a76c8b3b1d3b91a014d3"
-    },
-    {
-      "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
-      "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch",
-      "source": "TechCrunch",
-      "published": "2026-11-03T16:49:09+00:00",
-      "retrieved_at": "2026-11-03T16:50:53.218084+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "db01c04e00e63a8ad73b8cd5"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T14:17:15.362392+00:00",
+    "checked_at": "2026-11-12T14:22:13.496403+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
