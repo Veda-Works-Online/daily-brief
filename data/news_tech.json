@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-12T22:49:03.517885+00:00",
+  "updated": "2026-11-12T22:54:00.282498+00:00",
   "items": [
+    {
+      "title": "Mint Mobile Will Give You $500 off Select New Phones When You Sign Up for a Year",
+      "url": "https://wired.com/story/mint-mobile-phone-deal-november-2026",
+      "source": "Wired",
+      "published": "2026-11-12T22:47:26+00:00",
+      "retrieved_at": "2026-11-12T22:53:53.847617+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The limited-time offer applies to the latest phones from Google and Samsung, but you must be a new customer who signs up for 12 months of the unlimited plan.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e063bf8ed54d394602c51051"
+    },
     {
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
       "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "188f9942ad0f1196f9f2654f"
-    },
-    {
-      "title": "Google Is Forcing AI Overviews in Classrooms. Schools Are Searching for a Way Out",
-      "url": "https://wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out",
-      "source": "Wired",
-      "published": "2026-11-04T20:06:21+00:00",
-      "retrieved_at": "2026-11-04T20:14:11.680448+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Google is tying up AI Overviews with traditional search, angering parents and educators who worry that easy, machine-generated answers are leaving kids less capable.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "55e8f4b1cec6658933eeb1db"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T22:48:57.830405+00:00",
+    "checked_at": "2026-11-12T22:53:52.373586+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
