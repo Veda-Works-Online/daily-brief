@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-12T14:57:15.375186+00:00",
+  "updated": "2026-11-12T15:02:16.442088+00:00",
   "items": [
+    {
+      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
+      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395",
+      "source": "Ars Technica AI",
+      "published": "2026-11-12T14:50:17+00:00",
+      "retrieved_at": "2026-11-12T15:02:10.916140+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "43b5e242b028995fb5b5e90a"
+    },
     {
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "bdddf99784840f01031037de"
-    },
-    {
-      "title": "Anthropic is still grappling with the economics of compute",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute",
-      "source": "TechCrunch AI",
-      "published": "2026-11-03T17:07:01+00:00",
-      "retrieved_at": "2026-11-03T17:10:48.824949+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bf701c35d46fd8517c6a6d64"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T14:57:11.182419+00:00",
+    "checked_at": "2026-11-12T15:02:10.030802+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
