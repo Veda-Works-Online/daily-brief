@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-12T08:06:11.789625+00:00",
+  "updated": "2026-11-12T08:31:14.422906+00:00",
   "items": [
+    {
+      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+      "url": "https://bbc.co.uk/news/articles/cmvgxgz87qqro",
+      "source": "BBC World",
+      "published": "2026-11-12T08:26:50+00:00",
+      "retrieved_at": "2026-11-12T08:31:08.492937+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b264c7564995257ae4d37ab7"
+    },
     {
       "title": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/12/iran-open-to-deal-if-us-refrains-from-excessive-demands-says-ghalibaf",
@@ -448,22 +464,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8a65bc40bdd6a0abbcf1f556"
-    },
-    {
-      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "url": "https://bbc.co.uk/news/articles/cmvgxgz87qqro",
-      "source": "BBC World",
-      "published": "2026-11-11T16:38:07+00:00",
-      "retrieved_at": "2026-11-12T06:41:12.949805+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b264c7564995257ae4d37ab7"
     },
     {
       "title": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
