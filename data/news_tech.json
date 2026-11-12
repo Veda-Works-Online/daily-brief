@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-12T14:27:18.308004+00:00",
+  "updated": "2026-11-12T14:32:06.137743+00:00",
   "items": [
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "source": "TechCrunch AI",
+      "published": "2026-11-12T14:30:01+00:00",
+      "retrieved_at": "2026-11-12T14:32:02.400248+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "67d544d25d8b9e0e9ebbf179"
+    },
     {
       "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
       "url": "https://wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang",
@@ -87,23 +104,6 @@
       "story_fingerprint": "5fada236548ddb3f22c2f38f"
     },
     {
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "source": "Hugging Face",
-      "published": "2026-11-12T00:00:00+00:00",
-      "retrieved_at": "2026-11-12T14:27:14.765822+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "200d707246ef2d530f84dfd0"
-    },
-    {
       "title": "Supporting research on AI and children’s safety",
       "url": "https://openai.com/index/children-first-declaration",
       "source": "OpenAI",
@@ -138,21 +138,21 @@
       "story_fingerprint": "a52943a31051d65d4f254fc1"
     },
     {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
-      "source": "TechCrunch AI",
-      "published": "2026-11-11T23:50:00+00:00",
-      "retrieved_at": "2026-11-11T23:54:46.615344+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "Hugging Face",
+      "published": "2026-11-12T00:00:00+00:00",
+      "retrieved_at": "2026-11-12T14:27:14.765822+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "67d544d25d8b9e0e9ebbf179"
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "200d707246ef2d530f84dfd0"
     },
     {
       "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T14:27:14.137927+00:00",
+    "checked_at": "2026-11-12T14:32:01.698635+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
