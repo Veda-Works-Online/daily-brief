@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-12T19:03:18.800107+00:00",
+  "updated": "2026-11-12T19:08:20.474541+00:00",
   "items": [
+    {
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face",
+      "published": "2026-11-12T19:07:35+00:00",
+      "retrieved_at": "2026-11-12T19:08:16.256133+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "1648a6cf6725e2a6639934df"
+    },
     {
       "title": "Jensen Huang’s $470 Billion Affair",
       "url": "https://wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6a0da1a5507f58ea37952b0a"
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day",
-      "source": "TechCrunch AI",
-      "published": "2026-11-04T13:00:00+00:00",
-      "retrieved_at": "2026-11-04T17:39:05.963918+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a5eab921b21f3214e2dce6c1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T19:03:13.362213+00:00",
+    "checked_at": "2026-11-12T19:08:15.001603+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
