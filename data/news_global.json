@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-12T08:31:14.422906+00:00",
+  "updated": "2026-11-12T09:01:31.687878+00:00",
   "items": [
+    {
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "url": "https://bbc.co.uk/news/articles/ckzd9p7e4eqeo",
+      "source": "BBC World",
+      "published": "2026-11-12T09:00:15+00:00",
+      "retrieved_at": "2026-11-12T09:01:25.714547+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "75cb3afe19524492b631268f"
+    },
+    {
+      "title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T08:34:45+00:00",
+      "retrieved_at": "2026-11-12T09:01:25.856983+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Xi Jinping, President of China, has called for the peaceful ‘reunification’ of Taiwan with China.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ebf3377fe0733217ad729d50"
+    },
     {
       "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
       "url": "https://bbc.co.uk/news/articles/cmvgxgz87qqro",
@@ -32,22 +64,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4015f05331bf203f297ee9a8"
-    },
-    {
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "url": "https://bbc.co.uk/news/articles/ckzd9p7e4eqeo",
-      "source": "BBC World",
-      "published": "2026-11-12T06:12:05+00:00",
-      "retrieved_at": "2026-11-12T06:26:16.019160+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d01a18d1f614d803e9f8cfba"
     },
     {
       "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d38804520bacb2231919aad5"
-    },
-    {
-      "title": "Haitians cheer El Salvador’s Bukele amid gang war",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T05:09:39+00:00",
-      "retrieved_at": "2026-11-08T05:37:55.815916+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Some Haitians have cheered on El Salvadorian troops deployed to fight gangs in the Haitian capital.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b04be7c2d87b51e939850e01"
     }
   ],
   "unverified_history": [
