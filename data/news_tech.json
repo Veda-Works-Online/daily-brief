@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-12T17:58:14.622188+00:00",
+  "updated": "2026-11-12T18:03:15.305510+00:00",
   "items": [
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "source": "Google DeepMind",
+      "published": "2026-11-12T18:00:50+00:00",
+      "retrieved_at": "2026-11-12T18:03:07.899680+00:00",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://deepmind.google/blog/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "a8a719d9938ca04e38e8d515"
+    },
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "source": "Google AI",
+      "published": "2026-11-12T18:00:00+00:00",
+      "retrieved_at": "2026-11-12T18:03:07.519968+00:00",
+      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "2028646c0f396d1716d2188c"
+    },
     {
       "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
       "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "740b5bb445d734be35459cce"
-    },
-    {
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "url": "https://openai.com/index/devrev-enterprise-self-service",
-      "source": "OpenAI",
-      "published": "2026-11-04T00:00:00+00:00",
-      "retrieved_at": "2026-11-04T22:19:02.154540+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "0184f3a75ed4b4377b572f5d"
-    },
-    {
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity",
-      "source": "TechCrunch AI",
-      "published": "2026-11-03T22:41:03+00:00",
-      "retrieved_at": "2026-11-03T22:41:57.330912+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5ddda9f97ad3ad83cc3d4691"
     }
   ],
   "unverified_history": [
@@ -6302,6 +6302,24 @@
         "source_status": "CURRENT"
       },
       {
+        "id": "ibm-granite/granite-4.1-8b-llmon-preview",
+        "name": "granite-4.1-8b-llmon-preview",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-10-01T14:00:06+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.1-8b-llmon-preview",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-4.1-3b-llmon-preview",
+        "name": "granite-4.1-3b-llmon-preview",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-10-01T13:59:05+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.1-3b-llmon-preview",
+        "source_status": "CURRENT"
+      },
+      {
         "id": "allenai/AstaBrief_8B_SFT",
         "name": "AstaBrief_8B_SFT",
         "publisher": "allenai",
@@ -6417,27 +6435,9 @@
         "published": "2026-08-13T21:04:44+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-3b-nvfp4",
         "source_status": "CURRENT"
-      },
-      {
-        "id": "ibm-granite/granite-4.2-3b-mxfp4",
-        "name": "granite-4.2-3b-mxfp4",
-        "publisher": "ibm-granite",
-        "licence": "apache-2.0",
-        "published": "2026-08-13T21:04:23+00:00",
-        "url": "https://huggingface.co/ibm-granite/granite-4.2-3b-mxfp4",
-        "source_status": "CURRENT"
-      },
-      {
-        "id": "ibm-granite/granite-4.2-3b-fp8",
-        "name": "granite-4.2-3b-fp8",
-        "publisher": "ibm-granite",
-        "licence": "apache-2.0",
-        "published": "2026-08-13T21:03:50+00:00",
-        "url": "https://huggingface.co/ibm-granite/granite-4.2-3b-fp8",
-        "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T17:58:09.505353+00:00",
+    "checked_at": "2026-11-12T18:03:06.196064+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
