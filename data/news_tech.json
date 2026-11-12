@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-12T18:58:18.251247+00:00",
+  "updated": "2026-11-12T19:03:18.800107+00:00",
   "items": [
+    {
+      "title": "Jensen Huang’s $470 Billion Affair",
+      "url": "https://wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair",
+      "source": "Wired",
+      "published": "2026-11-12T18:59:58+00:00",
+      "retrieved_at": "2026-11-12T19:03:14.982343+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b0800799daaa4e8e71ccf8ed"
+    },
+    {
+      "title": "Families fight to keep Google’s “disturbing” AI off school-issued Chromebooks",
+      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks",
+      "source": "Ars Technica AI",
+      "published": "2026-11-12T18:57:45+00:00",
+      "retrieved_at": "2026-11-12T19:03:14.858573+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "075e4d3f2ef80a0d8ca1b547"
+    },
     {
       "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
       "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a5eab921b21f3214e2dce6c1"
-    },
-    {
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "source": "OpenAI",
-      "published": "2026-11-04T08:00:00+00:00",
-      "retrieved_at": "2026-11-04T22:29:01.227542+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "2ff27a2f1fdc7e4f9af0eca2"
-    },
-    {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "source": "OpenAI",
-      "published": "2026-11-04T07:00:00+00:00",
-      "retrieved_at": "2026-11-04T17:39:06.334859+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "d68dca6b5b6836d29aace2b5"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T18:58:12.978765+00:00",
+    "checked_at": "2026-11-12T19:03:13.362213+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
