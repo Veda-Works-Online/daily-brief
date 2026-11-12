@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-12T17:38:32.823436+00:00",
+  "updated": "2026-11-12T18:28:29.935876+00:00",
   "items": [
+    {
+      "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T18:03:02+00:00",
+      "retrieved_at": "2026-11-12T18:28:25.198685+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b33d759f2ba1d3577db69841"
+    },
     {
       "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
       "url": "https://aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "436ea87b522412b1431b830a"
-    },
-    {
-      "title": "The Next Step for APEC in Shenzhen",
-      "url": "https://thediplomat.com/2026/11/the-next-step-for-apec-in-shenzhen",
-      "source": "The Diplomat",
-      "published": "2026-11-09T01:02:00+00:00",
-      "retrieved_at": "2026-11-09T05:26:25.234666+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Turning risk diversification into value creation under the U.S.-China rivalry.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "05409b84fd9b99011b47a6f0"
     }
   ],
   "unverified_history": [
