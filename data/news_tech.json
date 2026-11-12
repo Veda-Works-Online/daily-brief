@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-12T16:33:20.881734+00:00",
+  "updated": "2026-11-12T16:38:32.007250+00:00",
   "items": [
+    {
+      "title": "Jensen Huang agrees to testify before Congress",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress",
+      "source": "TechCrunch AI",
+      "published": "2026-11-12T16:36:37+00:00",
+      "retrieved_at": "2026-11-12T16:38:24.228633+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "aa57e1c55b234c4c080fdb29"
+    },
     {
       "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
       "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9c25ed2bb96453dc4c11c55a"
-    },
-    {
-      "title": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back",
-      "source": "Ars Technica AI",
-      "published": "2026-11-03T20:39:55+00:00",
-      "retrieved_at": "2026-11-03T20:56:02.949995+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Russia tries to fix exposed digital infrastructure as data center war backfires.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3bbb4377b2f1b19ab2fa4980"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T16:33:13.617161+00:00",
+    "checked_at": "2026-11-12T16:38:23.518037+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
