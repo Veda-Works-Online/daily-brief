@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-12T16:28:23.235300+00:00",
+  "updated": "2026-11-12T16:33:20.881734+00:00",
   "items": [
+    {
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry",
+      "source": "TechCrunch AI",
+      "published": "2026-11-12T16:32:33+00:00",
+      "retrieved_at": "2026-11-12T16:33:14.337382+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "17b6d24a656f8bc90d3bfb69"
+    },
     {
       "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
       "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3bbb4377b2f1b19ab2fa4980"
-    },
-    {
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
-      "source": "TechCrunch AI",
-      "published": "2026-11-03T19:34:43+00:00",
-      "retrieved_at": "2026-11-03T19:36:04.297315+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bb9ed9b3df544b835ffdb05d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T16:28:17.296003+00:00",
+    "checked_at": "2026-11-12T16:33:13.617161+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
