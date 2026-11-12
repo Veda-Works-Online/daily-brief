@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T18:33:34.415931+00:00",
+  "updated": "2026-11-12T18:43:34.484264+00:00",
   "items": [
     {
       "title": "How Purges Are Affecting Chinese Military Readiness and Taiwan Contingencies",
@@ -32,6 +32,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3e891ac393b75477b7c1520d"
+    },
+    {
+      "title": "Czechia braces for massive protest as anger over government's public media reform plans boils",
+      "url": "https://dw.com/en/czechia-braces-for-massive-protest-as-anger-over-government-s-public-media-reform-plans-boils/a-79933533",
+      "source": "DW",
+      "published": "2026-11-12T18:26:00+00:00",
+      "retrieved_at": "2026-11-12T18:43:30.277031+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "A fast-tracked bill on public media funding reform has sparked strikes, rallies and fears for the independence of public broadcasting in Czechia. A massive protest is due to take place in Prague on November 15.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b243214850c9b7980df9ee59"
     },
     {
       "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6bbbe9de314b947983010f7e"
-    },
-    {
-      "title": "Trump defends Nvidia CEO amid Chinese spying allegations",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T03:26:21+00:00",
-      "retrieved_at": "2026-11-09T03:31:01.349669+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Donald Trump has defended Nvidia CEO Jensen Huang, who admitted to an affair with a woman suspected of spying for China.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dc59241e5dec4751837755b5"
     }
   ],
   "unverified_history": [
