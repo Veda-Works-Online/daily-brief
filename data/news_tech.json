@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-12T10:21:51.813629+00:00",
+  "updated": "2026-11-12T10:27:21.862711+00:00",
   "items": [
+    {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI",
+      "published": "2026-11-12T09:30:00+00:00",
+      "retrieved_at": "2026-11-12T10:27:18.644921+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "09915538fdf04dc42a3be2bf"
+    },
     {
       "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
       "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
@@ -17,6 +34,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5fada236548ddb3f22c2f38f"
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI",
+      "published": "2026-11-12T00:00:00+00:00",
+      "retrieved_at": "2026-11-12T10:27:18.644945+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "ee2e647c0e76d6d2305d78fa"
     },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a87a12edb7ee6236a37cb8ce"
-    },
-    {
-      "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
-      "url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech",
-      "source": "TechCrunch",
-      "published": "2026-11-03T16:04:55+00:00",
-      "retrieved_at": "2026-11-03T16:05:02.180373+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9f4f49af9bdaa331a9ae932f"
-    },
-    {
-      "title": "Same Model, Different Harness: CUGA, Hermes, and Deep Agents — When to Pick CUGA?",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-harness",
-      "source": "Hugging Face",
-      "published": "2026-11-03T15:57:39+00:00",
-      "retrieved_at": "2026-11-03T16:00:02.143539+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "b7bf80d36be3783b7f26ccbc"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T10:21:47.818432+00:00",
+    "checked_at": "2026-11-12T10:27:17.695470+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
