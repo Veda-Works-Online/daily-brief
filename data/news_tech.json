@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-12T16:58:18.623801+00:00",
+  "updated": "2026-11-12T17:03:29.204502+00:00",
   "items": [
+    {
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions",
+      "source": "TechCrunch AI",
+      "published": "2026-11-12T17:00:52+00:00",
+      "retrieved_at": "2026-11-12T17:03:21.909487+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ae380ea5390ec6b295200378"
+    },
+    {
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots",
+      "source": "TechCrunch AI",
+      "published": "2026-11-12T17:00:00+00:00",
+      "retrieved_at": "2026-11-12T17:03:21.909513+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "39f9e5f417774bfd4304e5ba"
+    },
     {
       "title": "Jensen Huang agrees to testify before Congress",
       "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f78522ccf6d1f74a6fad041e"
-    },
-    {
-      "title": "$1,200 Off the iPhone Duo? Here’s How Carrier Deals Actually Work",
-      "url": "https://wired.com/story/iphone-duo-carrier-deal-november-2026",
-      "source": "Wired",
-      "published": "2026-11-03T21:25:25+00:00",
-      "retrieved_at": "2026-11-03T21:32:04.454663+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "T-Mobile, AT&T, and Verizon are offering incentives of up to $1,200 off the iPhone Duo, but you will need to commit to a 36-month plan, which can be expensive.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7072dc5bdcd3d74c2091dadb"
-    },
-    {
-      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal",
-      "source": "TechCrunch AI",
-      "published": "2026-11-03T21:05:55+00:00",
-      "retrieved_at": "2026-11-03T22:11:54.350902+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9c25ed2bb96453dc4c11c55a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T16:58:10.113793+00:00",
+    "checked_at": "2026-11-12T17:03:21.187830+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
