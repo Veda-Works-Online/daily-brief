@@ -1,12 +1,28 @@
 {
-  "updated": "2026-11-12T10:06:22.674640+00:00",
+  "updated": "2026-11-12T10:21:58.327062+00:00",
   "items": [
     {
-      "title": "Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years",
+      "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
+      "url": "https://bbc.co.uk/news/articles/cwrkgmymk55zo",
+      "source": "BBC World",
+      "published": "2026-11-12T10:08:38+00:00",
+      "retrieved_at": "2026-11-12T10:21:53.920880+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ca035d3933020fe7c779eb45"
+    },
+    {
+      "title": "Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years",
       "url": "https://bbc.co.uk/news/articles/cw7vppyr80eeo",
       "source": "BBC World",
       "published": "2026-11-12T10:02:32+00:00",
-      "retrieved_at": "2026-11-12T10:06:16.650493+00:00",
+      "retrieved_at": "2026-11-12T10:21:53.920855+00:00",
       "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
       "category": "global",
@@ -15,7 +31,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "106e1de2d6cdef6f7f3db1d0"
+      "story_fingerprint": "ca7eba2440a16be740fba0ba"
     },
     {
       "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8b2f6b1b16235b5e4d56e0e7"
-    },
-    {
-      "title": "The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?",
-      "url": "https://aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T08:47:36+00:00",
-      "retrieved_at": "2026-11-08T09:13:48.226341+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Unpolished and understated, Eisenkot offers a stark contrast to Netanyahu but risks continuing his legacy",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b7a4ff71844469507051e749"
     }
   ],
   "unverified_history": [
