@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-12T15:02:16.442088+00:00",
+  "updated": "2026-11-12T15:07:17.440602+00:00",
   "items": [
+    {
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts",
+      "source": "TechCrunch AI",
+      "published": "2026-11-12T15:02:28+00:00",
+      "retrieved_at": "2026-11-12T15:07:11.846787+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "This is Fireworks' second data breach in as many months.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "abfa8060e25af2144cdb87ba"
+    },
     {
       "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
       "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3dd21f530f7052124d253806"
-    },
-    {
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "url": "https://huggingface.co/blog/allenai/statebench",
-      "source": "Hugging Face",
-      "published": "2026-11-03T17:15:21+00:00",
-      "retrieved_at": "2026-11-03T17:15:49.031778+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "bdddf99784840f01031037de"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T15:02:10.030802+00:00",
+    "checked_at": "2026-11-12T15:07:11.425965+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
