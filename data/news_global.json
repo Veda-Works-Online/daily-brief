@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T15:18:33.020433+00:00",
+  "updated": "2026-11-12T15:23:25.999931+00:00",
   "items": [
     {
       "title": "Jensen Huang: Spy row, second affair leaves Nvidia without its rockstar CEO",
@@ -16,6 +16,38 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9b35358aaea24c02d41f2696"
+    },
+    {
+      "title": "Spain approves housing reforms after nationwide strike over costs",
+      "url": "https://aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T15:02:30+00:00",
+      "retrieved_at": "2026-11-12T15:23:21.646276+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "577541b7db022943b8eed227"
+    },
+    {
+      "title": "Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?",
+      "url": "https://aljazeera.com/news/2026/11/12/trump-heads-to-china-amid-nvidia-scandal-will-he-get-tougher-on-beijing",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T14:48:10+00:00",
+      "retrieved_at": "2026-11-12T15:23:21.646299+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Outgoing Nvidia chief credited with easing US-China chip ties but personal scandal unlikely to upend next week's talks.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ac46cb849534c239dccd8ca7"
     },
     {
       "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
@@ -130,11 +162,11 @@
       "story_fingerprint": "d407d2c95ea0cba6c235da84"
     },
     {
-      "title": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
+      "title": "‘Greater Israel’: Christian Zionism’s role in US policy",
       "url": "https://aljazeera.com/features/2026/11/12/greater-israel-how-christian-zionism-infiltrated-us-policy",
       "source": "Al Jazeera",
       "published": "2026-11-12T12:39:21+00:00",
-      "retrieved_at": "2026-11-12T12:57:08.898068+00:00",
+      "retrieved_at": "2026-11-12T15:23:21.646466+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "Israel, the US, Christian Zionism and the search for Armageddon.",
       "category": "global",
@@ -143,7 +175,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "1286f175374483720e2bb482"
+      "story_fingerprint": "8910c8ece156f16b942a734f"
     },
     {
       "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5afdcde0d0a34340c4b4b1de"
-    },
-    {
-      "title": "Eisenkot open to Netanyahu joining Israel’s next government",
-      "url": "https://aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T18:12:27+00:00",
-      "retrieved_at": "2026-11-08T18:30:13.300785+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel's president officially tasks the opposition leader with forming a new government.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "21d61c79c6e351499f90016f"
-    },
-    {
-      "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
-      "url": "https://aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T18:01:05+00:00",
-      "retrieved_at": "2026-11-08T18:30:13.300804+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Kozo Tashima believes he has a '20 to 30 percent' chance of winning the FIFA presidency election against Infantino.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3209092cd9767ec29fde9b89"
     }
   ],
   "unverified_history": [

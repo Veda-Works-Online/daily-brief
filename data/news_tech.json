@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-12T15:18:26.022331+00:00",
+  "updated": "2026-11-12T15:23:19.552520+00:00",
   "items": [
+    {
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund",
+      "source": "TechCrunch AI",
+      "published": "2026-11-12T15:18:14+00:00",
+      "retrieved_at": "2026-11-12T15:23:15.550130+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "This is the investment firm's largest fund to date.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fa28ac4a0764db8534a1f4ee"
+    },
     {
       "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
       "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "650aefcfdc22cf4c5e7ecb7e"
-    },
-    {
-      "title": "Google will let schools skip AI tools, but they have to give up search, too",
-      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too",
-      "source": "Ars Technica AI",
-      "published": "2026-11-03T17:54:43+00:00",
-      "retrieved_at": "2026-11-03T18:06:08.331672+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3dd21f530f7052124d253806"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T15:18:18.250149+00:00",
+    "checked_at": "2026-11-12T15:23:14.831680+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
