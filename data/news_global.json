@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T12:57:13.213400+00:00",
+  "updated": "2026-11-12T13:02:06.915506+00:00",
   "items": [
     {
       "title": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
@@ -48,6 +48,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a45a55600395d68d489f152d"
+    },
+    {
+      "title": "Israel strikes Gaza hospital, says Hamas senior figure inside",
+      "url": "https://dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645",
+      "source": "DW",
+      "published": "2026-11-12T11:27:00+00:00",
+      "retrieved_at": "2026-11-12T13:02:02.752706+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Israel says Hamas was using the hospital as a military command center, while Palestinian officials report at least six people killed, including a surgeon. The strike comes amid an increasingly fragile ceasefire.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7e55f819a7ad9b35595aa1df"
     },
     {
       "title": "Israel targets senior Hamas member in Gaza hospital strike",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a8a1bab038b58bd1dc2d73b4"
-    },
-    {
-      "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
-      "url": "https://aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T12:20:17+00:00",
-      "retrieved_at": "2026-11-08T12:38:47.496984+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "About 850,000 people lose power after Russian attacks on energy infrastructure in Ukraine's Dnipropetrovsk and Kharkiv.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0b9c76161b653c9521561026"
     }
   ],
   "unverified_history": [
