@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-12T04:55:31.813998+00:00",
+  "updated": "2026-11-12T05:10:30.722943+00:00",
   "items": [
+    {
+      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+      "url": "https://bbc.co.uk/news/articles/ckzd9p7e4eqeo",
+      "source": "BBC World",
+      "published": "2026-11-12T05:06:27+00:00",
+      "retrieved_at": "2026-11-12T05:10:24.745618+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d01a18d1f614d803e9f8cfba"
+    },
     {
       "title": "Bolivia arrests former judge on suspicion of drug trafficking",
       "url": "https://aljazeera.com/news/2026/11/12/bolivia-arrests-former-judge-on-suspicion-of-drug-trafficking",
@@ -48,22 +64,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "15e415ad4fc3c044eced27ed"
-    },
-    {
-      "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
-      "url": "https://bbc.co.uk/news/articles/ckzd9p7e4eqeo",
-      "source": "BBC World",
-      "published": "2026-11-12T03:32:54+00:00",
-      "retrieved_at": "2026-11-12T04:25:28.211729+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "17fa83c56c4a2a44ae47a2d6"
     },
     {
       "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
