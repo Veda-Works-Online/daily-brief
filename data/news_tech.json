@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-12T15:33:24.854972+00:00",
+  "updated": "2026-11-12T15:38:23.266431+00:00",
   "items": [
+    {
+      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement",
+      "source": "TechCrunch AI",
+      "published": "2026-11-12T15:37:29+00:00",
+      "retrieved_at": "2026-11-12T15:38:19.156821+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Nvidia CFO Colette Kress is taking over for as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "80e48734a87996e208540c93"
+    },
     {
       "title": "Norwest pushes deeper into AI with new $4B fund",
       "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e4dc5600014b652d9f7682b9"
-    },
-    {
-      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off",
-      "source": "TechCrunch",
-      "published": "2026-11-03T17:56:52+00:00",
-      "retrieved_at": "2026-11-03T18:01:13.672018+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "650aefcfdc22cf4c5e7ecb7e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T15:33:18.609529+00:00",
+    "checked_at": "2026-11-12T15:38:18.432067+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

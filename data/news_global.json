@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-12T15:28:26.774981+00:00",
+  "updated": "2026-11-12T15:38:30.072630+00:00",
   "items": [
     {
       "title": "UK court convicts 2 Iranian men of spying on journalists",
       "url": "https://dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583",
       "source": "DW",
       "published": "2026-11-12T15:23:00+00:00",
-      "retrieved_at": "2026-11-12T15:28:22.194375+00:00",
+      "retrieved_at": "2026-11-12T15:38:25.837362+00:00",
       "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "A London court has found two Iranian citizens guilty of surveilling reporters for a Persian-language television station critical of Iran's goverment. One was also convicted of planning a violent attack against them.",
+      "summary": "A London court has found two Iranian citizens guilty of surveilling reporters for a Persian-language television station critical of Iran's government. One was also convicted of planning a violent attack against them.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -16,6 +16,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "366f25f27a90b11f9c83a616"
+    },
+    {
+      "title": "UK court finds two Iranian men guilty of spying for Iran",
+      "url": "https://aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T15:15:48+00:00",
+      "retrieved_at": "2026-11-12T15:38:25.627777+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6c03bb8e4a8cd6b668d03bab"
     },
     {
       "title": "Jensen Huang: Spy row, second affair leaves Nvidia without its rockstar CEO",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "efcc2820f6d6f6cac2adf1d0"
-    },
-    {
-      "title": "Iran waiting to resume talks after US midterms ‘shock’",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T20:51:22+00:00",
-      "retrieved_at": "2026-11-09T00:20:55.986422+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d15ff3fcdcf03439889477c7"
     }
   ],
   "unverified_history": [
