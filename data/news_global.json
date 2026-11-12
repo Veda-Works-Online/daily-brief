@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-12T13:02:06.915506+00:00",
+  "updated": "2026-11-12T13:07:05.082424+00:00",
   "items": [
+    {
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "url": "https://bbc.co.uk/news/videos/cm93rp3gxn6qo",
+      "source": "BBC World",
+      "published": "2026-11-12T13:02:46+00:00",
+      "retrieved_at": "2026-11-12T13:07:00.670121+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b981004832e176d1ed1eb3cb"
+    },
+    {
+      "title": "Europe views US with ‘much less horror’ after Trump’s midterms defeat",
+      "url": "https://aljazeera.com/news/2026/11/12/europe-views-us-with-much-less-horror-after-trumps-midterms-defeat",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T12:51:43+00:00",
+      "retrieved_at": "2026-11-12T13:07:00.893583+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "But experts say Washington’s shift away from Europe runs deeper than Trump and is unlikely to be reversed.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "66a3bd11e1490ef4c34c0518"
+    },
     {
       "title": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
       "url": "https://aljazeera.com/features/2026/11/12/greater-israel-how-christian-zionism-infiltrated-us-policy",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2d5e97705fbbd201b5c6f842"
-    },
-    {
-      "title": "Iran executes three men for 'armed unrest' after January protests",
-      "url": "https://bbc.co.uk/news/articles/ckly0ex633ydo",
-      "source": "BBC World",
-      "published": "2026-11-08T13:37:50+00:00",
-      "retrieved_at": "2026-11-08T17:29:44.958330+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9b759a0cc0b8342bd0b6bdf4"
-    },
-    {
-      "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
-      "url": "https://aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T13:27:57+00:00",
-      "retrieved_at": "2026-11-08T13:44:39.321166+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Former rivals in Libya are pushing for a unity government to end years of conflict.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a8a1bab038b58bd1dc2d73b4"
     }
   ],
   "unverified_history": [
