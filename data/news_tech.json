@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-11T23:54:51.398073+00:00",
+  "updated": "2026-11-11T23:59:51.957905+00:00",
   "items": [
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI",
+      "published": "2026-11-12T00:00:00+00:00",
+      "retrieved_at": "2026-11-11T23:59:47.737568+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "a52943a31051d65d4f254fc1"
+    },
     {
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0181afdb6be95440cb411b5a"
-    },
-    {
-      "title": "Here’s Why You Shouldn’t Use AI to Vote",
-      "url": "https://wired.com/story/heres-why-you-shouldnt-use-ai-to-vote",
-      "source": "Wired",
-      "published": "2026-11-03T14:45:08+00:00",
-      "retrieved_at": "2026-11-03T16:05:01.713108+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "From hallucinations to partisan bias, artificial intelligence chatbots like ChatGPT and Claude are not helpful when it comes to Election Day.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "933ccb638f914653434ea562"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-11T23:54:45.969539+00:00",
+    "checked_at": "2026-11-11T23:59:46.529011+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
