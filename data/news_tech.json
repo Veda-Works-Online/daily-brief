@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-12T22:19:16.013398+00:00",
+  "updated": "2026-11-12T22:24:04.781577+00:00",
   "items": [
+    {
+      "title": "Muse can now place calls to U.S. businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
+      "source": "TechCrunch AI",
+      "published": "2026-11-12T22:22:28+00:00",
+      "retrieved_at": "2026-11-12T22:23:58.503673+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "04f976afbc8dd8abd79f0421"
+    },
+    {
+      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+      "url": "https://wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in",
+      "source": "Wired",
+      "published": "2026-11-12T22:14:41+00:00",
+      "retrieved_at": "2026-11-12T22:23:59.240974+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1b3d64fe8aacb8b3042f5c26"
+    },
     {
       "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
       "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c8cf28c168707b76034093be"
-    },
-    {
-      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs",
-      "source": "TechCrunch AI",
-      "published": "2026-11-04T18:44:57+00:00",
-      "retrieved_at": "2026-11-04T18:49:11.681938+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with Chinese open models gaining ground, can American players keep up? On this episode of […]",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "50649aa58d36276c9acfe63c"
-    },
-    {
-      "title": "The Lawyer Holding Big Tech Accountable by ‘Beating the Tar Out of Them’ in Court",
-      "url": "https://wired.com/story/wired-world-fair-2026-mark-lanier",
-      "source": "Wired",
-      "published": "2026-11-04T18:21:26+00:00",
-      "retrieved_at": "2026-11-04T18:29:07.638116+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Mark Lanier led the first social media addiction case to go to trial, winning a verdict against Meta and Google in March. It’s just the beginning.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ba2ec424d2246b715c8bda88"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T22:19:08.028370+00:00",
+    "checked_at": "2026-11-12T22:23:57.697718+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
