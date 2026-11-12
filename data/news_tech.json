@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-12T16:08:22.688730+00:00",
+  "updated": "2026-11-12T16:13:24.134225+00:00",
   "items": [
+    {
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor",
+      "source": "TechCrunch AI",
+      "published": "2026-11-12T16:12:44+00:00",
+      "retrieved_at": "2026-11-12T16:13:19.947826+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "246e2d592b58684a3d5a20d4"
+    },
     {
       "title": "Whoop just launched a social network",
       "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bb9ed9b3df544b835ffdb05d"
-    },
-    {
-      "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-      "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount",
-      "source": "TechCrunch",
-      "published": "2026-11-03T19:24:37+00:00",
-      "retrieved_at": "2026-11-03T19:26:06.779932+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "011f7de3cc70ef58e261f8a0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T16:08:17.033528+00:00",
+    "checked_at": "2026-11-12T16:13:19.218755+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
