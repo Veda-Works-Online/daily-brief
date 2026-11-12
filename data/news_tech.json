@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-12T19:08:20.474541+00:00",
+  "updated": "2026-11-12T19:13:16.469986+00:00",
   "items": [
+    {
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands",
+      "source": "TechCrunch AI",
+      "published": "2026-11-12T19:11:00+00:00",
+      "retrieved_at": "2026-11-12T19:13:11.829233+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "076a611f67b0fcfb3d686cad"
+    },
     {
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
@@ -36,11 +53,11 @@
       "story_fingerprint": "b0800799daaa4e8e71ccf8ed"
     },
     {
-      "title": "Families fight to keep Google’s “disturbing” AI off school-issued Chromebooks",
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
       "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks",
       "source": "Ars Technica AI",
       "published": "2026-11-12T18:57:45+00:00",
-      "retrieved_at": "2026-11-12T19:03:14.858573+00:00",
+      "retrieved_at": "2026-11-12T19:13:12.667770+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
       "isAI": true,
@@ -50,7 +67,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "075e4d3f2ef80a0d8ca1b547"
+      "story_fingerprint": "f0795e12ebdd5f8caced1e61"
     },
     {
       "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "a7b05abc84d6ba64ca6ead83"
-    },
-    {
-      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
-      "url": "https://wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google",
-      "source": "Wired",
-      "published": "2026-11-04T13:49:51+00:00",
-      "retrieved_at": "2026-11-04T17:39:06.902507+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The AI minister now concedes the estimated figure is less than a third of that. Researchers blame the country’s slow rate of adoption.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6a0da1a5507f58ea37952b0a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-12T19:08:15.001603+00:00",
+    "checked_at": "2026-11-12T19:13:11.116133+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
