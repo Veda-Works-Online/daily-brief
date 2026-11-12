@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-12T17:09:04.921544+00:00",
+  "updated": "2026-11-12T17:18:49.723626+00:00",
   "items": [
+    {
+      "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T16:55:10+00:00",
+      "retrieved_at": "2026-11-12T17:18:45.258778+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "For the seventh time, Israel has targeted Gaza’s Nasser Hospital in an air strike.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b8752553b1c4c7e7a015c256"
+    },
     {
       "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
       "url": "https://bbc.co.uk/news/articles/cmvg2r3dq7xno",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9f0fb679e518739708958d51"
-    },
-    {
-      "title": "Iran war live: Trump to talk to Xi, Putin about Tehran, ‘denuclearisation’",
-      "url": "https://aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T00:00:34+00:00",
-      "retrieved_at": "2026-11-09T03:26:00.217441+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump says Iran land blockade is now in effect, as Tehran threatens to 'rain down hell' if US resumes attacks.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7a3150fcafe132f6225c31ba"
     }
   ],
   "unverified_history": [
