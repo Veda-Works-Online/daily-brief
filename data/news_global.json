@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-12T15:23:25.999931+00:00",
+  "updated": "2026-11-12T15:28:26.774981+00:00",
   "items": [
+    {
+      "title": "UK court convicts 2 Iranian men of spying on journalists",
+      "url": "https://dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583",
+      "source": "DW",
+      "published": "2026-11-12T15:23:00+00:00",
+      "retrieved_at": "2026-11-12T15:28:22.194375+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "A London court has found two Iranian citizens guilty of surveilling reporters for a Persian-language television station critical of Iran's goverment. One was also convicted of planning a violent attack against them.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "366f25f27a90b11f9c83a616"
+    },
     {
       "title": "Jensen Huang: Spy row, second affair leaves Nvidia without its rockstar CEO",
       "url": "https://dw.com/en/jensen-huang-spy-row-second-affair-leaves-nvidia-without-its-rockstar-ceo/a-79926972",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d15ff3fcdcf03439889477c7"
-    },
-    {
-      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
-      "url": "https://aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T20:13:39+00:00",
-      "retrieved_at": "2026-11-08T20:20:07.147773+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "President Trump warns that US forces are 'locked and loaded' and ready to strike, if necessary.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5afdcde0d0a34340c4b4b1de"
     }
   ],
   "unverified_history": [
