@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T04:20:28.826692+00:00",
+  "updated": "2026-11-12T04:25:34.206165+00:00",
   "items": [
     {
       "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "15e415ad4fc3c044eced27ed"
+    },
+    {
+      "title": "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+      "url": "https://bbc.co.uk/news/articles/ckzd9p7e4eqeo",
+      "source": "BBC World",
+      "published": "2026-11-12T03:32:54+00:00",
+      "retrieved_at": "2026-11-12T04:25:28.211729+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The strike hit the surgery department of the hospital in Khan Younis, wounding at least 20 people and causing extensive damage, a spokesperson says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "17fa83c56c4a2a44ae47a2d6"
     },
     {
       "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3dc88a82e54f90ef31833a7a"
-    },
-    {
-      "title": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
-      "url": "https://aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes",
-      "source": "Al Jazeera",
-      "published": "2026-11-08T00:00:56+00:00",
-      "retrieved_at": "2026-11-08T02:43:17.099934+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "38f52428b034158ae81770e5"
     }
   ],
   "unverified_history": [
