@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-12T01:10:45.175892+00:00",
+  "updated": "2026-11-12T01:35:38.599753+00:00",
   "items": [
+    {
+      "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T01:20:55+00:00",
+      "retrieved_at": "2026-11-12T01:35:32.707714+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Gaza's Civil Defence says an Israeli strike on Nasser Hospital has killed at least six people.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2edde233e0b6f4f49d794a9d"
+    },
     {
       "title": "US election results could be positive for Lebanon, Hezbollah chief says",
       "url": "https://aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8a475b85ed3a6d5f7bc514a6"
-    },
-    {
-      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-      "url": "https://bbc.co.uk/news/articles/cmy8367lj5xlo",
-      "source": "BBC World",
-      "published": "2026-11-07T22:19:59+00:00",
-      "retrieved_at": "2026-11-07T22:41:57.148108+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e13211172d081c20f9daaaad"
     }
   ],
   "unverified_history": [
