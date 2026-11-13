@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T15:51:43.144873+00:00",
+  "updated": "2026-11-13T15:56:44.217533+00:00",
   "items": [
     {
       "title": "Microsoft blames failed server health checks—not hackers—for global outage",
@@ -17,6 +17,23 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8305b2f4644d014fc4bf8a10"
+    },
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "published": "2026-11-13T15:00:00+00:00",
+      "retrieved_at": "2026-11-13T15:56:39.053223+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "6aa56c267225b62b5c8855ea"
     },
     {
       "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8b06d2e66ca1c04ece44f850"
-    },
-    {
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "url": "https://openai.com/ads/customers/flipsnack",
-      "source": "OpenAI",
-      "published": "2026-11-05T00:45:15+00:00",
-      "retrieved_at": "2026-11-05T23:54:57.382713+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "3c538a3311808d06ddbc59c1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-13T15:51:35.733440+00:00",
+    "checked_at": "2026-11-13T15:56:37.922202+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
