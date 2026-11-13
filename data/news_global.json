@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-13T03:14:56.783371+00:00",
+  "updated": "2026-11-13T03:25:04.581591+00:00",
   "items": [
+    {
+      "title": "Iran says it targeted US radar site in Bahrain",
+      "url": "https://aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain",
+      "source": "Al Jazeera",
+      "published": "2026-11-13T03:17:27+00:00",
+      "retrieved_at": "2026-11-13T03:25:00.045200+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "IRGC claimed Bahrain radar strike was response to US attacks on Iranian telecom tower in southern Hormozgan province.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "85f42fb5f6908e7c2a2addf2"
+    },
+    {
+      "title": "Gaza surgeon films aftermath of Israeli strike",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike",
+      "source": "Al Jazeera",
+      "published": "2026-11-13T03:11:43+00:00",
+      "retrieved_at": "2026-11-13T03:25:00.045217+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "British volunteer surgeon films the terrifying aftermath of an Israeli strike on Gaza’s Nasser Hospital.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8bb613421587ae28548f2a87"
+    },
     {
       "title": "Trump moots toppling Cuba authorities before leaving office",
       "url": "https://aljazeera.com/news/2026/11/13/trump-moots-toppling-cuba-authorities-before-leaving-office",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f54c79828930e7f46c795a4f"
-    },
-    {
-      "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
-      "url": "https://aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T10:49:02+00:00",
-      "retrieved_at": "2026-11-09T11:12:39.064808+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Allegations linking CEO to Chinese intelligence shake markets with chipmaker's shares falling more than 4 percent.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "268c86501f3e9d1e82416bf3"
-    },
-    {
-      "title": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-      "url": "https://bbc.co.uk/news/articles/cqd090ee8px5o",
-      "source": "BBC World",
-      "published": "2026-11-09T10:41:57+00:00",
-      "retrieved_at": "2026-11-09T12:33:12.951967+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f7d7b1614351ca778d16a9de"
     }
   ],
   "unverified_history": [
