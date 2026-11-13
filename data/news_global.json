@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-13T10:50:33.955516+00:00",
+  "updated": "2026-11-13T11:21:46.508718+00:00",
   "items": [
+    {
+      "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij",
+      "source": "Al Jazeera",
+      "published": "2026-11-13T10:54:25+00:00",
+      "retrieved_at": "2026-11-13T11:21:40.972254+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Iran’s Islamic Revolutionary Guard Corps says it destroyed a US early-warning radar in Bahrain.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5e781ed335fdcc3192712457"
+    },
     {
       "title": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
       "url": "https://aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a9d3f048c6f899630e76583c"
-    },
-    {
-      "title": "France accuses Iran of cyberattack on supermarket fridges",
-      "url": "https://aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T16:33:33+00:00",
-      "retrieved_at": "2026-11-09T17:33:33.510833+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Paris says a cyber unit linked to Iran's Revolutionary Guard was behind hack, which hit more than 1,000 stores.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "de9744b804921d998ecb3f90"
     }
   ],
   "unverified_history": [
