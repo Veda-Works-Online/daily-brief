@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-13T13:11:33.302114+00:00",
+  "updated": "2026-11-13T13:16:36.549298+00:00",
   "items": [
+    {
+      "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis",
+      "source": "TechCrunch",
+      "published": "2026-11-13T13:15:20+00:00",
+      "retrieved_at": "2026-11-13T13:16:28.631079+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c955b247fccb88fdbeee1b7f"
+    },
     {
       "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
       "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "38f57a0bc4a1f5a2f1117891"
-    },
-    {
-      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared",
-      "source": "TechCrunch AI",
-      "published": "2026-11-04T22:45:09+00:00",
-      "retrieved_at": "2026-11-04T23:00:10.658635+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6c65765db94e3af8a2d29b63"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-13T13:11:26.592720+00:00",
+    "checked_at": "2026-11-13T13:16:27.428422+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
