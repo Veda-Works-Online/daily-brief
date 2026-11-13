@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T17:32:51.061891+00:00",
+  "updated": "2026-11-13T17:37:57.812185+00:00",
   "items": [
     {
       "title": "The fight over Canadian steelworker jobs",
@@ -96,6 +96,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "abf8b058cea44245eb44585b"
+    },
+    {
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "url": "https://bbc.co.uk/news/articles/c6jre3z03w4go",
+      "source": "BBC World",
+      "published": "2026-11-13T15:42:52+00:00",
+      "retrieved_at": "2026-11-13T17:37:51.820040+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4af8f4498d3780b18247cf5e"
     },
     {
       "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8f57c6f1de7b3dac4f827d7e"
-    },
-    {
-      "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
-      "url": "https://dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734",
-      "source": "DW",
-      "published": "2026-11-09T23:46:00+00:00",
-      "retrieved_at": "2026-11-10T00:46:37.876340+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Ukrainian and Russian representatives last met in February for talks on ending the war, but the same sticking points remain. Ukraine continues to demand security guarantees, which is a non-starter for Russia.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ffbe308874c514e4722872c8"
     }
   ],
   "unverified_history": [
