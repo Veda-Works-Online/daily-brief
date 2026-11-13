@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T16:01:46.460104+00:00",
+  "updated": "2026-11-13T16:06:46.921688+00:00",
   "items": [
     {
       "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
@@ -17,6 +17,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d0833e3e0ecc71561d7fa4c2"
+    },
+    {
+      "title": "Jensen Huang and the End of the Founder Fairy Tale",
+      "url": "https://wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale",
+      "source": "Wired",
+      "published": "2026-11-13T16:00:00+00:00",
+      "retrieved_at": "2026-11-13T16:06:41.818943+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "00fb6c70a116deb58aa62a5d"
     },
     {
       "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "65e3236c572c7fb5e08df625"
-    },
-    {
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
-      "source": "TechCrunch AI",
-      "published": "2026-11-05T01:26:22+00:00",
-      "retrieved_at": "2026-11-05T18:51:29.737368+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "27af587d318d74f954e3012d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-13T16:01:38.459512+00:00",
+    "checked_at": "2026-11-13T16:06:40.562924+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
