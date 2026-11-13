@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T16:52:56.076993+00:00",
+  "updated": "2026-11-13T17:18:01.888732+00:00",
   "items": [
     {
       "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c6153b83e972809ba2eb33a8"
+    },
+    {
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "url": "https://bbc.co.uk/news/articles/cq39glwprknjo",
+      "source": "BBC World",
+      "published": "2026-11-13T16:40:31+00:00",
+      "retrieved_at": "2026-11-13T17:17:55.943446+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "33798ad0c0ff54f902966832"
     },
     {
       "title": "Jerusalem Daily: Baby dies from cold in Gaza",
@@ -64,6 +80,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "abf8b058cea44245eb44585b"
+    },
+    {
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "url": "https://bbc.co.uk/news/articles/cqvg2d1eg7zro",
+      "source": "BBC World",
+      "published": "2026-11-13T15:40:08+00:00",
+      "retrieved_at": "2026-11-13T17:17:55.943461+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "22258a82f8d9957bda820926"
     },
     {
       "title": "Iran targeted US radar system in Bahrain",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "92677ec091437ce5ee8fb1fd"
-    },
-    {
-      "title": "Trump defends Nvidia’s Huang after calling about spy scandal",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T23:13:44+00:00",
-      "retrieved_at": "2026-11-09T23:46:38.155234+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump told reporters he believes Nvidia’s CEO Jensen Huang had no idea his alleged mistress was a suspected Chinese spy.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0bf110b68732437373f40c70"
-    },
-    {
-      "title": "Dana White declines Trump’s offer to be White House press secretary",
-      "url": "https://bbc.co.uk/news/videos/cwm2328pyy1jo",
-      "source": "BBC World",
-      "published": "2026-11-09T22:46:27+00:00",
-      "retrieved_at": "2026-11-09T23:01:35.454353+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c528fb1f2191b77829be62b0"
     }
   ],
   "unverified_history": [
