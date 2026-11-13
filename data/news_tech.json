@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-13T14:56:46.546591+00:00",
+  "updated": "2026-11-13T15:01:54.050158+00:00",
   "items": [
+    {
+      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach",
+      "source": "TechCrunch",
+      "published": "2026-11-13T14:57:55+00:00",
+      "retrieved_at": "2026-11-13T15:01:49.938724+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fea032cccd16642181fa04e5"
+    },
     {
       "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
       "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "f65214e06a6494864f4de27f"
-    },
-    {
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "url": "https://openai.com/index/franklin-templeton",
-      "source": "OpenAI",
-      "published": "2026-11-05T00:00:00+00:00",
-      "retrieved_at": "2026-11-06T01:14:57.969395+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "dc073a76aadde45ae7781942"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-13T14:56:40.262668+00:00",
+    "checked_at": "2026-11-13T15:01:48.768627+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
