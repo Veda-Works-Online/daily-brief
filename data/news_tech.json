@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-13T17:37:48.796073+00:00",
+  "updated": "2026-11-13T17:43:01.192708+00:00",
   "items": [
     {
-      "title": "AI is \"the most likely reason\" you'll die, OpenAI board member warns",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
       "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns",
-      "source": "Ars Technica",
+      "source": "Ars Technica AI",
       "published": "2026-11-13T17:25:45+00:00",
-      "retrieved_at": "2026-11-13T17:27:52.841097+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "retrieved_at": "2026-11-13T17:42:56.595166+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "a48da4163446ba41ad294907"
+      "story_fingerprint": "291d49efef9ba5946451744c"
     },
     {
       "title": "XYBench: Helping with the problem behind the question",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-13T17:37:42.761943+00:00",
+    "checked_at": "2026-11-13T17:42:55.151953+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
