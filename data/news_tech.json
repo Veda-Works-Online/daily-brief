@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-13T14:01:49.420680+00:00",
+  "updated": "2026-11-13T14:06:49.667376+00:00",
   "items": [
+    {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face",
+      "published": "2026-11-13T14:05:22+00:00",
+      "retrieved_at": "2026-11-13T14:06:45.030390+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "ea2f055fb59d60aead27c086"
+    },
     {
       "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
       "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8d16fd75f024c35ed05864ca"
-    },
-    {
-      "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
-      "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain",
-      "source": "Ars Technica",
-      "published": "2026-11-04T22:47:51+00:00",
-      "retrieved_at": "2026-11-04T23:50:04.061813+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "And what that could mean for physical Switch game costs.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "38f57a0bc4a1f5a2f1117891"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-13T14:01:44.121849+00:00",
+    "checked_at": "2026-11-13T14:06:44.309622+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
