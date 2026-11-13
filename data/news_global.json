@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-13T11:31:39.279231+00:00",
+  "updated": "2026-11-13T12:16:55.404957+00:00",
   "items": [
+    {
+      "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
+      "url": "https://aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks",
+      "source": "Al Jazeera",
+      "published": "2026-11-13T12:06:56+00:00",
+      "retrieved_at": "2026-11-13T12:16:49.852846+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Finland says Ukraine struck a Russian warship near its coast as Kyiv and Moscow held US-brokered talks in Abu Dhabi.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8635aa5457215e9c5df590f5"
+    },
+    {
+      "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
+      "url": "https://aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection",
+      "source": "Al Jazeera",
+      "published": "2026-11-13T11:51:57+00:00",
+      "retrieved_at": "2026-11-13T12:16:49.852904+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "IAEA says it cannot verify whether an underground Iranian enrichment plant contains nuclear material.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4000ed59816c7422e8d1c2d7"
+    },
     {
       "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0624332095cc14c3a8d9466d"
-    },
-    {
-      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "url": "https://bbc.co.uk/news/articles/cm93z3lp5lnpo",
-      "source": "BBC World",
-      "published": "2026-11-09T17:02:43+00:00",
-      "retrieved_at": "2026-11-09T17:03:34.789575+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "003616fc220f927075b58842"
-    },
-    {
-      "title": "Trump questions midterm elections integrity after previously accepting results",
-      "url": "https://bbc.co.uk/news/articles/ck79p9350zp9o",
-      "source": "BBC World",
-      "published": "2026-11-09T16:53:47+00:00",
-      "retrieved_at": "2026-11-09T16:58:59.538259+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a9d3f048c6f899630e76583c"
     }
   ],
   "unverified_history": [
