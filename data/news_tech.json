@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-13T19:37:50.010217+00:00",
+  "updated": "2026-11-13T19:42:49.862800+00:00",
   "items": [
+    {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+      "source": "TechCrunch",
+      "published": "2026-11-13T19:37:57+00:00",
+      "retrieved_at": "2026-11-13T19:42:45.560457+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "23f7e2e6e8a144b24898f550"
+    },
     {
       "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
       "url": "https://wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0436d7f6934d9a01a788bf0d"
-    },
-    {
-      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-      "url": "https://wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk",
-      "source": "Wired",
-      "published": "2026-11-05T11:45:00+00:00",
-      "retrieved_at": "2026-11-05T11:56:06.011334+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "813ea15f6c189ddbf5572b5b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-13T19:37:44.034327+00:00",
+    "checked_at": "2026-11-13T19:42:43.830114+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
