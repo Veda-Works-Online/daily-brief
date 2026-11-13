@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-13T16:42:58.337615+00:00",
+  "updated": "2026-11-13T16:52:56.076993+00:00",
   "items": [
+    {
+      "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
+      "url": "https://aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser",
+      "source": "Al Jazeera",
+      "published": "2026-11-13T16:44:56+00:00",
+      "retrieved_at": "2026-11-13T16:52:49.954234+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c6153b83e972809ba2eb33a8"
+    },
+    {
+      "title": "Jerusalem Daily: Baby dies from cold in Gaza",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza",
+      "source": "Al Jazeera",
+      "published": "2026-11-13T16:34:24+00:00",
+      "retrieved_at": "2026-11-13T16:52:49.954255+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A baby dies from the cold in Gaza as 53 countries urge Israel to allow aid in.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8526275f6b7f0cd1d24c6963"
+    },
     {
       "title": "US Treasury warns against rate hikes during US-Iran war energy ‘shock’",
       "url": "https://aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c528fb1f2191b77829be62b0"
-    },
-    {
-      "title": "After meeting Qatar PM, Trump calls Iran war ‘effectively over’ militarily",
-      "url": "https://aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T22:31:19+00:00",
-      "retrieved_at": "2026-11-10T01:01:42.988572+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iranian officials dismissed Trump's remarks as 'fake news' after he suggested keeping the 'status quo'.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e726d099120237075020d362"
-    },
-    {
-      "title": "COP31 opens amid energy crisis as activists demand climate action",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T21:18:25+00:00",
-      "retrieved_at": "2026-11-09T21:39:11.502056+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "COP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "62c076984d26064a0c941ac9"
     }
   ],
   "unverified_history": [
