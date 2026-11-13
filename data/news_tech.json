@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-13T22:23:37.329269+00:00",
+  "updated": "2026-11-13T22:28:32.307676+00:00",
   "items": [
+    {
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
+      "source": "Ars Technica AI",
+      "published": "2026-11-13T21:20:47+00:00",
+      "retrieved_at": "2026-11-13T22:28:27.743790+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "187f5e84ba8e9b8f4b0a78c7"
+    },
     {
       "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
       "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board",
@@ -88,10 +105,10 @@
     },
     {
       "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns",
       "source": "Ars Technica AI",
       "published": "2026-11-13T17:25:45+00:00",
-      "retrieved_at": "2026-11-13T19:22:41.750877+00:00",
+      "retrieved_at": "2026-11-13T22:28:27.743815+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
       "isAI": true,
@@ -261,9 +278,9 @@
       "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis",
       "source": "TechCrunch",
       "published": "2026-11-13T13:15:20+00:00",
-      "retrieved_at": "2026-11-13T18:47:42.728502+00:00",
+      "retrieved_at": "2026-11-13T22:28:27.807648+00:00",
       "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+      "summary": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
       "isAI": false,
       "category": "tech",
       "relevance": "tech",
@@ -391,23 +408,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0fa46c5a0c6580b2034b55da"
-    },
-    {
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-      "source": "Ars Technica AI",
-      "published": "2026-11-12T22:28:47+00:00",
-      "retrieved_at": "2026-11-12T22:34:10.094236+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "187f5e84ba8e9b8f4b0a78c7"
     },
     {
       "title": "Muse can now place calls to US businesses — if you pay",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-13T22:23:28.077517+00:00",
+    "checked_at": "2026-11-13T22:28:26.209859+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
