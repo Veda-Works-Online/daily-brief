@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-13T12:16:55.404957+00:00",
+  "updated": "2026-11-13T12:51:43.491824+00:00",
   "items": [
+    {
+      "title": "UN watchdog 'increasingly concerned' over Iran nuclear site",
+      "url": "https://bbc.co.uk/news/articles/cm75261e3pdko",
+      "source": "BBC World",
+      "published": "2026-11-13T12:28:28+00:00",
+      "retrieved_at": "2026-11-13T12:51:38.183681+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "It says it has never been able to inspect a uranium enrichment plant at Isfahan which Iran announced over a year ago.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "43570ca4fe8eb58606c57408"
+    },
     {
       "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
       "url": "https://aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "285f8b7d829d53a48bd0fbd7"
-    },
-    {
-      "title": "France accelerates minimum wage hike in bid to quell protest",
-      "url": "https://aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T17:46:28+00:00",
-      "retrieved_at": "2026-11-09T18:13:52.170384+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Unions slam the increase as insufficient, as the government seeks to defuse the unrest ahead of upcoming elections.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0624332095cc14c3a8d9466d"
     }
   ],
   "unverified_history": [
