@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-13T22:38:40.283947+00:00",
+  "updated": "2026-11-13T22:43:31.924019+00:00",
   "items": [
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+      "source": "TechCrunch AI",
+      "published": "2026-11-13T22:43:00+00:00",
+      "retrieved_at": "2026-11-13T22:43:24.395167+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2aa0b37044bc7d09dc79cc38"
+    },
     {
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
       "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d38bbaeba4cc71660441baee"
-    },
-    {
-      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
-      "source": "TechCrunch AI",
-      "published": "2026-11-05T12:00:00+00:00",
-      "retrieved_at": "2026-11-05T18:51:29.737354+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4667a991f2cfe9bb64c57f42"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-13T22:38:34.002749+00:00",
+    "checked_at": "2026-11-13T22:43:23.760633+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
