@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-13T17:22:55.013335+00:00",
+  "updated": "2026-11-13T17:27:57.194567+00:00",
   "items": [
+    {
+      "title": "AI is \"the most likely reason\" you'll die, OpenAI board member warns",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns",
+      "source": "Ars Technica",
+      "published": "2026-11-13T17:25:45+00:00",
+      "retrieved_at": "2026-11-13T17:27:52.841097+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a48da4163446ba41ad294907"
+    },
     {
       "title": "XYBench: Helping with the problem behind the question",
       "url": "https://huggingface.co/blog/allenai/xybench",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "7e4be5792008b1f0abb45847"
-    },
-    {
-      "title": "Meta Quest Promo Codes and Coupons for November 2026",
-      "url": "https://wired.com/story/meta-quest-promo-code",
-      "source": "Wired",
-      "published": "2026-11-05T06:00:00+00:00",
-      "retrieved_at": "2026-11-05T06:09:50.787900+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "95d0dfe1d974484e48548b54"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-13T17:22:45.210984+00:00",
+    "checked_at": "2026-11-13T17:27:51.024490+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

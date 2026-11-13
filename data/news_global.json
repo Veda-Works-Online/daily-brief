@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-13T17:18:01.888732+00:00",
+  "updated": "2026-11-13T17:28:06.240974+00:00",
   "items": [
+    {
+      "title": "The fight over Canadian steelworker jobs",
+      "url": "https://aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs",
+      "source": "Al Jazeera",
+      "published": "2026-11-13T17:10:43+00:00",
+      "retrieved_at": "2026-11-13T17:28:00.258438+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Stelco's US owner blames Trump's tariffs for layoffs, but its support for those same tariffs has raised questions.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6514ae4443b31044f23ec925"
+    },
     {
       "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
       "url": "https://aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0e42c26b8fe24a5cd4fd8d13"
-    },
-    {
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "url": "https://bbc.co.uk/news/articles/cqg7x7dpvym8o",
-      "source": "BBC World",
-      "published": "2026-11-09T23:20:29+00:00",
-      "retrieved_at": "2026-11-09T23:21:36.664455+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "92677ec091437ce5ee8fb1fd"
     }
   ],
   "unverified_history": [
