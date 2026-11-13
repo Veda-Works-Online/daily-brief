@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-13T14:41:45.679070+00:00",
+  "updated": "2026-11-13T14:46:45.765284+00:00",
   "items": [
+    {
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+      "source": "TechCrunch AI",
+      "published": "2026-11-13T14:44:48+00:00",
+      "retrieved_at": "2026-11-13T14:46:37.049852+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e6f2a5150a53c1374713cc9b"
+    },
     {
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
       "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "dc073a76aadde45ae7781942"
-    },
-    {
-      "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
-      "url": "https://wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space",
-      "source": "Wired",
-      "published": "2026-11-04T23:13:14+00:00",
-      "retrieved_at": "2026-11-04T23:35:06.624689+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8d16fd75f024c35ed05864ca"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-13T14:41:38.363332+00:00",
+    "checked_at": "2026-11-13T14:46:36.596421+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
