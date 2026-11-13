@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-13T01:59:57.427424+00:00",
+  "updated": "2026-11-13T02:04:56.197848+00:00",
   "items": [
+    {
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "url": "https://bbc.co.uk/news/articles/ckn80j9jv3jxo",
+      "source": "BBC World",
+      "published": "2026-11-13T02:01:35+00:00",
+      "retrieved_at": "2026-11-13T02:04:51.611884+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d94fc7ad96355b08bc76d76e"
+    },
     {
       "title": "After Iraq ex-MP’s killing, Lebanon asks Syria to extradite suspects",
       "url": "https://aljazeera.com/news/2026/11/13/after-iraq-ex-mps-killing-lebanon-asks-syria-to-extradite-suspects",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2ab1d2ae36c4484eedf22f95"
-    },
-    {
-      "title": "At least four people killed as Russia and Ukraine trade strikes overnight",
-      "url": "https://aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T10:08:45+00:00",
-      "retrieved_at": "2026-11-09T11:57:40.430220+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Russia's second-largest oil refinery is set on fire by drones while Russian strikes target Ukrainian energy sites.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7715d0e0b63f210525869d1c"
     }
   ],
   "unverified_history": [
