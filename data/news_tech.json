@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-13T17:02:48.178595+00:00",
+  "updated": "2026-11-13T17:07:47.331780+00:00",
   "items": [
     {
-      "title": "Introducing XYBench: Helping with the problem behind the question",
+      "title": "XYBench: Helping with the problem behind the question",
       "url": "https://huggingface.co/blog/allenai/xybench",
       "source": "Hugging Face",
       "published": "2026-11-13T17:02:35+00:00",
-      "retrieved_at": "2026-11-13T17:02:41.438238+00:00",
+      "retrieved_at": "2026-11-13T17:07:42.203171+00:00",
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "summary": "",
       "isAI": true,
@@ -16,7 +16,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "8aeb823ec2e03065aa139874"
+      "story_fingerprint": "3e8ebffd4e4cbebff9de420c"
     },
     {
       "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-13T17:02:39.808384+00:00",
+    "checked_at": "2026-11-13T17:07:41.249200+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
