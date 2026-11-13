@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-13T15:26:45.481968+00:00",
+  "updated": "2026-11-13T15:31:48.404105+00:00",
   "items": [
+    {
+      "title": "Microsoft blames failed server health checks—not hackers—for global outage",
+      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage",
+      "source": "Ars Technica",
+      "published": "2026-11-13T15:26:53+00:00",
+      "retrieved_at": "2026-11-13T15:31:40.516134+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8305b2f4644d014fc4bf8a10"
+    },
     {
       "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
       "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "3c538a3311808d06ddbc59c1"
-    },
-    {
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "source": "Hugging Face",
-      "published": "2026-11-05T00:00:00+00:00",
-      "retrieved_at": "2026-11-05T10:41:06.751632+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "f65214e06a6494864f4de27f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-13T15:26:38.202570+00:00",
+    "checked_at": "2026-11-13T15:31:39.298592+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
