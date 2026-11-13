@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-13T11:46:37.153887+00:00",
+  "updated": "2026-11-13T11:51:36.426534+00:00",
   "items": [
+    {
+      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
+      "url": "https://wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back",
+      "source": "Wired",
+      "published": "2026-11-13T11:45:00+00:00",
+      "retrieved_at": "2026-11-13T11:51:30.946370+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "45ed54944fac4567dbd5dac0"
+    },
     {
       "title": "Bitdefender Antivirus Plus Review: Undercutting the Competition",
       "url": "https://wired.com/review/bitdefender-antivirus-plus",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "88ea368959ca5731de89603f"
-    },
-    {
-      "title": "Meta acquires AI coding startup Conductor",
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
-      "source": "TechCrunch AI",
-      "published": "2026-11-04T21:10:56+00:00",
-      "retrieved_at": "2026-11-04T21:14:08.569580+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "57299300f3a3ce3eae4799c2"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-13T11:46:31.688029+00:00",
+    "checked_at": "2026-11-13T11:51:29.750514+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
