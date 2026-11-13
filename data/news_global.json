@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-13T03:46:19.583774+00:00",
+  "updated": "2026-11-13T04:14:46.076270+00:00",
   "items": [
+    {
+      "title": "US envoys shuttle between Putin and Zelenskyy",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126",
+      "source": "Al Jazeera",
+      "published": "2026-11-13T04:12:01+00:00",
+      "retrieved_at": "2026-11-13T04:14:41.549246+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US envoys Witkoff and Kushner have shuttled between Dublin and Moscow in efforts to broker a Russia-Ukraine peace deal.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d95e891316d02bfab65332a7"
+    },
     {
       "title": "Iran says it targeted US radar site in Bahrain",
       "url": "https://aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ae8a2972dd53c56702f90c08"
-    },
-    {
-      "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
-      "url": "https://aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T10:50:49+00:00",
-      "retrieved_at": "2026-11-09T11:12:39.064780+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Four children and a woman were killed after heavy rain caused a sandbank to collapse on their tent.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f54c79828930e7f46c795a4f"
     }
   ],
   "unverified_history": [
