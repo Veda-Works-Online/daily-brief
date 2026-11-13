@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-13T10:00:23.390092+00:00",
+  "updated": "2026-11-13T10:05:32.060135+00:00",
   "items": [
+    {
+      "title": "Bitdefender Antivirus Plus Review: Undercutting the Competition",
+      "url": "https://wired.com/review/bitdefender-antivirus-plus",
+      "source": "Wired",
+      "published": "2026-11-13T10:00:00+00:00",
+      "retrieved_at": "2026-11-13T10:05:29.310731+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "It’s not promoted very much, but Bitdefender’s stand-alone Antivirus Plus software is both effective and affordable.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "14c46d54d3b56739e0f291fc"
+    },
     {
       "title": "Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year",
       "url": "https://wired.com/story/mint-mobile-phone-deal-november-2026",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "57299300f3a3ce3eae4799c2"
-    },
-    {
-      "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
-      "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech",
-      "source": "Ars Technica AI",
-      "published": "2026-11-04T20:55:50+00:00",
-      "retrieved_at": "2026-11-04T20:59:15.574726+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9b4c20b0c58445b556fd4541"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-13T10:00:18.548393+00:00",
+    "checked_at": "2026-11-13T10:05:28.017694+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
