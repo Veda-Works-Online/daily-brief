@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-14T22:42:18.977961+00:00",
+  "updated": "2026-11-14T23:22:19.604588+00:00",
   "items": [
+    {
+      "title": "Netanyahu says only a unity government can guarantee Israel’s security",
+      "url": "https://aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T23:01:30+00:00",
+      "retrieved_at": "2026-11-14T23:22:16.244026+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Eisenkot, in charge of forming a government, dismisses the appeal as ‘tricks’ as talks and a Knesset speaker vote loom.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "82817851a6fdc63ecdcad18a"
+    },
+    {
+      "title": "Explosion near Syria’s capital kills father and child",
+      "url": "https://aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T22:43:12+00:00",
+      "retrieved_at": "2026-11-14T23:22:16.244042+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Syria’s Internal Security Forces have launched an investigation into a suspected bomb attack in a suburb of Damascus.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "54f70e6a994701a54a1fcf29"
+    },
     {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "url": "https://bbc.co.uk/news/articles/cwvg2l312ylqo",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "07d9200b12b6f08c014b357c"
-    },
-    {
-      "title": "China Wants India’s Market. Does It Want India’s Industrial Rise?",
-      "url": "https://thediplomat.com/2026/11/china-wants-indias-market-does-it-want-indias-industrial-rise",
-      "source": "The Diplomat",
-      "published": "2026-11-10T15:30:00+00:00",
-      "retrieved_at": "2026-11-10T21:25:39.477046+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "China’s export controls, though developed largely for great power competition, have growing significance for India’s industrial future.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4bab52adedf95442f5b7b45c"
-    },
-    {
-      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "url": "https://bbc.co.uk/news/articles/cw4g1g4ll5m1o",
-      "source": "BBC World",
-      "published": "2026-11-10T15:21:18+00:00",
-      "retrieved_at": "2026-11-10T17:29:16.946553+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "21f02474f40e6109d7df5a18"
     }
   ],
   "unverified_history": [
