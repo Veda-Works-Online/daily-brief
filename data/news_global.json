@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-14T11:55:23.314018+00:00",
+  "updated": "2026-11-14T12:00:24.475177+00:00",
   "items": [
+    {
+      "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+      "url": "https://aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T11:43:06+00:00",
+      "retrieved_at": "2026-11-14T12:00:18.836188+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "554c2ac52200e87543713f42"
+    },
     {
       "title": "Ukraine: Zelenskyy says security deal could go to referendum",
       "url": "https://dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a707451742c1f7df318e7119"
-    },
-    {
-      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-      "url": "https://bbc.co.uk/news/articles/cmg474vk6dyqo",
-      "source": "BBC World",
-      "published": "2026-11-10T13:31:14+00:00",
-      "retrieved_at": "2026-11-10T13:34:12.726303+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a947a3c9948fc576fc89f6db"
     }
   ],
   "unverified_history": [
