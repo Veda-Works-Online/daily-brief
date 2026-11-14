@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-14T12:00:15.765940+00:00",
+  "updated": "2026-11-14T12:05:14.235182+00:00",
   "items": [
+    {
+      "title": "How to Run SteamOS on Your Mac",
+      "url": "https://wired.com/story/get-steamos-easily-running-on-your-mac",
+      "source": "Wired",
+      "published": "2026-11-14T12:00:00+00:00",
+      "retrieved_at": "2026-11-14T12:05:06.609438+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "A free app lets you boot SteamOS in a virtual machine on your Apple Silicon Mac, unlocking PC and legacy games that otherwise won’t run.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bf774116afb2a79b725fe6e7"
+    },
     {
       "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
       "url": "https://wired.com/story/audit-all-the-cloud-storage-links-youve-shared",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "04b7e91c443e8b820d0cae61"
-    },
-    {
-      "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
-      "url": "https://wired.com/story/aina-smart-ring",
-      "source": "Wired",
-      "published": "2026-11-05T14:00:00+00:00",
-      "retrieved_at": "2026-11-05T14:07:39.431398+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2cb5eae29a675f74c7ace441"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-14T12:00:07.607117+00:00",
+    "checked_at": "2026-11-14T12:05:05.104693+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
