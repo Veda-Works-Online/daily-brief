@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T10:40:29.633080+00:00",
+  "updated": "2026-11-14T10:50:20.449915+00:00",
   "items": [
     {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bec4b1b5c3794a95a1a070e0"
+    },
+    {
+      "title": "South Sudan postpones first-ever national elections until February",
+      "url": "https://aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T10:30:32+00:00",
+      "retrieved_at": "2026-11-14T10:50:14.892382+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The vote, first expected in 2022, will now be held on February 11, according to the country's election commission.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ff89f8cdd0e4105ef81e3cd4"
     },
     {
       "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "00c2b20f46dc21e3ae84e299"
-    },
-    {
-      "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
-      "url": "https://aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean",
-      "source": "Al Jazeera",
-      "published": "2026-11-10T11:52:34+00:00",
-      "retrieved_at": "2026-11-10T12:18:09.807761+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Analysts say Trump’s comments are more likely to be political posturing than a reflection of serious policy priorities.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "39f31b2dfe1c6b90d921891f"
     }
   ],
   "unverified_history": [
