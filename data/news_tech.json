@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T00:13:33.737118+00:00",
+  "updated": "2026-11-14T00:18:40.077542+00:00",
   "items": [
     {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -374,6 +374,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "14c46d54d3b56739e0f291fc"
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI",
+      "published": "2026-11-13T08:00:00+00:00",
+      "retrieved_at": "2026-11-14T00:18:31.589605+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "b26896d82a5727f6fd8f15a9"
     },
     {
       "title": "Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year",
@@ -3657,23 +3674,6 @@
       "story_fingerprint": "2b73277b6c6e2d23d7c29b9a"
     },
     {
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI",
-      "published": "2026-11-06T00:00:00+00:00",
-      "retrieved_at": "2026-11-06T19:12:32.159052+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "84a9db0d829d8ce3c8ba4a72"
-    },
-    {
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
       "source": "Hugging Face",
@@ -3689,6 +3689,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "dfd4f4b1a6c34171bf4be40c"
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "OpenAI",
+      "published": "2026-11-06T00:00:00+00:00",
+      "retrieved_at": "2026-11-06T19:12:32.159052+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "84a9db0d829d8ce3c8ba4a72"
     },
     {
       "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3ffe8d1cb8eb93fc5ed5f1af"
-    },
-    {
-      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market",
-      "source": "Ars Technica AI",
-      "published": "2026-11-05T12:00:41+00:00",
-      "retrieved_at": "2026-11-05T13:21:04.834184+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d38bbaeba4cc71660441baee"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-14T00:13:27.581477+00:00",
+    "checked_at": "2026-11-14T00:18:30.217951+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
