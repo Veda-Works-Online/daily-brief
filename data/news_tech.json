@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-14T11:30:16.074163+00:00",
+  "updated": "2026-11-14T11:35:15.651111+00:00",
   "items": [
+    {
+      "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
+      "url": "https://wired.com/story/audit-all-the-cloud-storage-links-youve-shared",
+      "source": "Wired",
+      "published": "2026-11-14T11:30:00+00:00",
+      "retrieved_at": "2026-11-14T11:35:09.059773+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Those old links you shared with friends ages ago are still live, and they might be attracting unwelcome visitors.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b52fad9fcceff3365f580e4c"
+    },
     {
       "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
       "url": "https://wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2cb5eae29a675f74c7ace441"
-    },
-    {
-      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai",
-      "source": "TechCrunch AI",
-      "published": "2026-11-05T13:00:00+00:00",
-      "retrieved_at": "2026-11-05T18:51:29.737336+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c3261a042d7239bdeac0f985"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-14T11:30:06.462403+00:00",
+    "checked_at": "2026-11-14T11:35:07.481178+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
