@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-14T20:06:42.664386+00:00",
+  "updated": "2026-11-14T20:46:38.646118+00:00",
   "items": [
+    {
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "url": "https://bbc.co.uk/news/articles/cwvg2l312ylqo",
+      "source": "BBC World",
+      "published": "2026-11-14T20:41:45+00:00",
+      "retrieved_at": "2026-11-14T20:46:33.202077+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bec4b1b5c3794a95a1a070e0"
+    },
     {
       "title": "Deadly car bomb blast kills two near Syria’s capital",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital",
@@ -224,22 +240,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ef231fa84b798a9f89d82c86"
-    },
-    {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "url": "https://bbc.co.uk/news/articles/cwvg2l312ylqo",
-      "source": "BBC World",
-      "published": "2026-11-14T10:30:38+00:00",
-      "retrieved_at": "2026-11-14T10:40:24.130868+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bec4b1b5c3794a95a1a070e0"
     },
     {
       "title": "South Sudan postpones first-ever national elections until February",
