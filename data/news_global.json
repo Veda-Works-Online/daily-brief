@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-14T05:19:22.151924+00:00",
+  "updated": "2026-11-14T06:04:16.382161+00:00",
   "items": [
+    {
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "url": "https://bbc.co.uk/news/articles/ckz74jzpy18do",
+      "source": "BBC World",
+      "published": "2026-11-14T05:52:31+00:00",
+      "retrieved_at": "2026-11-14T06:04:11.135105+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c0bb089ead4fda09ecd131c5"
+    },
     {
       "title": "Trump, Xi and Putin to hold first three-way summit in China",
       "url": "https://aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bfaff34a15b6b7285ab25d16"
-    },
-    {
-      "title": "Khor Mor drone attack raises fears over Iraq’s energy security",
-      "url": "https://aljazeera.com/news-analysis/2026/11/10/khor-mor-drone-attack-raises-fears-over-iraqs-energy-security",
-      "source": "Al Jazeera",
-      "published": "2026-11-10T06:22:00+00:00",
-      "retrieved_at": "2026-11-10T06:42:27.671536+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Drone strike disrupts electricity supply in Iraq's semi-autonomous Kurdish region, renewing concerns about armed groups.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7fdd88ae17cf46814fe66b6c"
     }
   ],
   "unverified_history": [
