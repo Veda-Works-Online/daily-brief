@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-14T13:01:01.119068+00:00",
+  "updated": "2026-11-14T13:06:10.273401+00:00",
   "items": [
+    {
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "url": "https://wired.com/story/beware-the-new-ai-fueled-ransomware-boom",
+      "source": "Wired",
+      "published": "2026-11-14T13:00:00+00:00",
+      "retrieved_at": "2026-11-14T13:06:05.889325+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fe4601328dbaafd6a772297b"
+    },
     {
       "title": "How to Run SteamOS on Your Mac",
       "url": "https://wired.com/story/get-steamos-easily-running-on-your-mac",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8baef56ed32b318b16bafed6"
-    },
-    {
-      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system",
-      "source": "TechCrunch AI",
-      "published": "2026-11-05T14:00:00+00:00",
-      "retrieved_at": "2026-11-05T14:12:29.583591+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "04b7e91c443e8b820d0cae61"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-14T13:00:57.313888+00:00",
+    "checked_at": "2026-11-14T13:05:55.143678+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
