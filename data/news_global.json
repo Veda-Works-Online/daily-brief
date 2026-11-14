@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-14T10:20:22.788375+00:00",
+  "updated": "2026-11-14T10:40:29.633080+00:00",
   "items": [
+    {
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "url": "https://bbc.co.uk/news/articles/cwvg2l312ylqo",
+      "source": "BBC World",
+      "published": "2026-11-14T10:30:38+00:00",
+      "retrieved_at": "2026-11-14T10:40:24.130868+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bec4b1b5c3794a95a1a070e0"
+    },
     {
       "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
       "url": "https://aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "39f31b2dfe1c6b90d921891f"
-    },
-    {
-      "title": "Who moves first in Iran-US diplomacy?",
-      "url": "https://aljazeera.com/opinions/2026/11/10/who-moves-first-in-iran-us-diplomacy",
-      "source": "Al Jazeera",
-      "published": "2026-11-10T11:14:16+00:00",
-      "retrieved_at": "2026-11-10T11:23:16.437154+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Breaking the deadlock requires coordinated, verifiable concessions, not demands for one side to act first.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5113ead4b4913d3f5a999573"
     }
   ],
   "unverified_history": [
