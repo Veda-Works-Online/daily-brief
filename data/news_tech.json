@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-14T21:41:31.735970+00:00",
+  "updated": "2026-11-14T21:46:31.455011+00:00",
   "items": [
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
+      "source": "TechCrunch AI",
+      "published": "2026-11-14T21:41:22+00:00",
+      "retrieved_at": "2026-11-14T21:46:26.265383+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "194ee82f6c515d35975f5736"
+    },
     {
       "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
       "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "715e95ecd06655f5832e29c9"
-    },
-    {
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure",
-      "source": "TechCrunch AI",
-      "published": "2026-11-05T15:19:05+00:00",
-      "retrieved_at": "2026-11-05T15:22:50.318627+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "12626b2120fd2b35209b0c4b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-14T21:41:26.102292+00:00",
+    "checked_at": "2026-11-14T21:46:25.804361+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
