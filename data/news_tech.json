@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-14T17:26:34.120166+00:00",
+  "updated": "2026-11-14T17:31:38.570747+00:00",
   "items": [
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "source": "TechCrunch AI",
+      "published": "2026-11-14T17:30:00+00:00",
+      "retrieved_at": "2026-11-14T17:31:29.413477+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8316e142267b1aef5e8a32ea"
+    },
     {
       "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
       "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e0ebee1c58c422f583d3a43a"
-    },
-    {
-      "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
-      "url": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud",
-      "source": "TechCrunch",
-      "published": "2026-11-05T15:00:00+00:00",
-      "retrieved_at": "2026-11-05T15:02:39.327470+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "ElevenLabs said more than 25 million tracks have been generated using its music models.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "90633108fd8d85d57feb9d6f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-14T17:26:28.538108+00:00",
+    "checked_at": "2026-11-14T17:31:28.925061+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
