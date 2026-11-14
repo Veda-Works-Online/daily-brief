@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T08:45:24.214599+00:00",
+  "updated": "2026-11-14T09:00:27.357147+00:00",
   "items": [
     {
       "title": "Sudan: Misery worsens amid plummeting aid for displaced people",
@@ -256,6 +256,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cc0e733fef1dad7feaa8f438"
+    },
+    {
+      "title": "Estonia bans Russian athletes as backlash intensifies",
+      "url": "https://bbc.co.uk/sport/articles/cm4gn9lvlgy2o",
+      "source": "BBC World",
+      "published": "2026-11-13T17:54:33+00:00",
+      "retrieved_at": "2026-11-14T09:00:21.602757+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a372ece965852d79c0be54fb"
     },
     {
       "title": "The fight over Canadian steelworker jobs",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "18189f1e6eb7453010bc1555"
-    },
-    {
-      "title": "Nvidia spy scandal fuels debate over chip exports to China",
-      "url": "https://aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china",
-      "source": "Al Jazeera",
-      "published": "2026-11-10T09:42:04+00:00",
-      "retrieved_at": "2026-11-10T09:53:07.423565+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO's relationship with alleged spy.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "933cf0f1cf7dd6f7677b9841"
     }
   ],
   "unverified_history": [
