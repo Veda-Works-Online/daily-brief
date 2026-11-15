@@ -1,14 +1,30 @@
 {
-  "updated": "2026-11-15T00:17:14.254523+00:00",
+  "updated": "2026-11-15T00:57:20.987000+00:00",
   "items": [
+    {
+      "title": "Hundreds of men march in Switzerland to protest violence against women",
+      "url": "https://aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women",
+      "source": "Al Jazeera",
+      "published": "2026-11-15T00:27:14+00:00",
+      "retrieved_at": "2026-11-15T00:57:17.810404+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c62213bf87065371c6ec012a"
+    },
     {
       "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
       "url": "https://aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status",
       "source": "Al Jazeera",
       "published": "2026-11-15T00:00:08+00:00",
-      "retrieved_at": "2026-11-15T00:17:11.071120+00:00",
+      "retrieved_at": "2026-11-15T00:57:17.810433+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel has pledged to continue its 'offensive policy' on Gaza as fighting in Yemen grips the region.",
+      "summary": "Israel has pledged to continue its 'offensive policy' on Gaza, as fighting in Yemen grips the region.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "93bf07cc15058375ebd82d0c"
-    },
-    {
-      "title": "Israel's new parliament sworn in as leaders compete to form government",
-      "url": "https://bbc.co.uk/news/articles/crd939lpzjp9o",
-      "source": "BBC World",
-      "published": "2026-11-10T15:51:09+00:00",
-      "retrieved_at": "2026-11-10T15:54:11.067917+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6b2cf403c483242e313f81c3"
     }
   ],
   "unverified_history": [
