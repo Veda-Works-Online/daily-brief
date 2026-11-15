@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-15T20:20:59.255390+00:00",
+  "updated": "2026-11-15T20:26:01.305194+00:00",
   "items": [
+    {
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
+      "source": "TechCrunch AI",
+      "published": "2026-11-15T20:20:57+00:00",
+      "retrieved_at": "2026-11-15T20:25:54.087878+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8b6dcab051617059d3ec85df"
+    },
     {
       "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
       "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "10ef8bb4d879e07df284a261"
-    },
-    {
-      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
-      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite",
-      "source": "TechCrunch",
-      "published": "2026-11-05T17:11:48+00:00",
-      "retrieved_at": "2026-11-05T18:51:30.763779+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "552ed06ab79ff0589d3c2b69"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-15T20:20:53.569785+00:00",
+    "checked_at": "2026-11-15T20:25:53.494880+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
