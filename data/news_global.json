@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-15T21:01:15.470533+00:00",
+  "updated": "2026-11-15T21:31:06.662452+00:00",
   "items": [
+    {
+      "title": "Yemen’s Houthis unilaterally release 600 war detainees",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees",
+      "source": "Al Jazeera",
+      "published": "2026-11-15T21:19:08+00:00",
+      "retrieved_at": "2026-11-15T21:31:01.506807+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "18c18e08d30c545deb62980a"
+    },
     {
       "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1319f30f04b31a34d58ee595"
-    },
-    {
-      "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
-      "url": "https://aljazeera.com/news/2026/11/11/everything-and-everyone-we-love-is-at-stake-thunberg-slams-cop31-talks",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T00:24:27+00:00",
-      "retrieved_at": "2026-11-11T00:36:20.395483+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Climate activist urges world leaders to put people and planet before profit as she arrives at UN climate talks.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "72db428f9507acb6bd3f10fa"
     }
   ],
   "unverified_history": [
