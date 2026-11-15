@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-15T15:45:06.187715+00:00",
+  "updated": "2026-11-15T16:00:04.340862+00:00",
   "items": [
+    {
+      "title": "Trump barred from closing 'Trash Island' golf course on Sunday",
+      "url": "https://bbc.co.uk/news/articles/c6j9mn7l14y0o",
+      "source": "BBC World",
+      "published": "2026-11-15T15:57:03+00:00",
+      "retrieved_at": "2026-11-15T15:59:59.117311+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6be1fcca2df38400659dac2d"
+    },
     {
       "title": "70 bodies recovered from Gaza rubble, thousands still missing",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing",
@@ -400,22 +416,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "89d6e17c4a414472643c000a"
-    },
-    {
-      "title": "Trump barred from closing 'Trash Island' golf course on Sunday",
-      "url": "https://bbc.co.uk/news/articles/c6j9mn7l14y0o",
-      "source": "BBC World",
-      "published": "2026-11-15T03:21:04+00:00",
-      "retrieved_at": "2026-11-15T15:30:00.070133+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6be1fcca2df38400659dac2d"
     },
     {
       "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
