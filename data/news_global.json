@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-15T15:10:03.510816+00:00",
+  "updated": "2026-11-15T15:15:09.781671+00:00",
   "items": [
+    {
+      "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power",
+      "source": "Al Jazeera",
+      "published": "2026-11-15T15:01:54+00:00",
+      "retrieved_at": "2026-11-15T15:15:04.436324+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "25c3f57c55c17874727e07bb"
+    },
     {
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "url": "https://bbc.co.uk/news/articles/cmdx1vpprk9vo",
@@ -16,6 +32,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e3efb2c4fdfaf43e467c5d63"
+    },
+    {
+      "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon",
+      "source": "Al Jazeera",
+      "published": "2026-11-15T14:55:40+00:00",
+      "retrieved_at": "2026-11-15T15:15:04.436355+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "03406104df0bc8e0baeb2b07"
     },
     {
       "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "de21610b70c2c0bc912e50f4"
-    },
-    {
-      "title": "White House announces funds for law enforcement programme in several cities",
-      "url": "https://aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities",
-      "source": "Al Jazeera",
-      "published": "2026-11-10T21:00:01+00:00",
-      "retrieved_at": "2026-11-10T21:10:42.603316+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump administration awarded more than $60m each to St Louis, Missouri, and Jackson, Mississippi, in crime push.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "623423ef34636e7134031283"
-    },
-    {
-      "title": "US soldier arrested in UK on suspicion of spying for Russia",
-      "url": "https://aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage",
-      "source": "Al Jazeera",
-      "published": "2026-11-10T20:41:53+00:00",
-      "retrieved_at": "2026-11-10T20:55:58.044281+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "London Metropolitan Police says its 'counterterror' forces worked closely with the FBI and US military to make arrest.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "649a442a0543f90168f0d434"
     }
   ],
   "unverified_history": [
