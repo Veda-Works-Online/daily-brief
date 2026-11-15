@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-15T23:25:57.064262+00:00",
+  "updated": "2026-11-15T23:31:38.294487+00:00",
   "items": [
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
+      "source": "TechCrunch AI",
+      "published": "2026-11-15T23:30:00+00:00",
+      "retrieved_at": "2026-11-15T23:31:32.212063+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6e54d867e4a2d2a7a8cc3df1"
+    },
     {
       "title": "A step toward defining the Standard Model on a lattice",
       "url": "https://openai.com/index/step-toward-defining-the-standard-model",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1123f507d65e4c945b0a9677"
-    },
-    {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027",
-      "source": "TechCrunch AI",
-      "published": "2026-11-05T18:02:27+00:00",
-      "retrieved_at": "2026-11-05T22:06:18.002001+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1ac98bfcfa6c34ea225623ea"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-15T23:25:51.424041+00:00",
+    "checked_at": "2026-11-15T23:31:31.858751+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
