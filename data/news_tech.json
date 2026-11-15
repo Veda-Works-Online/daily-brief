@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-15T17:04:59.457037+00:00",
+  "updated": "2026-11-15T17:09:55.282304+00:00",
   "items": [
+    {
+      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+      "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry",
+      "source": "TechCrunch",
+      "published": "2026-11-15T17:05:00+00:00",
+      "retrieved_at": "2026-11-15T17:09:51.039844+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "50bc5f8352c7ee99d8bf4116"
+    },
     {
       "title": "AI DJs Completely Kill My Groove",
       "url": "https://wired.com/story/ai-djs-completely-kill-my-groove",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "552ed06ab79ff0589d3c2b69"
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
-      "source": "Google DeepMind",
-      "published": "2026-11-05T17:05:16+00:00",
-      "retrieved_at": "2026-11-05T18:51:30.311025+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "e0f9f3a497adf69d32489fd1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-15T17:04:51.830533+00:00",
+    "checked_at": "2026-11-15T17:09:49.737237+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
