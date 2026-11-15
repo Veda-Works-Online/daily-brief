@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-15T12:04:03.887223+00:00",
+  "updated": "2026-11-15T12:09:07.779065+00:00",
   "items": [
+    {
+      "title": "AI DJs Completely Kill My Groove",
+      "url": "https://wired.com/story/ai-djs-completely-kill-my-groove",
+      "source": "Wired",
+      "published": "2026-11-15T12:00:00+00:00",
+      "retrieved_at": "2026-11-15T12:09:05.442900+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4cbc34a11aaef437746096e5"
+    },
     {
       "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
       "url": "https://wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "e0f9f3a497adf69d32489fd1"
-    },
-    {
-      "title": "Australian universities are creating AI-native graduates",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "source": "OpenAI",
-      "published": "2026-11-05T17:00:00+00:00",
-      "retrieved_at": "2026-11-06T02:09:59.455430+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "b01175ba7cde084faded07b5"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-15T12:04:00.486092+00:00",
+    "checked_at": "2026-11-15T12:09:04.234411+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
