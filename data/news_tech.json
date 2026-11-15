@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-15T11:04:05.150446+00:00",
+  "updated": "2026-11-15T11:09:06.178803+00:00",
   "items": [
+    {
+      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "url": "https://wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets",
+      "source": "Wired",
+      "published": "2026-11-15T11:00:00+00:00",
+      "retrieved_at": "2026-11-15T11:09:00.704771+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1f395cd7b63108fda5c3b3f5"
+    },
     {
       "title": "Where was Nvidia’s security team?",
       "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "b01175ba7cde084faded07b5"
-    },
-    {
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics",
-      "source": "TechCrunch AI",
-      "published": "2026-11-05T16:16:45+00:00",
-      "retrieved_at": "2026-11-05T18:51:29.737261+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "274dbcd9d8f79bec682534da"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-15T11:04:01.678551+00:00",
+    "checked_at": "2026-11-15T11:08:59.563406+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
