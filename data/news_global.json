@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-15T06:58:09.856022+00:00",
+  "updated": "2026-11-15T07:23:12.160699+00:00",
   "items": [
+    {
+      "title": "ASEAN summit: Who’s attending and what’s at stake?",
+      "url": "https://aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake",
+      "source": "Al Jazeera",
+      "published": "2026-11-15T07:11:24+00:00",
+      "retrieved_at": "2026-11-15T07:23:08.620732+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "415331a189081accbb89353d"
+    },
     {
       "title": "Israel: Making the Holy Land burn",
       "url": "https://aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "49ee740f2edb8e86ffd1f079"
-    },
-    {
-      "title": "Arrests made after visit from former US President Biden",
-      "url": "https://bbc.co.uk/news/articles/ck78p827y642o",
-      "source": "BBC World",
-      "published": "2026-11-10T18:07:56+00:00",
-      "retrieved_at": "2026-11-10T20:20:51.398490+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "65b999d7ca8713c8c9c15df0"
     }
   ],
   "unverified_history": [
