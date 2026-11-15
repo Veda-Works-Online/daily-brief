@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-15T02:07:16.937236+00:00",
+  "updated": "2026-11-15T03:12:19.793848+00:00",
   "items": [
+    {
+      "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
+      "url": "https://aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh",
+      "source": "Al Jazeera",
+      "published": "2026-11-15T02:59:06+00:00",
+      "retrieved_at": "2026-11-15T03:12:16.675149+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "15f107f6260d2be319abe95b"
+    },
     {
       "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
       "url": "https://aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold",
@@ -50,20 +66,20 @@
       "story_fingerprint": "c62213bf87065371c6ec012a"
     },
     {
-      "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+      "title": "Iran war live: Saudi-led coalition strikes down 3 drones in as many hours",
       "url": "https://aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status",
       "source": "Al Jazeera",
       "published": "2026-11-15T00:00:08+00:00",
-      "retrieved_at": "2026-11-15T00:57:17.810433+00:00",
+      "retrieved_at": "2026-11-15T03:12:16.675234+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel has pledged to continue its 'offensive policy' on Gaza, as fighting in Yemen grips the region.",
+      "summary": "Saudi-led coalition strikes down three Houthi drones in as many hours as Bahrain issues potential danger alert.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "36010aad3158b7d086c5446c"
+      "story_fingerprint": "948f150f4e990ded9ea247f2"
     },
     {
       "title": "Netanyahu says only a unity government can guarantee Israel’s security",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9108323ccfb2bdaad14366c6"
-    },
-    {
-      "title": "Israeli president warns against repeat election in new Knesset session",
-      "url": "https://aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session",
-      "source": "Al Jazeera",
-      "published": "2026-11-10T17:16:15+00:00",
-      "retrieved_at": "2026-11-10T17:39:20.301236+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Herzog calls for an inquiry into the October 7 attacks during a Knesset session amid political gridlock following elections.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bf9e2313acb3ea2de3186d44"
     }
   ],
   "unverified_history": [
