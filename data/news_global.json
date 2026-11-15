@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-15T06:38:07.675609+00:00",
+  "updated": "2026-11-15T06:58:09.856022+00:00",
   "items": [
+    {
+      "title": "Israel: Making the Holy Land burn",
+      "url": "https://aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn",
+      "source": "Al Jazeera",
+      "published": "2026-11-15T06:49:14+00:00",
+      "retrieved_at": "2026-11-15T06:58:06.143324+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7fe851c07c0977f298653db1"
+    },
     {
       "title": "Secret votes and vetoes: How will the next UN chief be picked?",
       "url": "https://aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "65b999d7ca8713c8c9c15df0"
-    },
-    {
-      "title": "Victims of Nazi war in Poland call on Germany for support",
-      "url": "https://dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311",
-      "source": "DW",
-      "published": "2026-11-10T17:53:00+00:00",
-      "retrieved_at": "2026-11-10T18:04:21.148085+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "More than 80 years after the end of World War II, Polish victims of the Nazi regime are still waiting for a \"humanitarian gesture\" from Germany. The 2027 draft budget hasn't left them much hope for possible reparations.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c3e12412bf04ea0503d59349"
     }
   ],
   "unverified_history": [
