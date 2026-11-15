@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-15T03:22:24.066132+00:00",
+  "updated": "2026-11-15T03:28:14.791267+00:00",
   "items": [
+    {
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "url": "https://bbc.co.uk/news/articles/c6j9mn7l14y0o",
+      "source": "BBC World",
+      "published": "2026-11-15T03:21:04+00:00",
+      "retrieved_at": "2026-11-15T03:28:11.174516+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0e4131d7f6e569cfb4540c62"
+    },
     {
       "title": "Saudi-led coalition intercepts two missiles, two drones in Riyadh",
       "url": "https://aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh",
@@ -70,9 +86,9 @@
       "url": "https://aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status",
       "source": "Al Jazeera",
       "published": "2026-11-15T00:00:08+00:00",
-      "retrieved_at": "2026-11-15T03:22:21.064313+00:00",
+      "retrieved_at": "2026-11-15T03:28:11.159532+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Saudi-led coalition strikes down three Houthi drones in as many hours as Bahrain issues potential danger alert.",
+      "summary": "Saudi-led coalition strikes down three Houthi drones in as many hours, as Bahrain issues potential danger alert.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5a6b6b9b54722c003b4e493a"
-    },
-    {
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "url": "https://bbc.co.uk/news/articles/cqpvgvrpjvv8o",
-      "source": "BBC World",
-      "published": "2026-11-10T17:29:36+00:00",
-      "retrieved_at": "2026-11-10T17:34:24.503060+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9108323ccfb2bdaad14366c6"
     }
   ],
   "unverified_history": [
