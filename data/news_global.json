@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-15T08:13:07.964585+00:00",
+  "updated": "2026-11-15T08:23:14.134796+00:00",
   "items": [
+    {
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "url": "https://bbc.co.uk/news/articles/cqrkg4r6mg7xo",
+      "source": "BBC World",
+      "published": "2026-11-15T08:17:41+00:00",
+      "retrieved_at": "2026-11-15T08:23:10.471708+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "61530e3724983bfe24f2d4b8"
+    },
     {
       "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
       "url": "https://aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b701885c75a18fd7d2c20a53"
-    },
-    {
-      "title": "'If I tell you to run, run': BBC joins a Ukrainian drone unit as it protects a front-line city",
-      "url": "https://bbc.co.uk/news/videos/cm2l4l59gjp7o",
-      "source": "BBC World",
-      "published": "2026-11-10T18:35:35+00:00",
-      "retrieved_at": "2026-11-11T08:47:06.378013+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of its pre-war population remaining.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3a4befc33505b7581dfa6d18"
     }
   ],
   "unverified_history": [
