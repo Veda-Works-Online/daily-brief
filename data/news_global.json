@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-15T00:57:20.987000+00:00",
+  "updated": "2026-11-15T01:32:18.972476+00:00",
   "items": [
+    {
+      "title": "Israeli air strike kills senior Hamas commander in Gaza",
+      "url": "https://aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza",
+      "source": "Al Jazeera",
+      "published": "2026-11-15T01:00:42+00:00",
+      "retrieved_at": "2026-11-15T01:32:15.797032+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "89c617bd0cd8ac701b06aef4"
+    },
     {
       "title": "Hundreds of men march in Switzerland to protest violence against women",
       "url": "https://aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4842f873975d741d0f6599a1"
-    },
-    {
-      "title": "Iran denies role in fridge hack, France summons ambassador",
-      "url": "https://dw.com/en/iran-denies-role-in-fridge-hack-france-summons-ambassador/a-79910206",
-      "source": "DW",
-      "published": "2026-11-10T15:57:00+00:00",
-      "retrieved_at": "2026-11-10T16:14:19.846704+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "France has said it rules \"nothing\" out in response to a cyberattack on supermarket refrigeration units. Iran, however, said it categorically rejected Paris' \"baseless and one-sided accusations\" of IRGC involvement.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "93bf07cc15058375ebd82d0c"
     }
   ],
   "unverified_history": [
