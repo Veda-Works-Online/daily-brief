@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-16T20:39:37.396462+00:00",
+  "updated": "2026-11-16T20:44:36.523634+00:00",
   "items": [
+    {
+      "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day",
+      "source": "Ars Technica",
+      "published": "2026-11-16T20:37:47+00:00",
+      "retrieved_at": "2026-11-16T20:44:30.596842+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8771fa97e644f02c7aafee18"
+    },
     {
       "title": "California state AG sues OpenAI over rogue agent incidents",
       "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2b12519cb18cd3486ba72c1c"
-    },
-    {
-      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "url": "https://wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking",
-      "source": "Wired",
-      "published": "2026-11-06T18:43:43+00:00",
-      "retrieved_at": "2026-11-06T18:47:32.754958+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ef37ce2a7a4847fc040742ae"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T20:39:30.566081+00:00",
+    "checked_at": "2026-11-16T20:44:28.242929+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
