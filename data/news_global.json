@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-16T15:33:59.910816+00:00",
+  "updated": "2026-11-16T16:04:04.846280+00:00",
   "items": [
+    {
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "url": "https://bbc.co.uk/news/articles/cw987343352go",
+      "source": "BBC World",
+      "published": "2026-11-16T16:03:24+00:00",
+      "retrieved_at": "2026-11-16T16:04:00.768451+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6c49a93e87cb26311dc52d97"
+    },
     {
       "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
       "url": "https://bbc.co.uk/news/articles/cry49plv8v3go",
@@ -16,6 +32,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "61d25396f374f848c998c757"
+    },
+    {
+      "title": "Students protest as air pollution chokes New Delhi",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/16/students-protest-as-air-pollution-chokes-new-delhi",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T15:27:07+00:00",
+      "retrieved_at": "2026-11-16T16:04:00.808300+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Students have taken to the streets to demand accountability from authorities over toxic air pollution in New Delhi.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7c4cf34b3ce6be4b940e286a"
     },
     {
       "title": "Why Starshield limits are hurting Ukraine against jet-powered drones",
@@ -160,22 +192,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "31d055abb45bcba9a495e77d"
-    },
-    {
-      "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
-      "url": "https://bbc.co.uk/news/articles/cw987343352go",
-      "source": "BBC World",
-      "published": "2026-11-16T11:17:34+00:00",
-      "retrieved_at": "2026-11-16T11:27:55.997999+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "92c3e81b06d61ad74af037aa"
     },
     {
       "title": "Lebanon’s second airport could provide economic and political benefits",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c24616945962f98ebd8ade6f"
-    },
-    {
-      "title": "‘Climate crisis is outrunning us,’ UN chief Guterres says at COP31",
-      "url": "https://aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T12:48:21+00:00",
-      "retrieved_at": "2026-11-11T12:58:10.903848+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Guterres says the world must fight harder, accuses the fossil fuel lobby of delaying climate action at critical talks.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "84b2b286caa24f3fbb872c6a"
     }
   ],
   "unverified_history": [
