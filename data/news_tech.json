@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-16T23:30:20.656643+00:00",
+  "updated": "2026-11-16T23:35:12.928407+00:00",
   "items": [
+    {
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
+      "source": "TechCrunch",
+      "published": "2026-11-16T23:32:32+00:00",
+      "retrieved_at": "2026-11-16T23:35:09.594130+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised an $125 million Series A at a $1 billion valuation led by NEA.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cc8900f6b62530e26f0cc45c"
+    },
     {
       "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
       "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse",
@@ -108,9 +125,9 @@
       "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents",
       "source": "TechCrunch AI",
       "published": "2026-11-16T20:07:13+00:00",
-      "retrieved_at": "2026-11-16T20:09:39.523760+00:00",
+      "retrieved_at": "2026-11-16T23:35:08.981362+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -325,23 +342,6 @@
       "story_fingerprint": "724f96e760d78e7a462fe50e"
     },
     {
-      "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
-      "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts",
-      "source": "TechCrunch",
-      "published": "2026-11-16T17:00:00+00:00",
-      "retrieved_at": "2026-11-16T17:03:51.251778+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "493909ebb2855e9aece39ea5"
-    },
-    {
       "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
       "url": "https://wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts",
       "source": "Wired",
@@ -357,6 +357,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "15d67327d285c6783f409306"
+    },
+    {
+      "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+      "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts",
+      "source": "TechCrunch",
+      "published": "2026-11-16T17:00:00+00:00",
+      "retrieved_at": "2026-11-16T17:03:51.251778+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "493909ebb2855e9aece39ea5"
     },
     {
       "title": "Jensen Huang Is Gone. Now What?",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "45d746c4df5b2a7db6b846c6"
-    },
-    {
-      "title": "The Cybertruck’s Death Is Actually Great News for EVs",
-      "url": "https://wired.com/story/cybertrucks-death-great-news-for-evs",
-      "source": "Wired",
-      "published": "2026-11-06T22:31:15+00:00",
-      "retrieved_at": "2026-11-07T04:48:50.260614+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Tesla’s biggest failure is the second massive EV to get the axe within the last year, while smaller vehicles are proliferating. It could be a huge benefit for the US battery supply chain.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e99cb159ec00e7a1b152d6dd"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T23:30:16.383140+00:00",
+    "checked_at": "2026-11-16T23:35:08.709777+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
