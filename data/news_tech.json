@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-16T21:45:22.739550+00:00",
+  "updated": "2026-11-16T21:50:13.427690+00:00",
   "items": [
+    {
+      "title": "The Bank Outage May Have Nothing to Do With Your Bank",
+      "url": "https://wired.com/story/jpmorganchase-bank-outage-oh-come-on",
+      "source": "Wired",
+      "published": "2026-11-16T21:45:45+00:00",
+      "retrieved_at": "2026-11-16T21:50:09.486675+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a “technical issue” with its “on-premise hardware systems” may be causing “slowness” with transactions at outside banks.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f50dc025f5c994682b1b2473"
+    },
     {
       "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
       "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6a5fafcb62bfb041e1bbe39e"
-    },
-    {
-      "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
-      "url": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade",
-      "source": "Ars Technica",
-      "published": "2026-11-06T19:12:28+00:00",
-      "retrieved_at": "2026-11-06T21:42:57.750595+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "FAA information display systems to be floppy-free at 435 sites by end of 2028.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c0ef0deb0a84a75b142492d1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T21:45:16.786676+00:00",
+    "checked_at": "2026-11-16T21:50:08.645191+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
