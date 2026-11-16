@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T17:18:56.435073+00:00",
+  "updated": "2026-11-16T17:23:48.776749+00:00",
   "items": [
     {
       "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
@@ -34,6 +34,40 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9fbf2bc509769e25b23b4fc0"
+    },
+    {
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI",
+      "published": "2026-11-16T17:00:00+00:00",
+      "retrieved_at": "2026-11-16T17:23:45.009838+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "5a29c622e2a75b492b04133c"
+    },
+    {
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "source": "OpenAI",
+      "published": "2026-11-16T17:00:00+00:00",
+      "retrieved_at": "2026-11-16T17:23:45.009876+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "ad4cc6694f3e2d42b4aa2b99"
     },
     {
       "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
@@ -238,6 +272,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "35a23d26da7f5e937ec6809c"
+    },
+    {
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "source": "OpenAI",
+      "published": "2026-11-16T12:00:00+00:00",
+      "retrieved_at": "2026-11-16T17:23:45.009889+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "6dde054c8ff32cf4d057ff0c"
     },
     {
       "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
@@ -4199,57 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bf115804a79055c1eded8db4"
-    },
-    {
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop",
-      "source": "TechCrunch AI",
-      "published": "2026-11-06T14:10:00+00:00",
-      "retrieved_at": "2026-11-06T14:46:59.571147+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "01686f1940266c7741e495bd"
-    },
-    {
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "source": "Hugging Face",
-      "published": "2026-11-06T14:00:48+00:00",
-      "retrieved_at": "2026-11-06T14:02:05.744898+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "00261145b4a7d906b3cf0f1d"
-    },
-    {
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo",
-      "source": "TechCrunch AI",
-      "published": "2026-11-06T13:02:16+00:00",
-      "retrieved_at": "2026-11-06T13:06:46.304346+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "89f410137b217345fa8ba4ae"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T17:18:50.957848+00:00",
+    "checked_at": "2026-11-16T17:23:44.110103+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
