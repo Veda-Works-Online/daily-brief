@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T21:09:32.900809+00:00",
+  "updated": "2026-11-16T21:14:29.361477+00:00",
   "items": [
     {
       "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
@@ -561,6 +561,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5c6fe4461136c3a9eaa413b8"
+    },
+    {
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "source": "OpenAI",
+      "published": "2026-11-16T00:00:00+00:00",
+      "retrieved_at": "2026-11-16T21:14:24.450145+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "efba40e4f3a179bef51d1307"
     },
     {
       "title": "The King’s Trust and OpenAI launch £1m partnership",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c0ef0deb0a84a75b142492d1"
-    },
-    {
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web",
-      "source": "TechCrunch AI",
-      "published": "2026-11-06T18:44:38+00:00",
-      "retrieved_at": "2026-11-06T18:47:31.903647+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b6bedf6e7df3868ee3b1468e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T21:09:29.714308+00:00",
+    "checked_at": "2026-11-16T21:14:23.624400+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
