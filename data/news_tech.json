@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T17:28:57.266274+00:00",
+  "updated": "2026-11-16T17:33:48.790844+00:00",
   "items": [
     {
       "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
@@ -6329,33 +6329,6 @@
         "source_status": "CURRENT"
       },
       {
-        "id": "nvidia/DeepSeek-V4-Pro-0813-nvfp4-DSpark",
-        "name": "DeepSeek-V4-Pro-0813-nvfp4-DSpark",
-        "publisher": "nvidia",
-        "licence": "mit",
-        "published": "2026-09-09T17:47:04+00:00",
-        "url": "https://huggingface.co/nvidia/DeepSeek-V4-Pro-0813-nvfp4-DSpark",
-        "source_status": "CURRENT"
-      },
-      {
-        "id": "nvidia/Qwen3.8-27B-NVFP4",
-        "name": "Qwen3.8-27B-NVFP4",
-        "publisher": "nvidia",
-        "licence": "apache-2.0",
-        "published": "2026-09-04T21:43:04+00:00",
-        "url": "https://huggingface.co/nvidia/Qwen3.8-27B-NVFP4",
-        "source_status": "CURRENT"
-      },
-      {
-        "id": "nvidia/DeepSeek-V4-Pro-0813-NVFP4",
-        "name": "DeepSeek-V4-Pro-0813-NVFP4",
-        "publisher": "nvidia",
-        "licence": "mit",
-        "published": "2026-08-27T10:39:25+00:00",
-        "url": "https://huggingface.co/nvidia/DeepSeek-V4-Pro-0813-NVFP4",
-        "source_status": "CURRENT"
-      },
-      {
         "id": "allenai/Bwen-8B",
         "name": "Bwen-8B",
         "publisher": "allenai",
@@ -6389,15 +6362,6 @@
         "licence": "apache-2.0",
         "published": "2026-08-26T13:12:59+00:00",
         "url": "https://huggingface.co/allenai/Bolmo-7B-Stage1",
-        "source_status": "CURRENT"
-      },
-      {
-        "id": "nvidia/DeepSeek-V4-Flash-0731-NVFP4",
-        "name": "DeepSeek-V4-Flash-0731-NVFP4",
-        "publisher": "nvidia",
-        "licence": "mit",
-        "published": "2026-08-19T17:09:47+00:00",
-        "url": "https://huggingface.co/nvidia/DeepSeek-V4-Flash-0731-NVFP4",
         "source_status": "CURRENT"
       },
       {
@@ -6435,9 +6399,45 @@
         "published": "2026-08-13T21:04:44+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-3b-nvfp4",
         "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-4.2-3b-mxfp4",
+        "name": "granite-4.2-3b-mxfp4",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-08-13T21:04:23+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.2-3b-mxfp4",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-4.2-3b-fp8",
+        "name": "granite-4.2-3b-fp8",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-08-13T21:03:50+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.2-3b-fp8",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-4.2-30b-nvfp4",
+        "name": "granite-4.2-30b-nvfp4",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-08-13T21:03:19+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-nvfp4",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "ibm-granite/granite-4.2-30b-mxfp4",
+        "name": "granite-4.2-30b-mxfp4",
+        "publisher": "ibm-granite",
+        "licence": "apache-2.0",
+        "published": "2026-08-13T21:02:51+00:00",
+        "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-mxfp4",
+        "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T17:28:52.675365+00:00",
+    "checked_at": "2026-11-16T17:33:44.265371+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
