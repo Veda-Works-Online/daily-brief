@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-16T12:57:51.724173+00:00",
+  "updated": "2026-11-16T13:02:50.459321+00:00",
   "items": [
+    {
+      "title": "After dodging death, battery startup Our Next Energy is now going public",
+      "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public",
+      "source": "TechCrunch",
+      "published": "2026-11-16T13:00:00+00:00",
+      "retrieved_at": "2026-11-16T13:02:45.502515+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in a the cutthroat battery industry?",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5c55e83219f58a1a350bcc34"
+    },
+    {
+      "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+      "url": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings",
+      "source": "TechCrunch",
+      "published": "2026-11-16T13:00:00+00:00",
+      "retrieved_at": "2026-11-16T13:02:45.502532+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Geothermal heat pumps could free up significant space on the grid. Bedrock Energy raised $24 million to bring its AI-guided drill rigs to more markets.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6ab104034bc47e6afd49e481"
+    },
     {
       "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
       "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "236f23749fd678edf07b9f86"
-    },
-    {
-      "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
-      "url": "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven",
-      "source": "Ars Technica",
-      "published": "2026-11-05T20:45:50+00:00",
-      "retrieved_at": "2026-11-05T22:26:18.010181+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "BMW has updated its flagship sedan with the newest EV and infotainment tech.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b11bac65cc60b9408ca7e916"
-    },
-    {
-      "title": "Cult.fit builds operational muscle with Codex",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "source": "OpenAI",
-      "published": "2026-11-05T20:00:00+00:00",
-      "retrieved_at": "2026-11-06T01:04:55.638402+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "5a7e54ba0d43170e379c369a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T12:57:46.791627+00:00",
+    "checked_at": "2026-11-16T13:02:44.722336+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
