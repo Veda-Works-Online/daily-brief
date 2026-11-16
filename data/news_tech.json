@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-16T22:55:10.471805+00:00",
+  "updated": "2026-11-16T23:00:14.647293+00:00",
   "items": [
+    {
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse",
+      "source": "Ars Technica AI",
+      "published": "2026-11-16T22:58:27+00:00",
+      "retrieved_at": "2026-11-16T23:00:08.025736+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "77c9f51862c58e5d9fd06164"
+    },
     {
       "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
       "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e99cb159ec00e7a1b152d6dd"
-    },
-    {
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers",
-      "source": "Ars Technica",
-      "published": "2026-11-06T20:56:41+00:00",
-      "retrieved_at": "2026-11-06T21:42:57.750531+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "df58bae0c587a77785e3115e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T22:55:06.480547+00:00",
+    "checked_at": "2026-11-16T23:00:07.248111+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
