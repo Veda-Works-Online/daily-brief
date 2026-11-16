@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-16T16:18:59.655837+00:00",
+  "updated": "2026-11-16T16:44:07.706266+00:00",
   "items": [
+    {
+      "title": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race",
+      "url": "https://dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766",
+      "source": "DW",
+      "published": "2026-11-16T16:32:00+00:00",
+      "retrieved_at": "2026-11-16T16:44:03.482628+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The controversy surrounding Nvidia and its former CEO Jensen Huang has put a spotlight on the intensifying AI race between the US and China.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9edebc044a782a9ccd94f010"
+    },
     {
       "title": "Iran's growing exodus of young talent",
       "url": "https://dw.com/en/iran-s-growing-exodus-of-young-talent/a-79960368",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d69ed190f7475ff950c2baf5"
-    },
-    {
-      "title": "Trump ‘Foot Soldier’ statue mocks his Vietnam draft deferment",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/11/trump-foot-soldier-statue-mocks-his-vietnam-draft-deferment",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T13:20:49+00:00",
-      "retrieved_at": "2026-11-11T13:43:28.658334+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "An anonymous art collective called Secret Handshake has installed a golden statue of US President Donald Trump.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ad570436c1bf6c21187c6404"
     }
   ],
   "unverified_history": [
