@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-16T08:07:07.867055+00:00",
+  "updated": "2026-11-16T08:17:14.807396+00:00",
   "items": [
+    {
+      "title": "Why is China resisting a nuclear treaty with the US and Russia?",
+      "url": "https://aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T07:54:09+00:00",
+      "retrieved_at": "2026-11-16T08:17:11.327087+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2f4550ff51165bccf61dc958"
+    },
     {
       "title": "Russia’s Andreeva defeats Ukraine’s Svitolina 7-5, 6-3 to win WTA Finals",
       "url": "https://aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "945b66a1742978dd554dc671"
-    },
-    {
-      "title": "Is Washington rethinking its relationship with Israel?",
-      "url": "https://aljazeera.com/opinions/2026/11/11/is-washington-rethinking-its-relationship-with-israel",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T07:26:17+00:00",
-      "retrieved_at": "2026-11-11T07:46:51.351424+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The midterms exposed a growing challenge to decades of US support for Israel, with potentially lasting consequences.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f49f9ff4d74b2c6a46672517"
     }
   ],
   "unverified_history": [
