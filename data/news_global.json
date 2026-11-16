@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-16T13:28:00.146404+00:00",
+  "updated": "2026-11-16T13:43:13.857132+00:00",
   "items": [
+    {
+      "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+      "url": "https://aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T13:28:23+00:00",
+      "retrieved_at": "2026-11-16T13:43:10.192433+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "EU foreign policy chief Kaja Kallas says Russian President Vladimir Putin is making maximalist demands.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c6238e93a9c3dae0e97ec9cc"
+    },
     {
       "title": "Massive boulder rolls down mountain and slams into car in China",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/16/massive-boulder-rolls-down-mountain-and-slams-into-car-in-china",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0ab640860ba4a17b3a7b62b2"
-    },
-    {
-      "title": "Iran classes Argentina navy, air force as 'terrorist organizations'",
-      "url": "https://dw.com/en/iran-classes-argentina-navy-air-force-as-terrorist-organizations/a-79916290",
-      "source": "DW",
-      "published": "2026-11-11T11:24:00+00:00",
-      "retrieved_at": "2026-11-11T11:38:13.570288+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "In a tit-for-tat move, Iran has said it now considers Argentina's navy and air force as \"terrorist organizations.\" Tehran claimed Buenos Aires is responsible for further consequences.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9424945626ca3e09349281b3"
     }
   ],
   "unverified_history": [
