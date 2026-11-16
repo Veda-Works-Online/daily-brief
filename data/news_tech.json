@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-16T22:10:15.940122+00:00",
+  "updated": "2026-11-16T22:15:19.544642+00:00",
   "items": [
+    {
+      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information",
+      "source": "TechCrunch",
+      "published": "2026-11-16T22:12:31+00:00",
+      "retrieved_at": "2026-11-16T22:15:12.674075+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9f0aed4cb44545f39be0882b"
+    },
     {
       "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
       "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "df58bae0c587a77785e3115e"
-    },
-    {
-      "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas",
-      "source": "Ars Technica",
-      "published": "2026-11-06T20:05:30+00:00",
-      "retrieved_at": "2026-11-06T21:42:57.750567+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2f3ce57cc0a258877bffd970"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T22:10:11.166882+00:00",
+    "checked_at": "2026-11-16T22:15:11.751843+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
