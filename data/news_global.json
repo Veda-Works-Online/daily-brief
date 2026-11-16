@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-16T12:02:52.792594+00:00",
+  "updated": "2026-11-16T12:57:57.251877+00:00",
   "items": [
+    {
+      "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
+      "url": "https://bbc.co.uk/news/articles/cvde1klewg88o",
+      "source": "BBC World",
+      "published": "2026-11-16T12:42:14+00:00",
+      "retrieved_at": "2026-11-16T12:57:53.885868+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The poet, writer and diplomat died in Europe in 1974 having been forced to leave his native country.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0652acec0944d65147f4ebb6"
+    },
     {
       "title": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?",
       "url": "https://aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6cdcfae44ec82e8bb647e02f"
-    },
-    {
-      "title": "Gaza’s infrastructure collapse leaves residents defenceless against floods",
-      "url": "https://aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T10:12:37+00:00",
-      "retrieved_at": "2026-11-11T10:43:17.627976+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Winter weather has continued to wreak havoc in Gaza, with flooding and strong winds.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cee52ccdaf26110d61ef9c25"
     }
   ],
   "unverified_history": [
