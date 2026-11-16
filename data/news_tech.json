@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-16T11:02:50.582500+00:00",
+  "updated": "2026-11-16T11:07:48.333090+00:00",
   "items": [
+    {
+      "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+      "url": "https://wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess",
+      "source": "Wired",
+      "published": "2026-11-16T11:00:00+00:00",
+      "retrieved_at": "2026-11-16T11:07:45.335111+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "40845eb8074ba8ca993cdb2c"
+    },
     {
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
       "url": "https://openai.com/index/lvmh-media-division-partnership",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "1c862dae4caa5a077914eeb2"
-    },
-    {
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-      "source": "TechCrunch AI",
-      "published": "2026-11-05T19:12:39+00:00",
-      "retrieved_at": "2026-11-05T19:31:30.180469+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fc65a5848c8f199043c1fbbb"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T11:02:46.720534+00:00",
+    "checked_at": "2026-11-16T11:07:44.379134+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
