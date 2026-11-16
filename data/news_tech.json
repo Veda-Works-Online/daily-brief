@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-16T12:02:47.130794+00:00",
+  "updated": "2026-11-16T12:07:52.429659+00:00",
   "items": [
+    {
+      "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
+      "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas",
+      "source": "TechCrunch",
+      "published": "2026-11-16T12:00:00+00:00",
+      "retrieved_at": "2026-11-16T12:07:49.437377+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f3bfcc5968769ae1f6415465"
+    },
     {
       "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
       "url": "https://wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "88c53b660238ae1f86f91f11"
-    },
-    {
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar",
-      "source": "TechCrunch AI",
-      "published": "2026-11-05T19:48:28+00:00",
-      "retrieved_at": "2026-11-05T19:51:32.383398+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dca58878203e4f321b8a531c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T12:02:43.303044+00:00",
+    "checked_at": "2026-11-16T12:07:48.611118+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
