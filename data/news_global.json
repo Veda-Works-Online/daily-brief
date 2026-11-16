@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T00:21:42.555839+00:00",
+  "updated": "2026-11-16T00:31:47.682640+00:00",
   "items": [
     {
       "title": "Russia's mega-rich are already imagining a future after Putin",
@@ -16,6 +16,38 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "639de0c00de5aedcd510825e"
+    },
+    {
+      "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
+      "url": "https://aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T00:01:45+00:00",
+      "retrieved_at": "2026-11-16T00:31:42.651519+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Arab party members were reportedly arrested before Israeli elections based on unfounded evidence from the PM's office.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "26b088cd8b6acff40f58c4b9"
+    },
+    {
+      "title": "Iran war live: Tehran warns it may strike first before another US attack",
+      "url": "https://aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T00:00:00+00:00",
+      "retrieved_at": "2026-11-16T00:31:42.651538+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Yemeni army says it is 'repositioning' troops away from the Bab al-Mandeb strait and other key coastal areas.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3e6754140aa391b13b36c2b0"
     },
     {
       "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "00e01f816c34db7a52b63d2b"
-    },
-    {
-      "title": "Republicans block Hegseth impeachment motion",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T01:43:42+00:00",
-      "retrieved_at": "2026-11-11T02:21:19.245336+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Republicans have blocked a motion to impeach US Secretary of Defense Pete Hegseth over the war on Iran.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e2312cd665ed5602cfbca68a"
-    },
-    {
-      "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
-      "url": "https://bbc.co.uk/news/articles/cm93rpy6lx0do",
-      "source": "BBC World",
-      "published": "2026-11-11T01:18:09+00:00",
-      "retrieved_at": "2026-11-11T08:47:06.377943+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4a020eeeddc6a025c4fd0f2f"
     }
   ],
   "unverified_history": [
