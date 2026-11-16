@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T01:56:41.513151+00:00",
+  "updated": "2026-11-16T02:16:43.437207+00:00",
   "items": [
     {
       "title": "After a nationwide ground stop, US faces aviation infrastructure questions",
@@ -80,6 +80,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d33a6fae76d9890f7d9dda83"
+    },
+    {
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "url": "https://bbc.co.uk/news/articles/c60evn992jq8o",
+      "source": "BBC World",
+      "published": "2026-11-15T22:00:13+00:00",
+      "retrieved_at": "2026-11-16T02:16:38.284295+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "eea60d27ecb2895339f24a7c"
     },
     {
       "title": "Yemen’s Houthis unilaterally release 600 war detainees",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9e8f6b990954e9a8a25ea8c4"
-    },
-    {
-      "title": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T02:12:22+00:00",
-      "retrieved_at": "2026-11-11T02:36:17.922622+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Pro-Palestinian protesters hurled milk towards Joe Biden in Ireland over his support for Israel.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fa50d0c824f13056a91ef73d"
     }
   ],
   "unverified_history": [
