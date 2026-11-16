@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-16T17:33:48.790844+00:00",
+  "updated": "2026-11-16T17:38:52.522361+00:00",
   "items": [
+    {
+      "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+      "source": "TechCrunch AI",
+      "published": "2026-11-16T17:36:43+00:00",
+      "retrieved_at": "2026-11-16T17:38:48.109601+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "289ec2e106c3b4151f1490c8"
+    },
     {
       "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
       "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "835b89d5201fd6fb75b2c9e0"
-    },
-    {
-      "title": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
-      "url": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality",
-      "source": "Ars Technica",
-      "published": "2026-11-06T15:28:07+00:00",
-      "retrieved_at": "2026-11-06T17:32:31.248963+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "It has the best laptop screen we've used, but there may be reasons to wait.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bf115804a79055c1eded8db4"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T17:33:44.265371+00:00",
+    "checked_at": "2026-11-16T17:38:47.859029+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

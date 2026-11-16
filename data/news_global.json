@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-16T17:29:04.232194+00:00",
+  "updated": "2026-11-16T17:38:59.247457+00:00",
   "items": [
+    {
+      "title": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
+      "url": "https://aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T17:18:14+00:00",
+      "retrieved_at": "2026-11-16T17:38:55.154295+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US pressure on Iraq to curb Tehran's influence leaves potential for direct confrontation with Iran-linked armed group.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c6d58f8e37814e478da1592f"
+    },
     {
       "title": "Trump denies responsibility for FAA nationwide ground stop",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/16/trump-denies-responsibility-for-faa-nationwide-ground-stop",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d84ec4c59beae3e414d136af"
-    },
-    {
-      "title": "For China, Two’s Company and Three’s a Risk",
-      "url": "https://thediplomat.com/2026/11/for-china-twos-company-and-threes-a-risk",
-      "source": "The Diplomat",
-      "published": "2026-11-11T14:30:00+00:00",
-      "retrieved_at": "2026-11-11T21:24:54.385963+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Putin has put China in a risky position: it is difficult for Xi to decline a trilateral meeting and hard for him to embrace the agenda Russia and the U.S. have proposed",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7190653e5321666732c6c014"
     }
   ],
   "unverified_history": [
