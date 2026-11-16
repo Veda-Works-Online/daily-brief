@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T21:19:33.068187+00:00",
+  "updated": "2026-11-16T21:25:19.613393+00:00",
   "items": [
     {
       "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
@@ -206,23 +206,6 @@
       "story_fingerprint": "04d4b919b5b3adf6ed872391"
     },
     {
-      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T17:00:00+00:00",
-      "retrieved_at": "2026-11-16T21:19:30.271353+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "724f96e760d78e7a462fe50e"
-    },
-    {
       "title": "Broadening access to AI for scientists",
       "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "source": "OpenAI",
@@ -255,6 +238,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "ad4cc6694f3e2d42b4aa2b99"
+    },
+    {
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam",
+      "source": "TechCrunch AI",
+      "published": "2026-11-16T17:00:00+00:00",
+      "retrieved_at": "2026-11-16T21:19:30.271353+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "724f96e760d78e7a462fe50e"
     },
     {
       "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T21:19:29.664572+00:00",
+    "checked_at": "2026-11-16T21:25:15.397008+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
