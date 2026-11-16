@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-16T20:09:47.554579+00:00",
+  "updated": "2026-11-16T20:34:42.669106+00:00",
   "items": [
+    {
+      "title": "What will Europe do next in Ukraine?",
+      "url": "https://aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T20:12:21+00:00",
+      "retrieved_at": "2026-11-16T20:34:39.956328+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5451c26838b18a84658d0cf7"
+    },
     {
       "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
       "url": "https://aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b0e36a09f5f877265463a113"
-    },
-    {
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "url": "https://bbc.co.uk/news/articles/cqr7gr0010r2o",
-      "source": "BBC World",
-      "published": "2026-11-11T16:45:11+00:00",
-      "retrieved_at": "2026-11-11T16:53:59.088436+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8a65bc40bdd6a0abbcf1f556"
     }
   ],
   "unverified_history": [
