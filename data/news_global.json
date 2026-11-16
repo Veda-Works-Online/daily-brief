@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T09:47:48.283171+00:00",
+  "updated": "2026-11-16T09:52:48.854766+00:00",
   "items": [
     {
       "title": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
@@ -32,6 +32,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4a99afa875bfc9af3897bb74"
+    },
+    {
+      "title": "UK and allies call on Israel to allow rapid humanitarian access to Gaza",
+      "url": "https://bbc.co.uk/news/articles/cwm2mllj1pp8o",
+      "source": "BBC World",
+      "published": "2026-11-16T08:56:04+00:00",
+      "retrieved_at": "2026-11-16T09:52:45.663812+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6a3ca3917caeb697a17b1e3c"
     },
     {
       "title": "Ahmed Tibi appointed as deputy speaker of Israel’s Knesset",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fb65df05a651141fa5decdde"
-    },
-    {
-      "title": "How are Pakistan’s imports from India growing again despite tensions?",
-      "url": "https://aljazeera.com/news/2026/11/11/how-are-pakistans-imports-from-india-growing-again-despite-tensions",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T08:30:40+00:00",
-      "retrieved_at": "2026-11-11T08:47:06.386570+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Formally, they're not trading at all. But Pakistan's imports from India are back to pre-war levels. Is a thaw next?",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5640dc872cdf183a4043ca8a"
     }
   ],
   "unverified_history": [
