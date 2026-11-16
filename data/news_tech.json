@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-16T19:23:58.387062+00:00",
+  "updated": "2026-11-16T19:28:53.154806+00:00",
   "items": [
+    {
+      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+      "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id",
+      "source": "TechCrunch",
+      "published": "2026-11-16T19:26:55+00:00",
+      "retrieved_at": "2026-11-16T19:28:45.764646+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "84853cde78fa8fb3ca15d71c"
+    },
     {
       "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
       "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dea0f92beb36967ad5359d48"
-    },
-    {
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years",
-      "source": "TechCrunch AI",
-      "published": "2026-11-06T17:23:52+00:00",
-      "retrieved_at": "2026-11-06T17:27:31.752922+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f3fe3ea6edee4be6e0f31de5"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T19:23:51.844187+00:00",
+    "checked_at": "2026-11-16T19:28:44.741354+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
