@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T17:03:54.941798+00:00",
+  "updated": "2026-11-16T17:09:00.789635+00:00",
   "items": [
     {
       "title": "OpenAI will embed Apollo researchers to investigate AI subversion",
@@ -325,23 +325,6 @@
       "story_fingerprint": "5c6fe4461136c3a9eaa413b8"
     },
     {
-      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "url": "https://huggingface.co/blog/openrouter",
-      "source": "Hugging Face",
-      "published": "2026-11-16T00:00:00+00:00",
-      "retrieved_at": "2026-11-16T17:03:50.667630+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "9bd8c195751e9d4b9170c2db"
-    },
-    {
       "title": "The King’s Trust and OpenAI launch £1m partnership",
       "url": "https://openai.com/index/the-kings-trust-and-openai",
       "source": "OpenAI",
@@ -357,6 +340,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "079f962a9648cc40cd17d2e0"
+    },
+    {
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "source": "Hugging Face",
+      "published": "2026-11-16T00:00:00+00:00",
+      "retrieved_at": "2026-11-16T17:03:50.667630+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "9bd8c195751e9d4b9170c2db"
     },
     {
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T17:03:50.188488+00:00",
+    "checked_at": "2026-11-16T17:08:52.614530+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-16T16:54:00.244313+00:00",
+  "updated": "2026-11-16T17:09:07.477763+00:00",
   "items": [
+    {
+      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "url": "https://bbc.co.uk/news/articles/cry49plv8v3go",
+      "source": "BBC World",
+      "published": "2026-11-16T17:07:55+00:00",
+      "retrieved_at": "2026-11-16T17:09:03.313070+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "16d4714fd98ea0e0b65cccbc"
+    },
+    {
+      "title": "Iran braces for natural gas shortages during winter energy imbalance",
+      "url": "https://aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T16:58:46+00:00",
+      "retrieved_at": "2026-11-16T17:09:03.392431+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0e84fe07b201ff496de366f0"
+    },
     {
       "title": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race",
       "url": "https://dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766",
@@ -48,22 +80,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6c49a93e87cb26311dc52d97"
-    },
-    {
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign",
-      "url": "https://bbc.co.uk/news/articles/cry49plv8v3go",
-      "source": "BBC World",
-      "published": "2026-11-16T15:31:20+00:00",
-      "retrieved_at": "2026-11-16T16:53:56.285432+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ca9ad104d4e423afd9cb2c6a"
     },
     {
       "title": "Students protest as air pollution chokes New Delhi",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2c6b12bcef1b776f012df8ad"
-    },
-    {
-      "title": "‘Our neighbours are gone’: Gaza survivors recount horrors of deadly floods",
-      "url": "https://aljazeera.com/features/2026/11/11/as-gaza-flood-waters-subside-palestinians-assess-human-and-material-damage",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T14:04:17+00:00",
-      "retrieved_at": "2026-11-11T14:43:59.632851+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A deadly sandbank collapse buried families alive in Deir el-Balah, as survivors describe desperate rescue attempts.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d69ed190f7475ff950c2baf5"
     }
   ],
   "unverified_history": [
