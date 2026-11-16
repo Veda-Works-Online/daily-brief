@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T11:52:48.884671+00:00",
+  "updated": "2026-11-16T11:57:48.939105+00:00",
   "items": [
     {
       "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
@@ -51,6 +51,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5c6fe4461136c3a9eaa413b8"
+    },
+    {
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "source": "OpenAI",
+      "published": "2026-11-16T00:00:00+00:00",
+      "retrieved_at": "2026-11-16T11:57:45.700121+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "079f962a9648cc40cd17d2e0"
     },
     {
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dca58878203e4f321b8a531c"
-    },
-    {
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "source": "Hugging Face",
-      "published": "2026-11-05T19:35:16+00:00",
-      "retrieved_at": "2026-11-05T19:36:35.835122+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "1c862dae4caa5a077914eeb2"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T11:52:44.967308+00:00",
+    "checked_at": "2026-11-16T11:57:44.914841+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
