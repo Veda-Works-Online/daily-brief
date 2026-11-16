@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-16T20:59:34.422246+00:00",
+  "updated": "2026-11-16T21:04:26.334526+00:00",
   "items": [
+    {
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks",
+      "source": "TechCrunch",
+      "published": "2026-11-16T21:01:02+00:00",
+      "retrieved_at": "2026-11-16T21:04:20.232930+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c44f05c814aca4a199c6b647"
+    },
     {
       "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
       "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day",
@@ -531,17 +548,17 @@
     {
       "title": "Apple launches new app to study how people use AI for health",
       "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
-      "source": "TechCrunch",
+      "source": "TechCrunch AI",
       "published": "2026-11-16T01:30:00+00:00",
-      "retrieved_at": "2026-11-16T01:31:29.946616+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "retrieved_at": "2026-11-16T21:04:19.757930+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Apple's new app for a study will answer everyday medical questions.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5c6fe4461136c3a9eaa413b8"
     },
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b6bedf6e7df3868ee3b1468e"
-    },
-    {
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
-      "source": "TechCrunch AI",
-      "published": "2026-11-06T18:44:20+00:00",
-      "retrieved_at": "2026-11-06T18:47:31.903676+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2b12519cb18cd3486ba72c1c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T20:59:31.142117+00:00",
+    "checked_at": "2026-11-16T21:04:19.303877+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
