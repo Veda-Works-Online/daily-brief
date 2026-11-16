@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-16T12:27:54.679800+00:00",
+  "updated": "2026-11-16T12:32:51.978971+00:00",
   "items": [
+    {
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm",
+      "source": "TechCrunch AI",
+      "published": "2026-11-16T12:30:00+00:00",
+      "retrieved_at": "2026-11-16T12:32:46.351456+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "35a23d26da7f5e937ec6809c"
+    },
     {
       "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
       "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "5a7e54ba0d43170e379c369a"
-    },
-    {
-      "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
-      "url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets",
-      "source": "Ars Technica",
-      "published": "2026-11-05T19:59:22+00:00",
-      "retrieved_at": "2026-11-05T20:41:36.771344+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Software optimizes a physical model of the telescope to reduce noise.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "88c53b660238ae1f86f91f11"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T12:27:50.829233+00:00",
+    "checked_at": "2026-11-16T12:32:46.075658+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
