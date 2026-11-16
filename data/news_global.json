@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-16T02:56:46.326133+00:00",
+  "updated": "2026-11-16T05:12:08.649060+00:00",
   "items": [
+    {
+      "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+      "url": "https://bbc.co.uk/news/articles/cmwy83432q1jo",
+      "source": "BBC World",
+      "published": "2026-11-16T05:06:59+00:00",
+      "retrieved_at": "2026-11-16T05:12:05.118306+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ec64959564d030e5112a98f3"
+    },
     {
       "title": "ASEAN, China fall short of agreeing on South China Sea code",
       "url": "https://aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8da9eb9f816ce982cbe8f256"
-    },
-    {
-      "title": "Kennedy family joins US lawsuits to block Trump’s ‘unlawful’ arch plan",
-      "url": "https://aljazeera.com/news/2026/11/11/kennedy-family-joins-us-lawsuits-to-block-trumps-unlawful-arch-plan",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T03:21:40+00:00",
-      "retrieved_at": "2026-11-11T03:56:15.028597+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Kennedy dynasty has filed a motion to stop Trump's arch from obscuring JFK Eternal Flame and family gravesites.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ce6df842bc52c39ccbed2587"
     }
   ],
   "unverified_history": [
