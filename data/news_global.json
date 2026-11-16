@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-16T13:43:13.857132+00:00",
+  "updated": "2026-11-16T14:33:46.792908+00:00",
   "items": [
+    {
+      "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+      "url": "https://bbc.co.uk/news/articles/cqp83nk673reo",
+      "source": "BBC World",
+      "published": "2026-11-16T14:22:36+00:00",
+      "retrieved_at": "2026-11-16T14:33:42.397966+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3329ad31e8410e68cfe7bb39"
+    },
+    {
+      "title": "‘My arms are empty’: Gaza mothers brace for another winter of cold and fear",
+      "url": "https://aljazeera.com/features/2026/11/16/my-arms-are-empty-gaza-mothers-brace-for-another-winter-of-cold-and-fear",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T14:20:43+00:00",
+      "retrieved_at": "2026-11-16T14:33:42.281845+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A nine-month-old baby has died from hypothermia inside his family’s displacement tent in Gaza, as winter returns.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0caa5577dc3d9e7916d77507"
+    },
     {
       "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
       "url": "https://aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f9d091908b19e4f348329e64"
-    },
-    {
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
-      "url": "https://bbc.co.uk/news/articles/cxly4y5jzl0qo",
-      "source": "BBC World",
-      "published": "2026-11-11T11:47:22+00:00",
-      "retrieved_at": "2026-11-11T13:48:36.875772+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e9aa38c6b1853393cb404caf"
-    },
-    {
-      "title": "Transport workers in Chile block highways in protest over surging fuel prices",
-      "url": "https://bbc.co.uk/news/articles/c6e3d895zne7o",
-      "source": "BBC World",
-      "published": "2026-11-11T11:34:50+00:00",
-      "retrieved_at": "2026-11-11T13:03:13.260772+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Hundreds of bus and lorry drivers are blocking traffic along major highway routes across the country.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0ab640860ba4a17b3a7b62b2"
     }
   ],
   "unverified_history": [
