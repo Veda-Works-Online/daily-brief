@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-16T22:00:26.699239+00:00",
+  "updated": "2026-11-16T22:05:13.981613+00:00",
   "items": [
+    {
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont",
+      "source": "TechCrunch AI",
+      "published": "2026-11-16T22:03:02+00:00",
+      "retrieved_at": "2026-11-16T22:05:10.494463+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c2d720cfa2ebfc4c2ec42e6f"
+    },
     {
       "title": "The Bank Outage May Have Nothing to Do With Your Bank",
       "url": "https://wired.com/story/jpmorganchase-bank-outage-oh-come-on",
@@ -36,11 +53,11 @@
       "story_fingerprint": "c44f05c814aca4a199c6b647"
     },
     {
-      "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
       "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day",
       "source": "Ars Technica",
       "published": "2026-11-16T20:37:47+00:00",
-      "retrieved_at": "2026-11-16T20:44:30.596842+00:00",
+      "retrieved_at": "2026-11-16T22:05:11.081230+00:00",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
       "isAI": true,
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2f3ce57cc0a258877bffd970"
-    },
-    {
-      "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
-      "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition",
-      "source": "Ars Technica",
-      "published": "2026-11-06T19:50:18+00:00",
-      "retrieved_at": "2026-11-06T21:42:57.750580+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Developer: “I can’t be part of the Fox world.”",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6a5fafcb62bfb041e1bbe39e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T22:00:12.861141+00:00",
+    "checked_at": "2026-11-16T22:05:10.211939+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
