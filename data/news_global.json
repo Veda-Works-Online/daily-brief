@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-16T21:55:21.455426+00:00",
+  "updated": "2026-11-16T22:25:23.782734+00:00",
   "items": [
+    {
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "url": "https://bbc.co.uk/news/articles/cry49plv8v3go",
+      "source": "BBC World",
+      "published": "2026-11-16T22:21:27+00:00",
+      "retrieved_at": "2026-11-16T22:25:20.154436+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c0ed1394e86251987975c2ed"
+    },
     {
       "title": "Houthi rebel advance in Yemen may further destabilise global economy",
       "url": "https://bbc.co.uk/news/articles/cmy97qperq9eo",
@@ -176,22 +192,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c5fb8c9d137384442a3bce6e"
-    },
-    {
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "url": "https://bbc.co.uk/news/articles/cry49plv8v3go",
-      "source": "BBC World",
-      "published": "2026-11-16T17:07:55+00:00",
-      "retrieved_at": "2026-11-16T17:09:03.313070+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "16d4714fd98ea0e0b65cccbc"
     },
     {
       "title": "Iran braces for natural gas shortages during winter energy imbalance",
