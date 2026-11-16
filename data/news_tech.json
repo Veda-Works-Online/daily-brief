@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-16T09:52:39.303377+00:00",
+  "updated": "2026-11-16T09:57:37.044663+00:00",
   "items": [
+    {
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "source": "OpenAI",
+      "published": "2026-11-16T09:00:00+00:00",
+      "retrieved_at": "2026-11-16T09:57:33.847041+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "a9b17c4d83a05c9a33cef6ae"
+    },
     {
       "title": "Apple launches new app to study how people use AI for health",
       "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fc65a5848c8f199043c1fbbb"
-    },
-    {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough",
-      "source": "TechCrunch AI",
-      "published": "2026-11-05T19:06:12+00:00",
-      "retrieved_at": "2026-11-05T19:06:28.056752+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "82194fc31d0f76e8baf9c0b6"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T09:52:32.427419+00:00",
+    "checked_at": "2026-11-16T09:57:33.168053+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
