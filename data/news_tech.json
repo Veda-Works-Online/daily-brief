@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-16T14:44:02.435117+00:00",
+  "updated": "2026-11-16T14:48:59.695910+00:00",
   "items": [
+    {
+      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop",
+      "source": "TechCrunch AI",
+      "published": "2026-11-16T14:48:13+00:00",
+      "retrieved_at": "2026-11-16T14:48:55.373512+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "80559701a38b695a638082d3"
+    },
     {
       "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
       "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d3d5fd2430a6eefd5fd74cbf"
-    },
-    {
-      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder",
-      "source": "Ars Technica AI",
-      "published": "2026-11-05T21:39:40+00:00",
-      "retrieved_at": "2026-11-05T21:46:17.711876+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ba938de6356cc56b7fa44801"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T14:43:53.770436+00:00",
+    "checked_at": "2026-11-16T14:48:54.975288+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
