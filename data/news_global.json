@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T05:12:08.649060+00:00",
+  "updated": "2026-11-16T05:27:10.247411+00:00",
   "items": [
     {
       "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ec64959564d030e5112a98f3"
+    },
+    {
+      "title": "Iraqi armed group denies involvement in oil smuggling, calls probe a ‘lie’",
+      "url": "https://aljazeera.com/news/2026/11/16/iraqi-armed-group-denies-involvement-in-oil-smuggling-calls-probe-a-lie",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T04:53:42+00:00",
+      "retrieved_at": "2026-11-16T05:27:06.793510+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Iran-aligned Kataib Hezbollah says the group is subjected to 'blackmail' to force disarmament amid US pressure on Iraq.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4ab2ccb4cb0f5f5bac2c4a16"
     },
     {
       "title": "ASEAN, China fall short of agreeing on South China Sea code",
@@ -64,6 +80,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "639de0c00de5aedcd510825e"
+    },
+    {
+      "title": "Philippines, Australia Sign New Defense Agreement Amid China Pressure",
+      "url": "https://thediplomat.com/2026/11/philippines-australia-sign-new-defense-agreement-amid-china-pressure",
+      "source": "The Diplomat",
+      "published": "2026-11-16T00:10:00+00:00",
+      "retrieved_at": "2026-11-16T05:27:06.638737+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "The new Defense Cooperation Agreement builds on a series of bilateral defense accords, including the 2007 Status of Visiting Forces Agreement.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5a27ce553b586f4786112077"
     },
     {
       "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fa87370008b02f2f8377de52"
-    },
-    {
-      "title": "Section 219: the future of US-Israeli defence partnership",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/11/aje-onl-nf_the-future-of-us-israeli-defence-partnership-101126",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T03:48:58+00:00",
-      "retrieved_at": "2026-11-11T04:12:02.335958+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US President Donald Trump has announced plans to end the billions of dollars in annual US military aid to Israel.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a9242ba349bf42825b0e2ca7"
-    },
-    {
-      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-      "url": "https://bbc.co.uk/news/articles/cw8dvpmzp2p4o",
-      "source": "BBC World",
-      "published": "2026-11-11T03:44:06+00:00",
-      "retrieved_at": "2026-11-11T04:06:14.959270+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8da9eb9f816ce982cbe8f256"
     }
   ],
   "unverified_history": [
