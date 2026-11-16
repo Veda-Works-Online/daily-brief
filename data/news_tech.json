@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-16T15:48:57.756287+00:00",
+  "updated": "2026-11-16T15:53:56.101163+00:00",
   "items": [
+    {
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks",
+      "source": "TechCrunch AI",
+      "published": "2026-11-16T15:52:19+00:00",
+      "retrieved_at": "2026-11-16T15:53:51.752044+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "11dc43ec816e5a92b3fb7a97"
+    },
     {
       "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
       "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "84a9db0d829d8ce3c8ba4a72"
-    },
-    {
-      "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
-      "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark",
-      "source": "Ars Technica",
-      "published": "2026-11-05T22:49:03+00:00",
-      "retrieved_at": "2026-11-05T23:59:58.510350+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a5ed21d8860aa4da7ab36a7b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T15:48:53.198838+00:00",
+    "checked_at": "2026-11-16T15:53:51.474275+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
