@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-16T21:25:24.179275+00:00",
+  "updated": "2026-11-16T21:55:21.455426+00:00",
   "items": [
+    {
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "url": "https://bbc.co.uk/news/articles/cmy97qperq9eo",
+      "source": "BBC World",
+      "published": "2026-11-16T21:40:07+00:00",
+      "retrieved_at": "2026-11-16T21:55:17.678317+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f04ef15f7f1f2b0932270739"
+    },
     {
       "title": "UEFA backs Diallo to challenge Infantino for FIFA presidency",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "93587d6b37145a8421642c1f"
-    },
-    {
-      "title": "‘Malign actors’: Ireland fears Russia could threaten undersea cables",
-      "url": "https://aljazeera.com/news/2026/11/11/ireland-fears-undersea-cables-face-growing-threat-from-malign-actors",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T18:19:09+00:00",
-      "retrieved_at": "2026-11-11T20:40:12.781155+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Home to many US tech multinationals, Ireland raises alarm over Russia's so-called shadow fleet.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a03ff4f2e7717d7b05fd39e8"
     }
   ],
   "unverified_history": [
