@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-16T19:54:49.919580+00:00",
+  "updated": "2026-11-16T20:09:47.554579+00:00",
   "items": [
+    {
+      "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
+      "url": "https://aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T20:00:07+00:00",
+      "retrieved_at": "2026-11-16T20:09:44.841509+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Rivals call for investigation into reports that PM's office tried to frame Arab parties.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "232fb1f9f082d2a7eb07f0f5"
+    },
     {
       "title": "Theater in Abu Dhabi, Everyday Life at Home: Why the War Still Shapes Every Story",
       "url": "https://warontherocks.com/theater-in-abu-dhabi-everyday-life-at-home-why-the-war-still-shapes-every-story",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8a65bc40bdd6a0abbcf1f556"
-    },
-    {
-      "title": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
-      "url": "https://aljazeera.com/news/2026/11/11/israel-is-disrupting-entire-ecosystems-including-lebanons-wheat-crop",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T15:48:39+00:00",
-      "retrieved_at": "2026-11-11T16:04:01.281641+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Lebanese wheat production hit by war as farmlands face severe destruction in the south and Bekaa Valley.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8bb5913e1522b573be98921e"
     }
   ],
   "unverified_history": [
