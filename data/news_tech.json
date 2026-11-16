@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T14:53:56.781352+00:00",
+  "updated": "2026-11-16T14:58:55.915602+00:00",
   "items": [
     {
       "title": "Google Maps can now build trip itineraries with real-time details about each stop",
@@ -153,6 +153,40 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "a9b17c4d83a05c9a33cef6ae"
+    },
+    {
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "source": "OpenAI",
+      "published": "2026-11-16T06:00:00+00:00",
+      "retrieved_at": "2026-11-16T14:58:51.187168+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "974631e28c28590c488ad48e"
+    },
+    {
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "source": "OpenAI",
+      "published": "2026-11-16T06:00:00+00:00",
+      "retrieved_at": "2026-11-16T14:58:51.187178+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "2d0f664aa79dd48f78342e56"
     },
     {
       "title": "Apple launches new app to study how people use AI for health",
@@ -2926,23 +2960,6 @@
       "story_fingerprint": "b8829add19d7f7ecdb1bba8c"
     },
     {
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "url": "https://openai.com/index/cogent-security",
-      "source": "OpenAI",
-      "published": "2026-11-10T00:00:00+00:00",
-      "retrieved_at": "2026-11-11T05:41:48.800380+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "41dd802431503c2e8063872d"
-    },
-    {
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "url": "https://huggingface.co/blog/hub-gcp-marketplace",
       "source": "Hugging Face",
@@ -2975,6 +2992,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "5c9051bf5148f8431b0b003b"
+    },
+    {
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "source": "OpenAI",
+      "published": "2026-11-10T00:00:00+00:00",
+      "retrieved_at": "2026-11-11T05:41:48.800380+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "41dd802431503c2e8063872d"
     },
     {
       "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8f30e86e208590dc1051ba72"
-    },
-    {
-      "title": "How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost",
-      "url": "https://wired.com/story/uncanny-valley-podcast-how-elon-musk-and-big-tech-poured-millions-into-the-midterms-and-lost",
-      "source": "Wired",
-      "published": "2026-11-05T22:18:42+00:00",
-      "retrieved_at": "2026-11-05T22:26:17.967118+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "This week on “Uncanny Valley,” we discuss the historic blue wave that swept the midterms and delivered a rebuke to the Trump administration, Big Tech, and data centers.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "909725fb23241c22104cc5ee"
-    },
-    {
-      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable",
-      "source": "Ars Technica AI",
-      "published": "2026-11-05T21:40:36+00:00",
-      "retrieved_at": "2026-11-05T21:46:17.711854+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d3d5fd2430a6eefd5fd74cbf"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T14:53:52.102620+00:00",
+    "checked_at": "2026-11-16T14:58:50.338932+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
