@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-16T14:03:15.568713+00:00",
+  "updated": "2026-11-16T14:08:14.856334+00:00",
   "items": [
+    {
+      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia",
+      "source": "Ars Technica AI",
+      "published": "2026-11-16T14:06:16+00:00",
+      "retrieved_at": "2026-11-16T14:08:09.511524+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fcf3b52ea2767e49688315de"
+    },
+    {
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+      "source": "Google AI",
+      "published": "2026-11-16T14:00:00+00:00",
+      "retrieved_at": "2026-11-16T14:08:09.184876+00:00",
+      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "summary": "tbd",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "fdb5f348a5c8a12245fde72c"
+    },
     {
       "title": "After dodging death, battery startup Our Next Energy is now going public",
       "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ba938de6356cc56b7fa44801"
-    },
-    {
-      "title": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-      "url": "https://wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not",
-      "source": "Wired",
-      "published": "2026-11-05T21:37:18+00:00",
-      "retrieved_at": "2026-11-05T21:41:20.775579+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8899686e286481894c4d5184"
-    },
-    {
-      "title": "Serve Robotics launches new business to become the AWS for robots",
-      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots",
-      "source": "TechCrunch",
-      "published": "2026-11-05T21:15:00+00:00",
-      "retrieved_at": "2026-11-05T21:16:29.265640+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "236f23749fd678edf07b9f86"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T14:03:07.668559+00:00",
+    "checked_at": "2026-11-16T14:08:08.769334+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
