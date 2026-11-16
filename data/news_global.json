@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-16T15:28:59.668711+00:00",
+  "updated": "2026-11-16T15:33:59.910816+00:00",
   "items": [
+    {
+      "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+      "url": "https://bbc.co.uk/news/articles/cry49plv8v3go",
+      "source": "BBC World",
+      "published": "2026-11-16T15:31:20+00:00",
+      "retrieved_at": "2026-11-16T15:33:55.798888+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "61d25396f374f848c998c757"
+    },
     {
       "title": "Why Starshield limits are hurting Ukraine against jet-powered drones",
       "url": "https://aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "84b2b286caa24f3fbb872c6a"
-    },
-    {
-      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-      "url": "https://bbc.co.uk/news/articles/cmkg5jr59835o",
-      "source": "BBC World",
-      "published": "2026-11-11T12:32:06+00:00",
-      "retrieved_at": "2026-11-11T13:03:13.260800+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "580fb5869cf2980fa152cab5"
     }
   ],
   "unverified_history": [
