@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T16:53:53.496382+00:00",
+  "updated": "2026-11-16T16:58:53.589471+00:00",
   "items": [
     {
       "title": "Jensen Huang Is Gone. Now What?",
@@ -935,6 +935,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "14c46d54d3b56739e0f291fc"
+    },
+    {
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "source": "OpenAI",
+      "published": "2026-11-13T08:00:00+00:00",
+      "retrieved_at": "2026-11-16T16:58:48.866895+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "81761b500d6eba1b0e8b253f"
     },
     {
       "title": "Shield helps technicians hand off legacy portal work with OpenAI",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2b73277b6c6e2d23d7c29b9a"
-    },
-    {
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "source": "Hugging Face",
-      "published": "2026-11-06T00:00:00+00:00",
-      "retrieved_at": "2026-11-06T10:01:55.356114+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "dfd4f4b1a6c34171bf4be40c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T16:53:45.098593+00:00",
+    "checked_at": "2026-11-16T16:58:48.037652+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
