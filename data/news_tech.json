@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-16T01:26:34.025593+00:00",
+  "updated": "2026-11-16T01:31:34.136819+00:00",
   "items": [
+    {
+      "title": "Apple launches new app to study how people use AI for health",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
+      "source": "TechCrunch",
+      "published": "2026-11-16T01:30:00+00:00",
+      "retrieved_at": "2026-11-16T01:31:29.946616+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Apple's new app for a study will answer everyday medical questions",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5c6fe4461136c3a9eaa413b8"
+    },
     {
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
       "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "82194fc31d0f76e8baf9c0b6"
-    },
-    {
-      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers",
-      "source": "TechCrunch",
-      "published": "2026-11-05T18:48:34+00:00",
-      "retrieved_at": "2026-11-05T19:06:29.168379+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1123f507d65e4c945b0a9677"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T01:26:28.717193+00:00",
+    "checked_at": "2026-11-16T01:31:28.733725+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
