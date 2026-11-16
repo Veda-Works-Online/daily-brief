@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-16T18:54:02.285244+00:00",
+  "updated": "2026-11-16T18:58:57.296903+00:00",
   "items": [
+    {
+      "title": "Island is a new screen-time app that turns staying off your phone into a game",
+      "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game",
+      "source": "TechCrunch",
+      "published": "2026-11-16T18:54:18+00:00",
+      "retrieved_at": "2026-11-16T18:58:53.811183+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7facf7d0fd856d139f944d5b"
+    },
     {
       "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
       "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b722842096d8523c862b007a"
-    },
-    {
-      "title": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-      "url": "https://wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails",
-      "source": "Wired",
-      "published": "2026-11-06T16:00:00+00:00",
-      "retrieved_at": "2026-11-06T16:02:33.818679+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2bcaea61542006c7c40bb926"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-16T18:53:53.879831+00:00",
+    "checked_at": "2026-11-16T18:58:52.894292+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
