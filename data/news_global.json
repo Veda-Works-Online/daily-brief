@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T07:40:39.925844+00:00",
+  "updated": "2026-11-17T07:56:32.249612+00:00",
   "items": [
+    {
+      "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
+      "url": "https://bbc.co.uk/news/articles/cw772jk4rvmxo",
+      "source": "BBC World",
+      "published": "2026-11-17T07:55:32+00:00",
+      "retrieved_at": "2026-11-17T07:56:27.861626+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "54edee17cc1221b64cdc9613"
+    },
     {
       "title": "Bahrain thwarts drone attack, Iran claims targeting US military radar",
       "url": "https://aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar",
@@ -16,22 +32,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "aed6b112959d2bd45145fe08"
-    },
-    {
-      "title": "Ukraine and Russia trade strikes on key bridges",
-      "url": "https://bbc.co.uk/news/articles/cw772jk4rvmxo",
-      "source": "BBC World",
-      "published": "2026-11-17T07:30:07+00:00",
-      "retrieved_at": "2026-11-17T07:30:38.057737+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "A bridge linking Crimea and Russia has reportedly been damaged, while two major routes through Kyiv are closed.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1ba5a8cda7511fe938eb3da5"
     },
     {
       "title": "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
