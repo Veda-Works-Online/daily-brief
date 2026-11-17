@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T23:39:03.675275+00:00",
+  "updated": "2026-11-17T23:43:56.164598+00:00",
   "items": [
     {
       "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
@@ -19,13 +19,13 @@
       "story_fingerprint": "0250d5295d054be0730b5968"
     },
     {
-      "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
       "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit",
       "source": "TechCrunch AI",
       "published": "2026-11-17T23:04:35+00:00",
-      "retrieved_at": "2026-11-17T23:09:54.826898+00:00",
+      "retrieved_at": "2026-11-17T23:43:51.854646+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Nvidia's interim CEO reaffirmed its open-source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4235,11 +4235,11 @@
       "story_fingerprint": "b8829add19d7f7ecdb1bba8c"
     },
     {
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
       "source": "Hugging Face",
       "published": "2026-11-10T00:00:00+00:00",
-      "retrieved_at": "2026-11-10T17:09:09.467449+00:00",
+      "retrieved_at": "2026-11-17T23:43:52.014963+00:00",
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "summary": "",
       "isAI": true,
@@ -4249,7 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "5aba55565f00e5fafb7bb0f3"
+      "story_fingerprint": "5c9051bf5148f8431b0b003b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T23:38:54.920317+00:00",
+    "checked_at": "2026-11-17T23:43:51.553016+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
