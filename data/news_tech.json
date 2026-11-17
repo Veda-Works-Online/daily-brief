@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T21:43:25.085914+00:00",
+  "updated": "2026-11-17T21:48:27.097738+00:00",
   "items": [
+    {
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T21:48:07+00:00",
+      "retrieved_at": "2026-11-17T21:48:24.120846+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2f9c0273e82b3bd7a6d182f4"
+    },
     {
       "title": "Google joins the tech outage trend by announcing it’s not having one",
       "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2fd99a76f8c8076a2849d905"
-    },
-    {
-      "title": "Fervo now has $12B in orders for its geothermal power tech",
-      "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech",
-      "source": "TechCrunch",
-      "published": "2026-11-09T20:55:34+00:00",
-      "retrieved_at": "2026-11-09T20:59:16.831727+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bf12b8932745b24f7ebce6da"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T21:43:21.621224+00:00",
+    "checked_at": "2026-11-17T21:48:23.654220+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
