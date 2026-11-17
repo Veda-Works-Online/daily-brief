@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-17T02:13:38.230813+00:00",
+  "updated": "2026-11-17T03:23:40.606957+00:00",
   "items": [
+    {
+      "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+      "url": "https://aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T03:12:54+00:00",
+      "retrieved_at": "2026-11-17T03:23:37.646514+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6a6cf8852305851ec030dd73"
+    },
+    {
+      "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+      "url": "https://aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T02:52:56+00:00",
+      "retrieved_at": "2026-11-17T03:23:37.646533+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c4e1d4c3446ddc9a338eb355"
+    },
     {
       "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
       "url": "https://aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7a4cf819a0dfa8d239e79055"
-    },
-    {
-      "title": "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
-      "url": "https://aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T20:39:50+00:00",
-      "retrieved_at": "2026-11-11T20:55:09.862819+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Democratic lawmaker Robert Garcia denounced a White House letter as an unconstitutional attack on legislative branch.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ca1001c462389ec4f62a4a0f"
-    },
-    {
-      "title": "Scenes show aftermath of horrific Israeli strike on Gaza tents",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/11/scenes-show-aftermath-of-horrific-israeli-strike-on-gaza-tents",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T20:33:35+00:00",
-      "retrieved_at": "2026-11-11T20:55:09.862834+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Palestinian families have returned to the Sabra neighbourhood of Gaza City after an Israeli strike killed three people.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3e2c10044e6ead8f802aea2b"
     }
   ],
   "unverified_history": [
