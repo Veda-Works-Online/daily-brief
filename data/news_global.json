@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T15:23:00.441212+00:00",
+  "updated": "2026-11-17T15:38:03.173794+00:00",
   "items": [
     {
       "title": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c93da613a41868c91dd1ba0c"
+    },
+    {
+      "title": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
+      "url": "https://bbc.co.uk/news/articles/cq98xlz09ye0o",
+      "source": "BBC World",
+      "published": "2026-11-17T15:17:49+00:00",
+      "retrieved_at": "2026-11-17T15:37:58.633884+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "570bcad1d596fda463967a61"
     },
     {
       "title": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "961f3278318af5863c60c3be"
-    },
-    {
-      "title": "Spain approves housing reforms after nationwide strike over costs",
-      "url": "https://aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T15:02:30+00:00",
-      "retrieved_at": "2026-11-12T15:23:21.646276+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "577541b7db022943b8eed227"
     }
   ],
   "unverified_history": [
