@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-17T09:06:36.895178+00:00",
+  "updated": "2026-11-17T09:31:45.667281+00:00",
   "items": [
+    {
+      "title": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
+      "url": "https://bbc.co.uk/news/articles/cw772jk4rvmxo",
+      "source": "BBC World",
+      "published": "2026-11-17T09:27:41+00:00",
+      "retrieved_at": "2026-11-17T09:31:40.905494+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "46201b0237fa7370fdc08e94"
+    },
+    {
+      "title": "Kim Jong Un tours North Korea ski resort with daughter Ju Ae",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/17/kim-jong-un-tours-north-korea-ski-resort-with-daughter-ju-ae",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T09:12:38+00:00",
+      "retrieved_at": "2026-11-17T09:31:40.987745+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Kim Jong Un toured a ski resort under development in a tourist district in Samjiyon with his daughter Ju Ae.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "54f5af27b31f8db6b0ce536e"
+    },
     {
       "title": "Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine",
       "url": "https://warontherocks.com/cogs-of-war/spending-isnt-deterrence-fixing-germanys-procurement-machine",
@@ -80,22 +112,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "44bc12e245853f1007f266b0"
-    },
-    {
-      "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
-      "url": "https://bbc.co.uk/news/articles/cw772jk4rvmxo",
-      "source": "BBC World",
-      "published": "2026-11-17T07:55:32+00:00",
-      "retrieved_at": "2026-11-17T07:56:27.861626+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "54edee17cc1221b64cdc9613"
     },
     {
       "title": "Japan sends up jets after alleged Russian incursion of its airspace",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4015f05331bf203f297ee9a8"
-    },
-    {
-      "title": "Myanmar Needs a China-Critical Policy, Not an Anti-China Policy",
-      "url": "https://thediplomat.com/2026/11/myanmar-needs-a-china-critical-policy-not-an-anti-china-policy",
-      "source": "The Diplomat",
-      "published": "2026-11-12T07:03:00+00:00",
-      "retrieved_at": "2026-11-12T21:24:11.021433+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "As Min Aung Hlaing's regime attempts to court the West, resistance forces urgently need to clarify their position toward Beijing.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f24c43243967a02c1719d835"
     }
   ],
   "unverified_history": [
