@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T10:48:05.226360+00:00",
+  "updated": "2026-11-17T10:53:17.021417+00:00",
   "items": [
+    {
+      "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
+      "url": "https://wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business",
+      "source": "Wired",
+      "published": "2026-11-17T10:47:45+00:00",
+      "retrieved_at": "2026-11-17T10:53:13.819123+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "98d1c5669c3671d9581ee8c3"
+    },
     {
       "title": "Are Smart Car Seats Worth It? I Tested Two to Find Out (2026)",
       "url": "https://wired.com/story/do-you-need-a-smart-car-seat",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "86071fbfddfc50c8cab27c7a"
-    },
-    {
-      "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-      "url": "https://wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough",
-      "source": "Wired",
-      "published": "2026-11-07T11:00:00+00:00",
-      "retrieved_at": "2026-11-07T11:09:52.294220+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "defb96860e127829942f4225"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T10:48:00.782175+00:00",
+    "checked_at": "2026-11-17T10:53:12.762659+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
