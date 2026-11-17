@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T09:31:45.667281+00:00",
+  "updated": "2026-11-17T09:36:26.708191+00:00",
   "items": [
     {
       "title": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
@@ -224,6 +224,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c4e1d4c3446ddc9a338eb355"
+    },
+    {
+      "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+      "url": "https://bbc.co.uk/news/articles/cxnv4jlr269eo",
+      "source": "BBC World",
+      "published": "2026-11-17T02:38:08+00:00",
+      "retrieved_at": "2026-11-17T09:36:22.151122+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d7491e24e859a2e352b1b93c"
     },
     {
       "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f8806e182e43cad87e4644fa"
-    },
-    {
-      "title": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/12/iran-open-to-deal-if-us-refrains-from-excessive-demands-says-ghalibaf",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T07:38:05+00:00",
-      "retrieved_at": "2026-11-12T08:06:05.815884+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran’s chief negotiator says Iran is open to a deal if the US refrains from creating distrust and excessive demands.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4015f05331bf203f297ee9a8"
     }
   ],
   "unverified_history": [
