@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-17T18:12:48.681793+00:00",
+  "updated": "2026-11-17T18:17:53.706441+00:00",
   "items": [
+    {
+      "title": "California sues OpenAI to stop \"public nuisance\" of out-of-control AI agents",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents",
+      "source": "Ars Technica",
+      "published": "2026-11-17T18:13:34+00:00",
+      "retrieved_at": "2026-11-17T18:17:48.701559+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8a860dab881795b0fb8413c4"
+    },
+    {
+      "title": "As decision model use skyrockets, is customization is the next frontier?",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T18:10:00+00:00",
+      "retrieved_at": "2026-11-17T18:17:47.894077+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "04bcbfa92913662f5ff81436"
+    },
     {
       "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
       "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain",
@@ -427,23 +461,6 @@
       "story_fingerprint": "a762b05d66493ce227ca5945"
     },
     {
-      "title": "Astra for Law leads in legal intelligence",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "source": "OpenAI",
-      "published": "2026-11-17T00:00:00+00:00",
-      "retrieved_at": "2026-11-17T18:12:43.604851+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "d2e36fdc59b1cc094e128abb"
-    },
-    {
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "source": "OpenAI",
@@ -476,6 +493,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "027c6b77f0b15e3fdaf37c71"
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "source": "OpenAI",
+      "published": "2026-11-17T00:00:00+00:00",
+      "retrieved_at": "2026-11-17T18:12:43.604851+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "d2e36fdc59b1cc094e128abb"
     },
     {
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "26a0ca4ef355038c12780641"
-    },
-    {
-      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
-      "source": "TechCrunch AI",
-      "published": "2026-11-09T16:56:54+00:00",
-      "retrieved_at": "2026-11-09T19:54:18.295828+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e183b28b2466779c2fe3ff22"
-    },
-    {
-      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process",
-      "source": "TechCrunch AI",
-      "published": "2026-11-09T16:12:28+00:00",
-      "retrieved_at": "2026-11-09T16:13:23.525925+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "16975f8beb4586185705661e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T18:12:42.618228+00:00",
+    "checked_at": "2026-11-17T18:17:47.550486+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
