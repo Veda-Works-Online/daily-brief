@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T22:33:33.191945+00:00",
+  "updated": "2026-11-17T22:38:33.235140+00:00",
   "items": [
+    {
+      "title": "Malicious code delivered through Optimizely hits visitors to hundreds of sites",
+      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites",
+      "source": "Ars Technica",
+      "published": "2026-11-17T22:32:16+00:00",
+      "retrieved_at": "2026-11-17T22:38:31.090468+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9d3dc8f8e88154dfa830f659"
+    },
     {
       "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
       "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "52f75ba6bf50939524216365"
-    },
-    {
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal",
-      "source": "TechCrunch AI",
-      "published": "2026-11-09T22:46:09+00:00",
-      "retrieved_at": "2026-11-09T22:51:32.268082+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ae429d81e240a4cb3f59e378"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T22:33:28.754631+00:00",
+    "checked_at": "2026-11-17T22:38:29.834653+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
