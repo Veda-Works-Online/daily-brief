@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T10:28:05.607045+00:00",
+  "updated": "2026-11-17T10:33:12.300474+00:00",
   "items": [
+    {
+      "title": "Will President Trump meet Kim Jong Un?",
+      "url": "https://bbc.co.uk/news/videos/c6grew79p7qdo",
+      "source": "BBC World",
+      "published": "2026-11-17T10:13:27+00:00",
+      "retrieved_at": "2026-11-17T10:33:09.194970+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "President Trump says he would be keen to meet the North Korea leader at the Apec summit in China.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6fddbe64930817dab48931a0"
+    },
     {
       "title": "US President Trump arrives in Manila ahead of ASEAN summit",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ebf3377fe0733217ad729d50"
-    },
-    {
-      "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
-      "url": "https://bbc.co.uk/news/articles/cmvgxgz87qqro",
-      "source": "BBC World",
-      "published": "2026-11-12T08:26:50+00:00",
-      "retrieved_at": "2026-11-12T08:31:08.492937+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b264c7564995257ae4d37ab7"
     }
   ],
   "unverified_history": [
