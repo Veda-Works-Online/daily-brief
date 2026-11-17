@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T15:28:00.932109+00:00",
+  "updated": "2026-11-17T15:32:52.043498+00:00",
   "items": [
+    {
+      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers",
+      "source": "Ars Technica AI",
+      "published": "2026-11-17T15:28:59+00:00",
+      "retrieved_at": "2026-11-17T15:32:47.461222+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1316fe433abd3a0bb652071c"
+    },
     {
       "title": "Meta launches Direct, a standalone messaging app for Instagram",
       "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram",
@@ -1836,23 +1853,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "973ec4c7f7b604524004791c"
-    },
-    {
-      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers",
-      "source": "Ars Technica AI",
-      "published": "2026-11-12T19:59:59+00:00",
-      "retrieved_at": "2026-11-12T20:44:15.216255+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "def241b9f7babbaa6d36946e"
     },
     {
       "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T15:27:54.619664+00:00",
+    "checked_at": "2026-11-17T15:32:46.508449+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
