@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T23:29:21.065309+00:00",
+  "updated": "2026-11-17T23:39:03.675275+00:00",
   "items": [
+    {
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T23:37:48+00:00",
+      "retrieved_at": "2026-11-17T23:38:55.372302+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0250d5295d054be0730b5968"
+    },
     {
       "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
       "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit",
@@ -74,9 +91,9 @@
       "url": "https://wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang",
       "source": "Wired",
       "published": "2026-11-17T22:19:19+00:00",
-      "retrieved_at": "2026-11-17T22:23:39.227667+00:00",
+      "retrieved_at": "2026-11-17T23:38:56.082321+00:00",
       "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.",
+      "summary": "Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intent” to reinstate the company’s ousted CEO.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "5aba55565f00e5fafb7bb0f3"
-    },
-    {
-      "title": "Decision Models in Hugging Face",
-      "url": "https://huggingface.co/blog/decision",
-      "source": "Hugging Face",
-      "published": "2026-11-10T00:00:00+00:00",
-      "retrieved_at": "2026-11-10T15:04:11.292037+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "5c9051bf5148f8431b0b003b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T23:29:15.635437+00:00",
+    "checked_at": "2026-11-17T23:38:54.920317+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
