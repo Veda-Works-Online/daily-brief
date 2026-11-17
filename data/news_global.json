@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T17:12:58.222682+00:00",
+  "updated": "2026-11-17T17:18:00.426048+00:00",
   "items": [
+    {
+      "title": "CAIR defends civil rights work against Trump’s ‘smear’",
+      "url": "https://aljazeera.com/news/2026/11/17/cair-defends-civil-rights-work-against-trumps-smear",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T17:09:49+00:00",
+      "retrieved_at": "2026-11-17T17:17:55.367747+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The country's largest Muslim advocacy group urges Trump to address rising hate crimes against Muslims.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "976981863f292b99ac7102e3"
+    },
     {
       "title": "Saudi Arabia: Rights groups raise alarm over rising number of executions",
       "url": "https://dw.com/en/saudi-arabia-rights-groups-raise-alarm-over-rising-number-of-executions/a-79970773",
@@ -352,6 +368,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "11c0003f61aa08e004adecb0"
+    },
+    {
+      "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
+      "url": "https://bbc.co.uk/news/articles/crq5vlxxx32no",
+      "source": "BBC World",
+      "published": "2026-11-17T12:54:32+00:00",
+      "retrieved_at": "2026-11-17T17:17:55.320986+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e96ac2a0ef4c8b7f2255441b"
     },
     {
       "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b243214850c9b7980df9ee59"
-    },
-    {
-      "title": "What to know about the Logan Circle shooting in Washington, DC",
-      "url": "https://aljazeera.com/news/2026/11/12/what-to-know-about-the-logan-circle-shooting-in-washington-dc",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T18:22:04+00:00",
-      "retrieved_at": "2026-11-12T19:08:22.812119+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump has showcased the capital city as an example of his tough-on-crime approach.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3955a03c4ce023a4728a156a"
-    },
-    {
-      "title": "China’s Drone Carrier Swarms Ahead",
-      "url": "https://thediplomat.com/2026/11/chinas-drone-carrier-swarms-ahead",
-      "source": "The Diplomat",
-      "published": "2026-11-12T18:16:00+00:00",
-      "retrieved_at": "2026-11-13T05:24:34.665549+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Beijing is at the forefront of developing drone carriers as combat platforms, especially compared to the United States. But will that translate into a combat advantage?",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f33ec6d11835932c8f0c06a9"
     }
   ],
   "unverified_history": [
