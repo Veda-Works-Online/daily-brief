@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T10:07:01.550134+00:00",
+  "updated": "2026-11-17T10:12:54.778545+00:00",
   "items": [
+    {
+      "title": "Are Smart Car Seats Worth It? I Tested Two to Find Out (2026)",
+      "url": "https://wired.com/story/do-you-need-a-smart-car-seat",
+      "source": "Wired",
+      "published": "2026-11-17T10:06:00+00:00",
+      "retrieved_at": "2026-11-17T10:12:51.755033+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "I tested the Babyark Classic and Cybex Cloud G Pro with my two kids. Here’s what the extra tech did for me and what I’d prioritize when buying a car seat.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a762b05d66493ce227ca5945"
+    },
     {
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "defb96860e127829942f4225"
-    },
-    {
-      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech",
-      "source": "TechCrunch",
-      "published": "2026-11-07T04:16:43+00:00",
-      "retrieved_at": "2026-11-07T04:18:55.524679+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "09f2b11c5f099ffb85bbe7e0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T10:06:55.317789+00:00",
+    "checked_at": "2026-11-17T10:12:50.532657+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
