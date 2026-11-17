@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T10:58:08.481277+00:00",
+  "updated": "2026-11-17T11:03:03.074445+00:00",
   "items": [
+    {
+      "title": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
+      "url": "https://aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T10:53:42+00:00",
+      "retrieved_at": "2026-11-17T11:02:59.934034+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A former US Foreign Service officer ran a company that funded election adverts attacking Jeremy Corbyn’s Labour.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c191307860cbe232e8071711"
+    },
     {
       "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "url": "https://bbc.co.uk/news/articles/cw772jk4rvmxo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8a3b72688372b5a7ab8235ce"
-    },
-    {
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "url": "https://bbc.co.uk/news/articles/ckzd9p7e4eqeo",
-      "source": "BBC World",
-      "published": "2026-11-12T09:00:15+00:00",
-      "retrieved_at": "2026-11-12T09:01:25.714547+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "75cb3afe19524492b631268f"
     }
   ],
   "unverified_history": [
