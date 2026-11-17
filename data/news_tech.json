@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T17:27:52.040670+00:00",
+  "updated": "2026-11-17T17:32:47.177656+00:00",
   "items": [
+    {
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T17:32:25+00:00",
+      "retrieved_at": "2026-11-17T17:32:41.488552+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "af2988c8bc17dca9e8c1b3a1"
+    },
     {
       "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
       "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "366ea06e670fbf5347f85e97"
-    },
-    {
-      "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet",
-      "source": "TechCrunch AI",
-      "published": "2026-11-09T14:00:00+00:00",
-      "retrieved_at": "2026-11-09T16:48:25.763560+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Automattic aims to compete with the likes of Lovable with Spacefast.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3857c6d82235ac4d28db4bb9"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T17:27:46.656460+00:00",
+    "checked_at": "2026-11-17T17:32:41.269778+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
