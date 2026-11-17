@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T09:36:26.708191+00:00",
+  "updated": "2026-11-17T10:28:05.607045+00:00",
   "items": [
+    {
+      "title": "US President Trump arrives in Manila ahead of ASEAN summit",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T10:13:12+00:00",
+      "retrieved_at": "2026-11-17T10:28:02.336090+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US President Donald Trump has landed in Manila ahead of a special ASEAN-US meeting.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9fbcd2879748e96279f15079"
+    },
     {
       "title": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
       "url": "https://bbc.co.uk/news/articles/cw772jk4rvmxo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b264c7564995257ae4d37ab7"
-    },
-    {
-      "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-      "url": "https://bbc.co.uk/news/articles/cr1ewpd95d21o",
-      "source": "BBC World",
-      "published": "2026-11-12T07:59:33+00:00",
-      "retrieved_at": "2026-11-12T09:16:09.771307+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f8806e182e43cad87e4644fa"
     }
   ],
   "unverified_history": [
