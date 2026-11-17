@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T14:32:47.473011+00:00",
+  "updated": "2026-11-17T14:47:57.977171+00:00",
   "items": [
+    {
+      "title": "Ghost Towns of Afghanistan: The Environmental Toll of Decades of War",
+      "url": "https://aljazeera.com/video/witness/2026/11/17/ghost-towns-of-afghanistan-the-environmental-toll-of-decades-of-war",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T14:30:00+00:00",
+      "retrieved_at": "2026-11-17T14:47:53.440393+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A father confronts the aftermath of environmental damage from years of war in Afghanistan.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1651d5d16249e838ff8cd25a"
+    },
     {
       "title": "APEC summit: What Trump, Xi and Putin want",
       "url": "https://dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462",
@@ -16,6 +32,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "55b7e02a0d6a983430de2216"
+    },
+    {
+      "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
+      "url": "https://aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T14:09:08+00:00",
+      "retrieved_at": "2026-11-17T14:47:53.440417+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Settler group also sanctioned for blocking Gaza aid as foreign secretary calls for 'protecting the two-state solution'.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fc654c20bd75d45df471b315"
     },
     {
       "title": "‘Unprecedented’ Ukraine attack on Crimean bridge",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "57f2d520124e5a93842de211"
-    },
-    {
-      "title": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
-      "url": "https://dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738",
-      "source": "DW",
-      "published": "2026-11-12T13:26:00+00:00",
-      "retrieved_at": "2026-11-12T13:37:11.266173+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Xi Jinping said that reunification was inevitable, but stopped short of mentioning military force. Taiwan though swiftly rejected Beijing's demands as tensions continue over the island's future.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3fa43a7cd29f65f397c583e1"
-    },
-    {
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "url": "https://bbc.co.uk/news/videos/cm93rp3gxn6qo",
-      "source": "BBC World",
-      "published": "2026-11-12T13:02:46+00:00",
-      "retrieved_at": "2026-11-12T13:07:00.670121+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b981004832e176d1ed1eb3cb"
     }
   ],
   "unverified_history": [
