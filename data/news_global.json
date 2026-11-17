@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T13:28:13.421516+00:00",
+  "updated": "2026-11-17T13:43:26.711666+00:00",
   "items": [
+    {
+      "title": "‘Unprecedented’ Ukraine attack on Crimean bridge",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T13:29:27+00:00",
+      "retrieved_at": "2026-11-17T13:43:23.581196+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Ukraine has struck the Kerch Bridge linking Russia to Russian-annexed Crimea for a second day.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "320fae65a8387be1d5c588cc"
+    },
     {
       "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
       "url": "https://aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "66a3bd11e1490ef4c34c0518"
-    },
-    {
-      "title": "Japan’s ‘Denial Defense Capabilities’ and the Debate Over Port Calls by Nuclear-Armed US Ships",
-      "url": "https://thediplomat.com/2026/11/japans-denial-defense-capabilities-and-the-debate-over-port-calls-by-nuclear-armed-us-ships",
-      "source": "The Diplomat",
-      "published": "2026-11-12T12:46:00+00:00",
-      "retrieved_at": "2026-11-12T21:24:11.021415+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Tokyo wants adversaries to conclude that an attack on Japan would fail. Would allowing a nuclear-armed U.S. ship to make a temporary port call in an emergency make the U.S. nuclear guarantee more credible?",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "96d9b0d56b98970e28005581"
     }
   ],
   "unverified_history": [
