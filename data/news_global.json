@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-17T21:48:31.826381+00:00",
+  "updated": "2026-11-17T22:28:48.630243+00:00",
   "items": [
+    {
+      "title": "Russian military plane crash in Siberia kills 19",
+      "url": "https://aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T22:21:16+00:00",
+      "retrieved_at": "2026-11-17T22:28:45.811174+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "692ba0403716a688a60ef281"
+    },
+    {
+      "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
+      "url": "https://aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T22:01:27+00:00",
+      "retrieved_at": "2026-11-17T22:28:45.811196+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US President Donald Trump has been trying to fire Cook since August 2025.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b8be10acd97049160eadfe34"
+    },
     {
       "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
       "url": "https://aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d95e891316d02bfab65332a7"
-    },
-    {
-      "title": "Iran says it targeted US radar site in Bahrain",
-      "url": "https://aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain",
-      "source": "Al Jazeera",
-      "published": "2026-11-13T03:17:27+00:00",
-      "retrieved_at": "2026-11-13T03:46:15.006053+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "IRGC says it hit radar in retaliation for an 'enemy' air attack on a telecom tower in Iran's Hormozgan province.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "85f42fb5f6908e7c2a2addf2"
-    },
-    {
-      "title": "Gaza surgeon films aftermath of Israeli strike",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike",
-      "source": "Al Jazeera",
-      "published": "2026-11-13T03:11:43+00:00",
-      "retrieved_at": "2026-11-13T03:25:00.045217+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "British volunteer surgeon films the terrifying aftermath of an Israeli strike on Gaza’s Nasser Hospital.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8bb613421587ae28548f2a87"
     }
   ],
   "unverified_history": [
