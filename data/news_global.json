@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T13:43:26.711666+00:00",
+  "updated": "2026-11-17T14:32:47.473011+00:00",
   "items": [
+    {
+      "title": "APEC summit: What Trump, Xi and Putin want",
+      "url": "https://dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462",
+      "source": "DW",
+      "published": "2026-11-17T14:25:00+00:00",
+      "retrieved_at": "2026-11-17T14:32:42.828806+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC. With different priorities on trade, Ukraine, Iran and arms control, what does each leader hope to gain?",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "55b7e02a0d6a983430de2216"
+    },
     {
       "title": "‘Unprecedented’ Ukraine attack on Crimean bridge",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge",
@@ -16,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "320fae65a8387be1d5c588cc"
+    },
+    {
+      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "url": "https://bbc.co.uk/news/articles/cw772jk4rvmxo",
+      "source": "BBC World",
+      "published": "2026-11-17T13:01:11+00:00",
+      "retrieved_at": "2026-11-17T14:32:42.817398+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "66681c2c01ebddfce895dbc8"
     },
     {
       "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
@@ -128,22 +160,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c191307860cbe232e8071711"
-    },
-    {
-      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "url": "https://bbc.co.uk/news/articles/cw772jk4rvmxo",
-      "source": "BBC World",
-      "published": "2026-11-17T10:45:55+00:00",
-      "retrieved_at": "2026-11-17T12:03:13.354944+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "66681c2c01ebddfce895dbc8"
     },
     {
       "title": "How new US chip restrictions on South East Asia will hit China",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b981004832e176d1ed1eb3cb"
-    },
-    {
-      "title": "Europe views US with ‘much less horror’ after Trump’s midterms defeat",
-      "url": "https://aljazeera.com/news/2026/11/12/europe-views-us-with-much-less-horror-after-trumps-midterms-defeat",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T12:51:43+00:00",
-      "retrieved_at": "2026-11-12T13:07:00.893583+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "But experts say Washington’s shift away from Europe runs deeper than Trump and is unlikely to be reversed.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "66a3bd11e1490ef4c34c0518"
     }
   ],
   "unverified_history": [
