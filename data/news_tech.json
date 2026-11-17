@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T06:21:20.062791+00:00",
+  "updated": "2026-11-17T06:26:26.140515+00:00",
   "items": [
     {
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -578,6 +578,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "40845eb8074ba8ca993cdb2c"
+    },
+    {
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "source": "OpenAI",
+      "published": "2026-11-16T09:30:00+00:00",
+      "retrieved_at": "2026-11-17T06:26:21.728703+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "6a9f772f8385255cbb51c7cf"
     },
     {
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
@@ -2603,23 +2620,6 @@
       "story_fingerprint": "f1e3cc50f0ca400b989b0c18"
     },
     {
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "source": "OpenAI",
-      "published": "2026-11-11T00:00:00+00:00",
-      "retrieved_at": "2026-11-11T18:43:50.647152+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "c68d3b68e6199fae02123bc8"
-    },
-    {
       "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
       "url": "https://huggingface.co/blog/token-pooling",
       "source": "Hugging Face",
@@ -2635,6 +2635,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "b302ba0c8bcdd5a870921eb1"
+    },
+    {
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "source": "OpenAI",
+      "published": "2026-11-11T00:00:00+00:00",
+      "retrieved_at": "2026-11-11T18:43:50.647152+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "c68d3b68e6199fae02123bc8"
     },
     {
       "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bae754a30dc73b0a7d2abb46"
-    },
-    {
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
-      "source": "TechCrunch AI",
-      "published": "2026-11-06T22:53:46+00:00",
-      "retrieved_at": "2026-11-06T22:57:55.714110+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "45d746c4df5b2a7db6b846c6"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T06:21:13.274152+00:00",
+    "checked_at": "2026-11-17T06:26:20.534553+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
