@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T20:33:34.734181+00:00",
+  "updated": "2026-11-17T20:38:35.803163+00:00",
   "items": [
+    {
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia",
+      "source": "Ars Technica AI",
+      "published": "2026-11-17T20:32:55+00:00",
+      "retrieved_at": "2026-11-17T20:38:29.367040+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "537599234589d322b8060e25"
+    },
     {
       "title": "Waymo suspends freeway rides nationwide after California DMV order",
       "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "34a292d8c570ec40a6782c38"
-    },
-    {
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
-      "source": "Google DeepMind",
-      "published": "2026-11-09T19:51:47+00:00",
-      "retrieved_at": "2026-11-10T14:59:10.103735+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "f64663cc412040f852f3494b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T20:33:30.656381+00:00",
+    "checked_at": "2026-11-17T20:38:28.408717+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
