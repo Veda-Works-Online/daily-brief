@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T14:47:50.631623+00:00",
+  "updated": "2026-11-17T14:52:51.553352+00:00",
   "items": [
+    {
+      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T14:50:58+00:00",
+      "retrieved_at": "2026-11-17T14:52:45.534529+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "95ad2ed0614a74450534cd94"
+    },
     {
       "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
       "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "72a7ecf68a626be5b031718e"
-    },
-    {
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
-      "source": "TechCrunch AI",
-      "published": "2026-11-08T21:00:11+00:00",
-      "retrieved_at": "2026-11-08T21:10:05.657547+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "In a memo to the company, Huang admitted that he had an affair.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9e3e0e425fdedc593e8227b1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T14:47:45.308404+00:00",
+    "checked_at": "2026-11-17T14:52:45.307412+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
