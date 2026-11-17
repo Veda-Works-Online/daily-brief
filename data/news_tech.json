@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T18:08:04.649042+00:00",
+  "updated": "2026-11-17T18:12:48.681793+00:00",
   "items": [
     {
       "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
@@ -17,6 +17,40 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b3d7998420155a64a81004de"
+    },
+    {
+      "title": "The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going",
+      "url": "https://wired.com/story/the-nvidia-scandal-is-about-chip-sales-to-china-trump-wants-to-keep-them-going",
+      "source": "Wired",
+      "published": "2026-11-17T18:03:32+00:00",
+      "retrieved_at": "2026-11-17T18:12:43.714110+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Commerce secretary Howard Lutnick has been under attack for not blacklisting a company caught up in the Jensen Huang scandal. But Trump is on board with the policy.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0a9876b1474e9ab03ccf1086"
+    },
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "OpenAI",
+      "published": "2026-11-17T17:45:00+00:00",
+      "retrieved_at": "2026-11-17T18:12:43.604787+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "ceeaa7bad5db25499dff0e3d"
     },
     {
       "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
@@ -391,6 +425,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a762b05d66493ce227ca5945"
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "source": "OpenAI",
+      "published": "2026-11-17T00:00:00+00:00",
+      "retrieved_at": "2026-11-17T18:12:43.604851+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "d2e36fdc59b1cc094e128abb"
     },
     {
       "title": "Strengthening NATO and allied cyber defenses with AI",
@@ -1039,23 +1090,6 @@
       "story_fingerprint": "a9b17c4d83a05c9a33cef6ae"
     },
     {
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "source": "OpenAI",
-      "published": "2026-11-16T06:00:00+00:00",
-      "retrieved_at": "2026-11-16T14:58:51.187178+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "2d0f664aa79dd48f78342e56"
-    },
-    {
       "title": "Advancing computer-use agents for healthcare teams",
       "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
       "source": "OpenAI",
@@ -1071,6 +1105,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "974631e28c28590c488ad48e"
+    },
+    {
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "source": "OpenAI",
+      "published": "2026-11-16T06:00:00+00:00",
+      "retrieved_at": "2026-11-16T14:58:51.187178+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "2d0f664aa79dd48f78342e56"
     },
     {
       "title": "Apple launches new app to study how people use AI for health",
@@ -2484,23 +2535,6 @@
       "story_fingerprint": "5fada236548ddb3f22c2f38f"
     },
     {
-      "title": "Supporting research on AI and children’s safety",
-      "url": "https://openai.com/index/children-first-declaration",
-      "source": "OpenAI",
-      "published": "2026-11-12T00:00:00+00:00",
-      "retrieved_at": "2026-11-12T10:27:18.644945+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "ee2e647c0e76d6d2305d78fa"
-    },
-    {
       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
       "url": "https://huggingface.co/blog/3d-lora-finetuning",
       "source": "Hugging Face",
@@ -2516,6 +2550,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "200d707246ef2d530f84dfd0"
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI",
+      "published": "2026-11-12T00:00:00+00:00",
+      "retrieved_at": "2026-11-12T10:27:18.644945+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "ee2e647c0e76d6d2305d78fa"
     },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -4199,57 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "16975f8beb4586185705661e"
-    },
-    {
-      "title": "Meta expands Instagram’s AI age-guessing tech globally",
-      "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally",
-      "source": "TechCrunch",
-      "published": "2026-11-09T15:32:27+00:00",
-      "retrieved_at": "2026-11-09T15:33:27.749454+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "869d51abb21f8bc9f81612f7"
-    },
-    {
-      "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
-      "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say",
-      "source": "TechCrunch",
-      "published": "2026-11-09T15:24:59+00:00",
-      "retrieved_at": "2026-11-09T15:28:29.184330+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ec057d680d6ab3eac090ccdc"
-    },
-    {
-      "title": "Nvidia CEO's affair becomes a national security problem",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage",
-      "source": "Ars Technica AI",
-      "published": "2026-11-09T15:23:20+00:00",
-      "retrieved_at": "2026-11-09T15:38:26.271124+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b3d631b7d48b674ac492e771"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T18:07:58.926792+00:00",
+    "checked_at": "2026-11-17T18:12:42.618228+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
