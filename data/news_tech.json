@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T23:48:55.000448+00:00",
+  "updated": "2026-11-17T23:53:56.496130+00:00",
   "items": [
     {
       "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
@@ -4235,11 +4235,11 @@
       "story_fingerprint": "b8829add19d7f7ecdb1bba8c"
     },
     {
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
       "source": "Hugging Face",
       "published": "2026-11-10T00:00:00+00:00",
-      "retrieved_at": "2026-11-17T23:48:49.913797+00:00",
+      "retrieved_at": "2026-11-17T23:53:52.325232+00:00",
       "feed_url": "https://huggingface.co/blog/feed.xml",
       "summary": "",
       "isAI": true,
@@ -4249,7 +4249,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "5aba55565f00e5fafb7bb0f3"
+      "story_fingerprint": "5c9051bf5148f8431b0b003b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T23:48:49.459820+00:00",
+    "checked_at": "2026-11-17T23:53:51.884351+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
