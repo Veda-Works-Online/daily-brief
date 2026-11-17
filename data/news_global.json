@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T08:10:38.226449+00:00",
+  "updated": "2026-11-17T08:26:38.964861+00:00",
   "items": [
+    {
+      "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
+      "url": "https://aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T08:12:06+00:00",
+      "retrieved_at": "2026-11-17T08:26:34.320548+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Moscow-installed governor says traffic suspended after second attack on bridge in two days.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "44bc12e245853f1007f266b0"
+    },
     {
       "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
       "url": "https://bbc.co.uk/news/articles/cw772jk4rvmxo",
@@ -18,13 +34,13 @@
       "story_fingerprint": "54edee17cc1221b64cdc9613"
     },
     {
-      "title": "Bahrain thwarts drone attack, Iran claims targeting US military radar",
+      "title": "Bahrain thwarts drone attack; Iran claims targeting US military radar",
       "url": "https://aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar",
       "source": "Al Jazeera",
       "published": "2026-11-17T07:35:54+00:00",
-      "retrieved_at": "2026-11-17T07:40:35.344592+00:00",
+      "retrieved_at": "2026-11-17T08:26:34.320638+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "This is a breaking news story.",
+      "summary": "The IRGC says the attack is part of efforts to counter 'hostile activities of US forces in the region'.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bd89c744cd8723d43fdd1e1b"
-    },
-    {
-      "title": "Iran war live: IRGC chief says sanctions won’t stop missile programme",
-      "url": "https://aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T00:00:44+00:00",
-      "retrieved_at": "2026-11-12T04:20:22.891536+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel orders military to step up preparations for possible attack on Iran as IRGC chief pledges missile development.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f9261fb52a8321aaf71edfcf"
     }
   ],
   "unverified_history": [
