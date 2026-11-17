@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T17:08:04.698047+00:00",
+  "updated": "2026-11-17T17:12:58.222682+00:00",
   "items": [
+    {
+      "title": "Saudi Arabia: Rights groups raise alarm over rising number of executions",
+      "url": "https://dw.com/en/saudi-arabia-rights-groups-raise-alarm-over-rising-number-of-executions/a-79970773",
+      "source": "DW",
+      "published": "2026-11-17T17:02:00+00:00",
+      "retrieved_at": "2026-11-17T17:12:53.573603+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Amid the war in Iran, Saudi Arabia's human rights situation remains bleak, with at least 211 executions, corporal punishment and an intensifying crackdown on critics. Is the regional conflict driving domestic repression?",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "800ea67d25450d0c578e9a92"
+    },
     {
       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "url": "https://bbc.co.uk/news/articles/cw772jk4rvmxo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f33ec6d11835932c8f0c06a9"
-    },
-    {
-      "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T18:03:02+00:00",
-      "retrieved_at": "2026-11-12T18:28:25.198685+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b33d759f2ba1d3577db69841"
     }
   ],
   "unverified_history": [
