@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-17T14:52:59.439013+00:00",
+  "updated": "2026-11-17T15:13:00.962127+00:00",
   "items": [
+    {
+      "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
+      "url": "https://aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T14:59:39+00:00",
+      "retrieved_at": "2026-11-17T15:12:56.381905+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A CNN report quoting unnamed US officials alleges Tehran is developing plans for an attack on officials in Washington.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0f1379aa172a2640fd114b30"
+    },
+    {
+      "title": "Bessent vs Lutnick: Who is winning the China chip debate?",
+      "url": "https://aljazeera.com/economy/2026/11/17/bessent-vs-lutnick-who-is-winning-the-china-chip-debate",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T14:46:37+00:00",
+      "retrieved_at": "2026-11-17T15:12:56.381948+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A rift has emerged in Trump’s cabinet over China’s access to advanced AI chips as export controls tighten.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8ca3cb0e876a315c35174f64"
+    },
     {
       "title": "Iran dismisses report of alleged 'dirty bomb' attack on Washington",
       "url": "https://dw.com/en/iran-dismisses-report-of-alleged-dirty-bomb-attack-on-washington/a-79970741",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0268fa5ea01926cb7ff431a0"
-    },
-    {
-      "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
-      "url": "https://aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T14:23:01+00:00",
-      "retrieved_at": "2026-11-12T14:37:20.061001+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel's military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4b7edf3d50646e9cb7e69a6c"
-    },
-    {
-      "title": "Iran: Exiled journalists still repressed by regime",
-      "url": "https://dw.com/en/iran-exiled-journalists-still-repressed-by-regime/a-79929694",
-      "source": "DW",
-      "published": "2026-11-12T14:11:00+00:00",
-      "retrieved_at": "2026-11-12T14:17:22.664633+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "For many independent reporters, leaving Iran does not mean fully escaping the grasp of the Iranian state. The regime uses family members, bank accounts and the property they left behind to apply pressure across borders.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "028936ef3691dcb63684fd6b"
     }
   ],
   "unverified_history": [
