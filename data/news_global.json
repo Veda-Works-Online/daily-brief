@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T19:58:54.210867+00:00",
+  "updated": "2026-11-17T20:23:39.587123+00:00",
   "items": [
+    {
+      "title": "China, Canada expand tariff relief after Carney-Xi meeting",
+      "url": "https://aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T20:11:41+00:00",
+      "retrieved_at": "2026-11-17T20:23:36.775309+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "China offers tariff cuts on Canadian pork and seafood, as Canada extends exemptions for Chinese steel and aluminium.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "13ab1a03df233161438ee4d3"
+    },
     {
       "title": "Russian military plane crashes killing all 19 on board",
       "url": "https://bbc.co.uk/news/articles/cw8085rykkmgo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "708198d75bd15de936430aca"
-    },
-    {
-      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-      "url": "https://bbc.co.uk/news/articles/cwrkgmymk55zo",
-      "source": "BBC World",
-      "published": "2026-11-12T21:00:42+00:00",
-      "retrieved_at": "2026-11-12T22:14:07.793036+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "70142b9dabf8e0ab873b2916"
     }
   ],
   "unverified_history": [
