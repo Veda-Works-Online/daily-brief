@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T19:27:48.678577+00:00",
+  "updated": "2026-11-17T19:33:54.886890+00:00",
   "items": [
+    {
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T19:32:11+00:00",
+      "retrieved_at": "2026-11-17T19:33:51.127371+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The three-year-old Model ML was valued at $1.5 billion in a new round co-led by General Atlantic and QED Investors.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "91fee8e6777b5275164eec9a"
+    },
     {
       "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
       "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5533ddb8083d11e3ce339d39"
-    },
-    {
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "source": "OpenAI",
-      "published": "2026-11-09T19:00:00+00:00",
-      "retrieved_at": "2026-11-09T19:09:22.612767+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "2e601c574d84ada41efe15c1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T19:27:42.628395+00:00",
+    "checked_at": "2026-11-17T19:33:50.591758+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
