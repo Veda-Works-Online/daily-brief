@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T17:43:03.952805+00:00",
+  "updated": "2026-11-17T18:23:02.211607+00:00",
   "items": [
+    {
+      "title": "Israeli forces invade Syrian village leaving homes damaged",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T17:57:20+00:00",
+      "retrieved_at": "2026-11-17T18:22:56.490281+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Video shows bullet-riddled walls and charred belongings after Israeli raids on homes in Syria’s Daraa.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0cc4fc1fc94a4b6ea56a5240"
+    },
     {
       "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
       "url": "https://aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "abe204460face935ad32c54e"
-    },
-    {
-      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "url": "https://bbc.co.uk/news/articles/cmvg2r3dq7xno",
-      "source": "BBC World",
-      "published": "2026-11-12T18:47:35+00:00",
-      "retrieved_at": "2026-11-12T21:44:05.615083+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "048890ba9479b9c232bbab42"
     }
   ],
   "unverified_history": [
