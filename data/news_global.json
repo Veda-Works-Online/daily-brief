@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T20:28:42.241121+00:00",
+  "updated": "2026-11-17T20:43:40.627740+00:00",
   "items": [
     {
       "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
@@ -32,6 +32,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "66663b776673efc0550c7757"
+    },
+    {
+      "title": "Kalshi halts Trump speech bets after CFTC order",
+      "url": "https://aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T20:20:18+00:00",
+      "retrieved_at": "2026-11-17T20:43:38.087815+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Kalshi halts Trump speech bets following CFTC mandate amid concerns of insider trading in US prediction markets.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5d4361c3524e277cdb7d532f"
     },
     {
       "title": "China, Canada expand tariff relief after Carney-Xi meeting",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "747b279882c2b33330758ce6"
-    },
-    {
-      "title": "Chips, Cheats, and China: The Nvidia Espionage Scandal",
-      "url": "https://thediplomat.com/2026/11/chips-cheats-and-china-the-nvidia-espionage-scandal",
-      "source": "The Diplomat",
-      "published": "2026-11-12T21:01:00+00:00",
-      "retrieved_at": "2026-11-13T05:24:34.665587+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "A deep dive into the implications of Jensen Huang's affair, Alice Huang’s business dealings, and the fallout for both the China-U.S. trade war and the AI race.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "708198d75bd15de936430aca"
     }
   ],
   "unverified_history": [
