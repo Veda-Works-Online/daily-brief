@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T18:47:50.265345+00:00",
+  "updated": "2026-11-17T18:52:49.032708+00:00",
   "items": [
+    {
+      "title": "Google to keep Gemini chats for two months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T18:48:23+00:00",
+      "retrieved_at": "2026-11-17T18:52:43.283782+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "338344e265ccb95cce16ff46"
+    },
     {
       "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
       "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e303c647b84d87e86950e888"
-    },
-    {
-      "title": "Claude Code is accidentally exposing secrets all over GitHub",
-      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github",
-      "source": "Ars Technica AI",
-      "published": "2026-11-09T17:24:26+00:00",
-      "retrieved_at": "2026-11-09T17:38:22.258270+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "26a0ca4ef355038c12780641"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T18:47:41.272926+00:00",
+    "checked_at": "2026-11-17T18:52:43.037683+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
