@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T08:51:24.121961+00:00",
+  "updated": "2026-11-17T08:56:21.509677+00:00",
   "items": [
     {
       "title": "The Military Strategic Drivers Behind China’s Nuclear Expansion",
@@ -64,6 +64,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "54edee17cc1221b64cdc9613"
+    },
+    {
+      "title": "Japan sends up jets after alleged Russian incursion of its airspace",
+      "url": "https://bbc.co.uk/news/articles/c60evw20qe47o",
+      "source": "BBC World",
+      "published": "2026-11-17T07:44:17+00:00",
+      "retrieved_at": "2026-11-17T08:56:16.964386+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "688b7c453b3d458f2b055179"
     },
     {
       "title": "Bahrain thwarts drone attack; Iran claims targeting US radar",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2e7a3dc26182f4bc8e447d86"
-    },
-    {
-      "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
-      "url": "https://aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T03:50:42+00:00",
-      "retrieved_at": "2026-11-12T04:20:22.891297+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "15e415ad4fc3c044eced27ed"
     }
   ],
   "unverified_history": [
