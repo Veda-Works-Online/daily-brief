@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T10:33:12.300474+00:00",
+  "updated": "2026-11-17T10:38:14.752288+00:00",
   "items": [
+    {
+      "title": "Crimean Bridge badly damaged as Zelensky hails 'unprecedented' attack by Ukraine",
+      "url": "https://bbc.co.uk/news/articles/cw772jk4rvmxo",
+      "source": "BBC World",
+      "published": "2026-11-17T10:34:29+00:00",
+      "retrieved_at": "2026-11-17T10:38:11.630855+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Zelensky says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6ddefafacdb644278c53509b"
+    },
     {
       "title": "Will President Trump meet Kim Jong Un?",
       "url": "https://bbc.co.uk/news/videos/c6grew79p7qdo",
@@ -32,22 +48,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9fbcd2879748e96279f15079"
-    },
-    {
-      "title": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
-      "url": "https://bbc.co.uk/news/articles/cw772jk4rvmxo",
-      "source": "BBC World",
-      "published": "2026-11-17T09:27:41+00:00",
-      "retrieved_at": "2026-11-17T09:31:40.905494+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "46201b0237fa7370fdc08e94"
     },
     {
       "title": "Kim Jong Un tours North Korea ski resort with daughter Ju Ae",
