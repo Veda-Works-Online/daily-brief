@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T16:53:01.329235+00:00",
+  "updated": "2026-11-17T17:02:57.880780+00:00",
   "items": [
+    {
+      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+      "url": "https://bbc.co.uk/news/articles/cq808vzd3nnpo",
+      "source": "BBC World",
+      "published": "2026-11-17T16:42:11+00:00",
+      "retrieved_at": "2026-11-17T17:02:52.406777+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9eb0effb1b8b8f5d3afcdda7"
+    },
     {
       "title": "Back to 1997: Russia wants NATO to roll back its eastern expansion",
       "url": "https://dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289",
@@ -226,22 +242,6 @@
       "story_fingerprint": "1651d5d16249e838ff8cd25a"
     },
     {
-      "title": "Trump, Xi and Putin will hold their first trilateral meeting during APEC. DW looks at what each of the leaders wants",
-      "url": "https://dw.com/en/trump-xi-and-putin-will-hold-their-first-trilateral-meeting-during-apec-dw-looks-at-what-each-of-the-leaders-wants/a-79970462",
-      "source": "DW",
-      "published": "2026-11-17T14:25:00+00:00",
-      "retrieved_at": "2026-11-17T16:52:56.569078+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC. With different priorities on trade, Ukraine, Iran and arms control, what does each leader hope to gain?",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1738f555899688914b7962e5"
-    },
-    {
       "title": "APEC summit: What Trump, Xi and Putin want",
       "url": "https://dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462",
       "source": "DW",
@@ -256,6 +256,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "55b7e02a0d6a983430de2216"
+    },
+    {
+      "title": "Trump, Xi and Putin will hold their first trilateral meeting during APEC. DW looks at what each of the leaders wants",
+      "url": "https://dw.com/en/trump-xi-and-putin-will-hold-their-first-trilateral-meeting-during-apec-dw-looks-at-what-each-of-the-leaders-wants/a-79970462",
+      "source": "DW",
+      "published": "2026-11-17T14:25:00+00:00",
+      "retrieved_at": "2026-11-17T16:52:56.569078+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC. With different priorities on trade, Ukraine, Iran and arms control, what does each leader hope to gain?",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1738f555899688914b7962e5"
     },
     {
       "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b33d759f2ba1d3577db69841"
-    },
-    {
-      "title": "Between Russia and Ukraine: India’s Foray as a Peacemaker",
-      "url": "https://thediplomat.com/2026/11/between-russia-and-ukraine-indias-foray-as-a-peacemaker",
-      "source": "The Diplomat",
-      "published": "2026-11-12T17:19:00+00:00",
-      "retrieved_at": "2026-11-12T21:24:11.021338+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "New Delhi’s relations with Moscow are strong, but as far as the Ukraine war is concerned, India enjoys little leverage over Russia’s decisions.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "523a501f2de75ecd2a4e9278"
     }
   ],
   "unverified_history": [
