@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T19:38:40.010137+00:00",
+  "updated": "2026-11-17T19:43:44.119005+00:00",
   "items": [
     {
       "title": "Model ML raises $250M to automate investment banking grunt work",
@@ -36,11 +36,11 @@
       "story_fingerprint": "4138cc96b05130029bbd5383"
     },
     {
-      "title": "Apple services, including iCloud, App Store, and Apple Music, hit by outage",
+      "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
       "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage",
       "source": "TechCrunch",
       "published": "2026-11-17T18:55:40+00:00",
-      "retrieved_at": "2026-11-17T19:17:44.847776+00:00",
+      "retrieved_at": "2026-11-17T19:43:38.951637+00:00",
       "feed_url": "https://techcrunch.com/feed/",
       "summary": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
       "isAI": false,
@@ -50,7 +50,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "354e5669bc65a56098c0e32c"
+      "story_fingerprint": "ed559dea7f299970802a5d94"
     },
     {
       "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T19:38:33.495756+00:00",
+    "checked_at": "2026-11-17T19:43:37.700324+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
