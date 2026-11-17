@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T18:52:49.032708+00:00",
+  "updated": "2026-11-17T18:57:49.977334+00:00",
   "items": [
+    {
+      "title": "Apple services, including iCloud, App Store, and Apple Music, hit by outage",
+      "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage",
+      "source": "TechCrunch",
+      "published": "2026-11-17T18:55:40+00:00",
+      "retrieved_at": "2026-11-17T18:57:44.003584+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Apple's status page confirms its services are faces outages, but has not confirmed the cause.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "354e5669bc65a56098c0e32c"
+    },
     {
       "title": "Google to keep Gemini chats for two months, up from 72 hours, even with history off",
       "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "943f02bd6752bd518ff7d7c7"
-    },
-    {
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
-      "source": "TechCrunch AI",
-      "published": "2026-11-09T18:00:00+00:00",
-      "retrieved_at": "2026-11-09T18:03:35.621487+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e303c647b84d87e86950e888"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T18:52:43.037683+00:00",
+    "checked_at": "2026-11-17T18:57:42.975740+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
