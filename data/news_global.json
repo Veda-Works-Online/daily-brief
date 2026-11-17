@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-17T20:23:39.587123+00:00",
+  "updated": "2026-11-17T20:28:42.241121+00:00",
   "items": [
+    {
+      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+      "url": "https://bbc.co.uk/news/articles/crq5vlxxx32no",
+      "source": "BBC World",
+      "published": "2026-11-17T20:25:46+00:00",
+      "retrieved_at": "2026-11-17T20:28:39.039531+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "eec1a1a41d41cb21ff12ded0"
+    },
+    {
+      "title": "Russian military plane crashes killing all 19 on board",
+      "url": "https://bbc.co.uk/news/articles/cw8085rykkmgo",
+      "source": "BBC World",
+      "published": "2026-11-17T20:25:27+00:00",
+      "retrieved_at": "2026-11-17T20:28:39.039491+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "66663b776673efc0550c7757"
+    },
     {
       "title": "China, Canada expand tariff relief after Carney-Xi meeting",
       "url": "https://aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting",
@@ -16,22 +48,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "13ab1a03df233161438ee4d3"
-    },
-    {
-      "title": "Russian military plane crashes killing all 19 on board",
-      "url": "https://bbc.co.uk/news/articles/cw8085rykkmgo",
-      "source": "BBC World",
-      "published": "2026-11-17T19:33:55+00:00",
-      "retrieved_at": "2026-11-17T19:48:45.876067+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "66663b776673efc0550c7757"
     },
     {
       "title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
@@ -496,22 +512,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "11c0003f61aa08e004adecb0"
-    },
-    {
-      "title": "Trump lands in Asia ahead of talks with Russian and Chinese presidents",
-      "url": "https://bbc.co.uk/news/articles/crq5vlxxx32no",
-      "source": "BBC World",
-      "published": "2026-11-17T12:54:32+00:00",
-      "retrieved_at": "2026-11-17T17:17:55.320986+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e96ac2a0ef4c8b7f2255441b"
     },
     {
       "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
