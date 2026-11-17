@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-17T18:22:53.254628+00:00",
+  "updated": "2026-11-17T18:27:49.177913+00:00",
   "items": [
     {
-      "title": "California sues OpenAI to stop \"public nuisance\" of out-of-control AI agents",
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
       "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents",
       "source": "Ars Technica",
       "published": "2026-11-17T18:13:34+00:00",
-      "retrieved_at": "2026-11-17T18:17:48.701559+00:00",
+      "retrieved_at": "2026-11-17T18:27:44.167554+00:00",
       "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
       "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
       "isAI": true,
@@ -16,7 +16,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "8a860dab881795b0fb8413c4"
+      "story_fingerprint": "5355028ba122febbc07c0b55"
     },
     {
       "title": "As decision model use skyrockets, is customization is the next frontier?",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T18:22:45.215928+00:00",
+    "checked_at": "2026-11-17T18:27:42.660479+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
