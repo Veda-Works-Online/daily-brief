@@ -1,12 +1,46 @@
 {
-  "updated": "2026-11-17T17:02:49.555774+00:00",
+  "updated": "2026-11-17T17:07:56.750689+00:00",
   "items": [
     {
-      "title": "Google will let you opt out of AI training in Gemini without losing your history",
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
+      "source": "Google AI",
+      "published": "2026-11-17T17:00:00+00:00",
+      "retrieved_at": "2026-11-17T17:07:49.615745+00:00",
+      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "98475f7f9646f75bdb1f335f"
+    },
+    {
+      "title": "VSCO Is Gunning for Adobe Lightroom With Its New Desktop App",
+      "url": "https://wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app",
+      "source": "Wired",
+      "published": "2026-11-17T17:00:00+00:00",
+      "retrieved_at": "2026-11-17T17:07:50.445030+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The new Studio Pro Desktop app for macOS delivers fast batch editing, RAW support, and more than 200 presets, though a few pro tools are still missing.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "399f37ac3bcebc3a09349b0c"
+    },
+    {
+      "title": "Google makes it easier to use Gemini without training AI on your data",
       "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history",
       "source": "Ars Technica AI",
       "published": "2026-11-17T16:50:10+00:00",
-      "retrieved_at": "2026-11-17T16:57:47.418035+00:00",
+      "retrieved_at": "2026-11-17T17:07:49.975923+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
       "isAI": true,
@@ -16,7 +50,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "c32170471a01f700f96e0c02"
+      "story_fingerprint": "b1c697355efaa6d5fcb96e3d"
     },
     {
       "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
@@ -125,9 +159,9 @@
       "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials",
       "source": "TechCrunch AI",
       "published": "2026-11-17T14:50:58+00:00",
-      "retrieved_at": "2026-11-17T14:52:45.534529+00:00",
+      "retrieved_at": "2026-11-17T17:07:49.539135+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 Billion in a Series C funding round.",
+      "summary": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7ded44537db980a38a5436ae"
-    },
-    {
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "url": "https://openai.com/index/control-room",
-      "source": "OpenAI",
-      "published": "2026-11-09T13:00:00+00:00",
-      "retrieved_at": "2026-11-09T22:11:33.233894+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "416daab152882fc1c9e20259"
-    },
-    {
-      "title": "Introducing Control Room: Human control over AI workloads",
-      "url": "https://openai.com/index/introducing-control-room",
-      "source": "OpenAI",
-      "published": "2026-11-09T13:00:00+00:00",
-      "retrieved_at": "2026-11-09T21:49:04.309629+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "6a5aa0d3a7ee3f24f336c095"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T17:02:40.417528+00:00",
+    "checked_at": "2026-11-17T17:07:49.229254+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

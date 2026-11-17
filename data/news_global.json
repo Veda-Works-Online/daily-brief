@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T17:02:57.880780+00:00",
+  "updated": "2026-11-17T17:08:04.698047+00:00",
   "items": [
+    {
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "url": "https://bbc.co.uk/news/articles/cw772jk4rvmxo",
+      "source": "BBC World",
+      "published": "2026-11-17T16:56:38+00:00",
+      "retrieved_at": "2026-11-17T17:07:59.541939+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cd6104ec413243a662f4e3c4"
+    },
     {
       "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
       "url": "https://bbc.co.uk/news/articles/cq808vzd3nnpo",
@@ -320,22 +336,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "11c0003f61aa08e004adecb0"
-    },
-    {
-      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "url": "https://bbc.co.uk/news/articles/cw772jk4rvmxo",
-      "source": "BBC World",
-      "published": "2026-11-17T13:01:11+00:00",
-      "retrieved_at": "2026-11-17T14:32:42.817398+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "66681c2c01ebddfce895dbc8"
     },
     {
       "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
