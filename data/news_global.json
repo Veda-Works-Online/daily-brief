@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T15:13:00.962127+00:00",
+  "updated": "2026-11-17T15:18:01.475451+00:00",
   "items": [
+    {
+      "title": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T15:13:57+00:00",
+      "retrieved_at": "2026-11-17T15:17:57.000439+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "President Donald Trump responded to a CNN report that Iran was working on plans to attack Washington, DC",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f5fe5111f898822ec824cad4"
+    },
     {
       "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
       "url": "https://aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ac46cb849534c239dccd8ca7"
-    },
-    {
-      "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-      "url": "https://aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T14:27:54+00:00",
-      "retrieved_at": "2026-11-12T14:37:20.060972+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Sustainable stalemate or slow-motion strangulation? The current 'equilibrium' is inherently unstable, experts say.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0268fa5ea01926cb7ff431a0"
     }
   ],
   "unverified_history": [
