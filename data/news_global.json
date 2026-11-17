@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T06:21:27.835706+00:00",
+  "updated": "2026-11-17T07:25:39.581168+00:00",
   "items": [
     {
       "title": "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
@@ -98,6 +98,22 @@
       "story_fingerprint": "c4e1d4c3446ddc9a338eb355"
     },
     {
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+      "url": "https://bbc.co.uk/news/articles/cry49plv8v3go",
+      "source": "BBC World",
+      "published": "2026-11-17T02:37:53+00:00",
+      "retrieved_at": "2026-11-17T07:25:34.898583+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ea33ffbfded25c6406653e41"
+    },
+    {
       "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
       "url": "https://aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates",
       "source": "Al Jazeera",
@@ -146,20 +162,20 @@
       "story_fingerprint": "fbdc6dbf96c60cfd94c2d4a8"
     },
     {
-      "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
+      "title": "Iran war live: Ships warned against ‘fake American routes’ in Hormuz Strait",
       "url": "https://aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz",
       "source": "Al Jazeera",
       "published": "2026-11-16T23:57:49+00:00",
-      "retrieved_at": "2026-11-17T02:13:35.225649+00:00",
+      "retrieved_at": "2026-11-17T07:25:34.875048+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran-aligned Houthi fighters kept up their push in southern Yemen as JD Vance ruled out a US 'forever war' in Iran.",
+      "summary": "Oil tankers continue to explode in the Strait of Hormuz as tensions ramp up over US military buildup in the Middle East.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "fcb7d3f957bd42f863b3ecb9"
+      "story_fingerprint": "04eac0dd589f9e48cf4a32b7"
     },
     {
       "title": "Trump departs for ASEAN on summit with Xi and Putin",
@@ -208,22 +224,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "53fee51de791a86fd5f039a4"
-    },
-    {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-      "url": "https://bbc.co.uk/news/articles/cry49plv8v3go",
-      "source": "BBC World",
-      "published": "2026-11-16T22:21:27+00:00",
-      "retrieved_at": "2026-11-16T22:25:20.154436+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c0ed1394e86251987975c2ed"
     },
     {
       "title": "Houthi rebel advance in Yemen may further destabilise global economy",
