@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T18:57:49.977334+00:00",
+  "updated": "2026-11-17T19:02:52.697076+00:00",
   "items": [
+    {
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T19:02:20+00:00",
+      "retrieved_at": "2026-11-17T19:02:44.083936+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4138cc96b05130029bbd5383"
+    },
     {
       "title": "Apple services, including iCloud, App Store, and Apple Music, hit by outage",
       "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage",
@@ -19,11 +36,11 @@
       "story_fingerprint": "354e5669bc65a56098c0e32c"
     },
     {
-      "title": "Google to keep Gemini chats for two months, up from 72 hours, even with history off",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
       "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off",
       "source": "TechCrunch AI",
       "published": "2026-11-17T18:48:23+00:00",
-      "retrieved_at": "2026-11-17T18:52:43.283782+00:00",
+      "retrieved_at": "2026-11-17T19:02:44.083964+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
       "isAI": true,
@@ -33,7 +50,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "338344e265ccb95cce16ff46"
+      "story_fingerprint": "475dff0a72c6d0e341f9588a"
     },
     {
       "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "2e601c574d84ada41efe15c1"
-    },
-    {
-      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny",
-      "source": "TechCrunch AI",
-      "published": "2026-11-09T18:09:52+00:00",
-      "retrieved_at": "2026-11-09T18:13:41.036453+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "943f02bd6752bd518ff7d7c7"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T18:57:42.975740+00:00",
+    "checked_at": "2026-11-17T19:02:43.385644+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
