@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T03:23:40.606957+00:00",
+  "updated": "2026-11-17T05:26:30.244854+00:00",
   "items": [
     {
       "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
@@ -22,9 +22,9 @@
       "url": "https://aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal",
       "source": "Al Jazeera",
       "published": "2026-11-17T02:52:56+00:00",
-      "retrieved_at": "2026-11-17T03:23:37.646533+00:00",
+      "retrieved_at": "2026-11-17T05:26:25.412914+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
+      "summary": "The Trump administration introduces export licence requirements for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -48,6 +48,38 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5ab1391583fd9750dce176d7"
+    },
+    {
+      "title": "China’s Premier Denounces Protectionism, Hails ‘Extraordinary’ State of Relations With ASEAN",
+      "url": "https://thediplomat.com/2026/11/chinas-premier-denounces-protectionism-hails-extraordinary-state-of-relations-with-asean",
+      "source": "The Diplomat",
+      "published": "2026-11-17T00:45:00+00:00",
+      "retrieved_at": "2026-11-17T05:26:25.449605+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "Li Qiang's comments to ASEAN leaders were tailored to the region's main concerns about the trajectory of U.S. foreign policy under President Donald Trump.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3d7bc52fe46688e91fe160dc"
+    },
+    {
+      "title": "Despite the ‘Donroe Doctrine,’ China Is Still Gaining Ground in Latin America",
+      "url": "https://thediplomat.com/2026/11/despite-the-donroe-doctrine-china-is-still-gaining-ground-in-latin-america",
+      "source": "The Diplomat",
+      "published": "2026-11-17T00:32:00+00:00",
+      "retrieved_at": "2026-11-17T05:26:25.449587+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "The Trump administration's threats have not pushed the region to distance itself from China. In fact, they may have had the opposite effect.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fbdc6dbf96c60cfd94c2d4a8"
     },
     {
       "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0898f0f07d8d181ff8ca4b9b"
-    },
-    {
-      "title": "Oil production nears pre-Iran war levels, OPEC says",
-      "url": "https://aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T20:45:30+00:00",
-      "retrieved_at": "2026-11-11T20:55:09.862780+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Saudi Arabia reports oil outputs soared to highest levels in months despite continued shipping disruptions.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ba5ccb4e321e0dff4489ddba"
-    },
-    {
-      "title": "Gaza goalkeeper killed in Israeli attack",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T20:44:34+00:00",
-      "retrieved_at": "2026-11-11T20:55:09.862801+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Palestinian footballer Mahmoud Abdel-Malek was killed in an Israeli strike days after the Thousand Martyrs Cup.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7a4cf819a0dfa8d239e79055"
     }
   ],
   "unverified_history": [
