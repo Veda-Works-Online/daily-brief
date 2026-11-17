@@ -1,14 +1,31 @@
 {
-  "updated": "2026-11-17T19:43:44.119005+00:00",
+  "updated": "2026-11-17T19:48:44.092052+00:00",
   "items": [
+    {
+      "title": "How to Tell If It’s a Cyberattack or Just an Outage",
+      "url": "https://wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage",
+      "source": "Wired",
+      "published": "2026-11-17T19:40:57+00:00",
+      "retrieved_at": "2026-11-17T19:48:40.907498+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Email, flights, banks; network failures are piling up. Here’s how WIRED investigates if they’re the result of hacker mayhem. (Hint: usually not.)",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0c4db0612e1f370739a62262"
+    },
     {
       "title": "Model ML raises $250M to automate investment banking grunt work",
       "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work",
       "source": "TechCrunch AI",
       "published": "2026-11-17T19:32:11+00:00",
-      "retrieved_at": "2026-11-17T19:33:51.127371+00:00",
+      "retrieved_at": "2026-11-17T19:48:40.270166+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The three-year-old Model ML was valued at $1.5 billion in a new round co-led by General Atlantic and QED Investors.",
+      "summary": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d8e747aabd405c022ee2740b"
-    },
-    {
-      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months",
-      "source": "TechCrunch",
-      "published": "2026-11-09T19:21:46+00:00",
-      "retrieved_at": "2026-11-09T19:24:13.685312+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5533ddb8083d11e3ce339d39"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T19:43:37.700324+00:00",
+    "checked_at": "2026-11-17T19:48:39.646870+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
