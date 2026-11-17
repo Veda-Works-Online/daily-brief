@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T07:25:39.581168+00:00",
+  "updated": "2026-11-17T07:30:42.612926+00:00",
   "items": [
+    {
+      "title": "Ukraine and Russia trade strikes on key bridges",
+      "url": "https://bbc.co.uk/news/articles/cw772jk4rvmxo",
+      "source": "BBC World",
+      "published": "2026-11-17T07:30:07+00:00",
+      "retrieved_at": "2026-11-17T07:30:38.057737+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "A bridge linking Crimea and Russia has reportedly been damaged, while two major routes through Kyiv are closed.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1ba5a8cda7511fe938eb3da5"
+    },
     {
       "title": "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
       "url": "https://aljazeera.com/news/2026/11/17/palestine-weekly-israels-political-reshuffle-as-the-occupation-grinds-on",
@@ -48,22 +64,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "69c40d9ffa81ebb0f577d068"
-    },
-    {
-      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
-      "url": "https://bbc.co.uk/news/articles/cw772jk4rvmxo",
-      "source": "BBC World",
-      "published": "2026-11-17T04:18:32+00:00",
-      "retrieved_at": "2026-11-17T05:41:34.806805+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "abb1502e64cff11e9ed78e20"
     },
     {
       "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
