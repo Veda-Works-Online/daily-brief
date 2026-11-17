@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T11:02:57.802548+00:00",
+  "updated": "2026-11-17T11:08:00.138759+00:00",
   "items": [
+    {
+      "title": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+      "url": "https://wired.com/story/wired-yearbook-2026-clement-delangue",
+      "source": "Wired",
+      "published": "2026-11-17T11:00:00+00:00",
+      "retrieved_at": "2026-11-17T11:07:55.957426+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2412c351eaf491ea884b206a"
+    },
     {
       "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
       "url": "https://wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f592c517f821e043bfafcbda"
-    },
-    {
-      "title": "This Totally Free App Can Free Up Space on Your Mac",
-      "url": "https://wired.com/story/this-totally-free-app-can-free-up-space-on-your-mac-purge",
-      "source": "Wired",
-      "published": "2026-11-07T11:15:00+00:00",
-      "retrieved_at": "2026-11-07T11:24:40.870898+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Stop paying for disk cleaners. This open source utility safely clears hidden caches, leftover app junk, and even gigabytes of offline Apple Intelligence models.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "86071fbfddfc50c8cab27c7a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T11:02:53.521605+00:00",
+    "checked_at": "2026-11-17T11:07:54.825382+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
