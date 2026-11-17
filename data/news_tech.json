@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T19:48:44.092052+00:00",
+  "updated": "2026-11-17T19:53:33.720863+00:00",
   "items": [
+    {
+      "title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order",
+      "source": "TechCrunch",
+      "published": "2026-11-17T19:49:41+00:00",
+      "retrieved_at": "2026-11-17T19:53:29.423449+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The California Department of Motor Vehicles, which regulates the testing and deployment of autonomous vehicles in the state, issued the operational restrictions on Waymo following several incidents.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "938544a006a2c5db83014b80"
+    },
     {
       "title": "How to Tell If It’s a Cyberattack or Just an Outage",
       "url": "https://wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "f64663cc412040f852f3494b"
-    },
-    {
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
-      "source": "TechCrunch AI",
-      "published": "2026-11-09T19:24:51+00:00",
-      "retrieved_at": "2026-11-09T19:29:17.984335+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d8e747aabd405c022ee2740b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T19:48:39.646870+00:00",
+    "checked_at": "2026-11-17T19:53:28.407159+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
