@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-17T22:53:41.848875+00:00",
+  "updated": "2026-11-17T23:24:23.648417+00:00",
   "items": [
+    {
+      "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
+      "url": "https://aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T23:09:00+00:00",
+      "retrieved_at": "2026-11-17T23:24:18.763113+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "El Salvador's security minister has confirmed the troops will leave once kidnapped technicians are rescued.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0ab67a3b2575b25147c9f271"
+    },
     {
       "title": "Russian military plane crash in Siberia kills 19",
       "url": "https://aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9cf81047b24190460d35f064"
-    },
-    {
-      "title": "US envoys shuttle between Putin and Zelenskyy",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126",
-      "source": "Al Jazeera",
-      "published": "2026-11-13T04:12:01+00:00",
-      "retrieved_at": "2026-11-13T04:14:41.549246+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US envoys Witkoff and Kushner have shuttled between Dublin and Moscow in efforts to broker a Russia-Ukraine peace deal.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d95e891316d02bfab65332a7"
     }
   ],
   "unverified_history": [
