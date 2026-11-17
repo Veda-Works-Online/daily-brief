@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T16:42:48.205519+00:00",
+  "updated": "2026-11-17T16:47:57.322649+00:00",
   "items": [
+    {
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T16:44:15+00:00",
+      "retrieved_at": "2026-11-17T16:47:48.345124+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signalled his willingness to return as CEO.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "98b520869c618d1e601a3bd6"
+    },
     {
       "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
       "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "cbb0949156d2e184c362f6e8"
-    },
-    {
-      "title": "Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?",
-      "url": "https://wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools",
-      "source": "Wired",
-      "published": "2026-11-09T11:00:00+00:00",
-      "retrieved_at": "2026-11-09T11:07:35.531050+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fd08873608a63aea396fb054"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T16:42:42.851620+00:00",
+    "checked_at": "2026-11-17T16:47:47.904500+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
