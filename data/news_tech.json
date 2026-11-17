@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T23:03:33.407129+00:00",
+  "updated": "2026-11-17T23:09:58.593042+00:00",
   "items": [
+    {
+      "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T23:04:35+00:00",
+      "retrieved_at": "2026-11-17T23:09:54.826898+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Nvidia's interim CEO reaffirmed its open-source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bbf2ef0cb851f43b19c73118"
+    },
     {
       "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
       "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "5c9051bf5148f8431b0b003b"
-    },
-    {
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "url": "https://openai.com/index/cogent-security",
-      "source": "OpenAI",
-      "published": "2026-11-10T00:00:00+00:00",
-      "retrieved_at": "2026-11-11T05:41:48.800380+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "41dd802431503c2e8063872d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T23:03:29.930917+00:00",
+    "checked_at": "2026-11-17T23:09:54.372046+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
