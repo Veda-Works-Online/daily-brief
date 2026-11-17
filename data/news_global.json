@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T22:28:48.630243+00:00",
+  "updated": "2026-11-17T22:53:41.848875+00:00",
   "items": [
     {
       "title": "Russian military plane crash in Siberia kills 19",
@@ -98,6 +98,22 @@
       "story_fingerprint": "940c25e7f10ef3e611df024e"
     },
     {
+      "title": "Russian military plane crashes, killing all 19 on board",
+      "url": "https://bbc.co.uk/news/articles/cw8085rykkmgo",
+      "source": "BBC World",
+      "published": "2026-11-17T21:06:11+00:00",
+      "retrieved_at": "2026-11-17T22:53:38.646984+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "66663b776673efc0550c7757"
+    },
+    {
       "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
       "url": "https://aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces",
       "source": "Al Jazeera",
@@ -160,22 +176,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "eec1a1a41d41cb21ff12ded0"
-    },
-    {
-      "title": "Russian military plane crashes killing all 19 on board",
-      "url": "https://bbc.co.uk/news/articles/cw8085rykkmgo",
-      "source": "BBC World",
-      "published": "2026-11-17T20:25:27+00:00",
-      "retrieved_at": "2026-11-17T20:28:39.039491+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "66663b776673efc0550c7757"
     },
     {
       "title": "Kalshi halts Trump speech bets after CFTC order",
