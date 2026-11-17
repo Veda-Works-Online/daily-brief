@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T10:48:10.657742+00:00",
+  "updated": "2026-11-17T10:58:08.481277+00:00",
   "items": [
     {
       "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
@@ -18,13 +18,29 @@
       "story_fingerprint": "9f7587c4065b397efeba2953"
     },
     {
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "url": "https://bbc.co.uk/news/articles/cwq6e2qgvmlgo",
+      "source": "BBC World",
+      "published": "2026-11-17T10:22:09+00:00",
+      "retrieved_at": "2026-11-17T10:58:05.220590+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "23425748cb5feef5d6c700cc"
+    },
+    {
       "title": "Will President Trump meet Kim Jong Un?",
       "url": "https://bbc.co.uk/news/videos/c6grew79p7qdo",
       "source": "BBC World",
       "published": "2026-11-17T10:13:27+00:00",
-      "retrieved_at": "2026-11-17T10:33:09.194970+00:00",
+      "retrieved_at": "2026-11-17T10:58:05.220544+00:00",
       "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "President Trump says he would be keen to meet the North Korea leader at the Apec summit in China.",
+      "summary": "President Trump says he would be keen to meet the North Korea leader in China.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "75cb3afe19524492b631268f"
-    },
-    {
-      "title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T08:34:45+00:00",
-      "retrieved_at": "2026-11-12T09:01:25.856983+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Xi Jinping, President of China, has called for the peaceful ‘reunification’ of Taiwan with China.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ebf3377fe0733217ad729d50"
     }
   ],
   "unverified_history": [
