@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-17T17:17:52.471576+00:00",
+  "updated": "2026-11-17T17:22:48.769234+00:00",
   "items": [
+    {
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game",
+      "source": "TechCrunch AI",
+      "published": "2026-11-17T17:20:41+00:00",
+      "retrieved_at": "2026-11-17T17:22:43.638808+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1ab66e7bc81f080bc0f83755"
+    },
     {
       "title": "Put Gemini to work for you",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
@@ -223,23 +240,6 @@
       "story_fingerprint": "ca6c601bc38e68e823627ce6"
     },
     {
-      "title": "Genesis AI raises $500M to deploy glove-wearing robots",
-      "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots",
-      "source": "TechCrunch",
-      "published": "2026-11-17T14:00:00+00:00",
-      "retrieved_at": "2026-11-17T17:17:47.005197+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "84a86528d9ae71f4254962da"
-    },
-    {
       "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
       "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists",
       "source": "TechCrunch AI",
@@ -255,6 +255,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "19f392fd2ad901b97f2f8618"
+    },
+    {
+      "title": "Genesis AI raises $500M to deploy glove-wearing robots",
+      "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots",
+      "source": "TechCrunch",
+      "published": "2026-11-17T14:00:00+00:00",
+      "retrieved_at": "2026-11-17T17:17:47.005197+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "84a86528d9ae71f4254962da"
     },
     {
       "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3857c6d82235ac4d28db4bb9"
-    },
-    {
-      "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
-      "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends",
-      "source": "TechCrunch",
-      "published": "2026-11-09T14:00:00+00:00",
-      "retrieved_at": "2026-11-09T16:33:26.116189+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The new music discovery app lets users scroll through 10- to 30-second snippets of songs, comment, and share with friends.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7ded44537db980a38a5436ae"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-17T17:17:44.607753+00:00",
+    "checked_at": "2026-11-17T17:22:43.229649+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
