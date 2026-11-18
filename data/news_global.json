@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T14:17:02.140438+00:00",
+  "updated": "2026-11-18T14:26:04.030220+00:00",
   "items": [
     {
       "title": "What is the ‘endgame’ in Syria, as Israeli rivals look for new government?",
@@ -352,6 +352,38 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "92fe9efd22c75b91da5dcd22"
+    },
+    {
+      "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+      "url": "https://bbc.co.uk/news/articles/cm15ezz8n394o",
+      "source": "BBC World",
+      "published": "2026-11-18T02:29:52+00:00",
+      "retrieved_at": "2026-11-18T14:26:00.062641+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1607a3ff28fafb3d4c6fdf35"
+    },
+    {
+      "title": "Irishman charged with destroying US military aircraft with axe",
+      "url": "https://bbc.co.uk/news/articles/cwd01jjl5zzzo",
+      "source": "BBC World",
+      "published": "2026-11-18T02:00:37+00:00",
+      "retrieved_at": "2026-11-18T14:26:00.062664+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d38d79c4af537f0ad1541201"
     },
     {
       "title": "What is Trump hoping to achieve at APEC meeting in China?",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c6153b83e972809ba2eb33a8"
-    },
-    {
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "url": "https://bbc.co.uk/news/articles/cq39glwprknjo",
-      "source": "BBC World",
-      "published": "2026-11-13T16:40:31+00:00",
-      "retrieved_at": "2026-11-13T17:17:55.943446+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "33798ad0c0ff54f902966832"
-    },
-    {
-      "title": "Jerusalem Daily: Baby dies from cold in Gaza",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/13/jerusalem-daily-baby-dies-from-cold-in-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-11-13T16:34:24+00:00",
-      "retrieved_at": "2026-11-13T16:52:49.954255+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A baby dies from the cold in Gaza as 53 countries urge Israel to allow aid in.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8526275f6b7f0cd1d24c6963"
     }
   ],
   "unverified_history": [
