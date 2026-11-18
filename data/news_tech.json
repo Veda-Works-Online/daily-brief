@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-18T23:22:23.027893+00:00",
+  "updated": "2026-11-18T23:27:18.157772+00:00",
   "items": [
+    {
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team",
+      "source": "TechCrunch AI",
+      "published": "2026-11-18T23:25:17+00:00",
+      "retrieved_at": "2026-11-18T23:27:13.835598+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "36a7a337d2aa088988f78863"
+    },
     {
       "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
       "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit",
@@ -597,6 +614,23 @@
       "story_fingerprint": "440df2fa34cdf0742d3cb68a"
     },
     {
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI",
+      "published": "2026-11-18T08:00:00+00:00",
+      "retrieved_at": "2026-11-18T23:27:14.317169+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "1d7ad71c53b8eafb8d722814"
+    },
+    {
       "title": "Inside the Codex sandbox",
       "url": "https://openai.com/index/inside-the-codex-sandbox",
       "source": "OpenAI",
@@ -750,23 +784,6 @@
       "story_fingerprint": "259bd3365a9e8ab9612de5c3"
     },
     {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "source": "OpenAI",
-      "published": "2026-11-18T00:00:00+00:00",
-      "retrieved_at": "2026-11-18T09:19:48.390340+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "36211a007c811bc97c03af3a"
-    },
-    {
       "title": "Advancing chip design with OpenAI models",
       "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "source": "OpenAI",
@@ -782,6 +799,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "eec83baa2d9ca37bb36324ae"
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "source": "OpenAI",
+      "published": "2026-11-18T00:00:00+00:00",
+      "retrieved_at": "2026-11-18T09:19:48.390340+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "36211a007c811bc97c03af3a"
     },
     {
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
@@ -1566,23 +1600,6 @@
       "story_fingerprint": "816217c29e22182613da1e44"
     },
     {
-      "title": "Astra for Law leads in legal intelligence",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "source": "OpenAI",
-      "published": "2026-11-17T00:00:00+00:00",
-      "retrieved_at": "2026-11-17T18:12:43.604851+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "d2e36fdc59b1cc094e128abb"
-    },
-    {
       "title": "Introducing OpenAI for Chile",
       "url": "https://openai.com/index/introducing-openai-for-chile",
       "source": "OpenAI",
@@ -1598,6 +1615,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "027c6b77f0b15e3fdaf37c71"
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "source": "OpenAI",
+      "published": "2026-11-17T00:00:00+00:00",
+      "retrieved_at": "2026-11-17T18:12:43.604851+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "d2e36fdc59b1cc094e128abb"
     },
     {
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -2280,23 +2314,6 @@
       "story_fingerprint": "079f962a9648cc40cd17d2e0"
     },
     {
-      "title": "At Holiday Extras, dots get to work before anyone asks",
-      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
-      "source": "OpenAI",
-      "published": "2026-11-16T00:00:00+00:00",
-      "retrieved_at": "2026-11-16T21:14:24.450145+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "efba40e4f3a179bef51d1307"
-    },
-    {
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
       "url": "https://huggingface.co/blog/openrouter",
       "source": "Hugging Face",
@@ -2312,6 +2329,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "9bd8c195751e9d4b9170c2db"
+    },
+    {
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "source": "OpenAI",
+      "published": "2026-11-16T00:00:00+00:00",
+      "retrieved_at": "2026-11-16T21:14:24.450145+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "efba40e4f3a179bef51d1307"
     },
     {
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "b302ba0c8bcdd5a870921eb1"
-    },
-    {
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "source": "OpenAI",
-      "published": "2026-11-11T00:00:00+00:00",
-      "retrieved_at": "2026-11-11T18:43:50.647152+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "c68d3b68e6199fae02123bc8"
-    },
-    {
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot",
-      "source": "Ars Technica AI",
-      "published": "2026-11-10T22:35:01+00:00",
-      "retrieved_at": "2026-11-10T22:40:31.127101+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dee097baf34cb4eb034b0bb3"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T23:22:17.041895+00:00",
+    "checked_at": "2026-11-18T23:27:13.362955+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
