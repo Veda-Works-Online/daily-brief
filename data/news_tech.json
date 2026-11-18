@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-18T22:02:21.437917+00:00",
+  "updated": "2026-11-18T22:07:17.799335+00:00",
   "items": [
+    {
+      "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
+      "url": "https://wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit",
+      "source": "Wired",
+      "published": "2026-11-18T22:00:00+00:00",
+      "retrieved_at": "2026-11-18T22:07:13.717166+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4a385120b39bbbd26eb3d478"
+    },
     {
       "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
       "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a70d8386de08435071eb2610"
-    },
-    {
-      "title": "What happens to mathematics when AI becomes an oracle?",
-      "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle",
-      "source": "Ars Technica AI",
-      "published": "2026-11-10T20:30:01+00:00",
-      "retrieved_at": "2026-11-10T21:05:36.087804+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "77362a2e5c71d4edeabe2b15"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T22:02:12.911358+00:00",
+    "checked_at": "2026-11-18T22:07:12.558357+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
