@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-18T11:00:46.906752+00:00",
+  "updated": "2026-11-18T11:05:40.394745+00:00",
   "items": [
+    {
+      "title": "Exclusive: Germ DM Is a Signal Alternative That’s Now on Android",
+      "url": "https://wired.com/story/germ-dm-is-now-available-on-android",
+      "source": "Wired",
+      "published": "2026-11-18T11:00:00+00:00",
+      "retrieved_at": "2026-11-18T11:05:35.032872+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Germ DM is an encrypted messaging platform that uses “burner cards” instead of phone numbers or usernames to compartmentalize your conversations.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "aba8943f883e7685cd2ea970"
+    },
     {
       "title": "China dominates battery graphite, but this startup could break the monopoly",
       "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "647855c52aae18bb4b0fa729"
-    },
-    {
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "source": "OpenAI",
-      "published": "2026-11-10T10:00:00+00:00",
-      "retrieved_at": "2026-11-10T18:40:44.557359+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "3e3b52b86100505e9597370a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T11:00:38.377727+00:00",
+    "checked_at": "2026-11-18T11:05:33.750300+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
