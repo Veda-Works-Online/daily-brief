@@ -1,23 +1,6 @@
 {
-  "updated": "2026-11-18T11:05:40.394745+00:00",
+  "updated": "2026-11-18T11:10:43.349712+00:00",
   "items": [
-    {
-      "title": "Exclusive: Germ DM Is a Signal Alternative That’s Now on Android",
-      "url": "https://wired.com/story/germ-dm-is-now-available-on-android",
-      "source": "Wired",
-      "published": "2026-11-18T11:00:00+00:00",
-      "retrieved_at": "2026-11-18T11:05:35.032872+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Germ DM is an encrypted messaging platform that uses “burner cards” instead of phone numbers or usernames to compartmentalize your conversations.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "aba8943f883e7685cd2ea970"
-    },
     {
       "title": "China dominates battery graphite, but this startup could break the monopoly",
       "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly",
@@ -34,6 +17,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9bc1a4bc9e90cbed15e1f228"
+    },
+    {
+      "title": "Exclusive: Germ DM Is a Signal Alternative That’s Now on Android",
+      "url": "https://wired.com/story/germ-dm-is-now-available-on-android",
+      "source": "Wired",
+      "published": "2026-11-18T11:00:00+00:00",
+      "retrieved_at": "2026-11-18T11:05:35.032872+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Germ DM is an encrypted messaging platform that uses “burner cards” instead of phone numbers or usernames to compartmentalize your conversations.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "aba8943f883e7685cd2ea970"
     },
     {
       "title": "Lovable Wants You to Vibe Code Your Dream Job",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T11:05:33.750300+00:00",
+    "checked_at": "2026-11-18T11:10:38.484356+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
