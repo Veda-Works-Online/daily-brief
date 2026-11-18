@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-18T19:52:39.398548+00:00",
+  "updated": "2026-11-18T20:17:39.879339+00:00",
   "items": [
+    {
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "url": "https://bbc.co.uk/news/articles/cw8r7510degno",
+      "source": "BBC World",
+      "published": "2026-11-18T20:14:57+00:00",
+      "retrieved_at": "2026-11-18T20:17:35.863452+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "591a0fbbc75a7255457b48a4"
+    },
     {
       "title": "Four killed as Russian strikes hit Ukraine’s Odesa",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "095f8286b638da8ff6c9570c"
-    },
-    {
-      "title": "Ukraine, Russia race to build military satellite networks as war rages on",
-      "url": "https://aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T11:00:39+00:00",
-      "retrieved_at": "2026-11-14T11:20:17.758733+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ef231fa84b798a9f89d82c86"
     }
   ],
   "unverified_history": [
