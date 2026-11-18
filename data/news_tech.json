@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T16:46:59.077939+00:00",
+  "updated": "2026-11-18T16:52:01.479005+00:00",
   "items": [
     {
       "title": "Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
@@ -289,6 +289,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b9e26f8f6ac1976d0b4e92b2"
+    },
+    {
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "source": "Hugging Face",
+      "published": "2026-11-18T00:00:00+00:00",
+      "retrieved_at": "2026-11-18T16:51:55.435979+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "ede125ce07a48938f61ea2f8"
     },
     {
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "35718c13794b7baec15437aa"
-    },
-    {
-      "title": "Ring’s Indoor Drone Camera Is Back—and Now Powered by AI",
-      "url": "https://wired.com/story/ring-robotics-drone-cam-rover-cam",
-      "source": "Wired",
-      "published": "2026-11-10T13:30:00+00:00",
-      "retrieved_at": "2026-11-10T13:39:14.357857+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "This $250 Drone Cam flies around your home to monitor threats. There’s also the Rover Cam for businesses, featuring the guts of Amazon’s former Astro robot.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "edfd54e2326e94454d6f447a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T16:46:49.879872+00:00",
+    "checked_at": "2026-11-18T16:51:54.154091+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
