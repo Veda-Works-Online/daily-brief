@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-18T22:07:24.899700+00:00",
+  "updated": "2026-11-18T23:12:27.868599+00:00",
   "items": [
+    {
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "url": "https://bbc.co.uk/news/articles/c5m2l90ez144o",
+      "source": "BBC World",
+      "published": "2026-11-18T23:04:06+00:00",
+      "retrieved_at": "2026-11-18T23:12:23.611033+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "No state has ever been found guilty by an international court of committing genocide.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e6a7eee8034561af322a701e"
+    },
+    {
+      "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
+      "url": "https://aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T22:56:19+00:00",
+      "retrieved_at": "2026-11-18T23:12:23.701740+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The US Treasury has accused Hezbollah of using charitable organisations as 'fronts' for fundraising.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "73083c87c643960b31cc8b5b"
+    },
     {
       "title": "Iraq sentences six French nationals to life in prison for joining ISIL",
       "url": "https://aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "54f70e6a994701a54a1fcf29"
-    },
-    {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "url": "https://bbc.co.uk/news/articles/cwvg2l312ylqo",
-      "source": "BBC World",
-      "published": "2026-11-14T22:37:25+00:00",
-      "retrieved_at": "2026-11-14T22:42:15.765862+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bec4b1b5c3794a95a1a070e0"
-    },
-    {
-      "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-      "url": "https://aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T21:10:26+00:00",
-      "retrieved_at": "2026-11-14T21:46:34.139463+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "55c7bc6baa663b7483020d99"
     }
   ],
   "unverified_history": [
