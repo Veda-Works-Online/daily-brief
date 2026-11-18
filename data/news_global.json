@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-18T12:30:48.450847+00:00",
+  "updated": "2026-11-18T12:50:45.691277+00:00",
   "items": [
+    {
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "url": "https://bbc.co.uk/news/articles/ck9d75x5wwwwo",
+      "source": "BBC World",
+      "published": "2026-11-18T12:39:24+00:00",
+      "retrieved_at": "2026-11-18T12:50:41.642378+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7a0f10e754870d32b283dae6"
+    },
+    {
+      "title": "Ukraine mourns mother, athlete and drone operator killed in Russian strike",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T12:27:40+00:00",
+      "retrieved_at": "2026-11-18T12:50:41.679097+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Rayana joined Ukraine’s army in 2024 to protect her son from Russia’s invasion. She was killed in Russian air strike.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "546f44131e8f5a0a14bb5144"
+    },
     {
       "title": "Palestinians find refuge in ancient caves after Israel demolishes homes",
       "url": "https://aljazeera.com/features/2026/11/18/palestinians-find-refuge-in-ancient-caves-after-israel-demolish-homes",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4af8f4498d3780b18247cf5e"
-    },
-    {
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "url": "https://bbc.co.uk/news/articles/cqvg2d1eg7zro",
-      "source": "BBC World",
-      "published": "2026-11-13T15:40:08+00:00",
-      "retrieved_at": "2026-11-13T17:17:55.943461+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "22258a82f8d9957bda820926"
-    },
-    {
-      "title": "Iran targeted US radar system in Bahrain",
-      "url": "https://dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640",
-      "source": "DW",
-      "published": "2026-11-13T15:32:00+00:00",
-      "retrieved_at": "2026-11-13T15:41:46.668363+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Iran claimed it struck US radar systems in Bahrain, while the US said it had intercepted the attacks. Clashes continue in the Strait of Hormuz, as the war remains in a state of de-escalation.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0e03af334fcfcba9f954dd75"
     }
   ],
   "unverified_history": [
