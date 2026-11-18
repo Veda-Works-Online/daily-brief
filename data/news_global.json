@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T17:07:05.348401+00:00",
+  "updated": "2026-11-18T17:11:57.318668+00:00",
   "items": [
     {
       "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
@@ -34,6 +34,38 @@
       "story_fingerprint": "d0e534835d37ac752acf45d1"
     },
     {
+      "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+      "url": "https://aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T16:47:26+00:00",
+      "retrieved_at": "2026-11-18T17:11:51.524858+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Iranian attacks on the Gulf countries draw condemnation from across the region.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7e9ea0d110a434ad2f9ddbd0"
+    },
+    {
+      "title": "World Bank official says Lebanon reconstruction making slow progress",
+      "url": "https://aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T16:44:59+00:00",
+      "retrieved_at": "2026-11-18T17:11:51.524881+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Beirut blames Israel's occupation and attacks on southern Lebanon for reconstruction delays.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "62d552b8e7bb1c75ec668758"
+    },
+    {
       "title": "The Atlantic Brief: After the U.S. Midterms, Trans-Atlantic Defense Cooperation",
       "url": "https://warontherocks.com/the-atlantic-brief-after-the-u-s-midterms-trans-atlantic-defense-cooperation",
       "source": "War on the Rocks",
@@ -48,6 +80,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f2eb5a83ce279cff1f0dae59"
+    },
+    {
+      "title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T16:40:03+00:00",
+      "retrieved_at": "2026-11-18T17:11:51.524902+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Crowds gathered in Shenzhen, China, to welcome US President Donald Trump as he arrived for the APEC summit",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b2d85e96878b8e40b8368087"
     },
     {
       "title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
@@ -166,9 +214,9 @@
       "url": "https://aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza",
       "source": "Al Jazeera",
       "published": "2026-11-18T14:39:09+00:00",
-      "retrieved_at": "2026-11-18T16:22:07.008826+00:00",
+      "retrieved_at": "2026-11-18T17:11:51.525119+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "At least three Palestinians killed as Israeli forces launch strikes near refugee camp.",
+      "summary": "At least three Palestinians were killed as Israeli forces launched strikes near a refugee camp.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3952,54 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "55c95f0bc6cecc47e381395d"
-    },
-    {
-      "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
-      "url": "https://aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T06:48:14+00:00",
-      "retrieved_at": "2026-11-14T07:09:06.295247+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "ASEAN summit comes as US president embarks on Asia trip that will see him meet China's Xi.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f76528e92b736ec3a79e1598"
-    },
-    {
-      "title": "Ukraine is running out of options, and Russia knows it",
-      "url": "https://aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T06:39:09+00:00",
-      "retrieved_at": "2026-11-14T07:09:06.295267+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The Abu Dhabi talks reveal Moscow’s growing leverage over Ukraine and a shifting Western approach to peace.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "01716ed7167ca992ce1b8e15"
-    },
-    {
-      "title": "Gen Z protests: Do Baby Boomers really have it better than young people?",
-      "url": "https://dw.com/en/gen-z-protests-do-baby-boomers-really-have-it-better-than-young-people/a-79918854",
-      "source": "DW",
-      "published": "2026-11-14T06:09:00+00:00",
-      "retrieved_at": "2026-11-14T06:24:10.591073+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Should young people in Germany be more worried about their future than Baby Boomers were in the 1980s and 1990s? Or should both generations take to the streets and protest together? DW checked the data.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "44747906b4f412ed20446d2d"
     }
   ],
   "unverified_history": [
