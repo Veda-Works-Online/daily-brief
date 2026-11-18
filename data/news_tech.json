@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-18T11:55:40.938803+00:00",
+  "updated": "2026-11-18T12:00:44.352520+00:00",
   "items": [
+    {
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents",
+      "source": "TechCrunch",
+      "published": "2026-11-18T12:00:00+00:00",
+      "retrieved_at": "2026-11-18T12:00:37.145532+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "62efc6aeb35ed4b6d8af9290"
+    },
     {
       "title": "Nubia Redmagic 12 Pro Review: Furiously Fast but Flawed",
       "url": "https://wired.com/review/nubia-redmagic-12-pro",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2ab1394dfa08a36ed9274327"
-    },
-    {
-      "title": "Opening the datasets behind our AI weather models",
-      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models",
-      "source": "Google DeepMind",
-      "published": "2026-11-10T11:13:04+00:00",
-      "retrieved_at": "2026-11-13T12:01:26.902154+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "0802802423725ad9b0806be8"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T11:55:36.079820+00:00",
+    "checked_at": "2026-11-18T12:00:35.849005+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
