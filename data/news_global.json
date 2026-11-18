@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-18T14:47:08.622553+00:00",
+  "updated": "2026-11-18T15:02:12.066248+00:00",
   "items": [
+    {
+      "title": "Israeli forces demolish homes in southern Lebanon",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-demolish-homes-in-southern-lebanon",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T14:52:31+00:00",
+      "retrieved_at": "2026-11-18T15:02:06.403558+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israeli excavators demolished homes in Zawtar al-Sharqiye in southern Lebanon.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6d7d74fe18efdda43d2a9f92"
+    },
+    {
+      "title": "Palestinians flee refugee camp as Israel begins operation in central Gaza",
+      "url": "https://aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T14:39:09+00:00",
+      "retrieved_at": "2026-11-18T15:02:06.403599+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israeli army says the operation west of the 'Yellow Line' aims to 'eliminate a threat'.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "95b5778aae26219be0c5d6db"
+    },
     {
       "title": "‘Status quo’ between US and Iran could break out into war, analysts warn",
       "url": "https://aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "118ad314eae436c8ba939066"
-    },
-    {
-      "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display",
-      "source": "Al Jazeera",
-      "published": "2026-11-13T18:09:05+00:00",
-      "retrieved_at": "2026-11-13T18:32:51.456219+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9081598b36746e3daaa3f9ec"
-    },
-    {
-      "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
-      "url": "https://aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis",
-      "source": "Al Jazeera",
-      "published": "2026-11-13T18:04:22+00:00",
-      "retrieved_at": "2026-11-13T18:32:51.456241+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel 'an anti-state act'.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cc0e733fef1dad7feaa8f438"
     }
   ],
   "unverified_history": [

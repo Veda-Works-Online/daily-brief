@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-18T14:57:05.098449+00:00",
+  "updated": "2026-11-18T15:02:01.470561+00:00",
   "items": [
+    {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "Hugging Face",
+      "published": "2026-11-18T15:00:23+00:00",
+      "retrieved_at": "2026-11-18T15:01:56.143572+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "a844c3a7ea6bb65c6ca066ff"
+    },
     {
       "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
       "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e361530e1599e05563694c03"
-    },
-    {
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
-      "source": "Google DeepMind",
-      "published": "2026-11-10T12:02:28+00:00",
-      "retrieved_at": "2026-11-10T12:03:03.147802+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "3ba798a4e26dd960ef5c1317"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T14:56:56.819040+00:00",
+    "checked_at": "2026-11-18T15:01:55.224926+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
