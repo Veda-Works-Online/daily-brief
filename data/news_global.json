@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T20:17:39.879339+00:00",
+  "updated": "2026-11-18T20:22:39.094344+00:00",
   "items": [
     {
       "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
@@ -16,6 +16,38 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "591a0fbbc75a7255457b48a4"
+    },
+    {
+      "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
+      "url": "https://aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T20:14:04+00:00",
+      "retrieved_at": "2026-11-18T20:22:34.969863+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "59cc7ca020620ed8afd4f9b0"
+    },
+    {
+      "title": "Trump and Putin to meet one-on-one in China Thursday",
+      "url": "https://aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T20:12:20+00:00",
+      "retrieved_at": "2026-11-18T20:22:34.969880+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c013fbbf6a1b2427f2304d9a"
     },
     {
       "title": "Four killed as Russian strikes hit Ukraine’s Odesa",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "554c2ac52200e87543713f42"
-    },
-    {
-      "title": "Ukraine: Zelenskyy says security deal could go to referendum",
-      "url": "https://dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535",
-      "source": "DW",
-      "published": "2026-11-14T11:40:00+00:00",
-      "retrieved_at": "2026-11-14T11:55:17.665311+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The US has broached the idea of Kyiv giving up the Donbas region in exchange for NATO membership, the Ukrainian president said.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f500a31a3a4bae0f88bd231f"
-    },
-    {
-      "title": "New facilities in Laos and Cambodia: Is China expanding its military presence in Southeast Asia?",
-      "url": "https://dw.com/en/new-facilities-in-laos-and-cambodia-is-china-expanding-its-military-presence-in-southeast-asia/a-79944798",
-      "source": "DW",
-      "published": "2026-11-14T11:24:00+00:00",
-      "retrieved_at": "2026-11-14T11:35:18.505419+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "China has been growing its economic relationships in Southeast Asia. Now new military facilities in Laos and Cambodia are causing smaller countries to worry China's military networks are also expanding.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "095f8286b638da8ff6c9570c"
     }
   ],
   "unverified_history": [
