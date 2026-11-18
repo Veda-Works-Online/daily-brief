@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T20:22:32.040679+00:00",
+  "updated": "2026-11-18T20:27:32.363126+00:00",
   "items": [
     {
       "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
@@ -427,6 +427,23 @@
       "story_fingerprint": "1cf6500fb5e47411b8cf0d12"
     },
     {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "source": "OpenAI",
+      "published": "2026-11-18T06:00:00+00:00",
+      "retrieved_at": "2026-11-18T20:27:28.006347+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "d845dadedc4f8fc989576698"
+    },
+    {
       "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
       "url": "https://wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship",
       "source": "Wired",
@@ -529,13 +546,13 @@
       "story_fingerprint": "b9e26f8f6ac1976d0b4e92b2"
     },
     {
-      "title": "The Silent Consensus",
-      "url": "https://openai.com/index/the-silent-consensus",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI",
       "published": "2026-11-18T00:00:00+00:00",
-      "retrieved_at": "2026-11-18T18:06:51.474925+00:00",
+      "retrieved_at": "2026-11-18T09:19:48.390340+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -543,7 +560,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "259bd3365a9e8ab9612de5c3"
+      "story_fingerprint": "36211a007c811bc97c03af3a"
     },
     {
       "title": "Advancing chip design with OpenAI models",
@@ -563,13 +580,13 @@
       "story_fingerprint": "eec83baa2d9ca37bb36324ae"
     },
     {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
       "source": "OpenAI",
       "published": "2026-11-18T00:00:00+00:00",
-      "retrieved_at": "2026-11-18T09:19:48.390340+00:00",
+      "retrieved_at": "2026-11-18T18:06:51.474925+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -577,7 +594,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "36211a007c811bc97c03af3a"
+      "story_fingerprint": "259bd3365a9e8ab9612de5c3"
     },
     {
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
@@ -1362,23 +1379,6 @@
       "story_fingerprint": "816217c29e22182613da1e44"
     },
     {
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI",
-      "published": "2026-11-17T00:00:00+00:00",
-      "retrieved_at": "2026-11-17T13:58:09.225426+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "027c6b77f0b15e3fdaf37c71"
-    },
-    {
       "title": "Astra for Law leads in legal intelligence",
       "url": "https://openai.com/index/astra-law-6-2",
       "source": "OpenAI",
@@ -1394,6 +1394,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "d2e36fdc59b1cc094e128abb"
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "source": "OpenAI",
+      "published": "2026-11-17T00:00:00+00:00",
+      "retrieved_at": "2026-11-17T13:58:09.225426+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "027c6b77f0b15e3fdaf37c71"
     },
     {
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -2008,23 +2025,6 @@
       "story_fingerprint": "a9b17c4d83a05c9a33cef6ae"
     },
     {
-      "title": "Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "source": "OpenAI",
-      "published": "2026-11-16T06:00:00+00:00",
-      "retrieved_at": "2026-11-16T14:58:51.187168+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "974631e28c28590c488ad48e"
-    },
-    {
       "title": "More ways to move care forward with ChatGPT for Healthcare",
       "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "source": "OpenAI",
@@ -2040,6 +2040,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "2d0f664aa79dd48f78342e56"
+    },
+    {
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "source": "OpenAI",
+      "published": "2026-11-16T06:00:00+00:00",
+      "retrieved_at": "2026-11-16T14:58:51.187168+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "974631e28c28590c488ad48e"
     },
     {
       "title": "Apple launches new app to study how people use AI for health",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
       "source_type": "PRIMARY",
       "story_fingerprint": "0a49bdc1e7505aa3a47a996d"
-    },
-    {
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google",
-      "source": "TechCrunch AI",
-      "published": "2026-11-10T18:49:52+00:00",
-      "retrieved_at": "2026-11-10T18:50:40.987161+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f89c791da851baba096fa136"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T20:22:26.915351+00:00",
+    "checked_at": "2026-11-18T20:27:27.199796+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
