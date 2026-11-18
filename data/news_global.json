@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-18T07:24:57.942168+00:00",
+  "updated": "2026-11-18T07:49:53.785153+00:00",
   "items": [
+    {
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "url": "https://bbc.co.uk/news/articles/cqev3v2ygzlvo",
+      "source": "BBC World",
+      "published": "2026-11-18T07:00:25+00:00",
+      "retrieved_at": "2026-11-18T07:49:48.794304+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a6e06a058de5c51a2cd124e6"
+    },
     {
       "title": "Africa’s economic future cannot depend on Washington",
       "url": "https://aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington",
@@ -256,6 +272,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0ab67a3b2575b25147c9f271"
+    },
+    {
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "url": "https://bbc.co.uk/news/articles/c5vg23g92rj4o",
+      "source": "BBC World",
+      "published": "2026-11-17T23:02:12+00:00",
+      "retrieved_at": "2026-11-18T07:49:48.794249+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5cb353c74b655f403251c17c"
     },
     {
       "title": "Russian military plane crash in Siberia kills 19",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8635aa5457215e9c5df590f5"
-    },
-    {
-      "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
-      "url": "https://aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection",
-      "source": "Al Jazeera",
-      "published": "2026-11-13T11:51:57+00:00",
-      "retrieved_at": "2026-11-13T12:16:49.852904+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "IAEA says it cannot verify whether an underground Iranian enrichment plant contains nuclear material.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4000ed59816c7422e8d1c2d7"
-    },
-    {
-      "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij",
-      "source": "Al Jazeera",
-      "published": "2026-11-13T10:54:25+00:00",
-      "retrieved_at": "2026-11-13T11:21:40.972254+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran’s Islamic Revolutionary Guard Corps says it destroyed a US early-warning radar in Bahrain.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5e781ed335fdcc3192712457"
     }
   ],
   "unverified_history": [
