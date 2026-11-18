@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T17:16:53.087573+00:00",
+  "updated": "2026-11-18T17:21:46.652810+00:00",
   "items": [
     {
       "title": "The Gemini app is now available on lower-memory Android devices.",
@@ -155,21 +155,21 @@
       "story_fingerprint": "854a3c193b88dc5801ebbf6c"
     },
     {
-      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
       "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers",
-      "source": "TechCrunch",
+      "source": "TechCrunch AI",
       "published": "2026-11-18T11:30:00+00:00",
-      "retrieved_at": "2026-11-18T11:30:33.196239+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "retrieved_at": "2026-11-18T17:21:40.281289+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "126f69891216854d4750e2e4"
+      "story_fingerprint": "a2b1d7c9e122c7c8a306041f"
     },
     {
       "title": "China dominates battery graphite, but this startup could break the monopoly",
@@ -325,23 +325,6 @@
       "story_fingerprint": "b9e26f8f6ac1976d0b4e92b2"
     },
     {
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "source": "OpenAI",
-      "published": "2026-11-18T00:00:00+00:00",
-      "retrieved_at": "2026-11-18T17:16:47.858291+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "eec83baa2d9ca37bb36324ae"
-    },
-    {
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI",
@@ -357,6 +340,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "36211a007c811bc97c03af3a"
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "source": "OpenAI",
+      "published": "2026-11-18T00:00:00+00:00",
+      "retrieved_at": "2026-11-18T17:16:47.858291+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "eec83baa2d9ca37bb36324ae"
     },
     {
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
@@ -6257,6 +6257,24 @@
   "open_llms": {
     "items": [
       {
+        "id": "microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU",
+        "name": "Aion-1.0-Instruct-2.3B-ONNX-WebGPU",
+        "publisher": "microsoft",
+        "licence": "mit",
+        "published": "2026-11-18T17:08:25+00:00",
+        "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B-ONNX-WebGPU",
+        "source_status": "CURRENT"
+      },
+      {
+        "id": "microsoft/Aion-1.0-Instruct-2.3B",
+        "name": "Aion-1.0-Instruct-2.3B",
+        "publisher": "microsoft",
+        "licence": "mit",
+        "published": "2026-11-18T17:05:50+00:00",
+        "url": "https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B",
+        "source_status": "CURRENT"
+      },
+      {
         "id": "microsoft/Sentiment-Analysis-7B",
         "name": "Sentiment-Analysis-7B",
         "publisher": "microsoft",
@@ -6417,27 +6435,9 @@
         "published": "2026-08-13T21:03:50+00:00",
         "url": "https://huggingface.co/ibm-granite/granite-4.2-3b-fp8",
         "source_status": "CURRENT"
-      },
-      {
-        "id": "ibm-granite/granite-4.2-30b-nvfp4",
-        "name": "granite-4.2-30b-nvfp4",
-        "publisher": "ibm-granite",
-        "licence": "apache-2.0",
-        "published": "2026-08-13T21:03:19+00:00",
-        "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-nvfp4",
-        "source_status": "CURRENT"
-      },
-      {
-        "id": "ibm-granite/granite-4.2-30b-mxfp4",
-        "name": "granite-4.2-30b-mxfp4",
-        "publisher": "ibm-granite",
-        "licence": "apache-2.0",
-        "published": "2026-08-13T21:02:51+00:00",
-        "url": "https://huggingface.co/ibm-granite/granite-4.2-30b-mxfp4",
-        "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T17:16:46.699081+00:00",
+    "checked_at": "2026-11-18T17:21:39.674995+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
