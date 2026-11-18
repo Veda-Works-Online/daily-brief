@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-18T17:31:49.999622+00:00",
+  "updated": "2026-11-18T17:36:49.409812+00:00",
   "items": [
+    {
+      "title": "More banks says customers using AI agents are on their own — even if they get hacked",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
+      "source": "TechCrunch AI",
+      "published": "2026-11-18T17:32:10+00:00",
+      "retrieved_at": "2026-11-18T17:36:42.797602+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "99f49d46a84a6c026afbfb6c"
+    },
+    {
+      "title": "A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab",
+      "url": "https://wired.com/story/a-muslim-author-is-suing-xai-after-people-used-grok-to-strip-her-hijab",
+      "source": "Wired",
+      "published": "2026-11-18T17:30:54+00:00",
+      "retrieved_at": "2026-11-18T17:36:43.959370+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "“The only way you get some change against Big Tech is to sue them,” says lawyer Hillary Nappi, who is representing Amani Al-Khatahtbeh in the lawsuit.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c7544e0bf271c368150124fb"
+    },
     {
       "title": "The Gemini app is now available on lower-memory Android devices.",
       "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e9d8516658832fd42ba5bab1"
-    },
-    {
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-      "source": "Google AI",
-      "published": "2026-11-10T14:00:00+00:00",
-      "retrieved_at": "2026-11-10T14:09:19.091102+00:00",
-      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "7180062542a63f6d3748d91a"
-    },
-    {
-      "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era",
-      "source": "TechCrunch AI",
-      "published": "2026-11-10T14:00:00+00:00",
-      "retrieved_at": "2026-11-10T14:04:21.380289+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c0b94b15288af9cac1d30e8f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T17:31:40.369478+00:00",
+    "checked_at": "2026-11-18T17:36:42.213244+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
