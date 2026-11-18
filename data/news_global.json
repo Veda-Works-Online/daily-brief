@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-18T15:37:18.847321+00:00",
+  "updated": "2026-11-18T15:42:18.271639+00:00",
   "items": [
+    {
+      "title": "Russian attacks on Ukraine kill at least five people",
+      "url": "https://aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T15:32:01+00:00",
+      "retrieved_at": "2026-11-18T15:42:12.774380+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Most of the casualties were in strikes on Odesa that President Volodymyr Zelenskyy described as 'brutal'.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9069012533941fb20d942acd"
+    },
     {
       "title": "North Korea expanded uranium enrichment plant, says IAEA head",
       "url": "https://dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e5c73a6189727a2f0eb6c683"
-    },
-    {
-      "title": "Trump and Xi Can Reopen Trade. But for Whom?",
-      "url": "https://thediplomat.com/2026/11/trump-and-xi-can-reopen-trade-but-for-whom",
-      "source": "The Diplomat",
-      "published": "2026-11-13T19:17:00+00:00",
-      "retrieved_at": "2026-11-13T21:28:37.109861+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "The narrative of easing trade tensions doesn’t tell us who reaps the benefits of these developments at the company level.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7de56852d721c86fe0cc68b0"
     }
   ],
   "unverified_history": [
