@@ -1,12 +1,29 @@
 {
-  "updated": "2026-11-18T18:01:57.126341+00:00",
+  "updated": "2026-11-18T18:06:57.340969+00:00",
   "items": [
     {
-      "title": "More banks says customers using AI agents are on their own — even if they get hacked",
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode",
+      "source": "TechCrunch AI",
+      "published": "2026-11-18T18:04:05+00:00",
+      "retrieved_at": "2026-11-18T18:06:50.759401+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "74ab3c0ae1cd278b6bc3fd4e"
+    },
+    {
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
       "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
       "source": "TechCrunch AI",
       "published": "2026-11-18T17:32:10+00:00",
-      "retrieved_at": "2026-11-18T17:36:42.797602+00:00",
+      "retrieved_at": "2026-11-18T18:06:50.759432+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
       "isAI": true,
@@ -16,7 +33,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "99f49d46a84a6c026afbfb6c"
+      "story_fingerprint": "73da9e3d728ca31d5c5277e2"
     },
     {
       "title": "A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab",
@@ -257,6 +274,23 @@
       "story_fingerprint": "440df2fa34cdf0742d3cb68a"
     },
     {
+      "title": "Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "source": "OpenAI",
+      "published": "2026-11-18T08:00:00+00:00",
+      "retrieved_at": "2026-11-18T18:06:51.474893+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "1cf6500fb5e47411b8cf0d12"
+    },
+    {
       "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
       "url": "https://wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship",
       "source": "Wired",
@@ -359,13 +393,13 @@
       "story_fingerprint": "b9e26f8f6ac1976d0b4e92b2"
     },
     {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
       "source": "OpenAI",
       "published": "2026-11-18T00:00:00+00:00",
-      "retrieved_at": "2026-11-18T09:19:48.390340+00:00",
+      "retrieved_at": "2026-11-18T18:06:51.474925+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -373,7 +407,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "36211a007c811bc97c03af3a"
+      "story_fingerprint": "259bd3365a9e8ab9612de5c3"
     },
     {
       "title": "Advancing chip design with OpenAI models",
@@ -391,6 +425,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "eec83baa2d9ca37bb36324ae"
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "source": "OpenAI",
+      "published": "2026-11-18T00:00:00+00:00",
+      "retrieved_at": "2026-11-18T09:19:48.390340+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "36211a007c811bc97c03af3a"
     },
     {
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
@@ -4199,57 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0ab4a1091fdf1bef010a815e"
-    },
-    {
-      "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
-      "url": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops",
-      "source": "TechCrunch",
-      "published": "2026-11-10T15:00:00+00:00",
-      "retrieved_at": "2026-11-10T17:29:11.622391+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Kunal Shah said the company wants to make voice notes, groups, stickers, and video \"simpler and more expressive.\"",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6fa98b22659fbf8eb4009b8c"
-    },
-    {
-      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp",
-      "source": "TechCrunch AI",
-      "published": "2026-11-10T14:05:10+00:00",
-      "retrieved_at": "2026-11-10T14:24:18.302807+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3684056f698a4d271c122be4"
-    },
-    {
-      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion",
-      "source": "TechCrunch AI",
-      "published": "2026-11-10T14:01:39+00:00",
-      "retrieved_at": "2026-11-10T14:04:21.380242+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e9d8516658832fd42ba5bab1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T18:01:47.842696+00:00",
+    "checked_at": "2026-11-18T18:06:50.169418+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
