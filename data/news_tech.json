@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-18T22:07:17.799335+00:00",
+  "updated": "2026-11-18T22:12:19.415294+00:00",
   "items": [
+    {
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range",
+      "source": "TechCrunch AI",
+      "published": "2026-11-18T22:11:15+00:00",
+      "retrieved_at": "2026-11-18T22:12:15.359426+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Anthropic has reportedly priced its long-awaited IPO at $83 per share, above its initial range of $70 to $78, signaling strong investor appetite for one of the companies at the center of the AI boom, despite market jitters following the departure of Nvidia CEO Jensen Huang, which shook confidence in the industry. At the IPO […]",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d8f81cea8a8ac49a40a0c199"
+    },
     {
       "title": "Even His Own Officials Don’t Think Trump’s China Trip Will Lead to Progress on AI",
       "url": "https://wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b943527f68d5804571123d60"
-    },
-    {
-      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development",
-      "source": "TechCrunch",
-      "published": "2026-11-10T20:47:05+00:00",
-      "retrieved_at": "2026-11-10T21:55:30.687675+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a70d8386de08435071eb2610"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T22:07:12.558357+00:00",
+    "checked_at": "2026-11-18T22:12:14.819730+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
