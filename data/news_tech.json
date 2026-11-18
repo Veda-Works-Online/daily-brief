@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-18T16:12:09.103334+00:00",
+  "updated": "2026-11-18T16:17:03.394335+00:00",
   "items": [
+    {
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen",
+      "source": "TechCrunch AI",
+      "published": "2026-11-18T16:14:09+00:00",
+      "retrieved_at": "2026-11-18T16:16:56.798684+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cee07fc0852db5ae49df7647"
+    },
     {
       "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
       "url": "https://wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
       "source_type": "PRIMARY",
       "story_fingerprint": "ff0ba0eb666a5717c7ab855b"
-    },
-    {
-      "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
-      "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns",
-      "source": "TechCrunch AI",
-      "published": "2026-11-10T13:00:00+00:00",
-      "retrieved_at": "2026-11-10T17:49:10.790516+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open source communities valuable to developers worldwide.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "db63d2ba98412bb533346a47"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T16:11:53.273069+00:00",
+    "checked_at": "2026-11-18T16:16:56.195229+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
