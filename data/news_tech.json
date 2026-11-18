@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-18T19:01:50.024281+00:00",
+  "updated": "2026-11-18T19:06:55.400321+00:00",
   "items": [
+    {
+      "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
+      "url": "https://wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings",
+      "source": "Wired",
+      "published": "2026-11-18T19:00:00+00:00",
+      "retrieved_at": "2026-11-18T19:06:48.837674+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "A pair of serious vulnerabilities in the CreditNirvana platform would have allowed attackers to access troves of detailed sensitive information, including emails, texts, and credit reports.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d2e1dacd642b76aea18156a6"
+    },
     {
       "title": "Why your fine-tuning job takes longer than the FLOPs say",
       "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "fbf4110d920112fb8c95f71d"
-    },
-    {
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips",
-      "source": "TechCrunch AI",
-      "published": "2026-11-10T15:54:08+00:00",
-      "retrieved_at": "2026-11-10T15:59:08.179837+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cbab1036702eb74102ea6b5f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T19:01:42.856038+00:00",
+    "checked_at": "2026-11-18T19:06:47.095225+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
