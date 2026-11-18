@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T21:12:26.056200+00:00",
+  "updated": "2026-11-18T21:17:25.321160+00:00",
   "items": [
     {
       "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
@@ -563,13 +563,13 @@
       "story_fingerprint": "b9e26f8f6ac1976d0b4e92b2"
     },
     {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
       "source": "OpenAI",
       "published": "2026-11-18T00:00:00+00:00",
-      "retrieved_at": "2026-11-18T09:19:48.390340+00:00",
+      "retrieved_at": "2026-11-18T18:06:51.474925+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -577,7 +577,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "36211a007c811bc97c03af3a"
+      "story_fingerprint": "259bd3365a9e8ab9612de5c3"
     },
     {
       "title": "Advancing chip design with OpenAI models",
@@ -597,13 +597,13 @@
       "story_fingerprint": "eec83baa2d9ca37bb36324ae"
     },
     {
-      "title": "The Silent Consensus",
-      "url": "https://openai.com/index/the-silent-consensus",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI",
       "published": "2026-11-18T00:00:00+00:00",
-      "retrieved_at": "2026-11-18T18:06:51.474925+00:00",
+      "retrieved_at": "2026-11-18T09:19:48.390340+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -611,7 +611,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "259bd3365a9e8ab9612de5c3"
+      "story_fingerprint": "36211a007c811bc97c03af3a"
     },
     {
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T21:12:17.988779+00:00",
+    "checked_at": "2026-11-18T21:17:21.108283+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
