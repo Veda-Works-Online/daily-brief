@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-18T10:00:31.805861+00:00",
+  "updated": "2026-11-18T10:05:34.565542+00:00",
   "items": [
+    {
+      "title": "Lovable Wants You to Vibe Code Your Dream Job",
+      "url": "https://wired.com/story/lovable-wants-you-to-vibe-code-a-living",
+      "source": "Wired",
+      "published": "2026-11-18T10:00:00+00:00",
+      "retrieved_at": "2026-11-18T10:05:30.150085+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "440df2fa34cdf0742d3cb68a"
+    },
     {
       "title": "Over a Third of Gen Z-ers Rely on AI for Friendship",
       "url": "https://wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "0b9feed9c57387208fddaa38"
-    },
-    {
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "url": "https://openai.com/index/singapore-airlines-travel-work",
-      "source": "OpenAI",
-      "published": "2026-11-10T08:00:00+00:00",
-      "retrieved_at": "2026-11-11T06:46:56.214270+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "de8050b71dda0ea00131bbbc"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T10:00:23.905786+00:00",
+    "checked_at": "2026-11-18T10:05:27.956096+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
