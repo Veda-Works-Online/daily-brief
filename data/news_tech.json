@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-18T11:45:37.260287+00:00",
+  "updated": "2026-11-18T11:50:38.454477+00:00",
   "items": [
+    {
+      "title": "Nubia Redmagic 12 Pro Review: Furiously Fast but Flawed",
+      "url": "https://wired.com/review/nubia-redmagic-12-pro",
+      "source": "Wired",
+      "published": "2026-11-18T11:45:00+00:00",
+      "retrieved_at": "2026-11-18T11:50:33.986276+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The Nubia Redmagic 12 Pro offers a slick, big-screen experience and long battery life, but there are caveats",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "854a3c193b88dc5801ebbf6c"
+    },
     {
       "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
       "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "0802802423725ad9b0806be8"
-    },
-    {
-      "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
-      "url": "https://wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers",
-      "source": "Wired",
-      "published": "2026-11-10T11:00:00+00:00",
-      "retrieved_at": "2026-11-10T11:08:01.277998+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The “abliterators” are flooding the internet with AI models that never say no, making it easier for people to improve their cyberdefenses—or build a bomb.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7782e348af6c49ba06566fb1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T11:45:31.739478+00:00",
+    "checked_at": "2026-11-18T11:50:32.504096+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
