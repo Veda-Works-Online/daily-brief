@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-18T10:55:38.922308+00:00",
+  "updated": "2026-11-18T11:00:46.906752+00:00",
   "items": [
+    {
+      "title": "China dominates battery graphite, but this startup could break the monopoly",
+      "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly",
+      "source": "TechCrunch",
+      "published": "2026-11-18T11:00:00+00:00",
+      "retrieved_at": "2026-11-18T11:00:39.869477+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9bc1a4bc9e90cbed15e1f228"
+    },
     {
       "title": "Lovable Wants You to Vibe Code Your Dream Job",
       "url": "https://wired.com/story/lovable-wants-you-to-vibe-code-a-living",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "3e3b52b86100505e9597370a"
-    },
-    {
-      "title": "Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "source": "OpenAI",
-      "published": "2026-11-10T09:00:00+00:00",
-      "retrieved_at": "2026-11-10T12:33:02.784752+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "0b9feed9c57387208fddaa38"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T10:55:33.202193+00:00",
+    "checked_at": "2026-11-18T11:00:38.377727+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

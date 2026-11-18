@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-18T09:55:23.670278+00:00",
+  "updated": "2026-11-18T11:00:53.225434+00:00",
   "items": [
+    {
+      "title": "Why has an NYT report on Iran’s dams ignited fierce pushback?",
+      "url": "https://aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T10:38:13+00:00",
+      "retrieved_at": "2026-11-18T11:00:49.287826+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The NYT faces backlash over report suggesting a possible link between Iranian dams and underground missile facilities.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a8a20c7b6a94703dbe161544"
+    },
+    {
+      "title": "Traumas of Sudan war lead to wave of drug addiction",
+      "url": "https://aljazeera.com/features/2026/11/18/traumas-of-sudan-war-is-seeing-a-wave-of-drug-addiction",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T10:35:06+00:00",
+      "retrieved_at": "2026-11-18T11:00:49.287847+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Anguish caused by conflict sees a growing number of young people turn to drugs.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ab6989c83c71aca0822d70d2"
+    },
     {
       "title": "What do Deutsche Bank leaks reveal about Trump, Epstein and Russia?",
       "url": "https://aljazeera.com/news/2026/11/18/what-do-deutsche-bank-leaks-reveal-about-trump-epstein-and-russia",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9f7b577b6101a915fef5fe47"
-    },
-    {
-      "title": "NATO Is Not the Right Forum to Discuss China",
-      "url": "https://thediplomat.com/2026/11/nato-is-not-the-right-forum-to-discuss-china",
-      "source": "The Diplomat",
-      "published": "2026-11-13T14:07:00+00:00",
-      "retrieved_at": "2026-11-13T21:28:37.109959+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "No matter how strange and exaggerated NATO finds the Chinese perspective on the alliance, the organization should consider addressing Beijing’s concerns.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f180c142f8afc4625d65e6da"
-    },
-    {
-      "title": "China warns against fresh US chip curbs",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs",
-      "source": "Al Jazeera",
-      "published": "2026-11-13T13:42:49+00:00",
-      "retrieved_at": "2026-11-13T13:56:47.867405+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "China has warned the US against imposing additional export controls on AI chips.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0882aba1126e68e799399b30"
     }
   ],
   "unverified_history": [
