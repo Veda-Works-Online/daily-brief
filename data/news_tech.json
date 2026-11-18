@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-18T21:27:25.127816+00:00",
+  "updated": "2026-11-18T21:32:24.382878+00:00",
   "items": [
+    {
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated",
+      "source": "TechCrunch AI",
+      "published": "2026-11-18T21:31:21+00:00",
+      "retrieved_at": "2026-11-18T21:32:16.805363+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "\"[China knows] it makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5aa68dafd8eae37a0f7f7b40"
+    },
     {
       "title": "America’s AI Chip War Is Heating Up in the Dumbest Possible Ways",
       "url": "https://wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "713cb5adfa15991743694657"
-    },
-    {
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery",
-      "source": "TechCrunch AI",
-      "published": "2026-11-10T19:03:52+00:00",
-      "retrieved_at": "2026-11-10T19:05:38.603265+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5f39f8be62a1aaa8ad69fe15"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T21:27:17.020447+00:00",
+    "checked_at": "2026-11-18T21:32:16.364205+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
