@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-18T16:37:01.670048+00:00",
+  "updated": "2026-11-18T16:42:07.361900+00:00",
   "items": [
+    {
+      "title": "Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Weapon",
+      "url": "https://wired.com/story/artex-ai-hacking-tools",
+      "source": "Wired",
+      "published": "2026-11-18T16:35:24+00:00",
+      "retrieved_at": "2026-11-18T16:41:59.248269+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Artex and similar penetration testing tools allow newbie hackers to scan targeted systems for vulnerabilities and successfully wage attacks using prompts fed to chatbots.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "621e8e69774b0bd56895d821"
+    },
     {
       "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
       "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "edfd54e2326e94454d6f447a"
-    },
-    {
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "source": "Google AI",
-      "published": "2026-11-10T13:00:00+00:00",
-      "retrieved_at": "2026-11-10T13:09:02.493184+00:00",
-      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "ff0ba0eb666a5717c7ab855b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T16:36:55.421978+00:00",
+    "checked_at": "2026-11-18T16:41:57.355029+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
