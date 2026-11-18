@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-18T19:21:50.379995+00:00",
+  "updated": "2026-11-18T19:26:52.651583+00:00",
   "items": [
+    {
+      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+      "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show",
+      "source": "Ars Technica AI",
+      "published": "2026-11-18T19:19:33+00:00",
+      "retrieved_at": "2026-11-18T19:26:48.033194+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Erratic Muse outputs sharing random bank, Bitcoin balances aren’t real, Meta says.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8b590b6dcfcd348adf2e97ea"
+    },
     {
       "title": "An AI Debt Collection Service Exposed 6.6 Million Accounts and 315,000 Call Recordings",
       "url": "https://wired.com/story/ai-debt-collection-service-exposed-66-million-accounts-and-315000-call-recordings",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9f537d497412ee0581975d56"
-    },
-    {
-      "title": "Gemini 4 Carbon is now available",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
-      "source": "Google DeepMind",
-      "published": "2026-11-10T16:03:47+00:00",
-      "retrieved_at": "2026-11-10T16:04:15.177865+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "fbf4110d920112fb8c95f71d"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T19:21:43.257994+00:00",
+    "checked_at": "2026-11-18T19:26:46.618129+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
