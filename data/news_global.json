@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-18T16:47:08.209804+00:00",
+  "updated": "2026-11-18T17:07:05.348401+00:00",
   "items": [
+    {
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "url": "https://bbc.co.uk/news/videos/c8p3vw4q6nzzo",
+      "source": "BBC World",
+      "published": "2026-11-18T17:00:40+00:00",
+      "retrieved_at": "2026-11-18T17:06:59.663249+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces who have taken the battle below ground and out of sight of Russian drones.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d18f1cb512bcd1517e4735cb"
+    },
+    {
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "url": "https://bbc.co.uk/news/articles/c32l507ev4v4o",
+      "source": "BBC World",
+      "published": "2026-11-18T17:00:04+00:00",
+      "retrieved_at": "2026-11-18T17:06:59.663275+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d0e534835d37ac752acf45d1"
+    },
     {
       "title": "The Atlantic Brief: After the U.S. Midterms, Trans-Atlantic Defense Cooperation",
       "url": "https://warontherocks.com/the-atlantic-brief-after-the-u-s-midterms-trans-atlantic-defense-cooperation",
@@ -16,6 +48,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f2eb5a83ce279cff1f0dae59"
+    },
+    {
+      "title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T16:28:54+00:00",
+      "retrieved_at": "2026-11-18T17:06:59.691909+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israel’s army beat a journalist covering a settler attack near Jericho.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7e13f2278dbb70452a20adad"
     },
     {
       "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
@@ -3952,54 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "44747906b4f412ed20446d2d"
-    },
-    {
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "url": "https://bbc.co.uk/news/articles/ckz74jzpy18do",
-      "source": "BBC World",
-      "published": "2026-11-14T05:52:31+00:00",
-      "retrieved_at": "2026-11-14T06:04:11.135105+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c0bb089ead4fda09ecd131c5"
-    },
-    {
-      "title": "Trump, Xi and Putin to hold first three-way summit in China",
-      "url": "https://aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T04:55:58+00:00",
-      "retrieved_at": "2026-11-14T05:04:16.739878+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f2c12431c4949c81113b8424"
-    },
-    {
-      "title": "German spies granted sweeping new powers",
-      "url": "https://aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T04:41:11+00:00",
-      "retrieved_at": "2026-11-14T04:59:10.599486+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Parliament passes legislation months after a thwarted attack at Leipzig-Halle airport, which Berlin linked to Russia.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "48c458f4a8a702c82170749a"
     }
   ],
   "unverified_history": [
