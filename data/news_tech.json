@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T16:52:01.479005+00:00",
+  "updated": "2026-11-18T16:56:54.084169+00:00",
   "items": [
     {
       "title": "Criminals Have a New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
@@ -291,23 +291,6 @@
       "story_fingerprint": "b9e26f8f6ac1976d0b4e92b2"
     },
     {
-      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "url": "https://huggingface.co/blog/moe-expert-streaming",
-      "source": "Hugging Face",
-      "published": "2026-11-18T00:00:00+00:00",
-      "retrieved_at": "2026-11-18T16:51:55.435979+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "ede125ce07a48938f61ea2f8"
-    },
-    {
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI",
@@ -323,6 +306,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "36211a007c811bc97c03af3a"
+    },
+    {
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "source": "Hugging Face",
+      "published": "2026-11-18T00:00:00+00:00",
+      "retrieved_at": "2026-11-18T16:51:55.435979+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "ede125ce07a48938f61ea2f8"
     },
     {
       "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T16:51:54.154091+00:00",
+    "checked_at": "2026-11-18T16:56:47.972594+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
