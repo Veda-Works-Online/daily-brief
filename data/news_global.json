@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-18T23:12:27.868599+00:00",
+  "updated": "2026-11-18T23:47:27.627143+00:00",
   "items": [
+    {
+      "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
+      "url": "https://bbc.co.uk/news/articles/cq20xg80ly47o",
+      "source": "BBC World",
+      "published": "2026-11-18T23:28:03+00:00",
+      "retrieved_at": "2026-11-18T23:47:23.099448+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The suspect followed employees and and was found with fake US ID documents and two Russian passports, US prosecutors say.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "da93f5a7fbb8b7ea6414fdbf"
+    },
     {
       "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
       "url": "https://bbc.co.uk/news/articles/c5m2l90ez144o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "82817851a6fdc63ecdcad18a"
-    },
-    {
-      "title": "Explosion near Syria’s capital kills father and child",
-      "url": "https://aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T22:43:12+00:00",
-      "retrieved_at": "2026-11-14T23:22:16.244042+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Syria’s Internal Security Forces have launched an investigation into a suspected bomb attack in a suburb of Damascus.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "54f70e6a994701a54a1fcf29"
     }
   ],
   "unverified_history": [
