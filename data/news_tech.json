@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-18T00:34:06.619893+00:00",
+  "updated": "2026-11-18T00:38:54.835705+00:00",
   "items": [
+    {
+      "title": "‘The Predators Are Real’: Senate Hearing Slams Roblox Over Child Sex Abuse",
+      "url": "https://wired.com/story/the-predators-are-real-senate-hearing-slams-roblox-over-child-sex-abuse",
+      "source": "Wired",
+      "published": "2026-11-18T00:32:39+00:00",
+      "retrieved_at": "2026-11-18T00:38:51.144774+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "US Senators Josh Hawley and Dick Durbin have introduced legislation to make it easier for families to sue if their child has been harmed through the massive gaming platform.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7773d7fcdb6df4ff576741bf"
+    },
     {
       "title": "Microsoft calls Copilot \"the new OS for work\" at Ignite keynote",
       "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a4ffa7166b0ebdabf1594ad1"
-    },
-    {
-      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
-      "url": "https://wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol",
-      "source": "Wired",
-      "published": "2026-11-10T05:01:00+00:00",
-      "retrieved_at": "2026-11-10T05:07:18.398141+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "DeepMind researchers were able to formally verify that the widely used encryption protocol works as intended. Their stretch goal? Do the same for “all the software of the world.”",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "052a410a6279d386958239a6"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T00:33:57.985220+00:00",
+    "checked_at": "2026-11-18T00:38:50.028636+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
