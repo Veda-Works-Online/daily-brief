@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-18T19:26:52.651583+00:00",
+  "updated": "2026-11-18T19:31:45.928412+00:00",
   "items": [
+    {
+      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+      "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation",
+      "source": "TechCrunch",
+      "published": "2026-11-18T19:29:41+00:00",
+      "retrieved_at": "2026-11-18T19:31:41.433038+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "UK fintech Payhawk announced Wednesday a $280 million Series C round led by Goldman Sachs’ growth equity arm.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6df9ad0a3091e239c45f6f1f"
+    },
     {
       "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
       "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3da0cccb97584e819139bf5f"
-    },
-    {
-      "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
-      "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai",
-      "source": "TechCrunch",
-      "published": "2026-11-10T16:50:38+00:00",
-      "retrieved_at": "2026-11-10T18:55:44.815461+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9f537d497412ee0581975d56"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-18T19:26:46.618129+00:00",
+    "checked_at": "2026-11-18T19:31:39.910094+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
