@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-19T15:05:22.425962+00:00",
+  "updated": "2026-11-19T15:30:22.169803+00:00",
   "items": [
+    {
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "url": "https://bbc.co.uk/news/articles/c623j4ln97x7o",
+      "source": "BBC World",
+      "published": "2026-11-19T15:23:34+00:00",
+      "retrieved_at": "2026-11-19T15:30:16.051937+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1e622ef0d8eec3fd8a7b439a"
+    },
     {
       "title": "A geography of hearts: Turkiye and Lebanon, building the Levant together",
       "url": "https://aljazeera.com/opinions/2026/11/19/a-geography-of-hearts-turkiye-and-lebanon-building-the-levant-together",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "639de0c00de5aedcd510825e"
-    },
-    {
-      "title": "Philippines, Australia Sign New Defense Agreement Amid China Pressure",
-      "url": "https://thediplomat.com/2026/11/philippines-australia-sign-new-defense-agreement-amid-china-pressure",
-      "source": "The Diplomat",
-      "published": "2026-11-16T00:10:00+00:00",
-      "retrieved_at": "2026-11-16T05:27:06.638737+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "The new Defense Cooperation Agreement builds on a series of bilateral defense accords, including the 2007 Status of Visiting Forces Agreement.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5a27ce553b586f4786112077"
     }
   ],
   "unverified_history": [
