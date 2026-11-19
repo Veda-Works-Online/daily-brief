@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-19T19:21:24.168211+00:00",
+  "updated": "2026-11-19T19:26:14.493705+00:00",
   "items": [
+    {
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "url": "https://bbc.co.uk/news/articles/ckzd9nln5e6go",
+      "source": "BBC World",
+      "published": "2026-11-19T19:16:21+00:00",
+      "retrieved_at": "2026-11-19T19:26:08.977600+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3c4b8ca24923120e0ae90ff2"
+    },
     {
       "title": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2f4550ff51165bccf61dc958"
-    },
-    {
-      "title": "Russia’s Andreeva defeats Ukraine’s Svitolina 7-5, 6-3 to win WTA Finals",
-      "url": "https://aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T07:13:00+00:00",
-      "retrieved_at": "2026-11-16T07:42:00.675488+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Mirra Andreeva won the final in straight sets to end her first Grand Slam-winning year as world number two.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ff193dd7a3993c8e111ae14e"
     }
   ],
   "unverified_history": [
