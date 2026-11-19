@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-19T02:08:29.546466+00:00",
+  "updated": "2026-11-19T03:23:45.192645+00:00",
   "items": [
+    {
+      "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T03:01:27+00:00",
+      "retrieved_at": "2026-11-19T03:23:39.818863+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "253ed65c06505b68586490b9"
+    },
+    {
+      "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
+      "url": "https://aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T02:57:19+00:00",
+      "retrieved_at": "2026-11-19T03:23:39.818910+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a3af4bc47cecb35014cc00f8"
+    },
     {
       "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
       "url": "https://bbc.co.uk/news/articles/cm9q8j2z3gg8o",
@@ -82,20 +114,20 @@
       "story_fingerprint": "db6fc2de9d19c10d00bf6280"
     },
     {
-      "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+      "title": "Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh",
       "url": "https://aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz",
       "source": "Al Jazeera",
       "published": "2026-11-19T00:01:02+00:00",
-      "retrieved_at": "2026-11-19T01:03:29.754981+00:00",
+      "retrieved_at": "2026-11-19T03:23:39.819065+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Saudi-led coalition says it destroyed a missile platform in Saada, Yemen, as Iran claims three ships hit mines.",
+      "summary": "Trump claims Iran is seeking to develop biological weapons, as the Saudi-led coalition combats Houthi missiles.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "653604620376180bcead1f76"
+      "story_fingerprint": "9d0ad1801116d5449ec92114"
     },
     {
       "title": "Israel uses Gaza swimming video to minimise winter hardships",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1f2e67f9fdb1c50243c79adb"
-    },
-    {
-      "title": "Secret votes and vetoes: How will the next UN chief be picked?",
-      "url": "https://aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked",
-      "source": "Al Jazeera",
-      "published": "2026-11-15T06:11:00+00:00",
-      "retrieved_at": "2026-11-15T06:23:06.834925+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6768059566dcb97ba2e9580d"
-    },
-    {
-      "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
-      "url": "https://aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift",
-      "source": "Al Jazeera",
-      "published": "2026-11-15T05:05:02+00:00",
-      "retrieved_at": "2026-11-15T05:33:08.179857+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ba0385bca52a3aa258e96581"
     }
   ],
   "unverified_history": [
