@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-19T10:55:01.967602+00:00",
+  "updated": "2026-11-19T11:10:08.798124+00:00",
   "items": [
+    {
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "url": "https://bbc.co.uk/news/articles/cw8r7510degno",
+      "source": "BBC World",
+      "published": "2026-11-19T11:07:37+00:00",
+      "retrieved_at": "2026-11-19T11:10:02.623013+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "10c190bf728e4f44ba46e830"
+    },
     {
       "title": "UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya",
       "url": "https://aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide",
@@ -592,22 +608,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0ff2b5781f47307b43b95286"
-    },
-    {
-      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "url": "https://bbc.co.uk/news/articles/cw8r7510degno",
-      "source": "BBC World",
-      "published": "2026-11-18T20:14:57+00:00",
-      "retrieved_at": "2026-11-18T20:17:35.863452+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "591a0fbbc75a7255457b48a4"
     },
     {
       "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",

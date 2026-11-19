@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-19T11:04:53.488463+00:00",
+  "updated": "2026-11-19T11:09:59.737453+00:00",
   "items": [
+    {
+      "title": "Leaked: How Silicon Valley Elites Bankrolled an Anti-Migrant, Pro-Israel Propaganda Machine",
+      "url": "https://wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine",
+      "source": "Wired",
+      "published": "2026-11-19T11:00:00+00:00",
+      "retrieved_at": "2026-11-19T11:09:55.115516+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Documents reveal the sordid inner workings of Visegrad24, an obscure Polish influence operation that became one of Elon Musk’s favorite sources of fake news.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "eded08613873a52f36bd4478"
+    },
     {
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
       "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
       "source_type": "PRIMARY",
       "story_fingerprint": "ef2ff9e084ac88f830b7a779"
-    },
-    {
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "source": "OpenAI",
-      "published": "2026-11-11T08:00:00+00:00",
-      "retrieved_at": "2026-11-11T08:01:50.538901+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "d8665e51fd5820b842be2559"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-19T11:04:47.634968+00:00",
+    "checked_at": "2026-11-19T11:09:53.879545+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
