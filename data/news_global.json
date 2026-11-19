@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-19T20:57:00.957804+00:00",
+  "updated": "2026-11-19T21:11:45.933768+00:00",
   "items": [
+    {
+      "title": "Three arrested during Anthropic IPO protest outside Nasdaq",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T20:59:20+00:00",
+      "retrieved_at": "2026-11-19T21:11:41.810081+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "As the AI giant Anthropic made its record-breaking stock market debut in New York, police arrested demonstrators",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f1ebe9a0ed891f22688821cd"
+    },
+    {
+      "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T20:58:41+00:00",
+      "retrieved_at": "2026-11-19T21:11:41.810107+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israel launches its first major ground offensive in central Gaza, pushing beyond the ‘Yellow Line’ it controls",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1fae2f5d185dabbc2996e7b1"
+    },
     {
       "title": "'Humanitarian mission' for Kostiantynivka: Is it a trap?",
       "url": "https://dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772",
@@ -16,6 +48,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2c68783d93fbb2db4f6bdd9e"
+    },
+    {
+      "title": "Will the Shenzhen summit safeguard world peace?",
+      "url": "https://aljazeera.com/video/inside-story/2026/11/19/will-the-shenzhen-summit-safeguard-world-peace",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T20:43:51+00:00",
+      "retrieved_at": "2026-11-19T21:11:41.810144+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Xi, Putin and Trump issue 'Peace Declaration' after historic summit.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "77b67f6944db5e6bda2055e2"
     },
     {
       "title": "Trump’s case against NYT and Penguin Random House may proceed: Judge",
@@ -3952,54 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3cafe46a1e4c6d385b619616"
-    },
-    {
-      "title": "Massive boulder rolls down mountain and slams into car in China",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/16/massive-boulder-rolls-down-mountain-and-slams-into-car-in-china",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T12:55:16+00:00",
-      "retrieved_at": "2026-11-16T13:07:55.230433+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A huge boulder came crashing down a mountain slope onto a car stopped in traffic in Li County, Sichuan, China.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f23db2b7c0b0fb0fb000318d"
-    },
-    {
-      "title": "Ashes of exiled Nobel Laureate Miguel Ángel Asturias returned to Guatemala",
-      "url": "https://bbc.co.uk/news/articles/cvde1klewg88o",
-      "source": "BBC World",
-      "published": "2026-11-16T12:42:14+00:00",
-      "retrieved_at": "2026-11-16T12:57:53.885868+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The poet, writer and diplomat died in Europe in 1974 having been forced to leave his native country.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0652acec0944d65147f4ebb6"
-    },
-    {
-      "title": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?",
-      "url": "https://aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T11:40:25+00:00",
-      "retrieved_at": "2026-11-16T12:02:49.366618+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A Palestinian citizen of Israel, Tibi was an aide to Yasser Arafat and has been a legislator for 27 years.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "31d055abb45bcba9a495e77d"
     }
   ],
   "unverified_history": [
