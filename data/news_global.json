@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T20:26:14.742048+00:00",
+  "updated": "2026-11-19T20:31:26.042165+00:00",
   "items": [
     {
       "title": "Handshakes Without Headway",
@@ -176,6 +176,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e1d868c73a854cff57363070"
+    },
+    {
+      "title": "Xi Jinping, Donald Trump and Vladimir Putin have held trilateral talks ― but what did they achieve?",
+      "url": "https://dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668",
+      "source": "DW",
+      "published": "2026-11-19T17:52:00+00:00",
+      "retrieved_at": "2026-11-19T20:31:20.818044+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The presidents of China, the US and Russia have held an unprecedented summit. While Trump said the three leaders were \"making history,\" Xi described the talks as \"fruitful\" and Putin called them \"open and candid.\"",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "04da7c55378fdb173546d7ca"
     },
     {
       "title": "Xi-Trump-Putin summit: What did it achieve?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "990543b28f5ae2d2e78fc68e"
-    },
-    {
-      "title": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T09:31:36+00:00",
-      "retrieved_at": "2026-11-16T09:47:44.812844+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c6344e0c8a7ee91520938b29"
     }
   ],
   "unverified_history": [
