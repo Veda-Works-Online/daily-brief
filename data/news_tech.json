@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T18:31:12.302591+00:00",
+  "updated": "2026-11-19T18:36:18.159275+00:00",
   "items": [
     {
       "title": "Google gives Gemini the ability to use your Mac for you",
@@ -34,6 +34,23 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "933ff8e0b7e6d43bd5170565"
+    },
+    {
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+      "source": "Google AI",
+      "published": "2026-11-19T18:00:00+00:00",
+      "retrieved_at": "2026-11-19T18:36:10.606549+00:00",
+      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "summary": "Gemini spark on a space background",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "5f5bb8b358828e8348d329cc"
     },
     {
       "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "219cb0672764e223e44893fa"
-    },
-    {
-      "title": "IBM to offer access to a dual-processor quantum system in 2027",
-      "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027",
-      "source": "Ars Technica",
-      "published": "2026-11-11T16:33:08+00:00",
-      "retrieved_at": "2026-11-11T17:48:50.121346+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "The company plans on linking two 520-qubit chips before next year is over.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f5ccf5935ce7a1e087bc25ae"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-19T18:31:03.383032+00:00",
+    "checked_at": "2026-11-19T18:36:09.740395+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
