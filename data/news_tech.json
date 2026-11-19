@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-19T16:56:13.550749+00:00",
+  "updated": "2026-11-19T17:01:12.117776+00:00",
   "items": [
+    {
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories",
+      "source": "TechCrunch AI",
+      "published": "2026-11-19T17:00:00+00:00",
+      "retrieved_at": "2026-11-19T17:01:06.891508+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a52869c3fd351b8824a4f826"
+    },
+    {
+      "title": "Anthropic hits NASDAQ exchanges at $110, $27 above IPO price",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
+      "source": "TechCrunch AI",
+      "published": "2026-11-19T16:59:23+00:00",
+      "retrieved_at": "2026-11-19T17:01:06.891533+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4df9a4b5a846d22a73f9d7f2"
+    },
     {
       "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
       "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://deepmind.google/blog/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "1450bcfc32080866d2d27450"
-    },
-    {
-      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth",
-      "source": "TechCrunch AI",
-      "published": "2026-11-11T15:00:00+00:00",
-      "retrieved_at": "2026-11-11T19:03:51.329479+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ca51d643833cb1d8417ba38b"
-    },
-    {
-      "title": "Google DeepMind just mathematically verified key parts of Signal",
-      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup",
-      "source": "Ars Technica AI",
-      "published": "2026-11-11T14:08:57+00:00",
-      "retrieved_at": "2026-11-11T14:23:56.172559+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "The four-week project hints that AI could make formal verification far more practical.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c8cf8ca1b6b76891c0a8cf96"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-19T16:56:07.722098+00:00",
+    "checked_at": "2026-11-19T17:01:06.336293+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
