@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-19T19:06:03.915881+00:00",
+  "updated": "2026-11-19T19:11:09.115406+00:00",
   "items": [
+    {
+      "title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
+      "source": "TechCrunch AI",
+      "published": "2026-11-19T19:10:45+00:00",
+      "retrieved_at": "2026-11-19T19:11:01.190996+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "At a stock price of $94, the frontier lab's Public Benefit Foundation, it's employee donations, and the company's match tot up to $155 billion.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "af8be46d8e832544873e7155"
+    },
     {
       "title": "Google gives Gemini the ability to use your Mac for you",
       "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0af95343f9683cd65bd232ae"
-    },
-    {
-      "title": "A Startup Wants to Fight AI Bioweapons With AI",
-      "url": "https://wired.com/story/startup-fights-ai-bioweapons-with-ai",
-      "source": "Wired",
-      "published": "2026-11-11T17:00:00+00:00",
-      "retrieved_at": "2026-11-11T17:19:17.052220+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Radical Numerics has developed a model that it says can identify natural and AI-engineered pathogens without an internet connection.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "219cb0672764e223e44893fa"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-19T19:05:58.515913+00:00",
+    "checked_at": "2026-11-19T19:11:00.534542+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
