@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-19T14:50:10.544076+00:00",
+  "updated": "2026-11-19T14:55:16.172107+00:00",
   "items": [
+    {
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test",
+      "source": "TechCrunch AI",
+      "published": "2026-11-19T14:54:39+00:00",
+      "retrieved_at": "2026-11-19T14:55:07.061147+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1d128c276fc67e2fca23217b"
+    },
     {
       "title": "Superhuman pushes its Go assistant everywhere",
       "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "460263fd3c5702fb41e6fefa"
-    },
-    {
-      "title": "Exclusive: Your Smartphone Camera Could Get a Big Upgrade With This Tech",
-      "url": "https://wired.com/story/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech",
-      "source": "Wired",
-      "published": "2026-11-11T12:00:00+00:00",
-      "retrieved_at": "2026-11-11T12:08:15.977348+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Metalenz just acquired PxE to ditch the 50-year-old color filter that has held back smartphone night photography.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d94ec522527ab9dd14413684"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-19T14:50:02.193244+00:00",
+    "checked_at": "2026-11-19T14:55:06.795549+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
