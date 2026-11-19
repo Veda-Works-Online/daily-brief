@@ -317,3 +317,14 @@ assert(ctx.soybeanDatedReference(datedSoy).includes('Separate CBOT contract: Jan
 assert.equal(ctx.soybeanDatedReference({...datedSoy,source_timestamp:new Date().toISOString()}),'');
 assert.equal(ctx.soybeanDatedReference({...datedSoy,dated_contract_reference:{
   ...datedSoy.dated_contract_reference,source_timestamp:datedSoy.source_timestamp}}),'');
+const delayedMetal = {instrument_type:'FUTURE', source:'Google Finance', quote_quality:'INDICATIVE',
+  source_timestamp:new Date(Date.now()-40*60*1000).toISOString(),
+  quote_policy:{max_quote_age_seconds:1800},
+  futures_source_check:{status:'RECEIVED',checked_at:new Date().toISOString()}};
+assert(ctx.quoteStatus(delayedMetal).includes('Provider quote delayed'));
+assert(ctx.quoteStatus(delayedMetal).includes('Source checked'));
+assert(ctx.quoteStatus(delayedMetal).startsWith('STALE'));
+assert(ctx.quoteStatus({...delayedMetal,futures_source_check:{
+  ...delayedMetal.futures_source_check,status:'CONFLICT'}}).includes('Provider snapshots conflict'));
+assert(!ctx.quoteStatus({...delayedMetal,futures_source_check:{
+  status:'RECEIVED',checked_at:new Date(Date.now()-601000).toISOString()}}).includes('Source checked'));

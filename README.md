@@ -32,6 +32,18 @@ saving conversion fixtures still exercise their own dates.
 
 ## Index and currency reference
 
+Google futures pages with different prices or displayed daily percentages at the
+same quote timestamp are rejected as conflicting snapshots. Saved observations
+retain their original timestamps and stale status until a usable quote arrives.
+Futures daily changes use the provider's reported percentage when available,
+avoiding rounding discrepancies from the displayed benchmark price.
+
+Futures rows show the recent source-check time separately from the quote time.
+Labels distinguish an old provider quote, conflicting snapshots, failed requests,
+and an older response rejected by the existing regression guard. Source-check
+evidence expires after ten minutes; neither a successful request nor a delay
+changes the quote's original timestamp or thirty-minute freshness threshold.
+
 Index, FX and commodity futures fetches compare both Google page formats and keep the newest actual
 quote timestamp. Google beta index headers may omit currency because the value
 is in index points; missing denominations are resolved only for the five exact

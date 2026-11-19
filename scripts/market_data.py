@@ -330,7 +330,7 @@ def fetch_google(identifier):
     # Google serves both legacy and beta pages during its rollout. Retry a
     # failed identity/schema check on the direct beta route, without weakening
     # canonical URL, payload identity or currency-direction validation.
-    best, error = None, None
+    best, error, conflict_time = None, None, None
     for route in ('quote/', 'beta/quote/'):
         try:
             response = requests.get('https://www.google.com/finance/' + route + identifier,
@@ -338,6 +338,15 @@ def fetch_google(identifier):
                                     params={'hl': 'en'}, timeout=(4, 10))
             response.raise_for_status()
             quote = parse_google(response.text, identifier)
+            if (identifier in GOOGLE_FUTURES.values() and best is not None
+                    and timestamp(quote['timestamp']) == timestamp(best['timestamp'])
+                    and (quote.get('price') != best.get('price')
+                         or quote.get('currency') != best.get('currency')
+                         or (quote.get('reportedChangePercent') is not None
+                             and best.get('reportedChangePercent') is not None
+                             and decimal(quote['reportedChangePercent']).quantize(Decimal('0.01'), rounding=ROUND_HALF_UP)
+                                 != decimal(best['reportedChangePercent']).quantize(Decimal('0.01'), rounding=ROUND_HALF_UP)))):
+                conflict_time = timestamp(quote['timestamp'])
             if best is None or timestamp(quote['timestamp']) > timestamp(best['timestamp']):
                 best = quote
             # Retry old FX and NSE observations too; never replace a valid newer quote
@@ -350,6 +359,8 @@ def fetch_google(identifier):
                 return best
         except (requests.RequestException, ValueError, KeyError, TypeError) as exc:
             error = exc
+    if best is not None and conflict_time == timestamp(best['timestamp']):
+        raise ValueError('GOOGLE_FUTURES_SNAPSHOT_CONFLICT')
     if best is not None:
         return best
     raise error
@@ -601,7 +612,15 @@ def google_observation(row, symbol, quote, identity, now):
         'source':'Google Finance','source_timestamp':quote['timestamp'],'retrieved_at':quote['retrieved_at'],
         'decimal':format(price,'f'),'currency':quote['currency'],'verification_sources':[]}
     out.update(sourceTimestamp=out['source_timestamp'],retrievedAt=out['retrieved_at'],marketStatus=out['market_status'],marketTimezone=out['market_timezone'])
-    return fill_google_fields(out, quote, now)
+    out = fill_google_fields(out, quote, now)
+    if future and quote.get('reportedChangePercent') is not None:
+        value = decimal(quote['reportedChangePercent'])
+        out['changePercent'] = value
+        out['field_metadata']['changePercent'] = {
+            **out['field_metadata']['indexValue'], 'decimal':format(value, 'f'),
+            'currency':None, 'basis':'Google Finance reported futures daily change',
+        }
+    return out
 
 
 def soybean_dated_reference(row, yahoo, now):
@@ -1383,6 +1402,20 @@ def refresh_markets(payload):
         if symbol in equity_symbols:
             result = google_equity_reference(result, row, symbol, secondary.get(symbol, {}),
                                              identity(symbol), datetime.now(timezone.utc))
+        if symbol in GOOGLE_FUTURES:
+            checked = secondary.get(symbol, {})
+            reason = checked.get('error')
+            status = 'CONFLICT' if reason == 'GOOGLE_FUTURES_SNAPSHOT_CONFLICT' else 'UNAVAILABLE'
+            checked_at = now_iso()
+            if not reason:
+                try:
+                    google_observation(row, symbol, checked, identity(symbol), datetime.now(timezone.utc))
+                    checked_at = checked['retrieved_at']
+                    status = 'OLDER_RESPONSE' if result.get('error', {}).get('reason') == 'OLDER_SOURCE_OBSERVATION' else 'RECEIVED'
+                except (ValueError, KeyError, TypeError, OverflowError):
+                    pass
+            result['futures_source_check'] = dict(status=status, checked_at=checked_at,
+                reason=reason, provider='Google Finance')
         if symbol == 'ZS=F':
             result.pop('dated_contract_reference', None)
             reference = soybean_dated_reference(result, quotes.get(symbol, {}), datetime.now(timezone.utc))
