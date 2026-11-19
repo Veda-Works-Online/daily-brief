@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-19T14:00:19.182001+00:00",
+  "updated": "2026-11-19T14:05:18.671577+00:00",
   "items": [
+    {
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere",
+      "source": "TechCrunch AI",
+      "published": "2026-11-19T14:00:00+00:00",
+      "retrieved_at": "2026-11-19T14:05:09.296013+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Superhuman is making Go its central agent and making it available in Docs and Mail",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2e5416914ef5b5e60ac0b00b"
+    },
     {
       "title": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
       "url": "https://wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d94ec522527ab9dd14413684"
-    },
-    {
-      "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
-      "url": "https://wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged",
-      "source": "Wired",
-      "published": "2026-11-11T11:00:00+00:00",
-      "retrieved_at": "2026-11-11T11:08:11.700000+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "43be92c4b55fdc591a368a15"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-19T14:00:06.403749+00:00",
+    "checked_at": "2026-11-19T14:05:09.001731+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
