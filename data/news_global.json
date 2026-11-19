@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T23:11:35.126554+00:00",
+  "updated": "2026-11-19T23:16:32.534550+00:00",
   "items": [
     {
       "title": "California probing whether China improperly acquired Nvidia technology",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4b78d3709e4be547a9467cd6"
+    },
+    {
+      "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T22:58:48+00:00",
+      "retrieved_at": "2026-11-19T23:16:29.137538+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9fcf574b973177136964a59c"
     },
     {
       "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6d617932ee5af424491d001d"
-    },
-    {
-      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "url": "https://bbc.co.uk/news/articles/ckx27v6dpjz0o",
-      "source": "BBC World",
-      "published": "2026-11-16T14:58:12+00:00",
-      "retrieved_at": "2026-11-16T15:13:58.522064+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5deb7b577d432c849531212a"
     }
   ],
   "unverified_history": [
