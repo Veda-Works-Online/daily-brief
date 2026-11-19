@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T23:26:31.711756+00:00",
+  "updated": "2026-11-19T23:31:40.091559+00:00",
   "items": [
     {
       "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
@@ -408,6 +408,57 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "90baab2ebce2ae5227eae087"
+    },
+    {
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI",
+      "published": "2026-11-19T00:00:00+00:00",
+      "retrieved_at": "2026-11-19T23:31:36.186102+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "268c6c3a657d9811b9036e66"
+    },
+    {
+      "title": "See PR scans in action",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "source": "OpenAI",
+      "published": "2026-11-19T00:00:00+00:00",
+      "retrieved_at": "2026-11-19T23:31:36.186113+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "349e696538a9bd744e9bc9ea"
+    },
+    {
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "source": "OpenAI",
+      "published": "2026-11-19T00:00:00+00:00",
+      "retrieved_at": "2026-11-19T23:31:36.186123+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "ad40bc77b2d22fba599962af"
     },
     {
       "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
@@ -1226,23 +1277,6 @@
       "story_fingerprint": "259bd3365a9e8ab9612de5c3"
     },
     {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "source": "OpenAI",
-      "published": "2026-11-18T00:00:00+00:00",
-      "retrieved_at": "2026-11-18T09:19:48.390340+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "36211a007c811bc97c03af3a"
-    },
-    {
       "title": "Advancing chip design with OpenAI models",
       "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "source": "OpenAI",
@@ -1258,6 +1292,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "eec83baa2d9ca37bb36324ae"
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "source": "OpenAI",
+      "published": "2026-11-18T00:00:00+00:00",
+      "retrieved_at": "2026-11-18T09:19:48.390340+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "36211a007c811bc97c03af3a"
     },
     {
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
@@ -2042,23 +2093,6 @@
       "story_fingerprint": "816217c29e22182613da1e44"
     },
     {
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI",
-      "published": "2026-11-17T00:00:00+00:00",
-      "retrieved_at": "2026-11-17T13:58:09.225426+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "027c6b77f0b15e3fdaf37c71"
-    },
-    {
       "title": "Astra for Law leads in legal intelligence",
       "url": "https://openai.com/index/astra-law-6-2",
       "source": "OpenAI",
@@ -2074,6 +2108,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "d2e36fdc59b1cc094e128abb"
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "source": "OpenAI",
+      "published": "2026-11-17T00:00:00+00:00",
+      "retrieved_at": "2026-11-17T13:58:09.225426+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "027c6b77f0b15e3fdaf37c71"
     },
     {
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -4199,57 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "08c523061502dfac0e349416"
-    },
-    {
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec",
-      "source": "TechCrunch AI",
-      "published": "2026-11-11T23:17:05+00:00",
-      "retrieved_at": "2026-11-11T23:54:46.615397+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "80941a58d1ed4f6b6f237a19"
-    },
-    {
-      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
-      "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says",
-      "source": "Ars Technica",
-      "published": "2026-11-11T20:32:21+00:00",
-      "retrieved_at": "2026-11-11T21:59:49.333733+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6957873b614229679b505914"
-    },
-    {
-      "title": "Why the data center you dread might never even be built",
-      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built",
-      "source": "TechCrunch AI",
-      "published": "2026-11-11T20:15:15+00:00",
-      "retrieved_at": "2026-11-11T20:20:04.190179+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "77c0fddbebb65d3806aa18f8"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-19T23:26:28.028003+00:00",
+    "checked_at": "2026-11-19T23:31:35.226692+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-19T23:16:32.534550+00:00",
+  "updated": "2026-11-19T23:31:45.442797+00:00",
   "items": [
+    {
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "url": "https://bbc.co.uk/news/articles/cx1l0pm7l9jmo",
+      "source": "BBC World",
+      "published": "2026-11-19T23:18:43+00:00",
+      "retrieved_at": "2026-11-19T23:31:42.177557+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "44078690dbb629e9213ad62d"
+    },
     {
       "title": "California probing whether China improperly acquired Nvidia technology",
       "url": "https://bbc.co.uk/news/articles/cqn70vxp5p4no",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7c4cf34b3ce6be4b940e286a"
-    },
-    {
-      "title": "Why Starshield limits are hurting Ukraine against jet-powered drones",
-      "url": "https://aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T14:58:30+00:00",
-      "retrieved_at": "2026-11-16T15:28:55.450019+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Ukraine's military has been relying on the internet service since December 2024 to intercept Russian drones.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6d617932ee5af424491d001d"
     }
   ],
   "unverified_history": [
