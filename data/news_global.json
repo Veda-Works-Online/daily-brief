@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-19T07:18:59.608363+00:00",
+  "updated": "2026-11-19T07:33:49.145392+00:00",
   "items": [
+    {
+      "title": "Crimean Bridge attacked again, Russia says",
+      "url": "https://bbc.co.uk/news/articles/cm879dqn3e1jo",
+      "source": "BBC World",
+      "published": "2026-11-19T07:32:06+00:00",
+      "retrieved_at": "2026-11-19T07:33:46.139694+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b22ef6ffd37f3ef81374afcc"
+    },
+    {
+      "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
+      "url": "https://aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T07:08:57+00:00",
+      "retrieved_at": "2026-11-19T07:33:45.947038+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The US blockade of Iranian ports has a crippling effect on the economy, but Tehran insists its economy can survive.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d19007c7ab10658c7c68ecd4"
+    },
     {
       "title": "Netanyahu’s last stand and the dangerous politics of survival",
       "url": "https://aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival",
@@ -146,11 +178,11 @@
       "story_fingerprint": "3479174a2e2635b809498ef2"
     },
     {
-      "title": "APEC Live: APEC Live: Trump-Xi-Putin meeting to focus on Ukraine, Iran, AI",
+      "title": "APEC Live: Trump-Xi-Putin meeting to focus on Ukraine, Iran, AI",
       "url": "https://aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit",
       "source": "Al Jazeera",
       "published": "2026-11-19T03:30:26+00:00",
-      "retrieved_at": "2026-11-19T07:18:56.323028+00:00",
+      "retrieved_at": "2026-11-19T07:33:45.947179+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "The unprecedented summit follows Trump's bilateral meetings with China's Xi and Russia's Putin.",
       "category": "global",
@@ -159,7 +191,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "46a9a3bdece810a5fe8aa238"
+      "story_fingerprint": "c9535014986b7ca58c8ddb98"
     },
     {
       "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
@@ -224,22 +256,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f6eabb0c23d279f8f677d137"
-    },
-    {
-      "title": "Crimean Bridge attacked again, Russian official says",
-      "url": "https://bbc.co.uk/news/articles/cm879dqn3e1jo",
-      "source": "BBC World",
-      "published": "2026-11-19T01:05:03+00:00",
-      "retrieved_at": "2026-11-19T01:28:23.448215+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "15d03126bba1dfafe489f003"
     },
     {
       "title": "Almost 1 in 4 children live in conflict zones — report",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8e03a644df06e8a90a7cea55"
-    },
-    {
-      "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
-      "url": "https://aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us",
-      "source": "Al Jazeera",
-      "published": "2026-11-15T12:36:19+00:00",
-      "retrieved_at": "2026-11-15T12:54:11.914072+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Tehran says its air attacks on countries cooperating with the US are justified under international law.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8205e1c1ba8e90e6425472d8"
     }
   ],
   "unverified_history": [
