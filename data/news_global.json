@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-19T22:21:45.846545+00:00",
+  "updated": "2026-11-19T23:11:35.126554+00:00",
   "items": [
+    {
+      "title": "California probing whether China improperly acquired Nvidia technology",
+      "url": "https://bbc.co.uk/news/articles/cqn70vxp5p4no",
+      "source": "BBC World",
+      "published": "2026-11-19T23:04:30+00:00",
+      "retrieved_at": "2026-11-19T23:11:31.265505+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4b78d3709e4be547a9467cd6"
+    },
     {
       "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
       "url": "https://aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5deb7b577d432c849531212a"
-    },
-    {
-      "title": "Guinea's gold rush: Arrests, deportations spark outcry",
-      "url": "https://dw.com/en/guinea-s-gold-rush-arrests-deportations-spark-outcry/a-79922842",
-      "source": "DW",
-      "published": "2026-11-16T14:38:00+00:00",
-      "retrieved_at": "2026-11-16T14:53:59.581486+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "Guinea has banned illegal gold mining, citing environmental concerns. It has further charged hundreds of suspected local and foreign illegal miners amid reports of rights abuses and deportations.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b7d7f0eda2b2ebbb02804200"
     }
   ],
   "unverified_history": [
