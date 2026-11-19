@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-19T21:56:40.815160+00:00",
+  "updated": "2026-11-19T22:01:37.725302+00:00",
   "items": [
+    {
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300",
+      "source": "TechCrunch AI",
+      "published": "2026-11-19T21:58:06+00:00",
+      "retrieved_at": "2026-11-19T22:01:34.656359+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "db4e7292fce060cb5990a1a1"
+    },
+    {
+      "title": "What’s With All These Outages?",
+      "url": "https://wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages",
+      "source": "Wired",
+      "published": "2026-11-19T21:57:01+00:00",
+      "retrieved_at": "2026-11-19T22:01:35.204426+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7447d51ee9526f791132db8c"
+    },
     {
       "title": "These tech outages are giving Y2K, AI agent style",
       "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style",
@@ -70,11 +104,11 @@
       "story_fingerprint": "67d544d25d8b9e0e9ebbf179"
     },
     {
-      "title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "title": "Anthropic’s IPO could deliver $156B to charity",
       "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
       "source": "TechCrunch AI",
       "published": "2026-11-19T19:10:45+00:00",
-      "retrieved_at": "2026-11-19T19:21:10.166176+00:00",
+      "retrieved_at": "2026-11-19T22:01:34.656446+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
       "isAI": true,
@@ -84,7 +118,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "af8be46d8e832544873e7155"
+      "story_fingerprint": "ecc2a5d9cde9e8e9dbcef4cc"
     },
     {
       "title": "Google gives Gemini the ability to use your Mac for you",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3be24bcac03874ca62ef0796"
-    },
-    {
-      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth",
-      "source": "TechCrunch AI",
-      "published": "2026-11-11T19:54:00+00:00",
-      "retrieved_at": "2026-11-12T01:40:24.839720+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "936d234515821a2c8d991817"
-    },
-    {
-      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips",
-      "source": "TechCrunch AI",
-      "published": "2026-11-11T19:34:55+00:00",
-      "retrieved_at": "2026-11-11T19:35:07.461560+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "738cdf7f3946730a79ec2dac"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-19T21:56:34.020801+00:00",
+    "checked_at": "2026-11-19T22:01:34.022702+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
