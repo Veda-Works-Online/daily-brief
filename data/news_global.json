@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T14:10:26.870254+00:00",
+  "updated": "2026-11-19T14:20:25.898959+00:00",
   "items": [
     {
       "title": "Wadephul: 'Coalition of the Willing' talks in Berlin send strong signal to Moscow",
@@ -16,6 +16,38 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "51217226f7668dc1efb2e2cd"
+    },
+    {
+      "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
+      "url": "https://aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T13:54:10+00:00",
+      "retrieved_at": "2026-11-19T14:20:19.621935+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The trauma Israeli soldiers bring home — and the consequences of Israel’s genocide in Gaza.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "056d1beb9122eb75eea72325"
+    },
+    {
+      "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
+      "url": "https://aljazeera.com/features/2026/11/19/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T13:49:49+00:00",
+      "retrieved_at": "2026-11-19T14:20:19.621958+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Advocates raised concerns about consumer privacy and data-sharing, involving a firm with ties to Israel's military.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b3483e02f699d95ec5406bef"
     },
     {
       "title": "Mosque set on fire in Israel, politicians blame Netanyahu’s ‘incitement’",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "022c5ab13f8e118f01b6afeb"
-    },
-    {
-      "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
-      "url": "https://aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-11-15T22:06:38+00:00",
-      "retrieved_at": "2026-11-15T22:31:00.454489+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The countries accuse Israel of preventing tents and other supplies from entering Gaza, despite the humanitarian crisis.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d33a6fae76d9890f7d9dda83"
-    },
-    {
-      "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
-      "url": "https://bbc.co.uk/news/articles/c60evn992jq8o",
-      "source": "BBC World",
-      "published": "2026-11-15T22:00:13+00:00",
-      "retrieved_at": "2026-11-16T08:07:04.292110+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e207a1ffc8ab955d306ef401"
     }
   ],
   "unverified_history": [
