@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-19T13:00:01.749640+00:00",
+  "updated": "2026-11-19T13:10:05.144592+00:00",
   "items": [
+    {
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "url": "https://bbc.co.uk/news/articles/cm879dqn3e1jo",
+      "source": "BBC World",
+      "published": "2026-11-19T13:07:35+00:00",
+      "retrieved_at": "2026-11-19T13:09:59.072758+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Russian president said the Crimean Bridge was civilian infrastructure, which Kyiv disputes.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "72c2c3f3ea8afbd99bbbe4a2"
+    },
     {
       "title": "What is a ‘nuclear briefcase’, spotted at the APEC summit?",
       "url": "https://aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit",
@@ -256,22 +272,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9c4cbd4b1af465e1ad14c18a"
-    },
-    {
-      "title": "Crimean Bridge attacked again, Russia says",
-      "url": "https://bbc.co.uk/news/articles/cm879dqn3e1jo",
-      "source": "BBC World",
-      "published": "2026-11-19T07:32:06+00:00",
-      "retrieved_at": "2026-11-19T07:33:46.139694+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b22ef6ffd37f3ef81374afcc"
     },
     {
       "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
