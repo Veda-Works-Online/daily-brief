@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-19T09:29:04.245091+00:00",
+  "updated": "2026-11-19T09:38:55.558983+00:00",
   "items": [
+    {
+      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "url": "https://bbc.co.uk/news/articles/c920xgxp5785o",
+      "source": "BBC World",
+      "published": "2026-11-19T09:21:54+00:00",
+      "retrieved_at": "2026-11-19T09:38:51.960928+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a93c8cfb875639425f2dd8c8"
+    },
     {
       "title": "North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
       "url": "https://aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e3efb2c4fdfaf43e467c5d63"
-    },
-    {
-      "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon",
-      "source": "Al Jazeera",
-      "published": "2026-11-15T14:55:40+00:00",
-      "retrieved_at": "2026-11-15T15:15:04.436355+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "03406104df0bc8e0baeb2b07"
     }
   ],
   "unverified_history": [
