@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-19T10:19:12.211707+00:00",
+  "updated": "2026-11-19T10:45:03.159807+00:00",
   "items": [
+    {
+      "title": "UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya",
+      "url": "https://aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T10:31:36+00:00",
+      "retrieved_at": "2026-11-19T10:44:57.036602+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "In case filed at the ICJ in 2019, The Gambia accused Myanmar of breaching the 1948 Genocide Convention.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "67e155567687fceb51292ad2"
+    },
     {
       "title": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
       "url": "https://aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "66046edcaa540a17b0bda481"
-    },
-    {
-      "title": "Record number of migrants arrive in Spain’s Canary Islands",
-      "url": "https://aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands",
-      "source": "Al Jazeera",
-      "published": "2026-11-15T15:16:29+00:00",
-      "retrieved_at": "2026-11-15T15:45:00.590417+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0792eeed0c42fe67789a2a04"
     }
   ],
   "unverified_history": [
