@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-19T17:01:12.117776+00:00",
+  "updated": "2026-11-19T17:06:14.201828+00:00",
   "items": [
+    {
+      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+      "url": "https://wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents",
+      "source": "Wired",
+      "published": "2026-11-19T17:00:00+00:00",
+      "retrieved_at": "2026-11-19T17:06:09.884555+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allowed the Chrome team to properly train the AI browsing agents—without the risk of them going rouge.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "60691a7d7537fb6e15eba6e3"
+    },
     {
       "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
       "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories",
@@ -19,11 +36,11 @@
       "story_fingerprint": "a52869c3fd351b8824a4f826"
     },
     {
-      "title": "Anthropic hits NASDAQ exchanges at $110, $27 above IPO price",
+      "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
       "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
       "source": "TechCrunch AI",
       "published": "2026-11-19T16:59:23+00:00",
-      "retrieved_at": "2026-11-19T17:01:06.891533+00:00",
+      "retrieved_at": "2026-11-19T17:06:09.073454+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
       "isAI": true,
@@ -33,7 +50,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "4df9a4b5a846d22a73f9d7f2"
+      "story_fingerprint": "10a7b1da70601f3434bdad76"
     },
     {
       "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3140b0ac852dbfa63546ec58"
-    },
-    {
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-      "source": "Google DeepMind",
-      "published": "2026-11-11T15:00:15+00:00",
-      "retrieved_at": "2026-11-11T15:03:56.327620+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "1450bcfc32080866d2d27450"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-19T17:01:06.336293+00:00",
+    "checked_at": "2026-11-19T17:06:08.385467+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
