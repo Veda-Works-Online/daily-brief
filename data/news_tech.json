@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-19T17:11:08.313642+00:00",
+  "updated": "2026-11-19T17:16:10.254836+00:00",
   "items": [
+    {
+      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+      "url": "https://wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents",
+      "source": "Wired",
+      "published": "2026-11-19T17:00:00+00:00",
+      "retrieved_at": "2026-11-19T17:16:03.202311+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "60691a7d7537fb6e15eba6e3"
+    },
     {
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
@@ -34,23 +51,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a52869c3fd351b8824a4f826"
-    },
-    {
-      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-      "url": "https://wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents",
-      "source": "Wired",
-      "published": "2026-11-19T17:00:00+00:00",
-      "retrieved_at": "2026-11-19T17:06:09.884555+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allowed the Chrome team to properly train the AI browsing agents—without the risk of them going rouge.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "60691a7d7537fb6e15eba6e3"
     },
     {
       "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-19T17:11:02.073213+00:00",
+    "checked_at": "2026-11-19T17:16:01.728804+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
