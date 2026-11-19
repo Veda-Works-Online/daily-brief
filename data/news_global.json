@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-19T15:46:24.175052+00:00",
+  "updated": "2026-11-19T16:41:17.395059+00:00",
   "items": [
+    {
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "url": "https://bbc.co.uk/news/articles/c804wzp20ddvo",
+      "source": "BBC World",
+      "published": "2026-11-19T16:19:23+00:00",
+      "retrieved_at": "2026-11-19T16:41:11.707448+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4cb1809ca11fc7e9a6e8100c"
+    },
     {
       "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
       "url": "https://bbc.co.uk/news/articles/c623j4ln97x7o",
@@ -192,22 +208,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d0f3ef235432e6aeb940c1c1"
-    },
-    {
-      "title": "Myanmar committed genocide against Rohingya, top UN court rules",
-      "url": "https://dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898",
-      "source": "DW",
-      "published": "2026-11-19T11:39:00+00:00",
-      "retrieved_at": "2026-11-19T12:59:55.854473+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The International Court of Justice has upheld large parts of a genocide case against Myanmar linked to the 2017 conflict with its Rohingya minority. It called for it to pay reparations and let refugees return safely.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5de3fbaee137e32f1a1bf693"
     },
     {
       "title": "ICJ: Myanmar committed genocide against Rohingya",
