@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-19T01:03:35.145834+00:00",
+  "updated": "2026-11-19T01:08:39.948319+00:00",
   "items": [
+    {
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "url": "https://bbc.co.uk/news/articles/cm879dqn3e1jo",
+      "source": "BBC World",
+      "published": "2026-11-19T01:05:03+00:00",
+      "retrieved_at": "2026-11-19T01:08:34.395641+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The head of Crimea said traffic was suspended after another attack on the link between mainland Russia and the occupied territory.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "15d03126bba1dfafe489f003"
+    },
     {
       "title": "Almost 1 in 4 children live in conflict zones — report",
       "url": "https://dw.com/en/almost-1-in-4-children-live-in-conflict-zones-report/a-79979203",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d1a61eb2019e99ee3d9736b9"
-    },
-    {
-      "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
-      "url": "https://aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold",
-      "source": "Al Jazeera",
-      "published": "2026-11-15T01:54:55+00:00",
-      "retrieved_at": "2026-11-15T02:07:13.873385+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c148686b35137f244da4da97"
     }
   ],
   "unverified_history": [
