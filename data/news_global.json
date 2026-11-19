@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-19T07:33:49.145392+00:00",
+  "updated": "2026-11-19T08:19:03.844754+00:00",
   "items": [
+    {
+      "title": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
+      "url": "https://aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T07:51:03+00:00",
+      "retrieved_at": "2026-11-19T08:19:00.523226+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israeli soldiers describe the psychological toll of the genocide in Gaza, yet many express no remorse.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9c4cbd4b1af465e1ad14c18a"
+    },
     {
       "title": "Crimean Bridge attacked again, Russia says",
       "url": "https://bbc.co.uk/news/articles/cm879dqn3e1jo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "272fef5c5f28f77353c9428b"
-    },
-    {
-      "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
-      "url": "https://aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy",
-      "source": "Al Jazeera",
-      "published": "2026-11-15T13:37:08+00:00",
-      "retrieved_at": "2026-11-15T13:55:06.117006+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8e03a644df06e8a90a7cea55"
     }
   ],
   "unverified_history": [
