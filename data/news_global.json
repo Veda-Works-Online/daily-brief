@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-19T21:26:44.349745+00:00",
+  "updated": "2026-11-19T21:46:47.438200+00:00",
   "items": [
+    {
+      "title": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
+      "url": "https://aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T21:11:45+00:00",
+      "retrieved_at": "2026-11-19T21:46:43.406242+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The appeals court's ruling prevents a lower-court decision from taking effect, which would block Trump from lifting TPS.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "237ab7a5ecd5c4bdcc735d1b"
+    },
     {
       "title": "Three arrested during Anthropic IPO protest outside Nasdaq",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq",
@@ -86,9 +102,9 @@
       "url": "https://aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran",
       "source": "Al Jazeera",
       "published": "2026-11-19T20:30:54+00:00",
-      "retrieved_at": "2026-11-19T20:46:51.214080+00:00",
+      "retrieved_at": "2026-11-19T21:46:43.406328+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The resolution was defeated 51-48. Three Republicans broke rank, voting against the measure.",
+      "summary": "The resolution was defeated 51-48. Three Republicans broke rank, voting for the measure.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3329ad31e8410e68cfe7bb39"
-    },
-    {
-      "title": "‘My arms are empty’: Tragedy strikes Gaza family after baby dies from cold",
-      "url": "https://aljazeera.com/features/2026/11/16/my-arms-are-empty-gaza-mothers-brace-for-another-winter-of-cold-and-fear",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T14:20:43+00:00",
-      "retrieved_at": "2026-11-16T14:49:02.657382+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "A nine-month-old baby has died from hypothermia inside his family’s displacement tent in Gaza, as winter returns.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "399d05d791e3157466b6326b"
     }
   ],
   "unverified_history": [
