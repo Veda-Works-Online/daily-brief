@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-19T20:36:06.391028+00:00",
+  "updated": "2026-11-19T20:41:10.434216+00:00",
   "items": [
+    {
+      "title": "Man charged with spying on Silicon Valley tech and defense company for Russia",
+      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia",
+      "source": "Ars Technica",
+      "published": "2026-11-19T20:29:46+00:00",
+      "retrieved_at": "2026-11-19T20:41:06.518402+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5ca4adf6ae322a28ab931abd"
+    },
     {
       "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
       "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b739c76771bb8a23a0ed6f01"
-    },
-    {
-      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai",
-      "source": "Ars Technica AI",
-      "published": "2026-11-11T18:16:40+00:00",
-      "retrieved_at": "2026-11-11T18:18:52.501483+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0561fb15e3bbe51840e35cdb"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-19T20:36:01.070419+00:00",
+    "checked_at": "2026-11-19T20:41:05.003006+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
