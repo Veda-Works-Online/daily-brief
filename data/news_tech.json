@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-19T20:16:10.545307+00:00",
+  "updated": "2026-11-19T20:21:11.748370+00:00",
   "items": [
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "source": "TechCrunch AI",
+      "published": "2026-11-19T20:18:49+00:00",
+      "retrieved_at": "2026-11-19T20:21:07.153131+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "67d544d25d8b9e0e9ebbf179"
+    },
     {
       "title": "Anthropic’s IPO could deliver $156 billion to charity",
       "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
       "source_type": "PRIMARY",
       "story_fingerprint": "b1baccdf9ea9b82d7dde144f"
-    },
-    {
-      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning",
-      "source": "Ars Technica AI",
-      "published": "2026-11-11T17:37:32+00:00",
-      "retrieved_at": "2026-11-11T19:55:05.829755+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0af95343f9683cd65bd232ae"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-19T20:16:05.209334+00:00",
+    "checked_at": "2026-11-19T20:21:06.424707+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
