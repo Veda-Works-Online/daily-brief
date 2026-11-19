@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T15:30:22.169803+00:00",
+  "updated": "2026-11-19T15:35:23.693727+00:00",
   "items": [
     {
       "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1e622ef0d8eec3fd8a7b439a"
+    },
+    {
+      "title": "Putin pitches Arctic route, calls for investment: Will it work?",
+      "url": "https://aljazeera.com/news/2026/11/19/putin-pitches-arctic-route-calls-for-investment-will-it-work",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T15:16:43+00:00",
+      "retrieved_at": "2026-11-19T15:35:17.106381+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Analysts say some Asian investors may show interest, but the route is unlikely to be a viable global shipping lane.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a85b9fcf8627f58c30c1380c"
     },
     {
       "title": "A geography of hearts: Turkiye and Lebanon, building the Levant together",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0f99e3ff0b4dfc9a2d308c3d"
-    },
-    {
-      "title": "Russia's mega-rich are already imagining a future after Putin",
-      "url": "https://bbc.co.uk/news/articles/c60733mxm0x0o",
-      "source": "BBC World",
-      "published": "2026-11-16T00:13:14+00:00",
-      "retrieved_at": "2026-11-17T00:46:47.147074+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "639de0c00de5aedcd510825e"
     }
   ],
   "unverified_history": [
