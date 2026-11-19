@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T18:01:20.349279+00:00",
+  "updated": "2026-11-19T18:16:14.126929+00:00",
   "items": [
     {
       "title": "Xi-Trump-Putin summit: What did it achieve?",
@@ -16,6 +16,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "494f932cf91b57c461ac9ead"
+    },
+    {
+      "title": "China’s Xi urges US and Russia to join forces to safeguard world peace",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T17:50:21+00:00",
+      "retrieved_at": "2026-11-19T18:16:08.686742+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Chinese President Xi urged US President Trump and Russian President Putin to work with China to safeguard world peace.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8883a09aec1550e92d632fdd"
     },
     {
       "title": "Trump and Putin ‘hijacked’ China summit",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4ab2ccb4cb0f5f5bac2c4a16"
-    },
-    {
-      "title": "Economic Diplomacy Abroad and Restrictions at Home: Myanmar’s International Trade Dilemma",
-      "url": "https://thediplomat.com/2026/11/economic-diplomacy-abroad-and-restrictions-at-home-myanmars-international-trade-dilemma",
-      "source": "The Diplomat",
-      "published": "2026-11-16T04:34:00+00:00",
-      "retrieved_at": "2026-11-16T13:27:56.633398+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Ongoing conflicts and restrictive domestic economic policies continue to undermine Naypyidaw's pursuit of foreign investment and trade.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b85837d5c5653af40236659e"
     }
   ],
   "unverified_history": [
