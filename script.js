@@ -194,8 +194,15 @@ function quoteStatus(row) {
   if (!ts) return 'DATA UNAVAILABLE' + (row.error?.reason ? ' · ' + row.error.reason.replaceAll('_', ' ') : '');
   const stale = staleQuote(row) || ['marketCap', 'indexValue', 'changePercent'].some(field =>
     row[field] !== null && row[field] !== undefined && staleQuote(row, field));
+  const check = row.instrument_type === 'FUTURE' ? row.futures_source_check : null;
+  const checkAge = Date.now() - Date.parse(check?.checked_at);
+  const recentCheck = Number.isFinite(checkAge) && checkAge >= -120000 && checkAge <= 600000;
+  const sourceIssue = recentCheck ? (check.status === 'CONFLICT' ? ' · Provider snapshots conflict' :
+    check.status === 'OLDER_RESPONSE' ? ' · Older provider response; saved quote retained' :
+    check.status === 'UNAVAILABLE' ? ' · Source check failed' :
+    stale ? ' · Provider quote delayed' : '') + ' · Source checked ' + quoteTime(check.checked_at, row.display_timezone) : '';
   return (stale ? 'STALE · ' : '') + (row.quote_quality === 'INDICATIVE' ? 'INDICATIVE' : row.market_status || 'UNKNOWN') + ' · Quote ' +
-    quoteTime(ts, row.display_timezone) + ' · ' + (row.source || 'Source unavailable') + (row.quote_basis ? ' · ' + row.quote_basis : '') + (row.reference_fallback ? ' · ' + row.reference_fallback : '');
+    quoteTime(ts, row.display_timezone) + ' · ' + (row.source || 'Source unavailable') + (row.quote_basis ? ' · ' + row.quote_basis : '') + (row.reference_fallback ? ' · ' + row.reference_fallback : '') + sourceIssue;
 }
 function companyStatus(row) {
   const states = {
