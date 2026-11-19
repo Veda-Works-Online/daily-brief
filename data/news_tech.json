@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-19T17:06:14.201828+00:00",
+  "updated": "2026-11-19T17:11:08.313642+00:00",
   "items": [
     {
-      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-      "url": "https://wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents",
-      "source": "Wired",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+      "source": "Google AI",
       "published": "2026-11-19T17:00:00+00:00",
-      "retrieved_at": "2026-11-19T17:06:09.884555+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allowed the Chrome team to properly train the AI browsing agents—without the risk of them going rouge.",
+      "retrieved_at": "2026-11-19T17:11:02.845112+00:00",
+      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "60691a7d7537fb6e15eba6e3"
+      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "e34d29aca05742c61f8e3f68"
     },
     {
       "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
@@ -34,6 +34,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a52869c3fd351b8824a4f826"
+    },
+    {
+      "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+      "url": "https://wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents",
+      "source": "Wired",
+      "published": "2026-11-19T17:00:00+00:00",
+      "retrieved_at": "2026-11-19T17:06:09.884555+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The company’s alternate-universe internet serves as a massive sandbox that allowed the Chrome team to properly train the AI browsing agents—without the risk of them going rouge.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "60691a7d7537fb6e15eba6e3"
     },
     {
       "title": "Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9a39b63d1034df7da115c166"
-    },
-    {
-      "title": "Siri co-founder backs Helix for its voice ID tech",
-      "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech",
-      "source": "TechCrunch",
-      "published": "2026-11-11T15:02:47+00:00",
-      "retrieved_at": "2026-11-11T18:38:50.821540+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3140b0ac852dbfa63546ec58"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-19T17:06:08.385467+00:00",
+    "checked_at": "2026-11-19T17:11:02.073213+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
