@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-19T17:36:09.792870+00:00",
+  "updated": "2026-11-19T17:41:11.151384+00:00",
   "items": [
+    {
+      "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
+      "source": "TechCrunch AI",
+      "published": "2026-11-19T17:38:40+00:00",
+      "retrieved_at": "2026-11-19T17:41:06.422238+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "078d7f37789f368b9967d69d"
+    },
     {
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
@@ -153,6 +170,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "eded08613873a52f36bd4478"
+    },
+    {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "source": "OpenAI",
+      "published": "2026-11-19T08:00:00+00:00",
+      "retrieved_at": "2026-11-19T17:41:06.920775+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "1ee26324e5d4d75fbd256bf4"
     },
     {
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
@@ -801,23 +835,6 @@
       "story_fingerprint": "440df2fa34cdf0742d3cb68a"
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "source": "OpenAI",
-      "published": "2026-11-18T08:00:00+00:00",
-      "retrieved_at": "2026-11-18T23:27:14.317169+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "1d7ad71c53b8eafb8d722814"
-    },
-    {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "source": "OpenAI",
@@ -833,6 +850,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "1a8208d65f82614e2b9934b4"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI",
+      "published": "2026-11-18T08:00:00+00:00",
+      "retrieved_at": "2026-11-18T23:27:14.317169+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "1d7ad71c53b8eafb8d722814"
     },
     {
       "title": "Inside the Codex sandbox",
@@ -1804,23 +1838,6 @@
       "story_fingerprint": "816217c29e22182613da1e44"
     },
     {
-      "title": "Astra for Law leads in legal intelligence",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "source": "OpenAI",
-      "published": "2026-11-17T00:00:00+00:00",
-      "retrieved_at": "2026-11-17T18:12:43.604851+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "d2e36fdc59b1cc094e128abb"
-    },
-    {
       "title": "Introducing OpenAI for Chile",
       "url": "https://openai.com/index/introducing-openai-for-chile",
       "source": "OpenAI",
@@ -1836,6 +1853,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "027c6b77f0b15e3fdaf37c71"
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "source": "OpenAI",
+      "published": "2026-11-17T00:00:00+00:00",
+      "retrieved_at": "2026-11-17T18:12:43.604851+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "d2e36fdc59b1cc094e128abb"
     },
     {
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "066096a3220c1dafb174a9d6"
-    },
-    {
-      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-      "source": "Google AI",
-      "published": "2026-11-11T16:00:00+00:00",
-      "retrieved_at": "2026-11-11T16:03:53.263850+00:00",
-      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-      "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "3443b3cc77a5b4836941d9e8"
-    },
-    {
-      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
-      "url": "https://wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway",
-      "source": "Wired",
-      "published": "2026-11-11T15:30:00+00:00",
-      "retrieved_at": "2026-11-11T15:38:53.912251+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "China’s use of sexpionage is a well-established intelligence tactic with recent, high-profile examples. So how did the world’s most powerful AI executive fall for it?",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9a39b63d1034df7da115c166"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-19T17:36:00.710348+00:00",
+    "checked_at": "2026-11-19T17:41:05.731772+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
