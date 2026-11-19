@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-19T21:46:47.438200+00:00",
+  "updated": "2026-11-19T22:21:45.846545+00:00",
   "items": [
+    {
+      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months",
+      "url": "https://aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T21:58:27+00:00",
+      "retrieved_at": "2026-11-19T22:21:42.400069+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US House committee releases chip export data amid scrutiny of former Nvidia CEO's alleged links to a Chinese spy.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "70bfb8e5f13d6e31344afa45"
+    },
     {
       "title": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
       "url": "https://aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans",
@@ -130,20 +146,20 @@
       "story_fingerprint": "eb89e8b7e83d08a1a1db35bd"
     },
     {
-      "title": "European leaders unite in Berlin to reaffirm support for Ukraine",
+      "title": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine",
       "url": "https://aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine",
       "source": "Al Jazeera",
       "published": "2026-11-19T19:40:23+00:00",
-      "retrieved_at": "2026-11-19T20:06:10.248419+00:00",
+      "retrieved_at": "2026-11-19T22:21:42.400262+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "German chancellor warns peace talks without Europe's involvement are doomed to fail, urging unity with Ukraine.",
+      "summary": "European leaders meet in Berlin after Trump summit with Putin and Xi. Putin vows to retaliate for Kerch Bridge strikes.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "0b34a3f283f5af8871141f33"
+      "story_fingerprint": "11206bfbaeb15ee7bcdffef8"
     },
     {
       "title": "Photos: Genocide ruling spotlights human toll of 2017 Rohingya crisis",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b7d7f0eda2b2ebbb02804200"
-    },
-    {
-      "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-      "url": "https://bbc.co.uk/news/articles/cqp83nk673reo",
-      "source": "BBC World",
-      "published": "2026-11-16T14:22:36+00:00",
-      "retrieved_at": "2026-11-16T14:33:42.397966+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3329ad31e8410e68cfe7bb39"
     }
   ],
   "unverified_history": [

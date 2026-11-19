@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-19T22:16:39.376939+00:00",
+  "updated": "2026-11-19T22:21:40.599301+00:00",
   "items": [
+    {
+      "title": "Amazon takes its fight against NYC delivery bill to shoppers with in-app pop-up",
+      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up",
+      "source": "Ars Technica",
+      "published": "2026-11-19T22:16:37+00:00",
+      "retrieved_at": "2026-11-19T22:21:38.330527+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Amazon now uses its shopping platform for political purposes.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bf5666fe29fc5615784d5c20"
+    },
     {
       "title": "Meta’s new Muse Charm device may cost $300",
       "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3c58bac6f8145d2558335b64"
-    },
-    {
-      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
-      "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave",
-      "source": "TechCrunch AI",
-      "published": "2026-11-11T20:02:14+00:00",
-      "retrieved_at": "2026-11-11T20:05:03.916063+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3be24bcac03874ca62ef0796"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-19T22:16:33.764789+00:00",
+    "checked_at": "2026-11-19T22:21:37.189472+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
