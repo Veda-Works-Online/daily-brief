@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T16:09:31.321223+00:00",
+  "updated": "2026-11-20T16:24:31.486328+00:00",
   "items": [
     {
       "title": "Jerusalem Daily: Palestinians return home to ruins",
@@ -640,6 +640,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1fae2f5d185dabbc2996e7b1"
+    },
+    {
+      "title": "Putin proposes second humanitarian ceasefire — is it a trap?",
+      "url": "https://dw.com/en/putin-proposes-second-humanitarian-ceasefire-is-it-a-trap/a-79996772",
+      "source": "DW",
+      "published": "2026-11-19T20:53:00+00:00",
+      "retrieved_at": "2026-11-20T16:24:25.691808+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Russian President Putin has suggested evacuating civilians from the embattled Ukrainian city of Kostiantynivka. But experts warn this could serve military, not humanitarian, aims. What should Kyiv do?",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "66be77ca3214642e9dfdc6e3"
     },
     {
       "title": "Putin proposes another humanitarian ceasefire. Can it be trusted?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "44bc12e245853f1007f266b0"
-    },
-    {
-      "title": "Japan sends up jets after alleged Russian incursion of its airspace",
-      "url": "https://bbc.co.uk/news/articles/c60evw20qe47o",
-      "source": "BBC World",
-      "published": "2026-11-17T07:44:17+00:00",
-      "retrieved_at": "2026-11-17T08:56:16.964386+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Taiwan and South Korea also responded to Russian military aircraft detected near their airspaces.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "688b7c453b3d458f2b055179"
     }
   ],
   "unverified_history": [
