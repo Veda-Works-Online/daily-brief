@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-20T14:54:14.170322+00:00",
+  "updated": "2026-11-20T14:59:25.467638+00:00",
   "items": [
+    {
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues",
+      "source": "TechCrunch AI",
+      "published": "2026-11-20T14:55:44+00:00",
+      "retrieved_at": "2026-11-20T14:59:17.733599+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8f9752582d2ff72206fe903e"
+    },
+    {
+      "title": "How FAA can modernize US national airspace system without emergency ground stops",
+      "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops",
+      "source": "Ars Technica",
+      "published": "2026-11-20T14:52:51+00:00",
+      "retrieved_at": "2026-11-20T14:59:18.773113+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "44e0fd0ab57557e33ba2ca8e"
+    },
     {
       "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
       "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "17b6d24a656f8bc90d3bfb69"
-    },
-    {
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T16:12:44+00:00",
-      "retrieved_at": "2026-11-12T16:13:19.947826+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "246e2d592b58684a3d5a20d4"
-    },
-    {
-      "title": "Whoop just launched a social network",
-      "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network",
-      "source": "TechCrunch",
-      "published": "2026-11-12T16:00:00+00:00",
-      "retrieved_at": "2026-11-12T17:38:22.203522+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6187f0b7cf68153c8e0cb868"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T14:54:08.615632+00:00",
+    "checked_at": "2026-11-20T14:59:17.461298+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
