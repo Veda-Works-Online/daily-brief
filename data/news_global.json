@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T17:20:12.333660+00:00",
+  "updated": "2026-11-20T17:25:01.975975+00:00",
   "items": [
     {
       "title": "What Ukraine Hath Wrought: Lessons for War, If We’re Listening",
@@ -16,6 +16,22 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b824ddd4b5c5c31b3789d4a2"
+    },
+    {
+      "title": "Top US Democrat warns Trump admin against destroying records",
+      "url": "https://aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records",
+      "source": "Al Jazeera",
+      "published": "2026-11-20T17:05:42+00:00",
+      "retrieved_at": "2026-11-20T17:24:58.552168+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "In a new letter, Congressman Jamie Raskin says officials in the US government are ignoring federal recordkeeping laws.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3e8cb34ba3dd3e74d68ee62c"
     },
     {
       "title": "Cost of living protests sweep across Europe",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "23425748cb5feef5d6c700cc"
-    },
-    {
-      "title": "Will President Trump meet Kim Jong Un?",
-      "url": "https://bbc.co.uk/news/videos/c6grew79p7qdo",
-      "source": "BBC World",
-      "published": "2026-11-17T10:13:27+00:00",
-      "retrieved_at": "2026-11-17T10:58:05.220544+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "President Trump says he would be keen to meet the North Korea leader in China.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6fddbe64930817dab48931a0"
     }
   ],
   "unverified_history": [
