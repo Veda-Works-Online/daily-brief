@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-20T11:59:00.850019+00:00",
+  "updated": "2026-11-20T12:04:06.450958+00:00",
   "items": [
+    {
+      "title": "Which MacBook to Buy (2026): Here’s Which Laptop Is Right for You",
+      "url": "https://wired.com/story/which-macbook-should-you-buy",
+      "source": "Wired",
+      "published": "2026-11-20T12:00:00+00:00",
+      "retrieved_at": "2026-11-20T12:04:01.143957+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "With the introduction of the OLED MacBook Pro and MacBook Neo, there are now more Apple laptops than ever to choose from.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8ec27d9f4988a75e410ebe83"
+    },
+    {
+      "title": "Muse Is Unleashing a World of Pettiness on Instagram",
+      "url": "https://wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram",
+      "source": "Wired",
+      "published": "2026-11-20T12:00:00+00:00",
+      "retrieved_at": "2026-11-20T12:04:01.143991+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9c7f4bd4fb5359e144e11ad9"
+    },
     {
       "title": "Regular Tech Bros Are Worried About Honeypots",
       "url": "https://wired.com/story/regular-tech-bros-are-worried-about-honeypots",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fa28ac4a0764db8534a1f4ee"
-    },
-    {
-      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T15:02:28+00:00",
-      "retrieved_at": "2026-11-12T15:07:11.846787+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "This is Fireworks' second data breach in as many months.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "abfa8060e25af2144cdb87ba"
-    },
-    {
-      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395",
-      "source": "Ars Technica AI",
-      "published": "2026-11-12T14:50:17+00:00",
-      "retrieved_at": "2026-11-12T15:02:10.916140+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "43b5e242b028995fb5b5e90a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T11:58:53.361936+00:00",
+    "checked_at": "2026-11-20T12:03:59.969175+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
