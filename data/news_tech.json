@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-20T22:10:19.311594+00:00",
+  "updated": "2026-11-20T22:15:22.406854+00:00",
   "items": [
     {
-      "title": "Google's latest search page redesign drops the search button, adds AI sidebar",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
       "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
       "source": "Ars Technica AI",
       "published": "2026-11-20T21:58:29+00:00",
-      "retrieved_at": "2026-11-20T22:05:19.621880+00:00",
+      "retrieved_at": "2026-11-20T22:15:15.317033+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "Google search is making it even easier to access AI tools on the search page.",
       "isAI": true,
@@ -16,7 +16,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "d72cee8ce7a681fcc4babc9c"
+      "story_fingerprint": "c7006ba8b22af28a834a9f0e"
     },
     {
       "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T22:10:15.710888+00:00",
+    "checked_at": "2026-11-20T22:15:14.651327+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
