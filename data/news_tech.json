@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-20T06:58:19.618180+00:00",
+  "updated": "2026-11-20T07:03:12.359597+00:00",
   "items": [
+    {
+      "title": "This 16-Year-Old Founded an AI Missile Startup. He’s Targeting ‘Cost per Kill’",
+      "url": "https://wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare",
+      "source": "Wired",
+      "published": "2026-11-20T07:00:00+00:00",
+      "retrieved_at": "2026-11-20T07:03:07.907928+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cdbc049ac9d686c18e7c1604"
+    },
     {
       "title": "Apple may be developing its own AI agent that runs your Mac",
       "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "3d44bd20f57c4d26a5b37bee"
-    },
-    {
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "source": "OpenAI",
-      "published": "2026-11-12T09:30:00+00:00",
-      "retrieved_at": "2026-11-12T10:27:18.644921+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "09915538fdf04dc42a3be2bf"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T06:58:13.947589+00:00",
+    "checked_at": "2026-11-20T07:03:06.755893+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
