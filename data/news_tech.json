@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-20T21:45:07.869040+00:00",
+  "updated": "2026-11-20T21:50:22.841153+00:00",
   "items": [
+    {
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
+      "source": "Ars Technica AI",
+      "published": "2026-11-20T21:47:10+00:00",
+      "retrieved_at": "2026-11-20T21:50:19.227351+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "18f804ec2e48f38cdfe4088a"
+    },
     {
       "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
       "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "076a611f67b0fcfb3d686cad"
-    },
-    {
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "source": "Hugging Face",
-      "published": "2026-11-12T19:07:35+00:00",
-      "retrieved_at": "2026-11-12T19:08:16.256133+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "1648a6cf6725e2a6639934df"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T21:45:00.364415+00:00",
+    "checked_at": "2026-11-20T21:50:18.621077+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
