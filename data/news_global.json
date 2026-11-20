@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-20T21:35:05.144727+00:00",
+  "updated": "2026-11-20T22:10:25.197041+00:00",
   "items": [
+    {
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "url": "https://bbc.co.uk/news/articles/cmde1lj4yjxno",
+      "source": "BBC World",
+      "published": "2026-11-20T21:57:07+00:00",
+      "retrieved_at": "2026-11-20T22:10:21.272908+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0c944512174a92fe8c536f81"
+    },
     {
       "title": "Trump threatens tax on US tech firms building AI data centres abroad",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b9a0fd865f8c747611292046"
-    },
-    {
-      "title": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
-      "url": "https://bbc.co.uk/news/articles/crq5vl1l6z2po",
-      "source": "BBC World",
-      "published": "2026-11-17T15:19:19+00:00",
-      "retrieved_at": "2026-11-17T15:22:55.613816+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c93da613a41868c91dd1ba0c"
     }
   ],
   "unverified_history": [
