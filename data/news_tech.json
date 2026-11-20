@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T13:34:09.364703+00:00",
+  "updated": "2026-11-20T13:39:18.801517+00:00",
   "items": [
     {
       "title": "Which MacBook to Buy (2026): Here’s Which Laptop Is Right for You",
@@ -170,6 +170,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4381b4a62036d939ed1a32d7"
+    },
+    {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face",
+      "published": "2026-11-20T00:00:00+00:00",
+      "retrieved_at": "2026-11-20T13:39:13.615312+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "373f53f6ea6ca04630fc6e78"
     },
     {
       "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "80e48734a87996e208540c93"
-    },
-    {
-      "title": "Norwest pushes deeper into AI with new $4B fund",
-      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T15:18:14+00:00",
-      "retrieved_at": "2026-11-12T15:23:15.550130+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "This is the investment firm's largest fund to date.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fa28ac4a0764db8534a1f4ee"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T13:34:02.859730+00:00",
+    "checked_at": "2026-11-20T13:39:13.071011+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
