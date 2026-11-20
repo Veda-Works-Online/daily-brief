@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T19:09:58.261895+00:00",
+  "updated": "2026-11-20T19:14:59.602132+00:00",
   "items": [
     {
       "title": "Chips can survive the space environment — can their financing?",
@@ -289,6 +289,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4381b4a62036d939ed1a32d7"
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "source": "OpenAI",
+      "published": "2026-11-20T00:00:00+00:00",
+      "retrieved_at": "2026-11-20T19:14:56.709052+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "67e152403a4d081772e7b121"
     },
     {
       "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
@@ -733,13 +750,13 @@
       "story_fingerprint": "90baab2ebce2ae5227eae087"
     },
     {
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
       "source": "OpenAI",
       "published": "2026-11-19T00:00:00+00:00",
-      "retrieved_at": "2026-11-20T00:21:29.499742+00:00",
+      "retrieved_at": "2026-11-19T23:31:36.186123+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -747,7 +764,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "3ddf2039d217ea0f2d9c9e85"
+      "story_fingerprint": "ad40bc77b2d22fba599962af"
     },
     {
       "title": "See PR scans in action",
@@ -767,6 +784,23 @@
       "story_fingerprint": "349e696538a9bd744e9bc9ea"
     },
     {
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "source": "OpenAI",
+      "published": "2026-11-19T00:00:00+00:00",
+      "retrieved_at": "2026-11-20T00:21:29.499742+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "3ddf2039d217ea0f2d9c9e85"
+    },
+    {
       "title": "Explore the Codex Security Plugin",
       "url": "https://openai.com/business/learn/codex-security-plugin-demo",
       "source": "OpenAI",
@@ -782,23 +816,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "268c6c3a657d9811b9036e66"
-    },
-    {
-      "title": "Get started with Daybreak Blue",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "source": "OpenAI",
-      "published": "2026-11-19T00:00:00+00:00",
-      "retrieved_at": "2026-11-19T23:31:36.186123+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "ad40bc77b2d22fba599962af"
     },
     {
       "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
@@ -1430,23 +1447,6 @@
       "story_fingerprint": "440df2fa34cdf0742d3cb68a"
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "source": "OpenAI",
-      "published": "2026-11-18T08:00:00+00:00",
-      "retrieved_at": "2026-11-18T23:27:14.317169+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "1d7ad71c53b8eafb8d722814"
-    },
-    {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "source": "OpenAI",
@@ -1462,6 +1462,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "1a8208d65f82614e2b9934b4"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI",
+      "published": "2026-11-18T08:00:00+00:00",
+      "retrieved_at": "2026-11-18T23:27:14.317169+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "1d7ad71c53b8eafb8d722814"
     },
     {
       "title": "Inside the Codex sandbox",
@@ -1617,23 +1634,6 @@
       "story_fingerprint": "259bd3365a9e8ab9612de5c3"
     },
     {
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "source": "OpenAI",
-      "published": "2026-11-18T00:00:00+00:00",
-      "retrieved_at": "2026-11-18T17:16:47.858291+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "eec83baa2d9ca37bb36324ae"
-    },
-    {
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI",
@@ -1649,6 +1649,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "36211a007c811bc97c03af3a"
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "source": "OpenAI",
+      "published": "2026-11-18T00:00:00+00:00",
+      "retrieved_at": "2026-11-18T17:16:47.858291+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "eec83baa2d9ca37bb36324ae"
     },
     {
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "74d437d1f2f7cb41a127cf37"
-    },
-    {
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T17:00:52+00:00",
-      "retrieved_at": "2026-11-12T18:33:21.281576+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ae380ea5390ec6b295200378"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T19:09:54.369277+00:00",
+    "checked_at": "2026-11-20T19:14:55.851920+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
