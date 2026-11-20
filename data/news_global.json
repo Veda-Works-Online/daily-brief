@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-19T23:56:40.993260+00:00",
+  "updated": "2026-11-20T00:06:43.865297+00:00",
   "items": [
+    {
+      "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+      "url": "https://aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T23:58:40+00:00",
+      "retrieved_at": "2026-11-20T00:06:40.619372+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "73c04ee334bc2e43ca02d6e2"
+    },
     {
       "title": "Trump posthumously pardons US baseball legend Pete Rose",
       "url": "https://bbc.co.uk/news/articles/cx1l0pm7l9jmo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6c49a93e87cb26311dc52d97"
-    },
-    {
-      "title": "Students protest as air pollution chokes New Delhi",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/16/students-protest-as-air-pollution-chokes-new-delhi",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T15:27:07+00:00",
-      "retrieved_at": "2026-11-16T16:04:00.808300+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Students have taken to the streets to demand accountability from authorities over toxic air pollution in New Delhi.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7c4cf34b3ce6be4b940e286a"
     }
   ],
   "unverified_history": [
