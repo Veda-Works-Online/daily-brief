@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T16:24:31.486328+00:00",
+  "updated": "2026-11-20T16:29:26.221198+00:00",
   "items": [
     {
       "title": "Jerusalem Daily: Palestinians return home to ruins",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0ecfebf8e8c81f17833adb85"
+    },
+    {
+      "title": "What we know about the latest Russian missile strikes on Ukraine",
+      "url": "https://bbc.co.uk/news/videos/c65y19wy3xl8o",
+      "source": "BBC World",
+      "published": "2026-11-20T15:14:01+00:00",
+      "retrieved_at": "2026-11-20T16:29:20.025234+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "What we know about the latest Russian missile strikes on Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "971e81649ab3bea7b454b96a"
     },
     {
       "title": "Hot potato: Can Japan resist Trump pressure to import food staple?",
@@ -384,6 +400,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f31ee84e9939083c58bb4b1c"
+    },
+    {
+      "title": "More climate money for Africa? Europe says use what's already pledged",
+      "url": "https://bbc.co.uk/news/articles/c6074k5jjrzko",
+      "source": "BBC World",
+      "published": "2026-11-20T05:03:43+00:00",
+      "retrieved_at": "2026-11-20T16:29:20.025307+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "69cca30785914a24c3dc53c6"
     },
     {
       "title": "Gaza Civil Defence struggles to rescue lives as vehicles break down",
@@ -992,6 +1024,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8883a09aec1550e92d632fdd"
+    },
+    {
+      "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
+      "url": "https://bbc.co.uk/news/videos/c63rgnq05pdwo",
+      "source": "BBC World",
+      "published": "2026-11-19T17:23:29+00:00",
+      "retrieved_at": "2026-11-20T16:29:20.025258+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7cecce7a4de05b7f081f989d"
     },
     {
       "title": "Trump and Putin ‘hijacked’ China summit",
@@ -3952,54 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c4b5447228b4e7660d42134a"
-    },
-    {
-      "title": "The Military Strategic Drivers Behind China’s Nuclear Expansion",
-      "url": "https://warontherocks.com/the-military-strategic-drivers-behind-chinas-nuclear-expansion",
-      "source": "War on the Rocks",
-      "published": "2026-11-17T08:30:21+00:00",
-      "retrieved_at": "2026-11-17T08:31:40.534629+00:00",
-      "feed_url": "https://warontherocks.com/feed/",
-      "summary": "In June 1993, a group of Second Artillery Corps senior leaders gathered at the Jiuquan Satellite Launch Center. The organizers brought Li Xuge, recently retired commander of the Second Artillery, as a special guest for the event. Li had watched the Second Artillery develop from its infancy to this day, when China finally tested a ballistic missile capable of striking anywhere within the United…",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://warontherocks.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "14a5cdcf21672dd915f258a4"
-    },
-    {
-      "title": "Vance calls out ‘neoconservatives’ over Iran war",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T08:25:25+00:00",
-      "retrieved_at": "2026-11-17T08:51:19.596086+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US Vice President JD Vance told Fox News that ‘neoconservatives’ want the Iran war to become a forever war.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d33ae05bf08e992e50703c1a"
-    },
-    {
-      "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-      "url": "https://aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T08:12:06+00:00",
-      "retrieved_at": "2026-11-17T08:26:34.320548+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Moscow-installed governor says traffic suspended after second attack on bridge in two days.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "44bc12e245853f1007f266b0"
     }
   ],
   "unverified_history": [
