@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-20T13:29:15.968584+00:00",
+  "updated": "2026-11-20T13:34:18.395712+00:00",
   "items": [
+    {
+      "title": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
+      "url": "https://aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group",
+      "source": "Al Jazeera",
+      "published": "2026-11-20T13:17:00+00:00",
+      "retrieved_at": "2026-11-20T13:34:12.219359+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Iraq's Federal Police are due to assume control of town's newly established control headquarters.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2dde8f4caf09db72f28f14ac"
+    },
     {
       "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
       "url": "https://bbc.co.uk/news/articles/cqx2x9dklxnro",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d7491e24e859a2e352b1b93c"
-    },
-    {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-      "url": "https://bbc.co.uk/news/articles/cry49plv8v3go",
-      "source": "BBC World",
-      "published": "2026-11-17T02:37:53+00:00",
-      "retrieved_at": "2026-11-17T07:25:34.898583+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ea33ffbfded25c6406653e41"
     }
   ],
   "unverified_history": [
