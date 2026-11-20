@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-20T19:50:05.811499+00:00",
+  "updated": "2026-11-20T20:00:17.662234+00:00",
   "items": [
+    {
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "url": "https://bbc.co.uk/news/articles/cmde1lw9y54ko",
+      "source": "BBC World",
+      "published": "2026-11-20T19:51:52+00:00",
+      "retrieved_at": "2026-11-20T20:00:14.223465+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a6f25d174f16bfeb953dfe77"
+    },
     {
       "title": "What are the implications of the ICJ Rohingya genocide ruling?",
       "url": "https://aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "73b15e6af0076ee51fe7df8c"
-    },
-    {
-      "title": "Rebeca Grynspan could be the UN’s first woman boss, if she can sway Trump",
-      "url": "https://aljazeera.com/features/2026/11/17/rebeca-grynspans-quest-for-uns-first-woman-chief-amid-trump-sized-hurdle",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T11:49:39+00:00",
-      "retrieved_at": "2026-11-17T13:13:06.807157+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Swaying the US could test Grynspan but she likes taking risks - and wants UN to take more, she tells Al Jazeera.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4f044b339f394667785ee994"
     }
   ],
   "unverified_history": [
