@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-20T21:00:11.598746+00:00",
+  "updated": "2026-11-20T21:04:53.929433+00:00",
   "items": [
+    {
+      "title": "A leaky AI supply chain is exposing secret user data at an alarming rate",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "source": "Ars Technica AI",
+      "published": "2026-11-20T20:59:08+00:00",
+      "retrieved_at": "2026-11-20T21:04:49.297584+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2291c89358b19d80c42750a9"
+    },
     {
       "title": "Experts warn: nearly everyone in AI is susceptible to a honey trap scheme right now",
       "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "1648a6cf6725e2a6639934df"
-    },
-    {
-      "title": "Jensen Huang’s $470 Billion Affair",
-      "url": "https://wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair",
-      "source": "Wired",
-      "published": "2026-11-12T18:59:58+00:00",
-      "retrieved_at": "2026-11-12T19:03:14.982343+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b0800799daaa4e8e71ccf8ed"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T21:00:04.154332+00:00",
+    "checked_at": "2026-11-20T21:04:48.090215+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
