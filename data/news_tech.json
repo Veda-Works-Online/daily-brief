@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-20T17:39:57.271649+00:00",
+  "updated": "2026-11-20T17:45:00.024835+00:00",
   "items": [
+    {
+      "title": "Chips can survive the space environment. Can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing",
+      "source": "TechCrunch AI",
+      "published": "2026-11-20T17:40:01+00:00",
+      "retrieved_at": "2026-11-20T17:44:56.936716+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "22df92f0a469c0e4e2ac7160"
+    },
     {
       "title": "Don’t Bring Jensen Back",
       "url": "https://wired.com/story/dont-bring-jensen-back",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ae380ea5390ec6b295200378"
-    },
-    {
-      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T17:00:00+00:00",
-      "retrieved_at": "2026-11-12T17:03:21.909513+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "39f9e5f417774bfd4304e5ba"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T17:39:49.829906+00:00",
+    "checked_at": "2026-11-20T17:44:56.406650+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
