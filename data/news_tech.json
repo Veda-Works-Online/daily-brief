@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T19:35:09.386872+00:00",
+  "updated": "2026-11-20T19:40:01.943638+00:00",
   "items": [
     {
       "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
@@ -204,6 +204,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1d6e5ba936bff9889dd6fb6d"
+    },
+    {
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "source": "OpenAI",
+      "published": "2026-11-20T10:00:00+00:00",
+      "retrieved_at": "2026-11-20T19:39:59.131343+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "e8891ba574b6652b85266141"
     },
     {
       "title": "Best Gifts for Gym Bros: Fitness Tech and Workout Gear (2026)",
@@ -767,13 +784,13 @@
       "story_fingerprint": "90baab2ebce2ae5227eae087"
     },
     {
-      "title": "Get started with Daybreak Blue",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
       "source": "OpenAI",
       "published": "2026-11-19T00:00:00+00:00",
-      "retrieved_at": "2026-11-19T23:31:36.186123+00:00",
+      "retrieved_at": "2026-11-19T23:31:36.186102+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -781,24 +798,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "ad40bc77b2d22fba599962af"
-    },
-    {
-      "title": "See PR scans in action",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
-      "source": "OpenAI",
-      "published": "2026-11-19T00:00:00+00:00",
-      "retrieved_at": "2026-11-19T23:31:36.186113+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "349e696538a9bd744e9bc9ea"
+      "story_fingerprint": "268c6c3a657d9811b9036e66"
     },
     {
       "title": "Deploying Daybreak Red",
@@ -818,13 +818,13 @@
       "story_fingerprint": "3ddf2039d217ea0f2d9c9e85"
     },
     {
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "title": "See PR scans in action",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
       "source": "OpenAI",
       "published": "2026-11-19T00:00:00+00:00",
-      "retrieved_at": "2026-11-19T23:31:36.186102+00:00",
+      "retrieved_at": "2026-11-19T23:31:36.186113+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -832,7 +832,24 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "268c6c3a657d9811b9036e66"
+      "story_fingerprint": "349e696538a9bd744e9bc9ea"
+    },
+    {
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "source": "OpenAI",
+      "published": "2026-11-19T00:00:00+00:00",
+      "retrieved_at": "2026-11-19T23:31:36.186123+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "ad40bc77b2d22fba599962af"
     },
     {
       "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
@@ -1651,23 +1668,6 @@
       "story_fingerprint": "259bd3365a9e8ab9612de5c3"
     },
     {
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "source": "OpenAI",
-      "published": "2026-11-18T00:00:00+00:00",
-      "retrieved_at": "2026-11-18T09:19:48.390340+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "36211a007c811bc97c03af3a"
-    },
-    {
       "title": "Advancing chip design with OpenAI models",
       "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "source": "OpenAI",
@@ -1683,6 +1683,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "eec83baa2d9ca37bb36324ae"
+    },
+    {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "source": "OpenAI",
+      "published": "2026-11-18T00:00:00+00:00",
+      "retrieved_at": "2026-11-18T09:19:48.390340+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "36211a007c811bc97c03af3a"
     },
     {
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
       "source_type": "PRIMARY",
       "story_fingerprint": "2028646c0f396d1716d2188c"
-    },
-    {
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T17:36:40+00:00",
-      "retrieved_at": "2026-11-12T18:38:12.094077+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ba8780ca57141dfcfa5fdc92"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T19:35:05.292125+00:00",
+    "checked_at": "2026-11-20T19:39:58.157937+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
