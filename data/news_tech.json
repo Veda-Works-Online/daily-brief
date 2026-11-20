@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-20T10:03:12.095210+00:00",
+  "updated": "2026-11-20T10:08:14.868367+00:00",
   "items": [
+    {
+      "title": "Best Gifts for Gym Bros: Fitness Tech and Workout Gear (2026)",
+      "url": "https://wired.com/gallery/gifts-for-gym-bros",
+      "source": "Wired",
+      "published": "2026-11-20T10:00:00+00:00",
+      "retrieved_at": "2026-11-20T10:08:06.447203+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Because “as many reps as possible” is their love language.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c2ca9b90dc42a9f82f1e2e38"
+    },
     {
       "title": "The U.S. national cyber director is stepping down",
       "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ceb5c87494f70c3eff6d9826"
-    },
-    {
-      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T13:26:25+00:00",
-      "retrieved_at": "2026-11-12T17:53:19.789889+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "94a0274d4323474151ac54fe"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T10:03:05.624184+00:00",
+    "checked_at": "2026-11-20T10:08:05.368958+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-20T09:18:26.466400+00:00",
+  "updated": "2026-11-20T10:08:24.071843+00:00",
   "items": [
+    {
+      "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
+      "url": "https://aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges",
+      "source": "Al Jazeera",
+      "published": "2026-11-20T09:54:00+00:00",
+      "retrieved_at": "2026-11-20T10:08:17.834918+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The attack follows Putin's pledge of 'painful' response to Ukraine's attack on symbolic Crimean bridge.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8c7fd2101c4a7737db37d2f7"
+    },
     {
       "title": "Pakistan minister visits India for first time since 2025 war",
       "url": "https://aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "53fee51de791a86fd5f039a4"
-    },
-    {
-      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-      "url": "https://bbc.co.uk/news/articles/cmy97qperq9eo",
-      "source": "BBC World",
-      "published": "2026-11-16T21:40:07+00:00",
-      "retrieved_at": "2026-11-16T21:55:17.678317+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f04ef15f7f1f2b0932270739"
     }
   ],
   "unverified_history": [
