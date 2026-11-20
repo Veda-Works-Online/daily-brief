@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-20T14:14:21.376135+00:00",
+  "updated": "2026-11-20T14:19:21.747318+00:00",
   "items": [
+    {
+      "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+      "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space",
+      "source": "Ars Technica",
+      "published": "2026-11-20T14:15:21+00:00",
+      "retrieved_at": "2026-11-20T14:19:17.363577+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "adbb42a44083edcb56325fa6"
+    },
     {
       "title": "Six AI-powered gadgets that could make your home office smarter",
       "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6187f0b7cf68153c8e0cb868"
-    },
-    {
-      "title": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues",
-      "url": "https://wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues",
-      "source": "Wired",
-      "published": "2026-11-12T15:58:21+00:00",
-      "retrieved_at": "2026-11-12T16:43:18.632794+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "After its latest device struggled to perform, brain-computer interface startup Synchon halted clinical trials. The company says it will upgrade the implant’s hardware and is at work on a new device.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "52d0236589fc1798d651479c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T14:14:15.740111+00:00",
+    "checked_at": "2026-11-20T14:19:16.199104+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
