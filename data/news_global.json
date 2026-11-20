@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-20T20:50:13.352054+00:00",
+  "updated": "2026-11-20T21:00:16.651312+00:00",
   "items": [
+    {
+      "title": "Gaza’s displaced children celebrate World Children’s Day",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day",
+      "source": "Al Jazeera",
+      "published": "2026-11-20T20:45:09+00:00",
+      "retrieved_at": "2026-11-20T21:00:13.346604+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Displaced children gathered in al-Nuseirat refugee camp to mark World Children’s Day.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d1f0f43b97d220fe32663706"
+    },
+    {
+      "title": "Sudan’s war leaves disabled children missing out on education",
+      "url": "https://aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education",
+      "source": "Al Jazeera",
+      "published": "2026-11-20T20:45:08+00:00",
+      "retrieved_at": "2026-11-20T21:00:13.346618+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "War forces schools, rehabilitation centres to close, forcing children with disabilities to lose access to education.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f0ab5b47c0a879a8f7bd9fed"
+    },
     {
       "title": "Repression against Iranian lawyers increases",
       "url": "https://dw.com/en/repression-against-iranian-lawyers-increases/a-80006742",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fc654c20bd75d45df471b315"
-    },
-    {
-      "title": "Rethinking the Indus Waters Treaty in an Era of Climate Uncertainty",
-      "url": "https://thediplomat.com/2026/11/rethinking-the-indus-waters-treaty-in-an-era-of-climate-uncertainty",
-      "source": "The Diplomat",
-      "published": "2026-11-17T13:37:00+00:00",
-      "retrieved_at": "2026-11-17T21:28:24.369918+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "What would it take to modernize the treaty's legal and institutional architecture while integrating scientific knowledge, environmental sustainability, and the political realities of transboundary water cooperation?",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "87ed3a9e84c99cce4c1344bb"
-    },
-    {
-      "title": "‘Unprecedented’ Ukraine attack on Crimean bridge",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T13:29:27+00:00",
-      "retrieved_at": "2026-11-17T13:43:23.581196+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Ukraine has struck the Kerch Bridge linking Russia to Russian-annexed Crimea for a second day.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "320fae65a8387be1d5c588cc"
     }
   ],
   "unverified_history": [

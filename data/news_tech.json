@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-20T20:55:02.159051+00:00",
+  "updated": "2026-11-20T21:00:11.598746+00:00",
   "items": [
+    {
+      "title": "Experts warn: nearly everyone in AI is susceptible to a honey trap scheme right now",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now",
+      "source": "TechCrunch",
+      "published": "2026-11-20T20:58:29+00:00",
+      "retrieved_at": "2026-11-20T21:00:05.412549+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "18c33d44f48528a0d22aa029"
+    },
     {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
       "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b0800799daaa4e8e71ccf8ed"
-    },
-    {
-      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks",
-      "source": "Ars Technica AI",
-      "published": "2026-11-12T18:57:45+00:00",
-      "retrieved_at": "2026-11-12T19:13:12.667770+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f0795e12ebdd5f8caced1e61"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T20:54:57.517488+00:00",
+    "checked_at": "2026-11-20T21:00:04.154332+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
