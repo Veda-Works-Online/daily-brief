@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-20T11:38:24.000304+00:00",
+  "updated": "2026-11-20T12:15:28.597257+00:00",
   "items": [
+    {
+      "title": "Three Kyiv bridges hit during major Russian missile attack",
+      "url": "https://bbc.co.uk/news/articles/c6x29gn4pdn9o",
+      "source": "BBC World",
+      "published": "2026-11-20T12:09:55+00:00",
+      "retrieved_at": "2026-11-20T12:15:22.443757+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f2d90bf3b9bf75bf3aac9e6e"
+    },
     {
       "title": "EU and UK hold a rare summit in bid to 'rebuild ties'",
       "url": "https://dw.com/en/eu-and-uk-hold-a-rare-summit-in-bid-to-rebuild-ties/a-80001076",
@@ -96,22 +112,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a971151ad867e3a0f3c223b9"
-    },
-    {
-      "title": "Three Kyiv bridges hit during major Russian missile attack",
-      "url": "https://bbc.co.uk/news/articles/c6x29gn4pdn9o",
-      "source": "BBC World",
-      "published": "2026-11-20T08:40:45+00:00",
-      "retrieved_at": "2026-11-20T08:43:10.497449+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f2d90bf3b9bf75bf3aac9e6e"
     },
     {
       "title": "China's Xi praises 'turnaround' in relationship with Australia",
