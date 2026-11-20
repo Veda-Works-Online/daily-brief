@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-20T23:20:23.051582+00:00",
+  "updated": "2026-11-20T23:25:18.935305+00:00",
   "items": [
+    {
+      "title": "US declassifies more UFO footage filmed in the Middle East",
+      "url": "https://bbc.co.uk/news/videos/cqdr1x8mypnko",
+      "source": "BBC World",
+      "published": "2026-11-20T23:15:20+00:00",
+      "retrieved_at": "2026-11-20T23:25:14.940050+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7d150107c1a16fb09056b943"
+    },
     {
       "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
       "url": "https://aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c3a5812cc2d30bedb59feaa1"
-    },
-    {
-      "title": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
-      "url": "https://dw.com/en/fresh-clashes-at-the-eritrean-border-is-ethiopia-sliding-into-a-regional-war/a-79970353",
-      "source": "DW",
-      "published": "2026-11-17T15:43:00+00:00",
-      "retrieved_at": "2026-11-18T12:25:43.867867+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "As Ethiopian troops push Tigrayan forces toward Eritrea, tensions between Ethiopia, Eritrea and Sudan are raising fears of a wider war in the Horn of Africa.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4b5847969e22806587d352df"
     }
   ],
   "unverified_history": [
