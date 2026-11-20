@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-20T22:00:27.287744+00:00",
+  "updated": "2026-11-20T22:05:25.868545+00:00",
   "items": [
+    {
+      "title": "Google's latest search page redesign drops the search button, adds AI sidebar",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
+      "source": "Ars Technica AI",
+      "published": "2026-11-20T21:58:29+00:00",
+      "retrieved_at": "2026-11-20T22:05:19.621880+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Google search is making it even easier to access AI tools on the search page.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d72cee8ce7a681fcc4babc9c"
+    },
     {
       "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
       "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "37f44679c7ea03e56188b607"
-    },
-    {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T19:11:00+00:00",
-      "retrieved_at": "2026-11-12T19:13:11.829233+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "076a611f67b0fcfb3d686cad"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T22:00:15.134671+00:00",
+    "checked_at": "2026-11-20T22:05:19.110387+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
