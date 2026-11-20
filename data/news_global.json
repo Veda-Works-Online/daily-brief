@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-20T07:38:19.209284+00:00",
+  "updated": "2026-11-20T08:43:16.453330+00:00",
   "items": [
+    {
+      "title": "Three Kyiv bridges hit during major Russian missile attack",
+      "url": "https://bbc.co.uk/news/articles/c6x29gn4pdn9o",
+      "source": "BBC World",
+      "published": "2026-11-20T08:40:45+00:00",
+      "retrieved_at": "2026-11-20T08:43:10.497449+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f2d90bf3b9bf75bf3aac9e6e"
+    },
     {
       "title": "China's Xi praises 'turnaround' in relationship with Australia",
       "url": "https://dw.com/en/china-s-xi-praises-turnaround-in-relationship-with-australia/a-79999229",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3d81a40841e1aa1ccd04304d"
-    },
-    {
-      "title": "What will Europe do next in Ukraine?",
-      "url": "https://aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T20:12:21+00:00",
-      "retrieved_at": "2026-11-16T20:34:39.956328+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5451c26838b18a84658d0cf7"
     }
   ],
   "unverified_history": [
