@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-20T11:18:32.734425+00:00",
+  "updated": "2026-11-20T11:38:24.000304+00:00",
   "items": [
+    {
+      "title": "EU and UK hold a rare summit in bid to 'rebuild ties'",
+      "url": "https://dw.com/en/eu-and-uk-hold-a-rare-summit-in-bid-to-rebuild-ties/a-80001076",
+      "source": "DW",
+      "published": "2026-11-20T11:30:00+00:00",
+      "retrieved_at": "2026-11-20T11:38:18.015696+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "European Union officials and UK Prime Minister Andy Burnham met in Brussels to discuss efforts to rebuild ties following Brexit.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f83676ea9f9bff9fa8589acb"
+    },
     {
       "title": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dac5eb7334d83020ee263182"
-    },
-    {
-      "title": "Trump departs for ASEAN on summit with Xi and Putin",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T23:42:03+00:00",
-      "retrieved_at": "2026-11-16T23:50:18.733163+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Donald Trump is heading to the Philippines where he’s scheduled to speak at a meeting of ASEAN leaders in Manila.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "739588d167f79f1c65abbbb3"
     }
   ],
   "unverified_history": [
