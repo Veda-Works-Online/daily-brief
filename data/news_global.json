@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-20T15:29:38.031639+00:00",
+  "updated": "2026-11-20T15:59:18.827244+00:00",
   "items": [
+    {
+      "title": "Jerusalem Daily: Palestinians return home to ruins",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins",
+      "source": "Al Jazeera",
+      "published": "2026-11-20T15:42:04+00:00",
+      "retrieved_at": "2026-11-20T15:59:12.738195+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Palestinians return to find their homes reduced to rubble after Israel’s ground offensive, as attacks on Gaza continue.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5704deb361aebd57a4cb9551"
+    },
     {
       "title": "Poland condemns Russian ‘provocation’ after airspace violations",
       "url": "https://aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2498db7230da7e9876a19620"
-    },
-    {
-      "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
-      "url": "https://bbc.co.uk/news/videos/ckjwjl6ywgn9o",
-      "source": "BBC World",
-      "published": "2026-11-17T06:23:51+00:00",
-      "retrieved_at": "2026-11-17T12:03:13.355083+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The meeting will take place as Trump attends the Asia-Pacific Economic Co-operation (Apec) summit in the southern city of Shenzhen.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "db4a54c29c5ee7d8fac151a0"
     }
   ],
   "unverified_history": [
