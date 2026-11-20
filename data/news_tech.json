@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T10:28:24.551974+00:00",
+  "updated": "2026-11-20T10:33:20.041181+00:00",
   "items": [
     {
       "title": "Best Gifts for Gym Bros: Fitness Tech and Workout Gear (2026)",
@@ -342,23 +342,6 @@
       "story_fingerprint": "9a28395bd43c50fa92dcc301"
     },
     {
-      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories",
-      "source": "TechCrunch AI",
-      "published": "2026-11-19T17:00:00+00:00",
-      "retrieved_at": "2026-11-19T17:01:06.891508+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a52869c3fd351b8824a4f826"
-    },
-    {
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
       "source": "Google AI",
@@ -374,6 +357,23 @@
       "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
       "source_type": "PRIMARY",
       "story_fingerprint": "e34d29aca05742c61f8e3f68"
+    },
+    {
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories",
+      "source": "TechCrunch AI",
+      "published": "2026-11-19T17:00:00+00:00",
+      "retrieved_at": "2026-11-19T17:01:06.891508+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a52869c3fd351b8824a4f826"
     },
     {
       "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T10:28:08.678312+00:00",
+    "checked_at": "2026-11-20T10:33:12.448329+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
