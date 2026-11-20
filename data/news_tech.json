@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T20:15:05.816457+00:00",
+  "updated": "2026-11-20T20:19:55.655979+00:00",
   "items": [
     {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -340,6 +340,23 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4381b4a62036d939ed1a32d7"
+    },
+    {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face",
+      "published": "2026-11-20T00:00:00+00:00",
+      "retrieved_at": "2026-11-20T20:19:52.825475+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "c9e0ab0a27af9bd685d34f7a"
     },
     {
       "title": "Can AI help scientists identify promising drug candidates?",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "32e93d1ad5df20cad653c578"
-    },
-    {
-      "title": "Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "source": "Google DeepMind",
-      "published": "2026-11-12T18:00:50+00:00",
-      "retrieved_at": "2026-11-12T18:03:07.899680+00:00",
-      "feed_url": "https://deepmind.google/blog/rss.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://deepmind.google/blog/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "a8a719d9938ca04e38e8d515"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T20:15:00.429383+00:00",
+    "checked_at": "2026-11-20T20:19:51.933774+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
