@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T20:19:55.655979+00:00",
+  "updated": "2026-11-20T20:24:55.530478+00:00",
   "items": [
     {
       "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -342,23 +342,6 @@
       "story_fingerprint": "4381b4a62036d939ed1a32d7"
     },
     {
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "url": "https://huggingface.co/blog/inkling2mini",
-      "source": "Hugging Face",
-      "published": "2026-11-20T00:00:00+00:00",
-      "retrieved_at": "2026-11-20T20:19:52.825475+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "c9e0ab0a27af9bd685d34f7a"
-    },
-    {
       "title": "Can AI help scientists identify promising drug candidates?",
       "url": "https://openai.com/index/introducing-medchembench",
       "source": "OpenAI",
@@ -374,6 +357,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "67e152403a4d081772e7b121"
+    },
+    {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face",
+      "published": "2026-11-20T00:00:00+00:00",
+      "retrieved_at": "2026-11-20T20:19:52.825475+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "c9e0ab0a27af9bd685d34f7a"
     },
     {
       "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T20:19:51.933774+00:00",
+    "checked_at": "2026-11-20T20:24:51.739618+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
