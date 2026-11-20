@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-20T16:29:26.221198+00:00",
+  "updated": "2026-11-20T16:54:55.847221+00:00",
   "items": [
+    {
+      "title": "Cost of living protests sweep across Europe",
+      "url": "https://bbc.co.uk/news/videos/c6dx12ppeqn4o",
+      "source": "BBC World",
+      "published": "2026-11-20T16:45:34+00:00",
+      "retrieved_at": "2026-11-20T16:54:52.357187+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d5e88b2bbce365a0d0f82df5"
+    },
+    {
+      "title": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
+      "url": "https://aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu",
+      "source": "Al Jazeera",
+      "published": "2026-11-20T16:40:35+00:00",
+      "retrieved_at": "2026-11-20T16:54:52.444913+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Prime Minister Andy Burnham returns from the UK-EU summit with a potential new deal and a new start.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "37ceb6d5a0c4d1a474418ea3"
+    },
     {
       "title": "Jerusalem Daily: Palestinians return home to ruins",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9fbcd2879748e96279f15079"
-    },
-    {
-      "title": "Kim Jong Un tours North Korea ski resort with daughter Ju Ae",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/17/kim-jong-un-tours-north-korea-ski-resort-with-daughter-ju-ae",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T09:12:38+00:00",
-      "retrieved_at": "2026-11-17T09:31:40.987745+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Kim Jong Un toured a ski resort under development in a tourist district in Samjiyon with his daughter Ju Ae.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "54f5af27b31f8db6b0ce536e"
-    },
-    {
-      "title": "Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine",
-      "url": "https://warontherocks.com/cogs-of-war/spending-isnt-deterrence-fixing-germanys-procurement-machine",
-      "source": "War on the Rocks",
-      "published": "2026-11-17T09:00:48+00:00",
-      "retrieved_at": "2026-11-17T09:06:32.423144+00:00",
-      "feed_url": "https://warontherocks.com/feed/",
-      "summary": "In 2026, Germany is spending a record €125 billion on defense, second only to the United States among NATO allies, and its core defense budget is set to reach €170 billion by 2029. Its military strategy promises Europe’s strongest conventional army by 2039 with a technologically superior and innovative Bundeswehr, Germany’s armed forces.German startups and “neo-primes” — venture-backed defense…",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://warontherocks.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c4b5447228b4e7660d42134a"
     }
   ],
   "unverified_history": [
