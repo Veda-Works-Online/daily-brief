@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-20T21:25:02.087894+00:00",
+  "updated": "2026-11-20T21:35:05.144727+00:00",
   "items": [
+    {
+      "title": "Trump threatens tax on US tech firms building AI data centres abroad",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126",
+      "source": "Al Jazeera",
+      "published": "2026-11-20T21:10:53+00:00",
+      "retrieved_at": "2026-11-20T21:35:01.612185+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "931e0f504c69f536b47d2d3f"
+    },
     {
       "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
       "url": "https://aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c93da613a41868c91dd1ba0c"
-    },
-    {
-      "title": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T15:13:57+00:00",
-      "retrieved_at": "2026-11-17T15:17:57.000439+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "President Donald Trump responded to a CNN report that Iran was working on plans to attack Washington, DC",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f5fe5111f898822ec824cad4"
     }
   ],
   "unverified_history": [
