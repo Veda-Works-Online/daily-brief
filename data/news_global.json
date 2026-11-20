@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-20T22:10:25.197041+00:00",
+  "updated": "2026-11-20T22:20:36.611524+00:00",
   "items": [
+    {
+      "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
+      "url": "https://aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown",
+      "source": "Al Jazeera",
+      "published": "2026-11-20T22:15:07+00:00",
+      "retrieved_at": "2026-11-20T22:20:32.649803+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7d6d03a91c7874ed9d4689b7"
+    },
     {
       "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
       "url": "https://bbc.co.uk/news/articles/cmde1lj4yjxno",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "73d3f816eeeeff116de956a9"
-    },
-    {
-      "title": "How the attack on Crimean Bridge unfolded",
-      "url": "https://bbc.co.uk/news/articles/crz9dgz28zwdo",
-      "source": "BBC World",
-      "published": "2026-11-17T15:38:10+00:00",
-      "retrieved_at": "2026-11-17T15:57:59.065264+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b9a0fd865f8c747611292046"
     }
   ],
   "unverified_history": [
