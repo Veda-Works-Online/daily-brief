@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-20T15:59:09.646205+00:00",
+  "updated": "2026-11-20T16:04:16.821713+00:00",
   "items": [
+    {
+      "title": "Don’t Bring Jensen Back",
+      "url": "https://wired.com/story/dont-bring-jensen-back",
+      "source": "Wired",
+      "published": "2026-11-20T16:00:00+00:00",
+      "retrieved_at": "2026-11-20T16:04:12.374096+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "A mob of tech bros is clamoring for Nvidia to reinstate Jensen Huang as CEO. It's a bad idea.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0d0ae79fadd78a7b60173cd7"
+    },
     {
       "title": "A transcription firm used by police, prosecutors and tech giants exposed customer data online",
       "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "39f9e5f417774bfd4304e5ba"
-    },
-    {
-      "title": "Jensen Huang agrees to testify before Congress",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T16:36:37+00:00",
-      "retrieved_at": "2026-11-12T16:38:24.228633+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "aa57e1c55b234c4c080fdb29"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T15:59:04.071879+00:00",
+    "checked_at": "2026-11-20T16:04:11.188316+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
