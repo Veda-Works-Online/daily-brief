@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-20T11:03:27.202734+00:00",
+  "updated": "2026-11-20T11:08:26.001357+00:00",
   "items": [
+    {
+      "title": "Regular Tech Bros Are Worried About Honeypots",
+      "url": "https://wired.com/story/regular-tech-bros-are-worried-about-honeypots",
+      "source": "Wired",
+      "published": "2026-11-20T11:00:00+00:00",
+      "retrieved_at": "2026-11-20T11:08:21.609359+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "faaa0eec39ec75d0d5da728d"
+    },
+    {
+      "title": "The Best Gifts for the Techie in Your Life (2026)",
+      "url": "https://wired.com/story/best-tech-gifts-2026",
+      "source": "Wired",
+      "published": "2026-11-20T11:00:00+00:00",
+      "retrieved_at": "2026-11-20T11:08:21.609379+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Don’t buy a loved one something you wouldn’t want for yourself. These are the must-haves that tech enthusiasts have on their wish lists this year.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1d6e5ba936bff9889dd6fb6d"
+    },
     {
       "title": "Best Gifts for Gym Bros: Fitness Tech and Workout Gear (2026)",
       "url": "https://wired.com/gallery/gifts-for-gym-bros",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "43b5e242b028995fb5b5e90a"
-    },
-    {
-      "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
-      "url": "https://wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang",
-      "source": "Wired",
-      "published": "2026-11-12T14:14:33+00:00",
-      "retrieved_at": "2026-11-12T14:22:15.173793+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "facdfe1413700921b9bc14b0"
-    },
-    {
-      "title": "Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile",
-      "url": "https://wired.com/story/exclusive-fairphone-lands-its-first-us-carrier-partner-in-boost-mobile",
-      "source": "Wired",
-      "published": "2026-11-12T13:30:00+00:00",
-      "retrieved_at": "2026-11-12T13:37:05.725660+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The sustainable phone maker is teaming up with its first US carrier to sell wireless plans alongside its fully repairable smartphone.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ceb5c87494f70c3eff6d9826"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T11:03:17.048839+00:00",
+    "checked_at": "2026-11-20T11:08:20.364510+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
