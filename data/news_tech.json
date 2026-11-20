@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-20T21:09:50.524847+00:00",
+  "updated": "2026-11-20T21:14:44.767780+00:00",
   "items": [
     {
-      "title": "A leaky AI supply chain is exposing secret user data at an alarming rate",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
       "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
       "source": "Ars Technica AI",
       "published": "2026-11-20T20:59:08+00:00",
-      "retrieved_at": "2026-11-20T21:04:49.297584+00:00",
+      "retrieved_at": "2026-11-20T21:14:42.227869+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
       "isAI": true,
@@ -16,7 +16,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "2291c89358b19d80c42750a9"
+      "story_fingerprint": "fa42d3799130dbac893abda8"
     },
     {
       "title": "Experts warn: nearly everyone in AI is susceptible to a honey trap scheme right now",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-20T21:09:45.613077+00:00",
+    "checked_at": "2026-11-20T21:14:41.066447+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
