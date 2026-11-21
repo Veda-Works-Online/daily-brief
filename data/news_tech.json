@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-21T21:33:43.829543+00:00",
+  "updated": "2026-11-21T21:38:42.776723+00:00",
   "items": [
+    {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+      "source": "TechCrunch AI",
+      "published": "2026-11-21T21:37:10+00:00",
+      "retrieved_at": "2026-11-21T21:38:37.180490+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c49ebcc17b320f0d14b35368"
+    },
     {
       "title": "A tale of two Nvidias",
       "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1e9589a1f3213fb2c65bf523"
-    },
-    {
-      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
-      "url": "https://wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in",
-      "source": "Wired",
-      "published": "2026-11-12T22:14:41+00:00",
-      "retrieved_at": "2026-11-12T22:23:59.240974+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1b3d64fe8aacb8b3042f5c26"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-21T21:33:35.680810+00:00",
+    "checked_at": "2026-11-21T21:38:36.105588+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
