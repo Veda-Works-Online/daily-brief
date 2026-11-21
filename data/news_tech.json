@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-21T13:02:24.996252+00:00",
+  "updated": "2026-11-21T13:07:26.042516+00:00",
   "items": [
+    {
+      "title": "The Outages Are Just Getting Started",
+      "url": "https://wired.com/story/brace-yourself-for-years-of-outage-chaos",
+      "source": "Wired",
+      "published": "2026-11-21T13:00:00+00:00",
+      "retrieved_at": "2026-11-21T13:07:22.928198+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7d1e2f391e47afec4cc76de6"
+    },
     {
       "title": "Best Power Banks (2026): My Picks After Testing Over 100",
       "url": "https://wired.com/gallery/best-portable-chargers-power-banks",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "eebf6c1a81a58484de816128"
-    },
-    {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "source": "OpenAI",
-      "published": "2026-11-12T20:00:00+00:00",
-      "retrieved_at": "2026-11-12T23:59:02.041915+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "973ec4c7f7b604524004791c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-21T13:02:21.166936+00:00",
+    "checked_at": "2026-11-21T13:07:22.212310+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
