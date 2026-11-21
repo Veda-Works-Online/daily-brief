@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T08:42:16.324725+00:00",
+  "updated": "2026-11-21T08:57:15.122669+00:00",
   "items": [
     {
       "title": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "54ab7693ee844e217d1cdb96"
+    },
+    {
+      "title": "Trafalgar Square Christmas tree felled in Norway",
+      "url": "https://bbc.co.uk/news/articles/cx8dv4327dnpo",
+      "source": "BBC World",
+      "published": "2026-11-21T08:10:03+00:00",
+      "retrieved_at": "2026-11-21T08:57:09.122074+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c9b0fddb98be758cb3337227"
     },
     {
       "title": "Can mediation succeed in a war-torn world? | Episode 1",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2f10a6710bb224095210c65a"
-    },
-    {
-      "title": "Israeli forces invade Syrian village leaving homes damaged",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T17:57:20+00:00",
-      "retrieved_at": "2026-11-17T18:22:56.490281+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Video shows bullet-riddled walls and charred belongings after Israeli raids on homes in Syria’s Daraa.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0cc4fc1fc94a4b6ea56a5240"
     }
   ],
   "unverified_history": [
