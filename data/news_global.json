@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-21T18:03:55.837365+00:00",
+  "updated": "2026-11-21T18:18:49.152890+00:00",
   "items": [
+    {
+      "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T18:05:51+00:00",
+      "retrieved_at": "2026-11-21T18:18:45.041263+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4dc941537cddd63fdbfd5f26"
+    },
     {
       "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5cb353c74b655f403251c17c"
-    },
-    {
-      "title": "Russian military plane crash in Siberia kills 19",
-      "url": "https://aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T22:21:16+00:00",
-      "retrieved_at": "2026-11-17T22:28:45.811174+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "692ba0403716a688a60ef281"
     }
   ],
   "unverified_history": [
