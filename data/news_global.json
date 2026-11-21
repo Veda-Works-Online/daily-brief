@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T05:16:36.170849+00:00",
+  "updated": "2026-11-21T05:26:45.379528+00:00",
   "items": [
     {
       "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "684614911de74d1c0b958fb3"
+    },
+    {
+      "title": "Al Jazeera explains: The US-China AI race is entering a new phase",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T05:08:40+00:00",
+      "retrieved_at": "2026-11-21T05:26:39.113514+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Al Jazeera’s Matthew Torres unpacks the latest from the world of artificial intelligence.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cb0ffc6c04db30fe00da6355"
     },
     {
       "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "800ea67d25450d0c578e9a92"
-    },
-    {
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "url": "https://bbc.co.uk/news/articles/cw772jk4rvmxo",
-      "source": "BBC World",
-      "published": "2026-11-17T16:56:38+00:00",
-      "retrieved_at": "2026-11-17T17:07:59.541939+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cd6104ec413243a662f4e3c4"
     }
   ],
   "unverified_history": [
