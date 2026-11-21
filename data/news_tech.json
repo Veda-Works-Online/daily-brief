@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-21T18:43:43.938345+00:00",
+  "updated": "2026-11-21T18:48:38.642832+00:00",
   "items": [
+    {
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good",
+      "source": "TechCrunch",
+      "published": "2026-11-21T18:44:53+00:00",
+      "retrieved_at": "2026-11-21T18:48:35.288340+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "41df3f4a99924dd9cbbec804"
+    },
     {
       "title": "Here are the top AI agents that can live in your text messages",
       "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c13dff6dac2d0fc7dfbc76a1"
-    },
-    {
-      "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
-      "url": "https://wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech",
-      "source": "Wired",
-      "published": "2026-11-12T20:35:11+00:00",
-      "retrieved_at": "2026-11-12T20:44:15.471016+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0ee4aba873b9a1d28013743f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-21T18:43:38.425198+00:00",
+    "checked_at": "2026-11-21T18:48:34.211015+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

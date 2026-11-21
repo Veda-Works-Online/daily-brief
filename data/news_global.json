@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-21T18:43:50.281297+00:00",
+  "updated": "2026-11-21T18:48:44.761835+00:00",
   "items": [
+    {
+      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T18:42:38+00:00",
+      "retrieved_at": "2026-11-21T18:48:40.760763+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "84029fa349b3d7e1054b72f2"
+    },
     {
       "title": "Russia-bound ship attacked in Gulf of Finland",
       "url": "https://bbc.co.uk/news/articles/cj752ddve27ko",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c5f4f755a4d91702ad49900c"
-    },
-    {
-      "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
-      "url": "https://aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T23:09:00+00:00",
-      "retrieved_at": "2026-11-17T23:24:18.763113+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "El Salvador's security minister has confirmed the troops will leave once kidnapped technicians are rescued.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0ab67a3b2575b25147c9f271"
     }
   ],
   "unverified_history": [
