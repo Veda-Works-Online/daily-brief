@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-21T03:56:46.726470+00:00",
+  "updated": "2026-11-21T04:01:46.857114+00:00",
   "items": [
+    {
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature",
+      "source": "TechCrunch",
+      "published": "2026-11-21T04:00:00+00:00",
+      "retrieved_at": "2026-11-21T04:01:38.468418+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4e40287485adf663ba782413"
+    },
     {
       "title": "Google rolls out new search homepage with AI chat history and no search button",
       "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5456cbb160987e16a020c1f2"
-    },
-    {
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash",
-      "source": "Ars Technica AI",
-      "published": "2026-11-12T19:23:03+00:00",
-      "retrieved_at": "2026-11-12T19:28:13.225992+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "37f44679c7ea03e56188b607"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-21T03:56:40.640348+00:00",
+    "checked_at": "2026-11-21T04:01:37.189452+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
