@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-21T05:56:24.609786+00:00",
+  "updated": "2026-11-21T06:01:20.546598+00:00",
   "items": [
+    {
+      "title": "Mint Mobile Discounts for November 2026",
+      "url": "https://wired.com/story/mint-mobile-promo-code",
+      "source": "Wired",
+      "published": "2026-11-21T06:00:00+00:00",
+      "retrieved_at": "2026-11-21T06:01:14.585792+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b1456c7586a877c40bc360cf"
+    },
     {
       "title": "Startup sues Apple in India over tap-to-share contacts feature",
       "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0a8ef09980cea6c0abfec99f"
-    },
-    {
-      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T19:27:45+00:00",
-      "retrieved_at": "2026-11-12T19:28:12.513768+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5456cbb160987e16a020c1f2"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-21T05:56:16.428101+00:00",
+    "checked_at": "2026-11-21T06:01:13.191486+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
