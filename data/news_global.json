@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-21T14:22:31.736774+00:00",
+  "updated": "2026-11-21T15:02:33.151084+00:00",
   "items": [
+    {
+      "title": "Russia strikes Zelenskyy's hometown, killing 2",
+      "url": "https://dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458",
+      "source": "DW",
+      "published": "2026-11-21T14:44:00+00:00",
+      "retrieved_at": "2026-11-21T15:02:28.800026+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "The attacks follow Russian President Vladimir Putin's vow of a \"painful\" response to Ukraine's attacks this week on the Kerch Bridge, linking Russian-occupied Crimea.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8ac8a13cfb13d0a89de2df93"
+    },
     {
       "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
       "url": "https://aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "66663b776673efc0550c7757"
-    },
-    {
-      "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
-      "url": "https://aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T20:57:56+00:00",
-      "retrieved_at": "2026-11-17T21:23:35.145181+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "02bb5cb140568b13761a5fc3"
     }
   ],
   "unverified_history": [
