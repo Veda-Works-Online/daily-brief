@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-21T12:22:08.932288+00:00",
+  "updated": "2026-11-21T12:37:07.842465+00:00",
   "items": [
+    {
+      "title": "At least four Palestinians killed in Israeli attacks on Gaza",
+      "url": "https://aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T12:29:49+00:00",
+      "retrieved_at": "2026-11-21T12:37:02.020690+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israeli drone attack kills three people in Gaza City, another shot dead by Israeli forces in Jabalia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9d66129c08fc3de8b9d3a7e1"
+    },
     {
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
       "url": "https://bbc.co.uk/news/articles/c6wy0qj7w5zqo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e0d396a196d01e4b17fc77f6"
-    },
-    {
-      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-      "url": "https://bbc.co.uk/news/articles/crq5vlxxx32no",
-      "source": "BBC World",
-      "published": "2026-11-17T20:25:46+00:00",
-      "retrieved_at": "2026-11-17T20:28:39.039531+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "eec1a1a41d41cb21ff12ded0"
     }
   ],
   "unverified_history": [
