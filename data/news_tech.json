@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-21T21:03:36.981520+00:00",
+  "updated": "2026-11-21T21:08:38.390204+00:00",
   "items": [
+    {
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
+      "source": "TechCrunch AI",
+      "published": "2026-11-21T21:07:42+00:00",
+      "retrieved_at": "2026-11-21T21:08:34.409255+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f36d8414b15832f94e14271f"
+    },
     {
       "title": "Trump says reported FBI database hack is ‘not good’",
       "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1b3d64fe8aacb8b3042f5c26"
-    },
-    {
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T21:27:10+00:00",
-      "retrieved_at": "2026-11-12T21:29:06.042677+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c13dff6dac2d0fc7dfbc76a1"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-21T21:03:28.790258+00:00",
+    "checked_at": "2026-11-21T21:08:33.918225+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
