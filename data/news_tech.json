@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-21T16:57:18.219399+00:00",
+  "updated": "2026-11-21T17:02:32.499270+00:00",
   "items": [
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "source": "TechCrunch",
+      "published": "2026-11-21T17:00:00+00:00",
+      "retrieved_at": "2026-11-21T17:02:24.844335+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d09820ef9e18411bc0d1000d"
+    },
     {
       "title": "The Outages Are Just Getting Started",
       "url": "https://wired.com/story/brace-yourself-for-years-of-outage-chaos",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0ee4aba873b9a1d28013743f"
-    },
-    {
-      "title": "Jensen Huang was having a third affair, Reuters reports",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T20:26:47+00:00",
-      "retrieved_at": "2026-11-12T20:29:19.141423+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "eebf6c1a81a58484de816128"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-21T16:57:14.206465+00:00",
+    "checked_at": "2026-11-21T17:02:22.491936+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
