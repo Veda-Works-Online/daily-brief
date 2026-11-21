@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-21T15:02:33.151084+00:00",
+  "updated": "2026-11-21T15:07:32.736036+00:00",
   "items": [
+    {
+      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+      "url": "https://aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T15:01:18+00:00",
+      "retrieved_at": "2026-11-21T15:07:28.584926+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8a47c74a4e3f174f49abade2"
+    },
     {
       "title": "Russia strikes Zelenskyy's hometown, killing 2",
       "url": "https://dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "940c25e7f10ef3e611df024e"
-    },
-    {
-      "title": "Russian military plane crashes, killing all 19 on board",
-      "url": "https://bbc.co.uk/news/articles/cw8085rykkmgo",
-      "source": "BBC World",
-      "published": "2026-11-17T21:06:11+00:00",
-      "retrieved_at": "2026-11-17T22:53:38.646984+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "66663b776673efc0550c7757"
     }
   ],
   "unverified_history": [
