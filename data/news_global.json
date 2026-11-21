@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-21T11:32:16.862649+00:00",
+  "updated": "2026-11-21T12:22:08.932288+00:00",
   "items": [
+    {
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "url": "https://bbc.co.uk/news/articles/c6wy0qj7w5zqo",
+      "source": "BBC World",
+      "published": "2026-11-21T12:20:55+00:00",
+      "retrieved_at": "2026-11-21T12:22:02.979081+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8fc0a9d7dcd4eb68a7c21df4"
+    },
     {
       "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
       "url": "https://aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "eec1a1a41d41cb21ff12ded0"
-    },
-    {
-      "title": "Kalshi halts Trump speech bets after CFTC order",
-      "url": "https://aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T20:20:18+00:00",
-      "retrieved_at": "2026-11-17T20:43:38.087815+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Kalshi halts Trump speech bets following CFTC mandate amid concerns of insider trading in US prediction markets.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5d4361c3524e277cdb7d532f"
     }
   ],
   "unverified_history": [
