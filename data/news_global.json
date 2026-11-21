@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-21T06:51:34.820457+00:00",
+  "updated": "2026-11-21T07:26:29.984901+00:00",
   "items": [
+    {
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "url": "https://bbc.co.uk/news/articles/cxnv4zvmdy0jo",
+      "source": "BBC World",
+      "published": "2026-11-21T07:24:45+00:00",
+      "retrieved_at": "2026-11-21T07:26:23.864414+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "684614911de74d1c0b958fb3"
+    },
+    {
+      "title": "Emergency crews in Ukraine hit by a double-tap strike",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T07:12:03+00:00",
+      "retrieved_at": "2026-11-21T07:26:23.919687+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f75debed34f11d21c125f656"
+    },
     {
       "title": "Sudan’s war will end, but will it be too late?",
       "url": "https://aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late",
@@ -32,22 +64,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0760204b113e999b170452c8"
-    },
-    {
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "url": "https://bbc.co.uk/news/articles/cxnv4zvmdy0jo",
-      "source": "BBC World",
-      "published": "2026-11-21T05:15:41+00:00",
-      "retrieved_at": "2026-11-21T06:31:29.697269+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "684614911de74d1c0b958fb3"
     },
     {
       "title": "Al Jazeera explains: The US-China AI race is entering a new phase",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "775ac011e3c08706596a136c"
-    },
-    {
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "url": "https://bbc.co.uk/news/articles/cq7825234lgmo",
-      "source": "BBC World",
-      "published": "2026-11-17T17:19:57+00:00",
-      "retrieved_at": "2026-11-17T17:32:50.066801+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c4184f63a195aa531e22abff"
     }
   ],
   "unverified_history": [
