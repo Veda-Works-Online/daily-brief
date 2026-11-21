@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-21T11:57:01.943688+00:00",
+  "updated": "2026-11-21T12:02:08.583403+00:00",
   "items": [
+    {
+      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+      "url": "https://wired.com/gallery/best-portable-chargers-power-banks",
+      "source": "Wired",
+      "published": "2026-11-21T12:01:00+00:00",
+      "retrieved_at": "2026-11-21T12:02:00.206186+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "10d1eaaa82a3b2fea6f8cdad"
+    },
     {
       "title": "Mint Mobile Discounts for November 2026",
       "url": "https://wired.com/story/mint-mobile-promo-code",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "973ec4c7f7b604524004791c"
-    },
-    {
-      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
-      "url": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover",
-      "source": "Ars Technica",
-      "published": "2026-11-12T19:49:11+00:00",
-      "retrieved_at": "2026-11-12T19:53:14.495376+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0a8ef09980cea6c0abfec99f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-21T11:56:56.335552+00:00",
+    "checked_at": "2026-11-21T12:01:59.033591+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
