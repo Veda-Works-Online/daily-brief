@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-22T17:16:56.088384+00:00",
+  "updated": "2026-11-22T17:22:00.837030+00:00",
   "items": [
+    {
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "url": "https://bbc.co.uk/news/articles/cj752ddve27ko",
+      "source": "BBC World",
+      "published": "2026-11-22T17:18:26+00:00",
+      "retrieved_at": "2026-11-22T17:21:57.619271+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "47dbc0f852c054cc3c330f97"
+    },
+    {
+      "title": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
+      "url": "https://aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T17:12:48+00:00",
+      "retrieved_at": "2026-11-22T17:21:57.577286+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2b7f52411525102cb1ecde86"
+    },
     {
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
       "url": "https://bbc.co.uk/news/articles/cr894gjz0j0yo",
@@ -176,22 +208,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6ce42752c79bf9e2fd2bd710"
-    },
-    {
-      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-      "url": "https://bbc.co.uk/news/articles/cj752ddve27ko",
-      "source": "BBC World",
-      "published": "2026-11-22T11:25:14+00:00",
-      "retrieved_at": "2026-11-22T11:26:08.088915+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "163a59b841a09342d0483f1c"
     },
     {
       "title": "Russian cargo ship still on fire off Finland after drone attack",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6c8b6351f2a40dcc3f12c31a"
-    },
-    {
-      "title": "Axes, cutlass and blunt objects: Nigeria's campaign trail of violence",
-      "url": "https://dw.com/en/axes-cutlass-and-blunt-objects-nigeria-s-campaign-trail-of-violence/a-79978467",
-      "source": "DW",
-      "published": "2026-11-18T10:56:00+00:00",
-      "retrieved_at": "2026-11-18T11:10:45.915518+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "As Nigeria's January 2027 polls inch closer, a spate of violence and political thuggery during campaign rallies and town hall meetings is raising concerns about the safety of citizens participating in the election.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1cb054c61062060d20c062c9"
     }
   ],
   "unverified_history": [
