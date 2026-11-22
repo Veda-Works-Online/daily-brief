@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-22T10:46:14.331938+00:00",
+  "updated": "2026-11-22T11:26:13.815179+00:00",
   "items": [
+    {
+      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
+      "url": "https://bbc.co.uk/news/articles/cj752ddve27ko",
+      "source": "BBC World",
+      "published": "2026-11-22T11:25:14+00:00",
+      "retrieved_at": "2026-11-22T11:26:08.088915+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "163a59b841a09342d0483f1c"
+    },
     {
       "title": "Russian cargo ship still on fire off Finland after drone attack",
       "url": "https://aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack",
@@ -272,22 +288,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "84029fa349b3d7e1054b72f2"
-    },
-    {
-      "title": "Russia-bound ship attacked in Gulf of Finland",
-      "url": "https://bbc.co.uk/news/articles/cj752ddve27ko",
-      "source": "BBC World",
-      "published": "2026-11-21T18:22:09+00:00",
-      "retrieved_at": "2026-11-21T18:43:46.266149+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1952b77f07a3678ca4a90d1c"
     },
     {
       "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
