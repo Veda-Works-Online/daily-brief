@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-22T11:01:09.083597+00:00",
+  "updated": "2026-11-22T11:06:02.323046+00:00",
   "items": [
+    {
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "url": "https://wired.com/story/banks-are-cracking-down-on-ai-agents",
+      "source": "Wired",
+      "published": "2026-11-22T11:00:00+00:00",
+      "retrieved_at": "2026-11-22T11:05:57.797225+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1ebff944954dd9dc2f99698c"
+    },
     {
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
       "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0fa46c5a0c6580b2034b55da"
-    },
-    {
-      "title": "Muse can now place calls to US businesses — if you pay",
-      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T22:22:28+00:00",
-      "retrieved_at": "2026-11-13T00:04:03.283886+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1e9589a1f3213fb2c65bf523"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-22T11:01:00.549423+00:00",
+    "checked_at": "2026-11-22T11:05:56.821347+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
