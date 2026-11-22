@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-22T15:06:56.950757+00:00",
+  "updated": "2026-11-22T15:26:56.664413+00:00",
   "items": [
+    {
+      "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
+      "url": "https://aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T15:03:38+00:00",
+      "retrieved_at": "2026-11-22T15:26:53.560491+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum's airport.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d6d152d1b2e13f209ef162d6"
+    },
     {
       "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
       "url": "https://aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a8a20c7b6a94703dbe161544"
-    },
-    {
-      "title": "Traumas of Sudan war lead to wave of drug addiction",
-      "url": "https://aljazeera.com/features/2026/11/18/traumas-of-sudan-war-is-seeing-a-wave-of-drug-addiction",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T10:35:06+00:00",
-      "retrieved_at": "2026-11-18T11:00:49.287847+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Anguish caused by conflict sees a growing number of young people turn to drugs.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ab6989c83c71aca0822d70d2"
     }
   ],
   "unverified_history": [
