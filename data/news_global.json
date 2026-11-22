@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-22T16:46:52.756551+00:00",
+  "updated": "2026-11-22T17:16:56.088384+00:00",
   "items": [
+    {
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "url": "https://bbc.co.uk/news/articles/cr894gjz0j0yo",
+      "source": "BBC World",
+      "published": "2026-11-22T17:12:01+00:00",
+      "retrieved_at": "2026-11-22T17:16:52.849621+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4f1e771da239b52db69a506a"
+    },
     {
       "title": "Canada’s PM appears next to Trump impersonator at press dinner",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner",
@@ -16,22 +32,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0cc1084e416d093771184023"
-    },
-    {
-      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "url": "https://bbc.co.uk/news/articles/cr894gjz0j0yo",
-      "source": "BBC World",
-      "published": "2026-11-22T16:05:25+00:00",
-      "retrieved_at": "2026-11-22T16:31:54.414516+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4f1e771da239b52db69a506a"
     },
     {
       "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
