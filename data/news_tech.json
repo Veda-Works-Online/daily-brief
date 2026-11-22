@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T17:46:51.692469+00:00",
+  "updated": "2026-11-22T17:51:57.140311+00:00",
   "items": [
     {
       "title": "TechCrunch Mobility: A/B testing robots vs. humans",
@@ -34,6 +34,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1ebff944954dd9dc2f99698c"
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI",
+      "published": "2026-11-22T00:00:00+00:00",
+      "retrieved_at": "2026-11-22T17:51:54.418175+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "675ee88dadafdb10b5e08a96"
     },
     {
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -1073,13 +1090,13 @@
       "story_fingerprint": "90baab2ebce2ae5227eae087"
     },
     {
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "source": "OpenAI",
       "published": "2026-11-19T00:00:00+00:00",
-      "retrieved_at": "2026-11-19T23:31:36.186102+00:00",
+      "retrieved_at": "2026-11-20T00:21:29.499742+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -1087,7 +1104,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "268c6c3a657d9811b9036e66"
+      "story_fingerprint": "3ddf2039d217ea0f2d9c9e85"
     },
     {
       "title": "See PR scans in action",
@@ -1124,13 +1141,13 @@
       "story_fingerprint": "ad40bc77b2d22fba599962af"
     },
     {
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
       "source": "OpenAI",
       "published": "2026-11-19T00:00:00+00:00",
-      "retrieved_at": "2026-11-20T00:21:29.499742+00:00",
+      "retrieved_at": "2026-11-19T23:31:36.186102+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -1138,7 +1155,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "3ddf2039d217ea0f2d9c9e85"
+      "story_fingerprint": "268c6c3a657d9811b9036e66"
     },
     {
       "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
@@ -1770,23 +1787,6 @@
       "story_fingerprint": "440df2fa34cdf0742d3cb68a"
     },
     {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "source": "OpenAI",
-      "published": "2026-11-18T08:00:00+00:00",
-      "retrieved_at": "2026-11-18T23:57:17.546909+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "1a8208d65f82614e2b9934b4"
-    },
-    {
       "title": "Research acceleration: The jagged frontier",
       "url": "https://openai.com/index/research-acceleration-jagged-frontier",
       "source": "OpenAI",
@@ -1802,6 +1802,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "1d7ad71c53b8eafb8d722814"
+    },
+    {
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source": "OpenAI",
+      "published": "2026-11-18T08:00:00+00:00",
+      "retrieved_at": "2026-11-18T23:57:17.546909+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "1a8208d65f82614e2b9934b4"
     },
     {
       "title": "Inside the Codex sandbox",
@@ -2773,23 +2790,6 @@
       "story_fingerprint": "816217c29e22182613da1e44"
     },
     {
-      "title": "Astra for Law leads in legal intelligence",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "source": "OpenAI",
-      "published": "2026-11-17T00:00:00+00:00",
-      "retrieved_at": "2026-11-17T18:12:43.604851+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "d2e36fdc59b1cc094e128abb"
-    },
-    {
       "title": "Introducing OpenAI for Chile",
       "url": "https://openai.com/index/introducing-openai-for-chile",
       "source": "OpenAI",
@@ -2805,6 +2805,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "027c6b77f0b15e3fdaf37c71"
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "source": "OpenAI",
+      "published": "2026-11-17T00:00:00+00:00",
+      "retrieved_at": "2026-11-17T18:12:43.604851+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "d2e36fdc59b1cc094e128abb"
     },
     {
       "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e063bf8ed54d394602c51051"
-    },
-    {
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump",
-      "source": "TechCrunch AI",
-      "published": "2026-11-12T22:42:51+00:00",
-      "retrieved_at": "2026-11-12T22:44:01.759378+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bda2b11e9a524f49baa8f04b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-22T17:46:47.079632+00:00",
+    "checked_at": "2026-11-22T17:51:53.572172+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
