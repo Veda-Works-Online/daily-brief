@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-22T11:26:13.815179+00:00",
+  "updated": "2026-11-22T11:56:18.075400+00:00",
   "items": [
+    {
+      "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
+      "url": "https://aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T11:46:42+00:00",
+      "retrieved_at": "2026-11-22T11:56:12.307211+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6721107e88a4a50eedc4fbbb"
+    },
+    {
+      "title": "Why have UN efforts to regulate ‘killer robots’ stalled?",
+      "url": "https://aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T11:44:50+00:00",
+      "retrieved_at": "2026-11-22T11:56:12.307233+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "CWC countries agree to 'elaborate' on potential accord regulating autonomous weapons in two years, prompting criticism.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6ce42752c79bf9e2fd2bd710"
+    },
     {
       "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
       "url": "https://bbc.co.uk/news/articles/cj752ddve27ko",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f982c9b54527e5cf3b413ff7"
-    },
-    {
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "url": "https://bbc.co.uk/news/articles/cqev3v2ygzlvo",
-      "source": "BBC World",
-      "published": "2026-11-18T07:00:25+00:00",
-      "retrieved_at": "2026-11-18T07:49:48.794304+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a6e06a058de5c51a2cd124e6"
-    },
-    {
-      "title": "Africa’s economic future cannot depend on Washington",
-      "url": "https://aljazeera.com/opinions/2026/11/18/africas-economic-future-cannot-depend-on-washington",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T06:22:59+00:00",
-      "retrieved_at": "2026-11-18T06:54:44.591995+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump's move to exclude South Africa and Rwanda from AGOA shows why Africa must accelerate its own economic integration.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d4248595e0e9c86f7a617c49"
     }
   ],
   "unverified_history": [
