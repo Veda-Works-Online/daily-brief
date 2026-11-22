@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-22T18:06:54.693447+00:00",
+  "updated": "2026-11-22T18:11:47.576903+00:00",
   "items": [
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+      "source": "TechCrunch AI",
+      "published": "2026-11-22T18:08:43+00:00",
+      "retrieved_at": "2026-11-22T18:11:44.620926+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5bbe8ea9bdb6ef4abfa2d609"
+    },
     {
       "title": "TechCrunch Mobility: A/B testing robots vs. humans",
       "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "b26896d82a5727f6fd8f15a9"
-    },
-    {
-      "title": "Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year",
-      "url": "https://wired.com/story/mint-mobile-phone-deal-november-2026",
-      "source": "Wired",
-      "published": "2026-11-12T22:47:26+00:00",
-      "retrieved_at": "2026-11-12T23:04:06.950509+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The limited-time offer applies to the latest phones from Google and Samsung, but you must be a new customer who signs up for 12 months of the unlimited plan.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e063bf8ed54d394602c51051"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-22T18:06:51.184926+00:00",
+    "checked_at": "2026-11-22T18:11:44.185952+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
