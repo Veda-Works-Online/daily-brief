@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-22T07:30:25.602994+00:00",
+  "updated": "2026-11-22T08:25:22.297826+00:00",
   "items": [
+    {
+      "title": "Dashcam captures Russian missile strike on Lviv, Ukraine",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T07:59:29+00:00",
+      "retrieved_at": "2026-11-22T08:25:18.320289+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Dashcam video captured the moment a missile struck a residential neighbourhood in Lviv, western Ukraine.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "87af40fb83636d9b8187c884"
+    },
     {
       "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
       "url": "https://bbc.co.uk/news/articles/cq7827z2841zo",
@@ -16,6 +32,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f0dc211fb172c7b3c168cc5e"
+    },
+    {
+      "title": "COP31 climate talks close to final deal, summit president says",
+      "url": "https://aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T04:51:35+00:00",
+      "retrieved_at": "2026-11-22T08:25:18.320443+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "New draft would acknowledge for the first time that global ⁠warming is on course to pass 1.5C.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6a22a6a544e48008b57fdd4f"
     },
     {
       "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "301974a39262234df537dfab"
-    },
-    {
-      "title": "Australia issues sanctions targeting Israeli settlers",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T04:12:03+00:00",
-      "retrieved_at": "2026-11-18T04:33:57.456584+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Australia has imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "92fe9efd22c75b91da5dcd22"
-    },
-    {
-      "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
-      "url": "https://bbc.co.uk/news/articles/cm15ezz8n394o",
-      "source": "BBC World",
-      "published": "2026-11-18T02:29:52+00:00",
-      "retrieved_at": "2026-11-18T14:26:00.062641+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1607a3ff28fafb3d4c6fdf35"
     }
   ],
   "unverified_history": [
