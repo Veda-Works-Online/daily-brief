@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-22T21:12:23.927082+00:00",
+  "updated": "2026-11-22T21:17:27.273860+00:00",
   "items": [
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+      "source": "TechCrunch AI",
+      "published": "2026-11-22T21:14:07+00:00",
+      "retrieved_at": "2026-11-22T21:17:23.365864+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "28869086d07a907eaceb6afe"
+    },
     {
       "title": "Why data centers are at the center of the Big Tech backlash",
       "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "81761b500d6eba1b0e8b253f"
-    },
-    {
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "source": "OpenAI",
-      "published": "2026-11-13T08:00:00+00:00",
-      "retrieved_at": "2026-11-14T00:18:31.589605+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "b26896d82a5727f6fd8f15a9"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-22T21:12:19.815884+00:00",
+    "checked_at": "2026-11-22T21:17:23.023471+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
