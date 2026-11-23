@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-23T09:39:22.875571+00:00",
+  "updated": "2026-11-23T10:00:17.908263+00:00",
   "items": [
+    {
+      "title": "Death toll rises after deadly Russian attacks on Ukraine",
+      "url": "https://aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine",
+      "source": "Al Jazeera",
+      "published": "2026-11-23T09:34:25+00:00",
+      "retrieved_at": "2026-11-23T10:00:12.739973+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "At least 15 people are killed in multiple attacks, days after Putin promises a ‘painful’ response to Ukrainian attacks.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7f7a1bd302b6164e7835ee23"
+    },
     {
       "title": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "44ed03d7f849debadd48ee9f"
-    },
-    {
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "url": "https://bbc.co.uk/news/videos/c8p3vw4q6nzzo",
-      "source": "BBC World",
-      "published": "2026-11-18T17:00:40+00:00",
-      "retrieved_at": "2026-11-18T17:31:53.293676+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d18f1cb512bcd1517e4735cb"
     }
   ],
   "unverified_history": [
