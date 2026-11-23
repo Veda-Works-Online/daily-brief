@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-23T02:38:42.826702+00:00",
+  "updated": "2026-11-23T03:13:40.927617+00:00",
   "items": [
+    {
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "url": "https://bbc.co.uk/news/articles/cqdr15l32d3go",
+      "source": "BBC World",
+      "published": "2026-11-23T02:37:02+00:00",
+      "retrieved_at": "2026-11-23T03:13:37.075434+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8bf3c8e34f20569be0d2883e"
+    },
     {
       "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
       "url": "https://aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a48cab08cc5b6bb19724a786"
-    },
-    {
-      "title": "Three killed as Israel launches first ground push since ‘ceasefire’ began",
-      "url": "https://aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T14:39:09+00:00",
-      "retrieved_at": "2026-11-18T17:41:50.813122+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Many Palestinians started to flee refugee camps as the Israeli offensive got underway.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6f22f9e12e7cc79b275f06f7"
     }
   ],
   "unverified_history": [
