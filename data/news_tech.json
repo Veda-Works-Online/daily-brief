@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-23T21:34:55.720762+00:00",
+  "updated": "2026-11-23T21:39:53.146629+00:00",
   "items": [
+    {
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn",
+      "source": "Ars Technica AI",
+      "published": "2026-11-23T21:30:44+00:00",
+      "retrieved_at": "2026-11-23T21:39:48.481333+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "acf51eac9ef62ec25dffdefc"
+    },
     {
       "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a U.S. blacklist",
       "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0a5dcb7b6d7add9e0cbe22b0"
-    },
-    {
-      "title": "Beware the New AI-Fueled Ransomware Boom",
-      "url": "https://wired.com/story/beware-the-new-ai-fueled-ransomware-boom",
-      "source": "Wired",
-      "published": "2026-11-14T13:00:00+00:00",
-      "retrieved_at": "2026-11-14T13:06:05.889325+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fe4601328dbaafd6a772297b"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T21:34:47.393821+00:00",
+    "checked_at": "2026-11-23T21:39:47.071548+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
