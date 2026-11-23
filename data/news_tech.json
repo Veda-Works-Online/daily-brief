@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-23T20:38:47.709038+00:00",
+  "updated": "2026-11-23T20:43:41.907648+00:00",
   "items": [
+    {
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq",
+      "source": "TechCrunch AI",
+      "published": "2026-11-23T20:38:53+00:00",
+      "retrieved_at": "2026-11-23T20:43:35.098283+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3c6a3e4d77b9a5f2433ec5a7"
+    },
     {
       "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
       "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b52fad9fcceff3365f580e4c"
-    },
-    {
-      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-      "url": "https://wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong",
-      "source": "Wired",
-      "published": "2026-11-14T11:00:00+00:00",
-      "retrieved_at": "2026-11-14T11:05:10.206913+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "466d770613ba5b1c33eb6aab"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T20:38:39.964730+00:00",
+    "checked_at": "2026-11-23T20:43:34.688491+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
