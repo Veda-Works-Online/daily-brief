@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-23T17:13:47.152973+00:00",
+  "updated": "2026-11-23T17:18:44.592163+00:00",
   "items": [
+    {
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
+      "source": "TechCrunch AI",
+      "published": "2026-11-23T17:14:23+00:00",
+      "retrieved_at": "2026-11-23T17:18:40.657731+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "64238b983fb1ffd0b1d44403"
+    },
+    {
+      "title": "Meta throws out its net-zero goal. Its competitors should be furious",
+      "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious",
+      "source": "TechCrunch",
+      "published": "2026-11-23T17:13:45+00:00",
+      "retrieved_at": "2026-11-23T17:18:41.185806+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Meta walked back its 2030 net zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bc28d7bb08e77a90bc62626b"
+    },
     {
       "title": "A more tailored Google Search that’s uniquely yours",
       "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "23f7e2e6e8a144b24898f550"
-    },
-    {
-      "title": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-      "url": "https://wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage",
-      "source": "Wired",
-      "published": "2026-11-13T19:08:57+00:00",
-      "retrieved_at": "2026-11-13T19:17:41.881227+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c72dc17b178246eeb6719f72"
-    },
-    {
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
-      "source": "TechCrunch AI",
-      "published": "2026-11-13T18:40:30+00:00",
-      "retrieved_at": "2026-11-13T22:03:35.231893+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1eba4fa211f1278ce6d6f068"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T17:13:41.807494+00:00",
+    "checked_at": "2026-11-23T17:18:40.131418+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
