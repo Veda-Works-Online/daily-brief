@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-23T14:20:43.398107+00:00",
+  "updated": "2026-11-23T14:25:43.767133+00:00",
   "items": [
+    {
+      "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo",
+      "source": "TechCrunch AI",
+      "published": "2026-11-23T14:21:59+00:00",
+      "retrieved_at": "2026-11-23T14:25:38.436903+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3452061a37e69a0b510969bb"
+    },
     {
       "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
       "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8305b2f4644d014fc4bf8a10"
-    },
-    {
-      "title": "Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "source": "OpenAI",
-      "published": "2026-11-13T15:00:00+00:00",
-      "retrieved_at": "2026-11-13T15:56:39.053223+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "6aa56c267225b62b5c8855ea"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T14:20:37.701115+00:00",
+    "checked_at": "2026-11-23T14:25:37.999799+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
