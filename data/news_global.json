@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-23T21:29:52.851636+00:00",
+  "updated": "2026-11-23T22:04:51.544981+00:00",
   "items": [
+    {
+      "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+      "url": "https://aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks",
+      "source": "Al Jazeera",
+      "published": "2026-11-23T21:30:40+00:00",
+      "retrieved_at": "2026-11-23T22:04:46.356534+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "509fa0768983d21b216e53f6"
+    },
     {
       "title": "Israel’s southern Syria incursion triggers fear and destruction",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d19007c7ab10658c7c68ecd4"
-    },
-    {
-      "title": "Netanyahu’s last stand and the dangerous politics of survival",
-      "url": "https://aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T06:58:44+00:00",
-      "retrieved_at": "2026-11-19T07:13:53.058350+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Facing political oblivion, Netanyahu is playing a high-stakes game that could push Israel towards violence and chaos.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1b538083c4f49940c2dd5e67"
     }
   ],
   "unverified_history": [
