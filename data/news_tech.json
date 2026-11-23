@@ -1,6 +1,40 @@
 {
-  "updated": "2026-11-23T12:00:26.944998+00:00",
+  "updated": "2026-11-23T12:05:23.884123+00:00",
   "items": [
+    {
+      "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+      "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai",
+      "source": "Ars Technica AI",
+      "published": "2026-11-23T12:00:00+00:00",
+      "retrieved_at": "2026-11-23T12:05:19.137322+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "855a53ce6f5d1427e1719126"
+    },
+    {
+      "title": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+      "url": "https://wired.com/story/livestream-will-anyone-keep-us-safe-from-ai",
+      "source": "Wired",
+      "published": "2026-11-23T12:00:00+00:00",
+      "retrieved_at": "2026-11-23T12:05:19.443150+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7205aabb57ce52ea3f265511"
+    },
     {
       "title": "Inside Google’s Failure to Make Google Maps Work for Palestinians",
       "url": "https://wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c955b247fccb88fdbeee1b7f"
-    },
-    {
-      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil",
-      "source": "TechCrunch AI",
-      "published": "2026-11-13T12:52:19+00:00",
-      "retrieved_at": "2026-11-13T12:56:29.641270+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ed82c85186500c0277b5a506"
-    },
-    {
-      "title": "Jensen Huang didn’t show confidence in his successor, report says",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says",
-      "source": "TechCrunch AI",
-      "published": "2026-11-13T12:28:23+00:00",
-      "retrieved_at": "2026-11-13T12:31:28.638129+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7c77cea04b242dfc62aae0f5"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T12:00:14.951098+00:00",
+    "checked_at": "2026-11-23T12:05:18.049018+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
