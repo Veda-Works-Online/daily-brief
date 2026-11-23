@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T10:35:34.306762+00:00",
+  "updated": "2026-11-23T10:55:39.834080+00:00",
   "items": [
     {
       "title": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
@@ -160,6 +160,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6803f9dd98c3c0e85a010a72"
+    },
+    {
+      "title": "Zelenskyy says Ukraine was behind drone attacks on Russian ships off Libya",
+      "url": "https://aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya",
+      "source": "Al Jazeera",
+      "published": "2026-11-23T07:37:09+00:00",
+      "retrieved_at": "2026-11-23T10:55:34.735884+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "President Zelenskyy says Ukrainian forces sank the Russian warship Merkury in an \"exemplary\" sea drone operation.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ddf6ce253595fbd939fece2b"
     },
     {
       "title": "Five takeaways from the failed climate talks COP31",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0d00ed2784ffb0f6315166c8"
-    },
-    {
-      "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
-      "url": "https://aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T17:45:09+00:00",
-      "retrieved_at": "2026-11-18T17:52:02.308054+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Billions have been pledged for Gaza since a 2025 'ceasefire', but rebuilding hasn’t begun and Israeli attacks continue.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "44ed03d7f849debadd48ee9f"
     }
   ],
   "unverified_history": [
