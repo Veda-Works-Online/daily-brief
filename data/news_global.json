@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-23T04:59:18.745892+00:00",
+  "updated": "2026-11-23T05:19:23.658754+00:00",
   "items": [
+    {
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "url": "https://bbc.co.uk/news/articles/cqwy06zrd26lo",
+      "source": "BBC World",
+      "published": "2026-11-23T05:15:06+00:00",
+      "retrieved_at": "2026-11-23T05:19:18.312289+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The prime minister Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "dc91bfefdd6c4b3d47387002"
+    },
     {
       "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
       "url": "https://bbc.co.uk/news/articles/cqdr15l32d3go",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1398d274efe695a63e01297d"
-    },
-    {
-      "title": "Israeli forces demolish homes in southern Lebanon",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-demolish-homes-in-southern-lebanon",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T14:52:31+00:00",
-      "retrieved_at": "2026-11-18T15:02:06.403558+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israeli excavators demolished homes in Zawtar al-Sharqiye in southern Lebanon.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6d7d74fe18efdda43d2a9f92"
     }
   ],
   "unverified_history": [
