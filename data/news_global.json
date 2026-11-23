@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-23T11:30:35.000423+00:00",
+  "updated": "2026-11-23T12:10:28.321104+00:00",
   "items": [
+    {
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "url": "https://bbc.co.uk/news/articles/c8r4gzzxvxl3o",
+      "source": "BBC World",
+      "published": "2026-11-23T11:57:33+00:00",
+      "retrieved_at": "2026-11-23T12:10:23.026961+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b352efde55a3619663feeaec"
+    },
     {
       "title": "COP31: What next after UN climate talks collapse",
       "url": "https://aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cae796f54fc1a0ed9636a438"
-    },
-    {
-      "title": "Korean Defense Start-up Continues Its Work in Ukraine",
-      "url": "https://thediplomat.com/2026/11/korean-defense-start-up-continues-its-work-in-ukraine",
-      "source": "The Diplomat",
-      "published": "2026-11-18T18:24:00+00:00",
-      "retrieved_at": "2026-11-18T21:27:27.819072+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "“Our cooperation with Ukraine has not ended,” says Newtype’s CEO, Sengwon Joe Cho. “...This incident tells me that Russia has noticed our system and wants it gone from the battlefield.”",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "dc6815f9aa0eb844a8496836"
     }
   ],
   "unverified_history": [
