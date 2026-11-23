@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-23T22:04:51.544981+00:00",
+  "updated": "2026-11-23T22:19:54.072120+00:00",
   "items": [
+    {
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "url": "https://bbc.co.uk/news/articles/cv98xpg5dg5zo",
+      "source": "BBC World",
+      "published": "2026-11-23T22:15:26+00:00",
+      "retrieved_at": "2026-11-23T22:19:48.937949+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0a3e3a21dbd6c9550c1200e7"
+    },
     {
       "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
       "url": "https://aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9c4cbd4b1af465e1ad14c18a"
-    },
-    {
-      "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
-      "url": "https://aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T07:08:57+00:00",
-      "retrieved_at": "2026-11-19T07:33:45.947038+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The US blockade of Iranian ports has a crippling effect on the economy, but Tehran insists its economy can survive.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d19007c7ab10658c7c68ecd4"
     }
   ],
   "unverified_history": [
