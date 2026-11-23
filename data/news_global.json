@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T09:09:15.304281+00:00",
+  "updated": "2026-11-23T09:19:21.586957+00:00",
   "items": [
     {
       "title": "China’s Growing Ambitions in Very Low Earth Orbit",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "16572572df94cf24303e123b"
+    },
+    {
+      "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+      "url": "https://bbc.co.uk/news/articles/cmvg2qnn95vro",
+      "source": "BBC World",
+      "published": "2026-11-23T08:53:01+00:00",
+      "retrieved_at": "2026-11-23T09:19:16.394527+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "780181ab9880ada5bc6ac73e"
     },
     {
       "title": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7e9ea0d110a434ad2f9ddbd0"
-    },
-    {
-      "title": "World Bank official says Lebanon reconstruction making slow progress",
-      "url": "https://aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T16:44:59+00:00",
-      "retrieved_at": "2026-11-18T17:11:51.524881+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Beirut blames Israel's occupation and attacks on southern Lebanon for reconstruction delays.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "62d552b8e7bb1c75ec668758"
     }
   ],
   "unverified_history": [
