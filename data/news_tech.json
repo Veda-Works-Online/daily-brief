@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-23T10:00:09.731218+00:00",
+  "updated": "2026-11-23T10:05:27.654322+00:00",
   "items": [
+    {
+      "title": "Goodbye, World: The End of Programmers",
+      "url": "https://wired.com/story/goodbye-world-the-end-of-programmers",
+      "source": "Wired",
+      "published": "2026-11-23T10:00:00+00:00",
+      "retrieved_at": "2026-11-23T10:05:23.170629+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The last thing you should ever read—and the last thing I may ever write—about the craft of coding.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5d5126bfd11307c791ddd2bb"
+    },
     {
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
       "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "45ed54944fac4567dbd5dac0"
-    },
-    {
-      "title": "Bitdefender Antivirus Plus Review: Undercutting the Competition",
-      "url": "https://wired.com/review/bitdefender-antivirus-plus",
-      "source": "Wired",
-      "published": "2026-11-13T10:00:00+00:00",
-      "retrieved_at": "2026-11-13T10:05:29.310731+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "It’s not promoted very much, but Bitdefender’s stand-alone Antivirus Plus software is both effective and affordable.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "14c46d54d3b56739e0f291fc"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T10:00:00.136817+00:00",
+    "checked_at": "2026-11-23T10:05:21.847161+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
