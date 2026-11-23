@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-23T15:55:16.331265+00:00",
+  "updated": "2026-11-23T15:58:43.487452+00:00",
   "items": [
+    {
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair",
+      "source": "Ars Technica AI",
+      "published": "2026-11-23T15:46:18+00:00",
+      "retrieved_at": "2026-11-23T15:58:38.929968+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "aa1d82e737ac7e5b56631fae"
+    },
     {
       "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
       "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing",
@@ -51,23 +68,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3452061a37e69a0b510969bb"
-    },
-    {
-      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
-      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair",
-      "source": "Ars Technica AI",
-      "published": "2026-11-23T14:10:18+00:00",
-      "retrieved_at": "2026-11-23T14:15:38.357328+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Board says senior government officials confirmed Huang is \"no national security risk.\"",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "aa1d82e737ac7e5b56631fae"
     },
     {
       "title": "Uber now lets you book rides that record the drive by default",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T15:54:59.062296+00:00",
+    "checked_at": "2026-11-23T15:58:38.054777+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
