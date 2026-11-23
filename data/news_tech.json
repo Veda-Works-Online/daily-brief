@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-23T10:30:25.410055+00:00",
+  "updated": "2026-11-23T10:35:26.182026+00:00",
   "items": [
+    {
+      "title": "Inside Google’s Failure to Make Google Maps Work for Palestinians",
+      "url": "https://wired.com/story/inside-googles-failure-to-make-google-maps-work-for-palestinians",
+      "source": "Wired",
+      "published": "2026-11-23T10:30:00+00:00",
+      "retrieved_at": "2026-11-23T10:35:20.930231+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "One product manager made it his mission to accurately map Israeli checkpoints in the West Bank on the world’s most popular navigation app. Then the company undid his work.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "046864988aeef06964f29fcf"
+    },
     {
       "title": "Goodbye, World: The End of Programmers",
       "url": "https://wired.com/story/goodbye-world-the-end-of-programmers",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7c77cea04b242dfc62aae0f5"
-    },
-    {
-      "title": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-      "url": "https://wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back",
-      "source": "Wired",
-      "published": "2026-11-13T11:45:00+00:00",
-      "retrieved_at": "2026-11-13T11:51:30.946370+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "45ed54944fac4567dbd5dac0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T10:30:15.517158+00:00",
+    "checked_at": "2026-11-23T10:35:19.577875+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
