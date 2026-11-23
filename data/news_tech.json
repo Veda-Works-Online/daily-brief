@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-23T14:10:39.467083+00:00",
+  "updated": "2026-11-23T14:15:44.004663+00:00",
   "items": [
+    {
+      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair",
+      "source": "Ars Technica AI",
+      "published": "2026-11-23T14:10:18+00:00",
+      "retrieved_at": "2026-11-23T14:15:38.357328+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "Board says senior government officials confirmed Huang is \"no national security risk.\"",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "aa1d82e737ac7e5b56631fae"
+    },
     {
       "title": "Uber now lets you book rides that record the drive by default",
       "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "6aa56c267225b62b5c8855ea"
-    },
-    {
-      "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
-      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach",
-      "source": "TechCrunch",
-      "published": "2026-11-13T14:57:55+00:00",
-      "retrieved_at": "2026-11-13T18:42:46.626068+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fea032cccd16642181fa04e5"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T14:10:33.792218+00:00",
+    "checked_at": "2026-11-23T14:15:37.327145+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
