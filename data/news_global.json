@@ -1,14 +1,14 @@
 {
-  "updated": "2026-11-23T05:19:23.658754+00:00",
+  "updated": "2026-11-23T05:29:29.599069+00:00",
   "items": [
     {
       "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
       "url": "https://bbc.co.uk/news/articles/cqwy06zrd26lo",
       "source": "BBC World",
       "published": "2026-11-23T05:15:06+00:00",
-      "retrieved_at": "2026-11-23T05:19:18.312289+00:00",
+      "retrieved_at": "2026-11-23T05:29:24.188166+00:00",
       "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The prime minister Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+      "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -96,6 +96,38 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cccc7c07fa9c10b3d43ecfb6"
+    },
+    {
+      "title": "Mongolia’s Foreign Policy Doctrine and the ‘Third Neighbor’",
+      "url": "https://thediplomat.com/2026/11/mongolias-foreign-policy-doctrine-and-the-third-neighbor",
+      "source": "The Diplomat",
+      "published": "2026-11-23T01:36:00+00:00",
+      "retrieved_at": "2026-11-23T05:29:24.262958+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "A look at the history behind the Third Neighbor policy",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "79b9c5e909fc9239f6595012"
+    },
+    {
+      "title": "Diplomacy or Transparency? Philippine Officials Consider Approach Amid Rising China Tension",
+      "url": "https://thediplomat.com/2026/11/diplomacy-or-transparency-philippine-officials-consider-approach-amid-rising-china-tension",
+      "source": "The Diplomat",
+      "published": "2026-11-23T01:33:00+00:00",
+      "retrieved_at": "2026-11-23T05:29:24.262940+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "A recent DFA statement revealed differences within the country's Cabinet on how best to respond to the ongoing maritime disputes with Beijing.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e682874226b5dca826ac7df6"
     },
     {
       "title": "Asian stock markets tumble as AI bubble fears mount",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c5c047ea679ac22dd1615f9e"
-    },
-    {
-      "title": "The China-US AI Hotline Needs to Be Different",
-      "url": "https://thediplomat.com/2026/11/the-china-us-ai-hotline-needs-to-be-different",
-      "source": "The Diplomat",
-      "published": "2026-11-18T15:07:00+00:00",
-      "retrieved_at": "2026-11-18T21:27:27.819148+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "China-U.S. hotlines have historically failed when needed most. This one needs to actually work – and here’s how to make sure it does.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "983a1dfae61e5cdb8137208c"
-    },
-    {
-      "title": "What is Iraq’s Jurf al-Sakhar and what is behind gov’t push to control it?",
-      "url": "https://aljazeera.com/news/2026/11/18/what-is-iraqs-jurf-al-sakhar-and-what-is-behind-govt-push-to-control-it",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T15:00:34+00:00",
-      "retrieved_at": "2026-11-18T15:37:13.431057+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Tensions surge between PM al-Zaidi's government and Kataib Hezbollah amid oil-smuggling scandal.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1398d274efe695a63e01297d"
     }
   ],
   "unverified_history": [
