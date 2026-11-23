@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-23T15:39:16.072787+00:00",
+  "updated": "2026-11-23T16:38:49.684342+00:00",
   "items": [
+    {
+      "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+      "url": "https://aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks",
+      "source": "Al Jazeera",
+      "published": "2026-11-23T16:23:33+00:00",
+      "retrieved_at": "2026-11-23T16:38:47.086603+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Russia has reacted with fury to Ukraine's continued campaign targeting its naval and merchant shipping.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "62b2efa0e6a6aedf72e095c7"
+    },
     {
       "title": "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e6a7eee8034561af322a701e"
-    },
-    {
-      "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
-      "url": "https://aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T22:56:19+00:00",
-      "retrieved_at": "2026-11-18T23:12:23.701740+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The US Treasury has accused Hezbollah of using charitable organisations as 'fronts' for fundraising.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "73083c87c643960b31cc8b5b"
     }
   ],
   "unverified_history": [
