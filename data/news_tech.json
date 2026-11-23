@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-23T21:44:50.277810+00:00",
+  "updated": "2026-11-23T21:49:47.309663+00:00",
   "items": [
+    {
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal",
+      "source": "TechCrunch AI",
+      "published": "2026-11-23T21:47:41+00:00",
+      "retrieved_at": "2026-11-23T21:49:40.786850+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4490923b2a51448675d51e26"
+    },
     {
       "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
       "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8316e142267b1aef5e8a32ea"
-    },
-    {
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
-      "source": "TechCrunch AI",
-      "published": "2026-11-14T16:34:15+00:00",
-      "retrieved_at": "2026-11-14T16:35:53.887909+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0a5dcb7b6d7add9e0cbe22b0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T21:44:44.025814+00:00",
+    "checked_at": "2026-11-23T21:49:40.132347+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
