@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-23T13:15:28.722697+00:00",
+  "updated": "2026-11-23T13:20:22.382340+00:00",
   "items": [
+    {
+      "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
+      "url": "https://wired.com/story/nvidia-is-powering-brain-computer-interfaces-now",
+      "source": "Wired",
+      "published": "2026-11-23T13:11:48+00:00",
+      "retrieved_at": "2026-11-23T13:20:17.998777+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Brain-computer interface company Paradromics is using Nvidia’s computing hardware and software to process brain data.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2e478a00e678159ed96243cc"
+    },
     {
       "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
       "url": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "ea2f055fb59d60aead27c086"
-    },
-    {
-      "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
-      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis",
-      "source": "TechCrunch",
-      "published": "2026-11-13T13:15:20+00:00",
-      "retrieved_at": "2026-11-13T22:28:27.807648+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c955b247fccb88fdbeee1b7f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T13:15:19.064567+00:00",
+    "checked_at": "2026-11-23T13:20:16.521569+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
