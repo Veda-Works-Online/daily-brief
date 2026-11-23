@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-23T16:48:55.071652+00:00",
+  "updated": "2026-11-23T16:58:44.647560+00:00",
   "items": [
+    {
+      "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+      "url": "https://bbc.co.uk/news/articles/cq5y1k8ez407o",
+      "source": "BBC World",
+      "published": "2026-11-23T16:49:51+00:00",
+      "retrieved_at": "2026-11-23T16:58:41.767365+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2a49d34911b33f5539fb1f88"
+    },
     {
       "title": "Why did COP31 climate talks collapse without a deal?",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/23/why-did-cop31-climate-talks-collapse-without-a-deal",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9d0ad1801116d5449ec92114"
-    },
-    {
-      "title": "Israel uses Gaza swimming video to minimise winter hardships",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T23:53:21+00:00",
-      "retrieved_at": "2026-11-19T00:17:23.288367+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel shared an Al Jazeera video of Palestinians swimming, to suggest winter storms in Gaza can’t be that bad.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7270e157532b25d54147c50e"
     }
   ],
   "unverified_history": [
