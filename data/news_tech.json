@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T21:14:51.420316+00:00",
+  "updated": "2026-11-23T21:19:49.731053+00:00",
   "items": [
     {
       "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
@@ -357,6 +357,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5d5126bfd11307c791ddd2bb"
+    },
+    {
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "OpenAI",
+      "published": "2026-11-23T08:00:00+00:00",
+      "retrieved_at": "2026-11-23T21:19:42.815354+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "bfd2db086be4247e3fc46ecc"
     },
     {
       "title": "Connected intelligence for in-house legal",
@@ -1532,23 +1549,6 @@
       "story_fingerprint": "90baab2ebce2ae5227eae087"
     },
     {
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "source": "OpenAI",
-      "published": "2026-11-19T00:00:00+00:00",
-      "retrieved_at": "2026-11-19T23:31:36.186102+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "268c6c3a657d9811b9036e66"
-    },
-    {
       "title": "See PR scans in action",
       "url": "https://openai.com/business/learn/pr-scans-demo",
       "source": "OpenAI",
@@ -1581,6 +1581,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "3ddf2039d217ea0f2d9c9e85"
+    },
+    {
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI",
+      "published": "2026-11-19T00:00:00+00:00",
+      "retrieved_at": "2026-11-19T23:31:36.186102+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "268c6c3a657d9811b9036e66"
     },
     {
       "title": "Get started with Daybreak Blue",
@@ -2416,23 +2433,6 @@
       "story_fingerprint": "259bd3365a9e8ab9612de5c3"
     },
     {
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "source": "OpenAI",
-      "published": "2026-11-18T00:00:00+00:00",
-      "retrieved_at": "2026-11-18T17:16:47.858291+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "eec83baa2d9ca37bb36324ae"
-    },
-    {
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI",
@@ -2448,6 +2448,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "36211a007c811bc97c03af3a"
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "source": "OpenAI",
+      "published": "2026-11-18T00:00:00+00:00",
+      "retrieved_at": "2026-11-18T17:16:47.858291+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "eec83baa2d9ca37bb36324ae"
     },
     {
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bf774116afb2a79b725fe6e7"
-    },
-    {
-      "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
-      "url": "https://wired.com/story/audit-all-the-cloud-storage-links-youve-shared",
-      "source": "Wired",
-      "published": "2026-11-14T11:30:00+00:00",
-      "retrieved_at": "2026-11-14T11:35:09.059773+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Those old links you shared with friends ages ago are still live, and they might be attracting unwelcome visitors.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b52fad9fcceff3365f580e4c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T21:14:45.232489+00:00",
+    "checked_at": "2026-11-23T21:19:41.512364+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
