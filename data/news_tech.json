@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-23T22:04:42.838598+00:00",
+  "updated": "2026-11-23T22:09:47.907249+00:00",
   "items": [
+    {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+      "source": "TechCrunch AI",
+      "published": "2026-11-23T22:05:50+00:00",
+      "retrieved_at": "2026-11-23T22:09:42.574114+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "25d04c989aa74f8aa6827d90"
+    },
     {
       "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
       "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "194ee82f6c515d35975f5736"
-    },
-    {
-      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide",
-      "source": "TechCrunch",
-      "published": "2026-11-14T17:45:04+00:00",
-      "retrieved_at": "2026-11-14T17:46:27.767149+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3c368b4d7073d62158040a3a"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T22:04:32.886016+00:00",
+    "checked_at": "2026-11-23T22:09:41.905148+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
