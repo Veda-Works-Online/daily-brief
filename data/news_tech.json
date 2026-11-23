@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-23T19:13:48.824443+00:00",
+  "updated": "2026-11-23T19:18:48.976125+00:00",
   "items": [
+    {
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses",
+      "source": "TechCrunch AI",
+      "published": "2026-11-23T19:14:46+00:00",
+      "retrieved_at": "2026-11-23T19:18:46.029360+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "16dae5b787cc014f7dc62b23"
+    },
     {
       "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
       "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2aa0b37044bc7d09dc79cc38"
-    },
-    {
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-      "source": "Ars Technica AI",
-      "published": "2026-11-13T21:20:47+00:00",
-      "retrieved_at": "2026-11-13T22:28:27.743790+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "187f5e84ba8e9b8f4b0a78c7"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T19:13:45.300843+00:00",
+    "checked_at": "2026-11-23T19:18:45.476106+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
