@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-23T13:55:42.689414+00:00",
+  "updated": "2026-11-23T14:00:45.821430+00:00",
   "items": [
+    {
+      "title": "Uber now lets you book rides that record the drive by default",
+      "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default",
+      "source": "TechCrunch",
+      "published": "2026-11-23T14:00:00+00:00",
+      "retrieved_at": "2026-11-23T14:00:37.451616+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Uber is piloting a new feature in the U.S. that offers rides in which drivers have enabled the company’s recording feature, Record My Ride. The option, which uses the front camera of the Uber driver’s phone to record the entire drive, will show up as “Recorded Rides” in the app. The ride-hailing company is starting […]",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b2458d90dd38d4aefdc4ddbe"
+    },
     {
       "title": "Nvidia Is Powering Brain-Computer Interfaces Now",
       "url": "https://wired.com/story/nvidia-is-powering-brain-computer-interfaces-now",
@@ -102,6 +119,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b7efa9b24c3991fff602dc31"
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "source": "Hugging Face",
+      "published": "2026-11-23T00:00:00+00:00",
+      "retrieved_at": "2026-11-23T14:00:36.840919+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "51a773148bdcb283a79ff295"
     },
     {
       "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fea032cccd16642181fa04e5"
-    },
-    {
-      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
-      "source": "TechCrunch AI",
-      "published": "2026-11-13T14:44:48+00:00",
-      "retrieved_at": "2026-11-13T14:46:37.049852+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e6f2a5150a53c1374713cc9b"
-    },
-    {
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "source": "Hugging Face",
-      "published": "2026-11-13T14:05:22+00:00",
-      "retrieved_at": "2026-11-13T14:06:45.030390+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "ea2f055fb59d60aead27c086"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T13:55:34.897618+00:00",
+    "checked_at": "2026-11-23T14:00:36.193738+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
