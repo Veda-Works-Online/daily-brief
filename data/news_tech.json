@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T21:19:49.731053+00:00",
+  "updated": "2026-11-23T21:24:52.160189+00:00",
   "items": [
     {
       "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
@@ -359,23 +359,6 @@
       "story_fingerprint": "5d5126bfd11307c791ddd2bb"
     },
     {
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "source": "OpenAI",
-      "published": "2026-11-23T08:00:00+00:00",
-      "retrieved_at": "2026-11-23T21:19:42.815354+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "bfd2db086be4247e3fc46ecc"
-    },
-    {
       "title": "Connected intelligence for in-house legal",
       "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
       "source": "OpenAI",
@@ -391,6 +374,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "c6c833fc58cd814c7bdc07b1"
+    },
+    {
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "source": "OpenAI",
+      "published": "2026-11-23T08:00:00+00:00",
+      "retrieved_at": "2026-11-23T21:19:42.815354+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "bfd2db086be4247e3fc46ecc"
     },
     {
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T21:19:41.512364+00:00",
+    "checked_at": "2026-11-23T21:24:45.993639+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
