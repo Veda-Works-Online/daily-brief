@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-23T21:24:52.160189+00:00",
+  "updated": "2026-11-23T21:29:45.081240+00:00",
   "items": [
+    {
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a U.S. blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist",
+      "source": "TechCrunch AI",
+      "published": "2026-11-23T21:25:42+00:00",
+      "retrieved_at": "2026-11-23T21:29:37.425667+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "66fd10327f27356b8e91dda5"
+    },
     {
       "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
       "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fe4601328dbaafd6a772297b"
-    },
-    {
-      "title": "How to Run SteamOS on Your Mac",
-      "url": "https://wired.com/story/get-steamos-easily-running-on-your-mac",
-      "source": "Wired",
-      "published": "2026-11-14T12:00:00+00:00",
-      "retrieved_at": "2026-11-14T12:05:06.609438+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "A free app lets you boot SteamOS in a virtual machine on your Apple Silicon Mac, unlocking PC and legacy games that otherwise won’t run.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bf774116afb2a79b725fe6e7"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T21:24:45.993639+00:00",
+    "checked_at": "2026-11-23T21:29:36.802616+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
