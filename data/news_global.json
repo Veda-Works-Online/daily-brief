@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-23T11:10:32.660010+00:00",
+  "updated": "2026-11-23T11:25:33.007496+00:00",
   "items": [
+    {
+      "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+      "url": "https://aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know",
+      "source": "Al Jazeera",
+      "published": "2026-11-23T11:10:12+00:00",
+      "retrieved_at": "2026-11-23T11:25:27.928913+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war's spread.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d71c888fc1e44ce2b28b7698"
+    },
     {
       "title": "Lebanese families return to ruins after Israeli attacks in south",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/23/lebanese-families-return-to-ruins-after-israeli-attacks-in-south",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1d5b8a9b251f802bdad8dad2"
-    },
-    {
-      "title": "Israeli forces launch new military operation in central Gaza",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T18:12:42+00:00",
-      "retrieved_at": "2026-11-18T18:32:06.240670+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "271d44d195b73eee7bda35f1"
     }
   ],
   "unverified_history": [
