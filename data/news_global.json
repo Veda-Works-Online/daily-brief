@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T16:58:44.647560+00:00",
+  "updated": "2026-11-23T17:28:53.955144+00:00",
   "items": [
     {
       "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
@@ -240,6 +240,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b352efde55a3619663feeaec"
+    },
+    {
+      "title": "Ukraine shares video of strikes on Russian ships off Libya",
+      "url": "https://bbc.co.uk/news/videos/c6wy93q5wwqvo",
+      "source": "BBC World",
+      "published": "2026-11-23T11:34:10+00:00",
+      "retrieved_at": "2026-11-23T17:28:51.012820+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "President Zelensky said a Russia warship was sunk, with a Russian cargo ship also hit.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8f5c97371d5b57f277cd21bc"
     },
     {
       "title": "COP31: What next after UN climate talks collapse",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "db6fc2de9d19c10d00bf6280"
-    },
-    {
-      "title": "Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh",
-      "url": "https://aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T00:01:02+00:00",
-      "retrieved_at": "2026-11-19T03:23:39.819065+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump claims Iran is seeking to develop biological weapons, as the Saudi-led coalition combats Houthi missiles.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9d0ad1801116d5449ec92114"
     }
   ],
   "unverified_history": [
