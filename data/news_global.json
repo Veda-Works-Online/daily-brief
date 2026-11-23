@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-23T06:39:22.225257+00:00",
+  "updated": "2026-11-23T07:44:22.797830+00:00",
   "items": [
+    {
+      "title": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
+      "url": "https://aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya",
+      "source": "Al Jazeera",
+      "published": "2026-11-23T07:37:09+00:00",
+      "retrieved_at": "2026-11-23T07:44:17.465528+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "This is a breaking news story.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cdca3316ea8f7bff962cf183"
+    },
     {
       "title": "As Syria-EU talks progress, diplomats fear focus will be on repatriation",
       "url": "https://aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7fe49b926cf155f19eda9864"
-    },
-    {
-      "title": "Russian attacks on Ukraine kill at least five people",
-      "url": "https://aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T15:32:01+00:00",
-      "retrieved_at": "2026-11-18T15:42:12.774380+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Most of the casualties were in strikes on Odesa that President Volodymyr Zelenskyy described as 'brutal'.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9069012533941fb20d942acd"
     }
   ],
   "unverified_history": [
