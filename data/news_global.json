@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T04:48:40.218655+00:00",
+  "updated": "2026-11-23T04:59:18.745892+00:00",
   "items": [
     {
       "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8bf3c8e34f20569be0d2883e"
+    },
+    {
+      "title": "Child rescued in Ukraine after Russian drone attack kills 10",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/23/child-rescued-in-ukraine-after-russian-drone-attack-kills-10",
+      "source": "Al Jazeera",
+      "published": "2026-11-23T04:38:14+00:00",
+      "retrieved_at": "2026-11-23T04:59:13.247317+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A seven-year-old boy called David was rescued after spending 14 hours trapped in the rubble of a Russian drone attack.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b13f0b9d7464f74601791c99"
     },
     {
       "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6d7d74fe18efdda43d2a9f92"
-    },
-    {
-      "title": "‘Bienvenue à Phnom Penh’: Why Cambodia’s Francophonie Summit Matters",
-      "url": "https://thediplomat.com/2026/11/bienvenue-a-phnom-penh-why-cambodias-francophonie-summit-matters",
-      "source": "The Diplomat",
-      "published": "2026-11-18T14:45:00+00:00",
-      "retrieved_at": "2026-11-18T21:27:27.819162+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "By hosting the 20th Francophonie summit, Cambodia has turned a historical legacy into a diplomatic opportunity. Political divisions, however, threaten to overshadow the institution’s Asian ambition.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a48cab08cc5b6bb19724a786"
     }
   ],
   "unverified_history": [
