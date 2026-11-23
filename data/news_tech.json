@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-23T17:18:44.592163+00:00",
+  "updated": "2026-11-23T17:23:54.535861+00:00",
   "items": [
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "Hugging Face",
+      "published": "2026-11-23T17:20:37+00:00",
+      "retrieved_at": "2026-11-23T17:23:49.671213+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "788a0333a2f365ea9c8b51c4"
+    },
     {
       "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
       "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "20f68c27ac7b469d28f4e38e"
-    },
-    {
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
-      "source": "TechCrunch",
-      "published": "2026-11-13T19:37:57+00:00",
-      "retrieved_at": "2026-11-13T19:42:45.560457+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "23f7e2e6e8a144b24898f550"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-23T17:18:40.131418+00:00",
+    "checked_at": "2026-11-23T17:23:49.133603+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
