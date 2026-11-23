@@ -1,14 +1,30 @@
 {
-  "updated": "2026-11-23T07:44:22.797830+00:00",
+  "updated": "2026-11-23T08:14:22.268317+00:00",
   "items": [
+    {
+      "title": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
+      "url": "https://aljazeera.com/news/2026/11/23/ukraine-claims-responsiblity-for-drone-attacks-on-russian-ships-off-libya",
+      "source": "Al Jazeera",
+      "published": "2026-11-23T08:12:29+00:00",
+      "retrieved_at": "2026-11-23T08:14:16.853827+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "President Zelenskyy hails \"an exemplary Ukrainian operation\" as UN calls for investigation",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6803f9dd98c3c0e85a010a72"
+    },
     {
       "title": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
       "url": "https://aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya",
       "source": "Al Jazeera",
       "published": "2026-11-23T07:37:09+00:00",
-      "retrieved_at": "2026-11-23T07:44:17.465528+00:00",
+      "retrieved_at": "2026-11-23T08:14:16.853961+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "This is a breaking news story.",
+      "summary": "President Zelenskyy hails \"an exemplary Ukrainian operation\" as UN calls for investigation",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c484faa34cb17a4ae6074cf2"
-    },
-    {
-      "title": "Five EU nations to deport migrants to Rwanda",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/18/five-eu-nations-to-deport-migrants-to-rwanda",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T16:05:37+00:00",
-      "retrieved_at": "2026-11-18T16:32:04.646871+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Five European countries are looking to Rwanda to host rejected asylum seekers.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7fe49b926cf155f19eda9864"
     }
   ],
   "unverified_history": [
