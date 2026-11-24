@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-24T10:46:42.115271+00:00",
+  "updated": "2026-11-24T10:51:32.979596+00:00",
   "items": [
+    {
+      "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
+      "url": "https://wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving",
+      "source": "Wired",
+      "published": "2026-11-24T10:45:00+00:00",
+      "retrieved_at": "2026-11-24T10:51:28.304687+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Young people anxious about their futures say they’re increasingly frustrated with their pro-AI parents. They’re worried it’s going to make holiday gatherings very tense.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4dd0c916a417fc2597cef199"
+    },
     {
       "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
       "url": "https://wired.com/story/ai-solved-maths-most-famous-problem",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "50bc5f8352c7ee99d8bf4116"
-    },
-    {
-      "title": "AI DJs Completely Kill My Groove",
-      "url": "https://wired.com/story/ai-djs-completely-kill-my-groove",
-      "source": "Wired",
-      "published": "2026-11-15T12:00:00+00:00",
-      "retrieved_at": "2026-11-15T12:09:05.442900+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "4cbc34a11aaef437746096e5"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T10:46:32.440001+00:00",
+    "checked_at": "2026-11-24T10:51:26.990535+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
