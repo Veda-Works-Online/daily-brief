@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T04:40:24.366662+00:00",
+  "updated": "2026-11-24T05:10:20.245799+00:00",
   "items": [
     {
       "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bbe77214418f8ed4cecdbaa2"
+    },
+    {
+      "title": "WHO chief visits Cuba as healthcare system deteriorates",
+      "url": "https://aljazeera.com/news/2026/11/24/who-chief-visits-cuba-as-healthcare-system-deteriorates",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T04:35:37+00:00",
+      "retrieved_at": "2026-11-24T05:10:17.192253+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Analysts say fuel shortages blamed on US sanctions are worsening the crisis.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6031cb198a9faa5f0061f10e"
     },
     {
       "title": "UN chief calls for world to agree on AI oversight within a year",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d0f3ef235432e6aeb940c1c1"
-    },
-    {
-      "title": "ICJ: Myanmar committed genocide against Rohingya",
-      "url": "https://dw.com/en/icj-myanmar-committed-genocide-against-rohingya/a-79987898",
-      "source": "DW",
-      "published": "2026-11-19T11:39:00+00:00",
-      "retrieved_at": "2026-11-19T11:54:57.053538+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The International Court of Justice has upheld large parts of a genocide case against Myanmar linked to the 2017 conflict with its Rohingya minority. It called for it to pay reparations and let refugees return safely.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b087c362df5a9e8aecf718c1"
     }
   ],
   "unverified_history": [
