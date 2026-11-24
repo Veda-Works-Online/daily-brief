@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-24T12:32:04.608377+00:00",
+  "updated": "2026-11-24T12:37:00.451175+00:00",
   "items": [
+    {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input",
+      "source": "Ars Technica AI",
+      "published": "2026-11-24T12:30:05+00:00",
+      "retrieved_at": "2026-11-24T12:36:57.945021+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "811950f127795cca2cd53530"
+    },
     {
       "title": "Database Leaks Expose 3.5 Billion Usernames, Passwords, and Documents",
       "url": "https://wired.com/story/3-billion-usernames-passwords-and-documents-leaked-online",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e74ea2e3e383b919732ab4c9"
-    },
-    {
-      "title": "‘SNL’ gathers all the tech tycoons for a lesson in dating and spycraft",
-      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
-      "source": "TechCrunch AI",
-      "published": "2026-11-15T20:20:57+00:00",
-      "retrieved_at": "2026-11-16T20:24:35.843296+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8b6dcab051617059d3ec85df"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T12:31:59.097076+00:00",
+    "checked_at": "2026-11-24T12:36:56.915279+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
