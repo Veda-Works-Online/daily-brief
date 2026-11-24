@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-24T17:33:05.850460+00:00",
+  "updated": "2026-11-24T17:38:02.751947+00:00",
   "items": [
+    {
+      "title": "Tidal will ban fully AI-generated music on December 9",
+      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9",
+      "source": "Ars Technica AI",
+      "published": "2026-11-24T17:34:34+00:00",
+      "retrieved_at": "2026-11-24T17:37:57.932514+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f4c2a6892911d5986ffcc63f"
+    },
     {
       "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
       "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "6a9f772f8385255cbb51c7cf"
-    },
-    {
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "source": "OpenAI",
-      "published": "2026-11-16T09:00:00+00:00",
-      "retrieved_at": "2026-11-16T09:57:33.847041+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "a9b17c4d83a05c9a33cef6ae"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T17:32:56.559517+00:00",
+    "checked_at": "2026-11-24T17:37:57.217165+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T17:13:16.823804+00:00",
+  "updated": "2026-11-24T17:38:10.740134+00:00",
   "items": [
     {
       "title": "After Libya, where will Ukraine strike Russia next?",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "729668ffbc14441e6a9a4b4a"
+    },
+    {
+      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+      "url": "https://bbc.co.uk/news/articles/crpdw1qx7jgxo",
+      "source": "BBC World",
+      "published": "2026-11-24T17:04:20+00:00",
+      "retrieved_at": "2026-11-24T17:38:05.847933+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "33d57661d9877ee61219eb4d"
     },
     {
       "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f1ebe9a0ed891f22688821cd"
-    },
-    {
-      "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T20:58:41+00:00",
-      "retrieved_at": "2026-11-19T21:11:41.810107+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel launches its first major ground offensive in central Gaza, pushing beyond the ‘Yellow Line’ it controls",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1fae2f5d185dabbc2996e7b1"
     }
   ],
   "unverified_history": [
