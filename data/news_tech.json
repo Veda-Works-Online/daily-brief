@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-24T16:42:05.091654+00:00",
+  "updated": "2026-11-24T16:46:59.779192+00:00",
   "items": [
+    {
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming",
+      "source": "TechCrunch AI",
+      "published": "2026-11-24T16:46:00+00:00",
+      "retrieved_at": "2026-11-24T16:46:56.883433+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f4b799e7be129316caade8ce"
+    },
     {
       "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
       "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "974631e28c28590c488ad48e"
-    },
-    {
-      "title": "Apple launches new app to study how people use AI for health",
-      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T01:30:00+00:00",
-      "retrieved_at": "2026-11-16T21:04:19.757930+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Apple's new app for a study will answer everyday medical questions.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5c6fe4461136c3a9eaa413b8"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T16:42:00.533388+00:00",
+    "checked_at": "2026-11-24T16:46:56.425714+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
