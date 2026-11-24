@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-24T04:09:30.794397+00:00",
+  "updated": "2026-11-24T04:40:24.366662+00:00",
   "items": [
+    {
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "url": "https://bbc.co.uk/news/articles/cq5y1k8ez407o",
+      "source": "BBC World",
+      "published": "2026-11-24T04:36:31+00:00",
+      "retrieved_at": "2026-11-24T04:40:21.310886+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bbe77214418f8ed4cecdbaa2"
+    },
     {
       "title": "UN chief calls for world to agree on AI oversight within a year",
       "url": "https://aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year",
@@ -80,22 +96,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "632f12f9a323f0b4687f0450"
-    },
-    {
-      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
-      "url": "https://bbc.co.uk/news/articles/cq5y1k8ez407o",
-      "source": "BBC World",
-      "published": "2026-11-24T01:11:54+00:00",
-      "retrieved_at": "2026-11-24T02:50:18.465060+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "48eb0db0448ebb63c9f8e8db"
     },
     {
       "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
