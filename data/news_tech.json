@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-24T20:33:06.757520+00:00",
+  "updated": "2026-11-24T20:38:01.436556+00:00",
   "items": [
+    {
+      "title": "What's going on with the Riemann hypothesis?",
+      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis",
+      "source": "Ars Technica AI",
+      "published": "2026-11-24T20:34:53+00:00",
+      "retrieved_at": "2026-11-24T20:37:52.981520+00:00",
+      "feed_url": "https://arstechnica.com/ai/feed/",
+      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://arstechnica.com/ai/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bab17fddd740119581faf2c5"
+    },
     {
       "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
       "url": "https://wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fcf3b52ea2767e49688315de"
-    },
-    {
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
-      "source": "Google AI",
-      "published": "2026-11-16T14:00:00+00:00",
-      "retrieved_at": "2026-11-16T14:08:09.184876+00:00",
-      "feed_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-      "summary": "tbd",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "fdb5f348a5c8a12245fde72c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T20:32:58.003756+00:00",
+    "checked_at": "2026-11-24T20:37:52.169666+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
