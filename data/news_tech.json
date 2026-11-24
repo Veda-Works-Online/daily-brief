@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-24T19:38:00.813862+00:00",
+  "updated": "2026-11-24T19:43:00.649785+00:00",
   "items": [
+    {
+      "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
+      "url": "https://wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia",
+      "source": "Wired",
+      "published": "2026-11-24T19:33:23+00:00",
+      "retrieved_at": "2026-11-24T19:42:55.222352+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a “tech bro,” his disdain for succession planning, and his relationship with President Trump.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4872e7501810f0de0e55208d"
+    },
     {
       "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
       "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
       "source_type": "PRIMARY",
       "story_fingerprint": "fdb5f348a5c8a12245fde72c"
-    },
-    {
-      "title": "After dodging death, battery startup Our Next Energy is now going public",
-      "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public",
-      "source": "TechCrunch",
-      "published": "2026-11-16T13:00:00+00:00",
-      "retrieved_at": "2026-11-16T17:48:52.969006+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Our Next Energy is the latest battery startup to go public via SPAC. Does it now have what it needs to survive in the cutthroat battery industry?",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5c55e83219f58a1a350bcc34"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T19:37:53.508569+00:00",
+    "checked_at": "2026-11-24T19:42:54.158258+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
