@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-24T21:17:50.059764+00:00",
+  "updated": "2026-11-24T21:22:49.568542+00:00",
   "items": [
+    {
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
+      "source": "TechCrunch AI",
+      "published": "2026-11-24T21:19:52+00:00",
+      "retrieved_at": "2026-11-24T21:22:43.985784+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c9028c9fd06db5ae8dd6f554"
+    },
     {
       "title": "What's going on with the Riemann hypothesis?",
       "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "80559701a38b695a638082d3"
-    },
-    {
-      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia",
-      "source": "Ars Technica AI",
-      "published": "2026-11-16T14:06:16+00:00",
-      "retrieved_at": "2026-11-16T14:08:09.511524+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "fcf3b52ea2767e49688315de"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T21:17:43.871590+00:00",
+    "checked_at": "2026-11-24T21:22:43.615634+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
