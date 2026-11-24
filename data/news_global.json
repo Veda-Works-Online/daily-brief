@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-24T12:52:06.578551+00:00",
+  "updated": "2026-11-24T12:57:06.267038+00:00",
   "items": [
+    {
+      "title": "Is North Korea holding back on sending Russia more troops?",
+      "url": "https://dw.com/en/is-north-korea-holding-back-on-sending-russia-more-troops/a-80033025",
+      "source": "DW",
+      "published": "2026-11-24T12:51:00+00:00",
+      "retrieved_at": "2026-11-24T12:57:03.766683+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "A North Korean troop buildup Ukraine warned about months ago has yet to materialize, even as strategic cooperation goes on. Analysts say Pyongyang is balancing its ties with Moscow and Beijing.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b1ae424d9aed1819012aa7fd"
+    },
     {
       "title": "Russian governor detained in rare criminal case against regional leader",
       "url": "https://bbc.co.uk/news/articles/cmwy868v3nneo",
@@ -16,6 +32,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "bd1439d6c2d7fbb2aa108783"
+    },
+    {
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "url": "https://bbc.co.uk/news/articles/c6rrg7ggq190o",
+      "source": "BBC World",
+      "published": "2026-11-24T12:12:48+00:00",
+      "retrieved_at": "2026-11-24T12:57:03.320677+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a4968d04695a382fb5406a5a"
     },
     {
       "title": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1e622ef0d8eec3fd8a7b439a"
-    },
-    {
-      "title": "Putin pitches Arctic route, calls for investment: Will it work?",
-      "url": "https://aljazeera.com/news/2026/11/19/putin-pitches-arctic-route-calls-for-investment-will-it-work",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T15:16:43+00:00",
-      "retrieved_at": "2026-11-19T15:35:17.106381+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Analysts say some Asian investors may show interest, but the route is unlikely to be a viable global shipping lane.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a85b9fcf8627f58c30c1380c"
-    },
-    {
-      "title": "A geography of hearts: Turkiye and Lebanon, building the Levant together",
-      "url": "https://aljazeera.com/opinions/2026/11/19/a-geography-of-hearts-turkiye-and-lebanon-building-the-levant-together",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T14:41:38+00:00",
-      "retrieved_at": "2026-11-19T15:05:16.247171+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Turkiye and Lebanon can build a stronger Levant through partnership, sovereignty and mutual respect.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a2901334c512d0abf15ed13f"
     }
   ],
   "unverified_history": [
