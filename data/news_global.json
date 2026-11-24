@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-23T23:30:00.498718+00:00",
+  "updated": "2026-11-24T00:10:02.415592+00:00",
   "items": [
+    {
+      "title": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
+      "url": "https://aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T00:00:00+00:00",
+      "retrieved_at": "2026-11-24T00:09:57.751616+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Iran's Revolutionary Guards say three oil tankers have caught fire after hitting naval mines in the Strait of Hormuz.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "52f94040230d9d793f947f34"
+    },
     {
       "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
       "url": "https://aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a93c8cfb875639425f2dd8c8"
-    },
-    {
-      "title": "North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
-      "url": "https://aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T09:16:47+00:00",
-      "retrieved_at": "2026-11-19T09:29:01.047648+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "North Korea can produce both highly enriched uranium and weapons-grade plutonium at its facilities, according to IAEA.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8b123bab25e19cece0345be8"
     }
   ],
   "unverified_history": [
