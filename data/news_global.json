@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-24T13:52:18.528263+00:00",
+  "updated": "2026-11-24T14:32:00.200066+00:00",
   "items": [
+    {
+      "title": "Could Russia-Ukraine war threaten Libya’s fragile reunification process?",
+      "url": "https://aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T14:16:33+00:00",
+      "retrieved_at": "2026-11-24T14:31:57.440196+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Ukraine's involvement in Libya raises concerns as Zelenskyy admits targeting Russian vessels in a key port city.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0573af41af64c4e76a02cdef"
+    },
+    {
+      "title": "Israeli air strike kills senior Hamas military official in Gaza",
+      "url": "https://aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T13:55:11+00:00",
+      "retrieved_at": "2026-11-24T14:31:57.440215+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The Hamas official was reportedly responsible for countering Palestinians suspected of collaborating with Israel.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "21889aaff59753f7e627e124"
+    },
     {
       "title": "Ten years after its 2016 peace deal, Colombia faces a return to conflict",
       "url": "https://aljazeera.com/news/longform/2026/11/24/ten-years-after-its-2016-peace-deal-colombia-faces-a-return-to-conflict",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1cfa2e148c196af9b2ba5dd8"
-    },
-    {
-      "title": "Iraq's risky standoff: The state vs. Iran-allied militias",
-      "url": "https://dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757",
-      "source": "DW",
-      "published": "2026-11-19T18:59:00+00:00",
-      "retrieved_at": "2026-11-19T19:11:12.160229+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "This week, Iraqi security forces surrounded an area run by the Kataib Hezbollah militia. Onlookers describe it as the most dangerous confrontation between the Iraqi state and Iran-allied militias in decades.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "506ee22dfa2eaba966c9d626"
-    },
-    {
-      "title": "Palestinians in Gaza face new displacement after Israeli army operation",
-      "url": "https://aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T18:46:10+00:00",
-      "retrieved_at": "2026-11-19T19:01:12.332034+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Families in Nuseirat spend the night without shelter, while many fear returning despite Israel ending offensive.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6f0844b276e6118340e2f572"
     }
   ],
   "unverified_history": [
