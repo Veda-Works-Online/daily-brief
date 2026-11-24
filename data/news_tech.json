@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-24T10:16:39.911269+00:00",
+  "updated": "2026-11-24T10:21:40.845729+00:00",
   "items": [
+    {
+      "title": "AI Solved Math’s Most Famous Problem. Now Humans Are Struggling to Understand It",
+      "url": "https://wired.com/story/ai-solved-maths-most-famous-problem",
+      "source": "Wired",
+      "published": "2026-11-24T10:15:00+00:00",
+      "retrieved_at": "2026-11-24T10:21:32.633217+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "It will take mathematicians months to understand the “alien” 17-million-line solution an Anthropic researcher produced for the Riemann hypothesis.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1a795d201fe15f195b92e2cf"
+    },
     {
       "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
       "url": "https://wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4cbc34a11aaef437746096e5"
-    },
-    {
-      "title": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-      "url": "https://wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets",
-      "source": "Wired",
-      "published": "2026-11-15T11:00:00+00:00",
-      "retrieved_at": "2026-11-15T11:09:00.704771+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1f395cd7b63108fda5c3b3f5"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T10:16:30.873700+00:00",
+    "checked_at": "2026-11-24T10:21:31.158953+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
