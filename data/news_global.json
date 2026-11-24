@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-24T15:27:08.136665+00:00",
+  "updated": "2026-11-24T15:37:07.324377+00:00",
   "items": [
+    {
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "url": "https://bbc.co.uk/news/articles/c6rrg7ggq190o",
+      "source": "BBC World",
+      "published": "2026-11-24T15:35:53+00:00",
+      "retrieved_at": "2026-11-24T15:37:04.788272+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a4968d04695a382fb5406a5a"
+    },
     {
       "title": "Land mine casualties soar in Syria, two years after war",
       "url": "https://bbc.co.uk/news/articles/c893rl37ywdgo",
@@ -16,6 +32,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "77c4c04f2c07e290a1360fa2"
+    },
+    {
+      "title": "How the Iran war is reshaping the US military presence in the Middle East",
+      "url": "https://aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T15:10:29+00:00",
+      "retrieved_at": "2026-11-24T15:37:04.766832+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Experts say fallout from the war and domestic opposition could force a smaller permanent presence in the Middle East.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3f799d75f7f972f2e52ab1f1"
     },
     {
       "title": "Russia tows it cargo ship back home after Ukrainian drone attack",
@@ -288,22 +320,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f50a9298eb69af69c0986786"
-    },
-    {
-      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-      "url": "https://bbc.co.uk/news/articles/c6rrg7ggq190o",
-      "source": "BBC World",
-      "published": "2026-11-24T12:12:48+00:00",
-      "retrieved_at": "2026-11-24T12:57:03.320677+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Naeem Abu Nahel, who had only been in the position for two months, was targeted in western Gaza City, Gaza's interior ministry says.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a4968d04695a382fb5406a5a"
     },
     {
       "title": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "eb89e8b7e83d08a1a1db35bd"
-    },
-    {
-      "title": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine",
-      "url": "https://aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T19:40:23+00:00",
-      "retrieved_at": "2026-11-19T22:21:42.400262+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "European leaders meet in Berlin after Trump summit with Putin and Xi. Putin vows to retaliate for Kerch Bridge strikes.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "11206bfbaeb15ee7bcdffef8"
     }
   ],
   "unverified_history": [
