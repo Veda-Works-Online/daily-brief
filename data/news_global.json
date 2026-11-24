@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-24T11:57:17.880017+00:00",
+  "updated": "2026-11-24T12:52:06.578551+00:00",
   "items": [
+    {
+      "title": "Russian governor detained in rare criminal case against regional leader",
+      "url": "https://bbc.co.uk/news/articles/cmwy868v3nneo",
+      "source": "BBC World",
+      "published": "2026-11-24T12:45:43+00:00",
+      "retrieved_at": "2026-11-24T12:52:03.901812+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bd1439d6c2d7fbb2aa108783"
+    },
     {
       "title": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
       "url": "https://aljazeera.com/news/2026/11/24/the-eighth-front-why-israels-influence-war-in-the-us-is-failing",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a2901334c512d0abf15ed13f"
-    },
-    {
-      "title": "Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty",
-      "url": "https://aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T14:34:22+00:00",
-      "retrieved_at": "2026-11-19T14:50:13.560741+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Somalia says the UAE is interfering in its internal affairs with actions that amount to an 'open invasion'.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "65b36d3696aca7f6967419e8"
     }
   ],
   "unverified_history": [
