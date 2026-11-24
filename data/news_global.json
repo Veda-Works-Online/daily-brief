@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-24T07:36:52.881582+00:00",
+  "updated": "2026-11-24T08:06:39.892558+00:00",
   "items": [
+    {
+      "title": "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
+      "url": "https://aljazeera.com/news/2026/11/24/pakistans-zeeshan-ali-set-for-historic-flight-to-chinas-space-station",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T07:55:18+00:00",
+      "retrieved_at": "2026-11-24T08:06:35.147627+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The Pakistan Air Force pilot will spend about a week on board the Tiangong, conducting experiments with China’s crew.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c317dcb71863bac969cc20b5"
+    },
     {
       "title": "What China's Xi could take away from Jensen Huang's return to Nvidia",
       "url": "https://bbc.co.uk/news/articles/c63rgpy50x98o",
@@ -98,11 +114,11 @@
       "story_fingerprint": "87ed66838792572f59b7d310"
     },
     {
-      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
       "url": "https://bbc.co.uk/news/videos/ckedq2edqegzo",
       "source": "BBC World",
       "published": "2026-11-24T01:21:41+00:00",
-      "retrieved_at": "2026-11-24T02:50:18.465176+00:00",
+      "retrieved_at": "2026-11-24T08:06:35.298543+00:00",
       "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
       "category": "global",
@@ -111,7 +127,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "bd01b84261dbd89b3d7276c4"
+      "story_fingerprint": "283bb9d4c5361a5f309f8ca0"
     },
     {
       "title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "873dd679be0dc5fccc2e3bcb"
-    },
-    {
-      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-      "url": "https://bbc.co.uk/news/articles/cm879dqn3e1jo",
-      "source": "BBC World",
-      "published": "2026-11-19T13:07:35+00:00",
-      "retrieved_at": "2026-11-19T15:46:18.640632+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "72c2c3f3ea8afbd99bbbe4a2"
     }
   ],
   "unverified_history": [
