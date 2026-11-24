@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-24T22:23:41.385816+00:00",
+  "updated": "2026-11-24T22:28:47.130440+00:00",
   "items": [
+    {
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy",
+      "source": "TechCrunch AI",
+      "published": "2026-11-24T22:27:52+00:00",
+      "retrieved_at": "2026-11-24T22:28:41.843483+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Nvidia CEO Jensen Huang kicked off his return to the chipmaker he co-founded by holding an all-hands meetings that covered remorse, therapy, and even the company’s code of conduct, according to accounts from multiple insiders who spoke to the media. The topic of succession planning also came up — a particularly sticky issue seen as […]",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f2225a44e5c4fa31e9ccfb64"
+    },
     {
       "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
       "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "493909ebb2855e9aece39ea5"
-    },
-    {
-      "title": "Jensen Huang Is Gone. Now What?",
-      "url": "https://wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang",
-      "source": "Wired",
-      "published": "2026-11-16T16:12:51+00:00",
-      "retrieved_at": "2026-11-16T16:18:49.584630+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "After a shocking downfall, Nvidia’s CEO is out of a job. WIRED’s Lauren Goode explains what that means for the world’s most critical chip company, the AI industry, and Jensen Huang himself.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9091e386246bc84f55894266"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T22:23:33.653475+00:00",
+    "checked_at": "2026-11-24T22:28:41.262497+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
