@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T05:10:20.245799+00:00",
+  "updated": "2026-11-24T05:24:31.095748+00:00",
   "items": [
     {
       "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
@@ -368,6 +368,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "83d13977c98465d6b398cdd2"
+    },
+    {
+      "title": "The Never-Ending China-US Story",
+      "url": "https://thediplomat.com/2026/11/the-never-ending-china-us-story",
+      "source": "The Diplomat",
+      "published": "2026-11-23T19:20:00+00:00",
+      "retrieved_at": "2026-11-24T05:24:28.092174+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "From Trump to Biden and back again, Washington keeps talking about apparent turning points. Yet the main problems remain unresolved.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6f5c4f728494035b50a24df3"
     },
     {
       "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "37bcfbc57b9f8fdcd28c6f6b"
-    },
-    {
-      "title": "What is a ‘nuclear briefcase’, spotted at the APEC summit?",
-      "url": "https://aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T12:11:42+00:00",
-      "retrieved_at": "2026-11-19T12:34:58.084480+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Vladimir Putin's special briefcase - thought to carry access to nuclear weapons - made a rare appearance in Shenzhen.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d0f3ef235432e6aeb940c1c1"
     }
   ],
   "unverified_history": [
