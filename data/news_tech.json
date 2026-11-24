@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T22:58:42.418396+00:00",
+  "updated": "2026-11-24T23:03:43.175519+00:00",
   "items": [
     {
       "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
@@ -476,6 +476,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3c0048291b3e631831156ce8"
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "source": "OpenAI",
+      "published": "2026-11-24T00:00:00+00:00",
+      "retrieved_at": "2026-11-24T23:03:35.023757+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "1111b8ff58ac72400471ff13"
     },
     {
       "title": "How Intentful uses dots to make more time for growth",
@@ -2161,13 +2178,13 @@
       "story_fingerprint": "90baab2ebce2ae5227eae087"
     },
     {
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "title": "See PR scans in action",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
       "source": "OpenAI",
       "published": "2026-11-19T00:00:00+00:00",
-      "retrieved_at": "2026-11-19T23:31:36.186102+00:00",
+      "retrieved_at": "2026-11-19T23:31:36.186113+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -2175,7 +2192,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "268c6c3a657d9811b9036e66"
+      "story_fingerprint": "349e696538a9bd744e9bc9ea"
     },
     {
       "title": "Deploying Daybreak Red",
@@ -2195,13 +2212,13 @@
       "story_fingerprint": "3ddf2039d217ea0f2d9c9e85"
     },
     {
-      "title": "See PR scans in action",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
       "source": "OpenAI",
       "published": "2026-11-19T00:00:00+00:00",
-      "retrieved_at": "2026-11-19T23:31:36.186113+00:00",
+      "retrieved_at": "2026-11-19T23:31:36.186102+00:00",
       "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
@@ -2209,7 +2226,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
-      "story_fingerprint": "349e696538a9bd744e9bc9ea"
+      "story_fingerprint": "268c6c3a657d9811b9036e66"
     },
     {
       "title": "Get started with Daybreak Blue",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "724f96e760d78e7a462fe50e"
-    },
-    {
-      "title": "Instagram Is Bringing Amazon Affiliate Links Directly to Reels and Posts",
-      "url": "https://wired.com/story/instagram-is-bringing-amazon-affiliate-links-directly-to-reels-and-posts",
-      "source": "Wired",
-      "published": "2026-11-16T17:00:00+00:00",
-      "retrieved_at": "2026-11-16T17:03:51.331933+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "The Meta-owned social media platform now lets creators attach up to 30 affiliate links per Reel to make money from Amazon more easily.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "15d67327d285c6783f409306"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T22:58:36.648290+00:00",
+    "checked_at": "2026-11-24T23:03:33.716744+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
