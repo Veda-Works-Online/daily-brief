@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-24T17:28:00.439550+00:00",
+  "updated": "2026-11-24T17:33:05.850460+00:00",
   "items": [
+    {
+      "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+      "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank",
+      "source": "TechCrunch",
+      "published": "2026-11-24T17:29:09+00:00",
+      "retrieved_at": "2026-11-24T17:32:57.644837+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d1e9538c1223ad47a5e0290b"
+    },
     {
       "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
       "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
@@ -121,11 +138,11 @@
       "story_fingerprint": "760450805b69bdc6290275a2"
     },
     {
-      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
       "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
       "source": "TechCrunch AI",
       "published": "2026-11-24T15:51:07+00:00",
-      "retrieved_at": "2026-11-24T15:51:58.722927+00:00",
+      "retrieved_at": "2026-11-24T17:32:56.893211+00:00",
       "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
       "isAI": true,
@@ -135,7 +152,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "8fa70f6bcc5dcc259531ed4c"
+      "story_fingerprint": "c9479b0bafaa7ed4edbec382"
     },
     {
       "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "a9b17c4d83a05c9a33cef6ae"
-    },
-    {
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "source": "OpenAI",
-      "published": "2026-11-16T06:00:00+00:00",
-      "retrieved_at": "2026-11-16T14:58:51.187178+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "2d0f664aa79dd48f78342e56"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T17:27:54.156852+00:00",
+    "checked_at": "2026-11-24T17:32:56.559517+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
