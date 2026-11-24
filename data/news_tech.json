@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-24T16:32:00.892381+00:00",
+  "updated": "2026-11-24T16:36:57.954089+00:00",
   "items": [
+    {
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "source": "Hugging Face",
+      "published": "2026-11-24T16:34:13+00:00",
+      "retrieved_at": "2026-11-24T16:36:54.942210+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "867c4de3adb8f9b750e842d5"
+    },
     {
       "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
       "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5c6fe4461136c3a9eaa413b8"
-    },
-    {
-      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "url": "https://huggingface.co/blog/openrouter",
-      "source": "Hugging Face",
-      "published": "2026-11-16T00:00:00+00:00",
-      "retrieved_at": "2026-11-16T17:03:50.667630+00:00",
-      "feed_url": "https://huggingface.co/blog/feed.xml",
-      "summary": "",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://huggingface.co/blog/feed.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "9bd8c195751e9d4b9170c2db"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T16:31:55.335077+00:00",
+    "checked_at": "2026-11-24T16:36:54.295060+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
