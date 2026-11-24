@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-24T17:43:02.961811+00:00",
+  "updated": "2026-11-24T17:48:11.576871+00:00",
   "items": [
     {
-      "title": "Tidal will ban fully AI-generated music on December 9",
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
       "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9",
       "source": "Ars Technica AI",
       "published": "2026-11-24T17:34:34+00:00",
-      "retrieved_at": "2026-11-24T17:37:57.932514+00:00",
+      "retrieved_at": "2026-11-24T17:48:02.898987+00:00",
       "feed_url": "https://arstechnica.com/ai/feed/",
       "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
       "isAI": true,
@@ -16,7 +16,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "f4c2a6892911d5986ffcc63f"
+      "story_fingerprint": "f233b3addd9f66ebcb8cbee6"
     },
     {
       "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T17:42:57.465648+00:00",
+    "checked_at": "2026-11-24T17:48:02.097007+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
