@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-24T16:07:01.488230+00:00",
+  "updated": "2026-11-24T16:12:07.853416+00:00",
   "items": [
+    {
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers",
+      "source": "TechCrunch AI",
+      "published": "2026-11-24T16:10:00+00:00",
+      "retrieved_at": "2026-11-24T16:12:01.026136+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0aea23cbfec6b6f8c2cd0fbc"
+    },
     {
       "title": "Pinterest will now let parents limit the AI-generated content their teens see",
       "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "9bd8c195751e9d4b9170c2db"
-    },
-    {
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
-      "source": "OpenAI",
-      "published": "2026-11-16T00:00:00+00:00",
-      "retrieved_at": "2026-11-16T11:57:45.700121+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "079f962a9648cc40cd17d2e0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T16:06:54.266376+00:00",
+    "checked_at": "2026-11-24T16:12:00.602855+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
