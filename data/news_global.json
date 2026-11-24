@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-24T01:54:31.784410+00:00",
+  "updated": "2026-11-24T02:35:22.222914+00:00",
   "items": [
+    {
+      "title": "UN chief calls for world to agree on AI oversight within a year",
+      "url": "https://aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T02:27:19+00:00",
+      "retrieved_at": "2026-11-24T02:35:18.986453+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "11b4e5330227108619ed439e"
+    },
     {
       "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "49e06648540d60b653ac15d9"
-    },
-    {
-      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-      "url": "https://bbc.co.uk/news/articles/cw8r7510degno",
-      "source": "BBC World",
-      "published": "2026-11-19T11:07:37+00:00",
-      "retrieved_at": "2026-11-19T11:10:02.623013+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "10c190bf728e4f44ba46e830"
     }
   ],
   "unverified_history": [
