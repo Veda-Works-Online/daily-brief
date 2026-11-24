@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T15:37:07.324377+00:00",
+  "updated": "2026-11-24T15:47:10.772257+00:00",
   "items": [
     {
       "title": "Israeli air strike kills Hamas internal security chief in Gaza",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a4968d04695a382fb5406a5a"
+    },
+    {
+      "title": "China’s probes Shanghai party chief Chen Jining over corruption",
+      "url": "https://aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T15:26:50+00:00",
+      "retrieved_at": "2026-11-24T15:47:08.022439+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Chen is the fourth Politburo member to be probed since last year in a campaign that has targeted top Chinese leaders.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6f1b15248526600fc8b6b1ed"
     },
     {
       "title": "Land mine casualties soar in Syria, two years after war",
@@ -134,9 +150,9 @@
       "url": "https://aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza",
       "source": "Al Jazeera",
       "published": "2026-11-24T13:55:11+00:00",
-      "retrieved_at": "2026-11-24T15:12:05.244006+00:00",
+      "retrieved_at": "2026-11-24T15:47:08.022560+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Abu Nahl, 50, was killed in a crowded area leaving four others, including a Palestinian woman, wounded.",
+      "summary": "Naim Abu Nahl, 50, was killed in a crowded area while four others, including a Palestinian woman, were wounded.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f8617c81bd61adf3c501ed33"
-    },
-    {
-      "title": "Handshakes Without Headway",
-      "url": "https://warontherocks.com/handshakes-without-headway",
-      "source": "War on the Rocks",
-      "published": "2026-11-19T20:17:57+00:00",
-      "retrieved_at": "2026-11-19T20:21:15.376737+00:00",
-      "feed_url": "https://warontherocks.com/feed/",
-      "summary": "Welcome to The Adversarial. Every other week, we’ll provide you with expert analysis on America’s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***Iran Washington and Tehran are stuck in a loop, with no indication that they are engaged in talks — although Iran has continued meeting with mediators. Following a G7 meeting, Secretary of State Marco Rubio said…",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://warontherocks.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "eb89e8b7e83d08a1a1db35bd"
     }
   ],
   "unverified_history": [
