@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-24T01:34:50.667033+00:00",
+  "updated": "2026-11-24T01:39:51.632735+00:00",
   "items": [
+    {
+      "title": "Inside Nvidia, Not Everyone Is Celebrating Jensen Huang’s Return",
+      "url": "https://wired.com/story/inside-nvidia-not-everyone-is-celebrating-jensen-huangs-return",
+      "source": "Wired",
+      "published": "2026-11-24T01:35:38+00:00",
+      "retrieved_at": "2026-11-24T01:39:46.072829+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Some saw Huang’s resignation as an opportunity for culture change at the chip giant. “If Jensen comes back, I’m not doing any HR trainings ever again,” one employee said.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3c0048291b3e631831156ce8"
+    },
     {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1f395cd7b63108fda5c3b3f5"
-    },
-    {
-      "title": "Where was Nvidia’s security team?",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
-      "source": "TechCrunch AI",
-      "published": "2026-11-15T00:08:07+00:00",
-      "retrieved_at": "2026-11-15T00:12:25.093682+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6bf9796616bc38a4b08db2d0"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T01:34:44.491584+00:00",
+    "checked_at": "2026-11-24T01:39:44.504627+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
