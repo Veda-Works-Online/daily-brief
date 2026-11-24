@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-24T09:31:54.523204+00:00",
+  "updated": "2026-11-24T10:07:04.529785+00:00",
   "items": [
+    {
+      "title": "Russian attack kills two people in Ukraine’s Zaporizhzhia",
+      "url": "https://aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T09:51:26+00:00",
+      "retrieved_at": "2026-11-24T10:06:59.757245+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Attack on city in southeastern Ukraine destroyed a house and damaged a five-storey apartment building, officials said.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c9a4a61622b073a5a224aa5c"
+    },
     {
       "title": "What happens if a nuclear weapon explodes in space?",
       "url": "https://dw.com/en/what-happens-if-a-nuclear-weapon-explodes-in-space/a-80025827",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5aa46981b97f00e24df5312a"
-    },
-    {
-      "title": "Mosque set on fire in Israel, politicians blame Netanyahu’s ‘incitement’",
-      "url": "https://aljazeera.com/news/2026/11/19/mosque-set-on-fire-in-israel-politicians-blame-netanyahus-incitement",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T13:24:12+00:00",
-      "retrieved_at": "2026-11-19T13:40:11.062630+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Knesset MPs call the incident 'a hate crime' while Hamas blames Israeli 'settler gangs'.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ba4b3f59ac8fc2fff3872ae0"
     }
   ],
   "unverified_history": [
