@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-24T15:47:06.043495+00:00",
+  "updated": "2026-11-24T15:52:02.576676+00:00",
   "items": [
+    {
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
+      "source": "TechCrunch AI",
+      "published": "2026-11-24T15:51:07+00:00",
+      "retrieved_at": "2026-11-24T15:51:58.722927+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8fa70f6bcc5dcc259531ed4c"
+    },
     {
       "title": "How Trump and Silicon Valley forced Nvidia to take Jensen Huang back",
       "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "5b350102ec39c60b7f20e4d4"
-    },
-    {
-      "title": "Our new blog for science",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "source": "OpenAI",
-      "published": "2026-11-15T22:00:00+00:00",
-      "retrieved_at": "2026-11-15T22:30:52.306686+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "0879055f0cab773655ea4548"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T15:47:01.539388+00:00",
+    "checked_at": "2026-11-24T15:51:58.282570+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
