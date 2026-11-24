@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-24T22:38:43.373915+00:00",
+  "updated": "2026-11-24T22:43:47.102117+00:00",
   "items": [
+    {
+      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war",
+      "source": "Ars Technica",
+      "published": "2026-11-24T22:36:28+00:00",
+      "retrieved_at": "2026-11-24T22:43:39.043708+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a6ea7e83e2f8af89dda6d785"
+    },
     {
       "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
       "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "15d67327d285c6783f409306"
-    },
-    {
-      "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
-      "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts",
-      "source": "TechCrunch",
-      "published": "2026-11-16T17:00:00+00:00",
-      "retrieved_at": "2026-11-16T17:03:51.251778+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "493909ebb2855e9aece39ea5"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T22:38:36.559648+00:00",
+    "checked_at": "2026-11-24T22:43:37.447550+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
