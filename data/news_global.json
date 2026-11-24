@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-24T00:10:02.415592+00:00",
+  "updated": "2026-11-24T00:19:57.242684+00:00",
   "items": [
+    {
+      "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
+      "url": "https://aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T00:04:15+00:00",
+      "retrieved_at": "2026-11-24T00:19:52.390827+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The US president used his podium to attack the California governor for a decision to commute 548 death sentences.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "82b835209c32a1822386129e"
+    },
+    {
+      "title": "Borno school enrolment nearly doubles after years of conflict",
+      "url": "https://aljazeera.com/news/2026/11/24/borno-school-enrolment-nearly-doubles-after-years-of-conflict",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T00:02:16+00:00",
+      "retrieved_at": "2026-11-24T00:19:52.390851+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Despite rising enrolment, violence, displacement and poverty keep children out of school in northeastern state.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f26f46dccc574b9c1b9a9adc"
+    },
     {
       "title": "Iran war live: Iran says three ships catch fire after hitting Hormuz mines",
       "url": "https://aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "dd6ecfb718307b567681c5d2"
-    },
-    {
-      "title": "Trump calls for nuclear arms reduction at APEC summit",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T10:03:27+00:00",
-      "retrieved_at": "2026-11-19T10:19:03.423022+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump calls for nuclear arms reduction at APEC summit",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "436fc6c3aca8e8f5387ccfc1"
-    },
-    {
-      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-      "url": "https://bbc.co.uk/news/articles/c920xgxp5785o",
-      "source": "BBC World",
-      "published": "2026-11-19T09:21:54+00:00",
-      "retrieved_at": "2026-11-19T14:00:22.193318+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a93c8cfb875639425f2dd8c8"
     }
   ],
   "unverified_history": [
