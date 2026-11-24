@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T02:35:22.222914+00:00",
+  "updated": "2026-11-24T02:50:21.515601+00:00",
   "items": [
     {
       "title": "UN chief calls for world to agree on AI oversight within a year",
@@ -34,6 +34,22 @@
       "story_fingerprint": "87ed66838792572f59b7d310"
     },
     {
+      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "url": "https://bbc.co.uk/news/videos/ckedq2edqegzo",
+      "source": "BBC World",
+      "published": "2026-11-24T01:21:41+00:00",
+      "retrieved_at": "2026-11-24T02:50:18.465176+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bd01b84261dbd89b3d7276c4"
+    },
+    {
       "title": "Appeals court renews Trump bid for federal jurisdiction in hush-money case",
       "url": "https://aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case",
       "source": "Al Jazeera",
@@ -48,6 +64,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "632f12f9a323f0b4687f0450"
+    },
+    {
+      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+      "url": "https://bbc.co.uk/news/articles/cq5y1k8ez407o",
+      "source": "BBC World",
+      "published": "2026-11-24T01:11:54+00:00",
+      "retrieved_at": "2026-11-24T02:50:18.465060+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "48eb0db0448ebb63c9f8e8db"
     },
     {
       "title": "Trump calls to ‘expedite’ US federal executions, blasts Gavin Newsom",
@@ -194,6 +226,22 @@
       "story_fingerprint": "e91230f151255f08a52d6268"
     },
     {
+      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+      "url": "https://bbc.co.uk/news/articles/c6wy4ng1rznxo",
+      "source": "BBC World",
+      "published": "2026-11-23T21:03:34+00:00",
+      "retrieved_at": "2026-11-24T02:50:18.465131+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a6ac0699cff8b776c57bf4fd"
+    },
+    {
       "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
       "url": "https://bbc.co.uk/news/articles/cm894p88jzxpo",
       "source": "BBC World",
@@ -290,6 +338,22 @@
       "story_fingerprint": "83d13977c98465d6b398cdd2"
     },
     {
+      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
+      "url": "https://bbc.co.uk/news/videos/c51k9vp48d2vo",
+      "source": "BBC World",
+      "published": "2026-11-23T18:49:19+00:00",
+      "retrieved_at": "2026-11-24T02:50:18.465196+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e13597fb195735da7e112757"
+    },
+    {
       "title": "What Russian warship did Ukraine just sink?",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink",
       "source": "Al Jazeera",
@@ -352,22 +416,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8eda46f58814e5f9dadaabc8"
-    },
-    {
-      "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
-      "url": "https://bbc.co.uk/news/articles/cq5y1k8ez407o",
-      "source": "BBC World",
-      "published": "2026-11-23T16:49:51+00:00",
-      "retrieved_at": "2026-11-23T16:58:41.767365+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The US president personally intervened to speak to members of Nvidia's board of directors.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "2a49d34911b33f5539fb1f88"
     },
     {
       "title": "Why did COP31 climate talks collapse without a deal?",
@@ -3952,54 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "03f744641e77aa0b407aaa25"
-    },
-    {
-      "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
-      "url": "https://aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T11:38:39+00:00",
-      "retrieved_at": "2026-11-19T11:54:56.810364+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Trump threatens to 'wipe out' Iran in case of attack as Tehran's capabilities remain unclear.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a82c5b9007fc2fc9e193aa85"
-    },
-    {
-      "title": "Putin says US-China-Russia can strengthen global stability",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/19/putin-says-us-china-russia-can-strengthen-global-stability",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T11:22:43+00:00",
-      "retrieved_at": "2026-11-19T11:54:56.810394+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Putin says US-China-Russia can strengthen global stability",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ef122379f7c550c92ca2f819"
-    },
-    {
-      "title": "Denmark parliament approves security deal with Greenland and US",
-      "url": "https://aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T11:09:00+00:00",
-      "retrieved_at": "2026-11-19T11:24:56.090402+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "All 109 Danish lawmakers present approved the deal, easing tensions over Trump's desire to annex the Arctic island.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "49e06648540d60b653ac15d9"
     }
   ],
   "unverified_history": [
