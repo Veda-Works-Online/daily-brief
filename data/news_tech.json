@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-24T18:02:59.726553+00:00",
+  "updated": "2026-11-24T18:08:05.491710+00:00",
   "items": [
+    {
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
+      "source": "TechCrunch AI",
+      "published": "2026-11-24T18:02:59+00:00",
+      "retrieved_at": "2026-11-24T18:07:57.370008+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1e6b07b1460bd3a1ffacf920"
+    },
     {
       "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
       "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "40845eb8074ba8ca993cdb2c"
-    },
-    {
-      "title": "How Revolut raises ambition without lowering the bar",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "source": "OpenAI",
-      "published": "2026-11-16T09:30:00+00:00",
-      "retrieved_at": "2026-11-17T06:26:21.728703+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "6a9f772f8385255cbb51c7cf"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T18:02:54.370995+00:00",
+    "checked_at": "2026-11-24T18:07:57.083469+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
