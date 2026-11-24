@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T18:32:57.922287+00:00",
+  "updated": "2026-11-24T18:38:01.508148+00:00",
   "items": [
     {
       "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
@@ -306,6 +306,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "3c0048291b3e631831156ce8"
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/index/ifood",
+      "source": "OpenAI",
+      "published": "2026-11-24T00:00:00+00:00",
+      "retrieved_at": "2026-11-24T18:37:57.013897+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "0ddcf16ba0dc73d7e27175a5"
     },
     {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
@@ -1957,6 +1974,23 @@
       "story_fingerprint": "90baab2ebce2ae5227eae087"
     },
     {
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "source": "OpenAI",
+      "published": "2026-11-19T00:00:00+00:00",
+      "retrieved_at": "2026-11-20T00:21:29.499742+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "3ddf2039d217ea0f2d9c9e85"
+    },
+    {
       "title": "See PR scans in action",
       "url": "https://openai.com/business/learn/pr-scans-demo",
       "source": "OpenAI",
@@ -2006,23 +2040,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "268c6c3a657d9811b9036e66"
-    },
-    {
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "source": "OpenAI",
-      "published": "2026-11-19T00:00:00+00:00",
-      "retrieved_at": "2026-11-20T00:21:29.499742+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "3ddf2039d217ea0f2d9c9e85"
     },
     {
       "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
@@ -2654,23 +2671,6 @@
       "story_fingerprint": "440df2fa34cdf0742d3cb68a"
     },
     {
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "source": "OpenAI",
-      "published": "2026-11-18T08:00:00+00:00",
-      "retrieved_at": "2026-11-18T23:27:14.317169+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "1d7ad71c53b8eafb8d722814"
-    },
-    {
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "source": "OpenAI",
@@ -2686,6 +2686,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "1a8208d65f82614e2b9934b4"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI",
+      "published": "2026-11-18T08:00:00+00:00",
+      "retrieved_at": "2026-11-18T23:27:14.317169+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "1d7ad71c53b8eafb8d722814"
     },
     {
       "title": "Inside the Codex sandbox",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "6dde054c8ff32cf4d057ff0c"
-    },
-    {
-      "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
-      "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas",
-      "source": "TechCrunch",
-      "published": "2026-11-16T12:00:00+00:00",
-      "retrieved_at": "2026-11-16T12:07:49.437377+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "This is the first time Amazon-owned Zoox has partnered with a ride-hailing platform.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f3bfcc5968769ae1f6415465"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T18:32:52.417606+00:00",
+    "checked_at": "2026-11-24T18:37:56.068327+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
