@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T23:03:43.175519+00:00",
+  "updated": "2026-11-24T23:08:40.450765+00:00",
   "items": [
     {
       "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
@@ -478,23 +478,6 @@
       "story_fingerprint": "3c0048291b3e631831156ce8"
     },
     {
-      "title": "Clay helps sales teams win with Codex and ChatGPT",
-      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
-      "source": "OpenAI",
-      "published": "2026-11-24T00:00:00+00:00",
-      "retrieved_at": "2026-11-24T23:03:35.023757+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "1111b8ff58ac72400471ff13"
-    },
-    {
       "title": "How Intentful uses dots to make more time for growth",
       "url": "https://openai.com/business/customer-stories/intentful-dots",
       "source": "OpenAI",
@@ -527,6 +510,23 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "0ddcf16ba0dc73d7e27175a5"
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "source": "OpenAI",
+      "published": "2026-11-24T00:00:00+00:00",
+      "retrieved_at": "2026-11-24T23:03:35.023757+00:00",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://openai.com/news/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "1111b8ff58ac72400471ff13"
     },
     {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T23:03:33.716744+00:00",
+    "checked_at": "2026-11-24T23:08:32.518274+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
