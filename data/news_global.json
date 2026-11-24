@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T02:50:21.515601+00:00",
+  "updated": "2026-11-24T04:09:30.794397+00:00",
   "items": [
     {
       "title": "UN chief calls for world to agree on AI oversight within a year",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "11b4e5330227108619ed439e"
+    },
+    {
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "url": "https://bbc.co.uk/news/articles/c9x2er1ry2mzo",
+      "source": "BBC World",
+      "published": "2026-11-24T02:15:59+00:00",
+      "retrieved_at": "2026-11-24T04:09:27.652578+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "52806539bf9114151820341c"
     },
     {
       "title": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b087c362df5a9e8aecf718c1"
-    },
-    {
-      "title": "UN top court rules Myanmar committed genocide against its minority Muslim Rohingya population in 2017",
-      "url": "https://dw.com/en/un-top-court-rules-myanmar-committed-genocide-against-its-minority-muslim-rohingya-population-in-2017/a-79987898",
-      "source": "DW",
-      "published": "2026-11-19T11:39:00+00:00",
-      "retrieved_at": "2026-11-19T11:49:53.053425+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "The International Court of Justice has upheld large parts of a genocide case against Myanmar linked to the 2017 conflict with its Rohingya minority. It called for it to pay reparations and let refugees return safely.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "03f744641e77aa0b407aaa25"
     }
   ],
   "unverified_history": [
