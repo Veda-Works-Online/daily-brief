@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-24T11:01:53.357048+00:00",
+  "updated": "2026-11-24T11:06:29.052856+00:00",
   "items": [
+    {
+      "title": "Database Leaks Expose 3.5 Billion Usernames, Passwords, and Documents",
+      "url": "https://wired.com/story/3-billion-usernames-passwords-and-documents-leaked-online",
+      "source": "Wired",
+      "published": "2026-11-24T11:00:00+00:00",
+      "retrieved_at": "2026-11-24T11:06:24.432960+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "A pair of unsecured databases exposed sensitive information about hundreds of millions of people—including data that could let attackers “own” a victim’s digital life.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c940419ff2164f6b5d13a9eb"
+    },
     {
       "title": "Don’t Bring Up AI if You Want to Enjoy Your Thanksgiving",
       "url": "https://wired.com/story/dont-bring-up-ai-if-you-want-to-enjoy-your-thanksgiving",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8b6dcab051617059d3ec85df"
-    },
-    {
-      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
-      "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry",
-      "source": "TechCrunch",
-      "published": "2026-11-15T17:05:00+00:00",
-      "retrieved_at": "2026-11-15T17:09:51.039844+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "50bc5f8352c7ee99d8bf4116"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-24T11:01:47.317702+00:00",
+    "checked_at": "2026-11-24T11:06:22.979634+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
