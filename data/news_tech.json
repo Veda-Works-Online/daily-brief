@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-25T11:00:12.053195+00:00",
+  "updated": "2026-11-25T11:05:08.188087+00:00",
   "items": [
+    {
+      "title": "The ‘True Crime Community’ Is Inspiring Violent Attacks Through TikTok",
+      "url": "https://wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok",
+      "source": "Wired",
+      "published": "2026-11-25T11:00:00+00:00",
+      "retrieved_at": "2026-11-25T11:05:01.276096+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Attacks linked to a network of young people obsessed with mass shooters are greatly increasing, research shared with WIRED shows, as the nihilistic group uses TikTok and AI to spread its message.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3acd1b9ce63a5e839b774fc8"
+    },
     {
       "title": "An Indic Voice Agent with CUGA",
       "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "04d4b919b5b3adf6ed872391"
-    },
-    {
-      "title": "Broadening access to AI for scientists",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "source": "OpenAI",
-      "published": "2026-11-16T17:00:00+00:00",
-      "retrieved_at": "2026-11-16T17:23:45.009838+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "5a29c622e2a75b492b04133c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-25T11:00:02.652322+00:00",
+    "checked_at": "2026-11-25T11:05:00.496975+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [

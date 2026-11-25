@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-25T10:55:15.810201+00:00",
+  "updated": "2026-11-25T11:05:14.133563+00:00",
   "items": [
+    {
+      "title": "Who is Chen Jining, China’s latest Politburo member under investigation?",
+      "url": "https://aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T10:50:26+00:00",
+      "retrieved_at": "2026-11-25T11:05:10.543699+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Chen is the fourth high-ranking Politburo member to be pushed out in two years.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "754cbba2c93b2b67ba944488"
+    },
     {
       "title": "Fact check: Deepfakes and 'US abandons Taiwan' claims spread ahead of vote",
       "url": "https://dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0c4a8105d30be003f1ccad36"
-    },
-    {
-      "title": "Jerusalem Daily: Palestinians return home to ruins",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/20/jerusalem-daily-palestinians-return-home-to-ruins",
-      "source": "Al Jazeera",
-      "published": "2026-11-20T15:42:04+00:00",
-      "retrieved_at": "2026-11-20T15:59:12.738195+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Palestinians return to find their homes reduced to rubble after Israel’s ground offensive, as attacks on Gaza continue.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5704deb361aebd57a4cb9551"
     }
   ],
   "unverified_history": [
