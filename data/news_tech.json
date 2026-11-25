@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-25T19:52:14.421753+00:00",
+  "updated": "2026-11-25T19:57:16.440187+00:00",
   "items": [
+    {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
+      "source": "TechCrunch AI",
+      "published": "2026-11-25T19:54:57+00:00",
+      "retrieved_at": "2026-11-25T19:57:10.619795+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "268a5f19a09ca22d5d10fb0d"
+    },
     {
       "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
       "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "07dd8beb3791940f6919072e"
-    },
-    {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "source": "OpenAI",
-      "published": "2026-11-17T00:00:00+00:00",
-      "retrieved_at": "2026-11-17T07:25:26.949468+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "816217c29e22182613da1e44"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-25T19:52:08.167979+00:00",
+    "checked_at": "2026-11-25T19:57:10.081544+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
