@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-25T04:19:35.940466+00:00",
+  "updated": "2026-11-25T04:44:16.285735+00:00",
   "items": [
+    {
+      "title": "Israeli strike kills four people in Gaza",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T04:13:58+00:00",
+      "retrieved_at": "2026-11-25T04:44:11.821758+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "An Israeli airstrike on an apartment building in the Shati refugee camp has killed at least four people.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0545f6b8a72cb0d2de68252c"
+    },
+    {
+      "title": "Galatasaray says Israel complained to UEFA over Palestine banners",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T04:12:11+00:00",
+      "retrieved_at": "2026-11-25T04:44:11.821773+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Galatasaray’s chairman says Israel’s Netanyahu government has reported the club to UEFA over pro-Palestine fan banners.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "032c16ffba9eeae13e31eb79"
+    },
     {
       "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
       "url": "https://bbc.co.uk/news/articles/c6808pyy5dl9o",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "56312adebe502e084aba638c"
-    },
-    {
-      "title": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
-      "url": "https://aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-11-20T12:20:29+00:00",
-      "retrieved_at": "2026-11-20T12:24:13.454483+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The case sets a precedent for establishing a state's intent to commit genocide beyond explicitly written orders.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "20ab612c82c4b5f8739158ba"
-    },
-    {
-      "title": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
-      "url": "https://aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade",
-      "source": "Al Jazeera",
-      "published": "2026-11-20T12:19:24+00:00",
-      "retrieved_at": "2026-11-20T12:24:13.454528+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "CENTCOM declares vessels bypassing the Iran blockade could be stopped, boarded or even seized by US forces.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7ccb660a0c192aadf9864c22"
     }
   ],
   "unverified_history": [
