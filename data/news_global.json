@@ -1,14 +1,30 @@
 {
-  "updated": "2026-11-25T12:20:14.129540+00:00",
+  "updated": "2026-11-25T12:25:06.898701+00:00",
   "items": [
+    {
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "url": "https://bbc.co.uk/news/articles/cmx27g533zwyo",
+      "source": "BBC World",
+      "published": "2026-11-25T12:21:49+00:00",
+      "retrieved_at": "2026-11-25T12:25:03.220323+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2b735c7dd920ff3da79c8cf4"
+    },
     {
       "title": "Overnight RSF drone attacks kill 19 in Sudan",
       "url": "https://aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan",
       "source": "Al Jazeera",
       "published": "2026-11-25T11:58:15+00:00",
-      "retrieved_at": "2026-11-25T12:20:10.431769+00:00",
+      "retrieved_at": "2026-11-25T12:25:03.165132+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The attacks on Blue Nile State also injured at least 20 people – in a drone war that is quickly escalating.",
+      "summary": "The attacks also injured at least 20 people – the latest casualties in a drone war that is quickly escalating.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -400,22 +416,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fc161a24b3cbc8b96d34113f"
-    },
-    {
-      "title": "Russia's own figures show it has lost almost 500,000 people in Ukraine war",
-      "url": "https://bbc.co.uk/news/articles/cmx27g533zwyo",
-      "source": "BBC World",
-      "published": "2026-11-25T00:56:51+00:00",
-      "retrieved_at": "2026-11-25T09:05:01.801560+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d67ba8f59c1eec499f329593"
     },
     {
       "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
