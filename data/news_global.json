@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-25T11:05:14.133563+00:00",
+  "updated": "2026-11-25T11:30:17.210095+00:00",
   "items": [
+    {
+      "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+      "url": "https://bbc.co.uk/news/articles/c6808pyy5dl9o",
+      "source": "BBC World",
+      "published": "2026-11-25T11:29:40+00:00",
+      "retrieved_at": "2026-11-25T11:30:13.560251+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d586148c161bb5ce92213b51"
+    },
     {
       "title": "Who is Chen Jining, China’s latest Politburo member under investigation?",
       "url": "https://aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation",
@@ -176,22 +192,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a5f96be1d2d1fd0dbb6eca8a"
-    },
-    {
-      "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
-      "url": "https://bbc.co.uk/news/articles/c6808pyy5dl9o",
-      "source": "BBC World",
-      "published": "2026-11-25T06:36:00+00:00",
-      "retrieved_at": "2026-11-25T06:39:10.369508+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "61c92e7ff3617975285e1969"
     },
     {
       "title": "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
