@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-25T17:31:25.261361+00:00",
+  "updated": "2026-11-25T17:36:11.359685+00:00",
   "items": [
+    {
+      "title": "State AGs fight Character.AI’s plan to auction off users’ private chats",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+      "source": "TechCrunch AI",
+      "published": "2026-11-25T17:35:58+00:00",
+      "retrieved_at": "2026-11-25T17:36:07.951681+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2e164dd0c7ea6b1459d96bca"
+    },
     {
       "title": "Etsy clarifies AI terms after seller backlash",
       "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9f0aed4cb44545f39be0882b"
-    },
-    {
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T22:03:02+00:00",
-      "retrieved_at": "2026-11-16T23:55:10.647248+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c2d720cfa2ebfc4c2ec42e6f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-25T17:31:21.739852+00:00",
+    "checked_at": "2026-11-25T17:36:07.007782+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
