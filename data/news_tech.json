@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T17:06:18.135957+00:00",
+  "updated": "2026-11-25T17:11:12.183387+00:00",
   "items": [
     {
       "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
@@ -221,6 +221,23 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "af4f461d33329b07d09a5044"
+    },
+    {
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "source": "Hugging Face",
+      "published": "2026-11-25T00:00:00+00:00",
+      "retrieved_at": "2026-11-25T17:11:09.371331+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "33d1507af42e2fa76a7f637f"
     },
     {
       "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
@@ -578,6 +595,23 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cb624e6c8c5b21c08d043695"
+    },
+    {
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+      "source": "Google DeepMind",
+      "published": "2026-11-24T13:07:53+00:00",
+      "retrieved_at": "2026-11-25T17:11:09.180039+00:00",
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "summary": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://deepmind.google/blog/rss.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "59edebcebb632a19abb37645"
     },
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -4216,40 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f50dc025f5c994682b1b2473"
-    },
-    {
-      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks",
-      "source": "TechCrunch",
-      "published": "2026-11-16T21:01:02+00:00",
-      "retrieved_at": "2026-11-16T21:04:20.232930+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c44f05c814aca4a199c6b647"
-    },
-    {
-      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day",
-      "source": "Ars Technica",
-      "published": "2026-11-16T20:37:47+00:00",
-      "retrieved_at": "2026-11-16T22:05:11.081230+00:00",
-      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8771fa97e644f02c7aafee18"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-25T17:06:12.626283+00:00",
+    "checked_at": "2026-11-25T17:11:08.761480+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
