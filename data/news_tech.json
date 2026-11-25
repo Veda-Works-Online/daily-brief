@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-25T20:52:19.170411+00:00",
+  "updated": "2026-11-25T20:57:20.359968+00:00",
   "items": [
+    {
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space",
+      "source": "TechCrunch",
+      "published": "2026-11-25T20:56:44+00:00",
+      "retrieved_at": "2026-11-25T20:57:17.344359+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3b5ef462d572726066317a82"
+    },
     {
       "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
       "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "98d1c5669c3671d9581ee8c3"
-    },
-    {
-      "title": "Are Smart Car Seats Worth It? I Tested Two to Find Out (2026)",
-      "url": "https://wired.com/story/do-you-need-a-smart-car-seat",
-      "source": "Wired",
-      "published": "2026-11-17T10:06:00+00:00",
-      "retrieved_at": "2026-11-17T10:12:51.755033+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "I tested the Babyark Classic and Cybex Cloud G Pro with my two kids. Here’s what the extra tech did for me and what I’d prioritize when buying a car seat.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a762b05d66493ce227ca5945"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-25T20:52:15.107074+00:00",
+    "checked_at": "2026-11-25T20:57:16.263696+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
