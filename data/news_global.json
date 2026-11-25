@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T13:21:11.138347+00:00",
+  "updated": "2026-11-25T13:31:11.185434+00:00",
   "items": [
     {
       "title": "US announces new tariffs on host of countries including China",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "92d1c2fc59ba2993f991513f"
+    },
+    {
+      "title": "Why Indians are still ending up in Russia's war",
+      "url": "https://dw.com/en/why-indians-are-still-ending-up-in-russia-s-war/a-80048537",
+      "source": "DW",
+      "published": "2026-11-25T13:17:00+00:00",
+      "retrieved_at": "2026-11-25T13:31:08.658984+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Whether through deception or desperation, Indians continue to be drawn into Russia's war in Ukraine. What can New Delhi do to protect its citizens from ending up fighting in Ukraine?",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2604f6551f1d1f082af7a8b7"
     },
     {
       "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fa639b00427b53d1e967bbed"
-    },
-    {
-      "title": "Swimming lessons offer Gaza’s children a moment of relief",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126",
-      "source": "Al Jazeera",
-      "published": "2026-11-20T18:43:37+00:00",
-      "retrieved_at": "2026-11-20T19:05:13.575567+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Palestinian children gathered along Gaza’s coast for swimming lessons, finding relief from the psychological toll of war",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ae965463d533503b1f3e210d"
     }
   ],
   "unverified_history": [
