@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-25T19:42:15.105355+00:00",
+  "updated": "2026-11-25T19:47:11.715765+00:00",
   "items": [
+    {
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+      "source": "TechCrunch AI",
+      "published": "2026-11-25T19:44:24+00:00",
+      "retrieved_at": "2026-11-25T19:47:04.486221+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1a84d2e674d437fa09a6d33e"
+    },
     {
       "title": "Where scientists draw the line on AI agents",
       "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "816217c29e22182613da1e44"
-    },
-    {
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "source": "OpenAI",
-      "published": "2026-11-17T00:00:00+00:00",
-      "retrieved_at": "2026-11-17T13:58:09.225426+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "027c6b77f0b15e3fdaf37c71"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-25T19:42:11.036737+00:00",
+    "checked_at": "2026-11-25T19:47:03.991496+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
