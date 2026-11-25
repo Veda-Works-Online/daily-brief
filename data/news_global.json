@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T19:22:23.192430+00:00",
+  "updated": "2026-11-25T19:27:30.448811+00:00",
   "items": [
     {
       "title": "North Korea expels Swiss diplomat in sanctions row",
@@ -16,6 +16,38 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "eea6727d77d3d3bcb4675f1a"
+    },
+    {
+      "title": "Ukrainian laser downs Russian jet-powered drone in world first",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T19:16:15+00:00",
+      "retrieved_at": "2026-11-25T19:27:26.605732+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Ukraine says that its Blysk laser system has intercepted a Russian jet-powered drone in combat for the first time",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "267a000879f29892c9b5469e"
+    },
+    {
+      "title": "World reacts to Trump’s new tariffs as US stocks tumble",
+      "url": "https://aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T18:59:26+00:00",
+      "retrieved_at": "2026-11-25T19:27:26.605794+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The new levies come after an eight-month investigation launched by the United States Trade Representative.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d66c40b0dcfd19992d3b78b8"
     },
     {
       "title": "Peter Magyar meets Volodymyr Zelenskyy: Hungary and Ukraine make a fresh start after the icy relations of the Viktor Orban era",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "9ace51965612e65e614a7d4d"
-    },
-    {
-      "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war",
-      "source": "Al Jazeera",
-      "published": "2026-11-20T23:20:50+00:00",
-      "retrieved_at": "2026-11-20T23:35:19.965828+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e14c923db9788adc0aa1694c"
-    },
-    {
-      "title": "US declassifies more UFO footage filmed in the Middle East",
-      "url": "https://bbc.co.uk/news/videos/cqdr1x8mypnko",
-      "source": "BBC World",
-      "published": "2026-11-20T23:15:20+00:00",
-      "retrieved_at": "2026-11-20T23:25:14.940050+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7d150107c1a16fb09056b943"
     }
   ],
   "unverified_history": [
