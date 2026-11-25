@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-25T17:11:12.183387+00:00",
+  "updated": "2026-11-25T17:16:07.657609+00:00",
   "items": [
+    {
+      "title": "Etsy clarifies AI terms after seller backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash",
+      "source": "Ars Technica",
+      "published": "2026-11-25T17:12:57+00:00",
+      "retrieved_at": "2026-11-25T17:16:04.551064+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0266320544757bff051f9fc2"
+    },
     {
       "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
       "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop",
@@ -106,17 +123,17 @@
     {
       "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
       "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
-      "source": "TechCrunch",
+      "source": "TechCrunch AI",
       "published": "2026-11-25T13:00:00+00:00",
-      "retrieved_at": "2026-11-25T13:01:01.290038+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
+      "retrieved_at": "2026-11-25T17:16:03.644454+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
       "isAI": true,
       "category": "tech",
       "relevance": "AI",
       "verification_status": "SOURCE_CONFIRMED",
       "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a594739bceafca04896f1375"
     },
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c2d720cfa2ebfc4c2ec42e6f"
-    },
-    {
-      "title": "The Bank Outage May Have Nothing to Do With Your Bank",
-      "url": "https://wired.com/story/jpmorganchase-bank-outage-oh-come-on",
-      "source": "Wired",
-      "published": "2026-11-16T21:45:45+00:00",
-      "retrieved_at": "2026-11-16T22:25:14.691741+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Amid hundreds of reports of US banks experiencing outages, JPMorganChase says a technical “issue” with its “on-premise hardware systems” may be causing “slowness” with transactions at outside banks.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f50dc025f5c994682b1b2473"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-25T17:11:08.761480+00:00",
+    "checked_at": "2026-11-25T17:16:03.112636+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
