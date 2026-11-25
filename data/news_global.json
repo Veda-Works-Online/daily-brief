@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-25T19:27:30.448811+00:00",
+  "updated": "2026-11-25T20:27:20.805504+00:00",
   "items": [
+    {
+      "title": "Migrant wrongly deported by Trump leaves US for Spain",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/25/migrant-wrongly-deported-by-trump-leaves-us-for-spain",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T20:14:28+00:00",
+      "retrieved_at": "2026-11-25T20:27:17.281458+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Kilmar Abrego Garcia has arrived in Spain with his wife after a 20-month legal battle with the Trump administration.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b362926a2d60f0709af7e486"
+    },
     {
       "title": "North Korea expels Swiss diplomat in sanctions row",
       "url": "https://bbc.co.uk/news/articles/cq0l34e4kkr5o",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "71c03a0d36c14bdb399222df"
-    },
-    {
-      "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-      "url": "https://aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T00:00:06+00:00",
-      "retrieved_at": "2026-11-21T04:56:27.931327+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Saudi-led coalition says it intercepted three missiles, as IRGC claims it downed US MQ-9 drone over Strait of Hormuz.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "9ace51965612e65e614a7d4d"
     }
   ],
   "unverified_history": [
