@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-25T04:14:18.087144+00:00",
+  "updated": "2026-11-25T04:19:35.940466+00:00",
   "items": [
+    {
+      "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
+      "url": "https://bbc.co.uk/news/articles/c6808pyy5dl9o",
+      "source": "BBC World",
+      "published": "2026-11-25T03:54:43+00:00",
+      "retrieved_at": "2026-11-25T04:19:31.529032+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "His deportation to El Salvador and return to the US became a flash point in the debate over President Donald Trump's immigration agenda.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e2071668df960a264563427a"
+    },
     {
       "title": "Asia’s stock markets dive as doubts swirl over AI boom",
       "url": "https://aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom",
@@ -128,6 +144,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "65b17fca5529310765756978"
+    },
+    {
+      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "url": "https://bbc.co.uk/news/articles/cv702rw7dzx5o",
+      "source": "BBC World",
+      "published": "2026-11-24T23:05:11+00:00",
+      "retrieved_at": "2026-11-25T04:19:31.529127+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "697b230e799fcda135cd8436"
     },
     {
       "title": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7ccb660a0c192aadf9864c22"
-    },
-    {
-      "title": "EU and UK hold a rare summit in bid to 'rebuild ties'",
-      "url": "https://dw.com/en/eu-and-uk-hold-a-rare-summit-in-bid-to-rebuild-ties/a-80001076",
-      "source": "DW",
-      "published": "2026-11-20T11:30:00+00:00",
-      "retrieved_at": "2026-11-20T11:38:18.015696+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "European Union officials and UK Prime Minister Andy Burnham met in Brussels to discuss efforts to rebuild ties following Brexit.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f83676ea9f9bff9fa8589acb"
-    },
-    {
-      "title": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold",
-      "source": "Al Jazeera",
-      "published": "2026-11-20T11:10:06+00:00",
-      "retrieved_at": "2026-11-20T11:18:26.198462+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "32ef384dc034b977c115892a"
     }
   ],
   "unverified_history": [
