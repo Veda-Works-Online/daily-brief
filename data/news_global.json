@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-25T10:35:08.933095+00:00",
+  "updated": "2026-11-25T10:50:08.104403+00:00",
   "items": [
+    {
+      "title": "Fact check: Deepfakes and 'US abandons Taiwan' claims spread ahead of vote",
+      "url": "https://dw.com/en/fact-check-deepfakes-and-us-abandons-taiwan-claims-spread-ahead-of-vote/a-80004834",
+      "source": "DW",
+      "published": "2026-11-25T10:35:00+00:00",
+      "retrieved_at": "2026-11-25T10:50:04.728549+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "Ahead of local elections, AI-generated falsehoods targeting Democratic Progressive Party mayoral candidate Puma Shen have surged in Taiwan, alongside disinformation claiming the US is pulling back support for the island.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "40a5c1621f0a81f0fefa3aa8"
+    },
     {
       "title": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
       "url": "https://aljazeera.com/features/2026/11/25/iran-rations-electricity-how-deeply-are-us-sanctions-blockade-biting",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b9d60b70390a6f974497e269"
-    },
-    {
-      "title": "Poland condemns Russian ‘provocation’ after airspace violations",
-      "url": "https://aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations",
-      "source": "Al Jazeera",
-      "published": "2026-11-20T15:18:26+00:00",
-      "retrieved_at": "2026-11-20T15:29:32.061018+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The incidents came as European troops were taking part in a Ukraine post-war military exercise.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0ecfebf8e8c81f17833adb85"
     }
   ],
   "unverified_history": [
