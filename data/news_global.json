@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T05:09:19.919065+00:00",
+  "updated": "2026-11-25T05:24:24.007912+00:00",
   "items": [
     {
       "title": "The Gambia election: Can the next president deliver on a decade of promise",
@@ -240,6 +240,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8bcba2b002abf5e154c4909f"
+    },
+    {
+      "title": "Why Nvidia Couldn’t Quit Jensen Huang",
+      "url": "https://thediplomat.com/2026/11/why-nvidia-couldnt-quit-jensen-huang",
+      "source": "The Diplomat",
+      "published": "2026-11-24T21:11:00+00:00",
+      "retrieved_at": "2026-11-25T05:24:19.482450+00:00",
+      "feed_url": "https://thediplomat.com/feed/",
+      "summary": "In China, the coordination and planning needed to develop AI is led by the government. In the U.S., it has been driven largely by one entrepreneur: Huang.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://thediplomat.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b8dceadc43dd0c5999f2c3f8"
     },
     {
       "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2dde8f4caf09db72f28f14ac"
-    },
-    {
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "url": "https://bbc.co.uk/news/articles/cqx2x9dklxnro",
-      "source": "BBC World",
-      "published": "2026-11-20T12:56:48+00:00",
-      "retrieved_at": "2026-11-20T12:59:07.822967+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "21c71dfa6f301d61da50a3a0"
     }
   ],
   "unverified_history": [
