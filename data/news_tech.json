@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-25T18:07:16.253952+00:00",
+  "updated": "2026-11-25T18:12:15.320672+00:00",
   "items": [
+    {
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York.",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
+      "source": "TechCrunch AI",
+      "published": "2026-11-25T18:11:46+00:00",
+      "retrieved_at": "2026-11-25T18:12:11.724898+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "93b3479216708257a982099f"
+    },
     {
       "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
       "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://openai.com/news/rss.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "d2e36fdc59b1cc094e128abb"
-    },
-    {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T23:32:32+00:00",
-      "retrieved_at": "2026-11-17T00:15:10.679125+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "cc8900f6b62530e26f0cc45c"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-25T18:07:11.049746+00:00",
+    "checked_at": "2026-11-25T18:12:11.223619+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
