@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-25T20:02:21.235699+00:00",
+  "updated": "2026-11-25T20:07:11.272856+00:00",
   "items": [
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
+      "source": "TechCrunch AI",
+      "published": "2026-11-25T20:03:27+00:00",
+      "retrieved_at": "2026-11-25T20:07:04.542140+00:00",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "7d756a52fd54112700b5cd86"
+    },
     {
       "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
       "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a762b05d66493ce227ca5945"
-    },
-    {
-      "title": "Introducing ChatGPT for Sales",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "source": "OpenAI",
-      "published": "2026-11-17T08:00:00+00:00",
-      "retrieved_at": "2026-11-17T22:48:27.415169+00:00",
-      "feed_url": "https://openai.com/news/rss.xml",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://openai.com/news/rss.xml",
-      "source_type": "PRIMARY",
-      "story_fingerprint": "07dd8beb3791940f6919072e"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-25T20:02:15.027187+00:00",
+    "checked_at": "2026-11-25T20:07:04.015900+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
