@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T13:46:29.689161+00:00",
+  "updated": "2026-11-25T14:01:40.792734+00:00",
   "items": [
     {
       "title": "US court convicts Huawei of theft: A history of Chinese firm’s global woes",
@@ -82,6 +82,22 @@
       "story_fingerprint": "cdfd62088736ee98b380530d"
     },
     {
+      "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+      "url": "https://bbc.co.uk/news/articles/c6808pyy5dl9o",
+      "source": "BBC World",
+      "published": "2026-11-25T12:42:11+00:00",
+      "retrieved_at": "2026-11-25T14:01:37.531191+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "His deportation to and return from El Salvador became a flashpoint in the debate the US president's immigration agenda.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d586148c161bb5ce92213b51"
+    },
+    {
       "title": "Bangladesh garment workers protest over new wages",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages",
       "source": "Al Jazeera",
@@ -160,22 +176,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c9a076fbd88b4faa17083c27"
-    },
-    {
-      "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
-      "url": "https://bbc.co.uk/news/articles/c6808pyy5dl9o",
-      "source": "BBC World",
-      "published": "2026-11-25T11:29:40+00:00",
-      "retrieved_at": "2026-11-25T11:30:13.560251+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d586148c161bb5ce92213b51"
     },
     {
       "title": "Israeli strike kills Hamas official, his wife and children",
