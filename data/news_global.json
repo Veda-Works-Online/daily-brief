@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T11:30:17.210095+00:00",
+  "updated": "2026-11-25T11:35:07.983131+00:00",
   "items": [
     {
       "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d586148c161bb5ce92213b51"
+    },
+    {
+      "title": "Israeli strike kills Hamas official, his wife and children",
+      "url": "https://aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T11:24:37+00:00",
+      "retrieved_at": "2026-11-25T11:35:04.193389+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The air strike hit their Gaza apartment amid escalating Israeli attacks, the Interior Ministry says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "93159f043b9327654e96ff15"
     },
     {
       "title": "Who is Chen Jining, China’s latest Politburo member under investigation?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "37ceb6d5a0c4d1a474418ea3"
-    },
-    {
-      "title": "Demography Is the Achilles’ Heel of Dictatorships – Including China",
-      "url": "https://thediplomat.com/2026/11/demography-is-the-achilles-heel-of-dictatorships-including-china",
-      "source": "The Diplomat",
-      "published": "2026-11-20T15:53:00+00:00",
-      "retrieved_at": "2026-11-20T21:24:58.756369+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "The longer the Chinese government relied on bogus population figures, the more difficult it became to admit that it had been manipulating them.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0c4a8105d30be003f1ccad36"
     }
   ],
   "unverified_history": [

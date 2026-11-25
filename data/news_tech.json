@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-25T11:30:09.833628+00:00",
+  "updated": "2026-11-25T11:35:01.899176+00:00",
   "items": [
+    {
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "url": "https://wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid",
+      "source": "Wired",
+      "published": "2026-11-25T11:30:00+00:00",
+      "retrieved_at": "2026-11-25T11:34:58.904018+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b78f29d1f769f67e4ff2bc9b"
+    },
     {
       "title": "The ‘True Crime Community’ Is Inspiring Violent Attacks Through TikTok",
       "url": "https://wired.com/story/the-true-crime-community-is-inspiring-violent-attacks-through-tiktok",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8017cd34f312d6e010821ec5"
-    },
-    {
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T17:02:43+00:00",
-      "retrieved_at": "2026-11-16T18:33:52.633621+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "04d4b919b5b3adf6ed872391"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-25T11:30:00.987453+00:00",
+    "checked_at": "2026-11-25T11:34:58.135201+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
