@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T17:16:13.125983+00:00",
+  "updated": "2026-11-25T17:26:26.971043+00:00",
   "items": [
     {
       "title": "Djibouti: The Man Who Dared",
@@ -128,6 +128,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "d301f1503446429142dd8f74"
+    },
+    {
+      "title": "Israeli strike kills senior Hamas security official and family in Gaza City",
+      "url": "https://bbc.co.uk/news/articles/cmd718zydz9qo",
+      "source": "BBC World",
+      "published": "2026-11-25T14:06:13+00:00",
+      "retrieved_at": "2026-11-25T17:26:23.678312+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c6ad4a6434cc7806f69b2346"
     },
     {
       "title": "US court convicts Huawei of theft: A history of Chinese firm’s global woes",
@@ -384,6 +400,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "db4f025431a3b17c88473740"
+    },
+    {
+      "title": "Protesters call on Israel to free Palestinian student held without charge",
+      "url": "https://bbc.co.uk/news/articles/cw62p8z9edjlo",
+      "source": "BBC World",
+      "published": "2026-11-25T10:03:42+00:00",
+      "retrieved_at": "2026-11-25T17:26:23.678329+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "1392c9d2483d678c9c92f198"
     },
     {
       "title": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "7d6d03a91c7874ed9d4689b7"
-    },
-    {
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "url": "https://bbc.co.uk/news/articles/cmde1lj4yjxno",
-      "source": "BBC World",
-      "published": "2026-11-20T21:57:07+00:00",
-      "retrieved_at": "2026-11-20T22:10:21.272908+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0c944512174a92fe8c536f81"
-    },
-    {
-      "title": "Trump threatens tax on US tech firms building AI data centres abroad",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126",
-      "source": "Al Jazeera",
-      "published": "2026-11-20T21:10:53+00:00",
-      "retrieved_at": "2026-11-20T21:35:01.612185+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "931e0f504c69f536b47d2d3f"
     }
   ],
   "unverified_history": [
