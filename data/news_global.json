@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-25T13:16:08.020403+00:00",
+  "updated": "2026-11-25T13:21:11.138347+00:00",
   "items": [
+    {
+      "title": "US announces new tariffs on host of countries including China",
+      "url": "https://bbc.co.uk/news/articles/c893r9ke5p97o",
+      "source": "BBC World",
+      "published": "2026-11-25T13:19:41+00:00",
+      "retrieved_at": "2026-11-25T13:21:08.134897+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "92d1c2fc59ba2993f991513f"
+    },
     {
       "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
       "url": "https://aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia",
@@ -496,22 +512,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2007b9b0cb7a9e31ee4381a8"
-    },
-    {
-      "title": "US preparing to unveil plan for new tariffs on global trading partners",
-      "url": "https://bbc.co.uk/news/articles/c893r9ke5p97o",
-      "source": "BBC World",
-      "published": "2026-11-25T00:38:01+00:00",
-      "retrieved_at": "2026-11-25T10:35:05.126837+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e08cbda36d787c4cdcde1a52"
     },
     {
       "title": "Alaska ends deal to give voter records to US Justice Department",
