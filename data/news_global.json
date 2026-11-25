@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-25T16:06:19.510943+00:00",
+  "updated": "2026-11-25T16:16:28.337850+00:00",
   "items": [
+    {
+      "title": "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T16:02:22+00:00",
+      "retrieved_at": "2026-11-25T16:16:25.305159+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israel assassinated Hamas’s internal security chief in Gaza City, killing him and six others in a strike",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d3889ff018dbcfdd1cf69e5a"
+    },
     {
       "title": "Nigeria's upcoming election marred by rising AI disinformation",
       "url": "https://dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f0ab5b47c0a879a8f7bd9fed"
-    },
-    {
-      "title": "Repression against Iranian lawyers increases",
-      "url": "https://dw.com/en/repression-against-iranian-lawyers-increases/a-80006742",
-      "source": "DW",
-      "published": "2026-11-20T20:36:00+00:00",
-      "retrieved_at": "2026-11-20T20:50:10.213837+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "At least 135 lawyers in Iran have been subjected to repressive measures over the past year. UN experts warn that this seriously jeopardizes the right of those accused to trial in a constitutional court.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "932907dc139ed21682395221"
     }
   ],
   "unverified_history": [
