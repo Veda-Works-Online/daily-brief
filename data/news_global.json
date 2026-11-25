@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-25T12:40:09.910499+00:00",
+  "updated": "2026-11-25T12:45:08.650296+00:00",
   "items": [
+    {
+      "title": "Bangladesh garment workers protest over new wages",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T12:23:41+00:00",
+      "retrieved_at": "2026-11-25T12:45:04.935810+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Bangladesh has raised the minimum monthly wage for garment workers by 36% to 17,000 taka, about $138.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bf9d64f3aed4b712757b82f9"
+    },
     {
       "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
       "url": "https://bbc.co.uk/news/articles/cmx27g533zwyo",
@@ -18,13 +34,29 @@
       "story_fingerprint": "2b735c7dd920ff3da79c8cf4"
     },
     {
+      "title": "Russian strikes on Ukraine cause power outages in five regions",
+      "url": "https://aljazeera.com/news/2026/11/25/russian-strikes-on-ukraine-cause-power-outages-in-five-regions",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T12:19:17+00:00",
+      "retrieved_at": "2026-11-25T12:45:04.935820+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "A Ukrainian official says attacks on Zaporizhia and Dnipropetrovsk regions damaged a number of energy sites.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6eea7e8e4cd51864084fdb6c"
+    },
+    {
       "title": "Overnight RSF drone attacks kill 19 in Sudan",
       "url": "https://aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan",
       "source": "Al Jazeera",
       "published": "2026-11-25T11:58:15+00:00",
-      "retrieved_at": "2026-11-25T12:40:06.289950+00:00",
+      "retrieved_at": "2026-11-25T12:45:04.935830+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The attacks also injured at least 20 people – the latest casualties in a drone war that is quickly escalating.",
+      "summary": "The attacks on Blue Nile state also wounded at least 20 people – in a drone war that is quickly escalating.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "a424dfd932ade474b29e1f28"
-    },
-    {
-      "title": "What Ukraine Hath Wrought: Lessons for War, If We’re Listening",
-      "url": "https://warontherocks.com/what-ukraine-hath-wrought-lessons-for-war-if-were-listening",
-      "source": "War on the Rocks",
-      "published": "2026-11-20T17:18:04+00:00",
-      "retrieved_at": "2026-11-20T17:20:09.318867+00:00",
-      "feed_url": "https://warontherocks.com/feed/",
-      "summary": "Four years into Russia’s war against Ukraine, what should the U.S. military have learned by now? Michael Kofman (Carnegie Endowment), Dara Massicot (Carnegie Endowment), and Amos Fox (Arizona State University) join Ryan to discuss. The easy answer is drones and AI, but our guests argue the harder truths lie elsewhere: “Old-fashioned” ideas like campaigning, holding territory, mass, and attrition…",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://warontherocks.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b824ddd4b5c5c31b3789d4a2"
-    },
-    {
-      "title": "Top US Democrat warns Trump admin against destroying records",
-      "url": "https://aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records",
-      "source": "Al Jazeera",
-      "published": "2026-11-20T17:05:42+00:00",
-      "retrieved_at": "2026-11-20T17:24:58.552168+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "In a new letter, Congressman Jamie Raskin says officials in the US government are ignoring federal recordkeeping laws.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "3e8cb34ba3dd3e74d68ee62c"
     }
   ],
   "unverified_history": [
