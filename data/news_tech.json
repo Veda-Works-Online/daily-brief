@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-25T15:06:19.109126+00:00",
+  "updated": "2026-11-25T15:11:28.433964+00:00",
   "items": [
+    {
+      "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
+      "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving",
+      "source": "TechCrunch",
+      "published": "2026-11-25T15:08:37+00:00",
+      "retrieved_at": "2026-11-25T15:11:25.899370+00:00",
+      "feed_url": "https://techcrunch.com/feed/",
+      "summary": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://techcrunch.com/feed/",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "36c8c463715c6121b6940f60"
+    },
     {
       "title": "A familiar Iranian hacking group has found a new way to cause chaos",
       "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "84853cde78fa8fb3ca15d71c"
-    },
-    {
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security",
-      "source": "TechCrunch AI",
-      "published": "2026-11-16T19:12:02+00:00",
-      "retrieved_at": "2026-11-16T19:13:49.784994+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "046c1a1eddc7fa5291bea5b2"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-25T15:06:15.393720+00:00",
+    "checked_at": "2026-11-25T15:11:14.937523+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
