@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T04:09:25.586375+00:00",
+  "updated": "2026-11-25T04:14:18.087144+00:00",
   "items": [
     {
       "title": "Asia’s stock markets dive as doubts swirl over AI boom",
@@ -64,6 +64,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "fc161a24b3cbc8b96d34113f"
+    },
+    {
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "url": "https://bbc.co.uk/news/articles/cmx27g533zwyo",
+      "source": "BBC World",
+      "published": "2026-11-25T00:56:51+00:00",
+      "retrieved_at": "2026-11-25T04:14:13.537356+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5830f0a52025300dcb2ccaf9"
     },
     {
       "title": "Alaska ends deal to give voter records to US Justice Department",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "32ef384dc034b977c115892a"
-    },
-    {
-      "title": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
-      "url": "https://aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it",
-      "source": "Al Jazeera",
-      "published": "2026-11-20T11:01:51+00:00",
-      "retrieved_at": "2026-11-20T11:18:26.198487+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "NATO Article 5 says attack on one member is an attack on all. Analysts say inclusion of Ukraine 'stretches credulity'.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "eb806e3097d1ac6fe7c32336"
     }
   ],
   "unverified_history": [
