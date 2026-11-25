@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-25T20:57:20.359968+00:00",
+  "updated": "2026-11-25T21:02:06.854376+00:00",
   "items": [
+    {
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival",
+      "source": "Ars Technica",
+      "published": "2026-11-25T20:57:09+00:00",
+      "retrieved_at": "2026-11-25T21:02:03.911531+00:00",
+      "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.arstechnica.com/arstechnica/index",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c453d8fd4cae4431578a176a"
+    },
     {
       "title": "FCC approves SpaceX plan to put AI data centers in space",
       "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2412c351eaf491ea884b206a"
-    },
-    {
-      "title": "AI Told These Ex-Google Guys How to Build a Billion-Dollar Weapons Business",
-      "url": "https://wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business",
-      "source": "Wired",
-      "published": "2026-11-17T10:47:45+00:00",
-      "retrieved_at": "2026-11-17T10:53:13.819123+00:00",
-      "feed_url": "https://www.wired.com/feed/rss",
-      "summary": "Google and Apple alumni Chad Steelberg and Andy Baynes are applying what they learned running software companies and designing iPhones to manufacturing lethal munitions.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.wired.com/feed/rss",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "98d1c5669c3671d9581ee8c3"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-25T20:57:16.263696+00:00",
+    "checked_at": "2026-11-25T21:02:02.846155+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
