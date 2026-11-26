@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-26T00:48:13.880187+00:00",
+  "updated": "2026-11-26T01:18:16.686161+00:00",
   "items": [
+    {
+      "title": "ISIL blamed for multiple suicide attacks in Syria",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T00:51:17+00:00",
+      "retrieved_at": "2026-11-26T01:18:10.998964+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "ISIL suicide attack kills two in an assault on a security post in northeastern Syria.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "133f0bad4783476b45df37ad"
+    },
+    {
+      "title": "Two Syrian security personnel killed in ISIL suicide attack",
+      "url": "https://aljazeera.com/news/2026/11/26/two-syrian-security-personnel-killed-in-isil-suicide-attack",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T00:41:49+00:00",
+      "retrieved_at": "2026-11-26T01:18:10.998977+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Syrian forces say the attack in northeastern Syria's city of Hasakah involved four assailants who were all killed.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6fb6156a629b22f0c599b3f6"
+    },
     {
       "title": "Zambia bans protest against push to remove presidential term limits",
       "url": "https://aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8b9350bf5897a1ac04d31bbf"
-    },
-    {
-      "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
-      "url": "https://aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T12:29:49+00:00",
-      "retrieved_at": "2026-11-21T16:57:20.350520+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Separately, Palestinian man is shot dead by Israeli forces in Jabalia and three people injured in attack in Khan Younis.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a2dd9f217f44196e9daba410"
-    },
-    {
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "url": "https://bbc.co.uk/news/articles/c6wy0qj7w5zqo",
-      "source": "BBC World",
-      "published": "2026-11-21T12:20:55+00:00",
-      "retrieved_at": "2026-11-21T12:22:02.979081+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8fc0a9d7dcd4eb68a7c21df4"
     }
   ],
   "unverified_history": [
