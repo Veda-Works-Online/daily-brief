@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-26T10:44:49.389500+00:00",
+  "updated": "2026-11-26T10:49:48.371784+00:00",
   "items": [
+    {
+      "title": "Best Robot Vacuum of 2026: Shark, Eufy, Roborock",
+      "url": "https://wired.com/story/best-robot-vacuum",
+      "source": "Wired",
+      "published": "2026-11-26T10:44:00+00:00",
+      "retrieved_at": "2026-11-26T10:49:44.494453+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "My hands-on tests reveal which models can scrub stains, reach difficult corners, and navigate a chaotic home.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "a500e50c031d6abbd7c76a2f"
+    },
     {
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
       "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "84a86528d9ae71f4254962da"
-    },
-    {
-      "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
-      "url": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids",
-      "source": "TechCrunch",
-      "published": "2026-11-17T14:00:00+00:00",
-      "retrieved_at": "2026-11-17T14:03:17.066726+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Alongside CEO Leslie Morgan, Hank Green set out to create the video platform he wished his kid had.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "679271f9410b7b39d9d96c43"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-26T10:44:44.630031+00:00",
+    "checked_at": "2026-11-26T10:49:43.699092+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
