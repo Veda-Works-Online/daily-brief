@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-26T18:10:50.980045+00:00",
+  "updated": "2026-11-26T18:20:44.984438+00:00",
   "items": [
+    {
+      "title": "Guinea-Bissau presidential election delayed by two years",
+      "url": "https://aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T18:07:18+00:00",
+      "retrieved_at": "2026-11-26T18:20:40.847053+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Military leaders say presidential and legislative poll scheduled for December 6 will now take place in November 2028.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "917bbd480b91f23398078093"
+    },
     {
       "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
       "url": "https://bbc.co.uk/news/articles/c39w9y5dx4k5o",
@@ -16,6 +32,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2a172399320c7fefadcc7cd3"
+    },
+    {
+      "title": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
+      "url": "https://aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T17:53:44+00:00",
+      "retrieved_at": "2026-11-26T18:20:40.847071+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The bloc is holding an extraordinary summit in Brussels to discuss its budget proposal for 2028 to 2034.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "0ef2cc45bf17df98631f6639"
     },
     {
       "title": "Syrian children continue learning amid the ruins of war in Idlib",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0cc1084e416d093771184023"
-    },
-    {
-      "title": "Drone attacks kill four near Sudan’s capital, damage UN building",
-      "url": "https://aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T15:03:38+00:00",
-      "retrieved_at": "2026-11-22T15:26:53.560491+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The Rapid Support Forces are blamed as drones reportedly hit UN and government buildings, as well as Khartoum's airport.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d6d152d1b2e13f209ef162d6"
-    },
-    {
-      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 7 in Ukraine",
-      "url": "https://aljazeera.com/news/2026/11/22/zelenskyy-urges-us-to-release-patriot-missiles",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T14:48:50+00:00",
-      "retrieved_at": "2026-11-22T18:06:56.504841+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Three Russian attacks kill at least six people near Kyiv as overnight Russian shelling kills one in Zaporizhzhia.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a81475f81c2024c0f76c6235"
     }
   ],
   "unverified_history": [
