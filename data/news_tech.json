@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-26T12:04:39.886897+00:00",
+  "updated": "2026-11-26T12:09:37.758295+00:00",
   "items": [
+    {
+      "title": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
+      "url": "https://wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto",
+      "source": "Wired",
+      "published": "2026-11-26T12:00:00+00:00",
+      "retrieved_at": "2026-11-26T12:09:34.758236+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "Android Auto is now smarter than before, thanks to the addition of Gemini. You can navigate more easily and even bounce ideas off of it along the way.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "8c4a9f634279d419e319c81b"
+    },
     {
       "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
       "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ca6c601bc38e68e823627ce6"
-    },
-    {
-      "title": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
-      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists",
-      "source": "TechCrunch AI",
-      "published": "2026-11-17T14:00:00+00:00",
-      "retrieved_at": "2026-11-17T14:03:16.315177+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "19f392fd2ad901b97f2f8618"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-26T12:04:33.140077+00:00",
+    "checked_at": "2026-11-26T12:09:33.909254+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
