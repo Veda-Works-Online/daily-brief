@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-26T07:08:02.967306+00:00",
+  "updated": "2026-11-26T08:08:09.086414+00:00",
   "items": [
+    {
+      "title": "Photos: Rallies around the world denounce violence against women",
+      "url": "https://aljazeera.com/gallery/2026/11/26/photos-rallies-around-the-world-denounce-violence-against-women",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T07:43:14+00:00",
+      "retrieved_at": "2026-11-26T08:08:05.341988+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "About 47,000 women and girls were intentionally killed by an intimate partner or family member last year, UN data shows.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c3f040adfc251fcdd2adbcac"
+    },
     {
       "title": "War and drought threaten livelihoods of Sudan’s farmers",
       "url": "https://aljazeera.com/features/2026/11/26/war-and-drought-threaten-livelihoods-of-sudans-farmers",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b45696653d915d955d89d5db"
-    },
-    {
-      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T18:42:38+00:00",
-      "retrieved_at": "2026-11-21T18:48:40.760763+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "84029fa349b3d7e1054b72f2"
     }
   ],
   "unverified_history": [
