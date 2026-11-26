@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-26T16:15:47.981855+00:00",
+  "updated": "2026-11-26T16:40:49.116863+00:00",
   "items": [
+    {
+      "title": "Italy says two citizens killed in Iranian strike in Kuwait",
+      "url": "https://bbc.co.uk/news/articles/c39w9y5dx4k5o",
+      "source": "BBC World",
+      "published": "2026-11-26T16:39:30+00:00",
+      "retrieved_at": "2026-11-26T16:40:44.971444+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "84c46639d700c968e5aa227b"
+    },
     {
       "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
       "url": "https://aljazeera.com/news/2026/11/26/qatari-egyptian-leaders-discuss-gaza-ceasefire-and-regional-security",
@@ -16,22 +32,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1ee4ebeb5d2ca7141d368ba1"
-    },
-    {
-      "title": "Two Italians killed after Iranian strike in Kuwait",
-      "url": "https://bbc.co.uk/news/articles/c39w9y5dx4k5o",
-      "source": "BBC World",
-      "published": "2026-11-26T15:36:08+00:00",
-      "retrieved_at": "2026-11-26T16:15:43.781610+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "00eaf268803cc2f007478045"
     },
     {
       "title": "US judge blocks Trump’s FCC attempt to target Disney’s ABC stations",
