@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-26T01:18:16.686161+00:00",
+  "updated": "2026-11-26T01:48:10.597314+00:00",
   "items": [
+    {
+      "title": "Ukraine attacks Russian military base, says five planes struck",
+      "url": "https://aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T01:39:46+00:00",
+      "retrieved_at": "2026-11-26T01:48:04.857112+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e9061c9a0000c8cc97bf27d4"
+    },
     {
       "title": "ISIL blamed for multiple suicide attacks in Syria",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/26/isil-blamed-for-multiple-suicide-attacks-in-syria",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "f97e7985c8598a577dce172b"
-    },
-    {
-      "title": "Russian crew evacuating ship hit by drones off coast of Finland",
-      "url": "https://aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T12:45:24+00:00",
-      "retrieved_at": "2026-11-21T16:37:27.808562+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Two drones attack cargo ship that Finnish authorities say has links to Russia's armed forces.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "8b9350bf5897a1ac04d31bbf"
     }
   ],
   "unverified_history": [
