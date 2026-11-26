@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T16:00:50.776963+00:00",
+  "updated": "2026-11-26T16:15:47.981855+00:00",
   "items": [
     {
       "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
@@ -16,6 +16,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1ee4ebeb5d2ca7141d368ba1"
+    },
+    {
+      "title": "Two Italians killed after Iranian strike in Kuwait",
+      "url": "https://bbc.co.uk/news/articles/c39w9y5dx4k5o",
+      "source": "BBC World",
+      "published": "2026-11-26T15:36:08+00:00",
+      "retrieved_at": "2026-11-26T16:15:43.781610+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "00eaf268803cc2f007478045"
     },
     {
       "title": "US judge blocks Trump’s FCC attempt to target Disney’s ABC stations",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "072d85707c7652af2a148120"
-    },
-    {
-      "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
-      "url": "https://aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T13:16:45+00:00",
-      "retrieved_at": "2026-11-22T13:36:10.062470+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Houthi media say several people were injured in an attack on an oil company as Saudi air defences down a drone.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "6b5d13d83e7fa340fa9773a3"
     }
   ],
   "unverified_history": [
