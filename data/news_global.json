@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T16:40:49.116863+00:00",
+  "updated": "2026-11-26T17:00:47.988620+00:00",
   "items": [
     {
       "title": "Italy says two citizens killed in Iranian strike in Kuwait",
@@ -16,6 +16,22 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "84c46639d700c968e5aa227b"
+    },
+    {
+      "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+      "url": "https://aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T16:32:31+00:00",
+      "retrieved_at": "2026-11-26T17:00:43.885219+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The Italians were technicians working at an air-defence surveillance station.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "4648ac92434a2156f51e4246"
     },
     {
       "title": "Qatari, Egyptian leaders discuss Gaza ‘ceasefire’ and regional security",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2ad93e9c246630b7c1c3b3dc"
-    },
-    {
-      "title": "What next for Iraq’s push against militias following Jurf al-Sakhar deal?",
-      "url": "https://aljazeera.com/news/2026/11/22/what-next-for-iraqs-push-against-militias-following-jurf-al-sakhar-deal",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T14:00:31+00:00",
-      "retrieved_at": "2026-11-22T14:16:54.604527+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Baghdad's deal with Kataib Hezbollah may not end the Iran-backed militia's influence over the town.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "072d85707c7652af2a148120"
     }
   ],
   "unverified_history": [
