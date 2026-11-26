@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-26T11:34:38.682554+00:00",
+  "updated": "2026-11-26T11:39:43.732526+00:00",
   "items": [
+    {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "source": "Hugging Face",
+      "published": "2026-11-26T11:37:17+00:00",
+      "retrieved_at": "2026-11-26T11:39:37.118599+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "f608cd87b970270aceb04d2a"
+    },
     {
       "title": "Best Robot Vacuum of 2026: Shark, Eufy, Roborock",
       "url": "https://wired.com/story/best-robot-vacuum",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "19f392fd2ad901b97f2f8618"
-    },
-    {
-      "title": "Genesis AI raises $500M to deploy glove-wearing robots",
-      "url": "https://techcrunch.com/2026/11/17/genesis-ai-raises-500-million-to-deploy-electric-glove-wearing-robots",
-      "source": "TechCrunch",
-      "published": "2026-11-17T14:00:00+00:00",
-      "retrieved_at": "2026-11-17T17:17:47.005197+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Genesis AI's novel approach to training dexterous robots earned it $500 million in Series A funding.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "84a86528d9ae71f4254962da"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-26T11:34:33.904857+00:00",
+    "checked_at": "2026-11-26T11:39:36.734996+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
