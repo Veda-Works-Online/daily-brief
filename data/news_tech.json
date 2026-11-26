@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T12:49:42.239812+00:00",
+  "updated": "2026-11-26T12:54:41.245189+00:00",
   "items": [
     {
       "title": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
@@ -68,6 +68,23 @@
       "evidence_url": "https://huggingface.co/blog/feed.xml",
       "source_type": "PRIMARY",
       "story_fingerprint": "4c9e2bff8da2b30cd9351b91"
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face",
+      "published": "2026-11-26T00:00:00+00:00",
+      "retrieved_at": "2026-11-26T12:54:37.917270+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "3fc90bd94a6072d8c8f341f5"
     },
     {
       "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4ec5142a400cf5b25b0d665d"
-    },
-    {
-      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it",
-      "source": "Ars Technica AI",
-      "published": "2026-11-17T14:00:29+00:00",
-      "retrieved_at": "2026-11-17T14:32:34.067958+00:00",
-      "feed_url": "https://arstechnica.com/ai/feed/",
-      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://arstechnica.com/ai/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ca6c601bc38e68e823627ce6"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-26T12:49:36.287196+00:00",
+    "checked_at": "2026-11-26T12:54:37.517099+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
