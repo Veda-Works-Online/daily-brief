@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-26T09:19:34.972238+00:00",
+  "updated": "2026-11-26T09:39:40.598023+00:00",
   "items": [
+    {
+      "title": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
+      "url": "https://dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604",
+      "source": "DW",
+      "published": "2026-11-26T09:27:00+00:00",
+      "retrieved_at": "2026-11-26T09:39:36.810814+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "By attacking Russian vessels around the world, Kyiv is trying to up the pressure on Moscow and also sending out signals to its Western allies. What is the impact on global maritime trade?",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "e11f82e01ad0ff39ca616009"
+    },
     {
       "title": "Israeli attacks on Gaza kill senior education official, seven other people",
       "url": "https://aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "11cb7a072e703cbabb02f30c"
-    },
-    {
-      "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-      "url": "https://aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T23:44:00+00:00",
-      "retrieved_at": "2026-11-22T00:04:24.381418+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Joseph Aoun says 'two fundamental obstacles, inseparably linked' mean Lebanon cannot fully celebrate its independence.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "43661252fb134d892073b7ac"
     }
   ],
   "unverified_history": [
