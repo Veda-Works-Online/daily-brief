@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T08:33:51.368063+00:00",
+  "updated": "2026-11-26T08:38:48.045817+00:00",
   "items": [
     {
       "title": "Ms Rachel on Gaza: ‘everybody should speak out’",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c3f040adfc251fcdd2adbcac"
+    },
+    {
+      "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
+      "url": "https://bbc.co.uk/news/articles/c98r7p65edvgo",
+      "source": "BBC World",
+      "published": "2026-11-26T07:40:04+00:00",
+      "retrieved_at": "2026-11-26T08:38:44.422648+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5f0a732d8606ec0780cdb1f9"
     },
     {
       "title": "War and drought threaten livelihoods of Sudan’s farmers",
@@ -144,6 +160,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "54433634409023438cd9a93d"
+    },
+    {
+      "title": "Desperate appeals from women on death row in Iran after protests",
+      "url": "https://bbc.co.uk/news/articles/cm8x0ve4yd7wo",
+      "source": "BBC World",
+      "published": "2026-11-26T06:01:58+00:00",
+      "retrieved_at": "2026-11-26T08:38:44.422639+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Female protesters and dissidents are being sentenced to death in numbers not seen for decades, a rights group says.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cf08a7455f779ab7f8cbc5a2"
     },
     {
       "title": "Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "71890409589e5c59995d4367"
-    },
-    {
-      "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
-      "url": "https://aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T21:02:18+00:00",
-      "retrieved_at": "2026-11-21T21:43:39.985349+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "45087406f19a17a5ddfb3b1d"
-    },
-    {
-      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-      "url": "https://aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T20:56:35+00:00",
-      "retrieved_at": "2026-11-21T21:18:47.493124+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "77e66e874d3766d0926a1951"
     }
   ],
   "unverified_history": [
