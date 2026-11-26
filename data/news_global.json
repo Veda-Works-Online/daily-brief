@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T00:38:07.673751+00:00",
+  "updated": "2026-11-26T00:48:13.880187+00:00",
   "items": [
     {
       "title": "Zambia bans protest against push to remove presidential term limits",
@@ -96,6 +96,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b362926a2d60f0709af7e486"
+    },
+    {
+      "title": "What we know about Trump's Thanksgiving tariffs",
+      "url": "https://bbc.co.uk/news/videos/c3x29v11ed1xo",
+      "source": "BBC World",
+      "published": "2026-11-25T19:38:05+00:00",
+      "retrieved_at": "2026-11-26T00:48:08.384565+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "df001891a4f1564750ee8b74"
     },
     {
       "title": "North Korea expels Swiss diplomat in sanctions row",
@@ -224,6 +240,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "da0b81e5a5cf8cc880a2e500"
+    },
+    {
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "url": "https://bbc.co.uk/news/articles/cq772vk664yvo",
+      "source": "BBC World",
+      "published": "2026-11-25T16:42:11+00:00",
+      "retrieved_at": "2026-11-26T00:48:08.384388+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "ed309ed7163b9798f74f74e3"
     },
     {
       "title": "Why did Israel arrest human rights defender Ghassan Al Najjar?",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "8fc0a9d7dcd4eb68a7c21df4"
-    },
-    {
-      "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-      "url": "https://aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T11:02:49+00:00",
-      "retrieved_at": "2026-11-21T11:22:01.061608+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "57155e64f665a42c1e335006"
-    },
-    {
-      "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-      "url": "https://aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T09:30:24+00:00",
-      "retrieved_at": "2026-11-21T11:32:10.944162+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as 'oil trustees'.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "1bbd91bf0fbd71e2cae5e7ae"
     }
   ],
   "unverified_history": [
