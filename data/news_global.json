@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-26T14:35:45.920427+00:00",
+  "updated": "2026-11-26T15:25:41.117215+00:00",
   "items": [
+    {
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "url": "https://bbc.co.uk/news/articles/c98r7p65edvgo",
+      "source": "BBC World",
+      "published": "2026-11-26T15:23:17+00:00",
+      "retrieved_at": "2026-11-26T15:25:36.975953+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bc36c6260bcd21774bad36a3"
+    },
     {
       "title": "Can Trump continue with Iran war despite funding restrictions?",
       "url": "https://aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions",
@@ -112,22 +128,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "b24d87db4d7aed866e4fe6a7"
-    },
-    {
-      "title": "New UK-EU treaty has 10-year termination clause",
-      "url": "https://bbc.co.uk/news/articles/c98r7p65edvgo",
-      "source": "BBC World",
-      "published": "2026-11-26T09:59:14+00:00",
-      "retrieved_at": "2026-11-26T10:04:37.978981+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "bc36c6260bcd21774bad36a3"
     },
     {
       "title": "Iqbal in space: Urdu poet’s verses unite India, Pakistan beyond Earth",
