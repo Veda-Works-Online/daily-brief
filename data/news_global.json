@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-26T17:50:43.948539+00:00",
+  "updated": "2026-11-26T17:55:59.885686+00:00",
   "items": [
+    {
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "url": "https://bbc.co.uk/news/articles/c39w9y5dx4k5o",
+      "source": "BBC World",
+      "published": "2026-11-26T17:54:22+00:00",
+      "retrieved_at": "2026-11-26T17:55:55.843760+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2a172399320c7fefadcc7cd3"
+    },
     {
       "title": "Syrian children continue learning amid the ruins of war in Idlib",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib",
@@ -16,22 +32,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "407dabe5db8822986697423e"
-    },
-    {
-      "title": "Italy says two citizens killed in Iranian strike in Kuwait",
-      "url": "https://bbc.co.uk/news/articles/c39w9y5dx4k5o",
-      "source": "BBC World",
-      "published": "2026-11-26T16:39:30+00:00",
-      "retrieved_at": "2026-11-26T16:40:44.971444+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "84c46639d700c968e5aa227b"
     },
     {
       "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
