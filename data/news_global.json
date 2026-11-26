@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-26T09:54:37.599230+00:00",
+  "updated": "2026-11-26T10:04:41.841802+00:00",
   "items": [
+    {
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "url": "https://bbc.co.uk/news/articles/c98r7p65edvgo",
+      "source": "BBC World",
+      "published": "2026-11-26T09:59:14+00:00",
+      "retrieved_at": "2026-11-26T10:04:37.978981+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bc36c6260bcd21774bad36a3"
+    },
     {
       "title": "Iqbal in space: Urdu poet’s verses unite India, Pakistan beyond Earth",
       "url": "https://aljazeera.com/news/2026/11/26/iqbal-in-space-urdu-poets-verses-unite-india-pakistan-beyond-earth",
@@ -96,22 +112,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c3f040adfc251fcdd2adbcac"
-    },
-    {
-      "title": "New UK-EU treaty has 10-year termination clause, BBC understands",
-      "url": "https://bbc.co.uk/news/articles/c98r7p65edvgo",
-      "source": "BBC World",
-      "published": "2026-11-26T07:40:04+00:00",
-      "retrieved_at": "2026-11-26T08:38:44.422648+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "5f0a732d8606ec0780cdb1f9"
     },
     {
       "title": "War and drought threaten livelihoods of Sudan’s farmers",
