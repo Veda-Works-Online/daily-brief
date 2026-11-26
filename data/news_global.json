@@ -1,6 +1,38 @@
 {
-  "updated": "2026-11-26T19:06:35.537538+00:00",
+  "updated": "2026-11-26T19:36:33.401351+00:00",
   "items": [
+    {
+      "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
+      "url": "https://aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T19:19:12+00:00",
+      "retrieved_at": "2026-11-26T19:36:27.770753+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Israeli restrictions on humanitarian aid, damaged buildings and flooded tents leave displaced Palestinians vulnerable.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c61a212549213e674da272a2"
+    },
+    {
+      "title": "Judge strikes down Trump’s latest restrictions on US birthright citizenship",
+      "url": "https://aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T19:09:39+00:00",
+      "retrieved_at": "2026-11-26T19:36:27.770776+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "After a Supreme Court ruling against it, the Trump administration had tried a narrower set of restrictions.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "14ed6ad732be25f4fdf5e031"
+    },
     {
       "title": "What will Trump’s latest tariffs mean for the world?",
       "url": "https://aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world",
@@ -50,11 +82,11 @@
       "story_fingerprint": "1a1fce582698dca8049c8529"
     },
     {
-      "title": "Guinea-Bissau presidential election delayed by two years",
+      "title": "Guinea-Bissau military leaders delay presidential election until 2028",
       "url": "https://aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years",
       "source": "Al Jazeera",
       "published": "2026-11-26T18:07:18+00:00",
-      "retrieved_at": "2026-11-26T18:20:40.847053+00:00",
+      "retrieved_at": "2026-11-26T19:36:27.770854+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "Military leaders say presidential and legislative poll scheduled for December 6 will now take place in November 2028.",
       "category": "global",
@@ -63,7 +95,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "917bbd480b91f23398078093"
+      "story_fingerprint": "9d3e1887ec75edd21119ff17"
     },
     {
       "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
@@ -82,11 +114,11 @@
       "story_fingerprint": "2a172399320c7fefadcc7cd3"
     },
     {
-      "title": "EU leaders struggle to agree on long-term budget, more money for Ukraine",
+      "title": "EU leaders struggle to agree on long-term budget, $49bn Ukraine loan",
       "url": "https://aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine",
       "source": "Al Jazeera",
       "published": "2026-11-26T17:53:44+00:00",
-      "retrieved_at": "2026-11-26T18:20:40.847071+00:00",
+      "retrieved_at": "2026-11-26T19:36:27.770915+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "The bloc is holding an extraordinary summit in Brussels to discuss its budget proposal for 2028 to 2034.",
       "category": "global",
@@ -95,7 +127,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "0ef2cc45bf17df98631f6639"
+      "story_fingerprint": "5d8d28d2931c97c10b02bad0"
     },
     {
       "title": "Syrian children continue learning amid the ruins of war in Idlib",
@@ -118,9 +150,9 @@
       "url": "https://aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait",
       "source": "Al Jazeera",
       "published": "2026-11-26T16:32:31+00:00",
-      "retrieved_at": "2026-11-26T17:00:43.885219+00:00",
+      "retrieved_at": "2026-11-26T19:36:27.770995+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The Italians were technicians working at an air-defence surveillance station.",
+      "summary": "Iran has strongly denied any involvement in the fatal incident.",
       "category": "global",
       "relevance": "global",
       "verification_status": "SOURCE_CONFIRMED",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "4723229831bc6fd766cb26e1"
-    },
-    {
-      "title": "UN climate talks collapse without a deal",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/22/un-climate-talks-collapse-without-a-deal",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T18:04:25+00:00",
-      "retrieved_at": "2026-11-22T18:36:53.805554+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "The longest UN climate summit in history ended without a deal in Turkiye, the first such failure since 2009.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "a2bdce46e115fcb2f6e75b11"
-    },
-    {
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "url": "https://bbc.co.uk/news/videos/cre3dvd1k9y1o",
-      "source": "BBC World",
-      "published": "2026-11-22T17:57:43+00:00",
-      "retrieved_at": "2026-11-22T18:06:56.476028+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "75fb1644d1f4d1b535ef7338"
     }
   ],
   "unverified_history": [
