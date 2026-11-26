@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-26T10:04:41.841802+00:00",
+  "updated": "2026-11-26T10:14:38.637380+00:00",
   "items": [
+    {
+      "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
+      "url": "https://aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T10:02:09+00:00",
+      "retrieved_at": "2026-11-26T10:14:34.316072+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Russian forces launch ballistic missile attack on Ukrainian capital Kyiv, hitting a shopping centre and other buildings.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b24d87db4d7aed866e4fe6a7"
+    },
     {
       "title": "New UK-EU treaty has 10-year termination clause",
       "url": "https://bbc.co.uk/news/articles/c98r7p65edvgo",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "685842a0b5c1a8a9089e8e9b"
-    },
-    {
-      "title": "Clashes erupt across France in another night of protest",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T00:37:32+00:00",
-      "retrieved_at": "2026-11-22T00:44:22.178258+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "429f880d22b46bb83dcdb0e9"
     }
   ],
   "unverified_history": [
