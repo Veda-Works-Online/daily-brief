@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-27T10:28:29.297321+00:00",
+  "updated": "2026-11-27T10:43:32.688709+00:00",
   "items": [
+    {
+      "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
+      "url": "https://aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T10:31:20+00:00",
+      "retrieved_at": "2026-11-27T10:43:29.543067+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Sanctions aim to restrict funds for two men alleged to have planned attacks for IRGC.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2c5b32a687b65415f4fb7837"
+    },
     {
       "title": "‘I cannot go to work’: Iranians contend with pollution as well as US war",
       "url": "https://aljazeera.com/economy/2026/11/27/i-cannot-go-to-work-iranians-contend-with-pollution-as-well-as-us-war",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "632e5f68c5ac3fb7e69adc6d"
-    },
-    {
-      "title": "The Double Alignment Problem: Civil-Military Relations in the Age of Artificial Intelligence",
-      "url": "https://warontherocks.com/the-double-alignment-problem-civil-military-relations-in-the-age-of-artificial-intelligence",
-      "source": "War on the Rocks",
-      "published": "2026-11-23T08:30:35+00:00",
-      "retrieved_at": "2026-11-23T08:34:13.175878+00:00",
-      "feed_url": "https://warontherocks.com/feed/",
-      "summary": "Artificial intelligence poses the greatest challenge to American civil-military relations since the advent of the nuclear bomb. AI plays outside the political bounds that contain other challenges, however odious. It compounds the inherent problem of civil-military relations – aligning the state and the military – with an additional alignment problem: that of human and agent. In doing so, AI…",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://warontherocks.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e3d47b27762d339236575801"
     }
   ],
   "unverified_history": [
