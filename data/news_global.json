@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-27T21:25:06.401316+00:00",
+  "updated": "2026-11-27T22:55:02.688582+00:00",
   "items": [
+    {
+      "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+      "url": "https://aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T22:22:02+00:00",
+      "retrieved_at": "2026-11-27T22:54:57.412402+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The US military says it disabled the Palau-flagged ship’s propulsion but its crew was unharmed.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "d70371f465c17a62c6aac7b1"
+    },
     {
       "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
       "url": "https://aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "88722db167ed278afc7d6a05"
-    },
-    {
-      "title": "Trump delays explosive detonation in US state of Iowa amid legal battles",
-      "url": "https://aljazeera.com/news/2026/11/23/trump-delays-explosive-detonation-in-us-state-of-iowa-amid-legal-battles",
-      "source": "Al Jazeera",
-      "published": "2026-11-23T20:01:41+00:00",
-      "retrieved_at": "2026-11-23T20:13:44.810831+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Iowa detonation postponed as Trump cites safety risks, lead exposure, and court rulings in Midwestern controversy.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c6825a2288ffa8390de93cb9"
     }
   ],
   "unverified_history": [
