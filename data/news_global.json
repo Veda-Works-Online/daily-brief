@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-27T16:19:32.778074+00:00",
+  "updated": "2026-11-27T16:29:29.428821+00:00",
   "items": [
+    {
+      "title": "Trump backs Iraqi PM’s oil smuggling crackdown",
+      "url": "https://aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T16:13:07+00:00",
+      "retrieved_at": "2026-11-27T16:29:26.270401+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "3ff0c9897ee8e6e595c7b8b6"
+    },
     {
       "title": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "62b2efa0e6a6aedf72e095c7"
-    },
-    {
-      "title": "Could the Jensen Huang Scandal Help China’s AI Industry?",
-      "url": "https://thediplomat.com/2026/11/could-the-jensen-huang-scandal-help-chinas-ai-industry",
-      "source": "The Diplomat",
-      "published": "2026-11-23T15:53:00+00:00",
-      "retrieved_at": "2026-11-23T21:24:55.343733+00:00",
-      "feed_url": "https://thediplomat.com/feed/",
-      "summary": "Tightened U.S. export controls will be difficult in the short term, but could open up new opportunities for China.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://thediplomat.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "b0981cc9e882da75fc93fdcb"
     }
   ],
   "unverified_history": [
