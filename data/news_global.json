@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T16:59:26.711019+00:00",
+  "updated": "2026-11-27T17:04:22.726026+00:00",
   "items": [
     {
       "title": "Divisions deepen between EU member states after tense budget summit",
@@ -16,6 +16,22 @@
       "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e214e5b917228f3cfdcb4673"
+    },
+    {
+      "title": "Syria debates citizenship rights for children of foreign fighters",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_syria-mulls-citizenship-children-foreign-fighters-271126",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T16:47:35+00:00",
+      "retrieved_at": "2026-11-27T17:04:19.728171+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Syria may amend its nationality law to grant citizenship to children of Syrian mothers and foreign fighters.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "c312e734e8ffb38fe8fcc2ad"
     },
     {
       "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
@@ -82,11 +98,11 @@
       "story_fingerprint": "f690a8fa12f26013b81a05f6"
     },
     {
-      "title": "‘Playing with fire’: Republicans incensed after Trump gets Huang reinstated",
+      "title": "‘Playing with fire’: Trump faces GOP backlash over Nvidia CEO’s return",
       "url": "https://aljazeera.com/news/2026/11/27/playing-with-fire-republicans-incensed-after-trump-gets-huang-reinstated",
       "source": "Al Jazeera",
       "published": "2026-11-27T15:12:09+00:00",
-      "retrieved_at": "2026-11-27T15:29:34.448601+00:00",
+      "retrieved_at": "2026-11-27T17:04:19.728235+00:00",
       "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "summary": "Former Trump officials warn his push to reinstate NVIDIA's CEO could be the final straw for Republicans.",
       "category": "global",
@@ -95,7 +111,7 @@
       "verification_method": "Publisher feed headline and attributed summary",
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
-      "story_fingerprint": "8da709d435c41528b35bd87d"
+      "story_fingerprint": "a0144ef7ea79bc0c3371f8e5"
     },
     {
       "title": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "19e5e7c66847cd0fd6ca8c4b"
-    },
-    {
-      "title": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
-      "url": "https://aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-11-23T16:36:22+00:00",
-      "retrieved_at": "2026-11-23T16:48:52.245049+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israel continues to launch attacks across the enclave, despite an October 2025 'ceasefire' deal.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "f9322c4968725d5202f3f723"
     }
   ],
   "unverified_history": [
