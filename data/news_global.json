@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T10:53:28.518800+00:00",
+  "updated": "2026-11-27T10:58:28.001809+00:00",
   "items": [
     {
       "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
@@ -176,6 +176,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "2d53d424a365228bb8f8ade7"
+    },
+    {
+      "title": "EU leaders fail to bridge budget splits as talks stall",
+      "url": "https://bbc.co.uk/news/articles/cw4gnm3m9deno",
+      "source": "BBC World",
+      "published": "2026-11-27T06:11:55+00:00",
+      "retrieved_at": "2026-11-27T10:58:24.839281+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "93aabb93c1132e0cbcf8bf1e"
     },
     {
       "title": "Leaders clash in final Spain election debate as housing dominates run-in",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "16572572df94cf24303e123b"
-    },
-    {
-      "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
-      "url": "https://bbc.co.uk/news/articles/cmvg2qnn95vro",
-      "source": "BBC World",
-      "published": "2026-11-23T08:53:01+00:00",
-      "retrieved_at": "2026-11-23T09:19:16.394527+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The two leaders committed to upholding sovereignty and \"non-interference in the internal affairs of states\".",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "780181ab9880ada5bc6ac73e"
     }
   ],
   "unverified_history": [
