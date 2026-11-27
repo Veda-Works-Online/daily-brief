@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T15:39:33.876963+00:00",
+  "updated": "2026-11-27T15:49:31.925963+00:00",
   "items": [
     {
       "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
@@ -144,6 +144,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "308cce35094819366c945562"
+    },
+    {
+      "title": "In Iran, child marriage risks complicated by war",
+      "url": "https://dw.com/en/in-iran-child-marriage-risks-complicated-by-war/a-80075473",
+      "source": "DW",
+      "published": "2026-11-27T13:06:00+00:00",
+      "retrieved_at": "2026-11-27T15:49:29.044962+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "War, poverty and disrupted schooling could put more girls in Iran at risk of child marriage, rights advocates have warned.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "5a3d36a1804e0459af51ec49"
     },
     {
       "title": "Risks of child marriage in Iran complicated by war",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e3559ac886a9947881b15330"
-    },
-    {
-      "title": "Jensen Huang returns as NVIDIA CEO after intelligence scandal",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-returns-as-nvidia-ceo-after-intelligence-scandal",
-      "source": "Al Jazeera",
-      "published": "2026-11-23T15:23:05+00:00",
-      "retrieved_at": "2026-11-23T15:39:12.181665+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Jensen Huang is reinstated as NVIDIA’s CEO after reports he was targeted in an alleged foreign intelligence operation.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "921dd9b8e8517703543db3a3"
     }
   ],
   "unverified_history": [
