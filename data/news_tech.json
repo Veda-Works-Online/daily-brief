@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T11:58:21.330055+00:00",
+  "updated": "2026-11-27T12:03:25.457115+00:00",
   "items": [
     {
       "title": "‘It’s broken people's normalcy bias’: The UK Goes Fully Prep Mode",
@@ -34,6 +34,23 @@
       "evidence_url": "https://www.wired.com/feed/rss",
       "source_type": "PUBLISHER",
       "story_fingerprint": "cb0f3f33dc016940579c442c"
+    },
+    {
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "source": "Hugging Face",
+      "published": "2026-11-27T00:00:00+00:00",
+      "retrieved_at": "2026-11-27T12:03:23.207575+00:00",
+      "feed_url": "https://huggingface.co/blog/feed.xml",
+      "summary": "",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://huggingface.co/blog/feed.xml",
+      "source_type": "PRIMARY",
+      "story_fingerprint": "bba33a6612fcb2220d1514da"
     },
     {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://arstechnica.com/ai/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "1316fe433abd3a0bb652071c"
-    },
-    {
-      "title": "Meta launches Direct, a stand-alone messaging app for Instagram",
-      "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram",
-      "source": "TechCrunch",
-      "published": "2026-11-17T15:01:46+00:00",
-      "retrieved_at": "2026-11-17T16:22:44.139148+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
-      "isAI": false,
-      "category": "tech",
-      "relevance": "tech",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "058a68410393b35c9f769148"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-27T11:58:17.341174+00:00",
+    "checked_at": "2026-11-27T12:03:22.338646+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
