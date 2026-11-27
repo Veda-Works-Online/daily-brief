@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-27T20:30:07.549111+00:00",
+  "updated": "2026-11-27T20:55:08.229849+00:00",
   "items": [
+    {
+      "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+      "url": "https://aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T20:39:57+00:00",
+      "retrieved_at": "2026-11-27T20:55:02.741552+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "The Kremlin plans to expand its naval fleet with five new nuclear submarines by 2030.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "aeacf7d6bb13d9c04d195489"
+    },
     {
       "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://warontherocks.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "af23581d3f8772c9748a4b28"
-    },
-    {
-      "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
-      "url": "https://aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war",
-      "source": "Al Jazeera",
-      "published": "2026-11-23T19:20:30+00:00",
-      "retrieved_at": "2026-11-23T19:38:46.477291+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Moscow accuses Tallinn of 'hostile actions' citing border closure and claiming it is allowing Ukraine to launch attacks.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "83d13977c98465d6b398cdd2"
     }
   ],
   "unverified_history": [
