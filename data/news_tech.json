@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-27T09:57:51.549026+00:00",
+  "updated": "2026-11-27T10:02:48.668497+00:00",
   "items": [
+    {
+      "title": "‘It’s broken people's normalcy bias’: The UK Goes Fully Prep Mode",
+      "url": "https://wired.com/story/its-broken-peoples-normalcy-bias-the-uk-goes-fully-prep-mode",
+      "source": "Wired",
+      "published": "2026-11-27T10:00:00+00:00",
+      "retrieved_at": "2026-11-27T10:02:44.613944+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "As the government warns people to stockpile for extreme weather events and cyber attacks cripple critical infrastructure across Europe, UK preppers are watching their cause go mainstream.",
+      "isAI": false,
+      "category": "tech",
+      "relevance": "tech",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b0a73b9271794a34e06aea7c"
+    },
     {
       "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
       "url": "https://wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "058a68410393b35c9f769148"
-    },
-    {
-      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant",
-      "source": "TechCrunch AI",
-      "published": "2026-11-17T15:00:00+00:00",
-      "retrieved_at": "2026-11-17T16:32:46.459949+00:00",
-      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "summary": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "c2153b122a8264b32035014f"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-27T09:57:43.059772+00:00",
+    "checked_at": "2026-11-27T10:02:43.223280+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
