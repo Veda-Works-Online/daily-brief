@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-27T15:29:37.682934+00:00",
+  "updated": "2026-11-27T15:39:33.876963+00:00",
   "items": [
+    {
+      "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+      "url": "https://bbc.co.uk/news/articles/c3pw4yrr8kz9o",
+      "source": "BBC World",
+      "published": "2026-11-27T15:18:51+00:00",
+      "retrieved_at": "2026-11-27T15:39:30.671610+00:00",
+      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "f690a8fa12f26013b81a05f6"
+    },
     {
       "title": "‘Playing with fire’: Republicans incensed after Trump gets Huang reinstated",
       "url": "https://aljazeera.com/news/2026/11/27/playing-with-fire-republicans-incensed-after-trump-gets-huang-reinstated",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "921dd9b8e8517703543db3a3"
-    },
-    {
-      "title": "Nepal's new PM eyes closer ties with India amid lingering disputes",
-      "url": "https://dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769",
-      "source": "DW",
-      "published": "2026-11-23T14:49:00+00:00",
-      "retrieved_at": "2026-11-23T15:01:25.943244+00:00",
-      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
-      "summary": "On his first foreign bilateral visit, rapper-turned-Prime Minister Balendra Shah sought deeper ties with Nepal's neighbor and largest trading partner, while steering clear of sticky territorial issues.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e7f98b74aba8cdbe7597e53e"
     }
   ],
   "unverified_history": [
