@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-27T04:21:45.690464+00:00",
+  "updated": "2026-11-27T04:57:02.052778+00:00",
   "items": [
+    {
+      "title": "Estonia closing land borders with Russia to keep out spies",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/27/estonia-closing-land-borders-with-russia-to-keep-out-spies",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T04:46:15+00:00",
+      "retrieved_at": "2026-11-27T04:56:58.962803+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Estonia is set to close its land border crossings to Russia by December 1.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "fef2e7c79ae8f336ad0b4a29"
+    },
     {
       "title": "Trump downplays Russia, China support for Iran during talks with US troops",
       "url": "https://aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e682874226b5dca826ac7df6"
-    },
-    {
-      "title": "Asian stock markets tumble as AI bubble fears mount",
-      "url": "https://aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount",
-      "source": "Al Jazeera",
-      "published": "2026-11-23T00:18:03+00:00",
-      "retrieved_at": "2026-11-23T04:43:29.294191+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Stocks fall in South Korea, mainland China and Hong Kong as tech sell-off deepens.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ad105f20bc874c98d6ebcfec"
     }
   ],
   "unverified_history": [
