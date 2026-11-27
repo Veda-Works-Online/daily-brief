@@ -1,6 +1,23 @@
 {
-  "updated": "2026-11-27T07:02:55.824553+00:00",
+  "updated": "2026-11-27T07:07:52.094131+00:00",
   "items": [
+    {
+      "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "url": "https://wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light",
+      "source": "Wired",
+      "published": "2026-11-27T07:00:00+00:00",
+      "retrieved_at": "2026-11-27T07:07:47.010138+00:00",
+      "feed_url": "https://www.wired.com/feed/rss",
+      "summary": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+      "isAI": true,
+      "category": "tech",
+      "relevance": "AI",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.wired.com/feed/rss",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "cb0f3f33dc016940579c442c"
+    },
     {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
@@ -4233,23 +4250,6 @@
       "evidence_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "c2153b122a8264b32035014f"
-    },
-    {
-      "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
-      "url": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos",
-      "source": "TechCrunch",
-      "published": "2026-11-17T15:00:00+00:00",
-      "retrieved_at": "2026-11-17T15:02:57.884507+00:00",
-      "feed_url": "https://techcrunch.com/feed/",
-      "summary": "The announcement likely comes in response to creators' concerns over how easily original content can be copied and redistributed across social media platforms, especially considering how generative AI has made it easier to manipulate existing videos.",
-      "isAI": true,
-      "category": "tech",
-      "relevance": "AI",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://techcrunch.com/feed/",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "84be58bf2374f946c8981a18"
     }
   ],
   "unverified_history": [
@@ -6437,7 +6437,7 @@
         "source_status": "CURRENT"
       }
     ],
-    "checked_at": "2026-11-27T07:02:50.412935+00:00",
+    "checked_at": "2026-11-27T07:07:45.729055+00:00",
     "status": "CURRENT",
     "errors": [],
     "publishers": [
