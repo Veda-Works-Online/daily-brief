@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T14:33:40.022111+00:00",
+  "updated": "2026-11-27T15:14:36.800362+00:00",
   "items": [
     {
       "title": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
@@ -32,6 +32,22 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "5634618a809edb2e39c4d49f"
+    },
+    {
+      "title": "As Gambia gears up for election, can Barrow secure a third term?",
+      "url": "https://dw.com/en/as-gambia-gears-up-for-election-can-barrow-secure-a-third-term/a-80076340",
+      "source": "DW",
+      "published": "2026-11-27T13:31:00+00:00",
+      "retrieved_at": "2026-11-27T15:14:33.837696+00:00",
+      "feed_url": "https://rss.dw.com/rdf/rss-en-world",
+      "summary": "President Adama Barrow is seeking a third term as Gambians vote on December 5. The election will test the opposition's appeal and the country's progress on democratic reform.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://rss.dw.com/rdf/rss-en-world",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "6537612f4d517819f43c9735"
     },
     {
       "title": "The Gambia election: Can Barrow secure a third term?",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0574384d2ec11c4bb76bd839"
-    },
-    {
-      "title": "Israeli restrictions cut off vital hearing aid supplies in Gaza",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/23/israeli-restrictions-cut-off-vital-hearing-aid-supplies-in-gaza",
-      "source": "Al Jazeera",
-      "published": "2026-11-23T13:54:48+00:00",
-      "retrieved_at": "2026-11-23T14:05:51.932360+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Israeli restrictions have left Gaza facing a severe shortage of hearing aid batteries.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "d0301870ec7ed7f9deed2f5f"
     }
   ],
   "unverified_history": [
