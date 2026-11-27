@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T20:15:08.491262+00:00",
+  "updated": "2026-11-27T20:20:07.076491+00:00",
   "items": [
     {
       "title": "In the Shadow of the Afghanistan-Pakistan Border",
@@ -16,6 +16,38 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "210f5bcce93cfabe1efadf74"
+    },
+    {
+      "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T20:10:30+00:00",
+      "retrieved_at": "2026-11-27T20:20:01.593525+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Costa Rica has barred UN special rapporteur Francesca Albanese, citing unfounded ‘links to terrorist acts’.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "b8fc956bbf50297ac006d6ca"
+    },
+    {
+      "title": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+      "url": "https://aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T19:53:25+00:00",
+      "retrieved_at": "2026-11-27T20:20:01.593571+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Four of Khalil al-Hayya's other sons were previously killed by Israeli forces, according to the Palestinian group.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "326548159b5973496a25b978"
     },
     {
       "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
@@ -3968,38 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "6f5c4f728494035b50a24df3"
-    },
-    {
-      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
-      "url": "https://bbc.co.uk/news/videos/c51k9vp48d2vo",
-      "source": "BBC World",
-      "published": "2026-11-23T18:49:19+00:00",
-      "retrieved_at": "2026-11-24T02:50:18.465196+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "e13597fb195735da7e112757"
-    },
-    {
-      "title": "What Russian warship did Ukraine just sink?",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink",
-      "source": "Al Jazeera",
-      "published": "2026-11-23T18:25:55+00:00",
-      "retrieved_at": "2026-11-23T18:33:52.225802+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Ukraine says it sank the Russian warship Merkury off the coast of Libya. Here's why the vessel is significant.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "650c92710bb6b01f45fc6ddd"
     }
   ],
   "unverified_history": [
