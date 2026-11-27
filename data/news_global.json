@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-27T01:07:01.537049+00:00",
+  "updated": "2026-11-27T02:02:15.743271+00:00",
   "items": [
+    {
+      "title": "Trump says the US has ‘close to 50%’ of world’s oil",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T01:44:02+00:00",
+      "retrieved_at": "2026-11-27T02:02:12.805990+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil'.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "9d1522beb7109a88bdc87da6"
+    },
     {
       "title": "Inside Ukraine’s power crisis amid its war with Russia",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "75ab8f9de7624cd95c793745"
-    },
-    {
-      "title": "Why has the COP31 climate summit failed to reach agreement?",
-      "url": "https://aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T20:00:00+00:00",
-      "retrieved_at": "2026-11-22T20:12:29.892293+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "Fossil fuels are at the centre of deep division.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "7b301cd919965a40d95a1325"
     }
   ],
   "unverified_history": [
