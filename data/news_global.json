@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-28T00:40:10.463405+00:00",
+  "updated": "2026-11-28T01:15:49.297802+00:00",
   "items": [
+    {
+      "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
+      "url": "https://aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest",
+      "source": "Al Jazeera",
+      "published": "2026-11-28T01:00:00+00:00",
+      "retrieved_at": "2026-11-28T01:15:45.307485+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bc04aee618750f0a13b416de"
+    },
     {
       "title": "Francesca Albanese seeks apology from Costa Rica after entry ban",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "0a3e3a21dbd6c9550c1200e7"
-    },
-    {
-      "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
-      "url": "https://aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks",
-      "source": "Al Jazeera",
-      "published": "2026-11-23T21:30:40+00:00",
-      "retrieved_at": "2026-11-23T22:04:46.356534+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran's global financial activities.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "509fa0768983d21b216e53f6"
     }
   ],
   "unverified_history": [
