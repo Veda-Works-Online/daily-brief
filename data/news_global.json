@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-28T01:15:49.297802+00:00",
+  "updated": "2026-11-28T02:20:45.081366+00:00",
   "items": [
+    {
+      "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+      "url": "https://aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic",
+      "source": "Al Jazeera",
+      "published": "2026-11-28T01:55:03+00:00",
+      "retrieved_at": "2026-11-28T02:20:41.019744+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "An Israeli strike on a clinic operated by Doctors Without Borders (MSF) in Gaza has killed two watchmen.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "bb47d2296e6c4f584c95b55b"
+    },
     {
       "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
       "url": "https://aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
       "source_type": "PUBLISHER",
       "story_fingerprint": "ad5856821e06c486e5572de7"
-    },
-    {
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "url": "https://bbc.co.uk/news/articles/cv98xpg5dg5zo",
-      "source": "BBC World",
-      "published": "2026-11-23T22:15:26+00:00",
-      "retrieved_at": "2026-11-23T22:19:48.937949+00:00",
-      "feed_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "0a3e3a21dbd6c9550c1200e7"
     }
   ],
   "unverified_history": [
