@@ -1,6 +1,22 @@
 {
-  "updated": "2026-11-28T02:20:45.081366+00:00",
+  "updated": "2026-11-28T02:25:51.602509+00:00",
   "items": [
+    {
+      "title": "Taiwan votes in local elections to choose mayors, other leaders",
+      "url": "https://aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders",
+      "source": "Al Jazeera",
+      "published": "2026-11-28T02:05:27+00:00",
+      "retrieved_at": "2026-11-28T02:25:47.521031+00:00",
+      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "summary": "Key mayoral race in Taipei, a stronghold of the opposition Kuomintang, tests the governing Democratic Progressive Party.",
+      "category": "global",
+      "relevance": "global",
+      "verification_status": "SOURCE_CONFIRMED",
+      "verification_method": "Publisher feed headline and attributed summary",
+      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "source_type": "PUBLISHER",
+      "story_fingerprint": "2ec4e43998b745447439a0ba"
+    },
     {
       "title": "Israel kills two MSF staff in targeted strike on Gaza clinic",
       "url": "https://aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic",
@@ -3984,22 +4000,6 @@
       "evidence_url": "https://thediplomat.com/feed/",
       "source_type": "PUBLISHER",
       "story_fingerprint": "e7e83b1cde6b7e7f305a0859"
-    },
-    {
-      "title": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
-      "url": "https://aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa",
-      "source": "Al Jazeera",
-      "published": "2026-11-23T22:54:47+00:00",
-      "retrieved_at": "2026-11-23T23:09:46.759035+00:00",
-      "feed_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "summary": "President Trump has further postponed the US Army’s planned detonation of nearly five tonnes of lead azide in Iowa.",
-      "category": "global",
-      "relevance": "global",
-      "verification_status": "SOURCE_CONFIRMED",
-      "verification_method": "Publisher feed headline and attributed summary",
-      "evidence_url": "https://www.aljazeera.com/xml/rss/all.xml",
-      "source_type": "PUBLISHER",
-      "story_fingerprint": "ad5856821e06c486e5572de7"
     }
   ],
   "unverified_history": [
